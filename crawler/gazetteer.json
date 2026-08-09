@@ -19,6 +19,11 @@
     "lon": -0.19,
     "region": "Greater Accra"
   },
+  "Achiase": {
+    "lat": 6.1,
+    "lon": -0.95,
+    "region": "Eastern"
+  },
   "Adansi": {
     "lat": 6.2,
     "lon": -1.67,
@@ -33,6 +38,11 @@
     "lat": 6.4,
     "lon": -1.5,
     "region": "Ashanti"
+  },
+  "Afram Plains": {
+    "lat": 6.95,
+    "lon": -0.35,
+    "region": "Eastern"
   },
   "Agona Nkwanta": {
     "lat": 4.92,
@@ -109,6 +119,11 @@
     "lon": -2.2,
     "region": "Western"
   },
+  "Aminasi": {
+    "lat": 6.3,
+    "lon": -2.1,
+    "region": "Ashanti"
+  },
   "Amomaso": {
     "lat": 7.42,
     "lon": -2.52,
@@ -128,6 +143,11 @@
     "lat": 6.3,
     "lon": -2.0,
     "region": "Ashanti"
+  },
+  "Anumso": {
+    "lat": 6.12,
+    "lon": -0.92,
+    "region": "Eastern"
   },
   "Anwia Nkwanta": {
     "lat": 6.3,
@@ -203,6 +223,11 @@
     "lat": 6.25,
     "lon": -0.6,
     "region": "Eastern"
+  },
+  "Atronie": {
+    "lat": 7.3,
+    "lon": -2.28,
+    "region": "Bono"
   },
   "Atwima": {
     "lat": 6.6,
@@ -378,6 +403,16 @@
     "lat": 6.9,
     "lon": -2.3,
     "region": "Ahafo"
+  },
+  "Bosomtwe": {
+    "lat": 6.5,
+    "lon": -1.41,
+    "region": "Ashanti"
+  },
+  "Bosomtwe Range": {
+    "lat": 6.48,
+    "lon": -1.4,
+    "region": "Ashanti"
   },
   "Breman Asikuma": {
     "lat": 5.55,
@@ -594,6 +629,11 @@
     "lon": -2.1,
     "region": "Western"
   },
+  "Jema": {
+    "lat": 7.9,
+    "lon": -1.8,
+    "region": "Bono East"
+  },
   "Jimira": {
     "lat": 6.55,
     "lon": -1.35,
@@ -623,6 +663,11 @@
     "lat": 5.42,
     "lon": -1.38,
     "region": "Central"
+  },
+  "Kenyase": {
+    "lat": 7.0,
+    "lon": -2.38,
+    "region": "Ahafo"
   },
   "Kenyasi": {
     "lat": 7.0,
