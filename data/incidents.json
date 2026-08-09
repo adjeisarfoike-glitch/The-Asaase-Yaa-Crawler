@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-09T14:37:43.854Z",
+  "updated": "2026-08-09T14:47:53.299Z",
   "counts": {
-    "total": 150,
+    "total": 152,
     "verified": 28,
-    "automated": 122,
+    "automated": 124,
     "earliest": "2024-07-01",
     "latest": "2026-08-09"
   },
@@ -30,6 +30,26 @@
       "thread": "t-forestry-western"
     },
     {
+      "id": "auto-2026-08-09-galamsey-becoming-a-pandemic-ghana-needs-united-front-to-fig",
+      "date": "2026-08-09",
+      "category": "forest",
+      "title": "Galamsey becoming a ‘pandemic’; Ghana needs united front to fight it – Eric Adjei",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Legal practitioner and public interest advocate Eric Adjei says the fight against illegal mining, popularly known as galamsey, requires a non-partisan approach and a united national front to safeguard Ghana’s depleting natural resources.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-becoming-a-pandemic-ghana-needs-united-front-to-fight-it-eric-adjei/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-becoming-a-pandemic-ghana-needs-united-front-to-fight-it-eric-adjei/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-09T14:42:52.771Z"
+    },
+    {
       "id": "auto-2026-08-08-honour-august-6-crash-victims-by-fighting-galamsey-dr-zaato",
       "date": "2026-08-08",
       "category": "forest",
@@ -46,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOajg1aTNXeFdMMEVkb09CT3Zha2NOS1pJbnNXc3g1YllWbXFLNmJUVVp1LWxHRjhHR0lNYy1QRVJ4U1lfajkteklLWWdvd2FOYTB2ZVVUQVk0WWdudzROeFRXMm5USVBRMkc5Tk83VGMtdkpOZEJBQlRqalE5Wmx1eFJWYlgxMDZ6LURkcExHMjVnRHJUVjhqajVMR3BnZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-09T14:43:06.026Z"
     },
     {
       "id": "auto-2026-08-08-solve-galamsey-menace-as-promised-ali-sabiku-tells-govt",
@@ -125,7 +146,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/fighting-illegal-mining-needs-something-similar-to-the-24-hour-economy",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-09T14:44:07.498Z"
     },
     {
       "id": "auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme",
@@ -2144,6 +2166,25 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-07-28-galamsey",
+      "date": "2026-07-28",
+      "category": "forest",
+      "title": "Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTV4TlloanhFTEZmTHRCb01NVmt1SHFrYWQ4OWhycXVFeWtIdUJfbVhqbzBrbmdQNFpiZTIxMHhTM3J5NklhN1RfSE16ODl2U0x1WUp1ak9jWmhjRzZLT1NWRzBhelp4cjlkTHdKWURFV0xKTG1ibnRNTVI0UWtUVjBMMGlmek9JdVQwVVZfblR2b2dCZ1pz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTV4TlloanhFTEZmTHRCb01NVmt1SHFrYWQ4OWhycXVFeWtIdUJfbVhqbzBrbmdQNFpiZTIxMHhTM3J5NklhN1RfSE16ODl2U0x1WUp1ak9jWmhjRzZLT1NWRzBhelp4cjlkTHdKWURFV0xKTG1ibnRNTVI0UWtUVjBMMGlmek9JdVQwVVZfblR2b2dCZ1pz?oc=5",
       "via": "rss",
       "verified": false
     },
