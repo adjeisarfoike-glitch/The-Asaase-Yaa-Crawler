@@ -1,0 +1,974 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="__FAVICON__">
+<title>Asaase Yaa Crawler — the galamsey news archive</title>
+<meta name="description" content="A crawler that reads Ghanaian newsrooms every six hours and keeps a permanent, searchable archive of reporting on illegal mining — arrests, forest loss, river pollution, prosecutions and reclamation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  color-scheme:dark;
+  /* Ground is near-neutral, not brown. Warm browns swallowed the amber and red
+     subject colours; neutral lets all six read at a glance. */
+  --ink:#121110; --panel:#1A1917; --raise:#242220; --line:#2E2B28; --edge:#3E3A36;
+  --bone:#F5F1EC; --silt:#ABA49C; --dim:#8A837B;
+
+  --c-arrest:#F0A93A; --c-forest:#F2603C; --c-water:#46B8D4;
+  --c-reclamation:#4FC08D; --c-policy:#A78BFA; --c-prosecution:#EC7BA8;
+  --accent:#F0A93A; --good:#4FC08D;
+  --seal-bg:#F4EADB; --seal-ring:rgba(240,169,58,.4); --seal-shadow:0 6px 22px rgba(0,0,0,.4);
+  --glow:rgba(240,169,58,.06);
+
+  --display:"Bricolage Grotesque",system-ui,sans-serif;
+  --body:"Newsreader",Georgia,serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  --gut:clamp(1.25rem,4vw,3.5rem); --max:1180px;
+}
+[data-theme="light"]{
+  color-scheme:light;
+  --ink:#F7F4EF; --panel:#FFFDF9; --raise:#EDE8DF; --line:#DED7CB; --edge:#C6BCAD;
+  --bone:#191512; --silt:#57504A; --dim:#6E665E;
+
+  --c-arrest:#8C5D0B; --c-forest:#C33C18; --c-water:#0F7C97;
+  --c-reclamation:#15794D; --c-policy:#6141C4; --c-prosecution:#AE3A6B;
+  --accent:#8C5D0B; --good:#15794D;
+  --seal-bg:transparent; --seal-ring:transparent; --seal-shadow:none;
+  --glow:rgba(140,93,11,.05);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;background:var(--ink);color:var(--bone);
+  font-family:var(--body);font-size:clamp(1rem,.5vw + .9rem,1.08rem);line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  background-image:radial-gradient(ellipse 90% 55% at 50% -8%,var(--glow),transparent 60%);
+  transition:background-color .25s ease,color .25s ease;
+}
+h1,h2,h3,h4{font-family:var(--display);font-weight:700;line-height:1.04;letter-spacing:-.025em;margin:0}
+p{margin:0 0 1em}
+a{color:var(--accent)}
+.wrap{max-width:var(--max);margin:0 auto;padding-inline:var(--gut)}
+.eyebrow{font-family:var(--mono);font-size:.66rem;letter-spacing:.22em;text-transform:uppercase;color:var(--silt);display:flex;align-items:center;gap:.7em;margin-bottom:1.3rem}
+.eyebrow::after{content:"";flex:1;height:1px;background:var(--line)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+section{padding:clamp(3rem,6vw,5.5rem) 0}
+.shead{display:flex;align-items:flex-end;justify-content:space-between;gap:2rem;flex-wrap:wrap;margin-bottom:2rem}
+.shead h2{font-size:clamp(1.7rem,3.6vw,2.6rem)}
+.shead p{color:var(--silt);max-width:46ch;margin:0;font-size:.95rem}
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .6s ease,transform .6s ease}
+.reveal.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){
+  .reveal{opacity:1;transform:none;transition:none}
+  .fill,.mbar i{transition:none}
+  html{scroll-behavior:auto}
+  .live i{animation:none}
+}
+
+/* the logo's black hands vanish on the dark ground, so it always sits on a bone seal */
+.seal{display:grid;place-items:center;aspect-ratio:1;background:var(--seal-bg);border-radius:50%;overflow:hidden;flex:none;box-shadow:0 0 0 1px var(--seal-ring),var(--seal-shadow)}
+.seal img{width:88%;height:88%;object-fit:contain;display:block}
+.seal.sm{width:38px}
+.seal.md{width:60px}
+.seal.lg{width:clamp(88px,10vw,116px)}
+
+/* ------------------------------------------------------------ masthead */
+.masthead{position:sticky;top:0;z-index:50;background:color-mix(in srgb, var(--ink) 92%, transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.masthead .wrap{display:flex;align-items:center;gap:1.4rem;height:64px}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;color:var(--bone);margin-right:auto}
+.brand .bt{display:block}
+.brand b{font-family:var(--display);font-weight:800;font-size:1rem;letter-spacing:-.01em;line-height:1.05;display:block}
+.brand .bt span{font-family:var(--mono);font-size:.55rem;letter-spacing:.19em;color:var(--silt);text-transform:uppercase}
+.mnav{display:flex;gap:1.3rem}
+.mnav a{font-family:var(--mono);font-size:.69rem;letter-spacing:.1em;text-transform:uppercase;color:var(--silt);text-decoration:none;transition:color .2s}
+.mnav a:hover{color:var(--accent)}
+.live{font-family:var(--mono);font-size:.63rem;letter-spacing:.1em;color:var(--silt);display:flex;align-items:center;gap:.5em;white-space:nowrap}
+.live i{width:6px;height:6px;border-radius:50%;background:var(--good);animation:blink 2.4s infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}
+.themebtn{
+  background:none;border:1px solid var(--edge);color:var(--silt);cursor:pointer;
+  width:32px;height:32px;border-radius:50%;display:grid;place-items:center;flex:none;transition:.2s;
+}
+.themebtn:hover{border-color:var(--accent);color:var(--accent)}
+.themebtn svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round}
+.themebtn .moon{display:none}
+[data-theme="light"] .themebtn .moon{display:block}
+[data-theme="light"] .themebtn .sun{display:none}
+@media(max-width:900px){.mnav{display:none}}
+@media(max-width:520px){.live b{display:none}}
+
+/* ---------------------------------------------------------------- hero */
+.hero{padding:clamp(3rem,7vw,5.5rem) 0 0}
+.hero-top{display:flex;gap:1.6rem;align-items:center;margin-bottom:0}
+.hero h1{font-size:clamp(2.3rem,6.6vw,4.8rem);font-weight:800;max-width:15ch}
+.hero .lede{font-size:clamp(1.02rem,1.3vw,1.22rem);color:var(--silt);max-width:58ch;margin-top:1.5rem;font-weight:300;line-height:1.62}
+.hero .lede em{color:var(--bone);font-style:italic}
+@media(max-width:640px){.hero-top{flex-direction:column;align-items:flex-start;gap:1.2rem}}
+
+/* counters read as a strip of instrument dials */
+.dials{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin-top:2.6rem}
+.dial{padding:1.3rem 1.1rem;border-left:1px solid var(--line)}
+.dial:first-child{border-left:0;padding-left:0}
+.dial .n{font-family:var(--display);font-weight:800;font-size:clamp(1.5rem,3.2vw,2.5rem);line-height:1;letter-spacing:-.04em}
+.dial .l{font-family:var(--mono);font-size:.63rem;letter-spacing:.13em;text-transform:uppercase;color:var(--silt);margin-top:.6rem;line-height:1.5}
+@media(max-width:700px){
+  .dials{grid-template-columns:1fr 1fr}
+  .dial{padding:1.1rem .9rem;border-top:1px solid var(--line)}
+  .dial:nth-child(odd){border-left:0;padding-left:0}
+  .dial:nth-child(-n+2){border-top:0}
+}
+
+/* ------------------------------------------------- coverage timeline */
+.spool{margin-top:2.6rem}
+.spool-head{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;flex-wrap:wrap;margin-bottom:.9rem}
+.spool-head h2{font-size:1.05rem}
+.spool-head span{font-family:var(--mono);font-size:.63rem;color:var(--dim);letter-spacing:.06em}
+.months{display:flex;gap:2px;align-items:flex-end;height:120px;border-bottom:1px solid var(--line);padding-bottom:2px}
+.mcol{flex:1;min-width:0;cursor:pointer;position:relative;height:100%;background:none;border:0;padding:0}
+.mcol:hover .mbar i,.mcol[aria-pressed="true"] .mbar i{filter:brightness(1.35)}
+.mcol[aria-pressed="true"]::after{content:"";position:absolute;left:0;right:0;bottom:-3px;height:2px;background:var(--accent)}
+.mbar{display:flex;flex-direction:column;justify-content:flex-end;gap:1px;height:100%}
+.mbar i{display:block;width:100%;border-radius:1px;height:0;transition:height .9s cubic-bezier(.2,.8,.2,1)}
+.mbar .tick{display:block;height:2px;background:var(--line);border-radius:1px}
+.mticks{display:flex;gap:2px;margin-top:.5rem}
+.mticks span{flex:1;min-width:0;font-family:var(--mono);font-size:.54rem;color:var(--dim);text-align:center;letter-spacing:.02em;overflow:hidden;white-space:nowrap}
+
+/* ------------------------------------------------------------- search */
+#archive{background:var(--panel);border-block:1px solid var(--line)}
+.searchbar{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin-bottom:1rem}
+.sfield{flex:1 1 260px;position:relative;display:flex;align-items:center}
+.sfield svg{position:absolute;left:.85rem;width:15px;height:15px;stroke:var(--dim);fill:none;stroke-width:2;pointer-events:none}
+.sfield input{width:100%;background:var(--ink);border:1px solid var(--edge);color:var(--bone);font-family:var(--body);font-size:1rem;padding:.75rem .9rem .75rem 2.4rem;border-radius:2px}
+.sfield input::placeholder{color:var(--dim)}
+select.pick{background:var(--ink);border:1px solid var(--edge);color:var(--silt);font-family:var(--mono);font-size:.7rem;letter-spacing:.06em;padding:.75rem .9rem;border-radius:2px}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1.1rem}
+.chip{font-family:var(--mono);font-size:.65rem;letter-spacing:.09em;text-transform:uppercase;background:transparent;color:var(--silt);border:1px solid var(--edge);padding:.4rem .72rem;border-radius:100px;cursor:pointer;transition:.18s;display:inline-flex;align-items:center;gap:.45em}
+.chip:hover{border-color:var(--silt);color:var(--bone)}
+.chip[aria-pressed="true"]{background:var(--line);color:var(--bone);border-color:var(--accent)}
+.chip i{width:7px;height:7px;border-radius:50%;background:currentColor;flex:none}
+.resultline{display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;color:var(--dim);border-top:1px solid var(--line);padding-top:.9rem;margin-bottom:.4rem}
+.clearall{background:none;border:0;color:var(--accent);font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+
+/* --------------------------------------------------------- the record */
+.records{border-top:1px solid var(--line)}
+.rec{display:grid;grid-template-columns:88px 4px minmax(0,1fr);gap:0 1.1rem;padding:1.25rem 0;border-bottom:1px solid var(--line)}
+.rec .when{font-family:var(--mono);font-size:.66rem;color:var(--silt);letter-spacing:.03em;line-height:1.5;padding-top:.2rem}
+.rec .when s{display:block;color:var(--dim);text-decoration:none;font-size:.58rem;letter-spacing:.12em;text-transform:uppercase;margin-top:.35rem}
+.rail{border-radius:2px;opacity:.9}
+.rec h3{font-size:1.12rem;line-height:1.24;margin-bottom:.45rem}
+.rec .where{font-family:var(--mono);font-size:.63rem;color:var(--dim);letter-spacing:.06em;margin-bottom:.55rem}
+.rec .where b{color:var(--silt);font-weight:400}
+.rec .where.unplaced{color:var(--c-policy);opacity:.85}
+.rec p{font-size:.92rem;color:var(--silt);margin:0 0 .7rem;line-height:1.55;max-width:74ch}
+.figs{display:flex;flex-wrap:wrap;gap:.35rem;margin-bottom:.7rem}
+.figs b{font-family:var(--mono);font-size:.63rem;font-weight:500;letter-spacing:.03em;background:var(--line);color:var(--bone);padding:.28rem .55rem;border-radius:2px}
+.figs b s{color:var(--accent);text-decoration:none}
+.links{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;font-family:var(--mono);font-size:.64rem;letter-spacing:.06em}
+.links a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb, var(--accent) 32%, transparent);padding-bottom:1px}
+.links a:hover{border-bottom-color:var(--accent)}
+.links .thread{
+  font:inherit;color:var(--c-policy);background:none;cursor:pointer;
+  border:1px solid color-mix(in srgb, var(--c-policy) 45%, transparent);
+  padding:.2rem .6rem;border-radius:100px;letter-spacing:.06em;transition:.18s;
+}
+.links .thread:hover{background:color-mix(in srgb, var(--c-policy) 14%, transparent);color:var(--bone)}
+.links .lead{color:var(--dim);border:1px solid var(--line);padding:.2rem .5rem;border-radius:100px;letter-spacing:.1em;text-transform:uppercase;font-size:.56rem}
+@media(max-width:600px){
+  .rec{grid-template-columns:4px minmax(0,1fr);gap:0 .9rem}
+  .rec .when{grid-column:2;padding-top:0;margin-bottom:.5rem}
+  .rec .when s{display:inline;margin:0 0 0 .6rem}
+}
+.noresult{padding:3rem 0;text-align:center}
+.noresult h3{font-size:1.2rem;margin-bottom:.6rem}
+.noresult p{color:var(--silt);max-width:38ch;margin:0 auto 1.2rem;font-size:.94rem}
+.more{display:block;margin:1.6rem auto 0;background:transparent;border:1px solid var(--edge);color:var(--silt);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;padding:.7rem 1.6rem;cursor:pointer;border-radius:100px;transition:.2s}
+.more:hover{border-color:var(--accent);color:var(--accent)}
+
+/* ------------------------------------------------------------ rollups */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:3rem}
+@media(max-width:860px){.two{grid-template-columns:1fr;gap:2.4rem}}
+.bars{border-top:1px solid var(--line)}
+.bar{display:grid;grid-template-columns:minmax(96px,auto) 1fr auto;gap:1rem;align-items:center;padding:.7rem 0;border:0;border-bottom:1px solid var(--line);width:100%;background:none;cursor:pointer;text-align:left;color:inherit;font:inherit}
+.bar:hover .bt2{color:var(--bone)}
+.bar[aria-pressed="true"] .bt2{color:var(--bone);font-weight:700}
+.bar[aria-pressed="true"] .btrack{outline:1px solid var(--accent);outline-offset:1px}
+.bar[aria-pressed="true"] .bnum{color:var(--accent)}
+.bt2{font-family:var(--mono);font-size:.72rem;color:var(--silt);letter-spacing:.04em;transition:color .2s}
+.btrack{height:8px;background:var(--line);border-radius:1px;overflow:hidden}
+.fill{display:block;height:100%;width:0;transition:width 1s cubic-bezier(.2,.8,.2,1)}
+.bnum{font-family:var(--mono);font-size:.72rem;color:var(--bone);white-space:nowrap}
+.bnum s{color:var(--dim);text-decoration:none;font-size:.62rem}
+
+/* ----------------------------------------------------------- pipeline */
+.pipe{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.step{background:var(--ink);padding:1.25rem}
+.step .num{margin:0 0 .65rem;font-family:var(--mono);font-size:.6rem;color:var(--accent);letter-spacing:.16em;margin-bottom:.65rem}
+.step h3{font-size:.98rem;margin-bottom:.4rem}
+.step p{font-size:.85rem;color:var(--silt);margin:0;line-height:1.55}
+.reachlist{margin:0;display:grid;gap:1px;background:var(--line);border:1px solid var(--line)}
+.reachlist>div{background:var(--ink);padding:1.1rem 1.25rem;display:grid;grid-template-columns:minmax(120px,180px) minmax(120px,180px) 1fr;gap:1rem;align-items:baseline}
+.reachlist dt{font-family:var(--display);font-weight:700;font-size:.98rem}
+.reachlist dd{margin:0;font-family:var(--mono);font-size:.72rem;color:var(--accent);letter-spacing:.06em}
+.reachlist dd.note{font-family:var(--body);font-size:.88rem;color:var(--silt);letter-spacing:0;line-height:1.55}
+@media(max-width:760px){.reachlist>div{grid-template-columns:1fr;gap:.35rem}}
+pre.code{background:var(--panel);border:1px solid var(--line);border-left:2px solid var(--good);padding:1rem 1.1rem;overflow-x:auto;font-family:var(--mono);font-size:.71rem;line-height:1.7;color:var(--silt);margin:1.4rem 0 0}
+pre.code .k{color:var(--accent)}
+
+/* ------------------------------------------------------------- report */
+#tip{background:var(--panel);border-block:1px solid var(--line)}
+.field{margin-bottom:.9rem}
+.field label{display:block;font-family:var(--mono);font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--silt);margin-bottom:.4rem}
+.field input,.field select,.field textarea{width:100%;background:var(--ink);border:1px solid var(--edge);color:var(--bone);font-family:var(--body);font-size:.95rem;padding:.6rem .8rem;border-radius:2px}
+.field textarea{min-height:96px;resize:vertical;line-height:1.5}
+.field input::placeholder,.field textarea::placeholder{color:var(--dim)}
+.btn{background:var(--accent);color:var(--ink);border:0;font-family:var(--mono);font-weight:700;font-size:.71rem;letter-spacing:.12em;text-transform:uppercase;padding:.8rem 1.4rem;border-radius:2px;cursor:pointer;transition:.2s}
+.btn:hover{filter:brightness(1.1)}
+.btn.ghost{background:transparent;color:var(--silt);border:1px solid var(--edge);font-weight:400}
+.btn.ghost:hover{color:var(--bone);border-color:var(--silt)}
+.btnrow{display:flex;gap:.6rem;flex-wrap:wrap}
+.out{margin-top:1rem;background:var(--ink);border:1px solid var(--edge);border-left:2px solid var(--accent);padding:1rem;font-family:var(--mono);font-size:.71rem;line-height:1.75;color:var(--silt);white-space:pre-wrap;word-break:break-word;display:none}
+.out.on{display:block}
+.channels dt{font-family:var(--display);font-weight:700;font-size:.94rem;margin-top:.85rem}
+.channels dd{margin:.2rem 0 0;font-size:.86rem;color:var(--silt)}
+.channels dd code{font-family:var(--mono);font-size:.79rem;color:var(--accent)}
+
+/* -------------------------------------------------------------- footer */
+footer{border-top:1px solid var(--line);padding:3rem 0 4rem;font-size:.85rem;color:var(--silt)}
+.fgrid{display:flex;justify-content:space-between;gap:2rem;flex-wrap:wrap;align-items:flex-start}
+footer strong{color:var(--bone);font-family:var(--display);font-size:1rem;display:block;margin-bottom:.3rem}
+footer a{color:var(--silt)}
+.hint{font-family:var(--mono);font-size:.63rem;color:var(--c-policy);letter-spacing:.05em;line-height:1.8;margin-top:.9rem}
+.fine{font-family:var(--mono);font-size:.61rem;color:var(--dim);line-height:1.9;letter-spacing:.03em;max-width:64ch;margin-top:2rem;border-top:1px solid var(--line);padding-top:1.3rem}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <a class="brand" href="#top">
+      <span class="seal sm"><img src="__LOGO__" alt=""></span>
+      <span class="bt"><b>Asaase Yaa Crawler</b><span>Galamsey news archive</span></span>
+    </a>
+    <nav class="mnav">
+      <a href="#archive">Archive</a>
+      <a href="#subjects">Subjects</a>
+      <a href="#sources">Sources</a>
+      <a href="#how">How it works</a>
+      <a href="#tip">Report a site</a>
+    </nav>
+    <div class="live"><i></i><b>Last crawl&nbsp;</b><time id="stamp">—</time></div>
+    <button class="themebtn" id="theme" type="button" aria-label="Switch to light theme" title="Switch theme">
+      <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4"/></svg>
+      <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 019.5 4a8.5 8.5 0 105 10.5z"/></svg>
+    </button>
+  </div>
+</header>
+
+<div id="top" class="hero">
+  <div class="wrap">
+    <div class="hero-top">
+      <span class="seal lg"><img src="__LOGO__" alt="Save Asaase Yaa"></span>
+      <h1>Nothing about galamsey should go missing.</h1>
+    </div>
+    <p class="lede">
+      Ghanaian news sites reorganise, paywall and go dark, and reporting on illegal mining
+      disappears with them. This crawler reads the newsrooms every six hours, keeps what is
+      about galamsey, and holds it &mdash; <em>headline, date, place, figures, source and a
+      snapshot</em> &mdash; in one archive you can search.
+    </p>
+
+    <div class="dials">
+      <div class="dial"><div class="n" id="d-total">0</div><div class="l">Reports archived</div></div>
+      <div class="dial"><div class="n" id="d-src">0</div><div class="l">Outlets tracked</div></div>
+      <div class="dial"><div class="n" id="d-span">0</div><div class="l">Months with coverage</div></div>
+      <div class="dial"><div class="n" id="d-ver">0</div><div class="l">Verified by hand</div></div>
+    </div>
+
+    <div class="spool reveal">
+      <div class="spool-head">
+        <h2>Coverage by month</h2>
+        <span>Click a month to filter the archive</span>
+      </div>
+      <div class="months" id="months" role="group" aria-label="Filter by month"></div>
+      <div class="mticks" id="mticks"></div>
+    </div>
+  </div>
+</div>
+
+<section id="archive">
+  <div class="wrap">
+    <div class="shead reveal">
+      <div>
+        <p class="eyebrow">The archive</p>
+        <h2>Search everything held</h2>
+      </div>
+      <p>Every record keeps a link to the original and to a snapshot, so it survives the page being taken down.</p>
+    </div>
+
+    <div class="searchbar">
+      <label class="sfield">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+        <input id="q" type="search" placeholder="Search headlines, places, outlets — try Samreboi, or Oda River" aria-label="Search the archive">
+      </label>
+      <select class="pick" id="src-pick" aria-label="Filter by outlet"></select>
+      <select class="pick" id="sort-pick" aria-label="Sort order">
+        <option value="new">Newest first</option>
+        <option value="old">Oldest first</option>
+      </select>
+    </div>
+
+    <div class="chips" id="chips" role="group" aria-label="Filter by subject"></div>
+
+    <div class="resultline">
+      <span id="count">&mdash;</span>
+      <button class="clearall" id="clear" hidden>Clear all filters</button>
+    </div>
+
+    <div class="records" id="records"></div>
+    <button class="more" id="more">Show more</button>
+  </div>
+</section>
+
+<section id="subjects">
+  <div class="wrap">
+    <div class="shead reveal">
+      <div>
+        <p class="eyebrow">What the archive holds</p>
+        <h2>Subjects and places</h2>
+      </div>
+      <p>Counts of records, not of events. A region appearing rarely may mean little coverage rather than little mining.</p>
+    </div>
+    <div class="two">
+      <div class="reveal">
+        <p class="eyebrow">By subject</p>
+        <div class="bars" id="bars-cat"></div>
+      </div>
+      <div class="reveal">
+        <p class="eyebrow">By region</p>
+        <div class="bars" id="bars-reg"></div>
+        <p class="hint" id="unplaced-hint" hidden></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="sources" style="background:var(--panel);border-block:1px solid var(--line)">
+  <div class="wrap">
+    <div class="shead reveal">
+      <div>
+        <p class="eyebrow">Provenance</p>
+        <h2>Who is doing the reporting</h2>
+      </div>
+      <p>Outlets ranked by how much of this archive they wrote, with the date each was last seen covering illegal mining.</p>
+    </div>
+    <div class="bars reveal" id="bars-src"></div>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <div class="shead reveal">
+      <div>
+        <p class="eyebrow">How it works</p>
+        <h2>Read, filter, classify, keep</h2>
+      </div>
+      <p>A scheduled job, not a live service. News sites do not let a browser fetch their feeds directly, so the crawler runs on a timer and commits what it finds.</p>
+    </div>
+
+    <div class="pipe reveal">
+      <div class="step"><p class="num">READ</p><h3>Feeds, every six hours</h3>
+        <p>RSS from Ghanaian newsrooms plus targeted news queries for galamsey, NAIMOS operations, forest reserves and river turbidity.</p></div>
+      <div class="step"><p class="num">FILTER</p><h3>Keep what is on topic</h3>
+        <p>An item survives only if it mentions illegal mining, excavators, changfan, forest reserves or a named task force.</p></div>
+      <div class="step"><p class="num">CLASSIFY</p><h3>Sort and count</h3>
+        <p>Each item is typed by subject, and any figures for arrests, excavators, hectares or NTU are pulled out of the text.</p></div>
+      <div class="step"><p class="num">PLACE</p><h3>Match to a location</h3>
+        <p>Text is matched against a gazetteer of 140 Ghanaian mining towns, reserves and rivers. Nothing is guessed at.</p></div>
+      <div class="step"><p class="num">KEEP</p><h3>Snapshot and hold</h3>
+        <p>New links are pushed to the Internet Archive in the background, so a copy survives even when the original page is taken down.</p></div>
+      <div class="step"><p class="num">FOLLOW</p><h3>Link reports into stories</h3>
+        <p>Records sharing distinctive names — a company, a concession, a defendant — are threaded together, so a case can be read from the raid through to the verdict.</p></div>
+      <div class="step"><p class="num">REACH BACK</p><h3>Backfill the years before</h3>
+        <p>A separate pass mines the GDELT news index and the Internet Archive's URL index for coverage published long before this crawler existed.</p></div>
+    </div>
+
+    <div class="reach">
+      <p class="eyebrow" style="margin-top:2.4rem">How far back it reaches</p>
+      <dl class="reachlist">
+        <div><dt>Live feeds</dt><dd>Days to weeks</dd>
+          <dd class="note">RSS carries only the last few dozen items. The forward crawl builds the archive from the day it starts running.</dd></div>
+        <div><dt>GDELT index</dt><dd>2017 onward</dd>
+          <dd class="note">Real headlines, real publish dates, structured and reliable — but the index simply does not exist before January 2017.</dd></div>
+        <div><dt>Wayback URL index</dt><dd>Roughly 2010 onward</dd>
+          <dd class="note">Reaches as far back as the Archive crawled each outlet, but only recovers a headline where the outlet put it in the web address. Ghanaian sites moved to readable addresses between 2010 and 2014; before that most articles were numbered, and the text is unrecoverable this way.</dd></div>
+      </dl>
+    </div>
+
+    <pre class="code"><span class="k"># run it once</span>
+node crawler/crawl.js
+
+<span class="k"># run it and snapshot every new link to the Internet Archive</span>
+ARCHIVE=1 node crawler/crawl.js
+
+<span class="k"># reach backwards through years already published</span>
+node crawler/backfill.js gdelt   2017 2026
+node crawler/backfill.js wayback 2010 2016
+
+<span class="k"># or let GitHub Actions run the forward crawl every six hours</span>
+.github/workflows/crawl.yml → writes <span class="k">data/incidents.json</span></pre>
+
+    <p class="fine">
+      Records marked verified were read from the published source and checked by hand; the crawler never overwrites them. Everything else carries the outlet's own headline and is a lead, not a finding. Figures are reproduced as their sources state them. Named individuals and companies appear only as their sources named them, and allegations are recorded as allegations.
+    </p>
+  </div>
+</section>
+
+<section id="tip">
+  <div class="wrap">
+    <div class="shead reveal">
+      <div>
+        <p class="eyebrow">Community reporting</p>
+        <h2>Report a site</h2>
+      </div>
+      <p>The crawler only finds what newsrooms publish. Some things nobody has reported yet.</p>
+    </div>
+    <div class="two">
+      <form id="rform" novalidate>
+        <div class="field"><label for="f-place">Where — town, river or reserve</label>
+          <input id="f-place" placeholder="e.g. Odaho, along the Oda River"></div>
+        <div class="field"><label for="f-region">Region</label><select id="f-region"></select></div>
+        <div class="field"><label for="f-what">What you saw</label>
+          <select id="f-what">
+            <option>Active pit or washing plant</option>
+            <option>Excavators or heavy equipment</option>
+            <option>Mining inside a forest reserve</option>
+            <option>Changfan on a river</option>
+            <option>River discoloured or silted</option>
+            <option>Farmland or cocoa destroyed</option>
+            <option>Abandoned pit left unfilled</option>
+          </select></div>
+        <div class="field"><label for="f-when">When</label><input id="f-when" type="date"></div>
+        <div class="field"><label for="f-note">Anything else worth recording</label>
+          <textarea id="f-note" placeholder="Time of day, how many machines, which direction from the nearest landmark. Leave out anything that identifies you if that puts you at risk."></textarea></div>
+        <div class="btnrow">
+          <button type="submit" class="btn">Build the report</button>
+          <button type="button" class="btn ghost" id="copyBtn">Copy</button>
+        </div>
+        <div class="out" id="rout"></div>
+      </form>
+      <div>
+        <dl class="channels">
+          <dt>Before you send anything</dt>
+          <dd>Do not confront anyone and do not photograph people. Note the place, not the faces. Illegal mining sites are guarded, and reporters have been threatened.</dd>
+          <dt>NAIMOS</dt>
+          <dd>The National Anti-Illegal Mining Operations Secretariat runs the joint task forces behind most of the arrests in this archive.</dd>
+          <dt>Forestry Commission</dt>
+          <dd>For anything inside a gazetted forest reserve.</dd>
+          <dt>Ghana Police Service</dt>
+          <dd>Emergency <code>191</code> or <code>112</code>. Ask for the District Commander if equipment is on site now.</dd>
+          <dt>EPA Ghana</dt>
+          <dd>For water discolouration, chemical smells, fish kills, or an abandoned pit left unfilled.</dd>
+        </dl>
+        <p class="fine" style="border-top:0;padding-top:1rem">Nothing you type here leaves your device. This form builds text for you to send yourself — it is not connected to any agency.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap fgrid">
+    <div style="max-width:32ch">
+      <span class="seal md" style="margin-bottom:1rem"><img src="__LOGO__" alt=""></span>
+      <strong>Asaase Yaa Crawler</strong>
+      <p style="margin:0">A searchable archive of Ghanaian reporting on illegal mining. A project of Save Asaase Yaa.</p>
+    </div>
+    <div>
+      <strong>The site</strong>
+      <p style="margin:0"><a href="#archive">Archive</a> · <a href="#subjects">Subjects</a><br>
+      <a href="#sources">Sources</a> · <a href="#how">How it works</a><br><a href="#tip">Report a site</a></p>
+    </div>
+    <div>
+      <strong>The archive</strong>
+      <p style="margin:0"><span id="f-count">—</span> records held<br><span id="f-ver">—</span> verified by hand<br>Last crawl <span id="f-stamp">—</span></p>
+    </div>
+  </div>
+  <div class="wrap">
+    <p class="fine">Not affiliated with the Government of Ghana, the Forestry Commission, NAIMOS or the EPA. Copyright in every article stays with the outlet that published it — this archive holds headlines, short summaries and links, and sends you to the source to read.</p>
+  </div>
+</footer>
+
+<script id="seed-data" type="application/json">__SEED_JSON__</script>
+<script>
+(() => {
+'use strict';
+
+const CATS = {
+  arrest:      { label:'Arrests',      color:'var(--c-arrest)' },
+  forest:      { label:'Forest loss',  color:'var(--c-forest)' },
+  water:       { label:'Water',        color:'var(--c-water)' },
+  reclamation: { label:'Reclamation',  color:'var(--c-reclamation)' },
+  policy:      { label:'Policy',       color:'var(--c-policy)' },
+  prosecution: { label:'Prosecutions', color:'var(--c-prosecution)' }
+};
+const WORDS = {
+  arrests:'arrested', excavators:'excavators', hectares:'hectares', acres:'acres',
+  reserves:'reserves', changfan:'changfan destroyed', structures:'camps demolished',
+  ntu:'NTU', ntuLow:'NTU low', ntuHigh:'NTU peak', usdPerKm:'USD per km',
+  years:'year sentence', cocoaTonnes:'tonnes of cocoa', cocoaAcresLost:'acres of cocoa lost', pollutedShare:'% of water bodies'
+};
+
+const VIA = { rss:'from feed', gdelt:'from GDELT', wayback:'from Wayback' };
+const $ = s => document.querySelector(s);
+const $$ = s => Array.from(document.querySelectorAll(s));
+const mq = q => typeof window.matchMedia === 'function' && window.matchMedia(q).matches;
+const scrollTo = sel => { const n = $(sel); if (n && n.scrollIntoView) n.scrollIntoView({ behavior:'smooth' }); };
+const esc = s => String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const fmt = n => n.toLocaleString('en-GB',{maximumFractionDigits:1});
+function dateLabel(d){
+  const t = new Date(d + 'T00:00:00');
+  if (Number.isNaN(t.getTime())) return 'Date unknown';
+  return t.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
+}
+const monthKey = d => d.slice(0,7);
+const catOf = d => CATS[d.category] || CATS.forest;
+// Wayback's /web/2/ prefix always resolves to the most recent snapshot of a URL.
+// Only http(s) becomes a link. A record could carry a javascript: or data: URL
+// from a tampered incidents.json or a hostile feed item, and it would otherwise
+// render as something clickable.
+const safeUrl = u => (typeof u === 'string' && /^https?:\/\//i.test(u)) ? u : null;
+
+// Records can arrive malformed — a hand-edited seed, a truncated crawl, a
+// tampered incidents.json. Normalise once here so nothing downstream has to
+// guard every field access.
+function coerce(list){
+  return (Array.isArray(list) ? list : []).filter(r => r && r.title).map(r => ({
+    id: r.id || ('x-' + Math.random().toString(36).slice(2)),
+    date: /^\d{4}-\d{2}-\d{2}$/.test(r.date) ? r.date : '',
+    category: CATS[r.category] ? r.category : 'forest',
+    title: String(r.title),
+    place: r.place || null,
+    region: r.region || 'Unplaced',
+    summary: r.summary ? String(r.summary) : '',
+    metrics: (r.metrics && typeof r.metrics === 'object') ? r.metrics : {},
+    source: {
+      name: (r.source && r.source.name) ? String(r.source.name) : 'Source',
+      url: (r.source && typeof r.source.url === 'string') ? r.source.url : ''
+    },
+    thread: r.thread || '',
+    via: r.via || '',
+    verified: !!r.verified
+  }));
+}
+
+let DATA = coerce(JSON.parse($('#seed-data').textContent));
+let updated = null;
+
+const PAGE = 20;
+const state = { q:'', cats:new Set(), source:'', region:'', month:'', thread:'', sort:'new', shown:PAGE, theme:null };
+
+function applyTheme(t){
+  const light = t === 'light' || (t === null && mq('(prefers-color-scheme: light)'));
+  document.documentElement.setAttribute('data-theme', light ? 'light' : 'dark');
+  const btn = $('#theme');
+  btn.setAttribute('aria-label', light ? 'Switch to dark theme' : 'Switch to light theme');
+}
+
+function matches(d){
+  if (state.cats.size && !state.cats.has(d.category)) return false;
+  if (state.source && d.source.name !== state.source) return false;
+  if (state.region && d.region !== state.region) return false;
+  if (state.thread && d.thread !== state.thread) return false;
+  if (state.month && monthKey(d.date) !== state.month) return false;
+  if (state.q) {
+    const hay = (d.title + ' ' + d.summary + ' ' + d.place + ' ' + d.region + ' ' + d.source.name).toLowerCase();
+    if (!state.q.toLowerCase().split(/\s+/).every(t => hay.includes(t))) return false;
+  }
+  return true;
+}
+function results(){
+  const r = DATA.filter(matches);
+  // A story reads forwards: raid, then charge, then verdict.
+  const order = state.thread ? 'old' : state.sort;
+  r.sort((a,b) => {
+    if (!a.date) return 1;        // undated records sink to the bottom
+    if (!b.date) return -1;
+    return order === 'new' ? b.date.localeCompare(a.date) : a.date.localeCompare(b.date);
+  });
+  return r;
+}
+const filtered = () => !!(state.q || state.cats.size || state.source || state.region || state.month || state.thread);
+
+/* ---------------------------------------------------------------- records */
+const threadSize = t => t ? DATA.filter(d => d.thread === t).length : 0;
+
+function links(d){
+  const src = safeUrl(d.source && d.source.url);
+  const name = esc((d.source && d.source.name) || 'Source');
+  return src ? '<a href="' + esc(src) + '" target="_blank" rel="noopener">' + name + ' ↗</a>'
+             : '<span style="color:var(--dim)">' + name + ' — no usable link</span>';
+}
+
+function drawRecords(){
+  const list = results();
+  const box = $('#records');
+
+  if (!list.length) {
+    box.innerHTML = filtered()
+      ? '<div class="noresult"><h3>Nothing in the archive matches that</h3>' + '<p>The crawler only holds what Ghanaian newsrooms have published about illegal mining. Try a place name, an outlet, or clear the filters.</p>' +
+        '<button class="more" style="margin:0 auto" id="reset">Clear all filters</button></div>'
+      : '<div class="noresult"><h3>The archive is empty</h3>' + '<p>No reports have been crawled yet. Run <code>node crawler/crawl.js</code> to read the feeds, or <code>node crawler/backfill.js gdelt</code> to pull in past coverage.</p></div>';
+    const reset = $('#reset'); if (reset) reset.onclick = clearAll;
+    $('#more').style.display = 'none';
+    $('#count').textContent = filtered() ? 'NO MATCHES' : 'NOTHING CRAWLED YET';
+    $('#clear').hidden = !filtered();
+    return;
+  }
+
+  box.innerHTML = list.slice(0, state.shown).map(d => {
+    const c = catOf(d);
+    const figs = Object.entries(d.metrics || {})
+      .filter(([, v]) => typeof v === 'number' && isFinite(v) && v > 0)
+      .map(([k,v]) => '<b><s>' + fmt(v) + '</s> ' + (WORDS[k] || k) + '</b>').join('');
+    return '<article class="rec">' +
+      '<div class="when">' + dateLabel(d.date) + '<s style="color:' + c.color + '">' + c.label + '</s></div>' +
+      '<div class="rail" style="background:' + c.color + '"></div>' +
+      '<div>' +
+        '<h3>' + esc(d.title) + '</h3>' +
+        (d.place
+          ? '<div class="where"><b>' + esc(d.place) + '</b> · ' + esc(d.region) + '</div>'
+          : '<div class="where unplaced">No place identified — add its town to the gazetteer</div>') +
+        '<p>' + esc(d.summary) + '</p>' +
+        (figs ? '<div class="figs">' + figs + '</div>' : '') +
+        '<div class="links">' + links(d) +
+          (d.verified ? '' : '<span class="lead">Lead' + (VIA[d.via] ? ' · ' + VIA[d.via] : '') + '</span>') +
+          (threadSize(d.thread) > 1
+            ? '<button class="thread" type="button" data-t="' + esc(d.thread) + '">' +
+              'Follow this story — ' + threadSize(d.thread) + ' reports</button>'
+            : '') +
+        '</div>' +
+      '</div></article>';
+  }).join('');
+
+  $$('.rec .thread').forEach(b => b.onclick = () => {
+    state.thread = state.thread === b.dataset.t ? '' : b.dataset.t;
+    state.shown = PAGE; refresh(); scrollTo('#archive');
+  });
+  $('#count').textContent = list.length + ' RECORD' + (list.length === 1 ? '' : 'S') +
+    (filtered() ? ' OF ' + DATA.length : '');
+  $('#clear').hidden = !filtered();
+  $('#more').style.display = state.shown >= list.length ? 'none' : 'block';
+  $('#more').textContent = 'Show more — ' + (list.length - state.shown) + ' remaining';
+}
+
+/* --------------------------------------------------------------- timeline */
+function drawSpool(){
+  const spool = $('.spool');
+  const keys = DATA.map(d => monthKey(d.date)).filter(k => /^\d{4}-\d{2}$/.test(k)).sort();
+  spool.hidden = !keys.length;
+  if (!keys.length) return;
+  const first = keys[0].split('-').map(Number);
+  const last  = keys[keys.length-1].split('-').map(Number);
+  let months = [];
+  for (let y = first[0], m = first[1]; y < last[0] || (y === last[0] && m <= last[1]); m++) {
+    if (m > 12) { m = 1; y++; if (y > last[0]) break; }
+    months.push(y + '-' + String(m).padStart(2,'0'));
+  }
+  // Long archives get crowded, so only the most recent two years are shown.
+  if (months.length > 24) months = months.slice(-24);
+
+  const byMonth = {};
+  DATA.forEach(d => {
+    const k = monthKey(d.date);
+    if (!byMonth[k]) byMonth[k] = {};
+    byMonth[k][d.category] = (byMonth[k][d.category] || 0) + 1;
+  });
+  const totalIn = k => Object.values(byMonth[k] || {}).reduce((a,b) => a+b, 0);
+  const max = Math.max(1, ...months.map(totalIn));
+
+  $('#months').innerHTML = months.map(k => {
+    const counts = byMonth[k] || {};
+    const total = totalIn(k);
+    const stack = Object.keys(CATS).filter(key => counts[key])
+      .map(key => '<i style="background:' + CATS[key].color + '" data-h="' + (counts[key]/max*100) + '"></i>').join('');
+    const label = new Date(k + '-01T00:00:00').toLocaleDateString('en-GB',{month:'long',year:'numeric'});
+    return '<button class="mcol" type="button" data-m="' + k + '" aria-pressed="false" title="' +
+      label + ': ' + total + ' record' + (total === 1 ? '' : 's') + '" aria-label="' + label + ', ' + total + ' records">' +
+      '<span class="mbar">' + (stack || '<span class="tick"></span>') + '</span></button>';
+  }).join('');
+
+  $('#mticks').innerHTML = months.map((k,i) => {
+    const m = k.split('-')[1];
+    if (m === '01') return '<span>' + k.split('-')[0] + '</span>';
+    if (i === 0) return '<span>' + new Date(k + '-01T00:00:00').toLocaleDateString('en-GB',{month:'short'}) + '</span>';
+    return '<span></span>';
+  }).join('');
+
+  $$('.mcol').forEach(b => b.onclick = () => {
+    state.month = state.month === b.dataset.m ? '' : b.dataset.m;
+    $$('.mcol').forEach(x => x.setAttribute('aria-pressed', String(x.dataset.m === state.month)));
+    state.shown = PAGE; refresh();
+    if (state.month) scrollTo('#archive');
+  });
+}
+
+/* ------------------------------------------------------------------ chips */
+function drawChips(){
+  $('#chips').innerHTML = Object.keys(CATS).map(key => {
+    const n = DATA.filter(d => d.category === key).length;
+    return '<button class="chip" type="button" data-c="' + key + '" aria-pressed="false">' +
+      '<i style="background:' + CATS[key].color + '"></i>' + CATS[key].label +
+      ' <span style="opacity:.55">' + n + '</span></button>';
+  }).join('');
+  $$('#chips .chip').forEach(b => b.onclick = () => {
+    const k = b.dataset.c;
+    if (state.cats.has(k)) state.cats.delete(k); else state.cats.add(k);
+    b.setAttribute('aria-pressed', String(state.cats.has(k)));
+    state.shown = PAGE; refresh();
+  });
+}
+
+/* ---------------------------------------------------------------- rollups */
+function barRow(label, n, max, color, extra, pressed){
+  return '<button class="bar" type="button" aria-pressed="' + (pressed ? 'true' : 'false') + '">' +
+    '<span class="bt2">' + esc(label) + '</span>' +
+    '<span class="btrack"><span class="fill" data-w="' + (n/max*100).toFixed(1) + '" style="background:' + color + '"></span></span>' +
+    '<span class="bnum">' + n + (extra ? ' <s>· ' + extra + '</s>' : '') + '</span></button>';
+}
+
+function drawRollups(){
+  const cats = Object.keys(CATS)
+    .map(k => [k, DATA.filter(d => d.category === k).length])
+    .filter(x => x[1]).sort((a,b) => b[1]-a[1]);
+  const cmax = Math.max(1, ...cats.map(x => x[1]));
+  $('#bars-cat').innerHTML = cats.map(x => barRow(CATS[x[0]].label, x[1], cmax, CATS[x[0]].color)).join('');
+  $$('#bars-cat .bar').forEach((b,i) => b.onclick = () => {
+    const key = cats[i][0];
+    state.cats = state.cats.size === 1 && state.cats.has(key) ? new Set() : new Set([key]);
+    $$('#chips .chip').forEach(c => c.setAttribute('aria-pressed', String(c.dataset.c === key)));
+    state.shown = PAGE; refresh(); scrollTo('#archive');
+  });
+
+  const regs = {};
+  DATA.forEach(d => regs[d.region] = (regs[d.region] || 0) + 1);
+  const rlist = Object.entries(regs).sort((a,b) => b[1]-a[1]).slice(0,12);
+  const rmax = Math.max(1, ...rlist.map(x => x[1]));
+  $('#bars-reg').innerHTML = rlist.map(x => barRow(x[0], x[1], rmax, 'var(--dim)')).join('');
+  $$('#bars-reg .bar').forEach((b,i) => b.onclick = () => {
+    const r = rlist[i][0];
+    state.region = state.region === r ? '' : r;
+    state.shown = PAGE; refresh(); scrollTo('#archive');
+  });
+
+  const nUnplaced = regs['Unplaced'] || 0;
+  const hint = $('#unplaced-hint');
+  hint.hidden = !nUnplaced;
+  if (nUnplaced) hint.textContent =
+    nUnplaced + ' record' + (nUnplaced === 1 ? '' : 's') + ' name no place the gazetteer knows. ' +
+    'They are kept, not dropped — open them, and add the town to crawler/gazetteer.json.';
+
+  const srcs = {};
+  DATA.forEach(d => {
+    if (!srcs[d.source.name]) srcs[d.source.name] = { n:0, last:'' };
+    const s = srcs[d.source.name];
+    s.n++; if (d.date > s.last) s.last = d.date;
+  });
+  const slist = Object.entries(srcs).sort((a,b) => b[1].n - a[1].n);
+  const smax = Math.max(1, ...slist.map(x => x[1].n));
+  $('#bars-src').innerHTML = slist.map(x =>
+    barRow(x[0], x[1].n, smax, 'var(--accent)', dateLabel(x[1].last), state.source === x[0])).join('');
+  $$('#bars-src .bar').forEach((b,i) => b.onclick = () => {
+    const name = slist[i][0];
+    state.source = state.source === name ? '' : name;
+    $('#src-pick').value = state.source;
+    state.shown = PAGE; refresh(); scrollTo('#archive');
+  });
+
+  $('#src-pick').innerHTML = '<option value="">All outlets</option>' +
+    slist.map(x => '<option value="' + esc(x[0]) + '">' + esc(x[0]) + '</option>').join('');
+}
+
+/* ------------------------------------------------------------------ dials */
+function count(node, target){
+  if (mq('(prefers-reduced-motion: reduce)')) { node.textContent = target.toLocaleString('en-GB'); return; }
+  const t0 = performance.now(), dur = 1200;
+  const tick = t => {
+    const p = Math.min(1,(t-t0)/dur), e = 1 - Math.pow(1-p,3);
+    node.textContent = Math.round(target*e).toLocaleString('en-GB');
+    if (p < 1) requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+}
+// Filters live in three places — chips, bars and selects — so every change
+// repaints all of them from state rather than each control minding itself.
+function refresh(){
+  drawRecords();
+  paintPressed();
+  sync();
+}
+function paintPressed(){
+  const cats = Object.keys(CATS).filter(k => DATA.some(d => d.category === k))
+    .sort((a,b) => DATA.filter(d=>d.category===b).length - DATA.filter(d=>d.category===a).length);
+  $$('#bars-cat .bar').forEach((b,i) => b.setAttribute('aria-pressed', String(state.cats.size === 1 && state.cats.has(cats[i]))));
+  $$('#bars-reg .bar').forEach(b => b.setAttribute('aria-pressed', String(b.querySelector('.bt2').textContent === state.region)));
+  $$('#bars-src .bar').forEach(b => b.setAttribute('aria-pressed', String(b.querySelector('.bt2').textContent === state.source)));
+  $$('#chips .chip').forEach(c => c.setAttribute('aria-pressed', String(state.cats.has(c.dataset.c))));
+  $$('.mcol').forEach(x => x.setAttribute('aria-pressed', String(x.dataset.m === state.month)));
+}
+
+function drawDials(){
+  const span = new Set(DATA.map(d => monthKey(d.date))).size;
+  const outlets = new Set(DATA.map(d => d.source.name)).size;
+  const verified = DATA.filter(d => d.verified).length;
+  count($('#d-total'), DATA.length); count($('#d-src'), outlets);
+  count($('#d-span'), span); count($('#d-ver'), verified);
+  $('#f-count').textContent = DATA.length;
+  $('#f-ver').textContent = verified;
+  const s = updated ? new Date(updated) : new Date();
+  const label = s.toLocaleDateString('en-GB',{day:'numeric',month:'short'}) + ' ' +
+                s.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+  $('#stamp').textContent = label; $('#f-stamp').textContent = label;
+}
+
+/* --------------------------------------------------------- permalinks */
+function sync(){
+  const p = new URLSearchParams();
+  if (state.q) p.set('q', state.q);
+  if (state.cats.size) p.set('cat', Array.from(state.cats).join(','));
+  if (state.source) p.set('src', state.source);
+  if (state.region) p.set('region', state.region);
+  if (state.thread) p.set('thread', state.thread);
+  if (state.month) p.set('month', state.month);
+  if (state.sort !== 'new') p.set('sort', state.sort);
+  if (state.theme) p.set('theme', state.theme);
+  const h = p.toString();
+  try { history.replaceState(null, '', h ? '#' + h : location.pathname + location.search); } catch (e) {}
+}
+function restore(){
+  const p = new URLSearchParams(location.hash.slice(1));
+  state.q = p.get('q') || '';
+  state.cats = new Set((p.get('cat') || '').split(',').filter(k => CATS[k]));
+  state.source = p.get('src') || '';
+  state.region = p.get('region') || '';
+  state.thread = p.get('thread') || '';
+  state.month = p.get('month') || '';
+  state.sort = p.get('sort') === 'old' ? 'old' : 'new';
+  // A shared link can carry a filter the data no longer contains — a renamed
+  // region, a mistyped month, a thread that was merged away. Drop those rather
+  // than show an empty archive, but keep free-text 'q' (a legitimate zero-result
+  // search should still read as zero results). Runs after every filter is read.
+  const has = (key, val) => DATA.some(d => {
+    if (key === 'month') return monthKey(d.date) === val;
+    if (key === 'source') return d.source.name === val;
+    return d[key] === val;
+  });
+  if (state.region && !has('region', state.region)) state.region = '';
+  if (state.source && !has('source', state.source)) state.source = '';
+  if (state.month && !has('month', state.month)) state.month = '';
+  if (state.thread && !has('thread', state.thread)) state.thread = '';
+  const th = p.get('theme');
+  state.theme = (th === 'light' || th === 'dark') ? th : null;
+  applyTheme(state.theme);
+  $('#q').value = state.q;
+  $('#sort-pick').value = state.sort;
+  $('#src-pick').value = state.source;
+  $$('#chips .chip').forEach(c => c.setAttribute('aria-pressed', String(state.cats.has(c.dataset.c))));
+  $$('.mcol').forEach(x => x.setAttribute('aria-pressed', String(x.dataset.m === state.month)));
+}
+function clearAll(){
+  state.q = ''; state.cats = new Set(); state.source = ''; state.region = ''; state.month = ''; state.thread = ''; state.shown = PAGE;
+  $('#q').value = ''; $('#src-pick').value = '';   // theme is a reading preference, not a filter
+  refresh();
+}
+
+/* ------------------------------------------------------------------ form */
+function initForm(){
+  const sel = $('#f-region');
+  ['Ashanti','Western','Western North','Central','Eastern','Ahafo','Bono','Bono East',
+   'Savannah','Northern','North East','Upper East','Upper West','Volta','Oti','Greater Accra']
+    .forEach(r => { const o = document.createElement('option'); o.textContent = r; sel.appendChild(o); });
+
+  $('#rform').addEventListener('submit', e => {
+    e.preventDefault();
+    const place = $('#f-place').value.trim();
+    if (!place) { $('#f-place').focus(); return; }
+    const when = $('#f-when').value ? dateLabel($('#f-when').value) : 'not stated';
+    $('#rout').textContent =
+      'ILLEGAL MINING REPORT\n' +
+      'Location   ' + place + '\n' +
+      'Region     ' + sel.value + '\n' +
+      'Observed   ' + when + '\n' +
+      'Type       ' + $('#f-what').value + '\n' +
+      'Notes      ' + ($('#f-note').value.trim() || '—') + '\n\n' +
+      'Compiled ' + dateLabel(new Date().toISOString().slice(0,10)) + '.\n' +
+      'Send to NAIMOS, the Forestry Commission, the EPA or your District Police Command.';
+    $('#rout').classList.add('on');
+  });
+
+  $('#copyBtn').addEventListener('click', async () => {
+    const out = $('#rout');
+    if (!out.classList.contains('on')) { out.textContent = 'Build the report first — then this copies it.'; out.classList.add('on'); return; }
+    try { await navigator.clipboard.writeText(out.textContent); $('#copyBtn').textContent = 'Copied'; }
+    catch (e) { $('#copyBtn').textContent = 'Select the text and copy it'; }
+    setTimeout(() => { $('#copyBtn').textContent = 'Copy'; }, 2200);
+  });
+}
+
+/* ---------------------------------------------------------------- motion */
+function animate(){
+  const grow = n => {
+    n.classList.add('in');
+    n.querySelectorAll('[data-w]').forEach(b => b.style.width = b.dataset.w + '%');
+    n.querySelectorAll('[data-h]').forEach(b => b.style.height = Math.max(2, +b.dataset.h) + '%');
+  };
+  // Content must never be stuck invisible, so anything without an observer just shows.
+  if (mq('(prefers-reduced-motion: reduce)') || typeof IntersectionObserver !== 'function') {
+    $$('.reveal').forEach(grow);
+  } else {
+    const io = new IntersectionObserver(es => es.forEach(e => {
+      if (!e.isIntersecting) return; grow(e.target); io.unobserve(e.target);
+    }), { threshold:.1 });
+    $$('.reveal').forEach(n => io.observe(n));
+  }
+}
+
+/* ------------------------------------------------------------------ boot */
+function renderAll(){
+  DATA.sort((a,b) => b.date.localeCompare(a.date));
+  drawChips(); drawSpool(); drawRollups(); drawDials(); restore(); drawRecords(); paintPressed();
+}
+renderAll(); initForm(); animate();
+
+let typing;
+$('#q').addEventListener('input', e => {
+  clearTimeout(typing);
+  const v = e.target.value.trim();
+  typing = setTimeout(() => { state.q = v; state.shown = PAGE; refresh(); }, 180);
+});
+$('#src-pick').addEventListener('change', e => { state.source = e.target.value; state.shown = PAGE; refresh(); });
+$('#sort-pick').addEventListener('change', e => { state.sort = e.target.value; refresh(); });
+$('#theme').addEventListener('click', () => {
+  const nowLight = document.documentElement.getAttribute('data-theme') === 'light';
+  state.theme = nowLight ? 'dark' : 'light';
+  applyTheme(state.theme); sync();
+});
+$('#clear').addEventListener('click', clearAll);
+$('#more').addEventListener('click', () => { state.shown += PAGE; drawRecords(); });
+
+// Prefer the crawler's output when the page is served over http(s).
+if (typeof fetch === 'function' && location.protocol.indexOf('http') === 0) {
+  fetch('data/incidents.json', { cache:'no-store' })
+    .then(r => r.ok ? r.json() : Promise.reject(new Error('no file')))
+    .then(j => {
+      if (!j.incidents || !j.incidents.length) return;
+      DATA = coerce(j.incidents); updated = j.updated;
+      renderAll(); animate();
+    })
+    .catch(() => {});
+}
+})();
+</script>
+</body>
+</html>

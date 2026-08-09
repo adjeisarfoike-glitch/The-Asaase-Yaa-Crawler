@@ -1,0 +1,74 @@
+name: Crawl and publish
+
+# Runs the crawler, commits anything new, and publishes the site in the same
+# run. Publishing here is deliberate: a commit made with GITHUB_TOKEN does not
+# trigger other workflows, so the default "deploy from a branch" Pages setup
+# would never notice the bot's commits and the live site would go stale while
+# the data kept updating. Doing both in one run avoids that entirely.
+
+on:
+  schedule:
+    # 17 past, not on the hour — GitHub's scheduler is busiest at :00 and
+    # drops runs under load.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:        # run it by hand from the Actions tab
+  push:
+    branches: [main]        # publish immediately when you edit the site
+
+permissions:
+  contents: write           # to commit data/incidents.json
+  pages: write              # to publish
+  id-token: write           # required by deploy-pages
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Read feeds, snapshot new links, rebuild data/incidents.json
+        env:
+          ARCHIVE: '1'
+        run: node crawler/crawl.js
+
+      - name: Commit anything new
+        run: |
+          git config user.name  "asaase-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/incidents.json
+          if git diff --staged --quiet; then
+            echo "Nothing new this run."
+          else
+            git commit -m "crawl: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - name: Assemble the published site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -r assets _site/
+          mkdir -p _site/data
+          cp data/incidents.json _site/data/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: crawl
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

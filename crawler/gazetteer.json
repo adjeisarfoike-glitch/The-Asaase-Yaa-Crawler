@@ -1,0 +1,1187 @@
+{
+  "Abesewa": {
+    "lat": 6.55,
+    "lon": -1.68,
+    "region": "Ashanti"
+  },
+  "Abomosu": {
+    "lat": 6.35,
+    "lon": -0.85,
+    "region": "Eastern"
+  },
+  "Aboso": {
+    "lat": 5.36,
+    "lon": -1.97,
+    "region": "Western"
+  },
+  "Accra": {
+    "lat": 5.6,
+    "lon": -0.19,
+    "region": "Greater Accra"
+  },
+  "Adansi": {
+    "lat": 6.2,
+    "lon": -1.67,
+    "region": "Ashanti"
+  },
+  "Adiembra": {
+    "lat": 5.68,
+    "lon": -2.3,
+    "region": "Western North"
+  },
+  "Afao Hills": {
+    "lat": 6.4,
+    "lon": -1.5,
+    "region": "Ashanti"
+  },
+  "Agona Nkwanta": {
+    "lat": 4.92,
+    "lon": -1.92,
+    "region": "Western"
+  },
+  "Ahafo Ano": {
+    "lat": 6.85,
+    "lon": -2.1,
+    "region": "Ashanti"
+  },
+  "Ahafo Region": {
+    "lat": 6.8,
+    "lon": -2.52,
+    "region": "Ahafo"
+  },
+  "Ahafo region": {
+    "lat": 6.8,
+    "lon": -2.52,
+    "region": "Ahafo"
+  },
+  "Ahanta West": {
+    "lat": 4.75,
+    "lon": -2.08,
+    "region": "Western"
+  },
+  "Akontombra": {
+    "lat": 6.1,
+    "lon": -2.95,
+    "region": "Western North"
+  },
+  "Akrokerri": {
+    "lat": 6.32,
+    "lon": -1.65,
+    "region": "Ashanti"
+  },
+  "Akwatia": {
+    "lat": 6.05,
+    "lon": -0.75,
+    "region": "Eastern"
+  },
+  "Akyem Abuakwa": {
+    "lat": 6.17,
+    "lon": -0.55,
+    "region": "Eastern"
+  },
+  "Akyem Oda": {
+    "lat": 6.09,
+    "lon": -0.83,
+    "region": "Eastern"
+  },
+  "Amansie Central": {
+    "lat": 6.25,
+    "lon": -1.8,
+    "region": "Ashanti"
+  },
+  "Amansie South": {
+    "lat": 6.1,
+    "lon": -1.95,
+    "region": "Ashanti"
+  },
+  "Amansie West": {
+    "lat": 6.28,
+    "lon": -2.05,
+    "region": "Ashanti"
+  },
+  "Amenfi East": {
+    "lat": 5.7,
+    "lon": -2.2,
+    "region": "Western"
+  },
+  "Amenfi West": {
+    "lat": 5.7,
+    "lon": -2.2,
+    "region": "Western"
+  },
+  "Amomaso": {
+    "lat": 7.42,
+    "lon": -2.52,
+    "region": "Bono"
+  },
+  "Anhwiaso": {
+    "lat": 6.3,
+    "lon": -2.25,
+    "region": "Western North"
+  },
+  "Ankobra": {
+    "lat": 5.3,
+    "lon": -2.28,
+    "region": "Western"
+  },
+  "Antoakrom": {
+    "lat": 6.3,
+    "lon": -2.0,
+    "region": "Ashanti"
+  },
+  "Anwia Nkwanta": {
+    "lat": 6.3,
+    "lon": -2.08,
+    "region": "Ashanti"
+  },
+  "Anyinam": {
+    "lat": 6.32,
+    "lon": -0.55,
+    "region": "Eastern"
+  },
+  "Aowin": {
+    "lat": 5.9,
+    "lon": -2.75,
+    "region": "Western North"
+  },
+  "Apamprama": {
+    "lat": 6.35,
+    "lon": -1.72,
+    "region": "Ashanti"
+  },
+  "Apapam": {
+    "lat": 6.2,
+    "lon": -0.53,
+    "region": "Eastern"
+  },
+  "Asankrangwa": {
+    "lat": 5.8,
+    "lon": -2.42,
+    "region": "Western"
+  },
+  "Asante Akim": {
+    "lat": 6.62,
+    "lon": -1.22,
+    "region": "Ashanti"
+  },
+  "Ashanti Region": {
+    "lat": 6.69,
+    "lon": -1.62,
+    "region": "Ashanti"
+  },
+  "Ashanti region": {
+    "lat": 6.69,
+    "lon": -1.62,
+    "region": "Ashanti"
+  },
+  "Asiakwa": {
+    "lat": 6.22,
+    "lon": -0.5,
+    "region": "Eastern"
+  },
+  "Assin Fosu": {
+    "lat": 5.7,
+    "lon": -1.28,
+    "region": "Central"
+  },
+  "Assin Praso": {
+    "lat": 5.9,
+    "lon": -1.3,
+    "region": "Central"
+  },
+  "Atebubu": {
+    "lat": 7.75,
+    "lon": -0.98,
+    "region": "Bono East"
+  },
+  "Atewa": {
+    "lat": 6.23,
+    "lon": -0.57,
+    "region": "Eastern"
+  },
+  "Atiwa": {
+    "lat": 6.25,
+    "lon": -0.6,
+    "region": "Eastern"
+  },
+  "Atwima": {
+    "lat": 6.6,
+    "lon": -2.05,
+    "region": "Ashanti"
+  },
+  "Awaso": {
+    "lat": 6.23,
+    "lon": -2.28,
+    "region": "Western North"
+  },
+  "Axim": {
+    "lat": 4.87,
+    "lon": -2.24,
+    "region": "Western"
+  },
+  "Ayanfuri": {
+    "lat": 5.87,
+    "lon": -1.85,
+    "region": "Central"
+  },
+  "Ayirebi": {
+    "lat": 6.05,
+    "lon": -0.95,
+    "region": "Eastern"
+  },
+  "Ayum Forest Reserve": {
+    "lat": 6.75,
+    "lon": -2.35,
+    "region": "Ahafo"
+  },
+  "Banda": {
+    "lat": 8.15,
+    "lon": -2.35,
+    "region": "Bono"
+  },
+  "Bawku": {
+    "lat": 11.06,
+    "lon": -0.24,
+    "region": "Upper East"
+  },
+  "Bekwai": {
+    "lat": 6.45,
+    "lon": -1.58,
+    "region": "Ashanti"
+  },
+  "Bekwai Municipal": {
+    "lat": 6.45,
+    "lon": -1.58,
+    "region": "Ashanti"
+  },
+  "Benkasa": {
+    "lat": 7.4,
+    "lon": -2.55,
+    "region": "Bono"
+  },
+  "Berekum": {
+    "lat": 7.45,
+    "lon": -2.59,
+    "region": "Bono"
+  },
+  "Bia East": {
+    "lat": 6.33,
+    "lon": -2.83,
+    "region": "Western North"
+  },
+  "Bia National Park": {
+    "lat": 6.53,
+    "lon": -3.05,
+    "region": "Western North"
+  },
+  "Bia West": {
+    "lat": 6.33,
+    "lon": -2.83,
+    "region": "Western North"
+  },
+  "Bibiani": {
+    "lat": 6.46,
+    "lon": -2.33,
+    "region": "Western North"
+  },
+  "Bibiani-Anhwiaso-Bekwai": {
+    "lat": 6.46,
+    "lon": -2.33,
+    "region": "Western North"
+  },
+  "Bimbilla": {
+    "lat": 8.86,
+    "lon": 0.06,
+    "region": "Northern"
+  },
+  "Birim": {
+    "lat": 6.1,
+    "lon": -0.75,
+    "region": "Eastern"
+  },
+  "Birim North": {
+    "lat": 6.05,
+    "lon": -0.75,
+    "region": "Eastern"
+  },
+  "Birim South": {
+    "lat": 6.05,
+    "lon": -0.75,
+    "region": "Eastern"
+  },
+  "Black Volta": {
+    "lat": 9.0,
+    "lon": -2.4,
+    "region": "Savannah"
+  },
+  "Bodi": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Bogoso": {
+    "lat": 5.57,
+    "lon": -2.01,
+    "region": "Western"
+  },
+  "Bole": {
+    "lat": 9.03,
+    "lon": -2.48,
+    "region": "Savannah"
+  },
+  "Bolgatanga": {
+    "lat": 10.79,
+    "lon": -0.85,
+    "region": "Upper East"
+  },
+  "Bono East Region": {
+    "lat": 7.59,
+    "lon": -1.94,
+    "region": "Bono East"
+  },
+  "Bono East region": {
+    "lat": 7.59,
+    "lon": -1.94,
+    "region": "Bono East"
+  },
+  "Bono Region": {
+    "lat": 7.34,
+    "lon": -2.33,
+    "region": "Bono"
+  },
+  "Bono region": {
+    "lat": 7.34,
+    "lon": -2.33,
+    "region": "Bono"
+  },
+  "Bonsa": {
+    "lat": 5.25,
+    "lon": -2.0,
+    "region": "Western"
+  },
+  "Bonsa River Forest Reserve": {
+    "lat": 5.25,
+    "lon": -2.05,
+    "region": "Western"
+  },
+  "Bosome": {
+    "lat": 6.45,
+    "lon": -1.58,
+    "region": "Ashanti"
+  },
+  "Bosome Freho": {
+    "lat": 6.42,
+    "lon": -1.35,
+    "region": "Ashanti"
+  },
+  "Bosomkese": {
+    "lat": 6.9,
+    "lon": -2.3,
+    "region": "Ahafo"
+  },
+  "Breman Asikuma": {
+    "lat": 5.55,
+    "lon": -1.02,
+    "region": "Central"
+  },
+  "Buipe": {
+    "lat": 8.75,
+    "lon": -1.47,
+    "region": "Savannah"
+  },
+  "Cape Coast": {
+    "lat": 5.11,
+    "lon": -1.25,
+    "region": "Central"
+  },
+  "Cape Three Points": {
+    "lat": 4.75,
+    "lon": -2.08,
+    "region": "Western"
+  },
+  "Central Region": {
+    "lat": 5.11,
+    "lon": -1.25,
+    "region": "Central"
+  },
+  "Central region": {
+    "lat": 5.11,
+    "lon": -1.25,
+    "region": "Central"
+  },
+  "Chirano": {
+    "lat": 6.05,
+    "lon": -2.15,
+    "region": "Western North"
+  },
+  "Daboase": {
+    "lat": 5.3,
+    "lon": -1.6,
+    "region": "Western"
+  },
+  "Dadieso": {
+    "lat": 5.87,
+    "lon": -3.0,
+    "region": "Western North"
+  },
+  "Dambai": {
+    "lat": 8.07,
+    "lon": 0.18,
+    "region": "Oti"
+  },
+  "Damongo": {
+    "lat": 9.08,
+    "lon": -1.82,
+    "region": "Savannah"
+  },
+  "Datano": {
+    "lat": 6.1,
+    "lon": -2.05,
+    "region": "Ashanti"
+  },
+  "Debiso": {
+    "lat": 6.3,
+    "lon": -3.05,
+    "region": "Western North"
+  },
+  "Denkyembour": {
+    "lat": 6.05,
+    "lon": -0.75,
+    "region": "Eastern"
+  },
+  "Densu": {
+    "lat": 5.85,
+    "lon": -0.35,
+    "region": "Eastern"
+  },
+  "Desiri": {
+    "lat": 5.95,
+    "lon": -2.6,
+    "region": "Western North"
+  },
+  "Diaso": {
+    "lat": 5.85,
+    "lon": -1.9,
+    "region": "Central"
+  },
+  "Domeabra": {
+    "lat": 5.45,
+    "lon": -1.9,
+    "region": "Western"
+  },
+  "Dormaa": {
+    "lat": 7.28,
+    "lon": -2.88,
+    "region": "Bono"
+  },
+  "Duayaw Nkwanta": {
+    "lat": 7.18,
+    "lon": -2.1,
+    "region": "Ahafo"
+  },
+  "Dunkwa": {
+    "lat": 5.96,
+    "lon": -1.78,
+    "region": "Central"
+  },
+  "Dunkwa-on-Offin": {
+    "lat": 5.96,
+    "lon": -1.78,
+    "region": "Central"
+  },
+  "Eastern Region": {
+    "lat": 6.09,
+    "lon": -0.26,
+    "region": "Eastern"
+  },
+  "Eastern region": {
+    "lat": 6.09,
+    "lon": -0.26,
+    "region": "Eastern"
+  },
+  "Ellembelle": {
+    "lat": 4.87,
+    "lon": -2.24,
+    "region": "Western"
+  },
+  "Elubo": {
+    "lat": 5.11,
+    "lon": -2.8,
+    "region": "Western"
+  },
+  "Enchi": {
+    "lat": 5.82,
+    "lon": -2.82,
+    "region": "Western North"
+  },
+  "Esaase": {
+    "lat": 6.28,
+    "lon": -1.95,
+    "region": "Ashanti"
+  },
+  "Fanteakwa": {
+    "lat": 6.28,
+    "lon": -0.45,
+    "region": "Eastern"
+  },
+  "Fomena": {
+    "lat": 6.28,
+    "lon": -1.5,
+    "region": "Ashanti"
+  },
+  "Gambaga": {
+    "lat": 10.53,
+    "lon": -0.44,
+    "region": "North East"
+  },
+  "Gbane": {
+    "lat": 10.75,
+    "lon": -0.63,
+    "region": "Upper East"
+  },
+  "Goaso": {
+    "lat": 6.8,
+    "lon": -2.52,
+    "region": "Ahafo"
+  },
+  "Greater Accra Region": {
+    "lat": 5.6,
+    "lon": -0.19,
+    "region": "Greater Accra"
+  },
+  "Greater Accra region": {
+    "lat": 5.6,
+    "lon": -0.19,
+    "region": "Greater Accra"
+  },
+  "Gushegu": {
+    "lat": 9.93,
+    "lon": -0.22,
+    "region": "Northern"
+  },
+  "Half Assini": {
+    "lat": 5.05,
+    "lon": -2.88,
+    "region": "Western"
+  },
+  "Ho": {
+    "lat": 6.6,
+    "lon": 0.47,
+    "region": "Volta"
+  },
+  "Hohoe": {
+    "lat": 7.15,
+    "lon": 0.47,
+    "region": "Volta"
+  },
+  "Huni Valley": {
+    "lat": 5.42,
+    "lon": -1.85,
+    "region": "Western"
+  },
+  "Hwidiem": {
+    "lat": 6.92,
+    "lon": -2.35,
+    "region": "Ahafo"
+  },
+  "Jacobu": {
+    "lat": 6.28,
+    "lon": -1.45,
+    "region": "Ashanti"
+  },
+  "Japa": {
+    "lat": 5.6,
+    "lon": -2.1,
+    "region": "Western"
+  },
+  "Jimira": {
+    "lat": 6.55,
+    "lon": -1.35,
+    "region": "Ashanti"
+  },
+  "Jirapa": {
+    "lat": 10.53,
+    "lon": -2.7,
+    "region": "Upper West"
+  },
+  "Juaboso": {
+    "lat": 6.33,
+    "lon": -2.83,
+    "region": "Western North"
+  },
+  "Jukwa": {
+    "lat": 5.32,
+    "lon": -1.38,
+    "region": "Central"
+  },
+  "Kade": {
+    "lat": 6.09,
+    "lon": -0.83,
+    "region": "Eastern"
+  },
+  "Kakum": {
+    "lat": 5.42,
+    "lon": -1.38,
+    "region": "Central"
+  },
+  "Kenyasi": {
+    "lat": 7.0,
+    "lon": -2.38,
+    "region": "Ahafo"
+  },
+  "Kete Krachi": {
+    "lat": 7.79,
+    "lon": -0.05,
+    "region": "Oti"
+  },
+  "Kibi": {
+    "lat": 6.17,
+    "lon": -0.55,
+    "region": "Eastern"
+  },
+  "Kintampo": {
+    "lat": 8.06,
+    "lon": -1.73,
+    "region": "Bono East"
+  },
+  "Kobriso": {
+    "lat": 6.58,
+    "lon": -1.7,
+    "region": "Ashanti"
+  },
+  "Kobro": {
+    "lat": 6.75,
+    "lon": -1.55,
+    "region": "Ashanti"
+  },
+  "Koforidua": {
+    "lat": 6.09,
+    "lon": -0.26,
+    "region": "Eastern"
+  },
+  "Konongo": {
+    "lat": 6.62,
+    "lon": -1.22,
+    "region": "Ashanti"
+  },
+  "Kpando": {
+    "lat": 6.99,
+    "lon": 0.29,
+    "region": "Volta"
+  },
+  "Krokosua Hills": {
+    "lat": 6.55,
+    "lon": -2.83,
+    "region": "Western North"
+  },
+  "Kumasi": {
+    "lat": 6.69,
+    "lon": -1.62,
+    "region": "Ashanti"
+  },
+  "Kwaebibirem": {
+    "lat": 6.09,
+    "lon": -0.83,
+    "region": "Eastern"
+  },
+  "Kyebi": {
+    "lat": 6.17,
+    "lon": -0.55,
+    "region": "Eastern"
+  },
+  "Lawra": {
+    "lat": 10.65,
+    "lon": -2.89,
+    "region": "Upper West"
+  },
+  "Mankran": {
+    "lat": 6.8,
+    "lon": -2.02,
+    "region": "Ashanti"
+  },
+  "Mankranso": {
+    "lat": 6.8,
+    "lon": -2.05,
+    "region": "Ashanti"
+  },
+  "Mankurom": {
+    "lat": 6.05,
+    "lon": -1.88,
+    "region": "Ashanti"
+  },
+  "Manso Abore": {
+    "lat": 6.22,
+    "lon": -2.0,
+    "region": "Ashanti"
+  },
+  "Manso Adubia": {
+    "lat": 6.15,
+    "lon": -1.98,
+    "region": "Ashanti"
+  },
+  "Manso Nkwanta": {
+    "lat": 6.2,
+    "lon": -2.02,
+    "region": "Ashanti"
+  },
+  "Mim": {
+    "lat": 6.94,
+    "lon": -2.6,
+    "region": "Ahafo"
+  },
+  "Mpatasie": {
+    "lat": 6.29,
+    "lon": -2.04,
+    "region": "Ashanti"
+  },
+  "Mpohor": {
+    "lat": 5.3,
+    "lon": -1.6,
+    "region": "Western"
+  },
+  "Nadowli": {
+    "lat": 10.36,
+    "lon": -2.68,
+    "region": "Upper West"
+  },
+  "Nalerigu": {
+    "lat": 10.53,
+    "lon": -0.37,
+    "region": "North East"
+  },
+  "Nangodi": {
+    "lat": 10.83,
+    "lon": -0.65,
+    "region": "Upper East"
+  },
+  "Navrongo": {
+    "lat": 10.9,
+    "lon": -1.09,
+    "region": "Upper East"
+  },
+  "Neung Forest Reserve": {
+    "lat": 4.95,
+    "lon": -2.05,
+    "region": "Western"
+  },
+  "New Edubiase": {
+    "lat": 6.45,
+    "lon": -1.58,
+    "region": "Ashanti"
+  },
+  "Nkaseim": {
+    "lat": 7.35,
+    "lon": -2.25,
+    "region": "Ahafo"
+  },
+  "Nkawkaw": {
+    "lat": 6.55,
+    "lon": -0.77,
+    "region": "Eastern"
+  },
+  "Nkonya": {
+    "lat": 7.15,
+    "lon": 0.3,
+    "region": "Oti"
+  },
+  "Nkwanta": {
+    "lat": 8.25,
+    "lon": 0.51,
+    "region": "Oti"
+  },
+  "North East Region": {
+    "lat": 10.53,
+    "lon": -0.37,
+    "region": "North East"
+  },
+  "North East region": {
+    "lat": 10.53,
+    "lon": -0.37,
+    "region": "North East"
+  },
+  "Northern Region": {
+    "lat": 9.4,
+    "lon": -0.84,
+    "region": "Northern"
+  },
+  "Northern region": {
+    "lat": 9.4,
+    "lon": -0.84,
+    "region": "Northern"
+  },
+  "Nsuaem": {
+    "lat": 5.12,
+    "lon": -2.02,
+    "region": "Western"
+  },
+  "Nsuta": {
+    "lat": 5.27,
+    "lon": -1.95,
+    "region": "Western"
+  },
+  "Nyameadom": {
+    "lat": 6.8,
+    "lon": -2.02,
+    "region": "Ashanti"
+  },
+  "Nyankumase": {
+    "lat": 6.15,
+    "lon": -1.98,
+    "region": "Ashanti"
+  },
+  "Nyinahin": {
+    "lat": 6.6,
+    "lon": -2.05,
+    "region": "Ashanti"
+  },
+  "Nzema": {
+    "lat": 4.87,
+    "lon": -2.24,
+    "region": "Western"
+  },
+  "Obuasi": {
+    "lat": 6.2,
+    "lon": -1.67,
+    "region": "Ashanti"
+  },
+  "Obuasi East": {
+    "lat": 6.2,
+    "lon": -1.67,
+    "region": "Ashanti"
+  },
+  "Obuasi West": {
+    "lat": 6.2,
+    "lon": -1.67,
+    "region": "Ashanti"
+  },
+  "Oda River Forest Reserve": {
+    "lat": 6.35,
+    "lon": -1.95,
+    "region": "Ashanti"
+  },
+  "Odaho": {
+    "lat": 6.28,
+    "lon": -2.06,
+    "region": "Ashanti"
+  },
+  "Offin": {
+    "lat": 6.05,
+    "lon": -1.6,
+    "region": "Central"
+  },
+  "Offin Shelterbelt": {
+    "lat": 6.05,
+    "lon": -1.72,
+    "region": "Ashanti"
+  },
+  "Offinso": {
+    "lat": 6.69,
+    "lon": -1.62,
+    "region": "Ashanti"
+  },
+  "Osenase": {
+    "lat": 6.13,
+    "lon": -0.62,
+    "region": "Eastern"
+  },
+  "Osino": {
+    "lat": 6.28,
+    "lon": -0.45,
+    "region": "Eastern"
+  },
+  "Oti Region": {
+    "lat": 8.07,
+    "lon": 0.18,
+    "region": "Oti"
+  },
+  "Oti River": {
+    "lat": 8.6,
+    "lon": 0.25,
+    "region": "Oti"
+  },
+  "Oti region": {
+    "lat": 8.07,
+    "lon": 0.18,
+    "region": "Oti"
+  },
+  "Pra River": {
+    "lat": 5.6,
+    "lon": -1.45,
+    "region": "Central"
+  },
+  "Prang": {
+    "lat": 7.99,
+    "lon": -0.88,
+    "region": "Bono East"
+  },
+  "Prestea": {
+    "lat": 5.43,
+    "lon": -2.14,
+    "region": "Western"
+  },
+  "Prestea Huni-Valley": {
+    "lat": 5.43,
+    "lon": -2.14,
+    "region": "Western"
+  },
+  "Pusiga": {
+    "lat": 11.07,
+    "lon": -0.12,
+    "region": "Upper East"
+  },
+  "River Pra": {
+    "lat": 5.6,
+    "lon": -1.45,
+    "region": "Central"
+  },
+  "Sagyimase": {
+    "lat": 6.19,
+    "lon": -0.57,
+    "region": "Eastern"
+  },
+  "Salaga": {
+    "lat": 8.55,
+    "lon": -0.52,
+    "region": "Savannah"
+  },
+  "Samreboi": {
+    "lat": 5.65,
+    "lon": -2.55,
+    "region": "Western North"
+  },
+  "Savannah Region": {
+    "lat": 9.08,
+    "lon": -1.82,
+    "region": "Savannah"
+  },
+  "Savannah region": {
+    "lat": 9.08,
+    "lon": -1.82,
+    "region": "Savannah"
+  },
+  "Savelugu": {
+    "lat": 9.62,
+    "lon": -0.83,
+    "region": "Northern"
+  },
+  "Sawla": {
+    "lat": 9.28,
+    "lon": -2.42,
+    "region": "Savannah"
+  },
+  "Sefwi": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Sefwi Wiawso": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Sehwi Wiawso": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Shama": {
+    "lat": 5.02,
+    "lon": -1.63,
+    "region": "Western"
+  },
+  "Suaman": {
+    "lat": 5.87,
+    "lon": -3.0,
+    "region": "Western North"
+  },
+  "Subri River Forest Reserve": {
+    "lat": 5.35,
+    "lon": -1.75,
+    "region": "Western"
+  },
+  "Sui River Forest Reserve": {
+    "lat": 6.2,
+    "lon": -2.7,
+    "region": "Western North"
+  },
+  "Sunyani": {
+    "lat": 7.34,
+    "lon": -2.33,
+    "region": "Bono"
+  },
+  "Takoradi": {
+    "lat": 4.9,
+    "lon": -1.76,
+    "region": "Western"
+  },
+  "Talensi": {
+    "lat": 10.72,
+    "lon": -0.72,
+    "region": "Upper East"
+  },
+  "Tamale": {
+    "lat": 9.4,
+    "lon": -0.84,
+    "region": "Northern"
+  },
+  "Tano Nimiri": {
+    "lat": 5.85,
+    "lon": -2.65,
+    "region": "Western North"
+  },
+  "Tano River": {
+    "lat": 6.3,
+    "lon": -2.6,
+    "region": "Western North"
+  },
+  "Tarkwa": {
+    "lat": 5.3,
+    "lon": -1.99,
+    "region": "Western"
+  },
+  "Tarkwa-Nsuaem": {
+    "lat": 5.3,
+    "lon": -1.99,
+    "region": "Western"
+  },
+  "Techiman": {
+    "lat": 7.59,
+    "lon": -1.94,
+    "region": "Bono East"
+  },
+  "Tema": {
+    "lat": 5.67,
+    "lon": 0.02,
+    "region": "Greater Accra"
+  },
+  "Tongo": {
+    "lat": 10.68,
+    "lon": -0.79,
+    "region": "Upper East"
+  },
+  "Tontokrom": {
+    "lat": 6.15,
+    "lon": -2.1,
+    "region": "Ashanti"
+  },
+  "Tumu": {
+    "lat": 10.87,
+    "lon": -1.99,
+    "region": "Upper West"
+  },
+  "Twifo Praso": {
+    "lat": 5.61,
+    "lon": -1.55,
+    "region": "Central"
+  },
+  "Upper Denkyira": {
+    "lat": 5.96,
+    "lon": -1.78,
+    "region": "Central"
+  },
+  "Upper East Region": {
+    "lat": 10.79,
+    "lon": -0.85,
+    "region": "Upper East"
+  },
+  "Upper East region": {
+    "lat": 10.79,
+    "lon": -0.85,
+    "region": "Upper East"
+  },
+  "Upper Wassa Forest Reserve": {
+    "lat": 5.6,
+    "lon": -2.05,
+    "region": "Western"
+  },
+  "Upper West Region": {
+    "lat": 10.06,
+    "lon": -2.5,
+    "region": "Upper West"
+  },
+  "Upper West region": {
+    "lat": 10.06,
+    "lon": -2.5,
+    "region": "Upper West"
+  },
+  "Volta Region": {
+    "lat": 6.6,
+    "lon": 0.47,
+    "region": "Volta"
+  },
+  "Volta region": {
+    "lat": 6.6,
+    "lon": 0.47,
+    "region": "Volta"
+  },
+  "Wa": {
+    "lat": 10.06,
+    "lon": -2.5,
+    "region": "Upper West"
+  },
+  "Walewale": {
+    "lat": 10.35,
+    "lon": -0.8,
+    "region": "North East"
+  },
+  "Wassa Akropong": {
+    "lat": 5.77,
+    "lon": -2.0,
+    "region": "Western"
+  },
+  "Wassa Amenfi": {
+    "lat": 5.7,
+    "lon": -2.2,
+    "region": "Western"
+  },
+  "Wassa East": {
+    "lat": 5.3,
+    "lon": -1.6,
+    "region": "Western"
+  },
+  "Wassa West": {
+    "lat": 5.3,
+    "lon": -1.99,
+    "region": "Western"
+  },
+  "Wenchi": {
+    "lat": 7.74,
+    "lon": -2.1,
+    "region": "Bono"
+  },
+  "Western North Region": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Western North region": {
+    "lat": 6.21,
+    "lon": -2.48,
+    "region": "Western North"
+  },
+  "Western Region": {
+    "lat": 4.9,
+    "lon": -1.76,
+    "region": "Western"
+  },
+  "Western region": {
+    "lat": 4.9,
+    "lon": -1.76,
+    "region": "Western"
+  },
+  "White Volta": {
+    "lat": 10.2,
+    "lon": -0.95,
+    "region": "Upper East"
+  },
+  "Yeji": {
+    "lat": 8.22,
+    "lon": -0.65,
+    "region": "Bono East"
+  },
+  "Yendi": {
+    "lat": 9.44,
+    "lon": -0.01,
+    "region": "Northern"
+  }
+}
