@@ -18,6 +18,8 @@
  * Node 18+, no dependencies.
  */
 
+const fs = require('fs');
+const path = require('path');
 const L = require('./lib.js');
 const seed = require('./seed.js');
 
@@ -137,9 +139,19 @@ async function main() {
   const unplaced = incidents.filter(i => i.region === L.UNPLACED);
   console.log(`  ${added} new reports added, ${noplace} of them with no place identified`);
   if (unplaced.length) {
-    console.log(`  ${unplaced.length} records are unplaced. Add their towns to crawler/gazetteer.json:`);
-    unplaced.slice(0, 8).forEach(r => console.log(`    · ${r.title.slice(0, 78)}`));
-    if (unplaced.length > 8) console.log(`    · …and ${unplaced.length - 8} more`);
+    console.log(`  ${unplaced.length} records are unplaced. Full list follows and is written to data/unplaced.txt:`);
+    // Print every one to the log, and also drop a plain-text file in the repo
+    // so the whole list is easy to read or share without scrolling the log.
+    unplaced.forEach((r, i) => console.log(`    ${String(i + 1).padStart(3)}. ${r.title.slice(0, 90)}`));
+    try {
+      fs.writeFileSync(
+        path.join(L.ROOT, 'data', 'unplaced.txt'),
+        `# ${unplaced.length} unplaced records — ${new Date().toISOString()}\n` +
+        `# Records mentioning no place in crawler/gazetteer.json.\n` +
+        `# National commentary belongs here; a real town name means the gazetteer needs it.\n\n` +
+        unplaced.map(r => `${r.date}  ${r.title}\n           ${r.source.url}`).join('\n\n') + '\n'
+      );
+    } catch (e) { console.warn('  could not write data/unplaced.txt —', e.message); }
   }
   console.log(`  ${incidents.length} total records, spanning ${incidents[incidents.length-1]?.date} to ${incidents[0]?.date}`);
 }
