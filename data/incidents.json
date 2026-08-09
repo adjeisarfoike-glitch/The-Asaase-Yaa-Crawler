@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-09T15:29:05.759Z",
+  "updated": "2026-08-09T15:44:55.558Z",
   "counts": {
-    "total": 153,
+    "total": 156,
     "verified": 28,
-    "automated": 125,
+    "automated": 128,
     "earliest": "2024-07-01",
     "latest": "2026-08-09"
   },
@@ -166,7 +166,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/live-the-keypoints-ministerial-reshuffle-august-6-crash-remembered-and-democracy-under-attack",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-09T15:41:34.228Z"
     },
     {
       "id": "auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse",
@@ -204,7 +205,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnlWcVpOVW1kRlBHRjktTkNUbnFsdDZhdDlmRGFpU2lSdUcwT0lpckJXWThlTFdGRlBRNWl1Q2VmRXFsdTNHNG5qRFdBMm1mcUN4aTlLeVhRR1ZfamlkSldLbjFvQW4wNHRXVkFRd21taUFISkdDbVVaZlh2XzA5YS1LT0FabGJqcWx1c1p5RjlNTFJC0gGTAUFVX3lxTE05WXdmbXoxcXF6OGZrd3ByVzByejg4Z082T01YU3lfQXVOSmNLeU42S3c3LVBMR0xfb2FDU0l3RGl4U3hJYUo0ZDJzUnJNUU5xRjBBbFBTV25zMnB4NFVNVkxQaU9feFZmZjBjbXlzVFR5WGpiRXowYzZZTUxXVTltOVg1VVEyaWtIbFBibkI2d09SWQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-09T15:42:12.979Z",
+      "thread": "t-mahama-modern"
     },
     {
       "id": "auto-2026-08-07-galamsey-will-eventually-tarnish-our-performance-dadson-warn",
@@ -224,7 +227,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNVUstQzFXSjJMZl9la1dObjhwcG90ODN6cXljZ2xZQWwzVGRwRnZKSzBWTXdlRkhrNG4zSUU4SjYzSFg0T0ZCaEZDUFZlVWNNZEhweWZZTEZTS0VUUVBMSG5VTWRNS1ZrRm1LbW1WM25qSVhFRGlsTW0yMlJtTzBIeDlEbjNRdGkyUFBUNWRiT0s5amJn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-asaase-radio"
+      "thread": "t-asaase-radio",
+      "archivedAt": "2026-08-09T15:42:38.030Z"
     },
     {
       "id": "auto-2026-08-07-failure-to-stop-galamsey-will-make-august-6-deaths-meaningle",
@@ -265,7 +269,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFBqejQwNjhySV9NUjg0OHVUQ1VPM2JIa3A5dVhyVVNscFp3NFpsa3BsZzlXaVlqaGVLTTRtYWpUWUhCbFgtMXgxYmFVUE55UXVQNnhRcjJkV3RwTUVxdmdINkJ6a3NHQWhCdGhPRnRRd2RhLW9rN09EaFRrWXhUT2FRc0pZVWN1ZzZV?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-asaase-radio"
+      "thread": "t-asaase-radio",
+      "archivedAt": "2026-08-09T15:42:51.376Z"
     },
     {
       "id": "auto-2026-08-07-dadson-my-record-against-npp-gives-me-the-right-to-speak-on-",
@@ -527,6 +532,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-ghanaweb-sulemana"
+    },
+    {
+      "id": "auto-2026-08-07-galamsey-is-eroding-ghana-s-food-security-as-farmers-lose-la",
+      "date": "2026-08-07",
+      "category": "forest",
+      "title": "Galamsey is eroding Ghana’s food security as farmers lose lands — GEM warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is eroding Ghana’s food security as farmers lose lands — GEM warns MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkd2UkMzZEU2UEdoNzBMYVRYdDFlLXVJM0ZTQnlWOEFtVjVvRVV5MGxXSDlUcFBfV08zOU9FTjJkYnJFMHJjWTZsLWt2WV9yaWNvY1lQSkFRTjhXc2hUakRGbkllOHVPN0pIWGd3UnVqOXloLU5PNVdTN01lY2VibHRuYTBvTDR3TFl3UFBUNlVjWkwyMlBVMFBoemxYR3A0SUtr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkd2UkMzZEU2UEdoNzBMYVRYdDFlLXVJM0ZTQnlWOEFtVjVvRVV5MGxXSDlUcFBfV08zOU9FTjJkYnJFMHJjWTZsLWt2WV9yaWNvY1lQSkFRTjhXc2hUakRGbkllOHVPN0pIWGd3UnVqOXloLU5PNVdTN01lY2VibHRuYTBvTDR3TFl3UFBUNlVjWkwyMlBVMFBoemxYR3A0SUtr?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-06-galamsey-fight-must-include-protection-of-vulnerable-childre",
@@ -999,6 +1023,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-bono-myjoyonline"
+    },
+    {
+      "id": "auto-2026-08-06-review-anti-galamsey-strategy-resource-enforcement-teams-bet",
+      "date": "2026-08-06",
+      "category": "policy",
+      "title": "Review anti-galamsey strategy, resource enforcement teams better — Anthony Nukpenu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Review anti-galamsey strategy, resource enforcement teams better — Anthony Nukpenu MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1DMVMxekdEb2lzYWRRVzBaUjRzQkZZMHd1U2JnU0U2X09WVHZPT2lzN3RXRXliNW11c0l5V0NDSF9TdnpXdmUtbERUU1Rocll1TEdtV1UzYW9ROG1kWXhMUEtKSzNycDZZQjY4Q0VIYlRQd2RCMkdzUWdUNy1QVWNtUFlSanVQZkJOOHhvLThTaE5FLUlFZ0F1dEpUZGxJZER4emc4LTRxTHFL?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1DMVMxekdEb2lzYWRRVzBaUjRzQkZZMHd1U2JnU0U2X09WVHZPT2lzN3RXRXliNW11c0l5V0NDSF9TdnpXdmUtbERUU1Rocll1TEdtV1UzYW9ROG1kWXhMUEtKSzNycDZZQjY4Q0VIYlRQd2RCMkdzUWdUNy1QVWNtUFlSanVQZkJOOHhvLThTaE5FLUlFZ0F1dEpUZGxJZER4emc4LTRxTHFL?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica",
@@ -2488,6 +2531,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0ZNY2pTcW5Bd1ZtN1Q5YW1oY2Rzb1ZRcHBhNkF5eTlFcnVhb3owbTJrcUJpaDN0bjFiYmFjZTRFWXhWcm9TOEFmbUpucVJXdVI0VHNtUzFvWUN1RHhhU1VpRGhqc180MVFVNi1SeHhEaXVtNE5zQXhzanM1MW16TDFfUGp5U1N2cmFJLVhRTmk5TWZSbHdZa19sb1RtczRBUmdnQkRfY3JZLXpmSzBJSDdTU1V3OGNzbG1QWkQzcnQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-07-15-no-forest-reserve-has-been-lost-to-illegal-mining-under-maha",
+      "date": "2026-07-15",
+      "category": "policy",
+      "title": "No forest reserve has been lost to illegal mining under Mahama government — Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "No forest reserve has been lost to illegal mining under Mahama government — Lands Minister Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjYyRk5ONEk0dVhzN1J1Y1ZMYUk1WDQ3WThWSkd3UDZMMG5abURNTGllRWFVU2E4S3VTOW1lVkNybVJ2SnRTYWhEQU9JTDFBMmc2RTUyWW15NVllZ0tLQ3BmanRFbTg2eThjT3llNjU5Ty1hR0dING9RMHRoV1pNb3VORDNSTEFINUxOZmlyUks4YVBNSTZQZHVaMNIBmgFBVV95cUxOOG1KU0VLRmhROU1aV2w4VFpYSTREZWN1NDdZeElhcGpOQm0tYVNIRWo5NmZ3cl9CVWU3V3NuOGwzdGRUeVBDczd3S1Z4aFFrTHhiM3otUlc3VnJCdkFFb1Rwa3ZYTlVIN0ZhMFVCNndsdW55em9HTmpLZE1qbUREeDltbldjYkkzMUhoUGt6cVFfUnh4cTJNbl9n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjYyRk5ONEk0dVhzN1J1Y1ZMYUk1WDQ3WThWSkd3UDZMMG5abURNTGllRWFVU2E4S3VTOW1lVkNybVJ2SnRTYWhEQU9JTDFBMmc2RTUyWW15NVllZ0tLQ3BmanRFbTg2eThjT3llNjU5Ty1hR0dING9RMHRoV1pNb3VORDNSTEFINUxOZmlyUks4YVBNSTZQZHVaMNIBmgFBVV95cUxOOG1KU0VLRmhROU1aV2w4VFpYSTREZWN1NDdZeElhcGpOQm0tYVNIRWo5NmZ3cl9CVWU3V3NuOGwzdGRUeVBDczd3S1Z4aFFrTHhiM3otUlc3VnJCdkFFb1Rwa3ZYTlVIN0ZhMFVCNndsdW55em9HTmpLZE1qbUREeDltbldjYkkzMUhoUGt6cVFfUnh4cTJNbl9n?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-mahama-modern"
     },
     {
       "id": "auto-2026-07-14-goldbod-invests-gh-8-4m-to-rehabilitate-water-treatment-plan",
