@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-09T15:44:55.558Z",
+  "updated": "2026-08-09T19:05:11.971Z",
   "counts": {
-    "total": 156,
+    "total": 160,
     "verified": 28,
-    "automated": 128,
+    "automated": 132,
     "earliest": "2024-07-01",
     "latest": "2026-08-09"
   },
@@ -50,6 +50,45 @@
       "archivedAt": "2026-08-09T14:42:52.771Z"
     },
     {
+      "id": "auto-2026-08-09-from-fertile-lands-to-polluted-rivers-bono-region-bears-cost",
+      "date": "2026-08-09",
+      "category": "water",
+      "title": "From Fertile Lands to Polluted Rivers: Bono Region bears cost of galamsey",
+      "place": "Bono Region",
+      "region": "Bono",
+      "lat": 7.34,
+      "lon": -2.33,
+      "summary": "From Fertile Lands to Polluted Rivers: Bono Region bears cost of galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVBiTC1PaHVBY3RmMTJSLV9kTEJqa3J4WmZhVWY4dUJjalBDMjBCcENQalFxeEI0MEJNdlBrMkh3LWhET1AyWmtXT05ySkY1UmlqWmlzMEt3STN2YU96R3hBWXdPYzM0VGM2Q0g1VnY1M1JsZDdIQVM0N3g5aVJ2ZFJYT0xIWGtSeEo1SUpEeUM2b2F1NGFCdlV4djZmTmhCSHlFYUZoNE0xU3lGQ1RMWDJtdWtpMFlZajRfMHpLb1dFZUt2UFpB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVBiTC1PaHVBY3RmMTJSLV9kTEJqa3J4WmZhVWY4dUJjalBDMjBCcENQalFxeEI0MEJNdlBrMkh3LWhET1AyWmtXT05ySkY1UmlqWmlzMEt3STN2YU96R3hBWXdPYzM0VGM2Q0g1VnY1M1JsZDdIQVM0N3g5aVJ2ZFJYT0xIWGtSeEo1SUpEeUM2b2F1NGFCdlV4djZmTmhCSHlFYUZoNE0xU3lGQ1RMWDJtdWtpMFlZajRfMHpLb1dFZUt2UFpB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-09T18:59:45.884Z"
+    },
+    {
+      "id": "auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w",
+      "date": "2026-08-09",
+      "category": "water",
+      "title": "Duncan-Williams calls for prayers to heal Ghana’s land and water, raises food security alarm over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has called for prayers for the protection and healing of Ghana’s water bodies and land, warning that the continued destruction caused by illegal mining could threaten food production and public health.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/duncan-williams-calls-for-prayers-to-heal-ghanas-land-and-water-raises-food-security-alarm-over-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-calls-for-prayers-to-heal-ghanas-land-and-water-raises-food-security-alarm-over-galamsey/",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-08-honour-august-6-crash-victims-by-fighting-galamsey-dr-zaato",
       "date": "2026-08-08",
       "category": "forest",
@@ -87,7 +126,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTRLMmRKUVJKOG9sWkMyektmZWxoR0ttMGZZcUNFTkJ1QklpXzhIY19ra0J0VXVmekZKeERmLXk0QTJwVWVHVTRJaTFmVDltYnhYdUVSbWdQTUdFLWo0eFRUZzAweFBaQlp1MmRiUUpFdXA2bTJ0X0hpSXNKRUkwc054dDBzQ2xfOXpDQ1FiRHJtZ2fSAZMBQVVfeXFMTzU0SzJkSlFSSjhvbFpDMnpLZmVsaEdLbTBmWXFDRU5CdUJJaV84SGNfa2tCdFV1ZnpGSnhEZi15NEEycFVlR1U0SWkxZlQ5bWJ4WHVFUm1nUE1HRS1qNHhUVGcwMHhQWkJadTJkYlFKRXVwNm0ydF9IaUlzSkVJMHNOeHQwc0NsXzl6Q0NRYkRybWdn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-modern-zaato"
+      "thread": "t-modern-zaato",
+      "archivedAt": "2026-08-09T19:01:02.090Z"
     },
     {
       "id": "auto-2026-08-08-bono-regional-minister-reaffirms-commitment-to-fighting-gala",
@@ -511,7 +551,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVAwbE0xRFJqUnNCVFpBWmp5U0YyZU5ENkFXYndlQmdMMG90WS1tb2N1LXdOYnl0N0QyS2F0TjNzLTUtZHpkbHhIQjJjVmllSTdlV0VTSk1xQjhGZmdIV3RxLWpQTmduWEVXb2JoWFVwN1lwU0dzX1lVeFhsVWNDb3VmNmRWN29IXzZBcjdBY1BJd201WkwzcXFEX3k0WGNDMHRQWGtqZENIVXdOVmllV2kyZG5rdTBGTFNPWg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-09T19:05:05.950Z"
     },
     {
       "id": "auto-2026-08-07-gov-t-recovers-nine-forest-reserves-from-galamsey-invasion-y",
@@ -1161,6 +1202,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-bosomtwe-myjoyonline"
+    },
+    {
+      "id": "auto-2026-08-05-the-premature-verdict-how-a-judicial-leak-political-lawfare-",
+      "date": "2026-08-05",
+      "category": "prosecution",
+      "title": "THE PREMATURE VERDICT: How a Judicial Leak, Political Lawfare, and International Shunt Threatened Ghana’s Ultimate Galamsey Conviction",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "THE PREMATURE VERDICT: How a Judicial Leak, Political Lawfare, and International Shunt Threatened Ghana’s Ultimate Galamsey Conviction modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTM4ZVNoSXNvWTlpZlV2aDE4U3J2VG1QZ25UaGVzYmtISWV4ejBvTXd6T21JdWxoaWkwMnlEWG5sMFBOVGp1OXZ4UFRKSkVkNUQ5YkpsRVNmaTA0d21Sd0k1Z2xjb2NNczJkYmJpTlRoTXlKTFc4VGJXa0xhNmhlN1l4TFEtaHB4QWlUQ0lMdVhxLWZIdUEtdXF30gGYAUFVX3lxTE5Nc21KX0xpMkxYTWs5WGV3alNaczE0M1kwUjFheDQ4a3N4cEhrcHM3RTBTbTczWVNoTDhZdGFmU252MlRMMjlmTEhBMzY4Z3A2SFQ4bWxubXVuNnhpakdLSVJIRmxVbTRHcThaQkVUTGJCT1l4b1lmWFc2QzFkODdrWjN6alRzQ1RyQ2I3Z2JTVzBQTXNsaWtn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTM4ZVNoSXNvWTlpZlV2aDE4U3J2VG1QZ25UaGVzYmtISWV4ejBvTXd6T21JdWxoaWkwMnlEWG5sMFBOVGp1OXZ4UFRKSkVkNUQ5YkpsRVNmaTA0d21Sd0k1Z2xjb2NNczJkYmJpTlRoTXlKTFc4VGJXa0xhNmhlN1l4TFEtaHB4QWlUQ0lMdVhxLWZIdUEtdXF30gGYAUFVX3lxTE5Nc21KX0xpMkxYTWs5WGV3alNaczE0M1kwUjFheDQ4a3N4cEhrcHM3RTBTbTczWVNoTDhZdGFmU252MlRMMjlmTEhBMzY4Z3A2SFQ4bWxubXVuNnhpakdLSVJIRmxVbTRHcThaQkVUTGJCT1l4b1lmWFc2QzFkODdrWjN6alRzQ1RyQ2I3Z2JTVzBQTXNsaWtn?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -2230,7 +2290,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-ghanaweb-wontumi"
     },
     {
       "id": "auto-2026-07-28-galamsey",
@@ -2290,6 +2351,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-citinewsroom-obuasi"
+    },
+    {
+      "id": "auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont",
+      "date": "2026-07-22",
+      "category": "forest",
+      "title": "From Buying Chelsea FC to Galamsey: The 'sins' of Chairman Wontumi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "From Buying Chelsea FC to Galamsey: The 'sins' of Chairman Wontumi GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzhiUXZsYUg3NEtiYnVHVHk5NU1MOXZ1MlJ1WjE3RWVIVEdlT041YXVQNTQ5dW9yRl8tSGMtQW1fQ2sxWWlLS2t6VTF4eTZDeEpKU2xiN0RtMDFIUDFkV3U5c0ttd0YxcG5hS2tJajNWVHByX2dkR1oxUG1lR2NTMG5UMU5naHRXQUdIdjc0YlFhc3p5MGlNTUNUNjVkdmJQUFJGVU5acG5PS2ctX292TjlaQXRwa0NoQXU5M1Z2OA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzhiUXZsYUg3NEtiYnVHVHk5NU1MOXZ1MlJ1WjE3RWVIVEdlT041YXVQNTQ5dW9yRl8tSGMtQW1fQ2sxWWlLS2t6VTF4eTZDeEpKU2xiN0RtMDFIUDFkV3U5c0ttd0YxcG5hS2tJajNWVHByX2dkR1oxUG1lR2NTMG5UMU5naHRXQUdIdjc0YlFhc3p5MGlNTUNUNjVkdmJQUFJGVU5acG5PS2ctX292TjlaQXRwa0NoQXU5M1Z2OA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-ghanaweb-wontumi"
     },
     {
       "id": "pro-2026-07-21-wontumi-samreboi",
