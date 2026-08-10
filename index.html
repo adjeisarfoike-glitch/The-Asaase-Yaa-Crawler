@@ -407,19 +407,6 @@ footer a{color:var(--silt)}
       </dl>
     </div>
 
-    <pre class="code"><span class="k"># run it once</span>
-node crawler/crawl.js
-
-<span class="k"># run it and snapshot every new link to the Internet Archive</span>
-ARCHIVE=1 node crawler/crawl.js
-
-<span class="k"># reach backwards through years already published</span>
-node crawler/backfill.js gdelt   2017 2026
-node crawler/backfill.js wayback 2010 2016
-
-<span class="k"># or let GitHub Actions run the forward crawl every six hours</span>
-.github/workflows/crawl.yml → writes <span class="k">data/incidents.json</span></pre>
-
     <p class="fine">
       Records marked verified were read from the published source and checked by hand; the crawler never overwrites them. Everything else carries the outlet's own headline and is a lead, not a finding. Figures are reproduced as their sources state them. Named individuals and companies appear only as their sources named them, and allegations are recorded as allegations.
     </p>
