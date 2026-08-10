@@ -294,6 +294,16 @@ function threadRecords(map, opts = {}) {
   const MIN    = opts.min ?? 2;
   const WINDOW = (opts.windowDays ?? 730) * 864e5;
 
+  // Machine threads are derived, never inherited. An earlier version kept
+  // whatever thread a record already carried, which meant a grouping computed
+  // by buggy code survived the fix — the archive had to be cleared by hand
+  // before a corrected run had any effect. Recomputing every run makes the
+  // saved threads a cache of this function rather than a second source of
+  // truth. Hand-set threads on verified records are never touched.
+  if (opts.rethread !== false) {
+    for (const rec of map.values()) if (!rec.verified) delete rec.thread;
+  }
+
   const recs = [...map.values()].sort((a, b) => a.date.localeCompare(b.date));
   const { tokens, df, n } = buildTokenIndex(recs, opts.stopDf);
   // Smoothed: a bare n/df is exactly zero for a token appearing in every
