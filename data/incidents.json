@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-09T19:05:11.971Z",
+  "updated": "2026-08-10T02:37:50.417Z",
   "counts": {
-    "total": 160,
+    "total": 162,
     "verified": 28,
-    "automated": 132,
+    "automated": 134,
     "earliest": "2024-07-01",
     "latest": "2026-08-09"
   },
@@ -87,6 +87,46 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-calls-for-prayers-to-heal-ghanas-land-and-water-raises-food-security-alarm-over-galamsey/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-09-galamsey-goldbod-to-support-reclamation-of-three-forest-rese",
+      "date": "2026-08-09",
+      "category": "reclamation",
+      "title": "Galamsey: GoldBod to support reclamation of three forest reserves in 2027 – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: GoldBod to support reclamation of three forest reserves in 2027 – Sammy Gyamfi CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0Y2RzhVVEhzNDNqVlZhM191M3kxaWtQd2FaWkFTeWNfVE9YZ0dERTlVVU9FbFVGUkFkeGlLRXlHYmh0RWptdjBtUFVaRzFGTTFYQ0dUR21odGp2bVBqTGw1eUFLdG4tQ0pJaFdhR2thNko0X0xaYkN4cTRPMjJ1MWMzODNxdFVseGF0ZkdEa0lDaW41WmNNTk1Fby11VFZTZEN2X191MjJYd2ZNUW9PbVlycFpNejkxNkJaa2pMclg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0Y2RzhVVEhzNDNqVlZhM191M3kxaWtQd2FaWkFTeWNfVE9YZ0dERTlVVU9FbFVGUkFkeGlLRXlHYmh0RWptdjBtUFVaRzFGTTFYQ0dUR21odGp2bVBqTGw1eUFLdG4tQ0pJaFdhR2thNko0X0xaYkN4cTRPMjJ1MWMzODNxdFVseGF0ZkdEa0lDaW41WmNNTk1Fby11VFZTZEN2X191MjJYd2ZNUW9PbVlycFpNejkxNkJaa2pMclg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-awuku-sammy"
+    },
+    {
+      "id": "auto-2026-08-09-sammy-gyamfi-decades-of-poor-mining-regulation-worsened-gala",
+      "date": "2026-08-09",
+      "category": "policy",
+      "title": "Sammy Gyamfi: Decades of poor mining regulation worsened galamsey crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi: Decades of poor mining regulation worsened galamsey crisis CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORENzWWlMcHpxdVZnbmI4bFpaN20xdXRtY3UyR1AwQnlybjRqa1JPa0Y4Y2sxOFNGeDFKUEtpdkxwYlVRX0VGLWhLNGJMdVQ2dHdCMVY5T0ZkTlJtdWhtcEJydXRlWHlrSVpzcU01RW54LXRaaERDZlczZFNOWV9nQnFYcjUycTE0bm03dDl5YkV2RFU3dTFlUlQ5a0JsZXR6M0k1a3dmcDZ5TEtJWGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxORENzWWlMcHpxdVZnbmI4bFpaN20xdXRtY3UyR1AwQnlybjRqa1JPa0Y4Y2sxOFNGeDFKUEtpdkxwYlVRX0VGLWhLNGJMdVQ2dHdCMVY5T0ZkTlJtdWhtcEJydXRlWHlrSVpzcU01RW54LXRaaERDZlczZFNOWV9nQnFYcjUycTE0bm03dDl5YkV2RFU3dTFlUlQ5a0JsZXR6M0k1a3dmcDZ5TEtJWGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-awuku-sammy"
     },
     {
       "id": "auto-2026-08-08-honour-august-6-crash-victims-by-fighting-galamsey-dr-zaato",
