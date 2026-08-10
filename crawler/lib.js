@@ -203,9 +203,28 @@ function retagUnplaced(map) {
 // Deliberately not place-based: the raid happened at Samreboi and the verdict
 // was handed down in Accra. What ties them together is "Akonta" and "Samreboi"
 // appearing in both, not where either event happened.
+//
+// Three things were wrong with the first version, and all three showed up as
+// "Follow this story" leading somewhere unrelated:
+//
+//   1. Most outlets run Title Case headlines, so every capitalised word of four
+//      characters or more looked like a proper noun. Two unrelated raid stories
+//      shared "Arrested" and "Suspects", cleared the threshold, and threaded.
+//      The fix is to measure distinctiveness against the corpus rather than
+//      guess at it — a token appearing across a slice of the whole archive is
+//      not a name, whatever its capitalisation.
+//   2. Thread ids were built from the shared tokens themselves, so any other
+//      pair anywhere in the archive sharing the same two tokens landed on an
+//      identical id string. The UI filters by id, so those records appeared in
+//      the thread even though nothing had linked them. Ids are now anchored on
+//      a record id and cannot collide.
+//   3. The inner loop ran oldest-first and broke on the first pair clearing the
+//      threshold, so a record joined the oldest thing it weakly matched and
+//      never saw the strong match a few records later. It now takes the best.
 
-// Words that turn up in almost every galamsey story. Matching on these would
-// put the whole archive in one thread.
+// Words that turn up in almost every galamsey story. This list is now only a
+// first pass — the document-frequency filter below is what does the real work,
+// and it keeps working as the vocabulary of the coverage shifts.
 const COMMON = new Set(`ghana ghanaian ghanaians accra region regional district minister ministry
 commission committee government national police service court high circuit
 illegal mining miner miners galamsey galamseyers excavator excavators forest
@@ -229,30 +248,133 @@ function entityTokens(text) {
 const shared = (a, b) => [...a].filter(x => b.has(x));
 
 /**
- * Give every record a thread id, so a case can be followed across the months
- * it takes to move from raid to charge to verdict. Two records join the same
- * thread when they share at least MIN distinctive names. Records set by hand
- * in seed.js keep whatever thread they were given.
+ * Per-record token sets with corpus-common tokens removed, plus the document
+ * frequencies needed to weight what is left.
+ *
+ * STOP_DF only removes the hopeless cases. It is deliberately loose, because a
+ * tight cutoff cannot separate noise from names: on a test archive the junk
+ * tokens ("Suspects", "Arrested") appeared in five records and the real names
+ * ("Akonta", "Samreboi") in three — too close to split on frequency alone. The
+ * rare-name rule in threadRecords is what actually does that work.
  */
-function threadRecords(map, MIN = 2) {
+function buildTokenIndex(recs, STOP_DF = 0.25) {
+  const raw = new Map();
+  for (const r of recs) raw.set(r.id, entityTokens(`${r.title}. ${r.summary || ''}`));
+
+  const df = new Map();
+  for (const set of raw.values()) for (const t of set) df.set(t, (df.get(t) || 0) + 1);
+
+  const n = recs.length || 1;
+  // Ceiling is a share of the archive, but never below 2 — a pure percentage
+  // deletes the whole vocabulary on a small archive, because the rarest
+  // possible token still appears in one record out of very few.
+  const ceiling = Math.max(2, Math.ceil(n * STOP_DF));
+  const tokens = new Map();
+  for (const [id, set] of raw) {
+    tokens.set(id, new Set([...set].filter(t => df.get(t) <= ceiling)));
+  }
+  return { tokens, df, n, ceiling };
+}
+
+/**
+ * Give every record a thread id, so a case can be followed across the months it
+ * takes to move from raid to charge to verdict. A record joins the
+ * highest-scoring earlier record sharing at least `min` distinctive tokens,
+ * where the score is the summed inverse document frequency of those tokens —
+ * two rare names outweigh five ordinary ones.
+ *
+ * windowDays is generous on purpose: the Samreboi raid and its verdict are
+ * fifteen months apart and that pairing has to survive.
+ *
+ * Records set by hand in seed.js keep whatever thread they were given.
+ * Accepts a bare number for `opts` so older call sites keep working.
+ */
+function threadRecords(map, opts = {}) {
+  if (typeof opts === 'number') opts = { min: opts };
+  const MIN    = opts.min ?? 2;
+  const WINDOW = (opts.windowDays ?? 730) * 864e5;
+
   const recs = [...map.values()].sort((a, b) => a.date.localeCompare(b.date));
-  const tokens = new Map(recs.map(r => [r.id, entityTokens(`${r.title}. ${r.summary}`)]));
+  const { tokens, df, n } = buildTokenIndex(recs, opts.stopDf);
+  // Smoothed: a bare n/df is exactly zero for a token appearing in every
+  // record, which silently zeroed all scoring on very small archives.
+  const idf = t => Math.log(1 + n / (df.get(t) || 1));
+
+  // The score is a sum of logs, so it grows with the size of the archive. A
+  // fixed threshold that is strict on 200 records is meaningless on 5000, so
+  // it scales too. Raise scoreFactor to demand rarer names.
+  const MIN_SCORE = opts.minScore ?? (opts.scoreFactor ?? 1.0) * Math.log(n || 2);
+
+  // The decisive rule. Summing rarity rewards quantity, so a pair of stories
+  // sharing four ordinary words ("Suspects", "Arrested", "Swoop", a town name)
+  // can outscore a pair sharing one real name. Every link must therefore rest
+  // on at least one token rare enough to be a case identity — "Akonta", not
+  // "Obuasi". Without this, routine enforcement coverage threads itself into
+  // large blobs, because it genuinely is written in the same words every time.
+  const RARE = opts.rareDf ?? Math.max(3, Math.ceil(n * 0.01));
+  const hasRareName = hits => hits.some(t => (df.get(t) || 0) <= RARE);
   let created = 0;
 
   for (let i = 0; i < recs.length; i++) {
     const a = recs[i];
+    if (a.thread && a.verified) continue;
+
+    let best = null, bestScore = 0;
     for (let j = 0; j < i; j++) {
       const b = recs[j];
+      if (Math.abs(new Date(a.date) - new Date(b.date)) > WINDOW) continue;
+
       const hits = shared(tokens.get(a.id), tokens.get(b.id));
       if (hits.length < MIN) continue;
-      if (a.thread && b.thread && a.thread !== b.thread) continue; // don't merge hand-set threads
-      const id = b.thread || a.thread || ('t-' + hits.sort().slice(0, 2).join('-'));
-      if (!b.thread) { b.thread = id; created++; }
-      if (!a.thread) { a.thread = id; created++; }
-      break;
+      if (!hasRareName(hits)) continue;
+
+      const score = hits.reduce((s, t) => s + idf(t), 0);
+      if (score < MIN_SCORE || score <= bestScore) continue;
+
+      bestScore = score; best = b;
     }
+    if (!best) continue;
+    if (a.thread && best.thread && a.thread !== best.thread) continue;
+
+    const id = best.thread || a.thread || ('t-' + best.id);
+    if (!best.thread) { best.thread = id; created++; }
+    if (!a.thread)    { a.thread    = id; created++; }
   }
   return created;
+}
+
+/**
+ * Clear machine-assigned threads so a run can re-thread from scratch. Old
+ * thread values are inherited by the pass above, so a bad grouping survives a
+ * fix unless it is cleared first. Hand-verified threads are left alone.
+ */
+function clearThreads(map) {
+  let cleared = 0;
+  for (const rec of map.values()) {
+    if (rec.verified || !rec.thread) continue;
+    delete rec.thread; cleared++;
+  }
+  return cleared;
+}
+
+/** Print every thread with its members and, for pairs, the linking tokens. */
+function explainThreads(map, opts = {}) {
+  const recs = [...map.values()].sort((a, b) => a.date.localeCompare(b.date));
+  const { tokens } = buildTokenIndex(recs, opts.stopDf);
+  const byThread = new Map();
+  for (const r of recs) {
+    if (!r.thread) continue;
+    if (!byThread.has(r.thread)) byThread.set(r.thread, []);
+    byThread.get(r.thread).push(r);
+  }
+  for (const [id, members] of [...byThread].sort((a, b) => b[1].length - a[1].length)) {
+    console.log(`\n${id}  (${members.length})`);
+    for (const r of members) console.log(`   ${String(r.date).slice(0, 10)}  ${r.title.slice(0, 80)}`);
+    if (members.length === 2) {
+      console.log('   shared:', shared(tokens.get(members[0].id), tokens.get(members[1].id)).join(', '));
+    }
+  }
+  console.log(`\nthreads: ${byThread.size}  threaded records: ${[...byThread.values()].reduce((s, m) => s + m.length, 0)} / ${recs.length}`);
 }
 
 const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
@@ -330,5 +452,6 @@ module.exports = {
   clean, tag, parseRss, classify, extractMetrics, geotag,
   slug, normaliseTitle, wait, waybackUrl, getText, snapshot,
   UNPLACED, retagUnplaced, threadRecords, entityTokens,
+  buildTokenIndex, clearThreads, explainThreads,
   loadArchive, saveArchive, snapshotBacklog, UA
 };
