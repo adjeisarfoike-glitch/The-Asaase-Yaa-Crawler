@@ -1,0 +1,25 @@
+/**
+ * Re-thread the archive and print the result.
+ *
+ *   node check-threads.js           -> shows what WOULD happen, changes nothing
+ *   node check-threads.js --save    -> writes the new threads to incidents.json
+ *
+ * Put this file in the top level of the repo, next to index.html.
+ */
+
+const L = require('./crawler/lib.js');
+
+const keep = L.loadArchive([]);
+console.log('records loaded:      ', keep.size);
+console.log('old threads cleared: ', L.clearThreads(keep));
+console.log('new links made:      ', L.threadRecords(keep));
+
+L.explainThreads(keep);
+
+if (process.argv.includes('--save')) {
+  L.saveArchive(keep);
+  console.log('\nSaved to data/incidents.json');
+} else {
+  console.log('\nNothing was saved. This was a preview only.');
+  console.log('If the threads above look right, run:  node check-threads.js --save');
+}
