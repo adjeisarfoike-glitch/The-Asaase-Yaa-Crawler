@@ -1,13 +1,132 @@
 {
-  "updated": "2026-08-10T02:37:50.417Z",
+  "updated": "2026-08-10T08:08:51.856Z",
   "counts": {
-    "total": 162,
+    "total": 174,
     "verified": 28,
-    "automated": 134,
+    "automated": 146,
     "earliest": "2024-07-01",
-    "latest": "2026-08-09"
+    "latest": "2026-08-10"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-10-duncan-williams-calls-for-prayers-as-galamsey-threatens-wate",
+      "date": "2026-08-10",
+      "category": "water",
+      "title": "Duncan-Williams calls for prayers as galamsey threatens water bodies, food security",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Duncan-Williams calls for prayers as galamsey threatens water bodies, food security CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlVDR2duSjRyYmxKaDlXRV92NWsxbTFnVGlFamZkWFBKT2cwRHJzeXB2T1NDcWxsWTBub1BUX3BzY3JxbU1nVkhTT3U2b1c0QnJQSmt3NTN0YmZIZXM1cGxVdkRsenl0d1kzOEgxT241b1p1V3lGRlJTaEVCaEgza1RmWGw2VU9MY28xTEZNRDNMem9IOHViY2p6VkpsQmR1dWVMSVoxQXVmSkMwNy1qeWc2dGlNbGlVYkRRNg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlVDR2duSjRyYmxKaDlXRV92NWsxbTFnVGlFamZkWFBKT2cwRHJzeXB2T1NDcWxsWTBub1BUX3BzY3JxbU1nVkhTT3U2b1c0QnJQSmt3NTN0YmZIZXM1cGxVdkRsenl0d1kzOEgxT241b1p1V3lGRlJTaEVCaEgza1RmWGw2VU9MY28xTEZNRDNMem9IOHViY2p6VkpsQmR1dWVMSVoxQXVmSkMwNy1qeWc2dGlNbGlVYkRRNg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-10T08:03:23.548Z"
+    },
+    {
+      "id": "auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re",
+      "date": "2026-08-10",
+      "category": "reclamation",
+      "title": "GoldBod to support reclamation of three devastated forest reserves in 2027 – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) will support the reclamation of three forest reserves affected by illegal mining next year as part of efforts to restore degraded landscapes, its Chief Executive Officer, Sammy Gyamfi, has disclosed.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-to-support-reclamation-of-three-devastated-forest-reserves-in-2027-sammy-gyamfi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-to-support-reclamation-of-three-devastated-forest-reserves-in-2027-sammy-gyamfi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-awuku-sammy"
+    },
+    {
+      "id": "auto-2026-08-10-poor-formalisation-of-small-scale-mining-worsened-galamsey-c",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Poor formalisation of small-scale mining worsened galamsey crisis – GoldBod CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has attributed Ghana’s persistent illegal mining crisis partly to decades of inadequate formalisation and state support for artisanal and small-scale mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/poor-formalisation-of-small-scale-mining-worsened-galamsey-crisis-goldbod-ceo/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/poor-formalisation-of-small-scale-mining-worsened-galamsey-crisis-goldbod-ceo/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-awuku-sammy"
+    },
+    {
+      "id": "auto-2026-08-10-a-time-may-come-when-the-land-cannot-yield-crops-duncan-will",
+      "date": "2026-08-10",
+      "category": "water",
+      "title": "‘A time may come when the land cannot yield crops’ – Duncan-Williams warns over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has called on Ghanaians to pray for the restoration of the country’s polluted water bodies and degraded lands, warning that the effects of illegal mining could pose a serious threat to food security and public health. Speaking during a church service, Archbishop Duncan-Williams expressed concern […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/a-time-may-come-when-the-land-cannot-yield-crops-duncan-williams-warns-over-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/a-time-may-come-when-the-land-cannot-yield-crops-duncan-williams-warns-over-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-action-archbishop"
+    },
+    {
+      "id": "auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Three young miners killed in pit collapse at Odumase-Santenso",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Three people have died after a mining pit collapsed on them in the Ashanti region, a local official said on Monday (10 August), highlighting the dangers of the unregulated small-scale mining sector. The incident occurred around 4:00 pm Friday in Odumase-Santenso in the Asante Akyem Central municipality, caretaker assembly member... The post Three young miners killed in pit collapse at Odumase-Santenso appeared first ",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/three-young-miners-killed-in-pit-collapse-at-odumase-santenso/?utm_source=rss&utm_medium=rss&utm_campaign=three-young-miners-killed-in-pit-collapse-at-odumase-santenso"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/three-young-miners-killed-in-pit-collapse-at-odumase-santenso/?utm_source=rss&utm_medium=rss&utm_campaign=three-young-miners-killed-in-pit-collapse-at-odumase-santenso",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-goldbod-targets-three-forest-reserves-for-reclamation-in-202",
+      "date": "2026-08-10",
+      "category": "reclamation",
+      "title": "GOLDBOD targets three forest reserves for reclamation in 2027 – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GOLDBOD) will support the reclamation of three forest reserves devastated by illegal mining in 2027, its chief executive Sammy Gyamfi has said. The state-owned gold trading company has already begun supporting reclamation efforts and will expand the programme next year, Gyamfi said during a conversation on... The post GOLDBOD targets three forest reserves for reclamation in 2027 – Sammy Gyamfi a",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi/?utm_source=rss&utm_medium=rss&utm_campaign=goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi/?utm_source=rss&utm_medium=rss&utm_campaign=goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-awuku-sammy"
+    },
     {
       "id": "auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ",
       "date": "2026-08-09",
@@ -86,7 +205,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-calls-for-prayers-to-heal-ghanas-land-and-water-raises-food-security-alarm-over-galamsey/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-action-archbishop"
     },
     {
       "id": "auto-2026-08-09-galamsey-goldbod-to-support-reclamation-of-three-forest-rese",
@@ -434,7 +554,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE12aXUwTzhMb05rU2s3VmlqZE4zX1ZBS3IyRWtHTm1pX3VjdHhrXzlyZGJoN0dfWjJuOEdheVUxT25RanM5Vjg1TUFCSTd2RkhLZVFYOGdjWGNTdmVKVkdrZlRtUlHSAVxBVV95cUxNczdCY1RGVUZIWnpwZWp4THk0N0RGV0pyeVpwaGZrdExtTXB2X1d5Mmt0d1FLdWRFUHNic0I1SDJsck8yVFhtZDNCZkNqYUh2ZzdVZWFHSk4za2t2Yw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-fight-modern"
+      "thread": "t-fight-modern",
+      "archivedAt": "2026-08-10T08:07:52.434Z"
     },
     {
       "id": "auto-2026-08-07-galamsey-pra-ankobra-and-birim-rivers-showing-signs-of-impro",
@@ -454,7 +575,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdLSHY4VS1xc0FCNWpVRXliOVhEX0lyTzV3RFJmbXBPMUQ3WS15bGUyMDRld2lSVVBLYWlMU0hQc09kTzRoTC1naDhHeU9OZkFldG1uMnNkNkFJM0dkbFVyRWxkREY3TTZ6Q3JXNkJ1Tm9MaTBCcVpRcTgzZGY5c0RnRmtqVERFNVlpaV9XYlpTUEpYZ29UOXYyMHlxNWFsSTlzY1BGcmtEUFJMUlE?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-ankobra-birim"
+      "thread": "t-ankobra-birim",
+      "archivedAt": "2026-08-10T08:08:29.804Z"
     },
     {
       "id": "auto-2026-08-07-bono-regional-minister-vows-not-to-relent-on-galamsey-fight-",
@@ -1122,7 +1244,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk1DMVMxekdEb2lzYWRRVzBaUjRzQkZZMHd1U2JnU0U2X09WVHZPT2lzN3RXRXliNW11c0l5V0NDSF9TdnpXdmUtbERUU1Rocll1TEdtV1UzYW9ROG1kWXhMUEtKSzNycDZZQjY4Q0VIYlRQd2RCMkdzUWdUNy1QVWNtUFlSanVQZkJOOHhvLThTaE5FLUlFZ0F1dEpUZGxJZER4emc4LTRxTHFL?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-anthony-nukpenu"
+    },
+    {
+      "id": "auto-2026-08-06-i-am-not-happy-with-how-we-ve-handled-galamsey-ndc-s-anthony",
+      "date": "2026-08-06",
+      "category": "forest",
+      "title": "I am not happy with how we’ve handled galamsey – NDC’s Anthony Nukpenu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "I am not happy with how we’ve handled galamsey – NDC’s Anthony Nukpenu Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVW5BX2hwQ3hiZ2MzYlJnR3pXOU11elhHZjFGeWVHU3VEbmdOWk9vN3FvSWpLTjRIU003WngwMExXNk9fcFRyQTkta3FQRWNQd1hVcmFqVGFhbU1BS0VWdHpBZ0wwanBBYmRhNWNkN3FVa1p5dFA3OEx4aG5GTTJ6YUhSaVh2bXpiTWpXbGlWVmhoUVRaenlDazVn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOVW5BX2hwQ3hiZ2MzYlJnR3pXOU11elhHZjFGeWVHU3VEbmdOWk9vN3FvSWpLTjRIU003WngwMExXNk9fcFRyQTkta3FQRWNQd1hVcmFqVGFhbU1BS0VWdHpBZ0wwanBBYmRhNWNkN3FVa1p5dFA3OEx4aG5GTTJ6YUhSaVh2bXpiTWpXbGlWVmhoUVRaenlDazVn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-anthony-nukpenu"
     },
     {
       "id": "auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica",
@@ -1261,6 +1404,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTM4ZVNoSXNvWTlpZlV2aDE4U3J2VG1QZ25UaGVzYmtISWV4ejBvTXd6T21JdWxoaWkwMnlEWG5sMFBOVGp1OXZ4UFRKSkVkNUQ5YkpsRVNmaTA0d21Sd0k1Z2xjb2NNczJkYmJpTlRoTXlKTFc4VGJXa0xhNmhlN1l4TFEtaHB4QWlUQ0lMdVhxLWZIdUEtdXF30gGYAUFVX3lxTE5Nc21KX0xpMkxYTWs5WGV3alNaczE0M1kwUjFheDQ4a3N4cEhrcHM3RTBTbTczWVNoTDhZdGFmU252MlRMMjlmTEhBMzY4Z3A2SFQ4bWxubXVuNnhpakdLSVJIRmxVbTRHcThaQkVUTGJCT1l4b1lmWFc2QzFkODdrWjN6alRzQ1RyQ2I3Z2JTVzBQTXNsaWtn?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-05-go-after-the-big-fishes-nana-occasional-kwatriot-kwesi-yanka",
+      "date": "2026-08-05",
+      "category": "forest",
+      "title": "Go after the big fishes, Nana - Occasional Kwatriot Kwesi Yankah on a flash back on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Go after the big fishes, Nana - Occasional Kwatriot Kwesi Yankah on a flash back on galamsey Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-graphic-kwatriot"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -1455,7 +1618,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-graphic-kwatriot"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -1632,6 +1796,25 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2lTb0VXLTM0YnNGYTNQZ3JDT2VTQldEaTZvQkJMT2YtSFN5dUtUQzhtMjZ1aEVGOHExRkppTFBsWHdfdlp4U2QzVjBkbHV2Q0xvSXY3N1BKeWtraHlNRjRpV0xuRjVLREMtX0tXbkN6SGFIX1VBQmVyTEtHbmdiRFR3U3cyMGNXMDR2RUNlOHBHVFduYURPM0xCVlQxWVBmb29WdXpEdw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2lTb0VXLTM0YnNGYTNQZ3JDT2VTQldEaTZvQkJMT2YtSFN5dUtUQzhtMjZ1aEVGOHExRkppTFBsWHdfdlp4U2QzVjBkbHV2Q0xvSXY3N1BKeWtraHlNRjRpV0xuRjVLREMtX0tXbkN6SGFIX1VBQmVyTEtHbmdiRFR3U3cyMGNXMDR2RUNlOHBHVFduYURPM0xCVlQxWVBmb29WdXpEdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio",
+      "date": "2026-08-01",
+      "category": "prosecution",
+      "title": "Akim Oda MP Challenges Birim Central MCE to Seek Court Action Over Galamsey Claims",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Akim Oda MP Challenges Birim Central MCE to Seek Court Action Over Galamsey Claims Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50TkM4Qm0zdWVXWlF0V2NpQVh6VXBjdEthWWxNS3VpbFVlU2cxQkJzRUQxeUhnS2RVZXlVWVd3OEpBbkNuYkNQbzZDLTBQSVdNWUdWdl9ZVTR4c1F0b2dWYlBmVnLSAVxBVV95cUxOUEdicks0ZHFTd1FiSWFiLUx2UHZ4U0JzMmtRTDA0QnAzZ3NyMkNSNUpGbzdOaHNGeDFheXY0Q3N1cndSSzVBMlo0bW55RmI3OVpseEliMXZBTWxWeQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE50TkM4Qm0zdWVXWlF0V2NpQVh6VXBjdEthWWxNS3VpbFVlU2cxQkJzRUQxeUhnS2RVZXlVWVd3OEpBbkNuYkNQbzZDLTBQSVdNWUdWdl9ZVTR4c1F0b2dWYlBmVnLSAVxBVV95cUxOUEdicks0ZHFTd1FiSWFiLUx2UHZ4U0JzMmtRTDA0QnAzZ3NyMkNSNUpGbzdOaHNGeDFheXY0Q3N1cndSSzVBMlo0bW55RmI3OVpseEliMXZBTWxWeQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1828,7 +2011,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTbWU3WU1rZHlPVXNGVVZNMUE2SElsTXdHb29fYTlmcWlIblVKVTZmbHlNUVRqTUFVTGNMQjZhSEVsQVgya2tuTTVHeThPcmVYZHFpMHRWNjV1WTFFTjJ30gFcQVVfeXFMT2RQWXRnWWVmMEdPMDU4YW5XcjdBTG9pNzdKWG5QZV9HZEZTNTZXbHp6VEpWeHRoT1FRN0RHbmxlSnVTYllEUHVyNmZvV2hFRVZnd3FFeHdTUV96eUs?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-aaron-antwi"
     },
     {
       "id": "auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic",
@@ -2074,6 +2258,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGpBREgyOVVHR28wVG1SdUNtR05zcUhtT3BPVy1kUE9sbHhSVjVYbzlmcHJYX1F2di1vNS1jQ2w5cWlaeU8tR0NRMWR1TlBKTUY2VWwyWEFPb2xUTVFPc2lLQzFsMFpPX1RxV3UzTW11d3U3SktIVVJ1VElSSmp0ZXIxOXZNMDB0ZGVJZk5pcEhTbnE0eUVXM09oc2R5STVYM0lJMjRKT1BjWHBWMDk3YnlxRlJLbjNobmRQMQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-07-30-ndc-made-18-promises-on-galamsey-yet-what-have-they-done-aar",
+      "date": "2026-07-30",
+      "category": "forest",
+      "title": "NDC Made 18 Promises On Galamsey, Yet What Have They Done? - Aaron Asiedu Antwi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC Made 18 Promises On Galamsey, Yet What Have They Done? - Aaron Asiedu Antwi Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU3A4T2NrTk9UQjFXclJ3SjRLSzRVaXZ5LWQ5Nlc4N1k5MDl3emFoVHE0R1hXVTBFdWxYcGg3ZkJ5SVVPb0x1aXNZNmpwTlRQNEdIZU0yelpsTm92NnpJ0gFcQVVfeXFMTVMxQ0pBME1ITnFMYWVDcW9Idnd0T2pGT1NUd3lwc2JOV0pQMHpOb1dTeEZIcklfdDNseEYwOGlIaWpfRDRKay1FZVppUEZwYkRDMl9KN3NVWGJHTXI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU3A4T2NrTk9UQjFXclJ3SjRLSzRVaXZ5LWQ5Nlc4N1k5MDl3emFoVHE0R1hXVTBFdWxYcGg3ZkJ5SVVPb0x1aXNZNmpwTlRQNEdIZU0yelpsTm92NnpJ0gFcQVVfeXFMTVMxQ0pBME1ITnFMYWVDcW9Idnd0T2pGT1NUd3lwc2JOV0pQMHpOb1dTeEZIcklfdDNseEYwOGlIaWpfRDRKay1FZVppUEZwYkRDMl9KN3NVWGJHTXI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-aaron-antwi"
     },
     {
       "id": "auto-2026-07-29-they-threatened-to-cut-our-heads-atronie-chief-alleges-threa",
@@ -2393,6 +2597,25 @@
       "thread": "t-citinewsroom-obuasi"
     },
     {
+      "id": "auto-2026-07-27-wontumi-s-20-year-jail-term-is-not-victory-in-fight-against-",
+      "date": "2026-07-27",
+      "category": "prosecution",
+      "title": "Wontumi's 20-year jail term is not victory in fight against galamsey — Arnold Baidoo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wontumi's 20-year jail term is not victory in fight against galamsey — Arnold Baidoo GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmxTSmtLN1pJUWhHS3FjNXFkNFVOajM3Z2J3dWJOeFZzYzVyTDhxU2tPTkdyby1xeVhYVkpYTkRiWDh1bWNLaElsRWdPNHdmNHc4amJnZ3VXTFVRZWlBMm0xMTBWSlJka2NWT1VJVjlHdVBxWkNpTnFjV05kd0dLcEQ1cXl2YmRNMGpMRlMwU1dLTEREbFRfVkJYc1VzS2oyeFRwSnVFV1U3cGloYWNqOF9udmxZVFFFVHhpMXhmM0QxMlJUWUNiUWpreUNkRkJuZDlnZ1pXSDZOWHM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWmxTSmtLN1pJUWhHS3FjNXFkNFVOajM3Z2J3dWJOeFZzYzVyTDhxU2tPTkdyby1xeVhYVkpYTkRiWDh1bWNLaElsRWdPNHdmNHc4amJnZ3VXTFVRZWlBMm0xMTBWSlJka2NWT1VJVjlHdVBxWkNpTnFjV05kd0dLcEQ1cXl2YmRNMGpMRlMwU1dLTEREbFRfVkJYc1VzS2oyeFRwSnVFV1U3cGloYWNqOF9udmxZVFFFVHhpMXhmM0QxMlJUWUNiUWpreUNkRkJuZDlnZ1pXSDZOWHM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont",
       "date": "2026-07-22",
       "category": "forest",
@@ -2672,6 +2895,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-mahama-modern"
+    },
+    {
+      "id": "auto-2026-07-15-the-battle-against-illegal-mining-is-difficult-but-the-ghana",
+      "date": "2026-07-15",
+      "category": "forest",
+      "title": "The battle against illegal mining is difficult, but the Ghanaian spirit is stronger – Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The battle against illegal mining is difficult, but the Ghanaian spirit is stronger – Buah Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFvRFpHWmZ5ZlRyVkw2NDR4NWZoUkQ5NVNHMkdOWUhIQ2Z0eEp2N19NNEt6VDBibXpGVV93cDRFa3lxOVJSeGtEbk5UYlJYclh5Z1B1M3hMZ201SDlKSDRkTkFiT2dwMHRsM2FoSDdYbEZEYW1jNGVrTVlpZ08wU0NVeURnNzhNS2YtRVp2UUowdmh0TThaOV9qeVlfM2VyWXZJcmtEUE11OUVxNzZoTWF4LWl5Zw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFFvRFpHWmZ5ZlRyVkw2NDR4NWZoUkQ5NVNHMkdOWUhIQ2Z0eEp2N19NNEt6VDBibXpGVV93cDRFa3lxOVJSeGtEbk5UYlJYclh5Z1B1M3hMZ201SDlKSDRkTkFiT2dwMHRsM2FoSDdYbEZEYW1jNGVrTVlpZ08wU0NVeURnNzhNS2YtRVp2UUowdmh0TThaOV9qeVlfM2VyWXZJcmtEUE11OUVxNzZoTWF4LWl5Zw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-07-14-goldbod-invests-gh-8-4m-to-rehabilitate-water-treatment-plan",
