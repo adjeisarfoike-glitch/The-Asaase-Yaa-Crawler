@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T17:03:32.017Z",
+  "updated": "2026-08-10T19:18:51.694Z",
   "counts": {
-    "total": 197,
+    "total": 201,
     "verified": 28,
-    "automated": 169,
+    "automated": 173,
     "earliest": "2024-07-01",
     "latest": "2026-08-10"
   },
@@ -130,8 +130,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi/?utm_source=rss&utm_medium=rss&utm_campaign=goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T15:58:39.881Z",
-      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+      "archivedAt": "2026-08-10T15:58:39.881Z"
     },
     {
       "id": "auto-2026-08-10-take-galamsey-fight-seriously-if-we-want-to-remain-in-power-",
@@ -546,6 +545,84 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-08-10-dab-i-tragedy-strikes-as-three-die-in-galamsey-pit-collapse-",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "\"Dabɛi?\": Tragedy strikes as three die in galamsey pit collapse, details",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"Dabɛi?\": Tragedy strikes as three die in galamsey pit collapse, details Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1RhMHdUa2UwNkF6NG9aSUw1VmNWWFJodmpGZ2JfMGJELWV2WTdLY1hMRk10VGI5eTdyRjB5RWRoNk9BZDhNbHFzQkNSeWNTVlFjUkIzd1dyZ0h2Y3hHRFFUU0RXVXRhbm9fZi1yU2w4bkhGNnRZNlRTeWlDeGhUbnJfdU02ZF9IeTBSRGpqOHkycGVSYzMyLXhWQnhkMWZJdzJsQ1lkU2NEVnZM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1RhMHdUa2UwNkF6NG9aSUw1VmNWWFJodmpGZ2JfMGJELWV2WTdLY1hMRk10VGI5eTdyRjB5RWRoNk9BZDhNbHFzQkNSeWNTVlFjUkIzd1dyZ0h2Y3hHRFFUU0RXVXRhbm9fZi1yU2w4bkhGNnRZNlRTeWlDeGhUbnJfdU02ZF9IeTBSRGpqOHkycGVSYzMyLXhWQnhkMWZJdzJsQ1lkU2NEVnZM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-we-cannot-drink-gold-the-price-ghana-is-paying-for-galamsey",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "We cannot drink gold: The price Ghana is paying for galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We cannot drink gold: The price Ghana is paying for galamsey MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGZMVFY5TktjTWpBWVFHVktIU3RpMWJTM2R2VWc5dXFQejFuTEs2WUYxQ0xvMllfYW5rOENseUpVakxKTjVndVpSLTZjbDgyUEdZaGlIZXBRc1hRby0tc2pnUlIwLTBFbkROZ0ZHYXlHVVpxVU9qVkdTSXdSdzVRbURtU1lXY2dQdFI3QktheEQ1dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGZMVFY5TktjTWpBWVFHVktIU3RpMWJTM2R2VWc5dXFQejFuTEs2WUYxQ0xvMllfYW5rOENseUpVakxKTjVndVpSLTZjbDgyUEdZaGlIZXBRc1hRby0tc2pnUlIwLTBFbkROZ0ZHYXlHVVpxVU9qVkdTSXdSdzVRbURtU1lXY2dQdFI3QktheEQ1dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-naimos-intensifies-bia-river-crackdown-as-illegal-mining-rav",
+      "date": "2026-08-10",
+      "category": "arrest",
+      "title": "NAIMOS Intensifies Bia River Crackdown as Illegal Mining Ravages Waterway",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Intensifies Bia River Crackdown as Illegal Mining Ravages Waterway NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUs4ejA1ZERCczRPTFpwZEk1MG5VNFRQZm9RcTV2bUJoWHhiMFpNTDA2NEY5RUFmU0J0ZVpTd2E1VEFZN1JydXZJaDhMTnhXcFd1UlpXLWpsb3dPT2czTjlpcGFFc0llSlAyTjFKYnVMRGhxRnRVU1RScmJOS1o0Qm1KUVlCZFpwVFozRHRNN3hPT3pXREZwWmJpUHBjbDBm?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUs4ejA1ZERCczRPTFpwZEk1MG5VNFRQZm9RcTV2bUJoWHhiMFpNTDA2NEY5RUFmU0J0ZVpTd2E1VEFZN1JydXZJaDhMTnhXcFd1UlpXLWpsb3dPT2czTjlpcGFFc0llSlAyTjFKYnVMRGhxRnRVU1RScmJOS1o0Qm1KUVlCZFpwVFozRHRNN3hPT3pXREZwWmJpUHBjbDBm?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-08-10-goldbod-generated-10-8bn-in-forex-from-small-scale-gold-samm",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "GoldBod generated $10.8bn in forex from small-scale gold — Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, says Ghana generated more than $10.8 billion in foreign exchange from artisanal and small-scale mining gold alone, contributing significantly to the country’s foreign exchange market and reserve accumulation.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-generated-10-8bn-in-forex-from-small-scale-gold-sammy-gyamfi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-generated-10-8bn-in-forex-from-small-scale-gold-sammy-gyamfi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ",
