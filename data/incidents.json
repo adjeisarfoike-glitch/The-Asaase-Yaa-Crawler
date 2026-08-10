@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T16:51:15.918Z",
+  "updated": "2026-08-10T17:03:32.017Z",
   "counts": {
-    "total": 196,
+    "total": 197,
     "verified": 28,
-    "automated": 168,
+    "automated": 169,
     "earliest": "2024-07-01",
     "latest": "2026-08-10"
   },
@@ -524,7 +524,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-08-10-naimos-intensifies-river-tano-crackdown-as-illegal-mining-op",
+      "date": "2026-08-10",
+      "category": "arrest",
+      "title": "NAIMOS Intensifies River Tano Crackdown as Illegal Mining Operations Disrupted",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Intensifies River Tano Crackdown as Illegal Mining Operations Disrupted NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN3VFVfSUszRnBJdWdZVUdLTEF2R3drTmlqRmg0SExXbV9IRTlrVk8tY2ZmMGtYUklUblYySDR6b3lxT2I3cVFOaUZVeHA4OHNtM3JhbG5Zc2pHQ2hRZmZneGlJSkxPQ3VxQ25neTVuQ3UwVElMZUZyMm1CSU1TVnVhYVlBV0pkT2lsYUJGX0p4eGJVbVc2Rm4zVjF4XzhIMEVJVnltNA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN3VFVfSUszRnBJdWdZVUdLTEF2R3drTmlqRmg0SExXbV9IRTlrVk8tY2ZmMGtYUklUblYySDR6b3lxT2I3cVFOaUZVeHA4OHNtM3JhbG5Zc2pHQ2hRZmZneGlJSkxPQ3VxQ25neTVuQ3UwVElMZUZyMm1CSU1TVnVhYVlBV0pkT2lsYUJGX0p4eGJVbVc2Rm4zVjF4XzhIMEVJVnltNA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ",
