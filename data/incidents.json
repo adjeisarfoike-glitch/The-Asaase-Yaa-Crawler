@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T13:48:21.512Z",
+  "updated": "2026-08-10T15:24:08.529Z",
   "counts": {
-    "total": 187,
+    "total": 193,
     "verified": 28,
-    "automated": 159,
+    "automated": 165,
     "earliest": "2024-07-01",
     "latest": "2026-08-10"
   },
@@ -46,7 +46,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-to-support-reclamation-of-three-devastated-forest-reserves-in-2027-sammy-gyamfi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-awuku-sammy"
+      "thread": "t-awuku-sammy",
+      "archivedAt": "2026-08-10T15:19:52.065Z"
     },
     {
       "id": "auto-2026-08-10-poor-formalisation-of-small-scale-mining-worsened-galamsey-c",
@@ -66,7 +67,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/poor-formalisation-of-small-scale-mining-worsened-galamsey-crisis-goldbod-ceo/",
       "via": "rss",
       "verified": false,
-      "thread": "t-awuku-sammy"
+      "thread": "t-awuku-sammy",
+      "archivedAt": "2026-08-10T15:20:05.039Z"
     },
     {
       "id": "auto-2026-08-10-a-time-may-come-when-the-land-cannot-yield-crops-duncan-will",
@@ -86,7 +88,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/a-time-may-come-when-the-land-cannot-yield-crops-duncan-williams-warns-over-galamsey/",
       "via": "rss",
       "verified": false,
-      "thread": "t-action-archbishop"
+      "thread": "t-action-archbishop",
+      "archivedAt": "2026-08-10T15:20:18.438Z"
     },
     {
       "id": "auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens",
@@ -105,7 +108,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/three-young-miners-killed-in-pit-collapse-at-odumase-santenso/?utm_source=rss&utm_medium=rss&utm_campaign=three-young-miners-killed-in-pit-collapse-at-odumase-santenso",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-10T15:21:01.455Z",
+      "thread": "t-akyem-asante"
     },
     {
       "id": "auto-2026-08-10-goldbod-targets-three-forest-reserves-for-reclamation-in-202",
@@ -362,6 +367,103 @@
       "via": "rss",
       "verified": false,
       "thread": "t-atiwa-west"
+    },
+    {
+      "id": "auto-2026-08-10-ghanaians-send-strong-message-to-duncan-williams-over-galams",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Ghanaians send strong message to Duncan-Williams over galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghanaians send strong message to Duncan-Williams over galamsey comments yen.com.gh",
+      "metrics": {},
+      "source": {
+        "name": "yen.com.gh",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWROLXM2U0xCcjU0Nncwc19xNnJDSHY4X21wbGdLTHFqdF90R2JFdGszMXNWcmhKTVRiUTE5ejh1eFdDSHVYYkxDaWxFcmxWSU9JaXlZZGVhTzd6RVNpQk1CLWJLWXhnZ0dXWWhNVlZjcC0xd2RGMTJmVVZzQjk4M0RJem11VWVQeDBVeWZKY09tY29HQm1aUDF2eDh4Zm9IcktKclVlVGk5c3JFMEExMF9USFFQZUhzcHJHSWhFMmFDckgzNzFkTXZPOHQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxPaWROLXM2U0xCcjU0Nncwc19xNnJDSHY4X21wbGdLTHFqdF90R2JFdGszMXNWcmhKTVRiUTE5ejh1eFdDSHVYYkxDaWxFcmxWSU9JaXlZZGVhTzd6RVNpQk1CLWJLWXhnZ0dXWWhNVlZjcC0xd2RGMTJmVVZzQjk4M0RJem11VWVQeDBVeWZKY09tY29HQm1aUDF2eDh4Zm9IcktKclVlVGk5c3JFMEExMF9USFFQZUhzcHJHSWhFMmFDckgzNzFkTXZPOHQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-ghana-deploys-24-hour-camps-to-halt-resurgent-illegal-mining",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Ghana Deploys 24-Hour Camps to Halt Resurgent Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Deploys 24-Hour Camps to Halt Resurgent Illegal Mining streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmpkaU13RHdNd0V0UmxiYUhTTjdUMXBVZzJ5bHRPVEdJRjdKSzc1ck05R3hRSGRlVzlEM3AyWHlzYnJxckp0ZUtnc1QyckdVNENCNUJLWEF1bGIzLTJyYTljWm1uNlpxR0JRYkpKeDJiaExMT1hWLWJGbGM3QXRCNC1wT2tSQTBVTHZBVXJvLTBzOUNhOUlNaGRB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmpkaU13RHdNd0V0UmxiYUhTTjdUMXBVZzJ5bHRPVEdJRjdKSzc1ck05R3hRSGRlVzlEM3AyWHlzYnJxckp0ZUtnc1QyckdVNENCNUJLWEF1bGIzLTJyYTljWm1uNlpxR0JRYkpKeDJiaExMT1hWLWJGbGM3QXRCNC1wT2tSQTBVTHZBVXJvLTBzOUNhOUlNaGRB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre",
+      "date": "2026-08-10",
+      "category": "reclamation",
+      "title": "NAIMOS Moves to Reclaim Birim River from Illegal Mining Threat",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "NAIMOS Moves to Reclaim Birim River from Illegal Mining Threat NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGx0VTFOd2hsZFFoWHhGWnRkOFFILXF1b2w4b0xCcUVxZVRfRU5zR0VWanZISnh5dVVmZVRoT1FlVDhwbXZSa19LaFQ5clh5RXJBdGt6dDNqUHUydHJYQndnZ2o4ZW9KZXhIUTJNVEY3NmczanhtNVhlaWxVejhQeXBxa240R2pUeXBwNEVCYm5xQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGx0VTFOd2hsZFFoWHhGWnRkOFFILXF1b2w4b0xCcUVxZVRfRU5zR0VWanZISnh5dVVmZVRoT1FlVDhwbXZSa19LaFQ5clh5RXJBdGt6dDNqUHUydHJYQndnZ2o4ZW9KZXhIUTJNVEY3NmczanhtNVhlaWxVejhQeXBxa240R2pUeXBwNEVCYm5xQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-three-killed-after-illegal-mining-pit-collapse-at-odumase-sa",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Three killed after illegal mining pit collapse at Odumase-Santenso",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Three people died at Odumase-Santenso in the Asante Akyem Central Municipality of the Ashanti Region last Friday after an illegal mining pit collapsed on them. According to the assembly member for the area, the pit collapsed and trapped them underground. The assembly member, Isaac Kyei Andoh, said the incident happened around 4 p.m. on Friday, August 7, 2026. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/three-killed-after-illegal-mining-pit-collapse-at-odumase-santenso.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/three-killed-after-illegal-mining-pit-collapse-at-odumase-santenso.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-akyem-asante"
+    },
+    {
+      "id": "auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-",
+      "date": "2026-08-10",
+      "category": "policy",
+      "title": "Lands Minister upholds revocation of three mining leases of Adamus Resources",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister of Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has upheld the revocation of three mining leases held by Adamus Resources Limited following the submission of the Inter-Ministerial Committee's final report reviewing the company's petition against the initial decision. The minister's final determination brings to a close a review process that was initiated after the minister, acting on the recomm",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-armah-kofi-buah"
     },
     {
       "id": "auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ",
@@ -640,6 +742,25 @@
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa0h6SFB1a2Zsa2x1UWFiczl0S0pjY0NLMWpCbWg4VGk3VjRJWXdBN1J6NG9RV2k4VkhZWk53QVZobkl4NEVfa2tBS3d5MFNMNW5CNU9pel9TeGo3Tmx4RVRiNGh4QlVIU3JvVGpUekVkSHZna2JRVnFLSXFRS2R2S3NNR1RJcjhXX0VSYVJPV2RTZ2VreEk0UUtMYUJ5Mi16V0VQSHZZZ0pERlFMTERIUTR5dTdwdVpUV1Y5Mkd3LVRrVGdlWFlrdHBQdGphN2VhbllmYk5odTFSd0lSTHpvVHU2NmN3N1NucW4yM3pVVlVyTHBuT0xOLXk5WUpMcHlRLTRfZ2hn?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgJBVV95cUxQa0h6SFB1a2Zsa2x1UWFiczl0S0pjY0NLMWpCbWg4VGk3VjRJWXdBN1J6NG9RV2k4VkhZWk53QVZobkl4NEVfa2tBS3d5MFNMNW5CNU9pel9TeGo3Tmx4RVRiNGh4QlVIU3JvVGpUekVkSHZna2JRVnFLSXFRS2R2S3NNR1RJcjhXX0VSYVJPV2RTZ2VreEk0UUtMYUJ5Mi16V0VQSHZZZ0pERlFMTERIUTR5dTdwdVpUV1Y5Mkd3LVRrVGdlWFlrdHBQdGphN2VhbllmYk5odTFSd0lSTHpvVHU2NmN3N1NucW4yM3pVVlVyTHBuT0xOLXk5WUpMcHlRLTRfZ2hn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-08-world-protesters-in-ghana-demand-end-to-illegal-mining",
+      "date": "2026-08-08",
+      "category": "forest",
+      "title": "World: Protesters in Ghana demand end to illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "World: Protesters in Ghana demand end to illegal mining NewVision.co.ug",
+      "metrics": {},
+      "source": {
+        "name": "NewVision.co.ug",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanNTejJmb0ZzQmN0OUJNRHVyd1M3dW8xUENmbjJGN2ctRkI0MFZCd05lbzc5MnByelNvWndpUDhmd05paWNzQ2VGUnE4d05nRjVuVjhXQzl5UE02RzF0M0kwdWRFaEtUTlRjTTU3clh4VXk5a0tpenByT1VqNU9ZbW1uZkpFS3dIT19NNjhQOVp6NVZ5X2FDR2ctQ09IQ0VHS2Z5NGU4V1A?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanNTejJmb0ZzQmN0OUJNRHVyd1M3dW8xUENmbjJGN2ctRkI0MFZCd05lbzc5MnByelNvWndpUDhmd05paWNzQ2VGUnE4d05nRjVuVjhXQzl5UE02RzF0M0kwdWRFaEtUTlRjTTU3clh4VXk5a0tpenByT1VqNU9ZbW1uZkpFS3dIT19NNjhQOVp6NVZ5X2FDR2ctQ09IQ0VHS2Z5NGU4V1A?oc=5",
       "via": "rss",
       "verified": false
     },
