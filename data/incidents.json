@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-10T15:24:08.529Z",
+  "updated": "2026-08-10T16:02:49.174Z",
   "counts": {
-    "total": 193,
+    "total": 196,
     "verified": 28,
-    "automated": 165,
+    "automated": 168,
     "earliest": "2024-07-01",
     "latest": "2026-08-10"
   },
@@ -130,7 +130,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi/?utm_source=rss&utm_medium=rss&utm_campaign=goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi",
       "via": "rss",
       "verified": false,
-      "thread": "t-awuku-sammy"
+      "thread": "t-awuku-sammy",
+      "archivedAt": "2026-08-10T15:58:39.881Z"
     },
     {
       "id": "auto-2026-08-10-take-galamsey-fight-seriously-if-we-want-to-remain-in-power-",
@@ -149,7 +150,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNN19Pa2VCekNhenZmQ0M2eDA2UlB2S3RWd29MSE5CS3M0M1FTOGNDczUzY0JpUHdIYi1uc0g5d3Rtb3NDa2oybEFFZ3I3dmIxWDZKUHBFTlhlOXZJM0hGZE50M2RvYXZDcmN0eksyT1BBSFdHTGV6eWs3blFGWlpzVWZtWTNpVHFsOHNUalpjN2FGaFZFam01WnJPd27SAZsBQVVfeXFMUFFTcHRjZjZFUi1seTMwU1N3V0JUR2VzRzZWenhXekZrbHJnSERhanBySGNqTjVCaVdHSE9GU2k2UlNnb2x4US1RZU1aeFVTMjlpMHJHVEtPV2VNWl9VdHkxcWxqdTNraHBjcFdmZHJTUWZaYkZWMHNqQXU0T2pvdmZXTkVHYUk0bmE5RGVUcUZPemlQd0ZpQy1Id1U?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-10T15:58:55.887Z"
     },
     {
       "id": "auto-2026-08-10-galamsey-we-are-taking-up-three-devastated-forest-reserves-t",
@@ -168,7 +170,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNekE5ZFQ5eHRDb2xEMkdyblV1b2pqUlhoSW5odEhsM0FfYm1wb3NUTHMzSFRSWWptdHpyQjFmeFRWQjF5dGtxTTNOU0d4QmgxR1lzaDdSajBVdlBobC1uZnZXNU5vMm90c05yNlp0VjdteFNKbkZPSml0ZElUS1ZQR3VaTWFYTG9PSWZRSUVxVzVWVXk0b0VXOHh30gGYAUFVX3lxTFBqQmNCNlE5SlpUV3RnTjRodDRUZGp4R1I4c3pubVhvWFZtT2tkdnV1S2QtQ0w1OGhCTW5JdjVDUTlpQmhxWnlyUlRKWE9YMHlhZ1hvZjRlYldHMTlIV3pUaGljMEFrZkJRN3g1Z0FlcGR0ODF4YWg2dW9WSFJ4cXNETTZ1bEtlbzFuUVV3NkVFSXdSWWxzaTZh?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-10T15:59:09.547Z"
     },
     {
       "id": "auto-2026-08-10-atronie-invokes-ancestral-justice-as-galamsey-poison-sacred-",
@@ -466,6 +469,63 @@
       "thread": "t-armah-kofi-buah"
     },
     {
+      "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
+      "date": "2026-08-10",
+      "category": "arrest",
+      "title": "13 Arrested in Intelligence Led NAIMOS Operation at Sanso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 Arrested in Intelligence Led NAIMOS Operation at Sanso NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMF9idVBVbEp6MTNMUTQ2YVphc1FJazNrX3VjWUZvQ3ZsbXZ6YWFnTFczamhidWxSdlo1aVNyRjBQcmVKWHpVcXFYNXY0aE91TGhEb0tMaFVoam5nR095S0FVNkJNLUJvTlNrQmIwUFRjNFZySHZaRG1fLV9Gc19DX192M3haQWpHWFg4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMF9idVBVbEp6MTNMUTQ2YVphc1FJazNrX3VjWUZvQ3ZsbXZ6YWFnTFczamhidWxSdlo1aVNyRjBQcmVKWHpVcXFYNXY0aE91TGhEb0tMaFVoam5nR095S0FVNkJNLUJvTlNrQmIwUFRjNFZySHZaRG1fLV9Gc19DX192M3haQWpHWFg4?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o",
+      "date": "2026-08-10",
+      "category": "arrest",
+      "title": "NAIMOS, Military and Police Storm Wakawaka in Anti-Galamsey Operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS, Military and Police Storm Wakawaka in Anti-Galamsey Operation NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
+      "date": "2026-08-10",
+      "category": "water",
+      "title": "NAIMOS Intensifies River Patrols as Illegal Mining Ravages Bia River",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Intensifies River Patrols as Illegal Mining Ravages Bia River NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ",
       "date": "2026-08-09",
       "category": "forest",
@@ -603,7 +663,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEhqQXlHMzF2QnZvYWY0TXBQMmRUcmdrRkVodGhJQTZXMUc4YWZMc3lvcWpOODRlNTNpSV93UFNwZ3Bpc09XYkx0dUJJWkNiQ2h6VjVkMURfN2JuZi14c1JnLWZJYm5sVFFxZTEyM3hReHhydGRVd0trSzE4RDFsazdERzFyVHd1VUQ4VzNnd0ZhYjhia0xYOUZWSTNRZ29TSDRveUd4UzFWQWM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-asaase-radio"
     },
     {
       "id": "auto-2026-08-08-honour-august-6-crash-victims-by-fighting-galamsey-dr-zaato",
@@ -2448,7 +2509,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xdE5QRHM1ckhKOVQ5ZDlIdWtzcnhMRG92ekJnN1JRdF9DaEg2VTRtcmZBWjB4c21uVWhoWjlSNDVVcDNLVTVwZTYyakJxR2VmQXF5LTNMNUNZRmd6Y25F0gFcQVVfeXFMUFVpN2V2WGoxQkVWaDh1YlhhM3Q0ZFZRbzFBV0pVMThoQVZQZ1JFb01RcmJpel9PZGIxcFVMYWJhZE1iektMYl9zeDVwTlRYaFdvM2dkZHlaTXk1Y0U?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-fiase-modern"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-illegal-miners-over-galamsey-activities-ne",
@@ -3031,7 +3093,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/full-judgement-why-wontumi-was-jailed-20-years-for-illegal-mining-in-samreboi.html",
       "verified": true,
-      "thread": "t-akonta-samreboi"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-07-21-galamsey-guilt-and-the-price-of-impunity",
@@ -3617,8 +3679,7 @@
         "name": "Graphic Online",
         "url": "https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-9-000-hectares-of-forest-reserves-forestry-commission-research.html"
       },
-      "verified": true,
-      "thread": "t-forestry-western"
+      "verified": true
     },
     {
       "id": "fr-upper-east",
@@ -3793,7 +3854,7 @@
         "url": "https://www.ghanaweb.com/blogs/rocky55/26-people-are-arrested-and-excavators-are-seized-during-a-police-and-forestry-commission-operation-on-Chairman-Wontumi-s-Galamsey-sites-10870"
       },
       "verified": true,
-      "thread": "t-akonta-samreboi"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "wat-2024-cocoa-rivers",
