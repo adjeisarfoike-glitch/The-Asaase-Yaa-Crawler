@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-11T13:45:16.399Z",
+  "updated": "2026-08-11T19:23:20.259Z",
   "counts": {
-    "total": 211,
+    "total": 220,
     "verified": 28,
-    "automated": 183,
+    "automated": 192,
     "earliest": "2024-07-01",
     "latest": "2026-08-11"
   },
@@ -63,7 +63,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkN3OXEtMFVyMzByRllFOXRXbmZVaTZxdmhvTi1WbHlrTEVJM2RwRGRHZU1fdnMyVnlIeDNCa1JBMkJRVi1nN2RTQjNzUXlRQ0Z1ZUZoYUJfMXNzWjJnaE1tSVJMc0RJeGtwUHFuZ3ZDTl9BTGNraGRldHJpTW5QbkFKMWFwVTdIQ3pHbEdBdnVzUDR4YTJkcXFjOUTSAZsBQVVfeXFMTWlodlY0ZmphR2NkdUNDYXNyUlRwdmE4dTFvczBtbXZVb2tEMmZPRDFIRll5UEMxQm1JOTBFdWpkNV9yY1ZJN2IxZi1VYlFzSTdJdTFDdUxDLWJPR0tDMXZPdEtQSUMxRlN6a3JWOWdFdmhHUEpfTzFTYmR3cVNhSVpyX3FKMERpMEk1bllkQ2R0VGluQk5wOHRHYW8?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-11T19:19:05.947Z"
     },
     {
       "id": "auto-2026-08-11-galamsey-fight-naimos-launches-operation-along-birim-river",
@@ -82,7 +83,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE5nVjBCVUFSTXBuS1A4aTFNakFpcGQ2WFZsRHBIUUhvMTgxb3luSTR6QXRYdTYxY0VrSUIzUHFxbnlCVndqcDhIT1h1ZE8yOV9XdEpMdFlNT1QtdERHaTlrZGRZSk96V0J5ZkpjY1J5b0xTdW1TNFZwNnFIZFZqZnBpUEp2ZGhrMlJFaVVQRQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-11T19:19:30.914Z"
     },
     {
       "id": "auto-2026-08-11-naimos-launches-major-operation-to-clear-illegal-mining-alon",
@@ -100,6 +102,181 @@
         "url": "https://3news.com/news/naimos-launches-major-operation-to-clear-illegal-mining-along-birim-river-in-kyebi"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-launches-major-operation-to-clear-illegal-mining-along-birim-river-in-kyebi",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-don-t-sacrifice-ghana-s-environment-for-money-metho",
+      "date": "2026-08-11",
+      "category": "policy",
+      "title": "Galamsey: Don’t sacrifice Ghana’s environment for money – Methodist minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Don’t sacrifice Ghana’s environment for money – Methodist minister CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajV5TnFQallmOHZsVmNuVnZna0Z5MTJWell3ZlVROEpBMlFWa0RuWldMUl9RX1ZtekpYOTdJRlV0ZFBiWV96WnNKSHlnVVVDbHVvR045ZldNaHREX0NNZXFIYW1MUWlyVS1VUVpkZVhRdF9tX01FcjdDZ0R5cjBFd1ExclYyUXhLelZrMm1iSlNBSk93WUtXNkZWS3FWYkFDaDBqd3ZKUnJ4YlcxaFJSdkNSbjJKVmxLTGp3VzRZOGx3QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajV5TnFQallmOHZsVmNuVnZna0Z5MTJWell3ZlVROEpBMlFWa0RuWldMUl9RX1ZtekpYOTdJRlV0ZFBiWV96WnNKSHlnVVVDbHVvR045ZldNaHREX0NNZXFIYW1MUWlyVS1VUVpkZVhRdF9tX01FcjdDZ0R5cjBFd1ExclYyUXhLelZrMm1iSlNBSk93WUtXNkZWS3FWYkFDaDBqd3ZKUnJ4YlcxaFJSdkNSbjJKVmxLTGp3VzRZOGx3QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Galamsey Sites Expose Birim River to Danger – Alexander Acquah",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Galamsey Sites Expose Birim River to Danger – Alexander Acquah Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OVGI4OWVkdzh5aW5NeUdfOHNZTk5PQUs5SnpQazVXS213LUExZDdRX0N1R2RXeU5fdU51TU8wclFWU21uaFRFdDVGTGs1WHJZOFdjUHZvQVNmb29UbzZxMC1FZ9IBXEFVX3lxTE81eXpxZVZqazMybFJ1Zk8zczh5eDAzbUYzdjlyR1dhcUdUcllJRFdZQ0lYSjRQaFU1YngzeVQtb25SNDRsRGZVVnoxZnJWalg5TVVRYm9KWGt3Q2lo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OVGI4OWVkdzh5aW5NeUdfOHNZTk5PQUs5SnpQazVXS213LUExZDdRX0N1R2RXeU5fdU51TU8wclFWU21uaFRFdDVGTGs1WHJZOFdjUHZvQVNmb29UbzZxMC1FZ9IBXEFVX3lxTE81eXpxZVZqazMybFJ1Zk8zczh5eDAzbUYzdjlyR1dhcUdUcllJRFdZQ0lYSjRQaFU1YngzeVQtb25SNDRsRGZVVnoxZnJWalg5TVVRYm9KWGt3Q2lo?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-youth-must-shun-galamsey-to-protect-ghana-s-future-rev-sgt-b",
+      "date": "2026-08-11",
+      "category": "forest",
+      "title": "Youth Must Shun Galamsey to Protect Ghana’s Future – Rev. Sgt. Bitirem",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Youth Must Shun Galamsey to Protect Ghana’s Future – Rev. Sgt. Bitirem Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUnhNM2UtQXR0SV9id0ctY0o2LWZvSl9HVjBUcWY5c0c2VUUweG8wZWRmQ3FIWExNbUxmR004UG9sc3lkczBVZ1FMeWE3dUV0TUZYSm5HU0Q3TUgw0gFcQVVfeXFMUEhSeE0zZS1BdHRJX2J3Ry1jSjYtZm9KX0dWMFRxZjlzRzZVRTB4bzBlZGZDcUhYTE1tTGZHTThQb2xzeWRzMFVnUUx5YTd1RXRNRlhKbkdTRDdNSDA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUnhNM2UtQXR0SV9id0ctY0o2LWZvSl9HVjBUcWY5c0c2VUUweG8wZWRmQ3FIWExNbUxmR004UG9sc3lkczBVZ1FMeWE3dUV0TUZYSm5HU0Q3TUgw0gFcQVVfeXFMUEhSeE0zZS1BdHRJX2J3Ry1jSjYtZm9KX0dWMFRxZjlzRzZVRTB4bzBlZGZDcUhYTE1tTGZHTThQb2xzeWRzMFVnUUx5YTd1RXRNRlhKbkdTRDdNSDA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-08-11-berekum-residents-protest-galamsey-destruction-of-farmlands-",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Berekum Residents Protest Galamsey Destruction of Farmlands and Water Bodies",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum Residents Protest Galamsey Destruction of Farmlands and Water Bodies Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQmdlTUZKSExBNFlJeTVRMXFUaTVSSF9jTnNXQ0RJSzFad2cyWEt1UzRNaVc1U2d2TVhXclhtTm82ckt6bGpqZDE3WnU1NHp6aDZDS3ZwN1ZnRE9j0gFcQVVfeXFMUGFCZ2VNRkpITEE0WUl5NVExcVRpNVJIX2NOc1dDRElLMVp3ZzJYS3VTNE1pVzVTZ3ZNWFdyWG1ObzZyS3psampkMTdadTU0enpoNkNLdnA3VmdET2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQmdlTUZKSExBNFlJeTVRMXFUaTVSSF9jTnNXQ0RJSzFad2cyWEt1UzRNaVc1U2d2TVhXclhtTm82ckt6bGpqZDE3WnU1NHp6aDZDS3ZwN1ZnRE9j0gFcQVVfeXFMUGFCZ2VNRkpITEE0WUl5NVExcVRpNVJIX2NOc1dDRElLMVp3ZzJYS3VTNE1pVzVTZ3ZNWFdyWG1ObzZyS3psampkMTdadTU0enpoNkNLdnA3VmdET2M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
+    {
+      "id": "auto-2026-08-11-berekum-rises-against-galamsey-residents-demand-urgent-actio",
+      "date": "2026-08-11",
+      "category": "forest",
+      "title": "Berekum Rises Against Galamsey: Residents Demand Urgent Action",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum Rises Against Galamsey: Residents Demand Urgent Action Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sX19Vbmt0NHJVbGJNaVhGYnE1LVBLTVpmUzlFZGZZNGhoeWlYRi1zMks1MGZtZU14QklveC12bXNhV2VqR3VKWnpiYWNYUlV0UHVKVU83WmtjekFU0gFcQVVfeXFMTWxfX1Vua3Q0clVsYk1pWEZicTUtUEtNWmZTOUVkZlk0aGh5aVhGLXMySzUwZm1lTXhCSW94LXZtc2FXZWpHdUpaemJhY1hSVXRQdUpVTzdaa2N6QVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sX19Vbmt0NHJVbGJNaVhGYnE1LVBLTVpmUzlFZGZZNGhoeWlYRi1zMks1MGZtZU14QklveC12bXNhV2VqR3VKWnpiYWNYUlV0UHVKVU83WmtjekFU0gFcQVVfeXFMTWxfX1Vua3Q0clVsYk1pWEZicTUtUEtNWmZTOUVkZlk0aGh5aVhGLXMySzUwZm1lTXhCSW94LXZtc2FXZWpHdUpaemJhY1hSVXRQdUpVTzdaa2N6QVQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
+    {
+      "id": "auto-2026-08-11-naimos-intensifies-galamsey-crackdown-arrests-40-and-seizes-",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "NAIMOS intensifies galamsey crackdown, arrests 40 and seizes mining equipment across six regions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS intensifies galamsey crackdown, arrests 40 and seizes mining equipment across six regions myjoyonline.com",
+      "metrics": {},
+      "source": {
+        "name": "myjoyonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaWUxMlhMSkdZQnM1bkpMbkhoOGZjTHd4T2FMNGFBRVMwWHdwUW5icklwblVremkzVEtaOTduc2t0STVWQTJRbnFCdEpRWFExWk5qZHZOWFZ1VXlqN05kSGRBWU0zZ2JfT3Q5XzRRWGRjTk1hOTlLdFprTmVkd3FVQ1Y1Qy02SzdHSXh5MGVCbnE3b0hnZE9LY3NLUzd6bHF0QktLdlFEdDdpU2oyemV4dVVKeENxSTJZQUdxTjFfc0ZYZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaWUxMlhMSkdZQnM1bkpMbkhoOGZjTHd4T2FMNGFBRVMwWHdwUW5icklwblVremkzVEtaOTduc2t0STVWQTJRbnFCdEpRWFExWk5qZHZOWFZ1VXlqN05kSGRBWU0zZ2JfT3Q5XzRRWGRjTk1hOTlLdFprTmVkd3FVQ1Y1Qy02SzdHSXh5MGVCbnE3b0hnZE9LY3NLUzd6bHF0QktLdlFEdDdpU2oyemV4dVVKeENxSTJZQUdxTjFfc0ZYZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-has-polluted-60-of-ghana-s-water-bodies-csir-wri-sc",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Galamsey has polluted 60% of Ghana’s water bodies — CSIR-WRI scientist",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "About 60 per cent of Ghana’s water bodies are polluted, a senior scientist at the CSIR-Water Research Institute (CSIR-WRI), Dr Franco Enobrenaco, has warned.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-has-polluted-60-of-ghanas-water-bodies-csir-wri-scientist/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-has-polluted-60-of-ghanas-water-bodies-csir-wri-scientist/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "NAIMOS arrests 40 illegal miners; seizes mining equipment across six regions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The operations were conducted from Monday 27th of July 2026 to Sunday 2nd August 2026 in Western North, Western, Ashanti, Ahafo, Savannah and Eastern Regions.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-western-north"
+    },
+    {
+      "id": "auto-2026-08-11-attorney-general-opposes-bail-application-by-wontumi-s-lawye",
+      "date": "2026-08-11",
+      "category": "prosecution",
+      "title": "Attorney-General opposes bail application by Wontumi's lawyers",
+      "place": "Samreboi",
+      "region": "Western North",
+      "lat": 5.65,
+      "lon": -2.55,
+      "summary": "Lawyers for Chairman Wontumi have challenged the 20-year jail term for illegal mining-related offences on his Samreboi concession.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/attor"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/attor",
       "via": "rss",
       "verified": false
     },
@@ -2617,7 +2794,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOZm1BTkpETG1fNUNJMDF3RElualJOTkx4SXQ0MmljOWtvNTFZN09wdmJ3SWk0UjFOYll6c3VDLThzUnBKT0otczltbjNOeUdDQ1pYZjFsOUt1Z0hXYW5oMUV6S3h3MVJib3dkWjNHYXR6TGk0elROR3VQZk5DWWZaamN1MFc0X0xlRjI3VE4xRjlKd0thSlHSAZQBQVVfeXFMTVQ4TlRPNzMxTnJtU0FXVjdaWURUd2F2S09aS3RNUi1NcnJFMHFrdVE0d20xRmJGcDZiT2hTRDlrZHI1OXl3SlZHdjZuQ21TcGV1LXloOHJKTTVjeDVINGtKcEdzMkJBMXA1TWdnOHZQbVZBSHlTMDRYME92NUVlQWxmcmNQcl9nekY0QzBEN0ladlNOZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-in-mpohor-fiase-anti-galamsey-operation",
@@ -3928,7 +4106,8 @@
         "name": "Graphic Online",
         "url": "https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-9-000-hectares-of-forest-reserves-forestry-commission-research.html"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-fr-western-north"
     },
     {
       "id": "fr-upper-east",
