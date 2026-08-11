@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-11T02:31:00.672Z",
+  "updated": "2026-08-11T07:39:53.769Z",
   "counts": {
-    "total": 204,
+    "total": 206,
     "verified": 28,
-    "automated": 176,
+    "automated": 178,
     "earliest": "2024-07-01",
     "latest": "2026-08-10"
   },
@@ -291,7 +291,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzFKU05mTVN0WjNGcmlwS25tUVlRRDhPRWJiOFhKejk1U1BsT0JXdy13WmhwU1dZcVdxOEpxUGRiZWx0RG93Q0xJTWNWUE5OOGNHSmx2UTZlSTBjbW9wOWxNNFU4UWJQUHJyNEFUODJuQzM1V1BmSHFCZG9Ya3NJR00yQzRwVlhYenBGT1g5QjRkdWM4TUFIeQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-11T07:36:13.613Z"
     },
     {
       "id": "auto-2026-08-10-goldbod-budgets-for-10-speedboats-to-support-naimos-anti-gal",
@@ -662,6 +663,25 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-bribe-taking-security-officials-undermining-galamsey-fight-m",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "'Bribe-taking security officials undermining galamsey fight' - Miners' group alleges",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Bribe-taking security officials undermining galamsey fight' - Miners' group alleges GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBHS1dpaGJHa1VOVWpaUzJrOUhsRGk3bFQtWUVsNEVrNHhiNTUzN3RfcE9qekVIM0hmSWhPWVg5SnAwaHVaOG40Vnc0TjM4T1VBbzJ1ZnlWT29uRkQtc0ItY2RYYjRyTWN6TkFWTHdpMzlrTmlBVllXQ09zMEwyVVVmNkJlRzZUc25sVWVOUVoxQzdSUGRmcklEdHZYVEctcFA0YkpnM0NKZUxLdmhKR3g0TktpNUpqTXl4Tk5KTmtCQWgybDJwUTYwMUNfTGVk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBHS1dpaGJHa1VOVWpaUzJrOUhsRGk3bFQtWUVsNEVrNHhiNTUzN3RfcE9qekVIM0hmSWhPWVg5SnAwaHVaOG40Vnc0TjM4T1VBbzJ1ZnlWT29uRkQtc0ItY2RYYjRyTWN6TkFWTHdpMzlrTmlBVllXQ09zMEwyVVVmNkJlRzZUc25sVWVOUVoxQzdSUGRmcklEdHZYVEctcFA0YkpnM0NKZUxLdmhKR3g0TktpNUpqTXl4Tk5KTmtCQWgybDJwUTYwMUNfTGVk?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3246,6 +3266,25 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3BMQ3dsQl8xa3N3S2VBWmhvOE13YTlXaXNQSm5hbnl3MWxnMTFCTjJ1eTNVSWV4YkN4bVRweUM0X3FWTzNjOXI5X3Rlb2o4aGsyNHVkYWxtN05wN0V0RWhfTWJYcmZvUE51THg4Uk9DVUFTX19iTng2eEUtZ0dkcWIwRGtJekd5emZlcFFKbUotYno1aHdOSl9sajBKU2tOeGw2WmJyckRhZy16MTYwRGVESDZqa2ZSaWJYbHRR?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3BMQ3dsQl8xa3N3S2VBWmhvOE13YTlXaXNQSm5hbnl3MWxnMTFCTjJ1eTNVSWV4YkN4bVRweUM0X3FWTzNjOXI5X3Rlb2o4aGsyNHVkYWxtN05wN0V0RWhfTWJYcmZvUE51THg4Uk9DVUFTX19iTng2eEUtZ0dkcWIwRGtJekd5emZlcFFKbUotYno1aHdOSl9sajBKU2tOeGw2WmJyckRhZy16MTYwRGVESDZqa2ZSaWJYbHRR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-07-21-step-up-enforcement-to-curb-galamsey-coalition-tells-govt",
+      "date": "2026-07-21",
+      "category": "policy",
+      "title": "Step up enforcement to curb galamsey — Coalition tells govt",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Step up enforcement to curb galamsey — Coalition tells govt Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXZ3dVVoUWdONDdlbmE0bWZPWjJESjRkMjRqN0YyUk40QzJ2MWhmUWw3LVphZzdSM2tCQ0lZSFA1VzRDaXF5ekkwX3NFZTUxYWtfbUtlTFRxOHlqYThTT19tUjNIRk1sWUQ2R3BBUEl4dEV5eDNXcUhQZXdWZzVCQjY3Q1BCajdzeVlxREZzc18?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXZ3dVVoUWdONDdlbmE0bWZPWjJESjRkMjRqN0YyUk40QzJ2MWhmUWw3LVphZzdSM2tCQ0lZSFA1VzRDaXF5ekkwX3NFZTUxYWtfbUtlTFRxOHlqYThTT19tUjNIRk1sWUQ2R3BBUEl4dEV5eDNXcUhQZXdWZzVCQjY3Q1BCajdzeVlxREZzc18?oc=5",
       "via": "rss",
       "verified": false
     },
