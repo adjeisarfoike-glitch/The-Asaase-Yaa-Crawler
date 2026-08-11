@@ -1,13 +1,108 @@
 {
-  "updated": "2026-08-11T07:39:53.769Z",
+  "updated": "2026-08-11T13:45:16.399Z",
   "counts": {
-    "total": 206,
+    "total": 211,
     "verified": 28,
-    "automated": 178,
+    "automated": 183,
     "earliest": "2024-07-01",
-    "latest": "2026-08-10"
+    "latest": "2026-08-11"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "NAIMOS launches major galamsey crackdown along Birim River",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "NAIMOS launches major galamsey crackdown along Birim River CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZSZkdobFdfSzJsdHhnY0pMVXl2UF8xNjNhcElrVElkVWhsQmlqQWZUNEw0TVc3c1F6VWN1UlI0T1FMTENLSEM0UU1nMlBhZjhNaUJMSkhvejNtS0w0T1dQYjBzcTVZeUhkdThrWnZKSHVxaVUtYm9BdVdKOTkzNDhaak1mY0Q1MXpERzhER1h6Q0pWWElRSjhneEo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZSZkdobFdfSzJsdHhnY0pMVXl2UF8xNjNhcElrVElkVWhsQmlqQWZUNEw0TVc3c1F6VWN1UlI0T1FMTENLSEM0UU1nMlBhZjhNaUJMSkhvejNtS0w0T1dQYjBzcTVZeUhkdThrWnZKSHVxaVUtYm9BdVdKOTkzNDhaak1mY0Q1MXpERzhER1h6Q0pWWElRSjhneEo?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-goldbod-must-strengthen-gold-traceability-to-aid-galamsey-fi",
+      "date": "2026-08-11",
+      "category": "forest",
+      "title": "GoldBod must strengthen gold traceability to aid galamsey fight — Dr Manteaw",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod must strengthen gold traceability to aid galamsey fight — Dr Manteaw Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmxRR1hOZ3F5NHBNQnprTW80YzI5SWlJMkF6WkMwZVF2TS1KaXNnRVVFbVhwak56a19EM1pDZjZPS0V0Y1VsVmo5RnlPRHNhcFdmT1JDYkNTQmtGOS1Fd1FzQm1udlJWTkR0VE1SQk5RTDVYMmdORVAzZjhpLWJycGpTMjRQNDBUMklUSlpPWjFnQjFTNk5ZbnJn0gGYAUFVX3lxTE5LWUh2cjUtekgwZ1pjWDFyREZJUjBkV2REei1QQXV4dmliZlQybnN3SnhxVHA5ejJLS2dtUzZSVHBmcTBzUU0zRjRyUldrZlFaTGFSRDREaXZDRThoekNIT25zNjd6Z1lhT0pQM2k4NFdCeFdkY01RRTlCU3ZtbUlJUkF3V0p2UlRtaDBJSS00ekMtU2JvazNE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmxRR1hOZ3F5NHBNQnprTW80YzI5SWlJMkF6WkMwZVF2TS1KaXNnRVVFbVhwak56a19EM1pDZjZPS0V0Y1VsVmo5RnlPRHNhcFdmT1JDYkNTQmtGOS1Fd1FzQm1udlJWTkR0VE1SQk5RTDVYMmdORVAzZjhpLWJycGpTMjRQNDBUMklUSlpPWjFnQjFTNk5ZbnJn0gGYAUFVX3lxTE5LWUh2cjUtekgwZ1pjWDFyREZJUjBkV2REei1QQXV4dmliZlQybnN3SnhxVHA5ejJLS2dtUzZSVHBmcTBzUU0zRjRyUldrZlFaTGFSRDREaXZDRThoekNIT25zNjd6Z1lhT0pQM2k4NFdCeFdkY01RRTlCU3ZtbUlJUkF3V0p2UlRtaDBJSS00ekMtU2JvazNE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-is-not-just-killing-our-rivers-it-is-testing-ghana-",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Galamsey Is Not Just Killing Our Rivers It Is Testing Ghana’s Conscience",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Is Not Just Killing Our Rivers It Is Testing Ghana’s Conscience Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkN3OXEtMFVyMzByRllFOXRXbmZVaTZxdmhvTi1WbHlrTEVJM2RwRGRHZU1fdnMyVnlIeDNCa1JBMkJRVi1nN2RTQjNzUXlRQ0Z1ZUZoYUJfMXNzWjJnaE1tSVJMc0RJeGtwUHFuZ3ZDTl9BTGNraGRldHJpTW5QbkFKMWFwVTdIQ3pHbEdBdnVzUDR4YTJkcXFjOUTSAZsBQVVfeXFMTWlodlY0ZmphR2NkdUNDYXNyUlRwdmE4dTFvczBtbXZVb2tEMmZPRDFIRll5UEMxQm1JOTBFdWpkNV9yY1ZJN2IxZi1VYlFzSTdJdTFDdUxDLWJPR0tDMXZPdEtQSUMxRlN6a3JWOWdFdmhHUEpfTzFTYmR3cVNhSVpyX3FKMERpMEk1bllkQ2R0VGluQk5wOHRHYW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkN3OXEtMFVyMzByRllFOXRXbmZVaTZxdmhvTi1WbHlrTEVJM2RwRGRHZU1fdnMyVnlIeDNCa1JBMkJRVi1nN2RTQjNzUXlRQ0Z1ZUZoYUJfMXNzWjJnaE1tSVJMc0RJeGtwUHFuZ3ZDTl9BTGNraGRldHJpTW5QbkFKMWFwVTdIQ3pHbEdBdnVzUDR4YTJkcXFjOUTSAZsBQVVfeXFMTWlodlY0ZmphR2NkdUNDYXNyUlRwdmE4dTFvczBtbXZVb2tEMmZPRDFIRll5UEMxQm1JOTBFdWpkNV9yY1ZJN2IxZi1VYlFzSTdJdTFDdUxDLWJPR0tDMXZPdEtQSUMxRlN6a3JWOWdFdmhHUEpfTzFTYmR3cVNhSVpyX3FKMERpMEk1bllkQ2R0VGluQk5wOHRHYW8?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-fight-naimos-launches-operation-along-birim-river",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Galamsey fight: NAIMOS launches operation along Birim River",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Galamsey fight: NAIMOS launches operation along Birim River Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE5nVjBCVUFSTXBuS1A4aTFNakFpcGQ2WFZsRHBIUUhvMTgxb3luSTR6QXRYdTYxY0VrSUIzUHFxbnlCVndqcDhIT1h1ZE8yOV9XdEpMdFlNT1QtdERHaTlrZGRZSk96V0J5ZkpjY1J5b0xTdW1TNFZwNnFIZFZqZnBpUEp2ZGhrMlJFaVVQRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE5nVjBCVUFSTXBuS1A4aTFNakFpcGQ2WFZsRHBIUUhvMTgxb3luSTR6QXRYdTYxY0VrSUIzUHFxbnlCVndqcDhIT1h1ZE8yOV9XdEpMdFlNT1QtdERHaTlrZGRZSk96V0J5ZkpjY1J5b0xTdW1TNFZwNnFIZFZqZnBpUEp2ZGhrMlJFaVVQRQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-naimos-launches-major-operation-to-clear-illegal-mining-alon",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "NAIMOS launches major operation to clear illegal mining along Birim River in Kyebi",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "NAIMOS has launched a major operation in Kyebi to clear illegal mining along the Birim River and restore water treatment for Ghana Water Company Limited.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/naimos-launches-major-operation-to-clear-illegal-mining-along-birim-river-in-kyebi"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-launches-major-operation-to-clear-illegal-mining-along-birim-river-in-kyebi",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-10-duncan-williams-calls-for-prayers-as-galamsey-threatens-wate",
       "date": "2026-08-10",
