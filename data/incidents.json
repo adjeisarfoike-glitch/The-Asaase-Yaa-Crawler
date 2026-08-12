@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-11T19:23:20.259Z",
+  "updated": "2026-08-12T02:48:39.262Z",
   "counts": {
-    "total": 220,
+    "total": 227,
     "verified": 28,
-    "automated": 192,
+    "automated": 199,
     "earliest": "2024-07-01",
     "latest": "2026-08-11"
   },
@@ -201,7 +201,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sX19Vbmt0NHJVbGJNaVhGYnE1LVBLTVpmUzlFZGZZNGhoeWlYRi1zMks1MGZtZU14QklveC12bXNhV2VqR3VKWnpiYWNYUlV0UHVKVU83WmtjekFU0gFcQVVfeXFMTWxfX1Vua3Q0clVsYk1pWEZicTUtUEtNWmZTOUVkZlk0aGh5aVhGLXMySzUwZm1lTXhCSW94LXZtc2FXZWpHdUpaemJhY1hSVXRQdUpVTzdaa2N6QVQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+      "thread": "t-auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica"
     },
     {
       "id": "auto-2026-08-11-naimos-intensifies-galamsey-crackdown-arrests-40-and-seizes-",
@@ -277,6 +277,122 @@
         "url": "https://3news.com/news/attor"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/attor",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-naimos-arrests-40-seizes-mining-equipment-across-si",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "Galamsey: NAIMOS arrests 40, seizes mining equipment across six regions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: NAIMOS arrests 40, seizes mining equipment across six regions CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzRmMzNielZaal85SWdHNE9kUFlNLTNZUEpiaFljaGdxN3ExMEJUbjNQUXBRZlduM3dJdUdzZ0JqeFFVX29LLThoV01uVGZ2OEE2M0ZtS1hadkVIeHZ5Qi1JeUNLZ1RSSzNmeXJFUWJEejFiMlBPMlJJUUVUS1o3eTZlOFYtV2lqR3Q3ckVtZnZJX0JXdHZLdElQbXdRazd4dGIzUnlwTGNWc2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzRmMzNielZaal85SWdHNE9kUFlNLTNZUEpiaFljaGdxN3ExMEJUbjNQUXBRZlduM3dJdUdzZ0JqeFFVX29LLThoV01uVGZ2OEE2M0ZtS1hadkVIeHZ5Qi1JeUNLZ1RSSzNmeXJFUWJEejFiMlBPMlJJUUVUS1o3eTZlOFYtV2lqR3Q3ckVtZnZJX0JXdHZLdElQbXdRazd4dGIzUnlwTGNWc2M?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-end-galamsey-now-berekum-environmental-protection-and-anti-g",
+      "date": "2026-08-11",
+      "category": "policy",
+      "title": "End galamsey now - Berekum Environmental Protection and Anti-Galamsey Coalition tells Government",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "End galamsey now - Berekum Environmental Protection and Anti-Galamsey Coalition tells Government 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tSXE1cTBUbmxQeGd1c0pkaVVJSkZLdlU5Mk5OcjNwRVlJV3RWN3k0YUhJaTFOTnBhcWRKYWtvSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tSXE1cTBUbmxQeGd1c0pkaVVJSkZLdlU5Mk5OcjNwRVlJV3RWN3k0YUhJaTFOTnBhcWRKYWtvSQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-berekum-residents-demand-urgent-action-as-galamsey-pollutes-",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Berekum Residents Demand Urgent Action as Galamsey Pollutes Water Bodies",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum Residents Demand Urgent Action as Galamsey Pollutes Water Bodies Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zYW9tTGdneGtrVXNDWVZudEFuQzJaRmdRWWd1clY4OE1sbjdJTzFLWUs0d0pROWhBMXFKWjB0RHo3VENoLVdjNDVsOEdDRFZyMHp6QTVHRVlRQTB40gFcQVVfeXFMTTNhb21MZ2d4a2tVc0NZVm50QW5DMlpGZ1FZZ3VyVjg4TWxuN0lPMUtZSzR3SlE5aEExcUpaMHREejdUQ2gtV2M0NWw4R0NEVnIwenpBNUdFWVFBMHg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zYW9tTGdneGtrVXNDWVZudEFuQzJaRmdRWWd1clY4OE1sbjdJTzFLWUs0d0pROWhBMXFKWjB0RHo3VENoLVdjNDVsOEdDRFZyMHp6QTVHRVlRQTB40gFcQVVfeXFMTTNhb21MZ2d4a2tVc0NZVm50QW5DMlpGZ1FZZ3VyVjg4TWxuN0lPMUtZSzR3SlE5aEExcUpaMHREejdUQ2gtV2M0NWw4R0NEVnIwenpBNUdFWVFBMHg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica"
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-threatens-birim-river-as-akim-oda-mp-raises-alarm",
+      "date": "2026-08-11",
+      "category": "water",
+      "title": "Galamsey Threatens Birim River as Akim Oda MP Raises Alarm",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Galamsey Threatens Birim River as Akim Oda MP Raises Alarm Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CbE52dlBiNEVRS01nOXdaU0xWcHFUMFQzR1oxeENtY0pGa29zeGtYYk0yYjB0RTlfU1NPLVdOelZUbWZKYzNHcXFyMlprUFFDMFlGSXFYRmtqbnhP0gFcQVVfeXFMTUJsTnZ2UGI0RVFLTWc5d1pTTFZwcVQwVDNHWjF4Q21jSkZrb3N4a1hiTTJiMHRFOV9TU08tV056VlRtZkpjM0dxcXIyWmtQUUMwWUZJcVhGa2pueE8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CbE52dlBiNEVRS01nOXdaU0xWcHFUMFQzR1oxeENtY0pGa29zeGtYYk0yYjB0RTlfU1NPLVdOelZUbWZKYzNHcXFyMlprUFFDMFlGSXFYRmtqbnhP0gFcQVVfeXFMTUJsTnZ2UGI0RVFLTWc5d1pTTFZwcVQwVDNHWjF4Q21jSkZrb3N4a1hiTTJiMHRFOV9TU08tV056VlRtZkpjM0dxcXIyWmtQUUMwWUZJcVhGa2pueE8?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-in-",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "NAIMOS arrests 40 illegal miners, seizes mining equipment in six regions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 40 illegal miners, seizes mining equipment in six regions Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0hvMlh3d0NabFZLTXJnRmNQOFMzdmxsdlNpTW15R000M2V4LV9Ic2tyNUw4SVRGMUhkRUNLY0RUcVlQYXdScjhBV2xkVmJwMmJBTGpWdER2YzVOdmFSeW5rQVdjekR2NExXTWFla3pWNHFRa2FhcHNmb0R4dTdISG85LVJXQ2JUZXd3b0hHTl9TT0JjOGZJ0gGWAUFVX3lxTE42VlRRTnFqZDh4a2pxR1NmMEhOZ3ROSkM0U3MxN09GS1BUN2JFc2RFem9yUERPb2VCQXJ2b2hBTnV1UTNidHR2LV96ZHMwZHhMOFB2YzNNbWdodUE5ejZqY19jQnE4VTYxUkU5REN2dFd0NGFUbDdUbC1WR0NpYzMwYnFTdnZxM2h2ZzZxVFdzbENhUVFBZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0hvMlh3d0NabFZLTXJnRmNQOFMzdmxsdlNpTW15R000M2V4LV9Ic2tyNUw4SVRGMUhkRUNLY0RUcVlQYXdScjhBV2xkVmJwMmJBTGpWdER2YzVOdmFSeW5rQVdjekR2NExXTWFla3pWNHFRa2FhcHNmb0R4dTdISG85LVJXQ2JUZXd3b0hHTl9TT0JjOGZJ0gGWAUFVX3lxTE42VlRRTnFqZDh4a2pxR1NmMEhOZ3ROSkM0U3MxN09GS1BUN2JFc2RFem9yUERPb2VCQXJ2b2hBTnV1UTNidHR2LV96ZHMwZHhMOFB2YzNNbWdodUE5ejZqY19jQnE4VTYxUkU5REN2dFd0NGFUbDdUbC1WR0NpYzMwYnFTdnZxM2h2ZzZxVFdzbENhUVFBZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-naimos-launches-major-crackdown-on-illegal-mining-along-biri",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "NAIMOS launches major crackdown on illegal mining along Birim River",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "NAIMOS launches major crackdown on illegal mining along Birim River GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXd4WjJXWDdER1VXVWo3VGFkaDZlN18wWTQ0UXhWdHpvU1c4N1ZudUtpNWJoWXFSVkNOUHdMWFMtczFTbklfRjZ5OU9TbmNxZ011SVl0YWNWa3BWR1Z3NlRyQmtvY3BBTU9fX01YamJ3ekxZQ0VIVm1xck80QWl0RUhWWXR0clBCckpNQWw4XzZoSmNyWkVVaTM5U3dGcXpxZXA1RHpRSXM3dTVPZmN5MzVKVWNydmhtNTlMUHdPRVdjWWw0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXd4WjJXWDdER1VXVWo3VGFkaDZlN18wWTQ0UXhWdHpvU1c4N1ZudUtpNWJoWXFSVkNOUHdMWFMtczFTbklfRjZ5OU9TbmNxZ011SVl0YWNWa3BWR1Z3NlRyQmtvY3BBTU9fX01YamJ3ekxZQ0VIVm1xck80QWl0RUhWWXR0clBCckpNQWw4XzZoSmNyWkVVaTM5U3dGcXpxZXA1RHpRSXM3dTVPZmN5MzVKVWNydmhtNTlMUHdPRVdjWWw0?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -954,6 +1070,25 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBHS1dpaGJHa1VOVWpaUzJrOUhsRGk3bFQtWUVsNEVrNHhiNTUzN3RfcE9qekVIM0hmSWhPWVg5SnAwaHVaOG40Vnc0TjM4T1VBbzJ1ZnlWT29uRkQtc0ItY2RYYjRyTWN6TkFWTHdpMzlrTmlBVllXQ09zMEwyVVVmNkJlRzZUc25sVWVOUVoxQzdSUGRmcklEdHZYVEctcFA0YkpnM0NKZUxLdmhKR3g0TktpNUpqTXl4Tk5KTmtCQWgybDJwUTYwMUNfTGVk?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzBHS1dpaGJHa1VOVWpaUzJrOUhsRGk3bFQtWUVsNEVrNHhiNTUzN3RfcE9qekVIM0hmSWhPWVg5SnAwaHVaOG40Vnc0TjM4T1VBbzJ1ZnlWT29uRkQtc0ItY2RYYjRyTWN6TkFWTHdpMzlrTmlBVllXQ09zMEwyVVVmNkJlRzZUc25sVWVOUVoxQzdSUGRmcklEdHZYVEctcFA0YkpnM0NKZUxLdmhKR3g0TktpNUpqTXl4Tk5KTmtCQWgybDJwUTYwMUNfTGVk?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-berekum-residents-protest-galamsey-destruction-of-farmlands",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Berekum residents protest galamsey destruction of farmlands",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum residents protest galamsey destruction of farmlands CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTllJUERMRENKbDB3Zk53Yk9qU01iSzRFalpIMEhjb0dNM3lGbFprUnBSc0FKSXp2MHJWejJJYmlWazNlRlRuV2Q5bmx6TGpyeFVGajdJZ2tnMWFnb2dCdjVWSHMwV0h6bncwQk5uZS1XbXg5Mml3cm9UT1Z0YXhPTXhXaTVJTHJlbVdzZXBuSHNpT25qUC1iZjFfSHI5UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOTllJUERMRENKbDB3Zk53Yk9qU01iSzRFalpIMEhjb0dNM3lGbFprUnBSc0FKSXp2MHJWejJJYmlWazNlRlRuV2Q5bmx6TGpyeFVGajdJZ2tnMWFnb2dCdjVWSHMwV0h6bncwQk5uZS1XbXg5Mml3cm9UT1Z0YXhPTXhXaTVJTHJlbVdzZXBuSHNpT25qUC1iZjFfSHI5UQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2660,7 +2795,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE50TkM4Qm0zdWVXWlF0V2NpQVh6VXBjdEthWWxNS3VpbFVlU2cxQkJzRUQxeUhnS2RVZXlVWVd3OEpBbkNuYkNQbzZDLTBQSVdNWUdWdl9ZVTR4c1F0b2dWYlBmVnLSAVxBVV95cUxOUEdicks0ZHFTd1FiSWFiLUx2UHZ4U0JzMmtRTDA0QnAzZ3NyMkNSNUpGbzdOaHNGeDFheXY0Q3N1cndSSzVBMlo0bW55RmI3OVpseEliMXZBTWxWeQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-07-31-asantehene-destools-kenyasehene-over-galamsey-others",
