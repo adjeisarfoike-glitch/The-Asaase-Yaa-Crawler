@@ -1,13 +1,52 @@
 {
-  "updated": "2026-08-12T02:48:39.262Z",
+  "updated": "2026-08-12T07:57:01.741Z",
   "counts": {
-    "total": 227,
+    "total": 232,
     "verified": 28,
-    "automated": 199,
+    "automated": 204,
     "earliest": "2024-07-01",
-    "latest": "2026-08-11"
+    "latest": "2026-08-12"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Communities endangered as insecurity, illegal mining threaten Niger’s solid mineral sector",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Communities endangered as insecurity, illegal mining threaten Niger’s solid mineral sector Daily Post Nigeria",
+      "metrics": {},
+      "source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhjS2tEU2FQWnl6Qjk2YWs3SncyV1VkbG5CWVVuMUp0MDBjR2lKYnRJR3BaRkZqUW55SnpYX21vS3JlQzlaeFVjSTN2VnJDSGdoSHZkZ1ZHMzIzMFFZRFR5Y1FkT3g0a3B0N2lKdEI5T2lLbXZKcWd0M043N2h3YTJCV01pU0psQVk4dnJfS3NuaTNJZnZkS3FFelRCajF1OTc3SjdaYlRuUVFlYS04ZE9kRHFJYnMyMU9xRU1R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhjS2tEU2FQWnl6Qjk2YWs3SncyV1VkbG5CWVVuMUp0MDBjR2lKYnRJR3BaRkZqUW55SnpYX21vS3JlQzlaeFVjSTN2VnJDSGdoSHZkZ1ZHMzIzMFFZRFR5Y1FkT3g0a3B0N2lKdEI5T2lLbXZKcWd0M043N2h3YTJCV01pU0psQVk4dnJfS3NuaTNJZnZkS3FFelRCajF1OTc3SjdaYlRuUVFlYS04ZE9kRHFJYnMyMU9xRU1R?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-14-illegal-miners-dead-scores-injured-in-south-africa",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "14 illegal miners dead, scores injured in South Africa",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "South ‌African police said on Tuesday that 14 illegal miners had died and scores of others had been injured at a ⁠disused mine near Rustenburg in the North West province. Police did not give more details. A senior provincial police official is on the way to the scene. Illegal mining has plagued South Africa for … The post 14 illegal miners dead, scores injured in South Africa appeared first on Ghanaian Times .",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
     {
       "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
       "date": "2026-08-11",
@@ -25,7 +64,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQNGZSZkdobFdfSzJsdHhnY0pMVXl2UF8xNjNhcElrVElkVWhsQmlqQWZUNEw0TVc3c1F6VWN1UlI0T1FMTENLSEM0UU1nMlBhZjhNaUJMSkhvejNtS0w0T1dQYjBzcTVZeUhkdThrWnZKSHVxaVUtYm9BdVdKOTkzNDhaak1mY0Q1MXpERzhER1h6Q0pWWElRSjhneEo?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-12T07:52:23.932Z"
     },
     {
       "id": "auto-2026-08-11-goldbod-must-strengthen-gold-traceability-to-aid-galamsey-fi",
@@ -258,8 +298,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions",
       "via": "rss",
-      "verified": false,
-      "thread": "t-fr-western-north"
+      "verified": false
     },
     {
       "id": "auto-2026-08-11-attorney-general-opposes-bail-application-by-wontumi-s-lawye",
@@ -278,7 +317,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/attor",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-12T07:56:24.684Z"
     },
     {
       "id": "auto-2026-08-11-galamsey-naimos-arrests-40-seizes-mining-equipment-across-si",
@@ -393,6 +433,25 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXd4WjJXWDdER1VXVWo3VGFkaDZlN18wWTQ0UXhWdHpvU1c4N1ZudUtpNWJoWXFSVkNOUHdMWFMtczFTbklfRjZ5OU9TbmNxZ011SVl0YWNWa3BWR1Z3NlRyQmtvY3BBTU9fX01YamJ3ekxZQ0VIVm1xck80QWl0RUhWWXR0clBCckpNQWw4XzZoSmNyWkVVaTM5U3dGcXpxZXA1RHpRSXM3dTVPZmN5MzVKVWNydmhtNTlMUHdPRVdjWWw0?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXd4WjJXWDdER1VXVWo3VGFkaDZlN18wWTQ0UXhWdHpvU1c4N1ZudUtpNWJoWXFSVkNOUHdMWFMtczFTbklfRjZ5OU9TbmNxZ011SVl0YWNWa3BWR1Z3NlRyQmtvY3BBTU9fX01YamJ3ekxZQ0VIVm1xck80QWl0RUhWWXR0clBCckpNQWw4XzZoSmNyWkVVaTM5U3dGcXpxZXA1RHpRSXM3dTVPZmN5MzVKVWNydmhtNTlMUHdPRVdjWWw0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-11-galamsey-prevails-because-nothing-is-done-after-arrests-dr-s",
+      "date": "2026-08-11",
+      "category": "arrest",
+      "title": "Galamsey prevails because nothing is done after arrests—Dr. Steve Manteaw",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey prevails because nothing is done after arrests—Dr. Steve Manteaw MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFVicXQ3MWswTTRXSDQ1dng4NmhTdl9vY1IyNUthS1g2d3NxeDFNMF9Cb1NxR1o4T2FDcHhmeUNfckZQb2tlc0xidWRyS0dxWHQxNnRTdW9MakszNmNHaXBDdm43TDNVaFVvVzZTRmJYQ0QxNUZmdUhXZUhPSmFycERTS3B3RC1VdXYyUDd3bFJJRXRDSndJSEdHUEF0eGM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFVicXQ3MWswTTRXSDQ1dng4NmhTdl9vY1IyNUthS1g2d3NxeDFNMF9Cb1NxR1o4T2FDcHhmeUNfckZQb2tlc0xidWRyS0dxWHQxNnRTdW9MakszNmNHaXBDdm43TDNVaFVvVzZTRmJYQ0QxNUZmdUhXZUhPSmFycERTS3B3RC1VdXYyUDd3bFJJRXRDSndJSEdHUEF0eGM?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2407,7 +2466,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -2600,7 +2659,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -2912,6 +2971,27 @@
       "via": "rss",
       "verified": false,
       "thread": "t-pol-2026-04-cape-three-points"
+    },
+    {
+      "id": "auto-2026-07-31-naimos-taskforce-arrests-8-suspected-illegal-miners-in-weste",
+      "date": "2026-07-31",
+      "category": "arrest",
+      "title": "NAIMOS taskforce arrests 8 suspected illegal miners in Western North Region",
+      "place": "Western North Region",
+      "region": "Western North",
+      "lat": 6.21,
+      "lon": -2.48,
+      "summary": "NAIMOS taskforce arrests 8 suspected illegal miners in Western North Region 3News",
+      "metrics": {
+        "arrests": 8
+      },
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFI5UmZ4QXE2bEJCc2xoMnpfQW1uWWpBUTR1ZjE1N1QtUG8za2JFZGQ3Nm1wTWZOSkFncUkyZjhVRzJXZWNLUnY1ZVZ4cG05X1gtdUd5bms0dTE2RmxpMUFSWlMzdjJ4OGl6Z1Y2dUtKb25YaDFHNVpkY1MwODN5bTkxbHREbUNzYlRuV1BMazlXOEpaTGswTjlscjJ5VU0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFI5UmZ4QXE2bEJCc2xoMnpfQW1uWWpBUTR1ZjE1N1QtUG8za2JFZGQ3Nm1wTWZOSkFncUkyZjhVRzJXZWNLUnY1ZVZ4cG05X1gtdUd5bms0dTE2RmxpMUFSWlMzdjJ4OGl6Z1Y2dUtKb25YaDFHNVpkY1MwODN5bTkxbHREbUNzYlRuV1BMazlXOEpaTGswTjlscjJ5VU0?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t",
@@ -3698,6 +3778,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch",
+      "date": "2026-07-21",
+      "category": "policy",
+      "title": "Era of impunity in galamsey fight far from over - Coalition challenges government narrative",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Era of impunity in galamsey fight far from over - Coalition challenges government narrative Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+    },
+    {
       "id": "auto-2026-07-20-galamsey-impunity-is-not-over-cagg-challenges-govt",
       "date": "2026-07-20",
       "category": "forest",
@@ -4242,8 +4342,7 @@
         "name": "Graphic Online",
         "url": "https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-9-000-hectares-of-forest-reserves-forestry-commission-research.html"
       },
-      "verified": true,
-      "thread": "t-fr-western-north"
+      "verified": true
     },
     {
       "id": "fr-upper-east",
