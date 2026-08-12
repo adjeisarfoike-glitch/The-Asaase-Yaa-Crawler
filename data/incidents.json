@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-12T13:50:29.971Z",
+  "updated": "2026-08-12T19:22:53.862Z",
   "counts": {
-    "total": 239,
+    "total": 242,
     "verified": 28,
-    "automated": 211,
+    "automated": 214,
     "earliest": "2024-07-01",
     "latest": "2026-08-12"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhjS2tEU2FQWnl6Qjk2YWs3SncyV1VkbG5CWVVuMUp0MDBjR2lKYnRJR3BaRkZqUW55SnpYX21vS3JlQzlaeFVjSTN2VnJDSGdoSHZkZ1ZHMzIzMFFZRFR5Y1FkT3g0a3B0N2lKdEI5T2lLbXZKcWd0M043N2h3YTJCV01pU0psQVk4dnJfS3NuaTNJZnZkS3FFelRCajF1OTc3SjdaYlRuUVFlYS04ZE9kRHFJYnMyMU9xRU1R?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-12T19:18:38.504Z"
     },
     {
       "id": "auto-2026-08-12-14-illegal-miners-dead-scores-injured-in-south-africa",
@@ -182,6 +183,64 @@
         "url": "https://www.adomonline.com/christian-groups-pray-against-fee-increment-for-activities-at-achimota-forest/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/christian-groups-pray-against-fee-increment-for-activities-at-achimota-forest/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-over-60-of-ghana-s-waterbodies-polluted-by-galamsey-csir-wri",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Over 60% of Ghana’s waterbodies polluted by galamsey – CSIR-WRI Researcher",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Over 60% of Ghana’s waterbodies polluted by galamsey – CSIR-WRI Researcher Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOck9VZ3hFcldlckplRzRjRXprdHl2MkgxeFFxZnVyYkdXUzBJd1kwRC16OGczYWhFTVo1Wmo0S3pvSkZaUm0xa3hSZWE0dlNuMklpTXpkQXMzRXNubWNLUHVLSS1EQ1FOUVRQdVAtZ1h4MzI4b3B4VU1hZ3ZvcS1pT1M2dkgwNXpnVmtCOVZvSk5Mem5sdjkyedIBmAFBVV95cUxOck9VZ3hFcldlckplRzRjRXprdHl2MkgxeFFxZnVyYkdXUzBJd1kwRC16OGczYWhFTVo1Wmo0S3pvSkZaUm0xa3hSZWE0dlNuMklpTXpkQXMzRXNubWNLUHVLSS1EQ1FOUVRQdVAtZ1h4MzI4b3B4VU1hZ3ZvcS1pT1M2dkgwNXpnVmtCOVZvSk5Mem5sdjkyeQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOck9VZ3hFcldlckplRzRjRXprdHl2MkgxeFFxZnVyYkdXUzBJd1kwRC16OGczYWhFTVo1Wmo0S3pvSkZaUm0xa3hSZWE0dlNuMklpTXpkQXMzRXNubWNLUHVLSS1EQ1FOUVRQdVAtZ1h4MzI4b3B4VU1hZ3ZvcS1pT1M2dkgwNXpnVmtCOVZvSk5Mem5sdjkyedIBmAFBVV95cUxOck9VZ3hFcldlckplRzRjRXprdHl2MkgxeFFxZnVyYkdXUzBJd1kwRC16OGczYWhFTVo1Wmo0S3pvSkZaUm0xa3hSZWE0dlNuMklpTXpkQXMzRXNubWNLUHVLSS1EQ1FOUVRQdVAtZ1h4MzI4b3B4VU1hZ3ZvcS1pT1M2dkgwNXpnVmtCOVZvSk5Mem5sdjkyeQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-ghana-s-naimos-seizes-equipment-arrests-40-in-sweeping-illeg",
+      "date": "2026-08-12",
+      "category": "arrest",
+      "title": "Ghana’s NAIMOS Seizes Equipment, Arrests 40 in Sweeping Illegal Mining Crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s NAIMOS Seizes Equipment, Arrests 40 in Sweeping Illegal Mining Crackdown streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkdCbllKNFRVSkJWT0x4dnRhVzlZSEhnWEx4RnRCNmoxSGdUNkkxQU0zbXNWZmg2cmdFQnFraFpnS3lnOFd6TXhKZzc3dWNMYWR1TWdHSEFYSXJrS2E5bFFRR1I4bDQ5S3hQVWxrMm1lUUduTGk1Y0NxdkdMUTRNeW9xSEt4eUwzMXdyYVBiVllwbjlyRll2R29rNEhDSFZ5aHR2U2lnZzhwbS0zRW1vV1Fn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkdCbllKNFRVSkJWT0x4dnRhVzlZSEhnWEx4RnRCNmoxSGdUNkkxQU0zbXNWZmg2cmdFQnFraFpnS3lnOFd6TXhKZzc3dWNMYWR1TWdHSEFYSXJrS2E5bFFRR1I4bDQ5S3hQVWxrMm1lUUduTGk1Y0NxdkdMUTRNeW9xSEt4eUwzMXdyYVBiVllwbjlyRll2R29rNEhDSFZ5aHR2U2lnZzhwbS0zRW1vV1Fn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-08-12-civil-society-coalition-steps-up-fight-against-transnational",
+      "date": "2026-08-12",
+      "category": "policy",
+      "title": "Civil society coalition steps up fight against transnational crime",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "A new body, Civil Society Coalition Against Transnational Crime, has been launched in Accra with a call for stronger collaboration among government, civil society, traditional authorities, communities and the private sector to tackle the growing threat of organised crime in Ghana. The coalition, launched today in Accra to mark International Youth Day, seeks to coordinate civil society organisations working across nin",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/civil-society-coalition-steps-up-fight-against-transnational-crime.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/civil-society-coalition-steps-up-fight-against-transnational-crime.html",
       "via": "rss",
       "verified": false
     },
@@ -381,7 +440,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sX19Vbmt0NHJVbGJNaVhGYnE1LVBLTVpmUzlFZGZZNGhoeWlYRi1zMks1MGZtZU14QklveC12bXNhV2VqR3VKWnpiYWNYUlV0UHVKVU83WmtjekFU0gFcQVVfeXFMTWxfX1Vua3Q0clVsYk1pWEZicTUtUEtNWmZTOUVkZlk0aGh5aVhGLXMySzUwZm1lTXhCSW94LXZtc2FXZWpHdUpaemJhY1hSVXRQdUpVTzdaa2N6QVQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica"
+      "thread": "t-auto-2026-08-11-berekum-rises-against-galamsey-residents-demand-urgent-actio"
     },
     {
       "id": "auto-2026-08-11-naimos-intensifies-galamsey-crackdown-arrests-40-and-seizes-",
@@ -517,7 +576,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zYW9tTGdneGtrVXNDWVZudEFuQzJaRmdRWWd1clY4OE1sbjdJTzFLWUs0d0pROWhBMXFKWjB0RHo3VENoLVdjNDVsOEdDRFZyMHp6QTVHRVlRQTB40gFcQVVfeXFMTTNhb21MZ2d4a2tVc0NZVm50QW5DMlpGZ1FZZ3VyVjg4TWxuN0lPMUtZSzR3SlE5aEExcUpaMHREejdUQ2gtV2M0NWw4R0NEVnIwenpBNUdFWVFBMHg?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-05-beyond-wontumi-what-the-samreboi-case-reveals-about-politica"
+      "thread": "t-auto-2026-08-11-berekum-rises-against-galamsey-residents-demand-urgent-actio"
     },
     {
       "id": "auto-2026-08-11-galamsey-threatens-birim-river-as-akim-oda-mp-raises-alarm",
