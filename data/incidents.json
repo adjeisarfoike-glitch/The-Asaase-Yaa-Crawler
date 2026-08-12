@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-12T07:57:01.741Z",
+  "updated": "2026-08-12T13:50:29.971Z",
   "counts": {
-    "total": 232,
+    "total": 239,
     "verified": 28,
-    "automated": 204,
+    "automated": 211,
     "earliest": "2024-07-01",
     "latest": "2026-08-12"
   },
@@ -45,7 +45,145 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-12T13:45:17.785Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Galamsey destroys 60% of rivers - Scientists raise alarm over implications",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey destroys 60% of rivers - Scientists raise alarm over implications Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhob19qdTYzdlgwa1RVYmM2dWV5TFd3T0pBWng5ZkQ4Y1dNNS1DNFlFYVFGSnlwWHVfSm5FMWtBb1BvUzFZbFlsTWsxcmpRWGVwSHR2ZElFM2ZfbXpscDAybHBtMWNjUE01dzBlOHpXODRiTV9aLTdENzNRSDJyVk5qV1hVQVJreHhYWkY0TDlRZWpnNlhucFBuRGQ4YmZZRW5sTzFnQXVOYWwxUnVrVy1HQTR1RHRLcGlnOHh5aTh6LXRQajNERmRPVTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhob19qdTYzdlgwa1RVYmM2dWV5TFd3T0pBWng5ZkQ4Y1dNNS1DNFlFYVFGSnlwWHVfSm5FMWtBb1BvUzFZbFlsTWsxcmpRWGVwSHR2ZElFM2ZfbXpscDAybHBtMWNjUE01dzBlOHpXODRiTV9aLTdENzNRSDJyVk5qV1hVQVJreHhYWkY0TDlRZWpnNlhucFBuRGQ4YmZZRW5sTzFnQXVOYWwxUnVrVy1HQTR1RHRLcGlnOHh5aTh6LXRQajNERmRPVTQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-12T13:46:06.562Z"
+    },
+    {
+      "id": "auto-2026-08-12-practically-impossible-to-naturally-restore-galamsey-pollute",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "‘Practically impossible’ to naturally restore galamsey-polluted rivers – CSIR scientist",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Practically impossible’ to naturally restore galamsey-polluted rivers – CSIR scientist CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREFrWVU5MnNrOGRIcl9xRU5DUW52WEZMckp6NUtoNURVZVRIMndXNjJjQUZudFRqYmdKVmUzbDRjdDR4WHhaZDd4QXh6Wjg4UGRDNjZ2MEl3T01iWDhVZlhqTlBtRWpfb25SblNYSVh6ZFlLRjFDZVMzYjltMEZ4OVNfVHRXdUFLYUpjUTZjVkVrY3FUQWNtSEVPWnRlVTdqbFMzYjVlOXRJNEthYko1cURjYmY4V3JrZmFRazFn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxOREFrWVU5MnNrOGRIcl9xRU5DUW52WEZMckp6NUtoNURVZVRIMndXNjJjQUZudFRqYmdKVmUzbDRjdDR4WHhaZDd4QXh6Wjg4UGRDNjZ2MEl3T01iWDhVZlhqTlBtRWpfb25SblNYSVh6ZFlLRjFDZVMzYjltMEZ4OVNfVHRXdUFLYUpjUTZjVkVrY3FUQWNtSEVPWnRlVTdqbFMzYjVlOXRJNEthYko1cURjYmY4V3JrZmFRazFn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-12T13:46:31.148Z"
+    },
+    {
+      "id": "auto-2026-08-12-berekum-residents-demand-end-to-mining-as-galamsey-pollutes-",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Berekum residents demand end to mining as galamsey pollutes Amoma River, destroys farmlands",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum residents demand end to mining as galamsey pollutes Amoma River, destroys farmlands GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LeEhzQ2NrQnQwQW5zM1ZKZVhLaDlPTTkwcXdLa3VxYnUtOEhCU1lLSEFMOFJhU056bjlhdFJuenFvTkU0bGpmTWswVFNJbkFrRkpENlE3MTlZY2hFZ1IzcDg2VnI0T3dTbVRfVVEzOU0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMicEFVX3lxTE5LeEhzQ2NrQnQwQW5zM1ZKZVhLaDlPTTkwcXdLa3VxYnUtOEhCU1lLSEFMOFJhU056bjlhdFJuenFvTkU0bGpmTWswVFNJbkFrRkpENlE3MTlZY2hFZ1IzcDg2VnI0T3dTbVRfVVEzOU0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-ndf-sensitises-chiefs-on-galamsey-fight-in-ahafo-ano-south-w",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "NDF sensitises chiefs on galamsey fight in Ahafo Ano South West",
+      "place": "Ahafo Ano",
+      "region": "Ashanti",
+      "lat": 6.85,
+      "lon": -2.1,
+      "summary": "NDF sensitises chiefs on galamsey fight in Ahafo Ano South West Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo0eTZFb2h0OVVETE41TG93RG9HYUlXZWZCd2NvZE93ZEV4WWpGcTRSdzFDZURGajU0dEtxQmgxT04tclVLMm1QUW9lNW1VUUI3bWtXZXg3bW4wU01EVHhkLWdFQjdDM040MEoyLTVJbTZEZWxGMktyOGV2YzAzcTY4YkhKMmkyZzhyOV94ZXlkQnZhbUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo0eTZFb2h0OVVETE41TG93RG9HYUlXZWZCd2NvZE93ZEV4WWpGcTRSdzFDZURGajU0dEtxQmgxT04tclVLMm1QUW9lNW1VUUI3bWtXZXg3bW4wU01EVHhkLWdFQjdDM040MEoyLTVJbTZEZWxGMktyOGV2YzAzcTY4YkhKMmkyZzhyOV94ZXlkQnZhbUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Illegal mining threatens Ghana’s first marine protected area",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining threatens Ghana’s first marine protected area Mongabay",
+      "metrics": {},
+      "source": {
+        "name": "Mongabay",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Galamsey destroys 60% of rivers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "More than 60 per cent of the country's waterbodies are polluted by illegal mining activities, exposing the country to environmental, health and livelihood hazards, according to a research scientist at the Groundwater Division of the Council for Scientific and Industrial Research-Water Research Institute (CSIR-WRI). Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Scientists raise alarm over implications",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-implications.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-implications.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-has-polluted-60-of-ghana-s-water-bodies-csir-wri-sc"
+    },
+    {
+      "id": "auto-2026-08-12-christian-groups-pray-against-fee-increment-for-activities-a",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Christian groups pray against fee increment for activities at Achimota Forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Some believers opposed to the increase in the entrance fee to the Achimota Forest Reserve have gathered to pray for what they describe as God’s intervention in the matter. The group, which is unhappy with the increase from GH¢1 to GH¢10, believes the new fee could be part of efforts to discourage people from accessing […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/christian-groups-pray-against-fee-increment-for-activities-at-achimota-forest/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/christian-groups-pray-against-fee-increment-for-activities-at-achimota-forest/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
@@ -201,6 +339,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIUnhNM2UtQXR0SV9id0ctY0o2LWZvSl9HVjBUcWY5c0c2VUUweG8wZWRmQ3FIWExNbUxmR004UG9sc3lkczBVZ1FMeWE3dUV0TUZYSm5HU0Q3TUgw0gFcQVVfeXFMUEhSeE0zZS1BdHRJX2J3Ry1jSjYtZm9KX0dWMFRxZjlzRzZVRTB4bzBlZGZDcUhYTE1tTGZHTThQb2xzeWRzMFVnUUx5YTd1RXRNRlhKbkdTRDdNSDA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-12T13:49:43.025Z",
       "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
@@ -221,6 +360,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQmdlTUZKSExBNFlJeTVRMXFUaTVSSF9jTnNXQ0RJSzFad2cyWEt1UzRNaVc1U2d2TVhXclhtTm82ckt6bGpqZDE3WnU1NHp6aDZDS3ZwN1ZnRE9j0gFcQVVfeXFMUGFCZ2VNRkpITEE0WUl5NVExcVRpNVJIX2NOc1dDRElLMVp3ZzJYS3VTNE1pVzVTZ3ZNWFdyWG1ObzZyS3psampkMTdadTU0enpoNkNLdnA3VmdET2M?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-12T13:50:23.912Z",
       "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
@@ -279,7 +419,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-has-polluted-60-of-ghanas-water-bodies-csir-wri-scientist/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-has-polluted-60-of-ghana-s-water-bodies-csir-wri-sc"
     },
     {
       "id": "auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr",
@@ -636,8 +777,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUU5ZHhaZlVJX2gwV2NYbkdvMVJGdm1qMEZGT2FRRnhaX3FXTWFMVnBvM2Zpb18teXo3X2MwMDRjcGdObkdmRlQtZVZuNGlZNzdMMWRSWlhnSzNwOV9YU0xjR09NQ25RX3Z2SDdKbFdtUmlTV2JsTFd5a05reUhIV0RJd0Y3SGZxNXpkWTBzbFE3UF9MSXNONF95WDU?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-09-galamsey-atronie-residents-block-road-over-destruction-of-ri"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-",
@@ -1286,8 +1426,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEhqQXlHMzF2QnZvYWY0TXBQMmRUcmdrRkVodGhJQTZXMUc4YWZMc3lvcWpOODRlNTNpSV93UFNwZ3Bpc09XYkx0dUJJWkNiQ2h6VjVkMURfN2JuZi14c1JnLWZJYm5sVFFxZTEyM3hReHhydGRVd0trSzE4RDFsazdERzFyVHd1VUQ4VzNnd0ZhYjhia0xYOUZWSTNRZ29TSDRveUd4UzFWQWM?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-09-galamsey-atronie-residents-block-road-over-destruction-of-ri"
+      "verified": false
     },
     {
       "id": "auto-2026-08-08-honour-august-6-crash-victims-by-fighting-galamsey-dr-zaato",
@@ -2466,7 +2605,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -2659,7 +2798,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -3794,8 +3933,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "verified": false
     },
     {
       "id": "auto-2026-07-20-galamsey-impunity-is-not-over-cagg-challenges-govt",
