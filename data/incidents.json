@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-12T19:22:53.862Z",
+  "updated": "2026-08-13T02:49:54.526Z",
   "counts": {
-    "total": 242,
+    "total": 251,
     "verified": 28,
-    "automated": 214,
+    "automated": 223,
     "earliest": "2024-07-01",
-    "latest": "2026-08-12"
+    "latest": "2026-08-13"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
+      "date": "2026-08-13",
+      "category": "policy",
+      "title": "We lost leadership in the galamsey fight – A-Rocha Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A year after the August 6 helicopter crash that claimed the lives of eight people, including two ministers, environmental advocacy group A-Rocha Ghana says Ghana has lost momentum in the fight against illegal mining, aka galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-13T02:45:40.995Z"
+    },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
       "date": "2026-08-12",
@@ -126,18 +146,19 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo0eTZFb2h0OVVETE41TG93RG9HYUlXZWZCd2NvZE93ZEV4WWpGcTRSdzFDZURGajU0dEtxQmgxT04tclVLMm1QUW9lNW1VUUI3bWtXZXg3bW4wU01EVHhkLWdFQjdDM040MEoyLTVJbTZEZWxGMktyOGV2YzAzcTY4YkhKMmkyZzhyOV94ZXlkQnZhbUE?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-13T02:46:26.497Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area",
+      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area Mongabay",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
       "metrics": {},
       "source": {
         "name": "Mongabay",
@@ -241,6 +262,158 @@
         "url": "https://www.graphic.com.gh/news/general-news/civil-society-coalition-steps-up-fight-against-transnational-crime.html"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/civil-society-coalition-steps-up-fight-against-transnational-crime.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-volta-river-system-under-threat-as-galamsey-spreads-up-north",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Volta River system under threat as galamsey spreads up north",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Volta River system under threat as galamsey spreads up north 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUFVSHhLckkwYkFiakF4ZWhQNGhBUjVucXZ3NTE5MENIVHNDY0JyUGFiU2N4SG1iaUw4dXgxWkFpWERpMnNPS2twQW5CSnBZNlVxZzZrNTUtVnRxaGhCaTQxMlphdkdDM2M4OFdJb3Y3Ty1KZGRIMzNOZ3dDb1pYbDdBeEJzWkxkc2lZ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUFVSHhLckkwYkFiakF4ZWhQNGhBUjVucXZ3NTE5MENIVHNDY0JyUGFiU2N4SG1iaUw4dXgxWkFpWERpMnNPS2twQW5CSnBZNlVxZzZrNTUtVnRxaGhCaTQxMlphdkdDM2M4OFdJb3Y3Ty1KZGRIMzNOZ3dDb1pYbDdBeEJzWkxkc2lZ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight: The Galamsey fight is regressing - Erastus Asare Donkor, Investig Journalist.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight: The Galamsey fight is regressing - Erastus Asare Donkor, Investig Journalist. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OLW9IUkM3NW5lVDEtZThQaHF5QjcwbmtDY0VFdUk3MlBhWnNLcVVscS1vRWlpY1dBYllqaWdWN0xiOEYxeFJyQUFqOWNfa1F5TFpzZGEwZlU5bWdMNlpnWmJkb1_SAVxBVV95cUxNQmc5WlFDQ1dDX1ZYRzdzbFdMWV9LNUlsN05CN2E0aHNncXhodmd4SXlheVh0Z0s4OFlaY2pXNzR3Umhkb1FpYUdvbmd6SzV6TVBzRGdYN2h1WndsMw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OLW9IUkM3NW5lVDEtZThQaHF5QjcwbmtDY0VFdUk3MlBhWnNLcVVscS1vRWlpY1dBYllqaWdWN0xiOEYxeFJyQUFqOWNfa1F5TFpzZGEwZlU5bWdMNlpnWmJkb1_SAVxBVV95cUxNQmc5WlFDQ1dDX1ZYRzdzbFdMWV9LNUlsN05CN2E0aHNncXhodmd4SXlheVh0Z0s4OFlaY2pXNzR3Umhkb1FpYUdvbmd6SzV6TVBzRGdYN2h1WndsMw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight, one year after helicopter clash.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight, one year after helicopter clash. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaREIxakpzRjhFal8zVU54Yy1ZTGY5a1BZX3R0UjhTNXI0S2xFQ215X0w3eUVjV2gyaGc5VW5nbF9pYTJud0lJUkt3bmZxWkJiMmFlZ21xMWs5bEpPekJuSTBLdGzSAVxBVV95cUxNbUxFWEk1ZnZCUmxaaldkaHFaaGNrT1MyRUg1ZW1CeGk5NXRTQk1aRloyOWJLdzhNZTd0YlhyM1pjRGI5YzVHclpVOXctMFRRSngwbzVFNndteGtseg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaREIxakpzRjhFal8zVU54Yy1ZTGY5a1BZX3R0UjhTNXI0S2xFQ215X0w3eUVjV2gyaGc5VW5nbF9pYTJud0lJUkt3bmZxWkJiMmFlZ21xMWs5bEpPekJuSTBLdGzSAVxBVV95cUxNbUxFWEk1ZnZCUmxaaldkaHFaaGNrT1MyRUg1ZW1CeGk5NXRTQk1aRloyOWJLdzhNZTd0YlhyM1pjRGI5YzVHclpVOXctMFRRSngwbzVFNndteGtseg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-the-current-picture-on-galamsey-is-too-bl",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight: The current picture on Galamsey is too bleak to smile about - Rev. Fr. Quaicoe,",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight: The current picture on Galamsey is too bleak to smile about - Rev. Fr. Quaicoe, Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYTBnSUt3N0x2N096WDZLd3RMVmdkdHhVcjcxR2ViR2tGTDRWRGJNbzhrbXp3WXpZOG5Pd2NENHNMckxuVEVQRm9RSmhxNnhMQWtHcjJ2U0hvSWU00gFcQVVfeXFMTnNhMGdJS3c3THY3T3pYNkt3dExWZ2R0eFVyNzFHZWJHa0ZMNFZEYk1vOGttendZelk4bk93Y0Q0c0xyTG5URVBGb1FKaHE2eExBa0dyMnZTSG9JZTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zYTBnSUt3N0x2N096WDZLd3RMVmdkdHhVcjcxR2ViR2tGTDRWRGJNbzhrbXp3WXpZOG5Pd2NENHNMckxuVEVQRm9RSmhxNnhMQWtHcjJ2U0hvSWU00gFcQVVfeXFMTnNhMGdJS3c3THY3T3pYNkt3dExWZ2R0eFVyNzFHZWJHa0ZMNFZEYk1vOGttendZelk4bk93Y0Q0c0xyTG5URVBGb1FKaHE2eExBa0dyMnZTSG9JZTQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-illegal-miners-emboldened-by-backing-from",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight: Illegal miners emboldened by backing from people in power - Akwasi Konadu.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight: Illegal miners emboldened by backing from people in power - Akwasi Konadu. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mYXdybi1kVUNiVHROdERGS0xmbE4yZGlWNXpNWEhXTEFEOEo0VHNWR3cxa2ZGNFJuMFdwc0loVWVWSXdDanVDNWNMLXphdjBEWEo0dk5laXZEdUZ4VVQ0Q2V4RFXSAVxBVV95cUxNS3NfU3E5X05nWFpTNW9hUnBBM1Zyb2x0dFBtT1pzLW5yQk1ZWUpGWDFORHl5SGl5Nm9iUmVmemtzVER4QmwtOUNIbVZHbkpRWmhxTElHeGNVaWVaSg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mYXdybi1kVUNiVHROdERGS0xmbE4yZGlWNXpNWEhXTEFEOEo0VHNWR3cxa2ZGNFJuMFdwc0loVWVWSXdDanVDNWNMLXphdjBEWEo0dk5laXZEdUZ4VVQ0Q2V4RFXSAVxBVV95cUxNS3NfU3E5X05nWFpTNW9hUnBBM1Zyb2x0dFBtT1pzLW5yQk1ZWUpGWDFORHl5SGl5Nm9iUmVmemtzVER4QmwtOUNIbVZHbkpRWmhxTElHeGNVaWVaSg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-we-have-not-honoured-the-departed-8-kenne",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight: We have not honoured the ‘departed 8’ - Kenneth Ashigbey.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight: We have not honoured the ‘departed 8’ - Kenneth Ashigbey. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtMnhma3dfVkI3RTNUQnBGOGlub3dsSHduUWx1eW1vNGwtYzhieWZoMXpVb2pZOGJOcXRoX2tlR2x0bU1OSHh6WFFGSFBMeGhUR0trZ1ZRTTQ2S3UyZTJ4VHEwTjHSAVxBVV95cUxPN2dPbzdESEY3ZTQ4cVhpdjAzQzdrWWhKTEFieWhFdzNHUWYxMXkyY0pEVjd1c0tjRDBpdlNNeFcwemMyeXVuTWNpTUNFWjZMRlB1MlNtRGJoUXJIRg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtMnhma3dfVkI3RTNUQnBGOGlub3dsSHduUWx1eW1vNGwtYzhieWZoMXpVb2pZOGJOcXRoX2tlR2x0bU1OSHh6WFFGSFBMeGhUR0trZ1ZRTTQ2S3UyZTJ4VHEwTjHSAVxBVV95cUxPN2dPbzdESEY3ZTQ4cVhpdjAzQzdrWWhKTEFieWhFdzNHUWYxMXkyY0pEVjd1c0tjRDBpdlNNeFcwemMyeXVuTWNpTUNFWjZMRlB1MlNtRGJoUXJIRg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-we-are-at-a-point-of-hopelessness-a-rocha-ghana-on-galamsey-",
+      "date": "2026-08-12",
+      "category": "policy",
+      "title": "We are at a point of hopelessness – A-Rocha Ghana on galamsey fight one year after crash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A year after the August 6 helicopter crash that claimed the lives of eight people, including senior government officials, environmental advocacy group A-Rocha Ghana says Ghana is losing the fight against illegal mining, popularly known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-are-at-a-point-of-hopelessness-a-rocha-ghana-on-galamsey-fight-one-year-after-crash/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-are-at-a-point-of-hopelessness-a-rocha-ghana-on-galamsey-fight-one-year-after-crash/",
       "via": "rss",
       "verified": false
     },
