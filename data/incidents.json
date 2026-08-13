@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-13T13:51:47.966Z",
+  "updated": "2026-08-13T19:24:17.300Z",
   "counts": {
-    "total": 265,
+    "total": 267,
     "verified": 28,
-    "automated": 237,
+    "automated": 239,
     "earliest": "2024-07-01",
     "latest": "2026-08-13"
   },
@@ -249,6 +249,26 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-13T13:50:17.752Z"
+    },
+    {
+      "id": "auto-2026-08-13-galamsey-crackdown-26-suspected-illegal-miners-arrested-in-m",
+      "date": "2026-08-13",
+      "category": "arrest",
+      "title": "Galamsey Crackdown: 26 Suspected Illegal Miners Arrested in Mpohor-Fiase",
+      "place": "Mpohor",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -1.6,
+      "summary": "Galamsey Crackdown: 26 Suspected Illegal Miners Arrested in Mpohor-Fiase Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -692,6 +712,25 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-birim-central-mce-welcomes-decision-by-osp-to-investigate-co",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Birim Central MCE welcomes decision by OSP to investigate corruption and illegal mining allegations levelled against him",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Birim Central MCE welcomes decision by OSP to investigate corruption and illegal mining allegations levelled against him MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXY0Ti02WjhRbWV0WjFJZUtZemZPMmJ0eW5UcFpjZmlRdGV5LXh4bFBFVmVmbkRyMkJNeG52emhGTjh5QWkzY3BqWWJpS0M1RVhDNEdvcGNOcUh4YTlxbEU2S2VLNExVQ05nM3Z6NjZtS1p1QmlFLThselNDLUJfcUVnZ1dGNzlwekRDQ2tMVGVLMnpISE0ySWZVSUtQdXNnY2tXNDBETm9zbkI3Qk1sMnRKVnlzTnBOeWR3UVlOaDFhR2Q0QllYdDJOUGJwZmo0b2lXd3MxMEVDZUpfaVJV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXY0Ti02WjhRbWV0WjFJZUtZemZPMmJ0eW5UcFpjZmlRdGV5LXh4bFBFVmVmbkRyMkJNeG52emhGTjh5QWkzY3BqWWJpS0M1RVhDNEdvcGNOcUh4YTlxbEU2S2VLNExVQ05nM3Z6NjZtS1p1QmlFLThselNDLUJfcUVnZ1dGNzlwekRDQ2tMVGVLMnpISE0ySWZVSUtQdXNnY2tXNDBETm9zbkI3Qk1sMnRKVnlzTnBOeWR3UVlOaDFhR2Q0QllYdDJOUGJwZmo0b2lXd3MxMEVDZUpfaVJV?oc=5",
       "via": "rss",
       "verified": false
     },
