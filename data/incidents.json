@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-13T02:49:54.526Z",
+  "updated": "2026-08-13T07:55:26.556Z",
   "counts": {
-    "total": 251,
+    "total": 260,
     "verified": 28,
-    "automated": 223,
+    "automated": 232,
     "earliest": "2024-07-01",
     "latest": "2026-08-13"
   },
@@ -27,6 +27,122 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-13T02:45:40.995Z"
+    },
+    {
+      "id": "auto-2026-08-13-bawumia-discusses-digitalisation-fintech-ai-flood-control-an",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "Bawumia discusses digitalisation, fintech, AI, flood control and methods to combat galamsey with Japanese Ambassador",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Bawumia discusses digitalisation, fintech, AI, flood control and methods to combat galamsey with Japanese Ambassador 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTFNa1dnYnlYQVJBQjluODBtRzZpSm9CVWQyZ2RrMkdRMjdpeXFKNWpUb2ppUmlCNThhcXBzZlVWUWZYZ0ZaVGxIdmtpcEJhNUxBc2tQbGs3NHFOcURWSUp0NHNnRlFxTE13TFU3WERfcnY5QndtczEyNWdhekFBQWRQMTM3ZjZUWkFyRTF4R1NxelRjcF82TmRVbW9mQVoyNjkyV3Zwd3FlekVWSVBTTDBVNTJHU0xGbkZDU3ZfaEg3QmRyYlVSMjA0WEJDZGk3TGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTFNa1dnYnlYQVJBQjluODBtRzZpSm9CVWQyZ2RrMkdRMjdpeXFKNWpUb2ppUmlCNThhcXBzZlVWUWZYZ0ZaVGxIdmtpcEJhNUxBc2tQbGs3NHFOcURWSUp0NHNnRlFxTE13TFU3WERfcnY5QndtczEyNWdhekFBQWRQMTM3ZjZUWkFyRTF4R1NxelRjcF82TmRVbW9mQVoyNjkyV3Zwd3FlekVWSVBTTDBVNTJHU0xGbkZDU3ZfaEg3QmRyYlVSMjA0WEJDZGk3TGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-13-we-are-not-mining-in-draw-river-forest-reserve-betterland-gh",
+      "date": "2026-08-13",
+      "category": "water",
+      "title": "We are not mining in Draw River Forest Reserve – Betterland Ghana Limited",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We are not mining in Draw River Forest Reserve – Betterland Ghana Limited MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEVYQkE5TEVkUVNEdDRRRElTcXhqTzZhWEdjdHVhRmpHakpWeDFnLUFaVUhOR3UwMDBURE9Sbi1BLXhnWncydXdsT210OW1xY0MtTnNHNXNqX2pqOThBQ0p0T21SVHNtR0RwRXYySHRuODdqX25xWV90MHhvZHdzcmxDZS1ZdTJFVV9PRE90ZXpXRmc4cEJhaW9ZS2lpOFdoLWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEVYQkE5TEVkUVNEdDRRRElTcXhqTzZhWEdjdHVhRmpHakpWeDFnLUFaVUhOR3UwMDBURE9Sbi1BLXhnWncydXdsT210OW1xY0MtTnNHNXNqX2pqOThBQ0p0T21SVHNtR0RwRXYySHRuODdqX25xWV90MHhvZHdzcmxDZS1ZdTJFVV9PRE90ZXpXRmc4cEJhaW9ZS2lpOFdoLWc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "We have not honoured them – Ken Ashigbey questions galamsey fight a year after helicopter tragedy",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the Media Coalition Against Illegal Mining, Dr Ken Ashigbey, says Ghana has failed to honour the memory of the eight people who died in last year’s helicopter crash while travelling to support efforts against illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fight-a-year-after-helicopter-tragedy/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fight-a-year-after-helicopter-tragedy/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-13-how-dare-we-allow-this-ken-ashigbey-blasts-nation-s-failure-",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "How dare we allow this? – Ken Ashigbey blasts nation’s failure to stop galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the Media Coalition Against Illegal Mining, Dr Ken Ashigbey, has criticised the continued failure to stop galamsey, saying the country has not honoured those who died while fighting the menace.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/how-dare-we-allow-this-ken-ashigbey-blasts-nations-failure-to-stop-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/how-dare-we-allow-this-ken-ashigbey-blasts-nations-failure-to-stop-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-13-we-started-well-then-lost-track-a-rocha-ghana-on-galamsey-fi",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "We started well, then lost track – A-Rocha Ghana on galamsey fight after helicopter crash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A-Rocha Ghana says Ghana’s fight against illegal mining, popularly known as galamsey, has lost momentum despite the strong public resolve that followed last year’s August 6 helicopter crash.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-started-well-then-lost-track-a-rocha-ghana-on-galamsey-fight-after-helicopter-crash/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-started-well-then-lost-track-a-rocha-ghana-on-galamsey-fight-after-helicopter-crash/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-13-galamsey-crisis-kyebi-water-plant-shut-as-turbidity-makes-tr",
+      "date": "2026-08-13",
+      "category": "water",
+      "title": "Galamsey crisis: Kyebi Water Plant shut as turbidity makes treatment impossible – Ashigbey",
+      "place": "Kyebi",
+      "region": "Eastern",
+      "lat": 6.17,
+      "lon": -0.55,
+      "summary": "The fight against illegal mining is putting Ghana’s water supply under renewed pressure, with the Kyebi water treatment plant reportedly shut down due to extremely turbid raw water.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-crisis-kyebi-water-plant-shut-as-turbidity-makes-treatment-impossible-ashigbey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-crisis-kyebi-water-plant-shut-as-turbidity-makes-treatment-impossible-ashigbey/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -301,7 +417,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OLW9IUkM3NW5lVDEtZThQaHF5QjcwbmtDY0VFdUk3MlBhWnNLcVVscS1vRWlpY1dBYllqaWdWN0xiOEYxeFJyQUFqOWNfa1F5TFpzZGEwZlU5bWdMNlpnWmJkb1_SAVxBVV95cUxNQmc5WlFDQ1dDX1ZYRzdzbFdMWV9LNUlsN05CN2E0aHNncXhodmd4SXlheVh0Z0s4OFlaY2pXNzR3Umhkb1FpYUdvbmd6SzV6TVBzRGdYN2h1WndsMw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash",
@@ -416,6 +533,65 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-are-at-a-point-of-hopelessness-a-rocha-ghana-on-galamsey-fight-one-year-after-crash/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-berekum-residents-protest-against-galamsey-destruction",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Berekum residents protest against galamsey destruction",
+      "place": "Berekum",
+      "region": "Bono",
+      "lat": 7.45,
+      "lon": -2.59,
+      "summary": "Berekum residents protest against galamsey destruction Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVpBVVY5d2FFcG4zeU1OOTNkbmlXMDdvc3ZrWEoyOFFZeDlHMjczZ3FwTjhrWl9hMGRKU1Y5UkNQNkRFVzJCVUZnRTE2bFpVNGFFUXR3QndNSFRLRTR3YmFvX3RLTE5OTEpxaS1fZGtldGNERkViNlVsVzVmMVVFbmFVc1ExUnRlb2QtLQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVpBVVY5d2FFcG4zeU1OOTNkbmlXMDdvc3ZrWEoyOFFZeDlHMjczZ3FwTjhrWl9hMGRKU1Y5UkNQNkRFVzJCVUZnRTE2bFpVNGFFUXR3QndNSFRLRTR3YmFvX3RLTE5OTEpxaS1fZGtldGNERkViNlVsVzVmMVVFbmFVc1ExUnRlb2QtLQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-galamsey-is-taking-back-our-forests-erastus-asare-donkor-war",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Galamsey is taking back our forests – Erastus Asare Donkor warns gains are being lost",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is taking back our forests – Erastus Asare Donkor warns gains are being lost MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1N3VlZFdDZKRVFvLXBZQW1VR2g2b0hrbzUyUVRwRjE3aV9LTm5uRlNRUnlKVXQ0Wk02NFdQbm5XUHVwNG9CX2w5dW1ZQmZJVXdPeXcwQmZ6b2h5YUttcmpzM3FQYVM3U1VTb184aEFHcVRvZjROYXhsWkRoS0Zjc21JY2pBZk1wUW80YVh5bzRlQVNnQ2xLVGhidGV1V3J1UGNZVlNzQ1NRbUNmT3k5ZXBn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1N3VlZFdDZKRVFvLXBZQW1VR2g2b0hrbzUyUVRwRjE3aV9LTm5uRlNRUnlKVXQ0Wk02NFdQbm5XUHVwNG9CX2w5dW1ZQmZJVXdPeXcwQmZ6b2h5YUttcmpzM3FQYVM3U1VTb184aEFHcVRvZjROYXhsWkRoS0Zjc21JY2pBZk1wUW80YVh5bzRlQVNnQ2xLVGhidGV1V3J1UGNZVlNzQ1NRbUNmT3k5ZXBn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+    },
+    {
+      "id": "auto-2026-08-12-we-are-rolling-back-the-gains-erastus-asare-donkor-warns-gal",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "We are rolling back the gains – Erastus Asare Donkor warns galamsey gains are being lost",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We are rolling back the gains – Erastus Asare Donkor warns galamsey gains are being lost MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
