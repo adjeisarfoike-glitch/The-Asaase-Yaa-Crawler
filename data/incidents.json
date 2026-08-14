@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-14T13:44:07.995Z",
+  "updated": "2026-08-14T19:15:39.090Z",
   "counts": {
-    "total": 270,
+    "total": 280,
     "verified": 28,
-    "automated": 242,
+    "automated": 252,
     "earliest": "2024-07-01",
     "latest": "2026-08-14"
   },
@@ -12,22 +12,23 @@
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
       "date": "2026-08-14",
       "category": "arrest",
-      "title": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports",
+      "title": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports Modern Ghana",
+      "summary": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports Modern Ghana",
       "metrics": {
         "hectares": 8900
       },
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTFXV0xWaUJoR3pCbm9ZLWhsdXpXdi1tNVJxeUJJeGN6X2JHcmdKLU9USFA3R1dKTjhqRHI2UzhGcE4yb1FfbHpGOGNWcXlFemxxaGFNMDg2TDFaTFlsSWE1aE81NlE0RHFqR0FmWk9WcWpyTkJ0bDJrYkdiZUN4b1lUbTRydVkxM280d2Y3bDRSSjBmaU1qMjBR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTFXV0xWaUJoR3pCbm9ZLWhsdXpXdi1tNVJxeUJJeGN6X2JHcmdKLU9USFA3R1dKTjhqRHI2UzhGcE4yb1FfbHpGOGNWcXlFemxxaGFNMDg2TDFaTFlsSWE1aE81NlE0RHFqR0FmWk9WcWpyTkJ0bDJrYkdiZUN4b1lUbTRydVkxM280d2Y3bDRSSjBmaU1qMjBR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
     },
     {
       "id": "auto-2026-08-14-galamsey-in-bono-region-atronie-residents-protest-destructio",
@@ -68,6 +69,204 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-08-14-galamsey-the-challenge-is-prosecution-armah-kofi-buah",
+      "date": "2026-08-14",
+      "category": "prosecution",
+      "title": "Galamsey: ‘The challenge is prosecution’ – Armah-Kofi Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘The challenge is prosecution’ – Armah-Kofi Buah CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWhvZmRqN2Zua1VhSzlBeDlNb0pocWh1aVp1dkxHem5ZdXZrUmpLRldvYkVfMGFFRGhBb3FEWU9nNGN0Z0Vta19pM2hlMnRyeWZqOFQ4VnNRa09SMTRmWGFMN1NGWnRkOTJOblB6UzlReHltaEp1amJmNXdiTWttNFFwNDAxeGxEcGJzamtfVmMtSGFKWEE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNZWhvZmRqN2Zua1VhSzlBeDlNb0pocWh1aVp1dkxHem5ZdXZrUmpLRldvYkVfMGFFRGhBb3FEWU9nNGN0Z0Vta19pM2hlMnRyeWZqOFQ4VnNRa09SMTRmWGFMN1NGWnRkOTJOblB6UzlReHltaEp1amJmNXdiTWttNFFwNDAxeGxEcGJzamtfVmMtSGFKWEE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-galamsey-8-900-hectares-of-forest-reserves-lost-258-arrested",
+      "date": "2026-08-14",
+      "category": "arrest",
+      "title": "Galamsey: 8,900 hectares of forest reserves lost, 258 arrested, 4,000 excavators held at ports – Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: 8,900 hectares of forest reserves lost, 258 arrested, 4,000 excavators held at ports – Buah CitiNewsroom.com",
+      "metrics": {
+        "hectares": 8900
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWxJMzlvVUExSzZ5U0k0NHhqRWJVTmVVd1VQUDdFMk5IeGZQWGtZVVNuaGFLMjlaNUVuck0zWHhBQnJuSW9iMlJmOWtqRUxIcTFIM3hQSHJCdUMyTFJLc0FfM1dBb2Vvc3VkcGJPaUV0MFVCenJ1UGx2YWwtbEFhWDN0MmsyTnRuU3B4R0l6cDl3WUlReWlycmNCZWZNN0ZvaVBubGpmTDFTbE1ISmdFd1RYbDFpMVZnVmdoQllaSWh0Nk1FVU5EOGladGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWxJMzlvVUExSzZ5U0k0NHhqRWJVTmVVd1VQUDdFMk5IeGZQWGtZVVNuaGFLMjlaNUVuck0zWHhBQnJuSW9iMlJmOWtqRUxIcTFIM3hQSHJCdUMyTFJLc0FfM1dBb2Vvc3VkcGJPaUV0MFVCenJ1UGx2YWwtbEFhWDN0MmsyTnRuU3B4R0l6cDl3WUlReWlycmNCZWZNN0ZvaVBubGpmTDFTbE1ISmdFd1RYbDFpMVZnVmdoQllaSWh0Nk1FVU5EOGladGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-galamsey-on-river-pra-worsens-turbidity-at-daboase-water-tre",
+      "date": "2026-08-14",
+      "category": "water",
+      "title": "Galamsey on River Pra worsens turbidity at Daboase Water Treatment Plant",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "Galamsey on River Pra worsens turbidity at Daboase Water Treatment Plant CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNW51dV9tUE9yS0pxTXNTcUxUeHlkVG5Wd2xXeHVyQ0djYmxScjlLejRBVlBqNVp2aDZEb0ZyYXoxeWgzT3JOenNieWx1YXJmUm9Cb0JQaE5oUV9PMzRLdUZOM01QcW1FOVJ2UmFaaGVSMDctOHVCOGowMXAxMFU1bkk0RldFNk1Da0VMSWZxeEppV0hXX240N0MzOFpZTEdnWVhaY2FkSk5Wb1NXV0s0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQNW51dV9tUE9yS0pxTXNTcUxUeHlkVG5Wd2xXeHVyQ0djYmxScjlLejRBVlBqNVp2aDZEb0ZyYXoxeWgzT3JOenNieWx1YXJmUm9Cb0JQaE5oUV9PMzRLdUZOM01QcW1FOVJ2UmFaaGVSMDctOHVCOGowMXAxMFU1bkk0RldFNk1Da0VMSWZxeEppV0hXX240N0MzOFpZTEdnWVhaY2FkSk5Wb1NXV0s0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
+    },
+    {
+      "id": "auto-2026-08-14-258-galamsey-suspects-arrested-in-forest-reserves-but-prosec",
+      "date": "2026-08-14",
+      "category": "arrest",
+      "title": "258 galamsey suspects arrested in forest reserves, but prosecution remains biggest challenge — Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "258 galamsey suspects arrested in forest reserves, but prosecution remains biggest challenge — Buah 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXlaQ1FwaG5vemV1czNhSFUzTHVVMU9DbnU0a3EzalVnbFo3SlFKcENOY1QyeThwUWFDek9rRGY4UUNUeU1laUFkbGVLMUNtOEsxQ2FuamY3c1cxeHUzN2xWYkZ5bi12YVpBRURaUWRWbUJJbFUyUnJ3eWViSEVPRzVBT3ZTOExmYTR5T2Jpa3ZBRXpISVBSLVF4SXdFdzRpS0FGYUNMUHRSejdnZElGdC1OUzRPcGZnZWZz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXlaQ1FwaG5vemV1czNhSFUzTHVVMU9DbnU0a3EzalVnbFo3SlFKcENOY1QyeThwUWFDek9rRGY4UUNUeU1laUFkbGVLMUNtOEsxQ2FuamY3c1cxeHUzN2xWYkZ5bi12YVpBRURaUWRWbUJJbFUyUnJ3eWViSEVPRzVBT3ZTOExmYTR5T2Jpa3ZBRXpISVBSLVF4SXdFdzRpS0FGYUNMUHRSejdnZElGdC1OUzRPcGZnZWZz?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-illegal-mining-has-destroyed-about-8-900-hectares-of-ghana-s",
+      "date": "2026-08-14",
+      "category": "forest",
+      "title": "Illegal Mining Has Destroyed About 8,900 Hectares Of Ghana’s Forest Reserves",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal Mining Has Destroyed About 8,900 Hectares Of Ghana’s Forest Reserves Modern Ghana",
+      "metrics": {
+        "hectares": 8900
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1p6bzhXV3NEdHlKWk4tNDJieWQyWkdSbXpUT3ZRSWlVWmVHQWtmYkR1ZDJCdkhEZUwyclN6R1pPaU15QTRUU1g4akM1WkloR0F5RDRxME1pdnJQM0JEUjAxMngtWGE1cjFfSlJWOXdyNnNnV2lNek9DZTY3WjhCRWUzQ3FrbEZkX19IMDBfbERnTGxSYTdCRmtR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1p6bzhXV3NEdHlKWk4tNDJieWQyWkdSbXpUT3ZRSWlVWmVHQWtmYkR1ZDJCdkhEZUwyclN6R1pPaU15QTRUU1g4akM1WkloR0F5RDRxME1pdnJQM0JEUjAxMngtWGE1cjFfSlJWOXdyNnNnV2lNek9DZTY3WjhCRWUzQ3FrbEZkX19IMDBfbERnTGxSYTdCRmtR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
+    },
+    {
+      "id": "auto-2026-08-14-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
+      "date": "2026-08-14",
+      "category": "forest",
+      "title": "Ghana loses 8,900 hectares of forest reserves to illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana loses 8,900 hectares of forest reserves to illegal mining MyJoyOnline",
+      "metrics": {
+        "hectares": 8900
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUzFwdmIyNjBEZC1hUjA0MGZWUV9CWlJRd0ttVy1qc0dfWkxoWU95S2JZR0JQaXV5OWRTTWFZYmNfTkZnQmw4SkhhMDRvOG1jck9pOEZMUUstX3N0ZERLRl9oN0FHSEtBNml4RVM2M3NFNjFrVWFmX3BqOUhMSWVfOVF0emxVbFFWRXdPMUFWNmdCcW9xVlE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNUzFwdmIyNjBEZC1hUjA0MGZWUV9CWlJRd0ttVy1qc0dfWkxoWU95S2JZR0JQaXV5OWRTTWFZYmNfTkZnQmw4SkhhMDRvOG1jck9pOEZMUUstX3N0ZERLRl9oN0FHSEtBNml4RVM2M3NFNjFrVWFmX3BqOUhMSWVfOVF0emxVbFFWRXdPMUFWNmdCcW9xVlE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-prosecution-biggest-challenge-in-galamsey-fight-lands-minist",
+      "date": "2026-08-14",
+      "category": "prosecution",
+      "title": "Prosecution biggest challenge in galamsey fight – Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Prosecution biggest challenge in galamsey fight – Lands Minister MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVM3c0Z0TW1wU08tTVloa2szdklCUWcyUnItWjkzUG9tT3p5bVdNdTEwZTFRNEp0Qnh5a2VSNkplSi1RTi1MU04wb25UY1BOV0VtX0J0cmJkSmNVaWFFUGp5ZHFYaUJ0bGlOb1lFSTcxMGM0Nkd2NkRlWVFxQjNTdlhpSWdJV0ZoSEM4TlhxRF9tOVgzbmc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVM3c0Z0TW1wU08tTVloa2szdklCUWcyUnItWjkzUG9tT3p5bVdNdTEwZTFRNEp0Qnh5a2VSNkplSi1RTi1MU04wb25UY1BOV0VtX0J0cmJkSmNVaWFFUGp5ZHFYaUJ0bGlOb1lFSTcxMGM0Nkd2NkRlWVFxQjNTdlhpSWdJV0ZoSEM4TlhxRF9tOVgzbmc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-government-targets-local-changfan-manufacturers-suppliers-in",
+      "date": "2026-08-14",
+      "category": "policy",
+      "title": "Government targets local changfan manufacturers, suppliers in expanded galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The government is widening its fight against illegal mining by targeting the businesses and supply networks that provide equipment for galamsey operations.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/government-targets-local-changfan-manufacturers-suppliers-in-expanded-galamsey-fight/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/government-targets-local-changfan-manufacturers-suppliers-in-expanded-galamsey-fight/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-over-4-000-excavators-held-at-ports-under-new-galamsey-contr",
+      "date": "2026-08-14",
+      "category": "arrest",
+      "title": "Over 4,000 excavators held at ports under new galamsey control measures – Lands Minister reveals",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "More than 4,000 excavators are currently being held at Ghana’s ports as government tightens controls over the importation and use of heavy-duty equipment that could be deployed for illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/over-4000-excavators-held-at-ports-under-new-galamsey-control-measures-lands-minister-reveals/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/over-4000-excavators-held-at-ports-under-new-galamsey-control-measures-lands-minister-reveals/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-14-atewa-forest-ghana-s-butterfly-haven-and-a-global-biodiversi",
+      "date": "2026-08-14",
+      "category": "forest",
+      "title": "Atewa Forest: Ghana’s butterfly haven and a global biodiversity treasure",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Deep in Ghana’s Eastern Region lies a forest reserve that holds one of the country’s most remarkable biodiversity secrets—the Atewa Forest Range Reserve, home to an extraordinary concentration of butterfly species and other rare forms of life. With reports indicating that about 70–77 percent of Ghana’s known butterfly species can be found in... The post Atewa Forest: Ghana’s butterfly haven and a global biodiversity ",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/atewa-forest-ghanas-butterfly-haven-and-a-global-biodiversity-treasure/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -309,7 +508,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-govt-urged-to-protect-white-volta-for-water-security-livelihoods.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-13T13:50:17.752Z"
+      "archivedAt": "2026-08-13T13:50:17.752Z",
+      "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
     },
     {
       "id": "auto-2026-08-13-galamsey-crackdown-26-suspected-illegal-miners-arrested-in-m",
@@ -328,8 +528,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -685,18 +884,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
