@@ -1,13 +1,32 @@
 {
-  "updated": "2026-08-15T01:53:51.445Z",
+  "updated": "2026-08-15T07:00:10.098Z",
   "counts": {
-    "total": 281,
+    "total": 283,
     "verified": 28,
-    "automated": 253,
+    "automated": 255,
     "earliest": "2024-07-01",
-    "latest": "2026-08-14"
+    "latest": "2026-08-15"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-15-galamsey-challenge-is-prosecution-not-arrest-lands-minister",
+      "date": "2026-08-15",
+      "category": "arrest",
+      "title": "Galamsey: ‘Challenge is prosecution, not arrest’ — Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘Challenge is prosecution, not arrest’ — Lands Minister MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9sekpJRXhYZ2VOWUlMeVM3YmU1cFlhY0laNlhObDZCNHNicmpkVm9JaDZ6ZUpvNHJsd1loSUYxbVlkM200TjlFMU9vZVVteGN3SGlvaWJTUmg5ZEptY0pqMUNFN0p5NlJzRGQ0VGlyeFlhZmY0SkV3QVdBczYza3F1T1AxV0xhZXVIWVdQQUR2UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9sekpJRXhYZ2VOWUlMeVM3YmU1cFlhY0laNlhObDZCNHNicmpkVm9JaDZ6ZUpvNHJsd1loSUYxbVlkM200TjlFMU9vZVVteGN3SGlvaWJTUmg5ZEptY0pqMUNFN0p5NlJzRGQ0VGlyeFlhZmY0SkV3QVdBczYza3F1T1AxV0xhZXVIWVdQQUR2UQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
       "date": "2026-08-14",
@@ -290,6 +309,27 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
+    },
+    {
+      "id": "auto-2026-08-14-8-900-hectares-of-forest-reserves-destroyed-by-galamsey-arma",
+      "date": "2026-08-14",
+      "category": "forest",
+      "title": "8,900 hectares of forest reserves destroyed by galamsey – Armah-Kofi Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "About 8,900 hectares of Ghana’s forest reserves have been completely degraded through illegal mining and other destructive activities, according to the Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah.",
+      "metrics": {
+        "hectares": 8900
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -907,18 +947,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) modernghana.com",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1770,8 +1810,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-murtala-mohammed-left-indelible-footprints-at-mest-armah-kofi-buah-eulogises.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-illegal-mining-lures-ghanaian-children-out-of-school-and-int",
@@ -1887,8 +1926,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
@@ -4845,8 +4883,7 @@
         "name": "The Sikaman Times",
         "url": "https://sikamantimes.com/govt-reports-200-anti-galamsey-operations-207-arrests-in-first-half-of-2026/"
       },
-      "verified": true,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": true
     },
     {
       "id": "auto-2026-07-16-some-reclamation-contractors-using-galamsey-to-fund-their-wo",
