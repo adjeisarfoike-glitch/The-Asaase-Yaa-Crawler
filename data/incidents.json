@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-16T07:02:07.065Z",
+  "updated": "2026-08-16T13:04:35.013Z",
   "counts": {
-    "total": 291,
+    "total": 294,
     "verified": 28,
-    "automated": 263,
+    "automated": 266,
     "earliest": "2024-07-01",
     "latest": "2026-08-16"
   },
@@ -25,7 +25,68 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHdHS29DczRZV3dXN2ZfcnBUSkJIa1JKaTQtb2ctbm5xVWxJSmlUaklCT2paOXBULUZkSUFwQnZGRTNKeDFtcHFEM1pPdHZ5X2MwMThBandzNjU1cmFEekJtcnRZMnRSd1c2UmJaY1NmeU1ZYnVwUnhFUjNNQ053UDRlOVEzeHU2d2dSLXFEZDZlQW9GWDZ1eVBSZFNRVFBranNOc0hpX2dodldGR3BrTlpyMlo3NUFZNHc?oc=5",
       "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-16T12:59:40.056Z"
+    },
+    {
+      "id": "auto-2026-08-16-tano-north-chiefs-petition-mahama-over-galamsey-destruction-",
+      "date": "2026-08-16",
+      "category": "water",
+      "title": "Tano North chiefs petition Mahama over galamsey destruction in River Tano",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Tano North chiefs petition Mahama over galamsey destruction in River Tano Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTlsWWxxbmVBWUtkWHpsWF9jQmFUaTRyYmd6cXZXMW8wNEo0TFc0dGJCbjM4aUFldnlXVWNGVnV4bFZkZUJNWWx1eHFremdVMlZXWTg1azBvSXRVc1oxMWJXUkZ1MF9LLTZOSnhZREdkWF9zamNPc3plcWh6SGxQbFF5ZmdoYnB1N3BzUnUxR3U2MERhS2RoV09nVDh0bFRabTFN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTlsWWxxbmVBWUtkWHpsWF9jQmFUaTRyYmd6cXZXMW8wNEo0TFc0dGJCbjM4aUFldnlXVWNGVnV4bFZkZUJNWWx1eHFremdVMlZXWTg1azBvSXRVc1oxMWJXUkZ1MF9LLTZOSnhZREdkWF9zamNPc3plcWh6SGxQbFF5ZmdoYnB1N3BzUnUxR3U2MERhS2RoV09nVDh0bFRabTFN?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-16-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
+      "date": "2026-08-16",
+      "category": "forest",
+      "title": "Ghana loses 8,900 hectares of forest reserves to illegal mining – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana loses 8,900 hectares of forest reserves to illegal mining – Lands Ministry GhanaWeb",
+      "metrics": {
+        "hectares": 8900
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2FZYUpRWDVmdFRmZXFfWjQyZjJsaWJqWkJESGNEa1hORGFGN2tGdFdSNGFVZGxqQk5iNlZOSy0yZElQQjExRERRbkFhdDMzdktYTkphT3Z6LVAwS1VRMURBdDdPTGJZNjNzQ2NmNXl6dXVjOW5mN2txN05NWVVTZ0N6SEdwRGRHLWFEeGNyMVZfeUpiTm4yWkZRaVV2QWZmOEtCRkFOTHU0T0U3RVVWMlROVWVxTGt0eUR5bTBUS3h3X09KZkM0engyTm1IaW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2FZYUpRWDVmdFRmZXFfWjQyZjJsaWJqWkJESGNEa1hORGFGN2tGdFdSNGFVZGxqQk5iNlZOSy0yZElQQjExRERRbkFhdDMzdktYTkphT3Z6LVAwS1VRMURBdDdPTGJZNjNzQ2NmNXl6dXVjOW5mN2txN05NWVVTZ0N6SEdwRGRHLWFEeGNyMVZfeUpiTm4yWkZRaVV2QWZmOEtCRkFOTHU0T0U3RVVWMlROVWVxTGt0eUR5bTBUS3h3X09KZkM0engyTm1IaW8?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-16-duncan-williams-warns-of-powerful-interests-targeting-goldbo",
+      "date": "2026-08-16",
+      "category": "policy",
+      "title": "Duncan-Williams warns of powerful interests targeting GoldBod",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has raised alarm over what he described as attempts by powerful interests to find new channels into Ghana’s gold trade, warning that political interference and the continued destruction caused by illegal mining could jeopardise the future of the country.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/duncan-williams-warns-of-powerful-interests-targeting-goldbod/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-warns-of-powerful-interests-targeting-goldbod/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
     },
     {
       "id": "auto-2026-08-15-galamsey-challenge-is-prosecution-not-arrest-lands-minister",
@@ -165,20 +226,20 @@
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
       "date": "2026-08-14",
       "category": "arrest",
-      "title": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports",
+      "title": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports modernghana.com",
+      "summary": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports modernghana.com",
       "metrics": {
         "hectares": 8900
       },
       "source": {
         "name": "modernghana.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -722,7 +783,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -1078,18 +1140,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) modernghana.com",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. modernghana.com",
       "metrics": {},
       "source": {
         "name": "modernghana.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
