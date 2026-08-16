@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-16T13:04:35.013Z",
+  "updated": "2026-08-16T18:49:45.554Z",
   "counts": {
-    "total": 294,
+    "total": 298,
     "verified": 28,
-    "automated": 266,
+    "automated": 270,
     "earliest": "2024-07-01",
     "latest": "2026-08-16"
   },
@@ -87,6 +87,64 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-08-16-galamsey-putting-future-of-ghana-s-children-at-risk-duncan-w",
+      "date": "2026-08-16",
+      "category": "forest",
+      "title": "Galamsey putting future of Ghana’s children at risk – Duncan-Williams",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey putting future of Ghana’s children at risk – Duncan-Williams CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFFsanU2aW9ZU2g5NlE1aDN3WHVqbzQtcHV1WVR3dUFNWktxS1I5M1Jpelh6aGFRVXRNTHNGV0xFem5zaE1FaG9NQnFKRmRPbkh6NkJXaHZnVUtmN0Vmb2lpc3RGOFJCYVhFSkNhNXplbFY0c0U2NnZXZ2JGNW82Y2JyZWRCU2g1bWRzQU9mbTUwSHY2Nm5CV0I0aDJrTDJJb3FJYzVucw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFFsanU2aW9ZU2g5NlE1aDN3WHVqbzQtcHV1WVR3dUFNWktxS1I5M1Jpelh6aGFRVXRNTHNGV0xFem5zaE1FaG9NQnFKRmRPbkh6NkJXaHZnVUtmN0Vmb2lpc3RGOFJCYVhFSkNhNXplbFY0c0U2NnZXZ2JGNW82Y2JyZWRCU2g1bWRzQU9mbTUwSHY2Nm5CV0I0aDJrTDJJb3FJYzVucw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-16-let-s-use-oil-palm-to-rescue-degraded-galamsey-sites-tcda-ce",
+      "date": "2026-08-16",
+      "category": "forest",
+      "title": "Let’s use oil palm to rescue degraded galamsey sites – TCDA CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Let’s use oil palm to rescue degraded galamsey sites – TCDA CEO 3news.com",
+      "metrics": {},
+      "source": {
+        "name": "3news.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVzFzSmU0ZWUyR1JMTTNhb1dZNjRGandSSHQxZU1odWoydUc3S2h5ejNOUGdOOGVMcnk0Uk1PSDR4ZFc0dEw1TWRPTmYzaEd5aEY4UDgyd2pSNFRaQzRZMzE3NU4ya2JCWmhHaF9RekF6UEIwb19JV0h5MmlzWnFqSnh3TFk3QW1LLXpN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVzFzSmU0ZWUyR1JMTTNhb1dZNjRGandSSHQxZU1odWoydUc3S2h5ejNOUGdOOGVMcnk0Uk1PSDR4ZFc0dEw1TWRPTmYzaEd5aEY4UDgyd2pSNFRaQzRZMzE3NU4ya2JCWmhHaF9RekF6UEIwb19JV0h5MmlzWnFqSnh3TFk3QW1LLXpN?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-16-this-is-not-a-political-issue-duncan-williams-urges-action-o",
+      "date": "2026-08-16",
+      "category": "policy",
+      "title": "“This Is Not A Political Issue” — Duncan-Williams Urges Action On Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“This Is Not A Political Issue” — Duncan-Williams Urges Action On Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTVlHc2c5Q21JUFh4MS03cWhoZ2FYWFpsdHF0ZjdhdFo2VWN0dXdJc1VnVGFmX3YySzVld055RWkwQ0ZLMlJXVjBKbF80dl9RTGI0Z2xQWjg1dnpVZzZjSDQzSdIBXEFVX3lxTE91VUJaN2lqc25NbTd0VVNiWmR1WVdETEJpWExUbldneGxEd09CcHVEWHFJMXlIN0FYTGRlNGE4ZnBhZkJYY2lSdGZzYzZQYWo2TGNRZE9xSjZaNTBC?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTVlHc2c5Q21JUFh4MS03cWhoZ2FYWFpsdHF0ZjdhdFo2VWN0dXdJc1VnVGFmX3YySzVld055RWkwQ0ZLMlJXVjBKbF80dl9RTGI0Z2xQWjg1dnpVZzZjSDQzSdIBXEFVX3lxTE91VUJaN2lqc25NbTd0VVNiWmR1WVdETEJpWExUbldneGxEd09CcHVEWHFJMXlIN0FYTGRlNGE4ZnBhZkJYY2lSdGZzYzZQYWo2TGNRZE9xSjZaNTBC?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
       "id": "auto-2026-08-15-galamsey-challenge-is-prosecution-not-arrest-lands-minister",
@@ -226,22 +284,23 @@
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
       "date": "2026-08-14",
       "category": "arrest",
-      "title": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports",
+      "title": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports modernghana.com",
+      "summary": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports Modern Ghana",
       "metrics": {
         "hectares": 8900
       },
       "source": {
-        "name": "modernghana.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UNIBmAFBVV95cUxOcDlvZ2JUVExlYmtyc1IxUHd1QVUyZ2twRG45NmkyWnlxdnNEQXpIT0JsTVZQazNZdzEyMHY0amx5Q1MxZUJDajhrOWZ4Mm9GT3FEY1ZLb1ZOQ0hoUXp3X1N5Ykl6WHZEdUY1UlNocnYwMmJSMno4ZU9rWEFhNUpBU2g5Q29LVTk3ZFJPeGJkMGtrNW5rQWU2UA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
     },
     {
       "id": "auto-2026-08-14-galamsey-in-bono-region-atronie-residents-protest-destructio",
@@ -383,7 +442,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1p6bzhXV3NEdHlKWk4tNDJieWQyWkdSbXpUT3ZRSWlVWmVHQWtmYkR1ZDJCdkhEZUwyclN6R1pPaU15QTRUU1g4akM1WkloR0F5RDRxME1pdnJQM0JEUjAxMngtWGE1cjFfSlJWOXdyNnNnV2lNek9DZTY3WjhCRWUzQ3FrbEZkX19IMDBfbERnTGxSYTdCRmtR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
     },
     {
       "id": "auto-2026-08-14-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
@@ -561,7 +621,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTFNa1dnYnlYQVJBQjluODBtRzZpSm9CVWQyZ2RrMkdRMjdpeXFKNWpUb2ppUmlCNThhcXBzZlVWUWZYZ0ZaVGxIdmtpcEJhNUxBc2tQbGs3NHFOcURWSUp0NHNnRlFxTE13TFU3WERfcnY5QndtczEyNWdhekFBQWRQMTM3ZjZUWkFyRTF4R1NxelRjcF82TmRVbW9mQVoyNjkyV3Zwd3FlekVWSVBTTDBVNTJHU0xGbkZDU3ZfaEg3QmRyYlVSMjA0WEJDZGk3TGc?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-13T13:45:46.654Z"
+      "archivedAt": "2026-08-13T13:45:46.654Z",
+      "thread": "t-auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga"
     },
     {
       "id": "auto-2026-08-13-we-are-not-mining-in-draw-river-forest-reserve-betterland-gh",
@@ -783,8 +844,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -1140,18 +1200,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. modernghana.com",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "modernghana.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1270,6 +1330,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjZjWDl2bDhQdXFRTU1JREVQbVlETmNXRzh1eG90QUFyUVlaZ19fWERZQXJHTzhzWEVubEY5bENWTWlfaW5QN0VGU0J5SXF5U0trME1zdFdiQnpKQVRrY3VBWGU5NG43UlpDc3BycENzOEowSExMbzg1Y2JSWUJkdVVNdThCLTVmbGd0SXhxTTJ1U1Q5TUhMbnJSdFJpTGFTeFRkMjh6Yw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga",
+      "date": "2026-08-12",
+      "category": "forest",
+      "title": "Bawumia, Japanese Ambassador discuss digitalisation, AI and galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Bawumia, Japanese Ambassador discuss digitalisation, AI and galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHdPN0xuOFBTQ3dGMDR3b0dQSmlGMEtJeFRRVzd1RXVwNWlWSzdtNFVFa1ZJcHBUMURxNWJMZFJVckxhdmVQd1FYTDY5R2dvZXBvYVpOYXJJWGRlTzg2Z3dnR1VBbXFaTjFsNmlCSVI3YjZncVhaREE3am5iQl9JRk9uRTRhX1BPck9JRWc0ZG9UQ1hGQzViMm1FOWNzS0lXeDNiM1Z4cw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHdPN0xuOFBTQ3dGMDR3b0dQSmlGMEtJeFRRVzd1RXVwNWlWSzdtNFVFa1ZJcHBUMURxNWJMZFJVckxhdmVQd1FYTDY5R2dvZXBvYVpOYXJJWGRlTzg2Z3dnR1VBbXFaTjFsNmlCSVI3YjZncVhaREE3am5iQl9JRk9uRTRhX1BPck9JRWc0ZG9UQ1hGQzViMm1FOWNzS0lXeDNiM1Z4cw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga"
     },
     {
       "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
