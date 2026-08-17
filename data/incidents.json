@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-16T18:49:45.554Z",
+  "updated": "2026-08-17T01:58:12.859Z",
   "counts": {
-    "total": 298,
+    "total": 299,
     "verified": 28,
-    "automated": 270,
+    "automated": 271,
     "earliest": "2024-07-01",
     "latest": "2026-08-16"
   },
@@ -147,6 +147,26 @@
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
+      "id": "auto-2026-08-16-franklin-cudjoe-urges-lands-minister-to-reassess-revocation-",
+      "date": "2026-08-16",
+      "category": "policy",
+      "title": "Franklin Cudjoe urges Lands Minister to reassess revocation of Adamus Resources license",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "IMANI Africa President Franklin Cudjoe has condemned the revocation of Adamus Mining License and called upon Lands and Natural Resources Minister Emmanuel Armah Kofi Buah to reassess the Minerals Commission’s management of Adamus Resources, contending that the agency did not adhere to due process. While acknowledging the minister’s initiatives in combating illegal mining, Cudjoe expressed […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
+    },
+    {
       "id": "auto-2026-08-15-galamsey-challenge-is-prosecution-not-arrest-lands-minister",
       "date": "2026-08-15",
       "category": "arrest",
@@ -284,23 +304,22 @@
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
       "date": "2026-08-14",
       "category": "arrest",
-      "title": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports",
+      "title": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Lands Ministry Opens Up On Galamsey: 8,900 Hectares Lost, 258 Arrested, 4,000 Plus Excavatorls Held At Ports Modern Ghana",
+      "summary": "Lands Ministry opens up on galamsey: 8,900 hectares lost, 258 arrested, 4,000 excavators held at ports Modern Ghana",
       "metrics": {
         "hectares": 8900
       },
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1NhUHlpQW9HRDEwNTdNYmpmNUtLWEk2RVJ3TTU3SW51cHlGa1BNYzNXYjAxejJoRkliN19TdGFsRGhjd0R3aDdBWjZVYzJtQ1kwWVhENVdtSjB4SzBSV0ZqY08tLWM4X3FKNzRYbF9QNzBITTZDeGNtZnF5Y0REUkkyeDIwQVdQUVVXTWM5cmtpeHlaQlhuT0J30gGYAUFVX3lxTE5wOW9nYlRUTGVia3JzUjFQd3VBVTJna3BEbjk2aTJaeXF2c0RBekhPQmxNVlBrM1l3MTIwdjRqbHlDUzFlQkNqOGs5Zngyb0ZPcURjVktvVk5DSGhRendfU3liSXpYdkR1RjVSU2hydjAyYlIyejhlT2tYQWE1SkFTaDlDb0tVOTdkUk94YmQwa2s1bmtBZTZQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeNIBmAFBVV95cUxNZVZBOVRzaWxZQ0lJSy1zWW1LM1JCWW83SXNtOHljWHp5REliWVBSWWEwZnBBMlRsUlEzWTlqb1Y2QzBqXzNPWWZVN2VqZnI3TmVCTV9Jc1JHVXNVblp3dUNaSy1VWlRSTzB1dFNiTWNhMG1tYWIzeTdWYzJSNG1PSXduRWpaMF9hZnkwTUpZX09EM3lrSFJMeA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1NhUHlpQW9HRDEwNTdNYmpmNUtLWEk2RVJ3TTU3SW51cHlGa1BNYzNXYjAxejJoRkliN19TdGFsRGhjd0R3aDdBWjZVYzJtQ1kwWVhENVdtSjB4SzBSV0ZqY08tLWM4X3FKNzRYbF9QNzBITTZDeGNtZnF5Y0REUkkyeDIwQVdQUVVXTWM5cmtpeHlaQlhuT0J30gGYAUFVX3lxTE5wOW9nYlRUTGVia3JzUjFQd3VBVTJna3BEbjk2aTJaeXF2c0RBekhPQmxNVlBrM1l3MTIwdjRqbHlDUzFlQkNqOGs5Zngyb0ZPcURjVktvVk5DSGhRendfU3liSXpYdkR1RjVSU2hydjAyYlIyejhlT2tYQWE1SkFTaDlDb0tVOTdkUk94YmQwa2s1bmtBZTZQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-14-galamsey-in-bono-region-atronie-residents-protest-destructio",
@@ -442,8 +461,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1p6bzhXV3NEdHlKWk4tNDJieWQyWkdSbXpUT3ZRSWlVWmVHQWtmYkR1ZDJCdkhEZUwyclN6R1pPaU15QTRUU1g4akM1WkloR0F5RDRxME1pdnJQM0JEUjAxMngtWGE1cjFfSlJWOXdyNnNnV2lNek9DZTY3WjhCRWUzQ3FrbEZkX19IMDBfbERnTGxSYTdCRmtR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-14-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
@@ -844,7 +862,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Q1lKcVVJLVNvM0FZZkdkOGNDVUZ5TWh0Y1Y0SktLRFl3Y0pQSENueEw4cm9ZbHBoM09Cb2pwUDYxQjhvYnZLWEVvZlNlWVVndGxuMkM5VjJTNW5UQTk1Z0JMc9IBXEFVX3lxTFBhZmF1bFNtZjN1TWNya2JRQXZ5YUxPY2VKeXJJenlUbTJVTW5QbWJya1NKcWZqZVpNUkpBaC05cE1NZFZrbGtiYVdJM2NxVWQxQTFvWk1adG1kOFc0?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
@@ -1200,18 +1219,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2220,7 +2239,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
