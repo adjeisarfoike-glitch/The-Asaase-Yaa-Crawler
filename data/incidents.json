@@ -1,13 +1,32 @@
 {
-  "updated": "2026-08-17T01:58:12.859Z",
+  "updated": "2026-08-17T07:17:18.983Z",
   "counts": {
-    "total": 299,
+    "total": 300,
     "verified": 28,
-    "automated": 271,
+    "automated": 272,
     "earliest": "2024-07-01",
-    "latest": "2026-08-16"
+    "latest": "2026-08-17"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Duncan-Williams warns galamsey could endanger Ghana’s future generations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Founder and General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has raised concerns about the long-term consequences of illegal mining, warning that the destruction of Ghana’s environment could leave future generations with a severely damaged country.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/duncan-williams-warns-galamsey-could-endanger-ghanas-future-generations/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-warns-galamsey-could-endanger-ghanas-future-generations/",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-16-npp-to-make-galamsey-fight-core-of-2028-campaign-annoh-dompr",
       "date": "2026-08-16",
@@ -85,8 +104,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-warns-of-powerful-interests-targeting-goldbod/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+      "verified": false
     },
     {
       "id": "auto-2026-08-16-galamsey-putting-future-of-ghana-s-children-at-risk-duncan-w",
@@ -1219,18 +1237,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1862,8 +1880,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/a-time-may-come-when-the-land-cannot-yield-crops-duncan-williams-warns-over-galamsey/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T15:20:18.438Z",
-      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+      "archivedAt": "2026-08-10T15:20:18.438Z"
     },
     {
       "id": "auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens",
@@ -2552,8 +2569,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-calls-for-prayers-to-heal-ghanas-land-and-water-raises-food-security-alarm-over-galamsey/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+      "verified": false
     },
     {
       "id": "auto-2026-08-09-galamsey-goldbod-to-support-reclamation-of-three-forest-rese",
