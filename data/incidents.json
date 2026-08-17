@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-17T07:17:18.983Z",
+  "updated": "2026-08-17T13:10:05.676Z",
   "counts": {
-    "total": 300,
+    "total": 309,
     "verified": 28,
-    "automated": 272,
+    "automated": 281,
     "earliest": "2024-07-01",
     "latest": "2026-08-17"
   },
@@ -24,6 +24,177 @@
         "url": "https://www.myjoyonline.com/duncan-williams-warns-galamsey-could-endanger-ghanas-future-generations/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-warns-galamsey-could-endanger-ghanas-future-generations/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-galamsey-threatens-fish-farming-in-ghana-fisheries-commissio",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Galamsey threatens fish farming in Ghana – Fisheries Commission warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey threatens fish farming in Ghana – Fisheries Commission warns Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBVdll6cGozYnRMS3o5ZU1oMVpaNml4alU1VVZRQTYtS3VYY29FZHZ4NHpmM18ydHN5TndVNVYwaGNSZlB3aHZmVm8ydTZfSVl2d2hfbnB5RWlTUC1Qc3BZTVhvVVRwbVZTVkZ4VTdYT3lTTm4wU2RrQ0ljX25TakRxZ0NVSmY5Nl9TV21jU2JDN0lsNFdLX2FaOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBVdll6cGozYnRMS3o5ZU1oMVpaNml4alU1VVZRQTYtS3VYY29FZHZ4NHpmM18ydHN5TndVNVYwaGNSZlB3aHZmVm8ydTZfSVl2d2hfbnB5RWlTUC1Qc3BZTVhvVVRwbVZTVkZ4VTdYT3lTTm4wU2RrQ0ljX25TakRxZ0NVSmY5Nl9TV21jU2JDN0lsNFdLX2FaOA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-archbishop-duncan-williams-on-goldbod-galamsey-and-the-churc",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Archbishop Duncan Williams On Goldbod, Galamsey and the Church's Role in the Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Archbishop Duncan Williams On Goldbod, Galamsey and the Church's Role in the Fight Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOTTRUdG5rS2xMUmRyZFVYN3k2SkFaeFdxektXTmkyckZ2WXZlWnFBX3VrM1ZneUQ5TlB6Ym01SU9ESEFxQWR2YzR5V25uX3huWEJLQ0hNbFhzMGZ4WjJDeGFISm7SAVxBVV95cUxNUm1CUWtUNHlEYWpOVzY4aEt4aG9ydHh2ci12Y0YySjg5UjJkZW1QUk9EVlZRcWsxQ2hzTlNMY0FkQVYwLUNTajFLbUx3MGJSc1BmSkhyb0NjbVBVWA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOTTRUdG5rS2xMUmRyZFVYN3k2SkFaeFdxektXTmkyckZ2WXZlWnFBX3VrM1ZneUQ5TlB6Ym01SU9ESEFxQWR2YzR5V25uX3huWEJLQ0hNbFhzMGZ4WjJDeGFISm7SAVxBVV95cUxNUm1CUWtUNHlEYWpOVzY4aEt4aG9ydHh2ci12Y0YySjg5UjJkZW1QUk9EVlZRcWsxQ2hzTlNMY0FkQVYwLUNTajFLbUx3MGJSc1BmSkhyb0NjbVBVWA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-ghanaians-have-no-idea-how-much-foreigners-make-from-galamse",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Ghanaians have no idea how much foreigners make from galamsey – Archbishop Duncan-Williams",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghanaians have no idea how much foreigners make from galamsey – Archbishop Duncan-Williams MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTk9zUnQyRERack9xaERzNzAtSjhaUVdZNjY2cDZDV21KZkw4cFB2b0MwcHUyMFpLZ1FXVVlpTTNrbzlIZDlTU0RZdTliTGdqY1QwV29yN1E2ZHZSeXhvMk41azJFbmlua1FYYUxaU2p0dlJLdlA0LWF6ZHVkQTk3Y1lEcWtPUEhmR1F4MGpSLS0xSjktNVkwM1JETHdqWVVOeml1VHBfY0RZNUNVVVpYYlVXd3BDSExx?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTk9zUnQyRERack9xaERzNzAtSjhaUVdZNjY2cDZDV21KZkw4cFB2b0MwcHUyMFpLZ1FXVVlpTTNrbzlIZDlTU0RZdTliTGdqY1QwV29yN1E2ZHZSeXhvMk41azJFbmlua1FYYUxaU2p0dlJLdlA0LWF6ZHVkQTk3Y1lEcWtPUEhmR1F4MGpSLS0xSjktNVkwM1JETHdqWVVOeml1VHBfY0RZNUNVVVpYYlVXd3BDSExx?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-i-m-not-against-enforcing-the-law-archbishop-duncan-williams",
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "‘I’m not against enforcing the law’ – Archbishop Duncan-Williams defends call for prayer against galamsey, gold smuggling",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘I’m not against enforcing the law’ – Archbishop Duncan-Williams defends call for prayer against galamsey, gold smuggling MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlUxa0w2ZTZvMk5pLV8wZnUzd2pFczNYUUh6NG51dkFyS3dzNzRFU0xfZEN6NHpzakIxWFFZRlR5U203RndyMFMwUXhnbzVxTnhhMHNLcklHbkV0bGZxQjd0ZTNfNGxhYjM2MWZmSWtmV3JuQ3plbkM3Y0ZMVHB0RkxHdllLb3JiNWN1WXFCWWRwVlZyQ0xiXzRFOHJHenRYREVqTHRCRWVJakN3U0s1aGVWMHp6ak8tZGhiU1lncHYzNTlCSlhiMXlVclppVXoyenJUcWZ0V0tpSHho?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlUxa0w2ZTZvMk5pLV8wZnUzd2pFczNYUUh6NG51dkFyS3dzNzRFU0xfZEN6NHpzakIxWFFZRlR5U203RndyMFMwUXhnbzVxTnhhMHNLcklHbkV0bGZxQjd0ZTNfNGxhYjM2MWZmSWtmV3JuQ3plbkM3Y0ZMVHB0RkxHdllLb3JiNWN1WXFCWWRwVlZyQ0xiXzRFOHJHenRYREVqTHRCRWVJakN3U0s1aGVWMHp6ak8tZGhiU1lncHYzNTlCSlhiMXlVclppVXoyenJUcWZ0V0tpSHho?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-galamsey-destroying-fish-farms-threatening-aquaculture-fishe",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Galamsey destroying fish farms, threatening aquaculture – Fisheries Commission",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Fisheries Commission of Ghana has raised concern over the growing impact of illegal mining, popularly known as \"galamsey\", on fish farming and aquaculture in the country.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-destroying-fish-farms-threatening-aquaculture-fisheries-commission/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-destroying-fish-farms-threatening-aquaculture-fisheries-commission/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-toxic-exposure-from-galamsey-puts-elderly-at-greater-risk-of",
+      "date": "2026-08-17",
+      "category": "water",
+      "title": "Toxic exposure from galamsey puts elderly at greater risk of kidney damage — Public health expert",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Elderly people could face a compounded health crisis from exposure to toxic chemicals associated with illegal mining, medical doctor and public health researcher Floret Maame Owusu has warned. She said age-related decline in the functioning of vital organs, particularly the kidneys, could make older people more vulnerable to pollutants entering the body through contaminated water and other sources. Speaking during th",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/toxic-exposure-from-galamsey-puts-elderly-at-greater-risk-of-kidney-damage-public-health-expert/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/toxic-exposure-from-galamsey-puts-elderly-at-greater-risk-of-kidney-damage-public-health-expert/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-archbishop-duncan-williams-links-galamsey-to-ghana-s-wider-c",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Archbishop Duncan-Williams links galamsey to Ghana’s wider culture of indiscipline",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has linked Ghana’s illegal mining crisis to what he describes as a broader culture of indiscipline, poor compliance with laws and weak accountability in society. He said the galamsey menace should not be viewed in isolation but as part of a wider national challenge in […]",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/archbishop-duncan-williams-links-galamsey-to-ghanas-wider-culture-of-indiscipline/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/archbishop-duncan-williams-links-galamsey-to-ghanas-wider-culture-of-indiscipline/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-duncan-williams-urges-church-to-educate-ghanaians-on-dangers",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Duncan-Williams urges Church to educate Ghanaians on dangers of galamsey and gold smuggling",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "General Overseer of Action Chapel International, Archbishop Nicholas Duncan-Williams, has called for greater public education as part of efforts to tackle illegal mining, popularly known as galamsey, in Ghana and also protect the Ghana Gold Board (GoldBod)",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/duncan-williams-urges-church-to-educate-ghanaians-on-dangers-of-galamsey-and-gold-smuggling/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-urges-church-to-educate-ghanaians-on-dangers-of-galamsey-and-gold-smuggling/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-bawku-will-bounce-back-president-mahama",
+      "date": "2026-08-17",
+      "category": "policy",
+      "title": "Bawku will bounce back — President Mahama",
+      "place": "Bawku",
+      "region": "Upper East",
+      "lat": 11.06,
+      "lon": -0.24,
+      "summary": "President John Dramani Mahama has expressed optimism that Bawku will bounce back from the effects of the protracted conflict, following relative calm in the area for the past several months. He said the return of calm provided an opportunity for the people of Bawku to begin rebuilding their lives and reviving economic activities that had been disrupted by the conflict. “As the guns have stopped sounding in Bawku, we ",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-bawku-will-bounce-back-president-mahama.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-bawku-will-bounce-back-president-mahama.html",
       "via": "rss",
       "verified": false
     },
@@ -358,7 +529,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-15T01:49:06.057Z",
-      "thread": "t-auto-2026-08-10-atronie-chiefs-protest-galamsey-destruction-of-river-amoma"
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-08-14-adamus-lease-revocation-apply-same-rules-for-galamsey-big-mi",
@@ -818,7 +989,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNenkwRnk3el9hRnBvTWRqZkMxc0xzSzZ4cVJrR3hnckQ3dVF5Zl9MQVltUFFzRVlGUWswOEtTSHRFWFUyRzJFblZIN0d2SHF6TWw4SWo0TWlNVzNzNFdkU1RMOUI2N1ZHMXdVTmxJa1lYUWNqaE5sWEVHMHlHaWgwdnByTlpCZUx5bjNRQ3JIZzZkQ3BacThtdDJCUmM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-13-26-suspected-illegal-miners-arrested-in-mpohor-fiase-operati",
@@ -942,7 +1114,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhob19qdTYzdlgwa1RVYmM2dWV5TFd3T0pBWng5ZkQ4Y1dNNS1DNFlFYVFGSnlwWHVfSm5FMWtBb1BvUzFZbFlsTWsxcmpRWGVwSHR2ZElFM2ZfbXpscDAybHBtMWNjUE01dzBlOHpXODRiTV9aLTdENzNRSDJyVk5qV1hVQVJreHhYWkY0TDlRZWpnNlhucFBuRGQ4YmZZRW5sTzFnQXVOYWwxUnVrVy1HQTR1RHRLcGlnOHh5aTh6LXRQajNERmRPVTQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:46:06.562Z"
+      "archivedAt": "2026-08-12T13:46:06.562Z",
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-08-12-practically-impossible-to-naturally-restore-galamsey-pollute",
@@ -1155,7 +1328,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OLW9IUkM3NW5lVDEtZThQaHF5QjcwbmtDY0VFdUk3MlBhWnNLcVVscS1vRWlpY1dBYllqaWdWN0xiOEYxeFJyQUFqOWNfa1F5TFpzZGEwZlU5bWdMNlpnWmJkb1_SAVxBVV95cUxNQmc5WlFDQ1dDX1ZYRzdzbFdMWV9LNUlsN05CN2E0aHNncXhodmd4SXlheVh0Z0s4OFlaY2pXNzR3Umhkb1FpYUdvbmd6SzV6TVBzRGdYN2h1WndsMw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash",
@@ -1237,18 +1411,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1307,7 +1481,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1N3VlZFdDZKRVFvLXBZQW1VR2g2b0hrbzUyUVRwRjE3aV9LTm5uRlNRUnlKVXQ0Wk02NFdQbm5XUHVwNG9CX2w5dW1ZQmZJVXdPeXcwQmZ6b2h5YUttcmpzM3FQYVM3U1VTb184aEFHcVRvZjROYXhsWkRoS0Zjc21JY2pBZk1wUW80YVh5bzRlQVNnQ2xLVGhidGV1V3J1UGNZVlNzQ1NRbUNmT3k5ZXBn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-12-we-are-rolling-back-the-gains-erastus-asare-donkor-warns-gal",
@@ -1326,7 +1501,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-08-12-birim-central-mce-welcomes-decision-by-osp-to-investigate-co",
@@ -1565,7 +1741,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-12T13:50:23.912Z",
-      "thread": "t-auto-2026-08-10-atronie-chiefs-protest-galamsey-destruction-of-river-amoma"
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-08-11-berekum-rises-against-galamsey-residents-demand-urgent-actio",
@@ -1643,7 +1819,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-11-attorney-general-opposes-bail-application-by-wontumi-s-lawye",
@@ -2000,7 +2177,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yX3Z2eTFkVTluR24zYnZtdndCb2Q4MGpxeU9aQjEtT2FrRVJ6WTBIMjRfUlV6eHRBNVRKbWs2N0pqd1JRMjNybVlfYTBtSHU0TmROblJBaGcwU3JSQnkxb00xNNIBXEFVX3lxTE1UMlk5M0phb2xoUGMyNXl3bzkydUsxTEJzMURuWXhhcGM5M21NV1VyaXFsTjlTRlZUNllQNkViakduVi1pNTFtUmtaTDdjWVVLa1QyUHNXekxmWFdE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-11T02:26:48.506Z"
+      "archivedAt": "2026-08-11T02:26:48.506Z",
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-08-10-a-time-may-come-where-we-cannot-sow-yield-fruit-or-crops-on-",
@@ -2433,7 +2611,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWHJyV1VadmZjUHdhb3piUnZfME9jcktMSUEwbVFUZzRCTHZsVjdfZ0R3N1lVVzRpYTVLUms5Sm9CTjJuU2oxQzhNc0JOUTZVUjA3VVJ0LWNZNXdD0gFcQVVfeXFMTlNYcnJXVVp2ZmNQd2FvemJSdl8wT2NyS0xJQTBtUVRnNEJMdmxWN19nRHc3WVVXNGlhNUtSazlKb0JOMm5TajFDOE1zQk5RNlVSMDdVUnQtY1k1d0M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-atronie-chiefs-protest-galamsey-destruction-of-river-amoma"
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin",
@@ -2452,7 +2630,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-10-bribe-taking-security-officials-undermining-galamsey-fight-m",
@@ -2845,7 +3024,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNSDhFZnp2a2JVOEFXUEJfaGVtX0g0R25OLVlBejJJWUNEMnE1MS1QMThEc01aSWpDcmt3THRpUFBnR0F3OERBeHUzNl9HU09PWmhVNjg0Q0JLWDQ0TlQ1NzNYck1IbEVISVprTW8tR0xTUkxZeVpXaXMwVFQ1d0VsYlVFNXk1NFMxWXR6cG1PRFIzRGpkc2YtaklB0gGaAUFVX3lxTE1IOEVmenZrYlU4QVdQQl9oZW1fSDRHbk4tWUF6MklZQ0QycTUxLVAxOERzTVpJakNya3dMdGlQUGdHQXc4REF4dTM2X0dTT09aaFU2ODRDQktYNDROVDU3M1hyTUhsRUhJWmtNby1HTFNSTFl5WldpczBUVDV3RWxiVUU1eTU0UzFZdHpwbU9EUjNEamRzZi1qSUE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T15:26:21.550Z"
+      "archivedAt": "2026-08-09T15:26:21.550Z",
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
     },
     {
       "id": "auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama",
@@ -2907,7 +3087,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UYmJ4d0FzRTFTdG5xRUYtUWVjZGpKb2RZbU9jX3AtV3ZfWnVWTWJkeHNtWnJwVldzN1ljYmlLQUJRQm5acmNvYWlqeHJxemtYQ3BVcjNGejNLQ1dPM2diRm15QW_SAVxBVV95cUxQV0p6OHVpSWo3d2hVeFRxamR1UlZsU2pxYlptZ09GcC05LXpRRGk2WnZwY1pfaWVUYUc4V1NTNjZLUjEzdDN6eWR0T29zdEljQ0pnSi1vcWpmM083cQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
     },
     {
       "id": "auto-2026-08-07-fight-galamsey-to-honour-their-memory-families-of-helicopter",
@@ -3473,7 +3654,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YOUl0YlA4aGw4Q0pKVmRncjB2enVBMlk1X2tTaVdIV0pIUWFIbnNjSGFudUFidmtDc0QwNU9DUFA5dmxDd3lQdGpVX3otNS1Gb2JZeFcwZUItYmVRbDBpa2Q3ZTDSAVxBVV95cUxQOVMwa0pjQl9sLU15Q0dIVGFIckN0akhJQWdOOTVVelBfaVVCZ2pleWdaTG96X2VDWm5vZ3d6d2ZhbDZqanN1bWViY0JCcG5tXzM2bU5Ub1BhVXQ5Yw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
     },
     {
       "id": "auto-2026-08-06-galamsey-three-arrested-along-birim-river",
@@ -3805,7 +3987,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -3999,7 +4181,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -4271,7 +4453,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDcyYWU4ellSOEZyQm1DaUZvcEFsZTBhdzRCcDEwZVB4TVBlWW9WX0FpSE5ZMnc3OHp0bFdWNEVuRTJqTU1fbzBLTnpwYWRBUTlONU41dGJERUxZVlYwdlBUeUZfWFlYVk1MaWNSalpIRFRCWHJSOEtkaWVJcy1TNzl3X3lNQVVJY0J0aTFEQnZEWVVJUlVzYXAtd0hQLXIxSTF0dGUtTHRsVXhvN2lvNExNNFZETGxkcS1VQkNrdzhDQnlnbmFPc1dFTU9DMkxXVGdB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
     },
     {
       "id": "auto-2026-07-31-galamsey-pits-claim-the-lives-of-11-children-in-ashanti-regi",
@@ -4389,7 +4572,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxOGVYU1B0NnlOS3d3RVF5Nkp4Q1RnRVllUTIyR0s5cGlzczFVVlVkWGQweWx6WGxpM1Z5d1o1alhqSzloQUNCaFZudG5tZkZuN1JnbUs0azVGRUFFWE1R0gFcQVVfeXFMUG5SNVlyMEh2VmlWcjlta3FVMnF0UnlwTVAtdS1UWk04T0ZiVkYwQ3JLRllTYlFWeXo4aXhDRFpLNlgxdm1jN1RkemM1U29ubUMxWmdmczRpRXNpUE8?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
     },
     {
       "id": "auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo",
@@ -4566,7 +4750,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRU02RF9EdTZ2SXZCVWZ3ZEk4OEFUSzgxaUVVMWdlR3hDRVcycmoxRktQNlo5V1g3NHZvU3ZFM0gzWTEwS21HdlJsNDdJR0FPUkRsNElVYXJRaEwzaEpjNzBiNk_SAVxBVV95cUxPWjNfcEdNVGZLdnZHWkhibFd2blg4R3lkZFBfbGFVMUV4RUxMb2JEZTQ2OUVGeUk0Vkp4MGhQanVGSE1UQ2UzUDhOTmRNYnB6S3B4bnNrSXNoTGtDbw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-galamseyers-in-mpohor-fiase-oper",
@@ -4786,7 +4971,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNSFoyTV9Ga01SVFJsMEFqSGxmMXpGOUdMY1lGRGpaZXNYX2xTY1YzYXprRE1NSXJGNzVkX09JVUtrYXR5cVRCX1NrOTdEM044bjBKRVBjcDFIWUdqM2tid2lyM0IzQUl3VFNMbnpXUG9KTldQOW00ai1PZlE4YTJrblczU2JGeGhYQVFRMktQZVpMN2ZEWTRRRNIBlwFBVV95cUxOUEhlUm02aDI3RTRzbUNzdVNEd2I4REpJVmNEMDIta2RaMVVGYVNBTDVwZ2ptdDM2ZmRxM2drTEkwWnRza1h1ejFHNnpUSi1hdHRWeUs5QUtJSWZndVdwUXhHRXhNU016NkRuTjhWLWY5ekx2bnFGek1HTmNLbnBPZEF5R1lQMnZaMjh6OVU2VWhwQkM0S2hj?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
     },
     {
       "id": "auto-2026-07-28-illegal-mining-ashanti-regsec-impounds-nine-excavators-in-ob",
@@ -5134,7 +5320,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
       "id": "auto-2026-07-20-galamsey-impunity-is-not-over-cagg-challenges-govt",
