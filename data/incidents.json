@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-17T19:00:17.267Z",
+  "updated": "2026-08-18T01:55:31.373Z",
   "counts": {
-    "total": 321,
+    "total": 324,
     "verified": 28,
-    "automated": 293,
+    "automated": 296,
     "earliest": "2024-07-01",
-    "latest": "2026-08-17"
+    "latest": "2026-08-18"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Ghana’s Gold Industry Under Scrutiny: Revenue, Royalties, Galamsey & Mining Reforms | Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s Gold Industry Under Scrutiny: Revenue, Royalties, Galamsey & Mining Reforms | Point of View Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZN0cxaVhCVlNCR0VENzQyMFNVUWRBYkpOQ01Qd1FOV043QW9CX240bklwOXBFMjliQUsyYTZxNjVwUHQ2X3pOdHRMcGFQQTdwemE1RDVCYXZvVHdBdkxIaEVfQdIBXEFVX3lxTE5jM1JpYmpaZGs5WDdySVJqUndOZ21VSFE4RVhzZzRzWVF2a1VJNGhaMEFkMjZ5UEV3UGc4N2IwTm4zTDNWYzlPQjQwd2NFOVZXeU9kM0xXVWdVWnJT?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZN0cxaVhCVlNCR0VENzQyMFNVUWRBYkpOQ01Qd1FOV043QW9CX240bklwOXBFMjliQUsyYTZxNjVwUHQ2X3pOdHRMcGFQQTdwemE1RDVCYXZvVHdBdkxIaEVfQdIBXEFVX3lxTE5jM1JpYmpaZGs5WDdySVJqUndOZ21VSFE4RVhzZzRzWVF2a1VJNGhaMEFkMjZ5UEV3UGc4N2IwTm4zTDNWYzlPQjQwd2NFOVZXeU9kM0xXVWdVWnJT?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-18T01:49:55.530Z"
+    },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
       "date": "2026-08-17",
@@ -216,7 +236,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWttLVg1bWpxQlRYRmlOVTJhaU50UXhJSUtkUzBfdUlVVDRrWWh2dlpaQWc1azVWR3BMWm9jak1vcnR4RUJsQ09aOXNsRWdUckZJeFEwa2RqZjdXOG1OQkFvdjUxMzNsY09vRzhEVkQzczZoUFVTRGMyYlprRnhDQ1RIUVh1RUp2VVFPek4ySmVfMU5nQmtqM2M2N2tDRzlJQ0kzZDN2SllMMnc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T01:54:19.837Z"
     },
     {
       "id": "auto-2026-08-17-we-will-formalise-mining-to-create-jobs-for-young-people-cur",
@@ -274,7 +295,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFE4eUJYVG8yb3N0a05BUUZiYkxHLXY2ZlAzVDRxQzBwVWctcmtMTUY3NWJXOGZaa19UMDhlOG1ud2pubDZaVFRmX2llc3V4RldaQjViM0hZRmUwVGNSLU9rM3ZlU0VJQng4Nnp5N0Vid3J2YnljNkNZeGZxSHMtLXd6M1JVUVlUNDlyNXZZYmZOOE9zNnNwTlozT3F6b094MHowT013?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T01:55:25.298Z"
     },
     {
       "id": "auto-2026-08-17-chief-arrested-for-allegedly-engaging-in-illegal-mining-in-t",
@@ -408,6 +430,44 @@
         "url": "https://www.gbcghanaonline.com/general/naimos-intervenes/2026/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/naimos-intervenes/2026/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-two-arrested-over-alleged-galamsey-activities-in-tanoso",
+      "date": "2026-08-17",
+      "category": "arrest",
+      "title": "Two arrested over alleged galamsey activities in Tanoso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two arrested over alleged galamsey activities in Tanoso Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0VwbGY2OEdtYnptZFJ0cFk4SEstU0VjaHQ1VVVMLW5pVnVJaGtqeE9qRU53aGNQVHhrTGp3d0hqQUhCOFktczBkMDZlN3BUUzVHOUdoZzE1TTNjSnkyb01JS3JpTnpCN1RMZndLN2g1Mk44a3FOWktNMS1TQVo4VW9XcmFWYnVoTzVB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0VwbGY2OEdtYnptZFJ0cFk4SEstU0VjaHQ1VVVMLW5pVnVJaGtqeE9qRU53aGNQVHhrTGp3d0hqQUhCOFktczBkMDZlN3BUUzVHOUdoZzE1TTNjSnkyb01JS3JpTnpCN1RMZndLN2g1Mk44a3FOWktNMS1TQVo4VW9XcmFWYnVoTzVB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-fight-against-galamsey-failing-because-it-s-the-main-source-",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Fight against galamsey failing because it's the main source for gold export in Ghana - Atick Mohammed",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fight against galamsey failing because it's the main source for gold export in Ghana - Atick Mohammed mynewsgh.com",
+      "metrics": {},
+      "source": {
+        "name": "mynewsgh.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY29iZEEzajNrODJxMkd5QlQwblJCRldzLWVkWG8wTzBPejBaWmdjYzhqa2ZEQlRfaU0zUUxIRlNPakdtd1k0V1NZbVU0WWw2SlhLUGtqaXhYY1BJdjdVaksxQlAyMjNEWWpjSVZ2aXBZWFRxTFdlOTJkYWVjdEtzQTVYUGNrQnczVFZuLXQwY04wQnZ2VkhsYkFFOWFKaWV1dE43UkNabGxOdm80RFk3X2E4RklPYVdZMnh2cTRWV0lrZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY29iZEEzajNrODJxMkd5QlQwblJCRldzLWVkWG8wTzBPejBaWmdjYzhqa2ZEQlRfaU0zUUxIRlNPakdtd1k0V1NZbVU0WWw2SlhLUGtqaXhYY1BJdjdVaksxQlAyMjNEWWpjSVZ2aXBZWFRxTFdlOTJkYWVjdEtzQTVYUGNrQnczVFZuLXQwY04wQnZ2VkhsYkFFOWFKaWV1dE43UkNabGxOdm80RFk3X2E4RklPYVdZMnh2cTRWV0lrZw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1644,18 +1704,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
