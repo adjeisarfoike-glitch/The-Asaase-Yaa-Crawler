@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-18T13:12:21.018Z",
+  "updated": "2026-08-18T18:59:53.929Z",
   "counts": {
-    "total": 338,
+    "total": 343,
     "verified": 28,
-    "automated": 310,
+    "automated": 315,
     "earliest": "2024-07-01",
     "latest": "2026-08-18"
   },
@@ -128,7 +128,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxPbllMZDhzWGdfTm1zbzlram5TcG41QXFMTnRkZnM2QU4weHNUWHdvV3ptdW5GQlJkNGdzSENkcE1hLWktN3czYnRhcmlNUWs5SjFfa1doNE1qc0ZFSVljTHZiUnpzUGN6MWpfc3YwMmQ2X2hNNHFSeUhTNWVqSUFLSjhIdE5vTlVrU3paSkNaeFlQNFRaWlJhc0pnZ3d4T0Ntc2NNU1Uxcw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T18:55:23.868Z"
     },
     {
       "id": "auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu",
@@ -147,7 +148,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1ZYYVlwYzFqaHotMFF1SDV3V2dIU21aVXZQWmhGNEthUDZPQWhjYlNiS3RPbU1HS0JYdXBMQmstWWpURmEyMkxaY1RoYWlSWkMxSFNFY3EzTjFLRHp2VUowSjA1LUhrVWpNNUwxY2djcGl5WmhxSmNCUGViMmR1QTctTEtuajdZZG83SGpQQ1NZd0V0X211LTln0gGYAUFVX3lxTE9pWkQyM0gySUFpNGpIc0ZHOHlGUWc1XzRydTFUOHlvSGp6Vms1T1pSVUhVRG5Jc2dVNnNxNWlvYTN3bjRqblpQbDdsZGdLQm5vaWtHelJNa2pYQkZsai1JMExxNDl5RWlIV2RNcWREOG0taGdIYVRid01RWmo3Ry1vTWUxOThOYU9wNExsOFQwR0JydmJXUktu?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T18:55:52.107Z",
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
       "id": "auto-2026-08-18-we-won-t-give-up-on-galamsey-fight-mahama",
@@ -166,7 +169,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMid0FVX3lxTE1GRG1tT1BmaWFkRGZ1c2ZTbHJMc2ptQm5Cb0UtZFk3Mnk2VEZjWWZBUmVGdEJHb3lhTm9yeC1DWGdHWC03dXFzdF95dTZOVDdFclgtcTJrUV9nRENlYlZYT3ZjV2ZnU1drLVh6czdMdURjMFctQ1Rv?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T18:56:20.717Z"
     },
     {
       "id": "auto-2026-08-18-galamsey-fight-military-to-stay-in-forest-reserves-but-how-s",
@@ -186,6 +190,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jX3BHZ2lTQ0VXTzRUY2J3WG5NbTRodTZXRHVvWlVXalNvZi1pR242RVlLa3B4c2VCSkJubFIxQ0FRejFyWU1vREZzODdidi12V3pCQThjaU4xb0NPZ1JIWlItZm_SAVxBVV95cUxNRjRnWkhlRXNPX0ZxQ3E3WmVTOVNSYkVPVmZvRGRuUXRNelh1cXZ3MDV5V1JEOUkwLXlvbGlBRWdIdm5hNWd2bVVsN3RRdktRazMzNEZkdTVTNE5YWQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-18T18:56:46.348Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -263,6 +268,107 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-increase-investments-in-tourism-to-attract-tourists-princess-umul-mahama-advocates.html",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-galamsey-kenneth-ashigbey-backs-goldbod-traceability-system",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Galamsey: Kenneth Ashigbey Backs GoldBod Traceability System",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Kenneth Ashigbey Backs GoldBod Traceability System Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhTUFQa1p6OEV4VEdIXzhNc3d5VmpzNWdIQ0NndFNKQ1d1SHJ0LXYxSENxSUxCZm1HWElWOXNFT0QtemZxcVBGTXFzMWZodTZFWEhCY3FQMVBSVllKVDUzZkc3MNIBXEFVX3lxTE9fUWlzN0tkSm5TRlY0SzJJd3JQUjEzX050bzcxTUdtb1drV25DYWJQLWxXb0Y1dURaYWRPT1JGMUc4UkZtdEJKNjB6clp5U1NFX3RkNm1aSmlITENh?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhTUFQa1p6OEV4VEdIXzhNc3d5VmpzNWdIQ0NndFNKQ1d1SHJ0LXYxSENxSUxCZm1HWElWOXNFT0QtemZxcVBGTXFzMWZodTZFWEhCY3FQMVBSVllKVDUzZkc3MNIBXEFVX3lxTE9fUWlzN0tkSm5TRlY0SzJJd3JQUjEzX050bzcxTUdtb1drV25DYWJQLWxXb0Y1dURaYWRPT1JGMUc4UkZtdEJKNjB6clp5U1NFX3RkNm1aSmlITENh?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-18-galamsey-is-a-long-term-fight-sukparu-warns-against-quick-fi",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "‘Galamsey Is a Long-Term Fight’ – Sukparu Warns Against Quick Fixes",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Galamsey Is a Long-Term Fight’ – Sukparu Warns Against Quick Fixes Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTHFBaVhHbnNJOTloTUx6dFRYNnFQMzd0WVp1OEl6TXcwMVJOT2EyMDY4SThQY2FudGhKb0RWWk9nNWU3M21oRFZ4Z2pXb0pVTTJySTBia2ppVUs5VDk3dFNxNNIBXEFVX3lxTE15NjVjQnptcDd5bjc3VHdpVXZPR0VLcnhTMEMwRkJPN2E0NHhqd1RvUVhsLU9RZk5fQzdWb1FHdXFoMEZfNFNLMmVuNHd4ZEZ1MjNlY0EwUm45MlM1?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTHFBaVhHbnNJOTloTUx6dFRYNnFQMzd0WVp1OEl6TXcwMVJOT2EyMDY4SThQY2FudGhKb0RWWk9nNWU3M21oRFZ4Z2pXb0pVTTJySTBia2ppVUs5VDk3dFNxNNIBXEFVX3lxTE15NjVjQnptcDd5bjc3VHdpVXZPR0VLcnhTMEMwRkJPN2E0NHhqd1RvUVhsLU9RZk5fQzdWb1FHdXFoMEZfNFNLMmVuNHd4ZEZ1MjNlY0EwUm45MlM1?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-08-18-i-don-t-think-we-need-a-shoot-to-kill-approach-to-solve-gala",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "‘I don’t think we need a shoot-to-kill approach to solve galamsey’ — Sukparu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘I don’t think we need a shoot-to-kill approach to solve galamsey’ — Sukparu Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLV91LW9RSGhaaEJoQTlMeTE2MGdwUU04Zkd4UlM2OGtDTl9pa1VicnBwWjdiWFNnM3R5azZYWHp2cDdEY0xUc1lpZ0dYUWc2OC04cnlNV1VJWnVVNGdjRWNtbTlnMV9HWkxCaHFNVE01TS1NUWVGNkN1Tm1hM2wzQkNldm9RVWJ3QmtncTZNNjhMSlQwQWfSAZQBQVVfeXFMT3pKV19TaXZkVldWWV9rbF9UcnhaN21GS0FpTGI4WVJXWTZ4ZEZnX1FhZ002VUMtYUpmTmF2Vk5fN0IycGRSMDhVUVdORmtKSF9GQmZqRndzWnhnLS1oS0s3Q0pveklGelJwZGwxVkk3ZW1lNlRtQ3FtWFNfWHgxQUlVajA3WmZBTkdoQXhSVG5CV0t0OA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQLV91LW9RSGhaaEJoQTlMeTE2MGdwUU04Zkd4UlM2OGtDTl9pa1VicnBwWjdiWFNnM3R5azZYWHp2cDdEY0xUc1lpZ0dYUWc2OC04cnlNV1VJWnVVNGdjRWNtbTlnMV9HWkxCaHFNVE01TS1NUWVGNkN1Tm1hM2wzQkNldm9RVWJ3QmtncTZNNjhMSlQwQWfSAZQBQVVfeXFMT3pKV19TaXZkVldWWV9rbF9UcnhaN21GS0FpTGI4WVJXWTZ4ZEZnX1FhZ002VUMtYUpmTmF2Vk5fN0IycGRSMDhVUVdORmtKSF9GQmZqRndzWnhnLS1oS0s3Q0pveklGelJwZGwxVkk3ZW1lNlRtQ3FtWFNfWHgxQUlVajA3WmZBTkdoQXhSVG5CV0t0OA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-08-18-ohene-ne-ho-akyiri-no-angry-youth-catch-chief-in-galamsey-pi",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "“Ohene ne ho akyiri no”: Angry youth catch chief in galamsey pit",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Ohene ne ho akyiri no”: Angry youth catch chief in galamsey pit Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkJ4ZHVsbXhjR1dadjE0anBwSF9yaU1DR2t2bjhkYm9hMDNwVnBVeGJzc3JXUUVmdTI2MzgtU3VNUi11TDNESTdrNXh3Q3gyOGhFbGdfQWhZelNJeTBZS0ZvdWFTR0Q5a3lTZDB6cUpYa0pkR0d2MEZzTVdlU29NdnVpN01Vcm1vOHpPX3hOMllnZVpRRkE4Zm1KaEIxUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQVkJ4ZHVsbXhjR1dadjE0anBwSF9yaU1DR2t2bjhkYm9hMDNwVnBVeGJzc3JXUUVmdTI2MzgtU3VNUi11TDNESTdrNXh3Q3gyOGhFbGdfQWhZelNJeTBZS0ZvdWFTR0Q5a3lTZDB6cUpYa0pkR0d2MEZzTVdlU29NdnVpN01Vcm1vOHpPX3hOMllnZVpRRkE4Zm1KaEIxUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-goldbod-to-reclaim-50-hectares-of-degraded-land-in-tano-numr",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "GoldBod to reclaim 50 hectares of degraded land in Tano Numri Forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) is set to reclaim 50 hectares of degraded land in the Tano Numri Forest Reserve as part of efforts to restore areas affected by mining activities. The initiative is expected to be expanded to cover 150 hectares next year, according to the Chief Executive Officer of GoldBod, Sammy Gyamfi. Mr […]",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/goldbod-to-reclaim-50-hectares-of-degraded-land-in-tano-numri-forest/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-to-reclaim-50-hectares-of-degraded-land-in-tano-numri-forest/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
@@ -554,8 +660,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTVCSDh6Tkc1bXdnU2t4NnBvQW93dFgxNnc0amdWS1I5bDNiNnBkTFlUTTlkemQ3OFZhM0pBREIwdW1oZ3l0NXNfNXJJeEdGZzhUdWpTY1FsdlkxNldZcnVTTEZoUjdTSkJJVElNbDRqNGYxbHBoUGdHYVh3NjdUamR5ZER4OEZFM0FVbXBIYi1USDZVX1h6b0tBbktLUzg?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-16-tano-north-chiefs-petition-mahama-over-galamsey-destruction-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-17-from-promises-to-poisoned-rivers-the-dangerous-silence-fueli",
@@ -785,8 +890,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTlsWWxxbmVBWUtkWHpsWF9jQmFUaTRyYmd6cXZXMW8wNEo0TFc0dGJCbjM4aUFldnlXVWNGVnV4bFZkZUJNWWx1eHFremdVMlZXWTg1azBvSXRVc1oxMWJXUkZ1MF9LLTZOSnhZREdkWF9zamNPc3plcWh6SGxQbFF5ZmdoYnB1N3BzUnUxR3U2MERhS2RoV09nVDh0bFRabTFN?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-16-tano-north-chiefs-petition-mahama-over-galamsey-destruction-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-16-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
@@ -1981,18 +2085,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
