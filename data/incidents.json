@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-18T01:55:31.373Z",
+  "updated": "2026-08-18T07:08:45.206Z",
   "counts": {
-    "total": 324,
+    "total": 329,
     "verified": 28,
-    "automated": 296,
+    "automated": 301,
     "earliest": "2024-07-01",
     "latest": "2026-08-18"
   },
@@ -26,7 +26,89 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZN0cxaVhCVlNCR0VENzQyMFNVUWRBYkpOQ01Qd1FOV043QW9CX240bklwOXBFMjliQUsyYTZxNjVwUHQ2X3pOdHRMcGFQQTdwemE1RDVCYXZvVHdBdkxIaEVfQdIBXEFVX3lxTE5jM1JpYmpaZGs5WDdySVJqUndOZ21VSFE4RVhzZzRzWVF2a1VJNGhaMEFkMjZ5UEV3UGc4N2IwTm4zTDNWYzlPQjQwd2NFOVZXeU9kM0xXVWdVWnJT?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-18T01:49:55.530Z"
+      "archivedAt": "2026-08-18T01:49:55.530Z",
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-18-we-will-not-give-up-the-fight-mahama-on-galamsey",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "‘We will not give up the fight’ – Mahama on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘We will not give up the fight’ – Mahama on galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWdiSnZ3MTY5MGpXNHZjWHlQUl9wU0FFb0hxRjNBU2VwdFpRVWxWR1V4YlpJd3RDamVTZEVmZ0lGcWVpeXFBOWt2YUFOa3FSRXNDc3d1NUY1LUxaeTZSZF9tUUNackViZmI4Z2FvS0ZOMXVsbnZESnE3ZTdocXhwcE5UZ0F0dktaNGFMUjhFcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWdiSnZ3MTY5MGpXNHZjWHlQUl9wU0FFb0hxRjNBU2VwdFpRVWxWR1V4YlpJd3RDamVTZEVmZ0lGcWVpeXFBOWt2YUFOa3FSRXNDc3d1NUY1LUxaeTZSZF9tUUNackViZmI4Z2FvS0ZOMXVsbnZESnE3ZTdocXhwcE5UZ0F0dktaNGFMUjhFcw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-18T07:02:57.124Z"
+    },
+    {
+      "id": "auto-2026-08-18-goldbod-traceability-ken-ashigbey-explains-how-it-could-help",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "GoldBod Traceability: Ken Ashigbey Explains How It Could Help Fight Galamsey | Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod Traceability: Ken Ashigbey Explains How It Could Help Fight Galamsey | Point of View Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PNmRuc3ZTaVN2VGY2cUJua19fX0VlUkdUM0ZUMFpDV3EzZWZVZ0FVc0JEdkQ1bHZqb0g2dGZDaDBScVotdUpJOUVoLWxaejIxbG14MVlsWlRFYVNXLV85WFdqZ9IBXEFVX3lxTFBaMHgyS0JtVjRjT0tKWnoyTF9VX2s1MHM4ODY5YWxJckxVRHBnV2I1eG1teHhUekNIbDlhWnY1Wk5MeEg1VktONi1PclhSZVdHWl9OQ1NDREF2ZExw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PNmRuc3ZTaVN2VGY2cUJua19fX0VlUkdUM0ZUMFpDV3EzZWZVZ0FVc0JEdkQ1bHZqb0g2dGZDaDBScVotdUpJOUVoLWxaejIxbG14MVlsWlRFYVNXLV85WFdqZ9IBXEFVX3lxTFBaMHgyS0JtVjRjT0tKWnoyTF9VX2s1MHM4ODY5YWxJckxVRHBnV2I1eG1teHhUekNIbDlhWnY1Wk5MeEg1VktONi1PclhSZVdHWl9OQ1NDREF2ZExw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-18T07:03:22.133Z",
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-18-naimos-has-cleared-nearly-49-forest-reserves-of-illegal-mine",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "NAIMOS has cleared nearly 49 forest reserves of illegal miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama says NAIMOS has cleared nearly 49 invaded forest reserves of illegal miners, with military detachments now deployed to stop them returning.",
+      "metrics": {},
+      "source": {
+        "name": "Prez Mahama",
+        "url": "https://3news.com/news/mahama-naimos-has-cleared-nearly-49-forest-reserves-of-illegal-miners"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/mahama-naimos-has-cleared-nearly-49-forest-reserves-of-illegal-miners",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-18T07:03:54.558Z",
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-08-18-the-urgent-need-for-decentralising-ghana-s-key-institutions-",
+      "date": "2026-08-18",
+      "category": "policy",
+      "title": "The urgent need for decentralising Ghana’s key institutions: A pathway to effective governance and national progress",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "For decades, Ghana has grappled with stubborn governance challenges, including corruption, illegal mining (galamsey), environmental degradation, counterfeit medicines, land disputes, bureaucratic inefficiencies, and weak regulatory enforcement. Successive governments have introduced reforms, established specialised agencies, and enacted numerous laws, yet many of these problems persist with alarming regularity. The u",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/the-urgent-need-for-decentralising-ghanas-key-institutions-a-pathway-to-effective-governance-and-national-progress/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/the-urgent-need-for-decentralising-ghanas-key-institutions-a-pathway-to-effective-governance-and-national-progress/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
@@ -197,7 +279,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/duncan-williams-urges-church-to-educate-ghanaians-on-dangers-of-galamsey-and-gold-smuggling/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T07:07:40.350Z"
     },
     {
       "id": "auto-2026-08-17-bawku-will-bounce-back-president-mahama",
@@ -217,6 +300,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-bawku-will-bounce-back-president-mahama.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-18T07:08:13.176Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -256,7 +340,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1FEV0I4aElwTHZmWk0zTWVwYWUxcEg1UXBTZ1VXSG1jemx6cklxZVZxRGtOejhZdGI3X3BDQ2syZzRVZ0liYkFmbG5Ed3VLMGVzZXp2UEdhQnNkRFFGTXhQTFZPLV9tNTlUcUloQlRBSmtNN0RtOVhUTFpFQ3pRVXhrdVJmdE9HOG8yLThpblJjNTZLbmhvMzg4UdIBmgFBVV95cUxQVWtXMlpicjJLNFlIYWNpSG5lMFp0MWFRQzBLcmFDdFNNM3VrclM0RmhpbDF0b0RfMUx2VERqQTU3VElxeFZ3RWxkbXpXaFdpY1lrRjdnRWp5UGQwZk44SEJ5aHQ3Y29NNVB4OUY4OFp1Q1ZGQnBCdTlyN08xbVFFdDRweGR0ZnppY3c0dEZXVHJ0dTNpTmJCemFR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-18T07:08:39.124Z"
     },
     {
       "id": "auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-",
@@ -468,6 +553,25 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY29iZEEzajNrODJxMkd5QlQwblJCRldzLWVkWG8wTzBPejBaWmdjYzhqa2ZEQlRfaU0zUUxIRlNPakdtd1k0V1NZbVU0WWw2SlhLUGtqaXhYY1BJdjdVaksxQlAyMjNEWWpjSVZ2aXBZWFRxTFdlOTJkYWVjdEtzQTVYUGNrQnczVFZuLXQwY04wQnZ2VkhsYkFFOWFKaWV1dE43UkNabGxOdm80RFk3X2E4RklPYVdZMnh2cTRWV0lrZw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY29iZEEzajNrODJxMkd5QlQwblJCRldzLWVkWG8wTzBPejBaWmdjYzhqa2ZEQlRfaU0zUUxIRlNPakdtd1k0V1NZbVU0WWw2SlhLUGtqaXhYY1BJdjdVaksxQlAyMjNEWWpjSVZ2aXBZWFRxTFdlOTJkYWVjdEtzQTVYUGNrQnczVFZuLXQwY04wQnZ2VkhsYkFFOWFKaWV1dE43UkNabGxOdm80RFk3X2E4RklPYVdZMnh2cTRWV0lrZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-some-of-these-people-doing-illegal-mining-are-working-with-p",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "'Some of these people doing illegal mining are working with powers' — Duncan-Williams on prayers against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Some of these people doing illegal mining are working with powers' — Duncan-Williams on prayers against galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXlSUHloT25tbkJrR2RtTER1d2VDMlpURzM0SXhHcDU0dGg5VE9nVGc3OVBYdDAtRkFrZHFQTjVnTXpNcTd1VXRUOHdKMDZQdTdzcFdKbmZrU0xDSVlKb3BLb09EaUdiRWkwNXU4dTYwaFdLWTE3dzJHMzJQZ0tUUjNFOFVOOTRYRlE2WWlHTll4YU5TR0HSAZQBQVVfeXFMT2toTnFRRHNpZ3FBYXNRczU4NVFWLTVsYTc0d2ZmQVRFVDhqQ2tIMVR4NWYydnE2aTh0YmJoV21ZRks2VE1LMDFsQXlyX3J6NzNzZ2poR2dQTWpUOE1IOEMwTjVJSzF3YUJCMUJocnp1V2U2MHBKVGRNWFZJWUVZREVOdjcxTlJLN1k4YXAzZnJYa0FoTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXlSUHloT25tbkJrR2RtTER1d2VDMlpURzM0SXhHcDU0dGg5VE9nVGc3OVBYdDAtRkFrZHFQTjVnTXpNcTd1VXRUOHdKMDZQdTdzcFdKbmZrU0xDSVlKb3BLb09EaUdiRWkwNXU4dTYwaFdLWTE3dzJHMzJQZ0tUUjNFOFVOOTRYRlE2WWlHTll4YU5TR0HSAZQBQVVfeXFMT2toTnFRRHNpZ3FBYXNRczU4NVFWLTVsYTc0d2ZmQVRFVDhqQ2tIMVR4NWYydnE2aTh0YmJoV21ZRks2VE1LMDFsQXlyX3J6NzNzZ2poR2dQTWpUOE1IOEMwTjVJSzF3YUJCMUJocnp1V2U2MHBKVGRNWFZJWUVZREVOdjcxTlJLN1k4YXAzZnJYa0FoTA?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1704,18 +1808,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
