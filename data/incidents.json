@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-19T01:57:41.512Z",
+  "updated": "2026-08-19T07:09:15.161Z",
   "counts": {
-    "total": 348,
+    "total": 350,
     "verified": 28,
-    "automated": 320,
+    "automated": 322,
     "earliest": "2024-07-01",
     "latest": "2026-08-18"
   },
@@ -471,6 +471,25 @@
       "thread": "t-auto-2026-08-10-illegal-mining-pulling-ghana-s-school-children-out-of-classr"
     },
     {
+      "id": "auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "GoldBod has plugged gold smuggling leak and crowded in FX – Bokpin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Economist Professor Godfred Alufar Bokpin says the GoldBod initiative has significantly reduced gold smuggling and helped Ghana retain more foreign exchange from the artisanal and small-scale mining sector.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bokpin/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bokpin/",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
       "date": "2026-08-17",
       "category": "forest",
@@ -797,7 +816,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNbU1veGNYMXpxSVN0UVBaeTVBUk9TR3BaMGdMYlBPdmlvTk9iZzNaZ2RwWUxSODBtV1JDWjZ6Y0RZb1dtUHZLeno5WTZleG81MEs1VEZYQXViZnoxUG1jcEpBNjkzZzZNaFl4SF81RU1hWFJtQnpmMHEyb3ZPNWhpYmgwbFNZSUpZTTBhWjNrRjRpVV9sQ0tZcnBoY3dyUW83QWs4RmNSQ0xHUGU1dm4weQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-17-you-lack-information-on-the-true-state-of-galamsey-fight-jou"
     },
     {
       "id": "auto-2026-08-17-galamsey-could-trigger-major-health-crisis-within-five-years",
@@ -951,6 +971,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxQVlZnWHlVTU03VktSZVFSZW5JbUNiMWhhZ0xSX0xhcGtRRkFueUpuTTZoQWd2MGRibXNUeWZSY0s5MXdkNlVUa0JIdHVhVzZUQklaYl9IYjhRNXhTVXBZMDNSZl9jY09YS0V6c1pKa2hhd0J5a1ZPc0pSdDIyUzVtVk9CWE5vb2dXWUdsMDlmS083bVZrTkJ3SUJDNTdlY21fOGc?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-17-galamsey-fight-mahama-lacks-information-on-the-current-situa",
+      "date": "2026-08-17",
+      "category": "forest",
+      "title": "Galamsey Fight: Mahama lacks information on the current situation on the ground—Erastus Asare Donkor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Mahama lacks information on the current situation on the ground—Erastus Asare Donkor MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0pTckJ0OHVlUXR1RVpiQzNLbDlKR0w2alZiTjFPdUZ6NzNBRVoyUU5jdl9hUDI3VGlEbEFuUjN0WDNDbTV2MEZldk84a1pzbEhiLVJWeUhRQURpTTdkWTNkdkNDX2RyVzVUeEVLY0J4S2lrVmxPcjg1a0xIamRUeEt4UE40czZGcE9sNmMwVzRLYll5Qnl5bE9xT1JSeGlDcHZpcmNBSXdfSUtELVhVVkVkdElURUxLMHdQRmlKV3JHV0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0pTckJ0OHVlUXR1RVpiQzNLbDlKR0w2alZiTjFPdUZ6NzNBRVoyUU5jdl9hUDI3VGlEbEFuUjN0WDNDbTV2MEZldk84a1pzbEhiLVJWeUhRQURpTTdkWTNkdkNDX2RyVzVUeEVLY0J4S2lrVmxPcjg1a0xIamRUeEt4UE40czZGcE9sNmMwVzRLYll5Qnl5bE9xT1JSeGlDcHZpcmNBSXdfSUtELVhVVkVkdElURUxLMHdQRmlKV3JHV0E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-you-lack-information-on-the-true-state-of-galamsey-fight-jou"
     },
     {
       "id": "auto-2026-08-16-npp-to-make-galamsey-fight-core-of-2028-campaign-annoh-dompr",
@@ -1762,8 +1802,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNenkwRnk3el9hRnBvTWRqZkMxc0xzSzZ4cVJrR3hnckQ3dVF5Zl9MQVltUFFzRVlGUWswOEtTSHRFWFUyRzJFblZIN0d2SHF6TWw4SWo0TWlNVzNzNFdkU1RMOUI2N1ZHMXdVTmxJa1lYUWNqaE5sWEVHMHlHaWgwdnByTlpCZUx5bjNRQ3JIZzZkQ3BacThtdDJCUmM?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-26-suspected-illegal-miners-arrested-in-mpohor-fiase-operati",
@@ -2101,8 +2140,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OLW9IUkM3NW5lVDEtZThQaHF5QjcwbmtDY0VFdUk3MlBhWnNLcVVscS1vRWlpY1dBYllqaWdWN0xiOEYxeFJyQUFqOWNfa1F5TFpzZGEwZlU5bWdMNlpnWmJkb1_SAVxBVV95cUxNQmc5WlFDQ1dDX1ZYRzdzbFdMWV9LNUlsN05CN2E0aHNncXhodmd4SXlheVh0Z0s4OFlaY2pXNzR3Umhkb1FpYUdvbmd6SzV6TVBzRGdYN2h1WndsMw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash",
@@ -2184,18 +2222,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2254,8 +2292,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1N3VlZFdDZKRVFvLXBZQW1VR2g2b0hrbzUyUVRwRjE3aV9LTm5uRlNRUnlKVXQ0Wk02NFdQbm5XUHVwNG9CX2w5dW1ZQmZJVXdPeXcwQmZ6b2h5YUttcmpzM3FQYVM3U1VTb184aEFHcVRvZjROYXhsWkRoS0Zjc21JY2pBZk1wUW80YVh5bzRlQVNnQ2xLVGhidGV1V3J1UGNZVlNzQ1NRbUNmT3k5ZXBn?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-we-are-rolling-back-the-gains-erastus-asare-donkor-warns-gal",
@@ -2274,8 +2311,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnNMamxJQjk5aXhBSVZsM1VMd2d6MGpMNl94X3Q1UGQ5eUJ0TkNiQWxwY0FaeDdsYkVNWFdxY0VGWmJHOEduYjdnYzZfMUhza0FpQVBFV3YzVmdfelJxTGQ5VkxzdHZqTVlRWFN6Rk1Dd1Bkci1uaEI3Q2ZVcmFXa182U0R0SDRaUGY3V3Jub2RBUmJWd2pPNlBoamttdnR0aGFiZDBXWW9QLWRoTXdadHN4WUdZZw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-birim-central-mce-welcomes-decision-by-osp-to-investigate-co",
