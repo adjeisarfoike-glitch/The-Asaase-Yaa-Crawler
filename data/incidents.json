@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-19T13:13:14.499Z",
+  "updated": "2026-08-19T18:57:06.011Z",
   "counts": {
-    "total": 362,
+    "total": 364,
     "verified": 28,
-    "automated": 334,
+    "automated": 336,
     "earliest": "2024-07-01",
     "latest": "2026-08-19"
   },
@@ -66,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXdPbGF5SVBCTEdpMExXTGFUNDFZVW5ac3JyMTN0U3lUZ25GX2loM3ROX0VxbGtYaW9TWFBGYUJGX25nLWUxTjR2TUpYUnVYRDZQT25ldEphREVGYWhyZC1PY2c4Y2dSdmNuMHpzWkFJNHN6WlVKbjVqazJjUTFmbkFTS2xRdC0tSWFQVFEwWmZuVklTSXc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-19T18:52:02.076Z"
     },
     {
       "id": "auto-2026-08-19-my-activism-against-galamsey-has-made-me-a-target-tanoso-ank",
@@ -222,6 +223,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+    },
+    {
+      "id": "auto-2026-08-19-gja-to-conduct-nationwide-assessment-of-galamsey-fight",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "GJA to conduct nationwide assessment of galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GJA to conduct nationwide assessment of galamsey fight Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWENJRFlodzN2QlpSZWJ0a2pOY2F1WnltUFJLUGNaTjV3VlhORjBKbHEzeWdoTEJIN0taNWJSMGEyOThiWmJpVVZidWVTSTU4Z3ZRVzNRTkhiNWZZQ1hWa0pzLTRHel9idlFDU2pVM2gtMERiYXVOWFVpTDhMMFFreGxYZlRfOUdGUVE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxPWENJRFlodzN2QlpSZWJ0a2pOY2F1WnltUFJLUGNaTjV3VlhORjBKbHEzeWdoTEJIN0taNWJSMGEyOThiWmJpVVZidWVTSTU4Z3ZRVzNRTkhiNWZZQ1hWa0pzLTRHel9idlFDU2pVM2gtMERiYXVOWFVpTDhMMFFreGxYZlRfOUdGUVE?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam",
@@ -564,7 +584,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQVkJ4ZHVsbXhjR1dadjE0anBwSF9yaU1DR2t2bjhkYm9hMDNwVnBVeGJzc3JXUUVmdTI2MzgtU3VNUi11TDNESTdrNXh3Q3gyOGhFbGdfQWhZelNJeTBZS0ZvdWFTR0Q5a3lTZDB6cUpYa0pkR0d2MEZzTVdlU29NdnVpN01Vcm1vOHpPX3hOMllnZVpRRkE4Zm1KaEIxUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-19T18:56:08.919Z"
     },
     {
       "id": "auto-2026-08-18-goldbod-to-reclaim-50-hectares-of-degraded-land-in-tano-numr",
@@ -722,6 +743,25 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVvdnlPX21VZ0FKQnlLLVdvZzBBMEJ6U0djT2xsZzZBdzM5WW0tS2h4NFo0ZWt3V2RQQUtubzVHS2xzT1VsSWg4M1pZR19NN0M0QWhEZVpOUEFqMVJVMnpwZGxKRGtpTkJ3YVYzbW9XYWJucktESF9WSW5BV212Mmc3dVNId2dCc2xRUEJBOGNYZGNQXzVUNU1FclV3VGxfUUQzdHJISnhfWm1ETkYtcU42bDZwTncxa3BiMWxB?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVvdnlPX21VZ0FKQnlLLVdvZzBBMEJ6U0djT2xsZzZBdzM5WW0tS2h4NFo0ZWt3V2RQQUtubzVHS2xzT1VsSWg4M1pZR19NN0M0QWhEZVpOUEFqMVJVMnpwZGxKRGtpTkJ3YVYzbW9XYWJucktESF9WSW5BV212Mmc3dVNId2dCc2xRUEJBOGNYZGNQXzVUNU1FclV3VGxfUUQzdHJISnhfWm1ETkYtcU42bDZwTncxa3BiMWxB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-gja-to-launch-independent-nationwide-probe-into-galamsey-cri",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "GJA to launch independent nationwide probe into galamsey crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GJA to launch independent nationwide probe into galamsey crisis CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzNkeklDcFExZk5pV3ptSEwtamY3dVZkS0pULVJzQVV6TFJJYzJIZkpzRms3UXFCQ09tdTJuZ3ZUTmlWc2JXcG5FTi1mRFEyUmdHVGMzMklZbTAtcTE1T1dWSVlURld4a0tKc3QwU1RINUtiNXZNV1dMZTh0VXhVT3RwRTRtQkpYVktxdTQ1bTNsNUN1THlnMUVRQjA2WERGZFln?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzNkeklDcFExZk5pV3ptSEwtamY3dVZkS0pULVJzQVV6TFJJYzJIZkpzRms3UXFCQ09tdTJuZ3ZUTmlWc2JXcG5FTi1mRFEyUmdHVGMzMklZbTAtcTE1T1dWSVlURld4a0tKc3QwU1RINUtiNXZNV1dMZTh0VXhVT3RwRTRtQkpYVktxdTQ1bTNsNUN1THlnMUVRQjA2WERGZFln?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2458,18 +2498,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
