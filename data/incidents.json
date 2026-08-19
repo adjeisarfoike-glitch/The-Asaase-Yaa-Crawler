@@ -1,13 +1,228 @@
 {
-  "updated": "2026-08-19T07:09:15.161Z",
+  "updated": "2026-08-19T13:13:14.499Z",
   "counts": {
-    "total": 350,
+    "total": 362,
     "verified": 28,
-    "automated": 322,
+    "automated": 334,
     "earliest": "2024-07-01",
-    "latest": "2026-08-18"
+    "latest": "2026-08-19"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "Situation Critical: Galamsey Lip-Service",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Situation Critical: Galamsey Lip-Service Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGNEYjNZQkhpdWhHTXp0V3Mzd25nUGF1VjVJR1NyTmlpUk03bGxvYjUwdnByeGJuM1B6dTdaVHZiM1lZZV9aNTVRZDQtbXpXTVZDTG51Z2wtY0tHSEhhWTFodHZmQXBrQmpGcDB2ODdUMS1JdE5ZYk9wWDhoYmxZV1F4aFNiX0RNdlY1VENn0gGMAUFVX3lxTE1oWUZCZ1FKbVhlM1YyZTA1UVk0WXJDU1VJbTBoZXRzWElrQkJqeEJYenZGTmtJMnZROV82RE9qbzhONE9kRlFHVXBNai1SMUpsTmkyRS1qWVl6bGNlb28teEhVYkp2d1VCMmtqdFBMRXFWYmFldlVvQUcyVm03Q0hUUm8yZWcyWTJJN0Yt?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGNEYjNZQkhpdWhHTXp0V3Mzd25nUGF1VjVJR1NyTmlpUk03bGxvYjUwdnByeGJuM1B6dTdaVHZiM1lZZV9aNTVRZDQtbXpXTVZDTG51Z2wtY0tHSEhhWTFodHZmQXBrQmpGcDB2ODdUMS1JdE5ZYk9wWDhoYmxZV1F4aFNiX0RNdlY1VENn0gGMAUFVX3lxTE1oWUZCZ1FKbVhlM1YyZTA1UVk0WXJDU1VJbTBoZXRzWElrQkJqeEJYenZGTmtJMnZROV82RE9qbzhONE9kRlFHVXBNai1SMUpsTmkyRS1qWVl6bGNlb28teEhVYkp2d1VCMmtqdFBMRXFWYmFldlVvQUcyVm03Q0hUUm8yZWcyWTJJN0Yt?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-19T13:07:45.063Z"
+    },
+    {
+      "id": "auto-2026-08-19-tano-north-mce-denies-links-to-unofficial-galamsey-taskforce",
+      "date": "2026-08-19",
+      "category": "arrest",
+      "title": "Tano North MCE denies links to unofficial galamsey taskforce [Audio]",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Tano North MCE denies links to unofficial galamsey taskforce [Audio] Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzI4ekZnRXRzV3REcnAydE5LaTljQkVyd0liMmhKY0RKcmdTdjMyZmlsM1gyb3J6SlhXMFRBbm94alVlZ29qVWQ1cktHSnowdTJWdWlVNmVZQlB4b05sUDVWT2xPZ0dmRVFSMkhrd0JVME5fQjh5M0hBN3VkSTVoS3h4amtwTVhiZkZ2d2RVWVdFQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzI4ekZnRXRzV3REcnAydE5LaTljQkVyd0liMmhKY0RKcmdTdjMyZmlsM1gyb3J6SlhXMFRBbm94alVlZ29qVWQ1cktHSnowdTJWdWlVNmVZQlB4b05sUDVWT2xPZ0dmRVFSMkhrd0JVME5fQjh5M0hBN3VkSTVoS3h4amtwTVhiZkZ2d2RVWVdFQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-19T13:08:16.131Z",
+      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+    },
+    {
+      "id": "auto-2026-08-19-i-have-fought-galamsey-like-nobody-else-in-ghana-tano-north-",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "\"I have fought galamsey like nobody else in Ghana\" – Tano North MCE",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"I have fought galamsey like nobody else in Ghana\" – Tano North MCE Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXdPbGF5SVBCTEdpMExXTGFUNDFZVW5ac3JyMTN0U3lUZ25GX2loM3ROX0VxbGtYaW9TWFBGYUJGX25nLWUxTjR2TUpYUnVYRDZQT25ldEphREVGYWhyZC1PY2c4Y2dSdmNuMHpzWkFJNHN6WlVKbjVqazJjUTFmbkFTS2xRdC0tSWFQVFEwWmZuVklTSXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNUXdPbGF5SVBCTEdpMExXTGFUNDFZVW5ac3JyMTN0U3lUZ25GX2loM3ROX0VxbGtYaW9TWFBGYUJGX25nLWUxTjR2TUpYUnVYRDZQT25ldEphREVGYWhyZC1PY2c4Y2dSdmNuMHpzWkFJNHN6WlVKbjVqazJjUTFmbkFTS2xRdC0tSWFQVFEwWmZuVklTSXc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-my-activism-against-galamsey-has-made-me-a-target-tanoso-ank",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "My activism against galamsey has made me a target – Tanoso Ankobeahene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "My activism against galamsey has made me a target – Tanoso Ankobeahene Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW9maU02aHMxR09rZTJzWUN3LWs1RFhpelgtS1FJc0lyZGhVNERoeGZUS0cyeDZxaHo2WklOV05Dcy03Y054Y1A1NktfYkNIeUxmVEdvRjVzY2Zfd3ZjcjdZcDhzc3UzdHRfSXlzTS1wWlQ2bjdXMjN5SnM3cktwZlFBaEt0T2VPbW02T2VnN2c0QnVjOWpqVFRhcy0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW9maU02aHMxR09rZTJzWUN3LWs1RFhpelgtS1FJc0lyZGhVNERoeGZUS0cyeDZxaHo2WklOV05Dcy03Y054Y1A1NktfYkNIeUxmVEdvRjVzY2Zfd3ZjcjdZcDhzc3UzdHRfSXlzTS1wWlQ2bjdXMjN5SnM3cktwZlFBaEt0T2VPbW02T2VnN2c0QnVjOWpqVFRhcy0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-police-commander-recounts-how-illegal-miners-seized-four-ak-",
+      "date": "2026-08-19",
+      "category": "arrest",
+      "title": "Police Commander recounts how illegal miners seized four AK-47s during anti-galamsey operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Police Commander recounts how illegal miners seized four AK-47s during anti-galamsey operation Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanNvTHJQbmJzeVM3MzV6VENvczlJaE04M29BNkhJV0dhS29OY2JleGllYXJ3OVlYaE83TU1aNjRFNWwzNDNtbV9qRnFreWdKZDZHT2hkblVkWVNWQWZVRW5zVFhIZFdqWWlwb2E2cXNMV3BmazdDaktxcHBmNEN3ZmFIZjFFYm1JbF9YZDBObHpGT0pJVDM3a1NDNEVLVnBSLXZkTExXVU1LcEtBREJXZGZsVmp1Nno1RzVQOF9RVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPanNvTHJQbmJzeVM3MzV6VENvczlJaE04M29BNkhJV0dhS29OY2JleGllYXJ3OVlYaE83TU1aNjRFNWwzNDNtbV9qRnFreWdKZDZHT2hkblVkWVNWQWZVRW5zVFhIZFdqWWlwb2E2cXNMV3BmazdDaktxcHBmNEN3ZmFIZjFFYm1JbF9YZDBObHpGT0pJVDM3a1NDNEVLVnBSLXZkTExXVU1LcEtBREJXZGZsVmp1Nno1RzVQOF9RVQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-tanoso-youth-grabbed-chief-over-alleged-illegal-mining-activ",
+      "date": "2026-08-19",
+      "category": "water",
+      "title": "Tanoso youth grabbed Chief over alleged illegal mining activities near Tano River",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Tanoso youth grabbed Chief over alleged illegal mining activities near Tano River Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ1WnVXWWJEc2NXeTMyMWNMT0tSeGhlSFhIQ0hMT1hHQnM4Ty1qTlJXTmdudkxCcE5RZ0Q5QUMxT0c2N2ZiLUtnMF96Yk5jOFN1MzZvdUNobURGMzBBZWFMV3JWa3lQeklzWUpWSlV1dENWNFhKMmxweTh1Uk03anFWcGYydzVSTllzLUJKUmxBRUllNG4tUtIBlwFBVV95cUxOdGM4ekJ3aVgtZmRjdWJESm04ZEtmd1M3S3BoYUFrSzRjVERVdzgtMmYzSTQwdDVNdTJuVjBjR01aRUk1akhDNmVzWFRhYWwtVjZZWGtnZWNDSV9YVVF1MzdhSXE1emRoOVZYLTdveHEyd0Fxaktwd081ZGs1YkM1cm92X2VGT3dfNXl3SXFIS1JBOTgtV1d3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFZ1WnVXWWJEc2NXeTMyMWNMT0tSeGhlSFhIQ0hMT1hHQnM4Ty1qTlJXTmdudkxCcE5RZ0Q5QUMxT0c2N2ZiLUtnMF96Yk5jOFN1MzZvdUNobURGMzBBZWFMV3JWa3lQeklzWUpWSlV1dENWNFhKMmxweTh1Uk03anFWcGYydzVSTllzLUJKUmxBRUllNG4tUtIBlwFBVV95cUxOdGM4ekJ3aVgtZmRjdWJESm04ZEtmd1M3S3BoYUFrSzRjVERVdzgtMmYzSTQwdDVNdTJuVjBjR01aRUk1akhDNmVzWFRhYWwtVjZZWGtnZWNDSV9YVVF1MzdhSXE1emRoOVZYLTdveHEyd0Fxaktwd081ZGs1YkM1cm92X2VGT3dfNXl3SXFIS1JBOTgtV1d3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-we-heard-people-saying-he-is-into-galamsey-but-we-have-no-id",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "We heard people saying he is into galamsey, but we have no idea – Tanoso Police Commander on Ankobeahene [Audio]",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We heard people saying he is into galamsey, but we have no idea – Tanoso Police Commander on Ankobeahene [Audio] Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkRBZVJzZ1ZSaGthMDJGNG1iUnNyXzhrS08tTkM5dmNuVV9BZldyVXpLSFJvMnhiWFVTUUxxNjhfUEx0M0MtWmM1VGdIZ2pIQ2xXSzAyUGNlRmZrRUwweTFLaXZJeXVCNXpkeHRtZ0xPLXNGN3NqVlRCVVpVZmQ4LVdnbzY5bzZMSDd5cHI0LTZRaU9ZWXc0NFc3dUU2Q1A3MmNVdXFha0VSMjVmakNSVW5ZV1pFcVd6YWNjbktlNUNLVk1FYjVyVm1VM1RzMGdx?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkRBZVJzZ1ZSaGthMDJGNG1iUnNyXzhrS08tTkM5dmNuVV9BZldyVXpLSFJvMnhiWFVTUUxxNjhfUEx0M0MtWmM1VGdIZ2pIQ2xXSzAyUGNlRmZrRUwweTFLaXZJeXVCNXpkeHRtZ0xPLXNGN3NqVlRCVVpVZmQ4LVdnbzY5bzZMSDd5cHI0LTZRaU9ZWXc0NFc3dUU2Q1A3MmNVdXFha0VSMjVmakNSVW5ZV1pFcVd6YWNjbktlNUNLVk1FYjVyVm1VM1RzMGdx?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+    },
+    {
+      "id": "auto-2026-08-19-we-reported-galamsey-sites-to-relevant-authorities-but-nothi",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "We reported galamsey sites to relevant authorities, but nothing happened - Tanoso Ankobeahene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We reported galamsey sites to relevant authorities, but nothing happened - Tanoso Ankobeahene Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0RxVWdvNV9CQXZ2VW85QzEwQXRxV0lJTGRrcGZLYmNRNXRSOF9PODlfWUpFOFdhMllRZFRTWTBvakgwMFZxMF9fWE5VRXQ3UkdyX0xIZjBzNmREQkd2Z1hFeFpranpyNVhGZVZwdGEtbGJWakdSY3gwQkY5cW03OU5CLURWcTgwa0hORG5BdGhNdGVhY0xUb0RJQXpoQlhVcWw2QkU5TjhGR0I1cEtFeHZBTkpqZ1I1d0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPR0RxVWdvNV9CQXZ2VW85QzEwQXRxV0lJTGRrcGZLYmNRNXRSOF9PODlfWUpFOFdhMllRZFRTWTBvakgwMFZxMF9fWE5VRXQ3UkdyX0xIZjBzNmREQkd2Z1hFeFpranpyNVhGZVZwdGEtbGJWakdSY3gwQkY5cW03OU5CLURWcTgwa0hORG5BdGhNdGVhY0xUb0RJQXpoQlhVcWw2QkU5TjhGR0I1cEtFeHZBTkpqZ1I1d0E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-2-organisations-promote-atewa-forest-protection",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "2 Organisations promote Atewa forest protection",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "The EcoConscious Citizens, a non-governmental organisation (NGO) focused on the environment, has collaborated with JCS Investments Limited to promote environmental conservation and to raise public awareness about the need to protect Atewa Forest Reserve. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-2-organisations-promote-atewa-forest-protection.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-2-organisations-promote-atewa-forest-protection.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-atwima-mponua-district-taskforce-destroys-illegal-mining-equ",
+      "date": "2026-08-19",
+      "category": "arrest",
+      "title": "Atwima Mponua District taskforce destroys illegal mining equipment on River Offin",
+      "place": "Atwima",
+      "region": "Ashanti",
+      "lat": 6.6,
+      "lon": -2.05,
+      "summary": "​ The District Chief Executive (DCE), Issahak Ibrahim, stressed on the importance of safeguarding the environment.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/atwima-mponua-district-taskforce-destroys-illegal-mining-equipment-on-river-offin"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/atwima-mponua-district-taskforce-destroys-illegal-mining-equipment-on-river-offin",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
+    },
+    {
+      "id": "auto-2026-08-19-galamsey-fight-tanoso-police-recount-near-chaos-over-seized-",
+      "date": "2026-08-19",
+      "category": "arrest",
+      "title": "Galamsey fight: Tanoso Police recount near-chaos over seized equipment [Listen]",
+      "place": "Ahafo Region",
+      "region": "Ahafo",
+      "lat": 6.8,
+      "lon": -2.52,
+      "summary": "The Tanoso Police Command in the Ahafo Region has explained the circumstances surrounding the alleged diversion of suspected illegal mining equipment from a seized vehicle to the palace of the Ankobeahene of the Tanoso Traditional Council. The Tanoso Police Commander, ASP Edmond Adjei Kissi, said some individuals who seize or retrieve suspected galamsey equipment sometimes […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/galamsey-fight-tanoso-police-recount-near-chaos-over-seized-equipment-listen/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-fight-tanoso-police-recount-near-chaos-over-seized-equipment-listen/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+    },
     {
       "id": "auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam",
       "date": "2026-08-18",
@@ -288,6 +503,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhTUFQa1p6OEV4VEdIXzhNc3d5VmpzNWdIQ0NndFNKQ1d1SHJ0LXYxSENxSUxCZm1HWElWOXNFT0QtemZxcVBGTXFzMWZodTZFWEhCY3FQMVBSVllKVDUzZkc3MNIBXEFVX3lxTE9fUWlzN0tkSm5TRlY0SzJJd3JQUjEzX050bzcxTUdtb1drV25DYWJQLWxXb0Y1dURaYWRPT1JGMUc4UkZtdEJKNjB6clp5U1NFX3RkNm1aSmlITENh?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-19T13:12:29.966Z",
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
@@ -308,6 +524,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTHFBaVhHbnNJOTloTUx6dFRYNnFQMzd0WVp1OEl6TXcwMVJOT2EyMDY4SThQY2FudGhKb0RWWk9nNWU3M21oRFZ4Z2pXb0pVTTJySTBia2ppVUs5VDk3dFNxNNIBXEFVX3lxTE15NjVjQnptcDd5bjc3VHdpVXZPR0VLcnhTMEMwRkJPN2E0NHhqd1RvUVhsLU9RZk5fQzdWb1FHdXFoMEZfNFNLMmVuNHd4ZEZ1MjNlY0EwUm45MlM1?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-19T13:13:08.405Z",
       "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
@@ -486,6 +703,25 @@
         "url": "https://www.myjoyonline.com/goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bokpin/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bokpin/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-i-m-ready-to-swear-with-the-bible-schnapps-and-eggs-that-i-d",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "‘I’m ready to swear with the Bible, schnapps and eggs that I don’t do galamsey’ – Tanoso Ankobeahene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘I’m ready to swear with the Bible, schnapps and eggs that I don’t do galamsey’ – Tanoso Ankobeahene Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVvdnlPX21VZ0FKQnlLLVdvZzBBMEJ6U0djT2xsZzZBdzM5WW0tS2h4NFo0ZWt3V2RQQUtubzVHS2xzT1VsSWg4M1pZR19NN0M0QWhEZVpOUEFqMVJVMnpwZGxKRGtpTkJ3YVYzbW9XYWJucktESF9WSW5BV212Mmc3dVNId2dCc2xRUEJBOGNYZGNQXzVUNU1FclV3VGxfUUQzdHJISnhfWm1ETkYtcU42bDZwTncxa3BiMWxB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPYUVvdnlPX21VZ0FKQnlLLVdvZzBBMEJ6U0djT2xsZzZBdzM5WW0tS2h4NFo0ZWt3V2RQQUtubzVHS2xzT1VsSWg4M1pZR19NN0M0QWhEZVpOUEFqMVJVMnpwZGxKRGtpTkJ3YVYzbW9XYWJucktESF9WSW5BV212Mmc3dVNId2dCc2xRUEJBOGNYZGNQXzVUNU1FclV3VGxfUUQzdHJISnhfWm1ETkYtcU42bDZwTncxa3BiMWxB?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2222,18 +2458,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3753,7 +3989,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgJBVV95cUxQa0h6SFB1a2Zsa2x1UWFiczl0S0pjY0NLMWpCbWg4VGk3VjRJWXdBN1J6NG9RV2k4VkhZWk53QVZobkl4NEVfa2tBS3d5MFNMNW5CNU9pel9TeGo3Tmx4RVRiNGh4QlVIU3JvVGpUekVkSHZna2JRVnFLSXFRS2R2S3NNR1RJcjhXX0VSYVJPV2RTZ2VreEk0UUtMYUJ5Mi16V0VQSHZZZ0pERlFMTERIUTR5dTdwdVpUV1Y5Mkd3LVRrVGdlWFlrdHBQdGphN2VhbllmYk5odTFSd0lSTHpvVHU2NmN3N1NucW4yM3pVVlVyTHBuT0xOLXk5WUpMcHlRLTRfZ2hn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
     },
     {
       "id": "auto-2026-08-08-world-protesters-in-ghana-demand-end-to-illegal-mining",
@@ -5721,7 +5958,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxPejJ6S1I1M2dDQTY4UWVNOXE3U0FYRC1TSjlJdXh4SUNIbVVrekY1YklKelA0dFJSblhCd2pHaW9rRVV5RDFWLVVGSEt6bzVqcmZoeHA1UmxjWGZaZkNBN1k3UG45aFFRVnowZlIwLTExYlVLYzlZMk5sVjdmYmJhY2VNOENJLVpGd092S0lCenlibFozQ0RwcEVjY1p5VXVIVk9MZWFzcldaUjZwRTR3?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
     },
     {
       "id": "auto-2026-07-29-galamsey-has-destroyed-our-water-help-us-secure-boreholes-at",
