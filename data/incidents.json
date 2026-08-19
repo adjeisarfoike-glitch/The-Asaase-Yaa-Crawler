@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-18T18:59:53.929Z",
+  "updated": "2026-08-19T01:57:41.512Z",
   "counts": {
-    "total": 343,
+    "total": 348,
     "verified": 28,
-    "automated": 315,
+    "automated": 320,
     "earliest": "2024-07-01",
     "latest": "2026-08-18"
   },
@@ -88,8 +88,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/mahama-naimos-has-cleared-nearly-49-forest-reserves-of-illegal-miners",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-18T07:03:54.558Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "archivedAt": "2026-08-18T07:03:54.558Z"
     },
     {
       "id": "auto-2026-08-18-the-urgent-need-for-decentralising-ghana-s-key-institutions-",
@@ -191,7 +190,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-18T18:56:46.348Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
     },
     {
       "id": "auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims",
@@ -210,7 +209,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQVkJ4ZHVsbXhjR1dadjE0anBwSF9yaU1DR2t2bjhkYm9hMDNwVnBVeGJzc3JXUUVmdTI2MzgtU3VNUi11TDNESTdrNXh3Q3gyOGhFbGdfQWhZelNJeTBZS0ZvdWFTR0Q5a3lTZDB6cUpYa0pkR0d2MEZzTVdlU29NdnVpN01Vcm1vOHpPX3hOMllnZVpRRkE4Zm1KaEIxUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-19T01:52:37.677Z"
     },
     {
       "id": "auto-2026-08-18-the-galamsey-war-and-gwl-s-fictitious-and-inaccurate-rebutta",
@@ -229,7 +229,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmwweTV1RGxmcWhXT3VqNTdpb3lBV1drSGtjc3J4SFhvYVl6M21FZzlHR2NHRzJkYklfOEdpajRacjgxUGtCa3RLUndsVVpPejBjdXMteE9sRHZzX0NsbkJ5Tlc0RXkxN2IyZmpzY3dUbFdSVmY5dWV4Z29rYWRVM0RkdXBkNmhhekljQlUwV2dkVWc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-19T01:53:08.538Z"
     },
     {
       "id": "auto-2026-08-18-special-promotions-boost-police-morale-beneficiaries-eulogiz",
@@ -369,6 +370,105 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-08-18-stop-chasing-excavator-operators-go-after-galamsey-financier",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Stop chasing excavator operators, go after galamsey financiers – GJA",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Stop chasing excavator operators, go after galamsey financiers – GJA CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUo1LVNpOVNfcWtwZy10SU5IcnpmLWtXNFZJSFdpU2RzWXhWaHdyaWN0TlVrNVc1aklzbWFvSl8yRVFUdDJhQS05bWRabmFXbGliNUN5aDZxb0FfREoxeHB6V29ZWHNORUI0R3hUeDI0WVFwaXdBM0VBX2RKdjRMOElmdlBZZUk3dFlQTXRRNzdzU09sWWl2dmctZm1BQnB4YldwOElR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUo1LVNpOVNfcWtwZy10SU5IcnpmLWtXNFZJSFdpU2RzWXhWaHdyaWN0TlVrNVc1aklzbWFvSl8yRVFUdDJhQS05bWRabmFXbGliNUN5aDZxb0FfREoxeHB6V29ZWHNORUI0R3hUeDI0WVFwaXdBM0VBX2RKdjRMOElmdlBZZUk3dFlQTXRRNzdzU09sWWl2dmctZm1BQnB4YldwOElR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+    },
+    {
+      "id": "auto-2026-08-18-target-financiers-equipment-suppliers-gold-buyers-in-galamse",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Target financiers, equipment suppliers, gold buyers in galamsey fight - GJA President to gov’t",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Target financiers, equipment suppliers, gold buyers in galamsey fight - GJA President to gov’t Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzgxQnQzQ2VmTHU0YU96NjdnV1VaZVdZRVh1NjY4ZXM4RVhMck94RzItX1BLaGdqcFFKeFFaYUlVWnlORDk0b0R6WFgtZ1ltSjZvMllmb2dkcHgwS2drVVZaY3RIRU9NWFNuZzQtYWNnVlpyTURzOGNoa0lQczFjY0dDcGRKeWt3RU9tRVd3RXlIWkV3SWFsb9IBmAFBVV95cUxNYzgxQnQzQ2VmTHU0YU96NjdnV1VaZVdZRVh1NjY4ZXM4RVhMck94RzItX1BLaGdqcFFKeFFaYUlVWnlORDk0b0R6WFgtZ1ltSjZvMllmb2dkcHgwS2drVVZaY3RIRU9NWFNuZzQtYWNnVlpyTURzOGNoa0lQczFjY0dDcGRKeWt3RU9tRVd3RXlIWkV3SWFsbw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzgxQnQzQ2VmTHU0YU96NjdnV1VaZVdZRVh1NjY4ZXM4RVhMck94RzItX1BLaGdqcFFKeFFaYUlVWnlORDk0b0R6WFgtZ1ltSjZvMllmb2dkcHgwS2drVVZaY3RIRU9NWFNuZzQtYWNnVlpyTURzOGNoa0lQczFjY0dDcGRKeWt3RU9tRVd3RXlIWkV3SWFsb9IBmAFBVV95cUxNYzgxQnQzQ2VmTHU0YU96NjdnV1VaZVdZRVh1NjY4ZXM4RVhMck94RzItX1BLaGdqcFFKeFFaYUlVWnlORDk0b0R6WFgtZ1ltSjZvMllmb2dkcHgwS2drVVZaY3RIRU9NWFNuZzQtYWNnVlpyTURzOGNoa0lQczFjY0dDcGRKeWt3RU9tRVd3RXlIWkV3SWFsbw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-live-point-of-view-ghana-s-gold-story-the-good-the-bad-galam",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "LIVE | Point of View: Ghana’s Gold Story — The Good, the Bad & Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE | Point of View: Ghana’s Gold Story — The Good, the Bad & Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jMGpCckxVcHR3d0dTVHVRa01NdUpZeUROWW9vSnk3LUJBTV9GYWRYQjlGUEtwOUNmalVycDFwdFBVeGNPeUVHZDdnZmpoNmI3eEY5Z1pOemQ3R0JDRFJVZUhlc9IBXEFVX3lxTFBzZHVlY2xmbHF3a19pdTY0NUNlQTRlUVZJRklBU19mYXdSYnMyNTVIQmpLb3k3c0c4MHkzWGNQUHY5OFVfMk1waE9KSElmR2tuaFc5a2pCbnZteTlv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jMGpCckxVcHR3d0dTVHVRa01NdUpZeUROWW9vSnk3LUJBTV9GYWRYQjlGUEtwOUNmalVycDFwdFBVeGNPeUVHZDdnZmpoNmI3eEY5Z1pOemQ3R0JDRFJVZUhlc9IBXEFVX3lxTFBzZHVlY2xmbHF3a19pdTY0NUNlQTRlUVZJRklBU19mYXdSYnMyNTVIQmpLb3k3c0c4MHkzWGNQUHY5OFVfMk1waE9KSElmR2tuaFc5a2pCbnZteTlv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-18-wontumi-s-conviction-the-bigger-question-of-accountability-i",
+      "date": "2026-08-18",
+      "category": "prosecution",
+      "title": "Wontumi's Conviction: The bigger question of accountability in illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wontumi's Conviction: The bigger question of accountability in illegal mining 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelhvdVZZRFEwRy1OOENiM2M0aHJjdHhZY0Z3czRlUGNFbERCTk5qWFJUUVJoSjNKVlZ1VkczLVlGSzBXbXhDcUVTd1dJRnVaeTBDend0OF8xUkhBLV9JeEVrckFrM2Q2VG40bnM3Ylo4eXF0RnhHZ3QtVEFoUS1TZTRuOHFHOV9SY0xKZ2RmMHBYWUpoLXRoZEZQVHJBS2NTc2Rj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQelhvdVZZRFEwRy1OOENiM2M0aHJjdHhZY0Z3czRlUGNFbERCTk5qWFJUUVJoSjNKVlZ1VkczLVlGSzBXbXhDcUVTd1dJRnVaeTBDend0OF8xUkhBLV9JeEVrckFrM2Q2VG40bnM3Ylo4eXF0RnhHZ3QtVEFoUS1TZTRuOHFHOV9SY0xKZ2RmMHBYWUpoLXRoZEZQVHJBS2NTc2Rj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-19T01:57:02.430Z"
+    },
+    {
+      "id": "auto-2026-08-18-illegal-mining-drives-ghanaian-children-from-classrooms-into",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Illegal mining drives Ghanaian children from classrooms into hazardous labour",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "A study by Solidaridad West Africa and the Minerals Commission has revealed that illegal mining is increasingly drawing schoolchildren from classrooms into hazardous labour in parts of the Eastern Region.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/illegal-mining-drives-ghanaian-children-from-classrooms-into-hazardous-labour/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/illegal-mining-drives-ghanaian-children-from-classrooms-into-hazardous-labour/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-illegal-mining-pulling-ghana-s-school-children-out-of-classr"
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
@@ -560,8 +660,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-bawku-will-bounce-back-president-mahama.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-18T07:08:13.176Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "archivedAt": "2026-08-18T07:08:13.176Z"
     },
     {
       "id": "auto-2026-08-17-galamsey-ansu-kumi-demands-answers-over-ndc-s-failure-to-dec",
@@ -621,7 +720,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tZVJRQVQyaHA2VTlmLVBVSkQ0cjY3UEtsdEZFNUZKLVFTaEE3TWotOGlWTlNvYTRENl9XQmk3QjVpRE83MUg2TmdwTDNKSDU3S2NXQ0Y4MzVlLVh1WlU3SmIwdGzSAVxBVV95cUxPNmpaM2g0QmhVMmljSGFObnFHYVJqeWFSdkwxWHlCb1hhOU1FVElPck9qSlFxejZPRk9nd0NRQmhpRHFqb3hHdFJMWFA5dURZLVlMdzkwNlB3MFJwaA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
     },
     {
       "id": "auto-2026-08-17-galamsey-could-cause-major-health-crisis-in-ghana-soon-medic",
@@ -1855,15 +1954,15 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
+      "title": "Illegal mining threatens Ghana’s first marine protected area",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news.mongabay.com",
       "metrics": {},
       "source": {
-        "name": "Mongabay",
+        "name": "news.mongabay.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5",
@@ -2085,18 +2184,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
