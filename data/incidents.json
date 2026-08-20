@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-20T07:10:23.831Z",
+  "updated": "2026-08-20T13:14:36.582Z",
   "counts": {
-    "total": 368,
+    "total": 374,
     "verified": 28,
-    "automated": 340,
+    "automated": 346,
     "earliest": "2024-07-01",
     "latest": "2026-08-20"
   },
@@ -27,6 +27,123 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "Double Illegality: How galamsey is opening Ghana’s forests to timber exploitation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Double Illegality: How galamsey is opening Ghana’s forests to timber exploitation Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHVqa0tiS3BzdF8wSlBmWlRJdWdXWGxERFp2djQ3TkpjRU45M2tZTkY2ZnR2Tm1CRFJxaHl5Q1ZBRVpBN1IyYXl4TlhvdVFnVzhsZjdyVzRZSk9nMVcxMS11ZW13R3RaZWFCWXV6SzFFQWlQWFEyX0tyWW95elNUVERzTVRhTlF1Q09obUkzZWM3NEZwOThOUTVzUUxnY09rYUNyaEtkb2pValFqTGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHVqa0tiS3BzdF8wSlBmWlRJdWdXWGxERFp2djQ3TkpjRU45M2tZTkY2ZnR2Tm1CRFJxaHl5Q1ZBRVpBN1IyYXl4TlhvdVFnVzhsZjdyVzRZSk9nMVcxMS11ZW13R3RaZWFCWXV6SzFFQWlQWFEyX0tyWW95elNUVERzTVRhTlF1Q09obUkzZWM3NEZwOThOUTVzUUxnY09rYUNyaEtkb2pValFqTGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-20-bawumia-meets-japanese-ambassador-discusses-digitalisation-f",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "Bawumia meets Japanese Ambassador, Discusses digitalisation, fintech and galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Bawumia meets Japanese Ambassador, Discusses digitalisation, fintech and galamsey fight Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEFDU1ZuU01XTEt2YVJWMWYtYmVMcDJRNmwwWmZYYWExdzVBcTBjbHY5U3oxYVFzZ3ZCSjhTb2tpZm9OZjdZajZBNmRfZXpmVDN1VURuRG84OFVMa3NZQ1JYVVdicmZEbDdnbWpEcDItai1NZHdYVkxjaEZpRGVrd0hUenFpQU5RZ3Y2NlhFajJDampucUdLNkRzcTN4UHg1NWs3T180bUtsVEZ5OHo0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEFDU1ZuU01XTEt2YVJWMWYtYmVMcDJRNmwwWmZYYWExdzVBcTBjbHY5U3oxYVFzZ3ZCSjhTb2tpZm9OZjdZajZBNmRfZXpmVDN1VURuRG84OFVMa3NZQ1JYVVdicmZEbDdnbWpEcDItai1NZHdYVkxjaEZpRGVrd0hUenFpQU5RZ3Y2NlhFajJDampucUdLNkRzcTN4UHg1NWs3T180bUtsVEZ5OHo0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga"
+    },
+    {
+      "id": "auto-2026-08-20-goldbod-is-why-government-is-soft-on-galamsey-dr-joshua-zaat",
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "‘GoldBod Is Why Government Is Soft on Galamsey’ - Dr Joshua Zaato",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘GoldBod Is Why Government Is Soft on Galamsey’ - Dr Joshua Zaato Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uS2pjcklBNFJvLUVVRnp1ZmNnd1V1YW1JbmlacFhWbUZHRDU2SXBOc3JDS3JPWjJ6SmszTjdCVGVaWDJBVENrMVZOVERLVTV2ZFFTaHhBQWRzWWtDMDlB0gFcQVVfeXFMUFRnekpZaG9QYVJ6TmJIdE9zVVJkbDMzY0I1bVg1b0JrS043bmUzU3pWeHNBZVk1MFNId0tSSzhXTHhKNEZHTEFtbW9fMGFmVG15TVJ4cEFLa0IwY04?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uS2pjcklBNFJvLUVVRnp1ZmNnd1V1YW1JbmlacFhWbUZHRDU2SXBOc3JDS3JPWjJ6SmszTjdCVGVaWDJBVENrMVZOVERLVTV2ZFFTaHhBQWRzWWtDMDlB0gFcQVVfeXFMUFRnekpZaG9QYVJ6TmJIdE9zVVJkbDMzY0I1bVg1b0JrS043bmUzU3pWeHNBZVk1MFNId0tSSzhXTHhKNEZHTEFtbW9fMGFmVG15TVJ4cEFLa0IwY04?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+    },
+    {
+      "id": "auto-2026-08-20-galamsey-is-driving-the-profits-goldbod-is-making-dr-joshua-",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "“Galamsey is driving the profits GoldBod is making.” — Dr. Joshua Jebuntie Zaato.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Galamsey is driving the profits GoldBod is making.” — Dr. Joshua Jebuntie Zaato. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VR1M3TDVHNm9MQ0wzZFZ4dXBBMjVzOEhaNkhCZjQxZGN1QWNLckt2NkhvWE95SjdKQWVoRk95bTVlMkR1cWEza19iY0VLLUF0NGVfakJTS0JQSXkyaGFtNmx0UUrSAVxBVV95cUxPWFpBaFBnSExJZl9TaHdZTTJCZzJGS0dQWEw2TF9JMld0VUx3NkV2S09LWWVSSWVKR0dhdWFWLVREdjRmOEJvWGFMcVRtX3V4Y2w5MDNLLWM1R24yXw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VR1M3TDVHNm9MQ0wzZFZ4dXBBMjVzOEhaNkhCZjQxZGN1QWNLckt2NkhvWE95SjdKQWVoRk95bTVlMkR1cWEza19iY0VLLUF0NGVfakJTS0JQSXkyaGFtNmx0UUrSAVxBVV95cUxPWFpBaFBnSExJZl9TaHdZTTJCZzJGS0dQWEw2TF9JMld0VUx3NkV2S09LWWVSSWVKR0dhdWFWLVREdjRmOEJvWGFMcVRtX3V4Y2w5MDNLLWM1R24yXw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+    },
+    {
+      "id": "auto-2026-08-20-goldbod-to-introduce-gold-traceability-system-by-end-of-2026",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "GoldBod to introduce gold traceability system by end of 2026 to get rid of illegal mining gold",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod to introduce gold traceability system by end of 2026 to get rid of illegal mining gold Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONF9QNHdHRUthdXRSbUFKT2M0UHphTjJrdHRWcFZrVDQzMi1rMmltdWF2YU5seTZFZVhOeVZFTVZYZ2lUczF4LVdMdDdzd2J1Nk9IUnpQQ200VzR2UlRuQnN4d1hLU3pPbGsyWVZJRXZhNFFQUHJFSTBBQ2FFM0MxbnFrRHBpZFdZVkdSeEFqUnA5S3N6c3k2Wmk4U2RQajQzWFd3UExkUElMUmIwZVZ2dE9kLXMzU1lPOTROX3FPNU01WVdiU2tJalU0ck02Tl92OFdTa0dTMGMzNU5Y?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxONF9QNHdHRUthdXRSbUFKT2M0UHphTjJrdHRWcFZrVDQzMi1rMmltdWF2YU5seTZFZVhOeVZFTVZYZ2lUczF4LVdMdDdzd2J1Nk9IUnpQQ200VzR2UlRuQnN4d1hLU3pPbGsyWVZJRXZhNFFQUHJFSTBBQ2FFM0MxbnFrRHBpZFdZVkdSeEFqUnA5S3N6c3k2Wmk4U2RQajQzWFd3UExkUElMUmIwZVZ2dE9kLXMzU1lPOTROX3FPNU01WVdiU2tJalU0ck02Tl92OFdTa0dTMGMzNU5Y?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-20-npp-must-reconsider-chairman-wontumi-s-candidature-due-to-hi",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "NPP must reconsider Chairman Wontumi’s candidature due to his legal problems – Brako-Powers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "He noted that Wontumi has faced criminal proceedings relating to alleged illegal mining activities, making his candidacy an issue that the NPP cannot afford to overlook.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/npp-must-reconsider-chairman-wontumis-candidature-due-to-his-legal-problems-brako-powers"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/npp-must-reconsider-chairman-wontumis-candidature-due-to-his-legal-problems-brako-powers",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
@@ -2284,8 +2401,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhob19qdTYzdlgwa1RVYmM2dWV5TFd3T0pBWng5ZkQ4Y1dNNS1DNFlFYVFGSnlwWHVfSm5FMWtBb1BvUzFZbFlsTWsxcmpRWGVwSHR2ZElFM2ZfbXpscDAybHBtMWNjUE01dzBlOHpXODRiTV9aLTdENzNRSDJyVk5qV1hVQVJreHhYWkY0TDlRZWpnNlhucFBuRGQ4YmZZRW5sTzFnQXVOYWwxUnVrVy1HQTR1RHRLcGlnOHh5aTh6LXRQajNERmRPVTQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:46:06.562Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-08-12T13:46:06.562Z"
     },
     {
       "id": "auto-2026-08-12-practically-impossible-to-naturally-restore-galamsey-pollute",
@@ -2580,18 +2696,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -4013,7 +4129,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-09T19:01:02.090Z",
-      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+      "thread": "t-auto-2026-07-30-if-you-voted-for-ndc-to-solve-galamsey-you-ve-been-scammed-d"
     },
     {
       "id": "auto-2026-08-08-bono-regional-minister-reaffirms-commitment-to-fighting-gala",
@@ -5155,7 +5271,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -5349,7 +5465,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -5898,7 +6014,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1RElETUUyVHk1V0F5bUNRRGE1X2dxYnJWeXRBOWQ1eGJ5NFFRRGpuRHFGTE9UMFdJbWJXcm5KS0V5NnA5dXlCVVpEREtUbkFpaVpscUtzY1ZvakVIWHlj0gFcQVVfeXFMT3dESi1vbF9pRGtXTVd5U05IbDRJeXZjNUVtMnNYRUl3MmtkWGNMc3pwQzJJNWtxR3lWMTF0RHFRQWJFdmtBa1NERk1rNVRXQmt2MElBQ25yRUdVWDU?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+      "thread": "t-auto-2026-07-30-if-you-voted-for-ndc-to-solve-galamsey-you-ve-been-scammed-d"
     },
     {
       "id": "auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec",
@@ -6488,8 +6604,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "verified": false
     },
     {
       "id": "auto-2026-07-20-galamsey-impunity-is-not-over-cagg-challenges-govt",
