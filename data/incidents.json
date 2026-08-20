@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-19T18:57:06.011Z",
+  "updated": "2026-08-20T01:54:58.992Z",
   "counts": {
-    "total": 364,
+    "total": 366,
     "verified": 28,
-    "automated": 336,
+    "automated": 338,
     "earliest": "2024-07-01",
     "latest": "2026-08-19"
   },
@@ -86,7 +86,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW9maU02aHMxR09rZTJzWUN3LWs1RFhpelgtS1FJc0lyZGhVNERoeGZUS0cyeDZxaHo2WklOV05Dcy03Y054Y1A1NktfYkNIeUxmVEdvRjVzY2Zfd3ZjcjdZcDhzc3UzdHRfSXlzTS1wWlQ2bjdXMjN5SnM3cktwZlFBaEt0T2VPbW02T2VnN2c0QnVjOWpqVFRhcy0?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-20T01:50:43.470Z"
     },
     {
       "id": "auto-2026-08-19-police-commander-recounts-how-illegal-miners-seized-four-ak-",
@@ -240,6 +241,25 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWENJRFlodzN2QlpSZWJ0a2pOY2F1WnltUFJLUGNaTjV3VlhORjBKbHEzeWdoTEJIN0taNWJSMGEyOThiWmJpVVZidWVTSTU4Z3ZRVzNRTkhiNWZZQ1hWa0pzLTRHel9idlFDU2pVM2gtMERiYXVOWFVpTDhMMFFreGxYZlRfOUdGUVE?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxPWENJRFlodzN2QlpSZWJ0a2pOY2F1WnltUFJLUGNaTjV3VlhORjBKbHEzeWdoTEJIN0taNWJSMGEyOThiWmJpVVZidWVTSTU4Z3ZRVzNRTkhiNWZZQ1hWa0pzLTRHel9idlFDU2pVM2gtMERiYXVOWFVpTDhMMFFreGxYZlRfOUdGUVE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm",
+      "date": "2026-08-19",
+      "category": "policy",
+      "title": "Methodist Church Ghana calls for stronger action on environmental destruction",
+      "place": "Tema",
+      "region": "Greater Accra",
+      "lat": 5.67,
+      "lon": 0.02,
+      "summary": "The Presiding Bishop of The Methodist Church Ghana, Most Rev. Prof. Johnson Kwabena Asamoah-Gyadu, has called on the Church to broaden its understanding of Christian stewardship and take a stronger prophetic stand against environmental destruction in Ghana. He said the Church’s responsibility should extend beyond the spiritual needs of individuals to include the wellbeing of communities and the wider creation. Addres",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/methodist-church-ghana-calls-for-stronger-action-on-environmental-destruction.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/methodist-church-ghana-calls-for-stronger-action-on-environmental-destruction.html",
       "via": "rss",
       "verified": false
     },
@@ -764,6 +784,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQXzNkeklDcFExZk5pV3ptSEwtamY3dVZkS0pULVJzQVV6TFJJYzJIZkpzRms3UXFCQ09tdTJuZ3ZUTmlWc2JXcG5FTi1mRFEyUmdHVGMzMklZbTAtcTE1T1dWSVlURld4a0tKc3QwU1RINUtiNXZNV1dMZTh0VXhVT3RwRTRtQkpYVktxdTQ1bTNsNUN1THlnMUVRQjA2WERGZFln?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-18-mahama-may-not-have-enough-intel-journalist-paints-true-stat",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "Mahama may not have enough intel - Journalist paints true state of galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama may not have enough intel - Journalist paints true state of galamsey fight GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDBOanFRb0dUTVBKTC13dlRISE5DeXdIVU5Ja1dVT2pWUmwybnVkdng2bFhTaGJJbUk2aFFWaHJ4bTlZTC04aG1uNmgwaFdCVGZlU3hqVWg3YXg4WFpoTzhBeGFUcTU1UWdKc014M0tOaGFMblFQOVdDQng4WWpNU1ptOVU0YW1jM2ctZmZnZENzQXNTcTFtbURYdmNoT2I4bF9NX2VnckdwWjhYTGdOcEp1TnQzR2VVa0dPczhZbTJiclVIb3RQbWFRUGNDeEp4RmlJRw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDBOanFRb0dUTVBKTC13dlRISE5DeXdIVU5Ja1dVT2pWUmwybnVkdng2bFhTaGJJbUk2aFFWaHJ4bTlZTC04aG1uNmgwaFdCVGZlU3hqVWg3YXg4WFpoTzhBeGFUcTU1UWdKc014M0tOaGFMblFQOVdDQng4WWpNU1ptOVU0YW1jM2ctZmZnZENzQXNTcTFtbURYdmNoT2I4bF9NX2VnckdwWjhYTGdOcEp1TnQzR2VVa0dPczhZbTJiclVIb3RQbWFRUGNDeEp4RmlJRw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-you-lack-information-on-the-true-state-of-galamsey-fight-jou"
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
@@ -2498,18 +2538,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
