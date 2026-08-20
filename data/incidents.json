@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-20T13:14:36.582Z",
+  "updated": "2026-08-20T19:03:18.954Z",
   "counts": {
-    "total": 374,
+    "total": 379,
     "verified": 28,
-    "automated": 346,
+    "automated": 351,
     "earliest": "2024-07-01",
     "latest": "2026-08-20"
   },
@@ -25,8 +25,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-fight-must-go-beyond-empty-slogans-it-requires-conscious-effort-methodist-church/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
     },
     {
       "id": "auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to",
@@ -65,6 +64,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEFDU1ZuU01XTEt2YVJWMWYtYmVMcDJRNmwwWmZYYWExdzVBcTBjbHY5U3oxYVFzZ3ZCSjhTb2tpZm9OZjdZajZBNmRfZXpmVDN1VURuRG84OFVMa3NZQ1JYVVdicmZEbDdnbWpEcDItai1NZHdYVkxjaEZpRGVrd0hUenFpQU5RZ3Y2NlhFajJDampucUdLNkRzcTN4UHg1NWs3T180bUtsVEZ5OHo0?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-20T18:59:22.045Z",
       "thread": "t-auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga"
     },
     {
@@ -144,6 +144,66 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/npp-must-reconsider-chairman-wontumis-candidature-due-to-his-legal-problems-brako-powers",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "‘Fight galamsey with total commitment’ – Arise Ghana to gov’t",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Fight galamsey with total commitment’ – Arise Ghana to gov’t CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd191NWlmeEg2ZXRnbF8xN2YwcEVFWmdsZU9POGR3eFVlZkNGZlBkYjFFZVI1UXk0NERqSHU0QW56ZUNWMHlTVTJlSEJqVW9DX1JITHc4X2o2TlVVQXlLaHBEUWs2bklQTUZMcFFZazhXelNHZDBJaTd6amJQWHdUd2dTRVcwaUtMY0hxd2NDNjJKMUFjX2tGaEJ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOd191NWlmeEg2ZXRnbF8xN2YwcEVFWmdsZU9POGR3eFVlZkNGZlBkYjFFZVI1UXk0NERqSHU0QW56ZUNWMHlTVTJlSEJqVW9DX1JITHc4X2o2TlVVQXlLaHBEUWs2bklQTUZMcFFZazhXelNHZDBJaTd6amJQWHdUd2dTRVcwaUtMY0hxd2NDNjJKMUFjX2tGaEJ3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-08-20-galamsey-fight-arise-ghana-demands-stronger-government-actio",
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "Galamsey Fight: Arise Ghana Demands Stronger Government Action",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Arise Ghana Demands Stronger Government Action Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WRFVSb0llOTlRQVppTl85TjhQQVQ3NWFXM1lpcGFqVlNsT1RXU2ZSRUlwM2xhV0NUNjAyYm1JVElUZnVEcTMxc2tVbnd4djdIc1VZSmoydC1ueTRHYmJDd0lhTdIBXEFVX3lxTE1wb3VmTE5SR1ZyQWNuZU50OFVHY190THVKN2tMUFdoM1dadnctR2hNTEVfam1WeUUxODdiTG1QZkNnZjExaG9mUXJzYWN5bWE5aTIzUjNjN1lsa0dy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WRFVSb0llOTlRQVppTl85TjhQQVQ3NWFXM1lpcGFqVlNsT1RXU2ZSRUlwM2xhV0NUNjAyYm1JVElUZnVEcTMxc2tVbnd4djdIc1VZSmoydC1ueTRHYmJDd0lhTdIBXEFVX3lxTE1wb3VmTE5SR1ZyQWNuZU50OFVHY190THVKN2tMUFdoM1dadnctR2hNTEVfam1WeUUxODdiTG1QZkNnZjExaG9mUXJzYWN5bWE5aTIzUjNjN1lsa0dy?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-08-20-methodist-church-raises-alarm-over-destruction-caused-by-gal",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "Methodist Church Raises Alarm Over Destruction Caused by Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Methodist Church Raises Alarm Over Destruction Caused by Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jbllKWTcxOU1jX2F0Znk3SThlbDltdjhERXl0V0F2eWZYMjhxZ0RaWVFPYnRldTk1QncxT1hidTcwMWJRWXJCdVU3QVBCamhLcE9rcEZOXzNJUWx4VXF0VnZjUdIBXEFVX3lxTE1ib3h3enM5SWp1UDllMnF4NFN5N09TTHNUanM3am1mVFFUek5QQVlQdXUxWmZHZVMyZHljWG85ZnFfUkJFMmJhbnphZHUxMmNfcXRneDhNZTZJWTZu?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jbllKWTcxOU1jX2F0Znk3SThlbDltdjhERXl0V0F2eWZYMjhxZ0RaWVFPYnRldTk1QncxT1hidTcwMWJRWXJCdVU3QVBCamhLcE9rcEZOXzNJUWx4VXF0VnZjUdIBXEFVX3lxTE1ib3h3enM5SWp1UDllMnF4NFN5N09TTHNUanM3am1mVFFUek5QQVlQdXUxWmZHZVMyZHljWG85ZnFfUkJFMmJhbnphZHUxMmNfcXRneDhNZTZJWTZu?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
@@ -283,6 +343,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkRBZVJzZ1ZSaGthMDJGNG1iUnNyXzhrS08tTkM5dmNuVV9BZldyVXpLSFJvMnhiWFVTUUxxNjhfUEx0M0MtWmM1VGdIZ2pIQ2xXSzAyUGNlRmZrRUwweTFLaXZJeXVCNXpkeHRtZ0xPLXNGN3NqVlRCVVpVZmQ4LVdnbzY5bzZMSDd5cHI0LTZRaU9ZWXc0NFc3dUU2Q1A3MmNVdXFha0VSMjVmakNSVW5ZV1pFcVd6YWNjbktlNUNLVk1FYjVyVm1VM1RzMGdx?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-20T19:02:23.404Z",
       "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
     },
     {
@@ -399,8 +460,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/methodist-church-ghana-calls-for-stronger-action-on-environmental-destruction.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
     },
     {
       "id": "auto-2026-08-19-galamsey-methodist-church-calls-for-action-beyond-prayers",
@@ -419,8 +479,26 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQck9KVGNfNHc3MTJtbzJ5VmpvUWVPMUpYVWpBZm5zeEpFcHBPa3dNLVRlUm0ySXlITHg0OHYxcjZ5S2ZCeXkxZ3dWQm9GUU50OFhCSXdxUy0zenFWT21mNTZwUjVSNHoyZ3FUaUJPV0IzZVRPYjZfZjlzaURlejhjd0dnMWU2M01kQXR1NE1DcnFNRFNiY3NsYUxiRQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-19-illegal-mining-ravages-iponan-river-despite-10-year-old-writ",
+      "date": "2026-08-19",
+      "category": "water",
+      "title": "Illegal mining ravages Iponan River despite 10-year-old Writ of Kalikasan",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining ravages Iponan River despite 10-year-old Writ of Kalikasan Rappler",
+      "metrics": {},
+      "source": {
+        "name": "Rappler",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLW5YSEFqMzlXZnUxcy1jLTFUYmpQNzBzZkwyTDZOb0x6M1BieDFEWXVtRU9BQ2hfck1zYmJZVklYQm5sRzFTZGR4aFBvUUVoYlBwUjZhWWFucXplNEpwaUZmLVBFSjJDVW5RVHpvbWU5RU41cDBaLXFBNGo5SGlUUUt5S3VZcjhnLWNNWGd1VW44eWJyZS1KeEQ4UjI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOLW5YSEFqMzlXZnUxcy1jLTFUYmpQNzBzZkwyTDZOb0x6M1BieDFEWXVtRU9BQ2hfck1zYmJZVklYQm5sRzFTZGR4aFBvUUVoYlBwUjZhWWFucXplNEpwaUZmLVBFSjJDVW5RVHpvbWU5RU41cDBaLXFBNGo5SGlUUUt5S3VZcjhnLWNNWGd1VW44eWJyZS1KeEQ4UjI?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam",
@@ -2467,15 +2545,15 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area",
+      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area news.mongabay.com",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
       "metrics": {},
       "source": {
-        "name": "news.mongabay.com",
+        "name": "Mongabay",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5",
@@ -2696,18 +2774,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2846,6 +2924,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-12-bawumia-japanese-ambassador-discuss-digitalisation-ai-and-ga"
+    },
+    {
+      "id": "auto-2026-08-12-ghana-risks-importing-water-if-galamsey-pollution-persists-c",
+      "date": "2026-08-12",
+      "category": "water",
+      "title": "Ghana risks importing water if galamsey pollution persists – CSIR scientist",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana risks importing water if galamsey pollution persists – CSIR scientist Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGN2Yk1oLThwQ3hZTmlQazJNUmxTU1hQRHpYbmpMOGF6QXFDbGhXR1VGd1E1TW4wRUFMM3NEYW9fR1VXWmdOcFhlSVFvcnlVdW9HZkRZTS14TnZ1WFByc0dvbUhRWWRpVFdBYzg2RDNUdzhqY1prd3FCQzVlNTRubTZGWUR6LWNoOXFwSUZZa0QzSGp6Y0dJR0Ita9IBmgFBVV95cUxQSUlqR1RBQnBWaTlsZUhIbnpKS0M1THpPaWJXNzFiTXI3VVRoSmFUR1h4blFMR3ZJY3NlRkppR1Zhak1UV253dFc5ZGNHeHpZS0xEMjM4a0JHNnJOSkZfa2w5aGtObTdib19RSTROZDg0TUhnNlR3cXJQQThIUWJ4NUc2aHZxYW8xZXJqcGNUYmk2bnY2cXZOY19n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGN2Yk1oLThwQ3hZTmlQazJNUmxTU1hQRHpYbmpMOGF6QXFDbGhXR1VGd1E1TW4wRUFMM3NEYW9fR1VXWmdOcFhlSVFvcnlVdW9HZkRZTS14TnZ1WFByc0dvbUhRWWRpVFdBYzg2RDNUdzhqY1prd3FCQzVlNTRubTZGWUR6LWNoOXFwSUZZa0QzSGp6Y0dJR0Ita9IBmgFBVV95cUxQSUlqR1RBQnBWaTlsZUhIbnpKS0M1THpPaWJXNzFiTXI3VVRoSmFUR1h4blFMR3ZJY3NlRkppR1Zhak1UV253dFc5ZGNHeHpZS0xEMjM4a0JHNnJOSkZfa2w5aGtObTdib19RSTROZDg0TUhnNlR3cXJQQThIUWJ4NUc2aHZxYW8xZXJqcGNUYmk2bnY2cXZOY19n?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-11-naimos-launches-major-galamsey-crackdown-along-birim-river",
