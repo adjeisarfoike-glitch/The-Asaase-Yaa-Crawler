@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-20T01:54:58.992Z",
+  "updated": "2026-08-20T07:10:23.831Z",
   "counts": {
-    "total": 366,
+    "total": 368,
     "verified": 28,
-    "automated": 338,
+    "automated": 340,
     "earliest": "2024-07-01",
-    "latest": "2026-08-19"
+    "latest": "2026-08-20"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-20-galamsey-fight-must-go-beyond-empty-slogans-it-requires-cons",
+      "date": "2026-08-20",
+      "category": "water",
+      "title": "Galamsey fight must go beyond empty slogans; it requires conscious effort – Methodist Church",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Methodist Church Ghana has renewed calls for urgent and sustained action against illegal mining, popularly known as galamsey, warning that the destruction of farmlands and contamination of water bodies are posing a growing threat to the country’s future.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-fight-must-go-beyond-empty-slogans-it-requires-conscious-effort-methodist-church/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-fight-must-go-beyond-empty-slogans-it-requires-conscious-effort-methodist-church/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
       "date": "2026-08-19",
@@ -106,7 +126,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPanNvTHJQbmJzeVM3MzV6VENvczlJaE04M29BNkhJV0dhS29OY2JleGllYXJ3OVlYaE83TU1aNjRFNWwzNDNtbV9qRnFreWdKZDZHT2hkblVkWVNWQWZVRW5zVFhIZFdqWWlwb2E2cXNMV3BmazdDaktxcHBmNEN3ZmFIZjFFYm1JbF9YZDBObHpGT0pJVDM3a1NDNEVLVnBSLXZkTExXVU1LcEtBREJXZGZsVmp1Nno1RzVQOF9RVQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-20T07:05:43.596Z"
     },
     {
       "id": "auto-2026-08-19-tanoso-youth-grabbed-chief-over-alleged-illegal-mining-activ",
@@ -261,7 +282,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/methodist-church-ghana-calls-for-stronger-action-on-environmental-destruction.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-08-19-galamsey-methodist-church-calls-for-action-beyond-prayers",
+      "date": "2026-08-19",
+      "category": "forest",
+      "title": "Galamsey: Methodist Church calls for action beyond prayers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Methodist Church calls for action beyond prayers CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQck9KVGNfNHc3MTJtbzJ5VmpvUWVPMUpYVWpBZm5zeEpFcHBPa3dNLVRlUm0ySXlITHg0OHYxcjZ5S2ZCeXkxZ3dWQm9GUU50OFhCSXdxUy0zenFWT21mNTZwUjVSNHoyZ3FUaUJPV0IzZVRPYjZfZjlzaURlejhjd0dnMWU2M01kQXR1NE1DcnFNRFNiY3NsYUxiRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQck9KVGNfNHc3MTJtbzJ5VmpvUWVPMUpYVWpBZm5zeEpFcHBPa3dNLVRlUm0ySXlITHg0OHYxcjZ5S2ZCeXkxZ3dWQm9GUU50OFhCSXdxUy0zenFWT21mNTZwUjVSNHoyZ3FUaUJPV0IzZVRPYjZfZjlzaURlejhjd0dnMWU2M01kQXR1NE1DcnFNRFNiY3NsYUxiRQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam",
@@ -2538,18 +2580,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
