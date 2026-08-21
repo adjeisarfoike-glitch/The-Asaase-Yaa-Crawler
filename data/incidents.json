@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-20T19:03:18.954Z",
+  "updated": "2026-08-21T02:01:26.846Z",
   "counts": {
-    "total": 379,
+    "total": 381,
     "verified": 28,
-    "automated": 351,
+    "automated": 353,
     "earliest": "2024-07-01",
     "latest": "2026-08-20"
   },
@@ -44,7 +44,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHVqa0tiS3BzdF8wSlBmWlRJdWdXWGxERFp2djQ3TkpjRU45M2tZTkY2ZnR2Tm1CRFJxaHl5Q1ZBRVpBN1IyYXl4TlhvdVFnVzhsZjdyVzRZSk9nMVcxMS11ZW13R3RaZWFCWXV6SzFFQWlQWFEyX0tyWW95elNUVERzTVRhTlF1Q09obUkzZWM3NEZwOThOUTVzUUxnY09rYUNyaEtkb2pValFqTGc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-21T01:57:21.796Z"
     },
     {
       "id": "auto-2026-08-20-bawumia-meets-japanese-ambassador-discusses-digitalisation-f",
@@ -204,6 +205,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-08-20-arise-ghana-demands-tougher-action-against-galamsey",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "Arise Ghana Demands Tougher Action Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Arise Ghana Demands Tougher Action Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSURoYVNBelZ3bnJmV2lkVS11ZkxyTDlPSlV0Mm9jcFBHNjJ5UlF6UUllaDZIMlhLMTN6Y3Y4Z3E4Tm9sVGVyM2dwZTNGTXNiR0RScGlDNG5wa3g3ZWs5LVVQZ9IBXEFVX3lxTE1CNVJ1V0ExWmZiNDBLZW5oZmFGU01pNlZlNGk4TjZtNDl1a0F2amluWGRwSFQ3am5GVlFCRkViakxmYi0xUlo2S0Ftdl9jRHhfanR3cWJNLUtHRmxV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSURoYVNBelZ3bnJmV2lkVS11ZkxyTDlPSlV0Mm9jcFBHNjJ5UlF6UUllaDZIMlhLMTN6Y3Y4Z3E4Tm9sVGVyM2dwZTNGTXNiR0RScGlDNG5wa3g3ZWs5LVVQZ9IBXEFVX3lxTE1CNVJ1V0ExWmZiNDBLZW5oZmFGU01pNlZlNGk4TjZtNDl1a0F2amluWGRwSFQ3am5GVlFCRkViakxmYi0xUlo2S0Ftdl9jRHhfanR3cWJNLUtHRmxV?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-08-20-tanoso-youth-association-defends-sub-chief-involvement-in-ga",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "Tanoso Youth Association defends sub-chief involvement in galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Tanoso Youth Association defends sub-chief involvement in galamsey Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXVnNDdaME52cXNMeXFWNzNBbjV6M3F6akdZQzZud0xzWUd5YVBWcEtOaU5LSi13aHdvUUhpOXAtcEluWHVfVmJqT1QzT2dMWWVITHNhWmh2SXNLT0JySVVjdVFTcWRCdUxET3RqeUV3eXFyUkFvbTJGRGVCdUZNajYydmVQUjVQRS1nNHlVNUU1eXlhdEJneXJR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXVnNDdaME52cXNMeXFWNzNBbjV6M3F6akdZQzZud0xzWUd5YVBWcEtOaU5LSi13aHdvUUhpOXAtcEluWHVfVmJqT1QzT2dMWWVITHNhWmh2SXNLT0JySVVjdVFTcWRCdUxET3RqeUV3eXFyUkFvbTJGRGVCdUZNajYydmVQUjVQRS1nNHlVNUU1eXlhdEJneXJR?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
@@ -2774,18 +2814,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
