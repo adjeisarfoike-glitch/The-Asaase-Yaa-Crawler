@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-21T13:14:47.213Z",
+  "updated": "2026-08-21T18:59:33.635Z",
   "counts": {
-    "total": 387,
+    "total": 391,
     "verified": 28,
-    "automated": 359,
+    "automated": 363,
     "earliest": "2024-07-01",
     "latest": "2026-08-21"
   },
@@ -121,6 +121,83 @@
         "url": "https://www.adomonline.com/land-surveyors-call-for-stronger-collaboration-and-regulation-to-improve-land-governance/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/land-surveyors-call-for-stronger-collaboration-and-regulation-to-improve-land-governance/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-21-galamsey-is-destroying-ghana-s-cognitive-future-one-iq-point",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "Galamsey Is Destroying Ghana’s Cognitive Future - One IQ Point at a Time",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Is Destroying Ghana’s Cognitive Future - One IQ Point at a Time Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFVxZkNBQ3gyNE40Zlp6U3dFQ0NDNG45MWZJWF8zVGF6NVlKNHZMSU1hdFN2SG5ITjJla3hWV0d2SmRfWEc0NFlybUNLMkcyaTFIZmVBRnVXN3ZsMzNkZnlEeC1IRzRTRVlwT3RMLVRUUXEwLUtfekdNOGdWZmpaeGlFVlVtNUZKZ1VLZjFhT2VrWFZ6dVHSAZYBQVVfeXFMT1BVcWZDQUN4MjRONGZaelN3RUNDQzRuOTFmSVhfM1RhejVZSjR2TElNYXRTdkhuSE4yZWt4VldHdkpkX1hHNDRZcm1DSzJHMmkxSGZlQUZ1Vzd2bDMzZGZ5RHgtSEc0U0VZcE90TC1UVFFxMC1LX3pHTThnVmZqWnhpRVZVbTVGSmdVS2YxYU9la1hWenVR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFVxZkNBQ3gyNE40Zlp6U3dFQ0NDNG45MWZJWF8zVGF6NVlKNHZMSU1hdFN2SG5ITjJla3hWV0d2SmRfWEc0NFlybUNLMkcyaTFIZmVBRnVXN3ZsMzNkZnlEeC1IRzRTRVlwT3RMLVRUUXEwLUtfekdNOGdWZmpaeGlFVlVtNUZKZ1VLZjFhT2VrWFZ6dVHSAZYBQVVfeXFMT1BVcWZDQUN4MjRONGZaelN3RUNDQzRuOTFmSVhfM1RhejVZSjR2TElNYXRTdkhuSE4yZWt4VldHdkpkX1hHNDRZcm1DSzJHMmkxSGZlQUZ1Vzd2bDMzZGZ5RHgtSEc0U0VZcE90TC1UVFFxMC1LX3pHTThnVmZqWnhpRVZVbTVGSmdVS2YxYU9la1hWenVR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-08-21-panama-arrested-six-people-accused-of-diverting-a-stream-s-c",
+      "date": "2026-08-21",
+      "category": "arrest",
+      "title": "Panama arrested six people accused of diverting a stream's course to run an illegal mining operation in the area",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Panama arrested six people accused of diverting a stream's course to run an illegal mining operation in the area Vozpopuli",
+      "metrics": {},
+      "source": {
+        "name": "Vozpopuli",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZEdtOFBLRDN0c2NGNGY3aVFGM2lucHZvX1ZFd0VPMnhtS0t6aUpwM2hxQzQ2cnhYMG5maDR4aUpsRFFEZWVVVWxwSnYxRW9zdEI2NVBIYkZzYlRGVk9FNGJvZXBhRHBVVFAxd050VlEtbjF1b2ZUZmlPdF96VkZUQ00zbmZLOU1XaTlIYXpoV214OGRENkE4a3lFcUpHVE0tMEh2Yk45VzdzMUJfSDlHV2NRMmRDTTJYLVptOGEwWktkdnVTZkJvM2Z6Y2xLX0ptVWFCczJLTWxPd2h2a2lXTm1iUDFkdnM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZEdtOFBLRDN0c2NGNGY3aVFGM2lucHZvX1ZFd0VPMnhtS0t6aUpwM2hxQzQ2cnhYMG5maDR4aUpsRFFEZWVVVWxwSnYxRW9zdEI2NVBIYkZzYlRGVk9FNGJvZXBhRHBVVFAxd050VlEtbjF1b2ZUZmlPdF96VkZUQ00zbmZLOU1XaTlIYXpoV214OGRENkE4a3lFcUpHVE0tMEh2Yk45VzdzMUJfSDlHV2NRMmRDTTJYLVptOGEwWktkdnVTZkJvM2Z6Y2xLX0ptVWFCczJLTWxPd2h2a2lXTm1iUDFkdnM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-21-naimos-the-fight-against-illegal-mining-must-end-in-environm",
+      "date": "2026-08-21",
+      "category": "reclamation",
+      "title": "NAIMOS: The Fight Against Illegal Mining Must End in Environmental Restoration",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS: The Fight Against Illegal Mining Must End in Environmental Restoration News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpCSUxZS095LWkwZ0NEVmlkTVNBMGY5RmptZThnRlE1LXBJdFhDOWVYZTVDNE80VnNVTHpHSVczcWhKTE5LWGpibGg2Vm9SanA1VUZfcDJWdjZ4anJHTk00ZDFUUEdycGc5Sl9XUWV3akF4ZG9zSm1CSlVRaTgxcWdDejd6VDJVa0RCZkFVaDN6eUlDVnZpSGRRSDRUVWZ5bkVtZ1BR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpCSUxZS095LWkwZ0NEVmlkTVNBMGY5RmptZThnRlE1LXBJdFhDOWVYZTVDNE80VnNVTHpHSVczcWhKTE5LWGpibGg2Vm9SanA1VUZfcDJWdjZ4anJHTk00ZDFUUEdycGc5Sl9XUWV3akF4ZG9zSm1CSlVRaTgxcWdDejd6VDJVa0RCZkFVaDN6eUlDVnZpSGRRSDRUVWZ5bkVtZ1BR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-21-there-is-no-fight-against-illegal-mining-activities-in-ghana",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "'There is no fight against illegal mining activities in Ghana'",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"There is no fight against illegal mining in Ghana. There is open for all illegal mining activities in Ghana, where is the fight \", he asked.",
+      "metrics": {},
+      "source": {
+        "name": "Manhyia North MP argues",
+        "url": "https://3news.com/news/there-is-no-fight-against-illegal-mining-activities-in-ghana-manhyia-north-mp"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/there-is-no-fight-against-illegal-mining-activities-in-ghana-manhyia-north-mp",
       "via": "rss",
       "verified": false
     },
@@ -2931,18 +3008,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
       "via": "rss",
       "verified": false
     },
