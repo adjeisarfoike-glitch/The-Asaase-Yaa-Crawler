@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-21T18:59:33.635Z",
+  "updated": "2026-08-22T01:54:51.802Z",
   "counts": {
-    "total": 391,
+    "total": 392,
     "verified": 28,
-    "automated": 363,
+    "automated": 364,
     "earliest": "2024-07-01",
     "latest": "2026-08-21"
   },
@@ -202,6 +202,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "Newsfile to discuss nationwide blackouts, GoldBod controversy, galamsey and water quality",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "This Saturday on Newsfile, we take a hard look at three issues at the heart of Ghana’s economic security, public infrastructure and everyday life: the state of the power sector, GoldBod’s financial and operational performance, and the growing threat galamsey poses to the water we drink.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/newsfile-to-discuss-nationwide-blackouts-goldbod-controversy-galamsey-and-water-quality/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/newsfile-to-discuss-nationwide-blackouts-goldbod-controversy-galamsey-and-water-quality/",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-20-galamsey-fight-must-go-beyond-empty-slogans-it-requires-cons",
       "date": "2026-08-20",
       "category": "water",
@@ -279,6 +298,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uS2pjcklBNFJvLUVVRnp1ZmNnd1V1YW1JbmlacFhWbUZHRDU2SXBOc3JDS3JPWjJ6SmszTjdCVGVaWDJBVENrMVZOVERLVTV2ZFFTaHhBQWRzWWtDMDlB0gFcQVVfeXFMUFRnekpZaG9QYVJ6TmJIdE9zVVJkbDMzY0I1bVg1b0JrS043bmUzU3pWeHNBZVk1MFNId0tSSzhXTHhKNEZHTEFtbW9fMGFmVG15TVJ4cEFLa0IwY04?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-22T01:54:12.700Z",
       "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
     },
     {
@@ -3008,18 +3028,18 @@
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26)",
+      "title": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah.",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah (12-8-26) Modern Ghana",
+      "summary": "The galamsey fight, one year after helicopter clash | PM Express with Evans Mensah. Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE92QTV6ZUNmbkNsbDdERW95MUE4MDBxMnhvS0tRTlVZaElEdzctY2dKZ25fakY2Mk9zcno1SmFjRFJPc2ZUWlpqd1hPN0I5eHpJWldOLVB2VGdZcHB2NTdiLU1iNE_SAVxBVV95cUxNLV9aQ0lBRS1zVXpyWU1pcENqS0FBQ0EyOXZhNnA1SjlPY2tfclRxUTJIWllvbGZ3U3JTY2xoXzl5aENBWTVqSXNNM1oydzU3Y1o3clplbjRRR0NhYg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZOGVBR2xaMEpxRU5PQkktWk40LUdSWVp6bV93UnFsb1lLUjZjWHNmUURTc042NExERDhzbXJGOWFrbG9KdXpBSHRPbkFVZVlXaEpiWkw0dXV3dHVCalpaOWxBei3SAVxBVV95cUxQUmk0Mk90U3h3NVEzdkZKTkZYQ0JyMlVzenJWV0hiOFVoUGFickNTZ3NfUFJqNHZhUXVMTlhFeWZLdUFkUXBrZkh1ZlBNR3pXZmZDRWV3dzBxU3pkVg?oc=5",
       "via": "rss",
       "verified": false
     },
