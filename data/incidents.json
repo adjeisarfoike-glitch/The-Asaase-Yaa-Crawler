@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-22T13:04:05.463Z",
+  "updated": "2026-08-22T18:52:16.462Z",
   "counts": {
-    "total": 404,
+    "total": 412,
     "verified": 28,
-    "automated": 376,
+    "automated": 384,
     "earliest": "2024-07-01",
     "latest": "2026-08-22"
   },
@@ -25,7 +25,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPanB3VG1NcTY3Z0ZBRnQ1UjAybkp4T2tqaVlnQzdNTmZ4ZUJtNnBiUUN1a01uVmFDT1N0cUFHM1ZhTVlSYnZ6QTZjN05MYm1scTFub2tWeFg1dTBaVnUyQ3BLeHlXdlUwcy1mQUxqMHFuS0MyVXJkdmZsY05mQnY1YVFMbjdPMTBTRGFzTnlqeWdMNGhmSzMwcjR5bENlV0RFVnIwcExaemVHLXVlcHk3eGx6Yy1kZmRMRGpVRkJB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-22T18:47:51.789Z",
+      "thread": "t-auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g"
     },
     {
       "id": "auto-2026-08-22-live-the-keypoints-goldbod-and-the-economy-the-galamsey-figh",
@@ -65,6 +67,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zQnlCQkNsTnZxcVFtSmF0djlNYU5mZ29tM1gzSVBTZjFBUFVZdG83NGlGcU5kaEJiYnlXbURSRTByNlZualB4aFV2SkoxbnhfMkRXUFNVOU52OEdnZzVEY243R3XSAVxBVV95cUxPazdSMDJ4SUJMMXN3bVNVWm44RHhRdGxGSXJ4ZDhSa3B4dExMdUhqZk1POHhPcXdjYWhJS3dxVXdHNklzX3pfNGlaemRoQzVfcFpxZ3JSbFd2Sy16ZA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-22T18:48:22.630Z",
       "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
     },
     {
@@ -103,7 +106,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxPdC14Q1pnWDVrSnFNQnRNdDIxV3ppbmV1TUFfOFItNVZ3dkUxVDdQb0ZBY3ZOWGNERkxYOWtpVXhsZk9DRzdpX0diZ1ZMYUR2dGk0czJaUnQwcjNBSFg4U0dvcmZXa3RPZ3AwYXY1a1J4ZDI0bFoxQlJsYzRGMVBGX2FMeFNkQXJlcks4R0JCcUZ6ZUZOY3NqLUpjQ2pkOVJMRXpuVE5vYw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
     },
     {
       "id": "auto-2026-08-22-galamsey-has-become-a-livelihood-an-endemic-problem-senyo-ho",
@@ -183,6 +187,164 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-08-22-galamsey-and-water-quality-worsening-newsfile",
+      "date": "2026-08-22",
+      "category": "forest",
+      "title": "Galamsey and water quality worsening? | Newsfile",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey and water quality worsening? | Newsfile Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRXdHMHFrVDJsVThQQW5QRWpDNVpkOFZLUy1QMkxPMVJDUUoyQjhfcW02VUxqUm04NjdIb0tTRGVfYkpwcmdfOVMtaF9iYmFhRTEtMnVoRE45Q19NZFhnNldMdU3SAVxBVV95cUxPYWpWYzlwOHlLcVVFaTRpZjNZX0FFelR5QUh4d3RBSWJobnp3VVZCbTI4OTI1dFQyVm5hZGt0RGFZaGM2YkE0Z2RnSkRlZEhYNEFiNW1kaG9uWDN3dg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfRXdHMHFrVDJsVThQQW5QRWpDNVpkOFZLUy1QMkxPMVJDUUoyQjhfcW02VUxqUm04NjdIb0tTRGVfYkpwcmdfOVMtaF9iYmFhRTEtMnVoRE45Q19NZFhnNldMdU3SAVxBVV95cUxPYWpWYzlwOHlLcVVFaTRpZjNZX0FFelR5QUh4d3RBSWJobnp3VVZCbTI4OTI1dFQyVm5hZGt0RGFZaGM2YkE0Z2RnSkRlZEhYNEFiNW1kaG9uWDN3dg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+    },
+    {
+      "id": "auto-2026-08-22-galamsey-is-funding-our-politics-churches-and-media-senyo-ho",
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "Galamsey is funding our politics, churches, and media - Senyo Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is funding our politics, churches, and media - Senyo Hosi Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMjdpX2NES0tBLVJmbW1nT09zaGZqWFIwQ05UZUZUcHZGSXhrUDcxV0VVRXJvV1BROXp2cUJCejlPM3JlSU5QTGtSb2l3SkNEcWk3RjdpY1Vqb0hjVlRLVjJRdU7SAVxBVV95cUxPNWR5YjhTTHk4MWFwanNYMUItMlFuMHhWclRXT1RTNFJkOUJzNnJjSG1ybHhZNktqQlFvOEp0dzBuNjFVTlN2X1k1VGh5NW01U2djX3BRS2ZSeFpmYg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YMjdpX2NES0tBLVJmbW1nT09zaGZqWFIwQ05UZUZUcHZGSXhrUDcxV0VVRXJvV1BROXp2cUJCejlPM3JlSU5QTGtSb2l3SkNEcWk3RjdpY1Vqb0hjVlRLVjJRdU7SAVxBVV95cUxPNWR5YjhTTHk4MWFwanNYMUItMlFuMHhWclRXT1RTNFJkOUJzNnJjSG1ybHhZNktqQlFvOEp0dzBuNjFVTlN2X1k1VGh5NW01U2djX3BRS2ZSeFpmYg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
+      "id": "auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala",
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "‘Why Has Government Not Declared a State of Emergency on Galamsey?’ - Mike Oquaye",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Why Has Government Not Declared a State of Emergency on Galamsey?’ - Mike Oquaye Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BU2M2WXBlekt0cFJGbTBVSmNBWVdITVk0TnRvem95V2xSUkpXWUsyaDNPZmZMNjVLOE53TXZ2MWU0T0lMYnhJZ1lYcDZtdXpzWUY0X3Jmc2RYZ0xWZFhB0gFcQVVfeXFMTjBTX0sxbFpReldDdDBvZFFQaWN4OXMtS2hRVmFoTmZCN2JXQlBabmExRkFRa2FBYVRjYWZmMjlfS2lMU1ZnRVZ0bEl5LWpZc3M4YVZ3LU9EMkZNc1Y?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BU2M2WXBlekt0cFJGbTBVSmNBWVdITVk0TnRvem95V2xSUkpXWUsyaDNPZmZMNjVLOE53TXZ2MWU0T0lMYnhJZ1lYcDZtdXpzWUY0X3Jmc2RYZ0xWZFhB0gFcQVVfeXFMTjBTX0sxbFpReldDdDBvZFFQaWN4OXMtS2hRVmFoTmZCN2JXQlBabmExRkFRa2FBYVRjYWZmMjlfS2lMU1ZnRVZ0bEl5LWpZc3M4YVZ3LU9EMkZNc1Y?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-22-jomoro-will-revive-coconut-business-instead-of-engaging-in-g",
+      "date": "2026-08-22",
+      "category": "forest",
+      "title": "Jomoro will revive coconut business instead of engaging in galamsey – Paramount Chief",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Jomoro will revive coconut business instead of engaging in galamsey – Paramount Chief Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUV6d3B2RDhRZHB1YWUwSFI3VTdCaC1xa3hXaWdUR3Aya29hdElmNzJNM2N0OEh2Uk1pUXFHN01CTnBmbVlQUGtyVXJWRk1XN3BqVWtwLXFsTmJBZlJWTUJ5cjVKZ1dWUzlSWVBZcjhOT2F4Q3pIdlJqNF9XV3I2bEZ1Y1VDQ1hNUV9kY1o5bW1udDVodXZrSVoyU2ZtS3RXOG5OeGhLN2U1T05aemM3OA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUV6d3B2RDhRZHB1YWUwSFI3VTdCaC1xa3hXaWdUR3Aya29hdElmNzJNM2N0OEh2Uk1pUXFHN01CTnBmbVlQUGtyVXJWRk1XN3BqVWtwLXFsTmJBZlJWTUJ5cjVKZ1dWUzlSWVBZcjhOT2F4Q3pIdlJqNF9XV3I2bEZ1Y1VDQ1hNUV9kY1o5bW1udDVodXZrSVoyU2ZtS3RXOG5OeGhLN2U1T05aemM3OA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g"
+    },
+    {
+      "id": "auto-2026-08-22-9-blue-water-guards-arrested-for-alleged-bribery-impersonati",
+      "date": "2026-08-22",
+      "category": "arrest",
+      "title": "9 Blue Water Guards arrested for alleged bribery, impersonation of NAIMOS operatives",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "9 Blue Water Guards arrested for alleged bribery, impersonation of NAIMOS operatives CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0F0YUZnNXlkTks1YXZWYVpESW9UNmd0TU9LYWx6bjNSWWVvOTVidjNTTWZuT2RIVW01dGhtUWZyMVJLTy1raTBJWE9RNFFHdUtsckdhTzlRUngtbmdHSmhxazFCVmVxNDN4NzZUM2Fsc1duMlZMZGp5YXZmTjZZMzg3QVRJV0VobUMzVGZzWHl4Qy1UUF9tQWxOM2pnSzh6SkFUZTdna2FGRWdZMTIyUWc5TmI5Mm9KTEpJNThn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0F0YUZnNXlkTks1YXZWYVpESW9UNmd0TU9LYWx6bjNSWWVvOTVidjNTTWZuT2RIVW01dGhtUWZyMVJLTy1raTBJWE9RNFFHdUtsckdhTzlRUngtbmdHSmhxazFCVmVxNDN4NzZUM2Fsc1duMlZMZGp5YXZmTjZZMzg3QVRJV0VobUMzVGZzWHl4Qy1UUF9tQWxOM2pnSzh6SkFUZTdna2FGRWdZMTIyUWc5TmI5Mm9KTEpJNThn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-08-22-9-blue-water-guards-nabbed-for-alleged-bribery-impersonating",
+      "date": "2026-08-22",
+      "category": "arrest",
+      "title": "9 Blue Water Guards nabbed for alleged bribery, impersonating NAIMOS officials",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "9 Blue Water Guards nabbed for alleged bribery, impersonating NAIMOS officials Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmVMQnZqSHNmaHhPbkt6dU1fZlhCQWxpWWNySDNnNDVDTl80X2dwa1BtSTRJZnJIdGI0RmFVam9wejYxZlFkbGpTMmRmejA5eWN6c1NpMTZiTkc4VWRvZURvdmEzWTVQNHFCWWNreENVLXlVeVpqTEwtZ0tlUGNFT2hGbG1NdjBSZVphRGd5SVlkSkdHZFpfT3U2M3I5YnFtMWRQM0puWS0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmVMQnZqSHNmaHhPbkt6dU1fZlhCQWxpWWNySDNnNDVDTl80X2dwa1BtSTRJZnJIdGI0RmFVam9wejYxZlFkbGpTMmRmejA5eWN6c1NpMTZiTkc4VWRvZURvdmEzWTVQNHFCWWNreENVLXlVeVpqTEwtZ0tlUGNFT2hGbG1NdjBSZVphRGd5SVlkSkdHZFpfT3U2M3I5YnFtMWRQM0puWS0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no",
+      "date": "2026-08-22",
+      "category": "forest",
+      "title": "Galamsey: Akufo-Addo’s gov’t tried and failed, NDC gov’t is not trying – Kofi Bentil",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Akufo-Addo’s gov’t tried and failed, NDC gov’t is not trying – Kofi Bentil MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTlTQkdBbFpTR3pDdnpvS3ZYY3p3VlFNUGQ0b0NWNWN5SjRRZWs4dHlzelVPN05qOXFsZ1k5X3JBVVhwQXVXeEpVY0xVZzh3Y0t3a0w5MGJKTXZvUUpLSDVZUVNVdW9RNDZ6SWo4dGd1cV9BRXNhMF80MG4wd0ZJS2JQUjhBVV9nX2ZYZTZkeXo1RUFaVVpzbWtrbm9MUjZ3bEkwdVF4WU93dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTlTQkdBbFpTR3pDdnpvS3ZYY3p3VlFNUGQ0b0NWNWN5SjRRZWs4dHlzelVPN05qOXFsZ1k5X3JBVVhwQXVXeEpVY0xVZzh3Y0t3a0w5MGJKTXZvUUpLSDVZUVNVdW9RNDZ6SWo4dGd1cV9BRXNhMF80MG4wd0ZJS2JQUjhBVV9nX2ZYZTZkeXo1RUFaVVpzbWtrbm9MUjZ3bEkwdVF4WU93dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-22-tano-north-chiefs-tackle-police-over-routine-release-of-arre",
+      "date": "2026-08-22",
+      "category": "arrest",
+      "title": "Tano North chiefs tackle police over ‘routine release’ of arrested illegal miners",
+      "place": "Ahafo Region",
+      "region": "Ahafo",
+      "lat": 6.8,
+      "lon": -2.52,
+      "summary": "Traditional authorities in the Tano North Municipality of the Ahafo Region have expressed deep frustration over the routine release of arrested illegal miners, warning that law enforcement failure is severely undermining local efforts to curb widespread illegal mining, locally known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/tano-north-chiefs-tackle-police-over-routine-release-of-arrested-illegal-miners/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/tano-north-chiefs-tackle-police-over-routine-release-of-arrested-illegal-miners/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
     },
     {
       "id": "auto-2026-08-21-arise-ghana-demands-stronger-commitment-to-end-galamsey",
