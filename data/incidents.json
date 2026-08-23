@@ -1,13 +1,53 @@
 {
-  "updated": "2026-08-23T02:02:42.403Z",
+  "updated": "2026-08-23T07:04:08.372Z",
   "counts": {
-    "total": 415,
+    "total": 417,
     "verified": 28,
-    "automated": 387,
+    "automated": 389,
     "earliest": "2024-07-01",
-    "latest": "2026-08-22"
+    "latest": "2026-08-23"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Wildlife guard shot dead during Kakum patrol",
+      "place": "Kakum",
+      "region": "Central",
+      "lat": 5.42,
+      "lon": -1.38,
+      "summary": "A routine patrol in the Kakum Forest Reserve ended in tragedy on Saturday, August 22, 2026, after a wildlife resource guard was allegedly shot dead by a suspected poacher in the Assin Kruwa area of the Central Region.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/wildlife-guard-shot-dead-during-kakum-patrol/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/wildlife-guard-shot-dead-during-kakum-patrol/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-08-23-tragedy-at-kakum-wildlife-guard-shot-dead-by-suspected-poach",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Tragedy at Kakum: Wildlife guard shot dead by suspected poacher during patrol",
+      "place": "Kakum",
+      "region": "Central",
+      "lat": 5.42,
+      "lon": -1.38,
+      "summary": "A 58-year-old Wildlife Resource Guard has been shot and killed by a suspected poacher during a routine patrol in the Kakum Forest Reserve in the Central Region. The deceased, Richard Otwey, was attached to the Kakum Wildlife Division of the Forestry Commission and was on patrol with two other forestry guards on Saturday, August 22, […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/tragedy-at-kakum-wildlife-guard-shot-dead-by-suspected-poacher-during-patrol/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/tragedy-at-kakum-wildlife-guard-shot-dead-by-suspected-poacher-during-patrol/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
     {
       "id": "auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g",
       "date": "2026-08-22",
