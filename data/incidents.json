@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-23T07:04:08.372Z",
+  "updated": "2026-08-23T13:07:01.511Z",
   "counts": {
-    "total": 417,
+    "total": 425,
     "verified": 28,
-    "automated": 389,
+    "automated": 397,
     "earliest": "2024-07-01",
     "latest": "2026-08-23"
   },
@@ -44,6 +44,144 @@
         "url": "https://www.adomonline.com/tragedy-at-kakum-wildlife-guard-shot-dead-by-suspected-poacher-during-patrol/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/tragedy-at-kakum-wildlife-guard-shot-dead-by-suspected-poacher-during-patrol/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-08-23-galamsey-when-the-last-fish-and-crop-die-will-we-eat-the-mon",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Galamsey: When the last fish and crop die, will we eat the money? – Juliana Odame writes",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: When the last fish and crop die, will we eat the money? – Juliana Odame writes CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjZaQ21LWWZrN2s3Qlg5RlFsY1NPOWdzR3ByY084OUtCWXAxZTJYNnRvUXBaRzAwbEQ2dm5oejYwVS1hNjlXbmgxbTI2M1hHMUN2aXZKMXVRWFJOd1lFNU56QnAyTS0zNW1VN19NRjd2QVZPY1JxeW5fOExJdm9NUzlZdzlkb1VBdDZBSjZfa3dhSi1FM3NLUnBWdGZ4eUVBZDRpaWp1eXZWWlhUR2xpNUVic1VEdk1yODE3VE9R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjZaQ21LWWZrN2s3Qlg5RlFsY1NPOWdzR3ByY084OUtCWXAxZTJYNnRvUXBaRzAwbEQ2dm5oejYwVS1hNjlXbmgxbTI2M1hHMUN2aXZKMXVRWFJOd1lFNU56QnAyTS0zNW1VN19NRjd2QVZPY1JxeW5fOExJdm9NUzlZdzlkb1VBdDZBSjZfa3dhSi1FM3NLUnBWdGZ4eUVBZDRpaWp1eXZWWlhUR2xpNUVic1VEdk1yODE3VE9R?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-23-jomoro-to-revive-coconut-business-instead-of-engaging-in-gal",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Jomoro to revive coconut business instead of engaging in galamsey – Paramount Chief",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Jomoro to revive coconut business instead of engaging in galamsey – Paramount Chief Ghana Business News",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXpkUnVHM3c4LUthM1BpX3lZNFNkTUw2d3lVWXA1bHhLNnRhWGJ5RnA3RmdEeHFIZFpVZHpMaUJFS3paM19iejJrazdMci05QXg4UGNXS1JLOERta0RQMHJTMHRjOWdQUmhVREhsdEU5bGs0MHRUd0xpd1oyWjVsYjk2LWZJV0I4WXZYWm1MR3pIRC0waGRLN1FONmpXZk50ZG04WGVpS1l0VjZIY2VTMUdBY1hwUld3dllWSGJ1V0p1cHdsZmc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXpkUnVHM3c4LUthM1BpX3lZNFNkTUw2d3lVWXA1bHhLNnRhWGJ5RnA3RmdEeHFIZFpVZHpMaUJFS3paM19iejJrazdMci05QXg4UGNXS1JLOERta0RQMHJTMHRjOWdQUmhVREhsdEU5bGs0MHRUd0xpd1oyWjVsYjk2LWZJV0I4WXZYWm1MR3pIRC0waGRLN1FONmpXZk50ZG04WGVpS1l0VjZIY2VTMUdBY1hwUld3dllWSGJ1V0p1cHdsZmc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g"
+    },
+    {
+      "id": "auto-2026-08-23-this-nonsense-must-stop-senyo-hosi-on-failed-galamsey-fight",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "'This nonsense must stop' - Senyo Hosi on failed galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'This nonsense must stop' - Senyo Hosi on failed galamsey fight GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUpIMmR2NkFETkxTLWwtMDlJM002MVFQQlEzbms3SVFRc3Q0eXdkTkFFVkRRaFNiQ0dqQU4wZWNSYTkwV3RUbEJBSnRvWXpBN3AyZmNGbmdlaGlibFdnbzlITnlTOWlHbWtVMUZtX2NxQ09tOW0ycDRsMWtQcy13c2hxdnFwRXo1RmlQOWw0OTJtWVVGRDlJLTdCbThzZTh0MUZRVUZVQnVrOWlqaHZwNFpRRVo5WVc0clE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQMUpIMmR2NkFETkxTLWwtMDlJM002MVFQQlEzbms3SVFRc3Q0eXdkTkFFVkRRaFNiQ0dqQU4wZWNSYTkwV3RUbEJBSnRvWXpBN3AyZmNGbmdlaGlibFdnbzlITnlTOWlHbWtVMUZtX2NxQ09tOW0ycDRsMWtQcy13c2hxdnFwRXo1RmlQOWw0OTJtWVVGRDlJLTdCbThzZTh0MUZRVUZVQnVrOWlqaHZwNFpRRVo5WVc0clE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
+      "id": "auto-2026-08-23-mces-collecting-fees-from-galamseyers-are-facilitating-illeg",
+      "date": "2026-08-23",
+      "category": "prosecution",
+      "title": "MCEs collecting fees from galamseyers are facilitating illegality – Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the Media Coalition Against Galamsey, Ing. Ken Ashigbey, has accused some Metropolitan, Municipal and District Assemblies (MMDAs) of facilitating illegal mining by collecting fees and charges from persons engaged in galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/mces-collecting-fees-from-galamseyers-are-facilitating-illegality-ken-ashigbey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mces-collecting-fees-from-galamseyers-are-facilitating-illegality-ken-ashigbey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-23-wildlife-guard-killed-by-suspected-poacher-at-kakum-forest-r",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Wildlife guard killed by suspected poacher at Kakum Forest Reserve",
+      "place": "Kakum",
+      "region": "Central",
+      "lat": 5.42,
+      "lon": -1.38,
+      "summary": "A 58-year-old Wildlife Resource Guard, Richard Otwey, has been shot dead by a suspected poacher during a patrol operation at the Kakum Forest Reserve in the Assin South District of the Central Region. The deceased, who was attached to the Kakum Wildlife Division of the Forestry Commission, was on patrol with two other forestry guards when they reportedly encountered two men hunting inside the protected forest. The in",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/wildlife-guard-killed-by-suspected-poacher-at-kakum-forest-reserve.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/wildlife-guard-killed-by-suspected-poacher-at-kakum-forest-reserve.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-08-23-can-chairman-wontumi-legally-contest-npp-national-chairmansh",
+      "date": "2026-08-23",
+      "category": "arrest",
+      "title": "Can Chairman Wontumi legally contest NPP national chairmanship?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wontumi is serving 20 years for illegal mining yet has picked up NPP chairmanship forms. This article examines what Ghana's Constitution says about his eligibility.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/opinion/can-chairman-wontumi-legally-contest-npp-national-chairmanship"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/opinion/can-chairman-wontumi-legally-contest-npp-national-chairmanship",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-23-suspected-poacher-shoots-wildlife-guard-dead-in-kakum-forest",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Suspected poacher shoots wildlife guard dead in Kakum Forest",
+      "place": "Kakum",
+      "region": "Central",
+      "lat": 5.42,
+      "lon": -1.38,
+      "summary": "A wildlife resource guard was shot dead by a suspected poacher during a patrol in the Kakum Forest Reserve, local media said Sunday. Richard Otwey, who was attached to the Wildlife Division of the Forestry Commission, was on patrol with two other guards on Saturday when they allegedly encountered two... The post Suspected poacher shoots wildlife guard dead in Kakum Forest appeared first on Asaase Radio .",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/suspected-poacher-shoots-wildlife-guard-dead-in-kakum-forest/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/suspected-poacher-shoots-wildlife-guard-dead-in-kakum-forest/",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
@@ -167,6 +305,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-has-become-a-livelihood-an-endemic-problem-senyo-hosi/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-23T13:05:48.134Z",
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
@@ -386,19 +525,19 @@
     {
       "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
       "date": "2026-08-22",
-      "category": "prosecution",
-      "title": "Some assemblies are collecting fees and levies at galamsey sites",
+      "category": "forest",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
+      "summary": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey 3News",
       "metrics": {},
       "source": {
-        "name": "Ken Ashigbey",
-        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3176,6 +3315,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres"
+    },
+    {
+      "id": "auto-2026-08-13-betterland-gives-gtv-3-days-to-retract-false-and-defamatory-",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "Betterland gives GTV 3 days to retract ‘false and defamatory’ galamsey report",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Betterland gives GTV 3 days to retract ‘false and defamatory’ galamsey report Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjZJWExaUE9fRjZFdEJncVZPdjBYS3RGZFU0UURIT21NblJjQVI1NWg3T2RJUzdPNGdXbWF1MlhwR2lVd2NaTDh2XzlxNXd3ZHJXcko2cjJFQ0REd0JtYzloVmw4QkdBSTVsVEU5akRnWlk1ZVNBczM3ZVBuOFExeHd4Z1BRR0VPQkQ5czdzQ1RHMm930gGTAUFVX3lxTE83VWNtclY5MEJIcmNkdndoN2J2a2ZiYndYRHdXenVDYk54VFI1N0J1dXlHZm5FalpjT3lOdmlkb19fRmNQZi14VU80ZUdJbk1ZcHYtenFfNkVvR2FiMmtfeUZDMDZtNmdfWlJ4Mnc4VkI3LVRPNlpUME9KZTdNSEIycjBRN3pTRXVjOTg2d0dmeDJlOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjZJWExaUE9fRjZFdEJncVZPdjBYS3RGZFU0UURIT21NblJjQVI1NWg3T2RJUzdPNGdXbWF1MlhwR2lVd2NaTDh2XzlxNXd3ZHJXcko2cjJFQ0REd0JtYzloVmw4QkdBSTVsVEU5akRnWlk1ZVNBczM3ZVBuOFExeHd4Z1BRR0VPQkQ5czdzQ1RHMm930gGTAUFVX3lxTE83VWNtclY5MEJIcmNkdndoN2J2a2ZiYndYRHdXenVDYk54VFI1N0J1dXlHZm5FalpjT3lOdmlkb19fRmNQZi14VU80ZUdJbk1ZcHYtenFfNkVvR2FiMmtfeUZDMDZtNmdfWlJ4Mnc4VkI3LVRPNlpUME9KZTdNSEIycjBRN3pTRXVjOTg2d0dmeDJlOA?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
