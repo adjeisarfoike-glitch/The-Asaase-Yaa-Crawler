@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-22T18:52:16.462Z",
+  "updated": "2026-08-23T02:02:42.403Z",
   "counts": {
-    "total": 412,
+    "total": 415,
     "verified": 28,
-    "automated": 384,
+    "automated": 387,
     "earliest": "2024-07-01",
     "latest": "2026-08-22"
   },
@@ -146,8 +146,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/9-blue-water-guards-arrested-over-alleged-bribery-in-ashanti-region",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2026-04-30-mpatasie"
+      "verified": false
     },
     {
       "id": "auto-2026-08-22-the-1-7bn-goldbod-losses-sit-in-the-books-of-the-bank-of-gha",
@@ -284,8 +283,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0F0YUZnNXlkTks1YXZWYVpESW9UNmd0TU9LYWx6bjNSWWVvOTVidjNTTWZuT2RIVW01dGhtUWZyMVJLTy1raTBJWE9RNFFHdUtsckdhTzlRUngtbmdHSmhxazFCVmVxNDN4NzZUM2Fsc1duMlZMZGp5YXZmTjZZMzg3QVRJV0VobUMzVGZzWHl4Qy1UUF9tQWxOM2pnSzh6SkFUZTdna2FGRWdZMTIyUWc5TmI5Mm9KTEpJNThn?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2026-04-30-mpatasie"
+      "verified": false
     },
     {
       "id": "auto-2026-08-22-9-blue-water-guards-nabbed-for-alleged-bribery-impersonating",
@@ -304,8 +302,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmVMQnZqSHNmaHhPbkt6dU1fZlhCQWxpWWNySDNnNDVDTl80X2dwa1BtSTRJZnJIdGI0RmFVam9wejYxZlFkbGpTMmRmejA5eWN6c1NpMTZiTkc4VWRvZURvdmEzWTVQNHFCWWNreENVLXlVeVpqTEwtZ0tlUGNFT2hGbG1NdjBSZVphRGd5SVlkSkdHZFpfT3U2M3I5YnFtMWRQM0puWS0?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2026-04-30-mpatasie"
+      "verified": false
     },
     {
       "id": "auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no",
@@ -345,6 +342,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+    },
+    {
+      "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
+      "date": "2026-08-22",
+      "category": "prosecution",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
+      "metrics": {},
+      "source": {
+        "name": "Ken Ashigbey",
+        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-22-nine-blue-water-guards-arrested-over-alleged-bribery-mperson",
+      "date": "2026-08-22",
+      "category": "arrest",
+      "title": "Nine Blue Water Guards arrested over alleged bribery, mpersonation of NAIMOS at Manso Adubia",
+      "place": "Manso Adubia",
+      "region": "Ashanti",
+      "lat": 6.15,
+      "lon": -1.98,
+      "summary": "Nine Blue Water Guards arrested over alleged bribery, mpersonation of NAIMOS at Manso Adubia Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXRwWmxqN1doMC1LRGtiMGZ2ajFUeEVQZEg1X0NrYTlJdXFUZy1CSEptVXYzMmlBMXhxNkN3LUxmRFJ2Sm04cWswNzNaLWdQbnFMNDBjVkhPdzAteU0zcVM5V3hGWlExOTRmTTZMeWNWSFNvX0dWamJ4ZnZTcnRSUHNTUnlfWHY3T2RJaEN2cjJzZkpPQmhrMWZHY9IBmwFBVV95cUxNYXRwWmxqN1doMC1LRGtiMGZ2ajFUeEVQZEg1X0NrYTlJdXFUZy1CSEptVXYzMmlBMXhxNkN3LUxmRFJ2Sm04cWswNzNaLWdQbnFMNDBjVkhPdzAteU0zcVM5V3hGWlExOTRmTTZMeWNWSFNvX0dWamJ4ZnZTcnRSUHNTUnlfWHY3T2RJaEN2cjJzZkpPQmhrMWZHYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXRwWmxqN1doMC1LRGtiMGZ2ajFUeEVQZEg1X0NrYTlJdXFUZy1CSEptVXYzMmlBMXhxNkN3LUxmRFJ2Sm04cWswNzNaLWdQbnFMNDBjVkhPdzAteU0zcVM5V3hGWlExOTRmTTZMeWNWSFNvX0dWamJ4ZnZTcnRSUHNTUnlfWHY3T2RJaEN2cjJzZkpPQmhrMWZHY9IBmwFBVV95cUxNYXRwWmxqN1doMC1LRGtiMGZ2ajFUeEVQZEg1X0NrYTlJdXFUZy1CSEptVXYzMmlBMXhxNkN3LUxmRFJ2Sm04cWswNzNaLWdQbnFMNDBjVkhPdzAteU0zcVM5V3hGWlExOTRmTTZMeWNWSFNvX0dWamJ4ZnZTcnRSUHNTUnlfWHY3T2RJaEN2cjJzZkpPQmhrMWZHYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
       "id": "auto-2026-08-21-arise-ghana-demands-stronger-commitment-to-end-galamsey",
@@ -597,6 +633,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-statement-must-pivot-around-job-creation-greater-transparency-csos-to-government.html",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-21-playback-newsfile-discussed-nationwide-blackouts-goldbod-con",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "Playback: Newsfile discussed nationwide blackouts, GoldBod controversy, galamsey and water quality",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Playback: Newsfile discussed nationwide blackouts, GoldBod controversy, galamsey and water quality MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQTE2U3BlV1hYZUhXYkQ2Q2tJV25XZE1UQTZ3NHdkN0loUnFTNDJabElDTGwzd21uMnpXdDBQc1d4MXpBWTN2OWtLZlpKWWtNWU9uV2RrZC1IZ0hBVk5FM0V3OHBRbDBBT1VLY2dlVXlIcDJGVmd5MlNmWGUxblFic0VOZTc0RVhGaThYTnBrX1FiUHk1MWNVVnMxY2tsc1pQc0lkbE9JdUtfdGV6UmtKSm9MbmNLOHpuVHBtRTRPa2lrZzRTNGhyQUQ5ZWliVkozUGtqVXlqV0JxdWFONmZvRl9LUnJmM256UG14WGo2Y0d4cDJPeXFaejRKLXBnV0l2TVBqTkpRNzlPVVhGbFlIR2lyaGlsS2ZzM3djcmJ6LWdXdnk2QUgyV1BUX0hhREJCZk1vNnMtSjg1N0dMa3MyazM2UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQTE2U3BlV1hYZUhXYkQ2Q2tJV25XZE1UQTZ3NHdkN0loUnFTNDJabElDTGwzd21uMnpXdDBQc1d4MXpBWTN2OWtLZlpKWWtNWU9uV2RrZC1IZ0hBVk5FM0V3OHBRbDBBT1VLY2dlVXlIcDJGVmd5MlNmWGUxblFic0VOZTc0RVhGaThYTnBrX1FiUHk1MWNVVnMxY2tsc1pQc0lkbE9JdUtfdGV6UmtKSm9MbmNLOHpuVHBtRTRPa2lrZzRTNGhyQUQ5ZWliVkozUGtqVXlqV0JxdWFONmZvRl9LUnJmM256UG14WGo2Y0d4cDJPeXFaejRKLXBnV0l2TVBqTkpRNzlPVVhGbFlIR2lyaGlsS2ZzM3djcmJ6LWdXdnk2QUgyV1BUX0hhREJCZk1vNnMtSjg1N0dMa3MyazM2UQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
     },
     {
       "id": "auto-2026-08-20-galamsey-fight-must-go-beyond-empty-slogans-it-requires-cons",
@@ -6217,8 +6273,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFNKdzhLd0NwcVd1ZGF1bjRvaDhtV0lIaHdILUI4UmtxWlh6OGpfYnlWOFdqVUhxRkp2NGRhSUp6QktkYU1xbEI3YlM2RzBPRU1IdDU3Q2thVDV2RC1VMkFEZ2w0dkg0OUo2c3ljTXoxMWVXWnYzZVUxSWFGQnpwZWRMN0p3WlNPd3djZmluN19zLXZld2lxZTh5R1hVNWFjYTRnZk5EXzk5SUZiMzUydFAwSnNzUUs1WVFaakI0TXU?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2026-04-30-mpatasie"
+      "verified": false
     },
     {
       "id": "auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr",
