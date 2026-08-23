@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-23T13:07:01.511Z",
+  "updated": "2026-08-23T18:51:40.751Z",
   "counts": {
-    "total": 425,
+    "total": 428,
     "verified": 28,
-    "automated": 397,
+    "automated": 400,
     "earliest": "2024-07-01",
     "latest": "2026-08-23"
   },
@@ -185,6 +185,47 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-08-23-galamsey-fight-how-do-you-convince-a-14-year-old-earning-gh-",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Galamsey Fight: ‘How Do You Convince a 14-Year-Old Earning GH¢7,000 a Week to Stop?’ - Senyo Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: ‘How Do You Convince a 14-Year-Old Earning GH¢7,000 a Week to Stop?’ - Senyo Hosi Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SeDRITERtWTR6VEFoZUtlNk9WaVZFUEQzejVJZy00RHpXTHhUelU0NzIzT3J6ekdnQm5LZ203ZWZFT1VoSFBtYUtZLUI3ZEZ2V1BuTkJsOU1kZEhZWmhB0gFcQVVfeXFMT3hXREI3VnFTUDdlU2lVZ1RCUFJYTzhMYk1sc3ctQ0NkOXJQMVFkYVdCTjM2Wk9GR256cEpDdXRHZ2wxS0hKTWJKZlVSMm1Da0tjT3E5QVRscFJpS1M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SeDRITERtWTR6VEFoZUtlNk9WaVZFUEQzejVJZy00RHpXTHhUelU0NzIzT3J6ekdnQm5LZ203ZWZFT1VoSFBtYUtZLUI3ZEZ2V1BuTkJsOU1kZEhZWmhB0gFcQVVfeXFMT3hXREI3VnFTUDdlU2lVZ1RCUFJYTzhMYk1sc3ctQ0NkOXJQMVFkYVdCTjM2Wk9GR256cEpDdXRHZ2wxS0hKTWJKZlVSMm1Da0tjT3E5QVRscFJpS1M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
+      "id": "auto-2026-08-23-galamsey-destroys-over-100-acres-of-farmland-at-akyem-atobri",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Galamsey destroys over 100 acres of farmland at Akyem Atobriso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey destroys over 100 acres of farmland at Akyem Atobriso Adomonline.com",
+      "metrics": {
+        "acres": 100
+      },
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXU5bGtZbWhNRmczLVBnTDlualZUaHl6Z3N3QzV5c0FRRmttRldzZG5ieGEtUmppTVhPQXZvRV9BdzVIdWltQnhVd2lSTm5KUnNLMXNMQkpxRzFHUkhsZEtQSzBnSEVNUkJ0dDdiOTQtTkRTZTN5Vmg2VEN1V1dVakRKQU11ZHRDM1JzWFBvc21JcVg5?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXU5bGtZbWhNRmczLVBnTDlualZUaHl6Z3N3QzV5c0FRRmttRldzZG5ieGEtUmppTVhPQXZvRV9BdzVIdWltQnhVd2lSTm5KUnNLMXNMQkpxRzFHUkhsZEtQSzBnSEVNUkJ0dDdiOTQtTkRTZTN5Vmg2VEN1V1dVakRKQU11ZHRDM1JzWFBvc21JcVg5?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g",
@@ -525,19 +566,19 @@
     {
       "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
       "date": "2026-08-22",
-      "category": "forest",
-      "title": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey",
+      "category": "prosecution",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey 3News",
+      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
       "metrics": {},
       "source": {
-        "name": "3News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5"
+        "name": "Ken Ashigbey",
+        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
       "via": "rss",
       "verified": false
     },
@@ -1913,6 +1954,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-you-lack-information-on-the-true-state-of-galamsey-fight-jou"
+    },
+    {
+      "id": "auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on",
+      "date": "2026-08-18",
+      "category": "forest",
+      "title": "NAIMOS Has Cleared Nearly 49 Forests Reserves - Prez Mahama On Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Has Cleared Nearly 49 Forests Reserves - Prez Mahama On Galamsey Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
