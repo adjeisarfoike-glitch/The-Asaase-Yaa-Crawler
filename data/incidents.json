@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-24T13:17:07.766Z",
+  "updated": "2026-08-24T19:03:32.958Z",
   "counts": {
-    "total": 437,
+    "total": 444,
     "verified": 28,
-    "automated": 409,
+    "automated": 416,
     "earliest": "2024-07-01",
     "latest": "2026-08-24"
   },
@@ -63,6 +63,144 @@
         "url": "https://www.myjoyonline.com/any-growth-model-built-on-environmental-destruction-will-fail-prof-bokpin-on-galamsey/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/any-growth-model-built-on-environmental-destruction-will-fail-prof-bokpin-on-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-08-24-when-the-shovel-meets-the-cheque-galamsey-and-the-paradox-of",
+      "date": "2026-08-24",
+      "category": "water",
+      "title": "When the Shovel Meets the Cheque: Galamsey and the Paradox of the Poisoned River",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "When the Shovel Meets the Cheque: Galamsey and the Paradox of the Poisoned River Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0NBbWZ4SlNROGpNcDR5d2FqLUQxWUFVdXRfVGg4dUFiYTJ3RWtOTWczekJMTHpvSGZSVjFiVmZfalJLbmdYd1g1LXhaQXp2NV9xRXIzRlZQYkZsUG9VcGdwVzFkT1I2OS1fdGs2R2Z6MURDelhjTG80ay1IMjVzQXpMUFRROWNhMWZHLWxLZXhUSjdFcHfSAZQBQVVfeXFMTjdJN3lUTEQ2ZXlwYXYwZVpmNW80UC16RG5ZR2E3V2l3OFoycGZhYXVHNVpqLVRBZFJBUzc5dW5ZaHBEZ2hib3gtVUZERzlFeG5ESE9tRkZHYW9BUGZ1a3kydDlwMG85bjNqZzJSTzQ5WGpNVDI4SWx1emVhbVkzOFJmcFhoUnRyaldtR2pkSTJidDJUcg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0NBbWZ4SlNROGpNcDR5d2FqLUQxWUFVdXRfVGg4dUFiYTJ3RWtOTWczekJMTHpvSGZSVjFiVmZfalJLbmdYd1g1LXhaQXp2NV9xRXIzRlZQYkZsUG9VcGdwVzFkT1I2OS1fdGs2R2Z6MURDelhjTG80ay1IMjVzQXpMUFRROWNhMWZHLWxLZXhUSjdFcHfSAZQBQVVfeXFMTjdJN3lUTEQ2ZXlwYXYwZVpmNW80UC16RG5ZR2E3V2l3OFoycGZhYXVHNVpqLVRBZFJBUzc5dW5ZaHBEZ2hib3gtVUZERzlFeG5ESE9tRkZHYW9BUGZ1a3kydDlwMG85bjNqZzJSTzQ5WGpNVDI4SWx1emVhbVkzOFJmcFhoUnRyaldtR2pkSTJidDJUcg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "Galamsey Crisis: ‘Some People in Government Are Involved’ - Mines Chamber CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Crisis: ‘Some People in Government Are Involved’ - Mines Chamber CEO Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Rm9jTTY4aVJvVXZZTEdHT2FrOUh0TjNnTU4zbExETmxvbDZPMEtrdnRQQ2szRW9DVWpTNDItSUVWbEJSQi1GMlROVHRKM0dhMkhMSUNxaHhySTduZDBv0gFcQVVfeXFMUFI0VmxqNF9oNEN3eFdScUotT3hhQlNjSTlZNmxVQXQzWlZqOFZCV2x0ZmRJODlFNDBJN3NnYzhZTDhiQlVNUC1CcFk0UVN4LUxnQ1I3N2ZZN2hoaXo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Rm9jTTY4aVJvVXZZTEdHT2FrOUh0TjNnTU4zbExETmxvbDZPMEtrdnRQQ2szRW9DVWpTNDItSUVWbEJSQi1GMlROVHRKM0dhMkhMSUNxaHhySTduZDBv0gFcQVVfeXFMUFI0VmxqNF9oNEN3eFdScUotT3hhQlNjSTlZNmxVQXQzWlZqOFZCV2x0ZmRJODlFNDBJN3NnYzhZTDhiQlVNUC1CcFk0UVN4LUxnQ1I3N2ZZN2hoaXo?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+    },
+    {
+      "id": "auto-2026-08-24-former-lands-minister-proposes-independent-body-to-fight-gal",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "Former Lands Minister proposes independent body to fight galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Lands Minister proposes independent body to fight galamsey Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWRldkFJNkxSNEgwYzFJSGdZaU90UnVqUzhzQk1TMHF4Qk9LeDZzVXlYTUNZMVRlYktMdkM2TDJXVUpSLXZvbjhUaUlhaUxySlZNaGdSNTlWRGlPdWcwSXExQ0pIeVpNRnFBa1BTcHBGalhPWmF2dTZYR0hHeTQ0amNfN0xoZE1BOFV4RVRQZklac09PT0pxRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWRldkFJNkxSNEgwYzFJSGdZaU90UnVqUzhzQk1TMHF4Qk9LeDZzVXlYTUNZMVRlYktMdkM2TDJXVUpSLXZvbjhUaUlhaUxySlZNaGdSNTlWRGlPdWcwSXExQ0pIeVpNRnFBa1BTcHBGalhPWmF2dTZYR0hHeTQ0amNfN0xoZE1BOFV4RVRQZklac09PT0pxRQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-from-salomon-to-akonta-the-end-of-political-immunity-for-cor",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "From Salomon to Akonta: the end of political immunity for corporate galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "From Salomon to Akonta: the end of political immunity for corporate galamsey Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQVmhPWlZsSU81dGJlWjVEdE9fVWdUcW5SUm9wdkVvbGhPdGRhc0VZcnRINkZTNjBXdFZVdmxiZzZFSjhqaVZUeXMtak1RUkx1alIxb3BNY3dKUGZxYTAtTEFiaGFld0psU0o0S1N5U1FXSjRWSEZnRmFLNl9FYzBOdzJuWXN1WEFxcjVBaC1xcjR4Zy1ST195WmQzeTlBS2VhV1o1MEtFMWUyM3lO?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-minerals-commission-reaffirms-commitment-to-tackling-illegal"
+    },
+    {
+      "id": "auto-2026-08-24-galamsey-fight-even-high-ranking-people-may-be-complicit-you",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "Galamsey Fight: ‘‘Even High-Ranking People May Be Complicit. You Can’t Trust Anyone' - Akwatia MP",
+      "place": "Akwatia",
+      "region": "Eastern",
+      "lat": 6.05,
+      "lon": -0.75,
+      "summary": "Galamsey Fight: ‘‘Even High-Ranking People May Be Complicit. You Can’t Trust Anyone' - Akwatia MP Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQ3VPRWtOVnFPNXRJN1g5MUR3bmlzcHM3bHo1SkhvM0hhbzUybUtGekxPQ3UzQlFtTGd2X3FTaVc1ZnpkcV9wZlpNRndNX3A0dEp2dll0Q0h3Nm1wS0Fv0gFcQVVfeXFMTnV6WjVkRTNRX0ZPTFVpZjN5TDMycmNzT0dkdWJOZG1zWlVJb29TM1NyR1YydFdjS3dCeFBKWEJycDVneEcwZFppYnJ2MEFtNUU5NG1kY3JnYmJSamg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQ3VPRWtOVnFPNXRJN1g5MUR3bmlzcHM3bHo1SkhvM0hhbzUybUtGekxPQ3UzQlFtTGd2X3FTaVc1ZnpkcV9wZlpNRndNX3A0dEp2dll0Q0h3Nm1wS0Fv0gFcQVVfeXFMTnV6WjVkRTNRX0ZPTFVpZjN5TDMycmNzT0dkdWJOZG1zWlVJb29TM1NyR1YydFdjS3dCeFBKWEJycDVneEcwZFppYnJ2MEFtNUU5NG1kY3JnYmJSamg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+    },
+    {
+      "id": "auto-2026-08-24-npp-lost-2024-partly-because-of-galamsey-mike-oquaye-jnr",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "‘NPP Lost 2024 Partly Because of Galamsey’ - Mike Oquaye Jnr",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘NPP Lost 2024 Partly Because of Galamsey’ - Mike Oquaye Jnr Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UGxsQmdOV3Y0SVZpcUtMMnB0d1U3N25HVXRhV1lWUUNVWnloOS00YWFlOS03d0RTSWU0VWNnakx0bGVNajRrRWVhbktFUmZZS0FqYXhLcm0tMjdZckZF0gFcQVVfeXFMTWhnalA3NFJ1WG1JaUZfcks5OE1TcHpLYnVGMUl2T1FwdURSODd5dVNFZ2F6b2lHd25aZFdhQjhzZzg4M2tiZTdScGgtcHJ4Wm9lc2xrS1JOR3RoLVA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE95UGxsQmdOV3Y0SVZpcUtMMnB0d1U3N25HVXRhV1lWUUNVWnloOS00YWFlOS03d0RTSWU0VWNnakx0bGVNajRrRWVhbktFUmZZS0FqYXhLcm0tMjdZckZF0gFcQVVfeXFMTWhnalA3NFJ1WG1JaUZfcks5OE1TcHpLYnVGMUl2T1FwdURSODd5dVNFZ2F6b2lHd25aZFdhQjhzZzg4M2tiZTdScGgtcHJ4Wm9lc2xrS1JOR3RoLVA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-08-24-move-goldbod-costs-off-bog-books-and-account-for-environment",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "Move GoldBod costs off BoG books and account for environmental damage",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "A Professor of Finance at the University of Ghana Business School, Godfred Bokpin, has said the government’s decision to move the financing of gold purchases away from the Bank of Ghana’s balance sheet is a step in the right direction. He said, nevertheless, the true cost of the Domestic Gold Purchase Programme would remain understated unless the government accounted for the full value chain, including the environmen",
+      "metrics": {},
+      "source": {
+        "name": "Bokpin",
+        "url": "https://www.graphic.com.gh/news/general-news/bokpin-move-goldbod-costs-off-bog-books-and-account-for-environmental-damage.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/bokpin-move-goldbod-costs-off-bog-books-and-account-for-environmental-damage.html",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
@@ -6713,7 +6851,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFNKdzhLd0NwcVd1ZGF1bjRvaDhtV0lIaHdILUI4UmtxWlh6OGpfYnlWOFdqVUhxRkp2NGRhSUp6QktkYU1xbEI3YlM2RzBPRU1IdDU3Q2thVDV2RC1VMkFEZ2w0dkg0OUo2c3ljTXoxMWVXWnYzZVUxSWFGQnpwZWRMN0p3WlNPd3djZmluN19zLXZld2lxZTh5R1hVNWFjYTRnZk5EXzk5SUZiMzUydFAwSnNzUUs1WVFaakI0TXU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-04-minerals-commission-reaffirms-commitment-to-tackling-illegal"
     },
     {
       "id": "auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr",
