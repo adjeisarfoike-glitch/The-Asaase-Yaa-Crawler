@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-23T18:51:40.751Z",
+  "updated": "2026-08-24T02:01:22.881Z",
   "counts": {
-    "total": 428,
+    "total": 429,
     "verified": 28,
-    "automated": 400,
+    "automated": 401,
     "earliest": "2024-07-01",
     "latest": "2026-08-23"
   },
@@ -224,6 +224,25 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXU5bGtZbWhNRmczLVBnTDlualZUaHl6Z3N3QzV5c0FRRmttRldzZG5ieGEtUmppTVhPQXZvRV9BdzVIdWltQnhVd2lSTm5KUnNLMXNMQkpxRzFHUkhsZEtQSzBnSEVNUkJ0dDdiOTQtTkRTZTN5Vmg2VEN1V1dVakRKQU11ZHRDM1JzWFBvc21JcVg5?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXU5bGtZbWhNRmczLVBnTDlualZUaHl6Z3N3QzV5c0FRRmttRldzZG5ieGEtUmppTVhPQXZvRV9BdzVIdWltQnhVd2lSTm5KUnNLMXNMQkpxRzFHUkhsZEtQSzBnSEVNUkJ0dDdiOTQtTkRTZTN5Vmg2VEN1V1dVakRKQU11ZHRDM1JzWFBvc21JcVg5?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-23-ghana-should-regulate-galamsey-not-fight-it-campaigner-says",
+      "date": "2026-08-23",
+      "category": "policy",
+      "title": "Ghana Should Regulate Galamsey, Not Fight It, Campaigner Says",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Should Regulate Galamsey, Not Fight It, Campaigner Says News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3VvdHJoOHlfVDhPN01sYm8zSzlMWEFIOFVwSF9xMUUwVEJDR0Jkb0VsVl9qTUx5ZDNUTkhLdjdoemNJcXV6cFRCSDl0bzhfcWQ2cWxLZkhfSnBBdGZ3aTkwbjlYN2dKNExtRF90VjNCU1NyOFNJU1c4R1E0WE5WNDhsMnlzV0Y5QVpMUDBn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3VvdHJoOHlfVDhPN01sYm8zSzlMWEFIOFVwSF9xMUUwVEJDR0Jkb0VsVl9qTUx5ZDNUTkhLdjdoemNJcXV6cFRCSDl0bzhfcWQ2cWxLZkhfSnBBdGZ3aTkwbjlYN2dKNExtRF90VjNCU1NyOFNJU1c4R1E0WE5WNDhsMnlzV0Y5QVpMUDBn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -566,19 +585,19 @@
     {
       "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
       "date": "2026-08-22",
-      "category": "prosecution",
-      "title": "Some assemblies are collecting fees and levies at galamsey sites",
+      "category": "forest",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
+      "summary": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey 3News",
       "metrics": {},
       "source": {
-        "name": "Ken Ashigbey",
-        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5",
       "via": "rss",
       "verified": false
     },
