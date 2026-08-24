@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-24T02:01:22.881Z",
+  "updated": "2026-08-24T07:24:01.461Z",
   "counts": {
-    "total": 429,
+    "total": 434,
     "verified": 28,
-    "automated": 401,
+    "automated": 406,
     "earliest": "2024-07-01",
     "latest": "2026-08-23"
   },
@@ -483,7 +483,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BU2M2WXBlekt0cFJGbTBVSmNBWVdITVk0TnRvem95V2xSUkpXWUsyaDNPZmZMNjVLOE53TXZ2MWU0T0lMYnhJZ1lYcDZtdXpzWUY0X3Jmc2RYZ0xWZFhB0gFcQVVfeXFMTjBTX0sxbFpReldDdDBvZFFQaWN4OXMtS2hRVmFoTmZCN2JXQlBabmExRkFRa2FBYVRjYWZmMjlfS2lMU1ZnRVZ0bEl5LWpZc3M4YVZ3LU9EMkZNc1Y?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-08-22-jomoro-will-revive-coconut-business-instead-of-engaging-in-g",
@@ -585,19 +586,19 @@
     {
       "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
       "date": "2026-08-22",
-      "category": "forest",
-      "title": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey",
+      "category": "prosecution",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey 3News",
+      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
       "metrics": {},
       "source": {
-        "name": "3News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5"
+        "name": "Ken Ashigbey",
+        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
       "via": "rss",
       "verified": false
     },
@@ -620,6 +621,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-08-22-galamsey-what-happened-to-the-state-of-emergency-ai-drone-se",
+      "date": "2026-08-22",
+      "category": "forest",
+      "title": "Galamsey: What Happened To The State Of Emergency, AI, Drone - Sefa Kayi Asks",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: What Happened To The State Of Emergency, AI, Drone - Sefa Kayi Asks Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUJUVnRxU2xCb1hBTWRhZnBGN3Y5M255aEJxQVltVTVSYWNac0ZOUHlSWGZDcFJQQUZOYTZsU1JLUV9LSC0zUG42YVFzM3JVNHBxcGFwbGtEQ2dwTEUzVTBTQ0pwd1IzMjFRMUlyX2ZtbHdyOVQzbHBtZnYtLVFrTnd2ZVhJZ0FNZEZoUmZZODNXV3o2TjFodEZkMWg3RFpxQWh3ZWtoQ0lNUTc3Tnllb2x4aThZWEdp?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUJUVnRxU2xCb1hBTWRhZnBGN3Y5M255aEJxQVltVTVSYWNac0ZOUHlSWGZDcFJQQUZOYTZsU1JLUV9LSC0zUG42YVFzM3JVNHBxcGFwbGtEQ2dwTEUzVTBTQ0pwd1IzMjFRMUlyX2ZtbHdyOVQzbHBtZnYtLVFrTnd2ZVhJZ0FNZEZoUmZZODNXV3o2TjFodEZkMWg3RFpxQWh3ZWtoQ0lNUTc3Tnllb2x4aThZWEdp?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-08-22-9-blue-water-guards-nabbed-for-bribery-impersonating-naimos-",
+      "date": "2026-08-22",
+      "category": "arrest",
+      "title": "9 Blue Water Guards nabbed for bribery, impersonating NAIMOS officials",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "9 Blue Water Guards nabbed for bribery, impersonating NAIMOS officials Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWhyM1JuQ1lLUk05TlI4MEYybUoxV1pZMWYyOG5XRTJGeE9McTFnd0Q4bFlqRWdSRGJGdXlmdGFtbElrWGg2d2p2Q0Q5MjJodDhIU1NRY04zbld4aDR6OEl4VDZfamw1Nk4xbXRJcEgwekVvUmVzdTNtQ2IzR3IwWXBUMWp1TnN3T0RGYllRUzhVTjBLUWprRWRwVHAxdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQdWhyM1JuQ1lLUk05TlI4MEYybUoxV1pZMWYyOG5XRTJGeE9McTFnd0Q4bFlqRWdSRGJGdXlmdGFtbElrWGg2d2p2Q0Q5MjJodDhIU1NRY04zbld4aDR6OEl4VDZfamw1Nk4xbXRJcEgwekVvUmVzdTNtQ2IzR3IwWXBUMWp1TnN3T0RGYllRUzhVTjBLUWprRWRwVHAxdw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-21-arise-ghana-demands-stronger-commitment-to-end-galamsey",
@@ -794,7 +834,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGpCSUxZS095LWkwZ0NEVmlkTVNBMGY5RmptZThnRlE1LXBJdFhDOWVYZTVDNE80VnNVTHpHSVczcWhKTE5LWGpibGg2Vm9SanA1VUZfcDJWdjZ4anJHTk00ZDFUUEdycGc5Sl9XUWV3akF4ZG9zSm1CSlVRaTgxcWdDejd6VDJVa0RCZkFVaDN6eUlDVnZpSGRRSDRUVWZ5bkVtZ1BR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-08-21-there-is-no-fight-against-illegal-mining-activities-in-ghana",
@@ -930,7 +971,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHVqa0tiS3BzdF8wSlBmWlRJdWdXWGxERFp2djQ3TkpjRU45M2tZTkY2ZnR2Tm1CRFJxaHl5Q1ZBRVpBN1IyYXl4TlhvdVFnVzhsZjdyVzRZSk9nMVcxMS11ZW13R3RaZWFCWXV6SzFFQWlQWFEyX0tyWW95elNUVERzTVRhTlF1Q09obUkzZWM3NEZwOThOUTVzUUxnY09rYUNyaEtkb2pValFqTGc?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-21T01:57:21.796Z"
+      "archivedAt": "2026-08-21T01:57:21.796Z",
+      "thread": "t-auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to"
     },
     {
       "id": "auto-2026-08-20-bawumia-meets-japanese-ambassador-discusses-digitalisation-f",
@@ -1134,6 +1176,46 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
+    },
+    {
+      "id": "auto-2026-08-20-fights-against-galamsey-must-not-be-empty-slogans-but-decisi",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "'Fights Against Galamsey Must Not Be Empty Slogans But Decisive Actions'- Most Rev. Prof. Johnson Kwabena Asamoah-Gyadu Calls",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Fights Against Galamsey Must Not Be Empty Slogans But Decisive Actions'- Most Rev. Prof. Johnson Kwabena Asamoah-Gyadu Calls Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdDJNVHZCSkhkWEdiaURwY3FZY08ybUhJQWpfbFNDTENEbXp2YlB5OHFTcU9Ua256WWJtRDA5ejJDR0lsTHl5OTZqZWlMM3ZlRzlya0hxUHlnal8tQlVZOUwxNXM5Mld4RkI5N1VDVF9nOWxNazJLTUZDVmVDNnVucENKN0hVREZQZXVtZ1hkME1GMUY5TnNqR2puWFhFcWhIT2YtbFhELW5XWmRMbTNBTW56NHFteW5rUmVkQnFhd3FFRnV5c0xLZllDcmlwZzZta25EX0g4T0hrT2ctRE1sVHpTWDVoLXhsdWFsWWk3eDN3U1VVdnVseg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdDJNVHZCSkhkWEdiaURwY3FZY08ybUhJQWpfbFNDTENEbXp2YlB5OHFTcU9Ua256WWJtRDA5ejJDR0lsTHl5OTZqZWlMM3ZlRzlya0hxUHlnal8tQlVZOUwxNXM5Mld4RkI5N1VDVF9nOWxNazJLTUZDVmVDNnVucENKN0hVREZQZXVtZ1hkME1GMUY5TnNqR2puWFhFcWhIT2YtbFhELW5XWmRMbTNBTW56NHFteW5rUmVkQnFhd3FFRnV5c0xLZllDcmlwZzZta25EX0g4T0hrT2ctRE1sVHpTWDVoLXhsdWFsWWk3eDN3U1VVdnVseg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-08-20-double-illegality-how-illegal-mining-opens-ghana-s-forest-to",
+      "date": "2026-08-20",
+      "category": "forest",
+      "title": "DOUBLE ILLEGALITY: HOW ILLEGAL MINING OPENS GHANA’S FOREST TO TIMBER EXPLOITATION",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "DOUBLE ILLEGALITY: HOW ILLEGAL MINING OPENS GHANA’S FOREST TO TIMBER EXPLOITATION Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0JxeTQyS1I4TEVIWGZfWWZ6WHQ2LWJ3UzZxZXA0dW1uUmtBcVdtQ3pEbTVsbjFIMnpFSGllN0kxVDVUWk5BUW04VzN0RWo4SmJPMW9KeU5XUWF0enhnMDZKLWh2SHNqQ3N1bW5CSzFvQTFOaExYbllNcWdKd3d3SXVsWjRrdUpaWkM2aUxBOUZNY0p4UC1keFpfMFpTOEFFVkRBSGl0WnJMNHg2RW1mcm1yUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0JxeTQyS1I4TEVIWGZfWWZ6WHQ2LWJ3UzZxZXA0dW1uUmtBcVdtQ3pEbTVsbjFIMnpFSGllN0kxVDVUWk5BUW04VzN0RWo4SmJPMW9KeU5XUWF0enhnMDZKLWh2SHNqQ3N1bW5CSzFvQTFOaExYbllNcWdKd3d3SXVsWjRrdUpaWkM2aUxBOUZNY0p4UC1keFpfMFpTOEFFVkRBSGl0WnJMNHg2RW1mcm1yUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to"
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
@@ -1991,7 +2073,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+    },
+    {
+      "id": "auto-2026-08-18-despite-high-costs-we-won-t-abandon-the-fight-against-galams",
+      "date": "2026-08-18",
+      "category": "arrest",
+      "title": "Despite High Costs; We Won't Abandon The Fight Against Galamsey - Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Despite High Costs; We Won't Abandon The Fight Against Galamsey - Mahama Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmRfcFBRSmZwWnlhTmtmdEtyNTFpLTRuQ1lBanBRWW9RMnowQVhKblg5Rmx6M0hqdThPcjc5NV9DTDJNbV9OTzlBb0dqaDJoS1FkUWh6dEk5c1hobzdjLTR3ZVIzc1dvMXBhLThEYm9hZlNySzlXZUoxdGtDblY5U1ZKWlBZMFpXYVhJY2s2Z0hqeFhrWFR4TFdPd2lEVFlUdTVGRk4tdjdQNVpyeTR3WTk4VQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmRfcFBRSmZwWnlhTmtmdEtyNTFpLTRuQ1lBanBRWW9RMnowQVhKblg5Rmx6M0hqdThPcjc5NV9DTDJNbV9OTzlBb0dqaDJoS1FkUWh6dEk5c1hobzdjLTR3ZVIzc1dvMXBhLThEYm9hZlNySzlXZUoxdGtDblY5U1ZKWlBZMFpXYVhJY2s2Z0hqeFhrWFR4TFdPd2lEVFlUdTVGRk4tdjdQNVpyeTR3WTk4VQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
