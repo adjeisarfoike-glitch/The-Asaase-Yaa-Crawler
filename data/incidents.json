@@ -1,13 +1,72 @@
 {
-  "updated": "2026-08-24T07:24:01.461Z",
+  "updated": "2026-08-24T13:17:07.766Z",
   "counts": {
-    "total": 434,
+    "total": 437,
     "verified": 28,
-    "automated": 406,
+    "automated": 409,
     "earliest": "2024-07-01",
-    "latest": "2026-08-23"
+    "latest": "2026-08-24"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "Tanzania’s Tanzanite Model Offers Ghana a Galamsey Blueprint",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Tanzania’s Tanzanite Model Offers Ghana a Galamsey Blueprint News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTM2al9rUmRJczFYT1E5RFo5Qm1BNnVzTmsyMEhZWGNFX05ydGVkYUF5aG5iM293NVh1dVI0bWEzREtsck1tTFNmZFo4bGtZeUxGcExzdi1ERldUeDVqbGFBekV1VUs5Y1dJcHRZU1cyaVBwem8zaV9KSzRlWHBnak1pWWFBVHN5U0E4TjVn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTM2al9rUmRJczFYT1E5RFo5Qm1BNnVzTmsyMEhZWGNFX05ydGVkYUF5aG5iM293NVh1dVI0bWEzREtsck1tTFNmZFo4bGtZeUxGcExzdi1ERldUeDVqbGFBekV1VUs5Y1dJcHRZU1cyaVBwem8zaV9KSzRlWHBnak1pWWFBVHN5U0E4TjVn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-goldbod-gains-this-is-not-what-ghanaians-voted-for-deal-with",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "GoldBod gains: This is not what Ghanaians voted for, deal with galamsey – Prof. Bokpin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Economist and Professor of Finance at the University of Ghana, Godfred Bokpin, has criticised the government’s approach to illegal mining, arguing that its celebration of gains from gold trading overlooks the severe environmental damage it causes.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-gains-this-is-not-what-ghanaians-voted-for-deal-with-galamsey-prof-bokpin/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-gains-this-is-not-what-ghanaians-voted-for-deal-with-galamsey-prof-bokpin/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-08-24-any-growth-model-built-on-environmental-destruction-will-fai",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "Any growth model built on environmental destruction will fail – Prof. Bokpin on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Professor of Finance and Economist at the University of Ghana, Business School (UGBS), Godfred Bokpin, has warned that Ghana cannot achieve sustainable economic development through a growth model driven by illegal mining, environmental destruction and dependence on primary commodities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/any-growth-model-built-on-environmental-destruction-will-fail-prof-bokpin-on-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/any-growth-model-built-on-environmental-destruction-will-fail-prof-bokpin-on-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
       "date": "2026-08-23",
@@ -586,19 +645,19 @@
     {
       "id": "auto-2026-08-22-some-assemblies-are-collecting-fees-and-levies-at-galamsey-s",
       "date": "2026-08-22",
-      "category": "prosecution",
-      "title": "Some assemblies are collecting fees and levies at galamsey sites",
+      "category": "forest",
+      "title": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Citing Act 995 of the Minerals and Mining Act, Ken Ashigbey said the law also talks about somebody facilitating the illegalities and being equally guilty.",
+      "summary": "Some assemblies are collecting fees and levies at galamsey sites - Ken Ashigbey 3News",
       "metrics": {},
       "source": {
-        "name": "Ken Ashigbey",
-        "url": "https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/some-assemblies-are-collecting-fees-and-levies-from-galamsey-sites-ken-ashigbey",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFh0VkhtYS1qdkdXR1ZzR1R1S0NkUzdSbUZHMHdQNFB5MjRDeUFUN1F5YXEzLWM0UWVtQ1RmYW1UMGRYY1N2QzM1SDFlRFQxV3pVNzg1amJDX29uWjlxTWl5Z3Q3aDFoY3RPX29JX0cwS0dISVY4ZVhuQ0doY0tKazZuZ0R1Vk85M0dkNVFxTUlvM0ZEN0dKX2hwMjFOVGZmZDJjOA?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1996,7 +2055,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bokpin/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
     },
     {
       "id": "auto-2026-08-18-i-m-ready-to-swear-with-the-bible-schnapps-and-eggs-that-i-d",
