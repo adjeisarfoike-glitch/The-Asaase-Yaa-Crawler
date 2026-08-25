@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-24T19:03:32.958Z",
+  "updated": "2026-08-25T01:56:18.939Z",
   "counts": {
-    "total": 444,
+    "total": 453,
     "verified": 28,
-    "automated": 416,
+    "automated": 425,
     "earliest": "2024-07-01",
     "latest": "2026-08-24"
   },
@@ -204,6 +204,166 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-08-24-blue-water-guards-programme-failing-in-fight-against-galamse",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "Blue Water Guards programme failing in fight against galamsey – Manhyia North MP",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Blue Water Guards programme failing in fight against galamsey – Manhyia North MP MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3l5ZU0yaDJ3RXpuX3FBZ2hfejdBM3BUWnRuY3lsLU5UUGJSMzFWSkg4YmNqNkJWamZfMjRSUHRXLUhXRlpoSTcyOExGTjQzeWR1X2hsRUFWX1o2LWtFb1NaRFZIMmFYZUdVazVWVS1MaEhRNFFfcDdqTloyTWRuOHFVcXo2b1JLSjdRZ0xkMjk0c2FzZUtxQm9RM3R4Z1I0eFYyQlFNU21LdFU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3l5ZU0yaDJ3RXpuX3FBZ2hfejdBM3BUWnRuY3lsLU5UUGJSMzFWSkg4YmNqNkJWamZfMjRSUHRXLUhXRlpoSTcyOExGTjQzeWR1X2hsRUFWX1o2LWtFb1NaRFZIMmFYZUdVazVWVS1MaEhRNFFfcDdqTloyTWRuOHFVcXo2b1JLSjdRZ0xkMjk0c2FzZUtxQm9RM3R4Z1I0eFYyQlFNU21LdFU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo",
+      "date": "2026-08-24",
+      "category": "arrest",
+      "title": "NAIMOS arrests three, destroys 86 Chanfang machines in Ablebo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests three, destroys 86 Chanfang machines in Ablebo GhanaWeb",
+      "metrics": {
+        "changfan": 86
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0hVaE5jZHA0ZGJjdzNYYUpFYVNTQzlUVHFRdWRjWHNJeVcxdUhzeDVvcnZWRUdTZnBDOTZwUlpOYlFtbnF4SHFoSFlpeDRoV21KNmU4d0F6TDhOQklYR1RLaGVjVHdwSFlXenllcDNsc2E2SmIwa19IZEJuNHV2VGVIeVNBVXlYTU4wYUZURmYwV3FzWklBS2lqYzdrUHZTeHFyTUhBVktMWVRIQVpGbC1KbnNqVEJUdFA0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0hVaE5jZHA0ZGJjdzNYYUpFYVNTQzlUVHFRdWRjWHNJeVcxdUhzeDVvcnZWRUdTZnBDOTZwUlpOYlFtbnF4SHFoSFlpeDRoV21KNmU4d0F6TDhOQklYR1RLaGVjVHdwSFlXenllcDNsc2E2SmIwa19IZEJuNHV2VGVIeVNBVXlYTU4wYUZURmYwV3FzWklBS2lqYzdrUHZTeHFyTUhBVktMWVRIQVpGbC1KbnNqVEJUdFA0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+    },
+    {
+      "id": "auto-2026-08-24-naimos-arrests-3-destroys-86-chanfang-machines-in-ablebo-gal",
+      "date": "2026-08-24",
+      "category": "arrest",
+      "title": "NAIMOS arrests 3, destroys 86 Chanfang machines in Ablebo galamsey sweep",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 3, destroys 86 Chanfang machines in Ablebo galamsey sweep MyJoyOnline",
+      "metrics": {
+        "changfan": 86
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkVHZUh0MVFGaUNoR0ZITmdaa0pUcEkzX2hkS1o4eFBvV2ZjcGVCZWt0LUlWR2lDcXE5cnBlaktZMUNwdWhUYzhGYlE0Ql9RUDFzUEJlOHNfRk13TElXWENBUHRLdU43RW9RYjVLcnNzV1FWTkczYXBDcm5BdkVhRnU0dGZ4SDhiZ2hHM3Q2ZzdPY2ZlVW9aUVBtckhMWTV4dHc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkVHZUh0MVFGaUNoR0ZITmdaa0pUcEkzX2hkS1o4eFBvV2ZjcGVCZWt0LUlWR2lDcXE5cnBlaktZMUNwdWhUYzhGYlE0Ql9RUDFzUEJlOHNfRk13TElXWENBUHRLdU43RW9RYjVLcnNzV1FWTkczYXBDcm5BdkVhRnU0dGZ4SDhiZ2hHM3Q2ZzdPY2ZlVW9aUVBtckhMWTV4dHc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+    },
+    {
+      "id": "auto-2026-08-24-galamsey-ghana-s-rivers-cannot-afford-another-failed-experim",
+      "date": "2026-08-24",
+      "category": "water",
+      "title": "Galamsey: Ghana’s rivers cannot afford another failed experiment – Akwasi Konadu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Ghana’s rivers cannot afford another failed experiment – Akwasi Konadu MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2gyOUVjamh5U1BKSkduV3FOZlRobk1ybzU3aUtPUUNta29OQ3JHODdPTUVzUmJwUmhjeGltdGRuS1Z6U0JkM09Ea2ZoQkU5bjJwdURvdUw2c3VHWUIxMGp4TmFtS0VWOGJQeFFCX3JuQWxzU1pCTGFONmtYM3JPc18wMk14OUdiaVQ1WGxBcVlWSWxEbXRicUVWTXhqMVNuYU5fbHZCV0Y?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb2gyOUVjamh5U1BKSkduV3FOZlRobk1ybzU3aUtPUUNta29OQ3JHODdPTUVzUmJwUmhjeGltdGRuS1Z6U0JkM09Ea2ZoQkU5bjJwdURvdUw2c3VHWUIxMGp4TmFtS0VWOGJQeFFCX3JuQWxzU1pCTGFONmtYM3JPc18wMk14OUdiaVQ1WGxBcVlWSWxEbXRicUVWTXhqMVNuYU5fbHZCV0Y?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-illegal-miners-emboldened-by-backing-from"
+    },
+    {
+      "id": "auto-2026-08-24-goldbod-rejects-funding-crisis-claims-says-gold-purchases-re",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "GoldBod rejects funding crisis claims, says gold purchases remain on course",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has rejected reports that funding constraints are disrupting gold purchases by licensed buyers, saying its trade-financing arrangements remain operational and that purchases of artisanal and small-scale mining (ASM) gold are continuing.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-rejects-funding-crisis-claims-says-gold-purchases-remain-on-course/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-rejects-funding-crisis-claims-says-gold-purchases-remain-on-course/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-23-lives-lost-to-abandoned-illegal-mining-pits-in-ashanti-re",
+      "date": "2026-08-24",
+      "category": "arrest",
+      "title": "23 lives lost to abandoned illegal mining pits in Ashanti Region – Regional Minister",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "At least 23 lives have been lost to abandoned illegal mining pits in the Ashanti Region, with a significant number of them being minors.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/23-lives-lost-to-abandoned-illegal-mining-pits-in-ashanti-region-regional-minister/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/23-lives-lost-to-abandoned-illegal-mining-pits-in-ashanti-region-regional-minister/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-",
+      "date": "2026-08-24",
+      "category": "forest",
+      "title": "‘While GoldBod cannot account for GH¢22bn, mining communities are paying with their kidneys and lungs’ – Afenyo-Markin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority Leader Alexander Afenyo-Markin has drawn a stark contrast between concerns over alleged financial discrepancies at the Gold Board and the health toll of illegal mining on communities across Ghana.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/while-goldbod-cannot-account-for-gh%c2%a222bn-mining-communities-are-paying-with-their-kidneys-and-lungs-afenyo-markin/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/while-goldbod-cannot-account-for-gh%c2%a222bn-mining-communities-are-paying-with-their-kidneys-and-lungs-afenyo-markin/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-23-people-including-11-children-killed-by-abandoned-mining-p",
+      "date": "2026-08-24",
+      "category": "arrest",
+      "title": "23 people, including 11 children, killed by abandoned mining pits in Ashanti Region",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "At least 23 people have died after falling into abandoned illegal mining pits across the Ashanti Region, with children accounting for nearly half of the victims. Ashanti Regional Minister, Dr Frank Amoakohene, disclosed that although 19 bodies have so far been retrieved, four others remain trapped inside the abandoned pits. He made the disclosure during […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/23-people-including-11-children-killed-by-abandoned-mining-pits-in-ashanti-region/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/23-people-including-11-children-killed-by-abandoned-mining-pits-in-ashanti-region/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-07-09-abesewa"
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
@@ -837,7 +997,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUJUVnRxU2xCb1hBTWRhZnBGN3Y5M255aEJxQVltVTVSYWNac0ZOUHlSWGZDcFJQQUZOYTZsU1JLUV9LSC0zUG42YVFzM3JVNHBxcGFwbGtEQ2dwTEUzVTBTQ0pwd1IzMjFRMUlyX2ZtbHdyOVQzbHBtZnYtLVFrTnd2ZVhJZ0FNZEZoUmZZODNXV3o2TjFodEZkMWg3RFpxQWh3ZWtoQ0lNUTc3Tnllb2x4aThZWEdp?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
       "id": "auto-2026-08-22-9-blue-water-guards-nabbed-for-bribery-impersonating-naimos-",
@@ -2271,8 +2431,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "verified": false
     },
     {
       "id": "auto-2026-08-18-despite-high-costs-we-won-t-abandon-the-fight-against-galams",
@@ -2292,7 +2451,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmRfcFBRSmZwWnlhTmtmdEtyNTFpLTRuQ1lBanBRWW9RMnowQVhKblg5Rmx6M0hqdThPcjc5NV9DTDJNbV9OTzlBb0dqaDJoS1FkUWh6dEk5c1hobzdjLTR3ZVIzc1dvMXBhLThEYm9hZlNySzlXZUoxdGtDblY5U1ZKWlBZMFpXYVhJY2s2Z0hqeFhrWFR4TFdPd2lEVFlUdTVGRk4tdjdQNVpyeTR3WTk4VQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
@@ -3108,6 +3267,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMif0FVX3lxTFBralpfZ2tjNzFhU3ZNQkJFejNqOXRZYUJKVFNGU1FMdmM4TGJ1Tzk2SGRxaE92WjZSR2FIRW0zSFluci1IYmNJTmt1QS1LYmtiQ3QzVWNoemFoWmJHdFJrc0RNTlp0SXlkTGU5d1ZyLU9ocGZzNkpjNzlqT2tzM28?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan",
+      "date": "2026-08-15",
+      "category": "forest",
+      "title": "We've Lost The Fight Against Galamsey - Kwami Sefa Kayi Bemoans",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We've Lost The Fight Against Galamsey - Kwami Sefa Kayi Bemoans Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakR1UDhOYmRlbmQyWVhlaUZfTnVxblhBc1BCU2FlNkJ2TmowX3RzYS15ZTN3OTJHQkZpQzZubE0xN1NXWjc3Q1JZT0RNVjY1dXR4dGhteDJfSUd0N2pzT0toMzlZTXN6Nk5QaVZfWno0RmF6R2dkYVBmamtVVVVxVzF1dkh6VEJ1Vnk5SmtOc2pjMkVodExMVVg3ZElON3V5VnhTUlhsTVU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakR1UDhOYmRlbmQyWVhlaUZfTnVxblhBc1BCU2FlNkJ2TmowX3RzYS15ZTN3OTJHQkZpQzZubE0xN1NXWjc3Q1JZT0RNVjY1dXR4dGhteDJfSUd0N2pzT0toMzlZTXN6Nk5QaVZfWno0RmF6R2dkYVBmamtVVVVxVzF1dkh6VEJ1Vnk5SmtOc2pjMkVodExMVVg3ZElON3V5VnhTUlhsTVU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
       "id": "auto-2026-08-14-lands-ministry-opens-up-on-galamsey-8-900-hectares-lost-258-",
@@ -4047,7 +4226,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mYXdybi1kVUNiVHROdERGS0xmbE4yZGlWNXpNWEhXTEFEOEo0VHNWR3cxa2ZGNFJuMFdwc0loVWVWSXdDanVDNWNMLXphdjBEWEo0dk5laXZEdUZ4VVQ0Q2V4RFXSAVxBVV95cUxNS3NfU3E5X05nWFpTNW9hUnBBM1Zyb2x0dFBtT1pzLW5yQk1ZWUpGWDFORHl5SGl5Nm9iUmVmemtzVER4QmwtOUNIbVZHbkpRWmhxTElHeGNVaWVaSg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-illegal-miners-emboldened-by-backing-from"
     },
     {
       "id": "auto-2026-08-12-the-galamsey-fight-we-have-not-honoured-the-departed-8-kenne",
@@ -8292,7 +8472,8 @@
         "name": "Opemsuo 104.7",
         "url": "https://opemsuo.com/six-arrested-two-excavators-seized-in-galamsey-operation-at-abesewa-forest/"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-arr-2026-07-09-abesewa"
     },
     {
       "id": "arr-2026-06-25-savannah",
