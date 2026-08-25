@@ -1,13 +1,155 @@
 {
-  "updated": "2026-08-25T01:56:18.939Z",
+  "updated": "2026-08-25T07:11:59.275Z",
   "counts": {
-    "total": 453,
+    "total": 461,
     "verified": 28,
-    "automated": 425,
+    "automated": 433,
     "earliest": "2024-07-01",
-    "latest": "2026-08-24"
+    "latest": "2026-08-25"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-25-ashanti-region-23-killed-in-abandoned-galamsey-pits-in-2026",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Ashanti Region: 23 killed in abandoned galamsey pits in 2026",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Ashanti Region: 23 killed in abandoned galamsey pits in 2026 Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXJINmREdnk4QkpaQW50bzUyZUFZeFBzVG85Q19uV2xnUEQxN1NXMWt3SDhjY3IyazdvbU1WSU5fUVFXdnFMcDVzMmlBTXY5QUdFR3pMXzVLdnhFdE9WaFFLMWdvMDF0NTlaYjBycnJ6NTAzb29ibVJhUEFReWhqMXJoUjRYQk4yeFQxYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXJINmREdnk4QkpaQW50bzUyZUFZeFBzVG85Q19uV2xnUEQxN1NXMWt3SDhjY3IyazdvbU1WSU5fUVFXdnFMcDVzMmlBTXY5QUdFR3pMXzVLdnhFdE9WaFFLMWdvMDF0NTlaYjBycnJ6NTAzb29ibVJhUEFReWhqMXJoUjRYQk4yeFQxYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-25T07:07:15.982Z"
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-manhyia-north-mp-calls-for-review-of-blue-water-gua",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Galamsey: Manhyia North MP calls for review of Blue Water Guards Programme",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Manhyia North MP calls for review of Blue Water Guards Programme Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ExWjFQN2RzWXRhbmpVRHZrdDloWEFCSmJFcGdTSHlpNTBlZGJIV0hjVW9jTTBaTEVXNlppd3k2aW95aDJWQmRWcGtrTnVHT2libG10a1paNmFGRHFRSkJ1ZmVKcGV3cEdHeUtETkp0ckNEME9weEpBeEIzdGRQR2xuNFk4V0R1NXRyZ2w4dXhuVkNGSEdlV053dVlPaGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0ExWjFQN2RzWXRhbmpVRHZrdDloWEFCSmJFcGdTSHlpNTBlZGJIV0hjVW9jTTBaTEVXNlppd3k2aW95aDJWQmRWcGtrTnVHT2libG10a1paNmFGRHFRSkJ1ZmVKcGV3cEdHeUtETkp0ckNEME9weEpBeEIzdGRQR2xuNFk4V0R1NXRyZ2w4dXhuVkNGSEdlV053dVlPaGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-25T07:07:41.858Z",
+      "thread": "t-auto-2026-08-24-blue-water-guards-programme-failing-in-fight-against-galamse"
+    },
+    {
+      "id": "auto-2026-08-25-naimos-raids-ankobra-destroys-86-chanfang-machines-in-fresh-",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "NAIMOS raids Ankobra, destroys 86 chanfang machines in fresh galamsey crackdown",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "NAIMOS raids Ankobra, destroys 86 chanfang machines in fresh galamsey crackdown MyJoyOnline",
+      "metrics": {
+        "changfan": 86
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhvRlNaMUI0UFdYTTVkYkY4UERlMjNIZ3M3RWdVU3ZRT0czSnNUWWJfSXFhUlU3VGpTU1JwdExzQUgxSThHQ3V4ZlNzMTNjTmt0anUwcmNFUU53bnp1SFpobkFKMVRKX1BKQVY1eXpOQWJtSUpiaG1DQXdKekNZVUZLWFhoVExTcE94bmFZNzdEcjd1ZXBQbGVEMzBkS3RIcDduUkltVlZMT00?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhvRlNaMUI0UFdYTTVkYkY4UERlMjNIZ3M3RWdVU3ZRT0czSnNUWWJfSXFhUlU3VGpTU1JwdExzQUgxSThHQ3V4ZlNzMTNjTmt0anUwcmNFUU53bnp1SFpobkFKMVRKX1BKQVY1eXpOQWJtSUpiaG1DQXdKekNZVUZLWFhoVExTcE94bmFZNzdEcjd1ZXBQbGVEMzBkS3RIcDduUkltVlZMT00?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-25T07:08:30.833Z",
+      "thread": "t-arr-2026-03-25-naimos-quarterly"
+    },
+    {
+      "id": "auto-2026-08-25-blue-water-guards-programme-failing-in-fight-against-galamse",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Blue Water Guards programme failing in fight against galamsey – Akwasi Konadu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Blue Water Guards programme failing in fight against galamsey – Akwasi Konadu GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYm5QcXZPanJ1akU1aHFiOFh6d2czV2hkLUZBbUNlOWN6WVBWUEpXQ3FyWUlNQUNWUFQ4aTVLYXFGWkt4TXQ5dG5qODJRTEFBNS1wZk9NWTVOcjlxX3VhVzhQZy1VcEV0UTh6eWk5UzJTSTlsOVJTYkIyRmZwTVdvMU1oMzY1UXBDVmlXdy1iWERNZTFPYzVBMDFjWWlxQTdaRktiWFNhU3FzZEVRUnNIVEF6TXZFQWM5RmFfUDN4dG10S3lKaHlCajh1azQwN0UtZl90NnVJc0Q?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYm5QcXZPanJ1akU1aHFiOFh6d2czV2hkLUZBbUNlOWN6WVBWUEpXQ3FyWUlNQUNWUFQ4aTVLYXFGWkt4TXQ5dG5qODJRTEFBNS1wZk9NWTVOcjlxX3VhVzhQZy1VcEV0UTh6eWk5UzJTSTlsOVJTYkIyRmZwTVdvMU1oMzY1UXBDVmlXdy1iWERNZTFPYzVBMDFjWWlxQTdaRktiWFNhU3FzZEVRUnNIVEF6TXZFQWM5RmFfUDN4dG10S3lKaHlCajh1azQwN0UtZl90NnVJc0Q?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-illegal-miners-emboldened-by-backing-from"
+    },
+    {
+      "id": "auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams",
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "Samuel Abu Jinapor proposes independent body to fight galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Samuel Abu Jinapor, a former Minister of Lands and Natural Resources has proposed the establishment of an independent body, backed by law, to enforce mining regulations and fight illegal small-scale mining, otherwise known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-ghana-must-reclaim-the-values-that-kept-our-communities-clea",
+      "date": "2026-08-25",
+      "category": "reclamation",
+      "title": "Ghana must reclaim the values that kept our communities clean",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief of Staff, Mr Julius Debrah, has raised an important point that deserves more than the usual headlines and speeches. He has linked Ghana’s worsening sanitation situation and the persistent destruction caused by illegal mining, or galamsey, to the gradual erosion of our traditional values. His observation may be uncomfortable, but it deserves serious … The post Ghana must reclaim the values that kept our comm",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/ghana-must-reclaim-the-values-that-kept-our-communities-clean/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/ghana-must-reclaim-the-values-that-kept-our-communities-clean/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-21-year-old-found-dead-in-galamsey-pit-at-twumkrom",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "21-year-old found dead in galamsey pit at Twumkrom",
+      "place": "Bono Region",
+      "region": "Bono",
+      "lat": 7.34,
+      "lon": -2.33,
+      "summary": "A 21-year-old man has been found dead in a galamsey pit at Twumkrom in the Dormaa Central Municipality of the Bono Region. The deceased, Kwame Baah Donalson, alias “Jawas”, is reported to have left home three days before his death and failed to return, prompting residents and relatives to launch a search for him. His … The post 21-year-old found dead in galamsey pit at Twumkrom appeared first on Ghanaian Times .",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/21-year-old-found-dead-in-galamsey-pit-at-twumkrom/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/21-year-old-found-dead-in-galamsey-pit-at-twumkrom/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens"
+    },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
       "date": "2026-08-24",
@@ -222,7 +364,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3l5ZU0yaDJ3RXpuX3FBZ2hfejdBM3BUWnRuY3lsLU5UUGJSMzFWSkg4YmNqNkJWamZfMjRSUHRXLUhXRlpoSTcyOExGTjQzeWR1X2hsRUFWX1o2LWtFb1NaRFZIMmFYZUdVazVWVS1MaEhRNFFfcDdqTloyTWRuOHFVcXo2b1JLSjdRZ0xkMjk0c2FzZUtxQm9RM3R4Z1I0eFYyQlFNU21LdFU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-24-blue-water-guards-programme-failing-in-fight-against-galamse"
     },
     {
       "id": "auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo",
@@ -364,6 +507,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2026-07-09-abesewa"
+    },
+    {
+      "id": "auto-2026-08-24-23-people-including-11-children-killed-by-abandoned-galamsey",
+      "date": "2026-08-24",
+      "category": "arrest",
+      "title": "23 people, including 11 children, killed by abandoned galamsey pits – Amoakohene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 people, including 11 children, killed by abandoned galamsey pits – Amoakohene CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlpRE1OeTh1UjFxczJXaVNPQk91QjZEeHpDaDBNUUpJeU1iR0FfbzdZTnMyMWNmTkUzU25xSjhVWWJ6V0RrOE9TWV82c2NVQVZfalJYU3d3S3RaZmdPM1c1X0FmVHVRRHRodDU4UEtoLUZIVThyZHZKeDNWWG5KV01xWG1UQlVLaE9zbUpFVVA2T0hJT19wVnhmdXUyY2tUczhsbXhRcFNpeEVFTklyTVJEdDM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlpRE1OeTh1UjFxczJXaVNPQk91QjZEeHpDaDBNUUpJeU1iR0FfbzdZTnMyMWNmTkUzU25xSjhVWWJ6V0RrOE9TWV82c2NVQVZfalJYU3d3S3RaZmdPM1c1X0FmVHVRRHRodDU4UEtoLUZIVThyZHZKeDNWWG5KV01xWG1UQlVLaE9zbUpFVVA2T0hJT19wVnhmdXUyY2tUczhsbXhRcFNpeEVFTklyTVJEdDM?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
@@ -8608,7 +8770,8 @@
         "name": "Rainbow Radio",
         "url": "https://rainbowradioonline.com/2026/03/25/galamsey-crackdown-naimos-seizes-94-excavators-and-arrests-237-in-nationwide-sweep/"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-arr-2026-03-25-naimos-quarterly"
     },
     {
       "id": "fc-2026-03-04-military-withdrawal",
