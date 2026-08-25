@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-25T13:15:07.162Z",
+  "updated": "2026-08-25T18:59:48.981Z",
   "counts": {
-    "total": 475,
+    "total": 484,
     "verified": 28,
-    "automated": 447,
+    "automated": 456,
     "earliest": "2024-07-01",
     "latest": "2026-08-25"
   },
@@ -426,6 +426,184 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders",
+      "date": "2026-08-25",
+      "category": "prosecution",
+      "title": "Galamsey Threat Goes Beyond Ghana’s Borders",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Threat Goes Beyond Ghana’s Borders Africa Defense Forum",
+      "metrics": {},
+      "source": {
+        "name": "Africa Defense Forum",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGFBcFM5ZXhXaGxueUtFTGVLZkhETDhQZlR0Vy14WXBDWDNacWU3SkJMWVkwcGhSUkYxV1dDSXplMExwZ05nclJUdkFGSG1hSy1kdjJEbWJGZllDVXgyM3Fzc0lCT1VwOFBSWjVFeEtkM2E2c0dIdzB5R3hDUnkxYy1B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGFBcFM5ZXhXaGxueUtFTGVLZkhETDhQZlR0Vy14WXBDWDNacWU3SkJMWVkwcGhSUkYxV1dDSXplMExwZ05nclJUdkFGSG1hSy1kdjJEbWJGZllDVXgyM3Fzc0lCT1VwOFBSWjVFeEtkM2E2c0dIdzB5R3hDUnkxYy1B?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-goldbod-is-worsening-galamsey-crisis-by-buying-from-illegal-",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "GoldBod is worsening galamsey crisis by buying from illegal miners – Nana B",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod is worsening galamsey crisis by buying from illegal miners – Nana B Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHNWeDJhQ0hzSnJpcmN0Zk9DNzJJNjVoZTdNYmJRcXdnSkRaWGRMVUtmRVROOTloR1plZTRMRHlaM01pcF91LTVacnE1bV8wYzZlR1BPUzVlWEdyMDNVTlQxSkZKa05mMEJGY3BfZTItZjVIcFpLTjkyM192aTFQampCZjh6MnhGR29nWUxXeHAtN21VbHBv0gGWAUFVX3lxTE5pQXZIekNRdVVGRGpwZE03QmwyQWI2am5qZUVCYm14QkpxakJuR0ZJai1lWDFYU1d0Uk1MZWxXT044aXpVUi1RYWllbGV1NjlKdE41WXl5TFVpcXR1WWJOSEVHQXVCLXdZenBSSnpGR1htN2d0dENLNHNWa2Q4LXpHcTFuSDBtTkRZdC1YcVdmdzdpbnlIQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxObHNWeDJhQ0hzSnJpcmN0Zk9DNzJJNjVoZTdNYmJRcXdnSkRaWGRMVUtmRVROOTloR1plZTRMRHlaM01pcF91LTVacnE1bV8wYzZlR1BPUzVlWEdyMDNVTlQxSkZKa05mMEJGY3BfZTItZjVIcFpLTjkyM192aTFQampCZjh6MnhGR29nWUxXeHAtN21VbHBv0gGWAUFVX3lxTE5pQXZIekNRdVVGRGpwZE03QmwyQWI2am5qZUVCYm14QkpxakJuR0ZJai1lWDFYU1d0Uk1MZWxXT044aXpVUi1RYWllbGV1NjlKdE41WXl5TFVpcXR1WWJOSEVHQXVCLXdZenBSSnpGR1htN2d0dENLNHNWa2Q4LXpHcTFuSDBtTkRZdC1YcVdmdzdpbnlIQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-eastern-region-galamsey-concerns-raised-in-suhum-npp-demands",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Eastern Region: Galamsey concerns raised in Suhum; NPP demands independent probe",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Eastern Region: Galamsey concerns raised in Suhum; NPP demands independent probe Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmZ3cEx2Nm5zTVRmbmp6ZjVnNjBIRlRiRmVFc2g3eENWTm8xaklEUV9DSGM0VjlxdkozQk9VaTFZdHgzNzZQOElKZmJWdUxvQ2d2M3JnOGRxV3BIeWRYc3lNT1FWNlFnRmFJajZGQ01YZjlrRHRuVHRaOG5TWGFwOVcwWENBdHVZemF6REJjNENWOXFMeExPNnVYZXdoWUg2Zkp3d0N3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmZ3cEx2Nm5zTVRmbmp6ZjVnNjBIRlRiRmVFc2g3eENWTm8xaklEUV9DSGM0VjlxdkozQk9VaTFZdHgzNzZQOElKZmJWdUxvQ2d2M3JnOGRxV3BIeWRYc3lNT1FWNlFnRmFJajZGQ01YZjlrRHRuVHRaOG5TWGFwOVcwWENBdHVZemF6REJjNENWOXFMeExPNnVYZXdoWUg2Zkp3d0N3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-11-children-among-23-killed-in-abandoned-mining-pit",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Galamsey: 11 Children Among 23 Killed in Abandoned Mining Pits",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: 11 Children Among 23 Killed in Abandoned Mining Pits Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMc0luRHpqS0pMbUxPY0tJS2kwa1pPTU1oSkxHbTVBZjkwck5nUXpHbFk3elJjY0lrNG9pRTNISzQyd3M0WU1XMmxzeVQySDktMmg0UU4zLTNud0VsZlZDQlVqYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMc0luRHpqS0pMbUxPY0tJS2kwa1pPTU1oSkxHbTVBZjkwck5nUXpHbFk3elJjY0lrNG9pRTNISzQyd3M0WU1XMmxzeVQySDktMmg0UU4zLTNud0VsZlZDQlVqYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-08-25-npp-accuses-goldbod-of-fueling-galamsey-through-gold-buying-",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "NPP Accuses GoldBod of Fueling Galamsey Through Gold Buying System",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP Accuses GoldBod of Fueling Galamsey Through Gold Buying System Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CLTRVVWFmREYyY2d0WW1VN3lsa3ZmREZqZFNrdGNPbXl5OW5WMm1TZXFYemNFQzJlSXB2RmFtYmpyTmRaV2Fmcjl3RGxSOVZHRzRwSzl4MElzNVFhYVdxVzFraw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CLTRVVWFmREYyY2d0WW1VN3lsa3ZmREZqZFNrdGNPbXl5OW5WMm1TZXFYemNFQzJlSXB2RmFtYmpyTmRaV2Fmcjl3RGxSOVZHRzRwSzl4MElzNVFhYVdxVzFraw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-25-npp-accuses-goldbod-of-worsening-ghana-s-galamsey-crisis-gha",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "NPP Accuses GoldBod of Worsening Ghana’s Galamsey Crisis | Ghana News",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP Accuses GoldBod of Worsening Ghana’s Galamsey Crisis | Ghana News Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MSUZfSTlTZEhqTmhEVmZ4djQ4SXJ1OGs0WHIxcDNJLXhFVHdSdXFLRmJjOVVvTnRIQWdCbXM3cVg5QnQ5YVlQQXFjQnFPbmY4eGJ4QlB6aVBsNGE4am16MGV3UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MSUZfSTlTZEhqTmhEVmZ4djQ4SXJ1OGs0WHIxcDNJLXhFVHdSdXFLRmJjOVVvTnRIQWdCbXM3cVg5QnQ5YVlQQXFjQnFPbmY4eGJ4QlB6aVBsNGE4am16MGV3UQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-is-not-new-once-people-know-there-is-gold-it-become",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Galamsey is not new; once people know there is gold, it becomes difficult to stop — Kwadwo Poku.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is not new; once people know there is gold, it becomes difficult to stop — Kwadwo Poku. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobkFlWTM3OEltbnA0b2FGMUlOS3E1UDdHMW1VWXlEUGhQMkJGQXlMSkZsT3NEWVVVR3J4RWliM0NWRzRESkVPeTI4bVA5cXVpbkIySktZUUN1a0wxa3RicnR1TTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBobkFlWTM3OEltbnA0b2FGMUlOS3E1UDdHMW1VWXlEUGhQMkJGQXlMSkZsT3NEWVVVR3J4RWliM0NWRzRESkVPeTI4bVA5cXVpbkIySktZUUN1a0wxa3RicnR1TTA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-23-dead-in-ashanti-galamsey-pit-falls-minister-says",
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "23 Dead In Ashanti Galamsey Pit Falls, Minister Says",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 Dead In Ashanti Galamsey Pit Falls, Minister Says News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSV8zRDRzMkJNbmMzb2RMRW8xeTQ2OVcwbnFiVFk1RFVLdjVpSHdJRjBqMnNYLWVxR09rTnBHdElaLTNKT24zeU9Ldm5sWGtSa0NEXzdTVkU5NW05UWxkZllnc1RzdVhzY0tPZkl1M1pkSUhOUV9IN255QVp6RkMydW85bw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxOSV8zRDRzMkJNbmMzb2RMRW8xeTQ2OVcwbnFiVFk1RFVLdjVpSHdJRjBqMnNYLWVxR09rTnBHdElaLTNKT24zeU9Ldm5sWGtSa0NEXzdTVkU5NW05UWxkZllnc1RzdVhzY0tPZkl1M1pkSUhOUV9IN255QVp6RkMydW85bw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-08-25-the-accra-turf-club-calls-for-investigations-into-demolition",
+      "date": "2026-08-25",
+      "category": "policy",
+      "title": "The Accra Turf Club calls for investigations into demolition of facilities at Borteyman",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Accra Turf Club has condemned what it said was the forceful entry, trespass, demolition and takeover of its race course and facilities. It said the club considered the events of August 22, 2026 to be extremely serious and calls upon the President of John Dramani Mahama; the Minister of the Interior, Muntaka Mohammed-Mubarak; the Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah; the Attorney-Gene",
+      "metrics": {
+        "hectares": 46.64
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/the-accra-turf-club-calls-for-investigations-into-demolition-of-facilities.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/the-accra-turf-club-calls-for-investigations-into-demolition-of-facilities.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
@@ -3553,7 +3731,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-16-i-m-not-against-enforcing-the-law-duncan-williams-on-prayers",
@@ -4028,8 +4206,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -5623,8 +5800,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-murtala-mohammed-left-indelible-footprints-at-mest-armah-kofi-buah-eulogises.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-illegal-mining-lures-ghanaian-children-out-of-school-and-int",
@@ -5741,7 +5917,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
@@ -8716,8 +8892,7 @@
         "name": "The Sikaman Times",
         "url": "https://sikamantimes.com/govt-reports-200-anti-galamsey-operations-207-arrests-in-first-half-of-2026/"
       },
-      "verified": true,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": true
     },
     {
       "id": "auto-2026-07-16-some-reclamation-contractors-using-galamsey-to-fund-their-wo",
