@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-25T07:11:59.275Z",
+  "updated": "2026-08-25T13:15:07.162Z",
   "counts": {
-    "total": 461,
+    "total": 475,
     "verified": 28,
-    "automated": 433,
+    "automated": 447,
     "earliest": "2024-07-01",
     "latest": "2026-08-25"
   },
@@ -90,6 +90,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYm5QcXZPanJ1akU1aHFiOFh6d2czV2hkLUZBbUNlOWN6WVBWUEpXQ3FyWUlNQUNWUFQ4aTVLYXFGWkt4TXQ5dG5qODJRTEFBNS1wZk9NWTVOcjlxX3VhVzhQZy1VcEV0UTh6eWk5UzJTSTlsOVJTYkIyRmZwTVdvMU1oMzY1UXBDVmlXdy1iWERNZTFPYzVBMDFjWWlxQTdaRktiWFNhU3FzZEVRUnNIVEF6TXZFQWM5RmFfUDN4dG10S3lKaHlCajh1azQwN0UtZl90NnVJc0Q?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-25T13:10:12.498Z",
       "thread": "t-auto-2026-08-12-the-galamsey-fight-illegal-miners-emboldened-by-backing-from"
     },
     {
@@ -149,6 +150,282 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens"
+    },
+    {
+      "id": "auto-2026-08-25-erosion-of-values-fuelling-galamsey-sanitation-crisis-chief-",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Erosion of values fuelling galamsey, sanitation crisis – Chief of Staff",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Erosion of values fuelling galamsey, sanitation crisis – Chief of Staff Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWJ2SnAxRDBUaGFHa0RuZGNoTjZBVHRIcWQ0cXhERE5aVU1XY29ReDhGSTVTQWNxUXRrVDRyN3ZHeXB1bFhWT3FlaXVpY1lCcXV5TzJkMXJhYTRqdDdKbTZvaE5wY0R5Y0VwQ1pvb2E2c21pdHAxbFRRWFcxMEpRdWNtUDk4TkNSNGRyTlJpUjF2b21ZVEFEaVBYMkMydzQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWJ2SnAxRDBUaGFHa0RuZGNoTjZBVHRIcWQ0cXhERE5aVU1XY29ReDhGSTVTQWNxUXRrVDRyN3ZHeXB1bFhWT3FlaXVpY1lCcXV5TzJkMXJhYTRqdDdKbTZvaE5wY0R5Y0VwQ1pvb2E2c21pdHAxbFRRWFcxMEpRdWNtUDk4TkNSNGRyTlJpUjF2b21ZVEFEaVBYMkMydzQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-goldbod-responsible-for-galamsey-menace-npp",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "GoldBod responsible for galamsey menace – NPP",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod responsible for galamsey menace – NPP CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0xGVVNzaDNLR3EtZTNINHlLVWpVakE4NWVqdFV3ZG9seHMtWnRWUF91ZnpZLVowOWpZNURxNWxvdVM1aU1LdzdhTm1YSFBoY1BKblphSFBLbml0U1pyV0w5TklGcV9QQWFFWkZudUpXd3BJbkw1SW8yc01Pa3RnY1NTamk3RlhU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0xGVVNzaDNLR3EtZTNINHlLVWpVakE4NWVqdFV3ZG9seHMtWnRWUF91ZnpZLVowOWpZNURxNWxvdVM1aU1LdzdhTm1YSFBoY1BKblphSFBLbml0U1pyV0w5TklGcV9QQWFFWkZudUpXd3BJbkw1SW8yc01Pa3RnY1NTamk3RlhU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-23-lives-lost-to-abandoned-galamsey-pits-in-a-r-president-mu",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "23 lives lost to abandoned galamsey pits in A/R: President must ban mining for a year - Adorye.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 lives lost to abandoned galamsey pits in A/R: President must ban mining for a year - Adorye. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ad2hsY2VoSDk2azJJQk5wSHVqOUl6QnJyS2RHTnNKUl9wYUxTVWRDZE91MlZvVUFJY0sxMUdtQ0t4dENrTUxIY0FELWxkM0NIb2lDYlJNOUIzcmU4T0s0N24zbTI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ad2hsY2VoSDk2azJJQk5wSHVqOUl6QnJyS2RHTnNKUl9wYUxTVWRDZE91MlZvVUFJY0sxMUdtQ0t4dENrTUxIY0FELWxkM0NIb2lDYlJNOUIzcmU4T0s0N24zbTI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-illegal-mining-anti-galamsey-task-force-intensifies-operatio",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Illegal Mining: Anti-galamsey task force intensifies operations in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "Illegal Mining: Anti-galamsey task force intensifies operations in Western Region Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUmZmZUM4Ry1BZ1ZIMGw2Ny1OYVZZN2NUcjMzb3ktcFlxRU05dHdITENuT3FFcXJKM0xDX0RLTC1TYkNuaElwbDFnc0Z0aXR0R3gxeGE0REtTeTBuMWJka0JwOXk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUmZmZUM4Ry1BZ1ZIMGw2Ny1OYVZZN2NUcjMzb3ktcFlxRU05dHdITENuT3FFcXJKM0xDX0RLTC1TYkNuaElwbDFnc0Z0aXR0R3gxeGE0REtTeTBuMWJka0JwOXk?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-goldbod-now-responsible-for-galamsey-npp-alleges",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Goldbod now responsible for galamsey- NPP alleges",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Goldbod now responsible for galamsey- NPP alleges Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVR0MUFXekdjYVdYaDlNc1BDSWxOWnk1cDgtRUxiY3BMWDNVZVRwMTllNjBDSlFidElxTHByd21Bakd5aHFVOERzd1M4UXlvbFIxZFgzTDFRUVdRNlJTWEw1Y2ZmcGNtaUtSNVVFZElpY0Q0aUJFaGRhSmpTZTZiWVVn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVR0MUFXekdjYVdYaDlNc1BDSWxOWnk1cDgtRUxiY3BMWDNVZVRwMTllNjBDSlFidElxTHByd21Bakd5aHFVOERzd1M4UXlvbFIxZFgzTDFRUVdRNlJTWEw1Y2ZmcGNtaUtSNVVFZElpY0Q0aUJFaGRhSmpTZTZiWVVn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-23-including-11-children-killed-by-abandoned-galamsey-pits-a",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "23, including 11 children, killed by abandoned galamsey pits – Ashanti Regional Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23, including 11 children, killed by abandoned galamsey pits – Ashanti Regional Minister Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZUelF3RlBrMG1EbVlCR1JROUhJTmVidjhvblJtRF9iVGJBMzdYajh5Yk5GYW9yVjEzS1A3aGxQWlpSblkxNXMzNmRTN3NXOWhiY1gtN2tiZ3dpakl6czE2bGtyTmI4Q3U3WF9qUlRwT0xCWHh2Sk45RUpPRUo4eFZkc3Atb3YwTUlfaUZjaFZyM3gtVUVka2JPVzYzekJsWUFYTGNnSDgyanhTeWgxTnV3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjZUelF3RlBrMG1EbVlCR1JROUhJTmVidjhvblJtRF9iVGJBMzdYajh5Yk5GYW9yVjEzS1A3aGxQWlpSblkxNXMzNmRTN3NXOWhiY1gtN2tiZ3dpakl6czE2bGtyTmI4Q3U3WF9qUlRwT0xCWHh2Sk45RUpPRUo4eFZkc3Atb3YwTUlfaUZjaFZyM3gtVUVka2JPVzYzekJsWUFYTGNnSDgyanhTeWgxTnV3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-23-lives-lost-to-abandoned-galamsey-pits-in-a-r-illegal-mini",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "23 lives lost to abandoned galamsey pits in A/R: Illegal mining fight grows complex — Dr. Boahene.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 lives lost to abandoned galamsey pits in A/R: Illegal mining fight grows complex — Dr. Boahene. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwdUNaZ1dhZjQ3UTl1MU5NOGd5S3FyYkV5QUZyNUhlb2p0T01qX0FRaHhZQU5aTDNlS1lxV1hKUVpnMWt1d3lLWDNCN2sxT280RHBlQTBJSWlkODF3T0JRVHBnWGQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwdUNaZ1dhZjQ3UTl1MU5NOGd5S3FyYkV5QUZyNUhlb2p0T01qX0FRaHhZQU5aTDNlS1lxV1hKUVpnMWt1d3lLWDNCN2sxT280RHBlQTBJSWlkODF3T0JRVHBnWGQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-23-lives-lost-to-abandoned-galamsey-pits-time-to-stop-pamper",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "23 Lives Lost to Abandoned Galamsey Pits: Time to Stop Pampering Illegal Miners? | Matters Arising",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 Lives Lost to Abandoned Galamsey Pits: Time to Stop Pampering Illegal Miners? | Matters Arising Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaFdla21ZMXRzUFQyamJPZVVuN2plVkNydWRvUmEwVUwyMF9YWjJRM0pWdGRxd0J2ZmtCU2lJTTY4U2Q5V2xIOGZTcW1sMWwyY01YQmI3ZEx1NmcwUWZQYUZ5bVg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GaFdla21ZMXRzUFQyamJPZVVuN2plVkNydWRvUmEwVUwyMF9YWjJRM0pWdGRxd0J2ZmtCU2lJTTY4U2Q5V2xIOGZTcW1sMWwyY01YQmI3ZEx1NmcwUWZQYUZ5bVg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-08-25-23-lives-lost-to-abandoned-galamsey-pits-in-a-r-we-must-focu",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "23 lives lost to abandoned galamsey pits in A/R: We must focus on reclaiming the lands - Bataglia.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "23 lives lost to abandoned galamsey pits in A/R: We must focus on reclaiming the lands - Bataglia. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSFVScWpWWFJzX09IdEhVbngwTEF3WExlT1RjMTJpbWZDUEM0bnNpc1hGOVV5M0F3ZFRieF9GcWxRU2hKR2xuTm9DTi1ZWnhiWnFNeWpic3VCS0RIMkFmcjVfOXI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XSFVScWpWWFJzX09IdEhVbngwTEF3WExlT1RjMTJpbWZDUEM0bnNpc1hGOVV5M0F3ZFRieF9GcWxRU2hKR2xuTm9DTi1ZWnhiWnFNeWpic3VCS0RIMkFmcjVfOXI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-ashanti-region-23-dead-including-11-children-in-abandoned-ga",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Ashanti Region: 23 Dead, Including 11 Children, in Abandoned Galamsey Pits",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Ashanti Region: 23 Dead, Including 11 Children, in Abandoned Galamsey Pits Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jYnZnQU5ILUZ1eFRHd3QtQXRjS0RFYmFnSU0yc1VEb3JFZ01FSmhXQnpyMWRiamZNME1WUENCLTlOY0F1ck1nYnBUS2I3RW1VX2NsNVp0ZThQdU1idlVDSE5OZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jYnZnQU5ILUZ1eFRHd3QtQXRjS0RFYmFnSU0yc1VEb3JFZ01FSmhXQnpyMWRiamZNME1WUENCLTlOY0F1ck1nYnBUS2I3RW1VX2NsNVp0ZThQdU1idlVDSE5OZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-08-25-park-rangers-arrest-17-miners-in-cross-river-over-alleged-il",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Park Rangers arrest 17 miners in Cross River over alleged illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Park Rangers arrest 17 miners in Cross River over alleged illegal mining Daily Post Nigeria",
+      "metrics": {
+        "arrests": 17
+      },
+      "source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVBdEd4enJNQ2lhV1JwSGRCRURVS2ZHM21fbTktYlh0YWZjRS1CamsxUkd4aHEzY1YzbzBZMWdmbWhGTEY2N3V6dkFfZWhVbVNQWm5mWEZFWERMTmJra0R3a0g3aVpLZFlJajdpN0w4MC11ZXNlQjJaa3BPS0xLM1NUZTNLbjRvSUNDS045aHdQWXd6ZmdUcFhKZm8zQjFLTENUTjhubXY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREVBdEd4enJNQ2lhV1JwSGRCRURVS2ZHM21fbTktYlh0YWZjRS1CamsxUkd4aHEzY1YzbzBZMWdmbWhGTEY2N3V6dkFfZWhVbVNQWm5mWEZFWERMTmJra0R3a0g3aVpLZFlJajdpN0w4MC11ZXNlQjJaa3BPS0xLM1NUZTNLbjRvSUNDS045aHdQWXd6ZmdUcFhKZm8zQjFLTENUTjhubXY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten"
+    },
+    {
+      "id": "auto-2026-08-25-npp-alleges-goldbod-gold-purchases-could-be-fuelling-galamse",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "NPP alleges GoldBod gold purchases could be fuelling galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The New Patriotic Party (NPP) has raised concerns over the role of the Ghana Gold Board (GoldBod) in the fight against illegal mining, alleging that its gold purchasing arrangements may be allowing illegally mined gold to enter the formal market.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/npp-alleges-goldbod-gold-purchases-could-be-fuelling-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/npp-alleges-goldbod-gold-purchases-could-be-fuelling-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
+    },
+    {
+      "id": "auto-2026-08-25-land-surveyors-tasked-to-imbibe-technology-for-effective-lan",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Land surveyors tasked to imbibe technology for effective land administration",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Land surveyors in the country have been urged to move beyond traditional measurement and mapping by adopting spatial intelligence capable of supporting national planning, development and informed decision-making. They have also been encouraged to make effective use of technological advancements, together with stronger collaboration among built-environment professionals, for effective service delivery. The Chief Execu",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-land-surveyors-tasked-to-imbibe-technology-for-effective-land-administration.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-land-surveyors-tasked-to-imbibe-technology-for-effective-land-administration.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-land-surveyors-call-for-stronger-collaboration-and-regulatio"
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-naimos-raids-ankobra-destroys-86-chanfang-machines",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Galamsey: NAIMOS raids Ankobra, destroys 86 Chanfang machines",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has intensified operations against illegal mining activities threatening the River Ankobra in the Western Region. The latest operation targeted illegal mining sites within the Ablebo General Area of the Ellembelle District. Three suspected illegal miners were arrested and handed over to the Police in Axim for further investigation. […]",
+      "metrics": {
+        "changfan": 86
+      },
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/galamsey-naimos-raids-ankobra-destroys-86-chanfang-machines/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-naimos-raids-ankobra-destroys-86-chanfang-machines/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
@@ -1295,7 +1572,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/land-surveyors-call-for-stronger-collaboration-and-regulation-to-improve-land-governance/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-21-land-surveyors-call-for-stronger-collaboration-and-regulatio"
     },
     {
       "id": "auto-2026-08-21-galamsey-is-destroying-ghana-s-cognitive-future-one-iq-point",
@@ -3409,7 +3687,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-will-be-a-key-issue-for-npps-2028-campaign-annoh-dompreh/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
     },
     {
       "id": "auto-2026-08-15-0ur-water-bodies-in-eastern-region-are-gone-annoh-dompreh-na",
@@ -4074,7 +4353,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzhjS2tEU2FQWnl6Qjk2YWs3SncyV1VkbG5CWVVuMUp0MDBjR2lKYnRJR3BaRkZqUW55SnpYX21vS3JlQzlaeFVjSTN2VnJDSGdoSHZkZ1ZHMzIzMFFZRFR5Y1FkT3g0a3B0N2lKdEI5T2lLbXZKcWd0M043N2h3YTJCV01pU0psQVk4dnJfS3NuaTNJZnZkS3FFelRCajF1OTc3SjdaYlRuUVFlYS04ZE9kRHFJYnMyMU9xRU1R?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T19:18:38.504Z"
+      "archivedAt": "2026-08-12T19:18:38.504Z",
+      "thread": "t-auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten"
     },
     {
       "id": "auto-2026-08-12-14-illegal-miners-dead-scores-injured-in-south-africa",
