@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-26T07:11:30.657Z",
+  "updated": "2026-08-26T13:20:21.492Z",
   "counts": {
-    "total": 488,
+    "total": 497,
     "verified": 28,
-    "automated": 460,
+    "automated": 469,
     "earliest": "2024-07-01",
     "latest": "2026-08-26"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-26T13:15:32.220Z"
     },
     {
       "id": "auto-2026-08-26-goldbod-s-operations-not-worsening-galamsey-majority",
@@ -63,7 +64,163 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDdGMEVNNXpvaXZKbW0zMDFDYTQ4Rmg0ZGYzbEVxQk1EelNweUM2UUZPa1RnMk05RzVnUDZfQjM5X1JVV1VWMm9kUDI3LXZyQnpmbmxmaG4xYVBDdjZ5Zk5RNFRsVVh3bDRNYUd5dkRDZU9ZN3hLVE1BMUREOUNnTFlkUHp1MlJIc2RXRUxoWXpjdnY4bjVha2RxcUtKUDNkN0drdF95WQ?oc=5",
       "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-26T13:16:57.438Z"
+    },
+    {
+      "id": "auto-2026-08-26-galamsey-is-not-a-problem-it-is-a-decision",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Galamsey is not a problem; it is a decision",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is not a problem; it is a decision Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVNwRm0tdlRZLXZONkRNNUtiODl5S01VXzk5cEc0Rmk1YUZ3Um5rdzlpLUJXSVJyRnhEeDhFaWljU1B5THhHZFBsSzdPaTVTbUxXUldtaFhnUkN1Q0lXTE9aYlhjWEFTaWZoSVRnSjlHYXdXNUx1NVBQZW96enZkNGl4ZlViOHBkdERiaWV5U2TSAZABQVVfeXFMT1FTcEZtLXZUWS12TjZETTVLYjg5eUtNVV85OXBHNEZpNWFGd1Jua3c5aS1CV0lSckZ4RHg4RWlpY1NQeUx4R2RQbEs3T2k1U21MV1JXbWhYZ1JDdUNJV0xPWmJYY1hBU2lmaElUZ0o5R2F3VzVMdTVQUGVvenp2ZDRpeGZVYjhwZHREYmlleVNk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVNwRm0tdlRZLXZONkRNNUtiODl5S01VXzk5cEc0Rmk1YUZ3Um5rdzlpLUJXSVJyRnhEeDhFaWljU1B5THhHZFBsSzdPaTVTbUxXUldtaFhnUkN1Q0lXTE9aYlhjWEFTaWZoSVRnSjlHYXdXNUx1NVBQZW96enZkNGl4ZlViOHBkdERiaWV5U2TSAZABQVVfeXFMT1FTcEZtLXZUWS12TjZETTVLYjg5eUtNVV85OXBHNEZpNWFGd1Jua3c5aS1CV0lSckZ4RHg4RWlpY1NQeUx4R2RQbEs3T2k1U21MV1JXbWhYZ1JDdUNJV0xPWmJYY1hBU2lmaElUZ0o5R2F3VzVMdTVQUGVvenp2ZDRpeGZVYjhwZHREYmlleVNk?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-why-galamsey-won-t-die-the-uncomfortable-truth-behind-ghana-",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Why Galamsey Won't Die: The Uncomfortable Truth Behind Ghana's Longest War With Itself",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Why Galamsey Won't Die: The Uncomfortable Truth Behind Ghana's Longest War With Itself Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmFTSTFBOFVmWTZta1F6UmRfMjlMelFxRXdzd1FVQUI5TjFSdGVoclFGT21ZOFpEVVplSFQ2eGNwajZmNEppdFBmTFVhd3h3bk1UU1lHcUNGdXRVTmVVeGdjMmdZLVV5czdnTjlCc1lpOXZOcEJPYXVZMzZjam83VlMtbzc0MjBYcmozcFlNWlFJT3dud1HSAZQBQVVfeXFMTThlSGMwMUFVdXJTNlFGTmRlc3dBUENCdmRob1hpdl9DVWlkaTR6SjJzeTlNU3NKSWlUTUV3c1RNWW5GZy1fN25kdVNEXzJkd3M1NWxxc2FFUzdGVzlwd2tJU3ptOU40Ui1ESnpVeVUxOS1QUVVaSU1zVzFIVC1WeUhmUmRBOUluTGNDYjZkSlJmYTNUZg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmFTSTFBOFVmWTZta1F6UmRfMjlMelFxRXdzd1FVQUI5TjFSdGVoclFGT21ZOFpEVVplSFQ2eGNwajZmNEppdFBmTFVhd3h3bk1UU1lHcUNGdXRVTmVVeGdjMmdZLVV5czdnTjlCc1lpOXZOcEJPYXVZMzZjam83VlMtbzc0MjBYcmozcFlNWlFJT3dud1HSAZQBQVVfeXFMTThlSGMwMUFVdXJTNlFGTmRlc3dBUENCdmRob1hpdl9DVWlkaTR6SjJzeTlNU3NKSWlUTUV3c1RNWW5GZy1fN25kdVNEXzJkd3M1NWxxc2FFUzdGVzlwd2tJU3ptOU40Ui1ESnpVeVUxOS1QUVVaSU1zVzFIVC1WeUhmUmRBOUluTGNDYjZkSlJmYTNUZg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-galamsey-making-it-difficult-to-find-medicinal-plants-ghaftr",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Galamsey making it difficult to find medicinal plants – GHAFTRAM",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey making it difficult to find medicinal plants – GHAFTRAM Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckdiSWNEWS1DY3NVUDVQRkNDRlRNOW40ZFdjTHRCemdSVG5DTTBiYnVmNkdNRjlLLTBuUTlROEFaTFp4ZWJiTW5UNTVCWFp6bWQ3dF8yTl81WklxY3FqU3RVVTBYUGZOM296SDhuRnhtckZRNmRLdm51R2pTM3NGeTNzVGpSN3RSLXZJeVNvN2FYeF85?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPckdiSWNEWS1DY3NVUDVQRkNDRlRNOW40ZFdjTHRCemdSVG5DTTBiYnVmNkdNRjlLLTBuUTlROEFaTFp4ZWJiTW5UNTVCWFp6bWQ3dF8yTl81WklxY3FqU3RVVTBYUGZOM296SDhuRnhtckZRNmRLdm51R2pTM3NGeTNzVGpSN3RSLXZJeVNvN2FYeF85?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-bosomtwe-dce-denies-galamsey-allegations-threatens-defamatio",
+      "date": "2026-08-26",
+      "category": "prosecution",
+      "title": "Bosomtwe DCE denies galamsey allegations, threatens defamation suit against Assembly Member",
+      "place": "Bosomtwe",
+      "region": "Ashanti",
+      "lat": 6.5,
+      "lon": -1.41,
+      "summary": "A group of Assembly Members in the Bosomtwe District of the Ashanti Region has accused the District Chief Executive, Ing. Hamidu Abdallah, of involvement in illegal mining activities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/bosomtwe-dce-denies-galamsey-allegations-threatens-defamation-suit-against-assembly-member/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/bosomtwe-dce-denies-galamsey-allegations-threatens-defamation-suit-against-assembly-member/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-chamber-of-mines-adamus-welcome-govt-efforts-to-revive-mine",
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "Chamber of Mines, Adamus welcome govt efforts to revive mine",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Ghana Chamber of Mines and Adamus Resources Limited have welcomed the government’s decision to provide a pathway towards resolving the impasse surrounding the company and facilitating the restoration of the Adamus Mine to sustainable operations. The two organisations described the agreement as a significant step in protecting jobs, local businesses, host communities and the mine’s contribution to the country’s mi",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-chamber-of-mines-adamus-welcome-govt-efforts-to-revive-mine.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-chamber-of-mines-adamus-welcome-govt-efforts-to-revive-mine.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+    },
+    {
+      "id": "auto-2026-08-26-justice-must-guide-africa-s-energy-transition-former-lands-m",
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "Justice must guide Africa's energy transition — Former Lands Minister",
+      "place": "Damongo",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "Former Minister of Lands and Natural Resources, Samuel A. Jinapor, has underscored the need for justice to take centre stage as the continent’s approach to global energy transition. Delivering a keynote speech at the Ghana Component of the “Justice in critical minerals governance and green transition” programme at the University of Ghana last Monday, he explained that without deliberate policy with justice at its cor",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-justice-must-guide-africas-energy-transition-former-lands-minister.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-justice-must-guide-africas-energy-transition-former-lands-minister.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
+    },
+    {
+      "id": "auto-2026-08-26-stay-away-from-galamsey-areas-ghaftram-advises-members",
+      "date": "2026-08-26",
+      "category": "water",
+      "title": "Stay away from galamsey areas – GHAFTRAM advises members",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Federation of Traditional Medicine Practitioners Associations (GHAFTRAM) has reiterated advice to members to stop cultivating medicinal plants in areas heavily affected by illegal mining, popularly known as galamsey. GHAFTRAM General Secretary, Okogyeabibiduro Nana Kwadwo Obiri, said the decision was necessary because plants cultivated in galamsey-affected areas could be contaminated and pose risks to […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/stay-away-from-galamsey-areas-ghaftram-advises-members/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/stay-away-from-galamsey-areas-ghaftram-advises-members/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-review-strategies-to-fight-galamsey-ghie-urges",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Review strategies to fight ‘galamsey’ – GhIE urges",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "THE Ghana Institution of Engineering (GhIE) has called for a comprehensive review of the country’s strategy for the fight against illegal mining, popularly known as galamsey. According to the institute, the fight against illegal mining must be guided by clear targets and measurable results which the public could see. “We must know what success looks … The post Review strategies to fight ‘galamsey’ – GhIE urges appear",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/review-strategies-to-fight-galamsey-ghie-urges/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/review-strategies-to-fight-galamsey-ghie-urges/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
     },
     {
       "id": "auto-2026-08-25-ashanti-region-23-killed-in-abandoned-galamsey-pits-in-2026",
@@ -166,7 +323,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
     },
     {
       "id": "auto-2026-08-25-ghana-must-reclaim-the-values-that-kept-our-communities-clea",
@@ -679,6 +837,26 @@
         "url": "https://www.myjoyonline.com/ghie-inducts-183-engineers-calls-for-stronger-action-on-galamsey-and-infrastructure/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ghie-inducts-183-engineers-calls-for-stronger-action-on-galamsey-and-infrastructure/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+    },
+    {
+      "id": "auto-2026-08-25-ashanti-illegal-mining-pits-claim-23-lives-including-minors-",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Ashanti illegal mining pits claim 23 lives, including minors: How can the deaths be stopped",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ashanti illegal mining pits claim 23 lives, including minors: How can the deaths be stopped Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZDd0LWlxbndXRTRXNXRGV05kYjlIS0IwVncyUWhHRUk2Xy05bWtkNVp6UDZLenhNaDNyaTFsS0ZTaEhhbFdOX2V3ZWtfQmZIMHZ0a0VfejNqMTBpOF9zeFdrT1A?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZDd0LWlxbndXRTRXNXRGV05kYjlIS0IwVncyUWhHRUk2Xy05bWtkNVp6UDZLenhNaDNyaTFsS0ZTaEhhbFdOX2V3ZWtfQmZIMHZ0a0VfejNqMTBpOF9zeFdrT1A?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -6750,8 +6928,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUFoY0NPS1hGQ0ZoU3p2N3Y5RW9VRUM0dlZhcndYcVVMMHprWFhES0Z3U2VYTjctTWdMNGFYWG5wR2oxSjRWNjZIYTZzenNVMFFyV2xySkt1Q1VXVlpJYUJ5MnZiYUlkNTVWazNGekd0YkN5N2NrWGZ5T1hIMXdNb1c0WlJVTHd1UjloNEEzLUEzeXc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-05-12-illegal-miners-arrested-over-invasion-of-bosomtwe-range-f"
+      "verified": false
     },
     {
       "id": "auto-2026-08-07-aminasi-forest-reserve-mining-1",
@@ -6828,8 +7005,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTlhbk5MNU5hTVNYbGx3MGpVQVpYWUNsUGVaSWVDUHphQktrLS1nZG52alJ3YzBJcDF6RWF4RnROZ0UxQ3lyODJic3VBS3hOVUZveGVrM0RCVnQyWXY4dEVDZ29fSjlNQWxxSmUta2o3TnNXMWJ2RkZQUGY5RndEZjNQd3J3U1pENzVFWHlNY0pkTDhpdUpJd1FjZ3RHUjN3R2xxY0NXaw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-05-12-suspected-illegal-miners-remanded-after-forestry-commissi"
+      "verified": false
     },
     {
       "id": "auto-2026-08-07-illegal-mining-is-threatening-ghana-s-food-security-not-just",
@@ -7513,8 +7689,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzhiUklmYjc4NFczSEVZY2Etbk9hNDFnMDVQZk1jWmZVdnJZeHlmaVRiZGJ2SWZaa29xVTgxY1NvSFRnQV9TVk1CU3lIdl9IZDF6TExjY1ktWmRtdDA1Zmc3UHFLR3RPdk1VajVWUEVkTW43eGxpQ3JWMjlMOGhjaUxMeE5OWGFYUTZTSzIzU0Z3ZlhxNFNEUWZpYko4QWVfdGRhNjhzM1lZVmRnLTFTcjZXOGI4cFd2ZDNPdnN3WjZDUQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-05-12-suspected-illegal-miners-remanded-after-forestry-commissi"
+      "verified": false
     },
     {
       "id": "auto-2026-08-05-the-premature-verdict-how-a-judicial-leak-political-lawfare-",
