@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-26T02:02:39.801Z",
+  "updated": "2026-08-26T07:11:30.657Z",
   "counts": {
-    "total": 486,
+    "total": 488,
     "verified": 28,
-    "automated": 458,
+    "automated": 460,
     "earliest": "2024-07-01",
     "latest": "2026-08-26"
   },
@@ -24,6 +24,44 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-goldbod-s-operations-not-worsening-galamsey-majority",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "GoldBod’s operations not worsening galamsey – Majority",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod’s operations not worsening galamsey – Majority CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjd0N2ZTSFBYQWN4cW4zcTAtVUxnUzV1VWhmQlpCRXE3TVVtdkZMSG93dmdEOFpzaFBjNUtPYzYxMjVXeDZpa2ZSQ3cyWThNNHdvdnM2c2MwVDRQM1ZuSkRJVkE1Q2pCWW5NU2lQY0prNGpTNGtqazJ5T2lzR1g0SHdXdjJTbHlWRUFBdE5FRC1SMjg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjd0N2ZTSFBYQWN4cW4zcTAtVUxnUzV1VWhmQlpCRXE3TVVtdkZMSG93dmdEOFpzaFBjNUtPYzYxMjVXeDZpa2ZSQ3cyWThNNHdvdnM2c2MwVDRQM1ZuSkRJVkE1Q2pCWW5NU2lQY0prNGpTNGtqazJ5T2lzR1g0SHdXdjJTbHlWRUFBdE5FRC1SMjg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-ramaphosa-says-operation-prosper-is-breaking-illegal-mining-",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Ramaphosa Says Operation Prosper Is Breaking Illegal Mining Syndicates",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ramaphosa Says Operation Prosper Is Breaking Illegal Mining Syndicates streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDdGMEVNNXpvaXZKbW0zMDFDYTQ4Rmg0ZGYzbEVxQk1EelNweUM2UUZPa1RnMk05RzVnUDZfQjM5X1JVV1VWMm9kUDI3LXZyQnpmbmxmaG4xYVBDdjZ5Zk5RNFRsVVh3bDRNYUd5dkRDZU9ZN3hLVE1BMUREOUNnTFlkUHp1MlJIc2RXRUxoWXpjdnY4bjVha2RxcUtKUDNkN0drdF95WQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDdGMEVNNXpvaXZKbW0zMDFDYTQ4Rmg0ZGYzbEVxQk1EelNweUM2UUZPa1RnMk05RzVnUDZfQjM5X1JVV1VWMm9kUDI3LXZyQnpmbmxmaG4xYVBDdjZ5Zk5RNFRsVVh3bDRNYUd5dkRDZU9ZN3hLVE1BMUREOUNnTFlkUHp1MlJIc2RXRUxoWXpjdnY4bjVha2RxcUtKUDNkN0drdF95WQ?oc=5",
       "via": "rss",
       "verified": false
     },
