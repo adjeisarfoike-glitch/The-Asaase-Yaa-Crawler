@@ -1,13 +1,32 @@
 {
-  "updated": "2026-08-25T18:59:48.981Z",
+  "updated": "2026-08-26T02:02:39.801Z",
   "counts": {
-    "total": 484,
+    "total": 486,
     "verified": 28,
-    "automated": 456,
+    "automated": 458,
     "earliest": "2024-07-01",
-    "latest": "2026-08-25"
+    "latest": "2026-08-26"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
+      "date": "2026-08-26",
+      "category": "arrest",
+      "title": "Three arrested as NAIMOS targets galamsey sites along River Ankobra | Joy News Prime (25-8-26)",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "Three arrested as NAIMOS targets galamsey sites along River Ankobra | Joy News Prime (25-8-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-25-ashanti-region-23-killed-in-abandoned-galamsey-pits-in-2026",
       "date": "2026-08-25",
@@ -69,8 +88,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhvRlNaMUI0UFdYTTVkYkY4UERlMjNIZ3M3RWdVU3ZRT0czSnNUWWJfSXFhUlU3VGpTU1JwdExzQUgxSThHQ3V4ZlNzMTNjTmt0anUwcmNFUU53bnp1SFpobkFKMVRKX1BKQVY1eXpOQWJtSUpiaG1DQXdKekNZVUZLWFhoVExTcE94bmFZNzdEcjd1ZXBQbGVEMzBkS3RIcDduUkltVlZMT00?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-25T07:08:30.833Z",
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "archivedAt": "2026-08-25T07:08:30.833Z"
     },
     {
       "id": "auto-2026-08-25-blue-water-guards-programme-failing-in-fight-against-galamse",
@@ -129,7 +147,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/ghana-must-reclaim-the-values-that-kept-our-communities-clean/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-26T01:58:57.595Z"
     },
     {
       "id": "auto-2026-08-25-21-year-old-found-dead-in-galamsey-pit-at-twumkrom",
@@ -149,6 +168,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/21-year-old-found-dead-in-galamsey-pit-at-twumkrom/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-26T01:59:32.181Z",
       "thread": "t-auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens"
     },
     {
@@ -604,6 +624,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "GhIE inducts 183 engineers, calls for stronger action on galamsey and infrastructure",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Institution of Engineering (GhIE) has inducted 183 new members at its 49th Induction Ceremony, with the President of the Institution, Ing. Dr. Ludwig Annang Hesse, calling on engineers to uphold professional standards and contribute to national development. The ceremony, held on Tuesday, August 25, 2026, brought together engineers who successfully passed the March-April 2026 Engineering Professional Examina",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ghie-inducts-183-engineers-calls-for-stronger-action-on-galamsey-and-infrastructure/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ghie-inducts-183-engineers-calls-for-stronger-action-on-galamsey-and-infrastructure/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
@@ -6635,8 +6674,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdLSHY4VS1xc0FCNWpVRXliOVhEX0lyTzV3RFJmbXBPMUQ3WS15bGUyMDRld2lSVVBLYWlMU0hQc09kTzRoTC1naDhHeU9OZkFldG1uMnNkNkFJM0dkbFVyRWxkREY3TTZ6Q3JXNkJ1Tm9MaTBCcVpRcTgzZGY5c0RnRmtqVERFNVlpaV9XYlpTUEpYZ29UOXYyMHlxNWFsSTlzY1BGcmtEUFJMUlE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T08:08:29.804Z",
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "archivedAt": "2026-08-10T08:08:29.804Z"
     },
     {
       "id": "auto-2026-08-07-bono-regional-minister-vows-not-to-relent-on-galamsey-fight-",
@@ -9225,8 +9263,7 @@
         "name": "Rainbow Radio",
         "url": "https://rainbowradioonline.com/2026/03/25/galamsey-crackdown-naimos-seizes-94-excavators-and-arrests-237-in-nationwide-sweep/"
       },
-      "verified": true,
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "verified": true
     },
     {
       "id": "fc-2026-03-04-military-withdrawal",
@@ -9476,8 +9513,7 @@
         "name": "GhanaWeb",
         "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EPA-tryouts-ionic-nano-copper-technology-on-polluted-Birim-River-2023079"
       },
-      "verified": true,
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "verified": true
     },
     {
       "id": "rec-2026-02-05-nyankumase",
