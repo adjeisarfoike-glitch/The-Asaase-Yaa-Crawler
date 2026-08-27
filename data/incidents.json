@@ -1,13 +1,113 @@
 {
-  "updated": "2026-08-26T20:04:58.833Z",
+  "updated": "2026-08-27T09:48:20.912Z",
   "counts": {
-    "total": 505,
+    "total": 515,
     "verified": 28,
-    "automated": 477,
+    "automated": 487,
     "earliest": "2024-07-01",
-    "latest": "2026-08-26"
+    "latest": "2026-08-27"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Mfanteman, Pokukrom, others turn to bottled water amid galamsey fears",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mfanteman, Pokukrom, others turn to bottled water amid galamsey fears GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HblNibTZ6S3NVbVRlVGMyWXh3eFAyUDBLM1MtT3RIM2hUQWlNYVhiMHJEY25TUEhEcXNGOWVXZGNVSUE5S1UxV2dsN1V3TmFvdndZdGxqa3l1QmNLNDRObmdtdEdRN3VRQ2NsdV94a24yOFNvV1Z5V1B4WXM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTE9HblNibTZ6S3NVbVRlVGMyWXh3eFAyUDBLM1MtT3RIM2hUQWlNYVhiMHJEY25TUEhEcXNGOWVXZGNVSUE5S1UxV2dsN1V3TmFvdndZdGxqa3l1QmNLNDRObmdtdEdRN3VRQ2NsdV94a24yOFNvV1Z5V1B4WXM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-ministers-mce-s-chiefs-catholic-bishops-allege-complicity-of",
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Ministers, MCE’s, Chiefs: Catholic Bishops allege complicity of leaders in galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ministers, MCE’s, Chiefs: Catholic Bishops allege complicity of leaders in galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNHJ1aWJCR1N1cXZWdW8tQkhSNmE3VXZlQ3ZhWXg1NERVM1dGaV9XZ19xemR5Q05TSmNkQWVFdldhRFFVREZsQjJqaWEyYjRzQUE1X0w3LU9ZZHZ1dXBROHlsUUZKLUFyUnowb3ZFTGlMellERlVzNDVQclhOM2NvcmFmZ01TRzZ5S3VYZ05adUVjQWNuRHpLUUdYTFNjWGRnVHAxUi1JZnlWZUNneVA4czU2TTA2TUhWMGJITmRES1pEUm5FODdqaFNqR3Q3eFJncnpEZjlR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNHJ1aWJCR1N1cXZWdW8tQkhSNmE3VXZlQ3ZhWXg1NERVM1dGaV9XZ19xemR5Q05TSmNkQWVFdldhRFFVREZsQjJqaWEyYjRzQUE1X0w3LU9ZZHZ1dXBROHlsUUZKLUFyUnowb3ZFTGlMellERlVzNDVQclhOM2NvcmFmZ01TRzZ5S3VYZ05adUVjQWNuRHpLUUdYTFNjWGRnVHAxUi1JZnlWZUNneVA4czU2TTA2TUhWMGJITmRES1pEUm5FODdqaFNqR3Q3eFJncnpEZjlR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Catholic Bishops warn galamsey becoming source of employment for Ghanaian youth",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Catholic Bishops’ Conference has raised concerns that illegal mining, popularly known as galamsey, is increasingly being relied on as a source of employment for young people, despite its devastating impact on the environment and communities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/catholic-bishops-warn-galamsey-becoming-source-of-employment-for-ghanaian-youth/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/catholic-bishops-warn-galamsey-becoming-source-of-employment-for-ghanaian-youth/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-27T09:44:38.489Z",
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-08-27-presby-moderator-urges-government-to-show-political-will-to-",
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Presby Moderator urges government to show political will to end galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Moderator of the Presbyterian Church of Ghana, Rt. Rev. Dr Abraham Nana Opare Kwakye, has urged the government to take firm, decisive action to tackle illegal mining, popularly known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/presby-moderator-urges-government-to-show-political-will-to-end-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/presby-moderator-urges-government-to-show-political-will-to-end-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-we-are-not-angry-enough-to-deal-with-galamsey-presby-moderat"
+    },
+    {
+      "id": "auto-2026-08-27-galamsey-becoming-source-of-employment-for-ghanaian-youth-ca",
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Galamsey becoming source of employment for Ghanaian youth – Catholic Bishops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Catholic Bishops’ Conference has raised concerns that illegal mining, popularly known as galamsey, is increasingly being relied on as a source of employment for young people, despite its devastating impact on the environment and communities. The Conference also expressed concern over the alleged involvement of some politicians, Members of Parliament, Municipal and District […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/galamsey-becoming-source-of-employment-for-ghanaian-youth-catholic-bishops/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-becoming-source-of-employment-for-ghanaian-youth-catholic-bishops/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
     {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
       "date": "2026-08-26",
@@ -378,6 +478,107 @@
         "url": "https://www.graphic.com.gh/news/general-news/police-interdict-officer-over-borteyman-race-course-demolition.html"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/police-interdict-officer-over-borteyman-race-course-demolition.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-we-are-not-angry-enough-to-deal-with-galamsey-presby-moderat",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "‘We are not angry enough to deal with galamsey’ – Presby Moderator",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘We are not angry enough to deal with galamsey’ – Presby Moderator CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkNaUXA5S3B0V2djYjNmdzRnWTlTOUR2STJJNG5fRHdxQ2FuOXR3S0xMTDFhcC05WW5wMElIcVREaTRCWERwdjJlZHNpaG9GaUZxQ1hlVEFkdmphTWI3WksxZ2Fhc3FGVGF4R1BCX0dqdFJrSWpQam1DaWs5RWdkdmlfdkdnTkpmMDlqdlNxblkxbGlRSEtkOEZMOFZHSU5ySHc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkNaUXA5S3B0V2djYjNmdzRnWTlTOUR2STJJNG5fRHdxQ2FuOXR3S0xMTDFhcC05WW5wMElIcVREaTRCWERwdjJlZHNpaG9GaUZxQ1hlVEFkdmphTWI3WksxZ2Fhc3FGVGF4R1BCX0dqdFJrSWpQam1DaWs5RWdkdmlfdkdnTkpmMDlqdlNxblkxbGlRSEtkOEZMOFZHSU5ySHc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-we-are-not-angry-enough-to-deal-with-galamsey-presby-moderat"
+    },
+    {
+      "id": "auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Galamsey being institutionalised as source of employment – Catholic Bishops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey being institutionalised as source of employment – Catholic Bishops CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWNqdGNBd3dQU3FXTlBqUmI1dDZsM0R2RW1xZ1VQSVAyLUlyYzB6a2djeGVBdzQ2V1l1VEMxQjZwbk5sRkkyUk12eDVjTG5rOFZLNHVwNDNxdlNubkpQWldCMGkyR2NhMWVvYzZZM05HMWlYN2g4YVp2dHNmTWM5V3QweUM1TE9TdDN2bUhqSEQxTXhfQzJSZy1jS2ZmdndwVkJ2amltX2VpS19fcFpLMQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWNqdGNBd3dQU3FXTlBqUmI1dDZsM0R2RW1xZ1VQSVAyLUlyYzB6a2djeGVBdzQ2V1l1VEMxQjZwbk5sRkkyUk12eDVjTG5rOFZLNHVwNDNxdlNubkpQWldCMGkyR2NhMWVvYzZZM05HMWlYN2g4YVp2dHNmTWM5V3QweUM1TE9TdDN2bUhqSEQxTXhfQzJSZy1jS2ZmdndwVkJ2amltX2VpS19fcFpLMQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-08-26-catholic-bishops-raise-alarm-over-politicians-chiefs-and-gal",
+      "date": "2026-08-26",
+      "category": "policy",
+      "title": "Catholic Bishops Raise Alarm Over Politicians, Chiefs And Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Catholic Bishops Raise Alarm Over Politicians, Chiefs And Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qT25UN3lUMGpiTS1nTVB2Q1hXY3l4MWVtMWgxY0d1eDBHQjI2bnVLTE9HNFItRXhkVjVRYVlPV3RETldWcDhIanZPblEwZEN2dHV3MmhZckRjaFk3TTluWWh0MA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qT25UN3lUMGpiTS1nTVB2Q1hXY3l4MWVtMWgxY0d1eDBHQjI2bnVLTE9HNFItRXhkVjVRYVlPV3RETldWcDhIanZPblEwZEN2dHV3MmhZckRjaFk3TTluWWh0MA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-08-26-presbyterian-moderator-on-galamsey-corruption-agenda-111-and",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Presbyterian Moderator On Galamsey, Corruption, Agenda 111 And Wesley Girls | The Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Presbyterian Moderator On Galamsey, Corruption, Agenda 111 And Wesley Girls | The Point of View Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNmxnU3R6eTNWOWt6cnNMSnowaWlFa3NjOXAwNTY0NUFqMFBobS1ZenNOd0EwWUk0blBBR0haTHpIMkNhbG5GYWRqOHFBU2JFWUJHay1vUmhEbVlPendTdm1rcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZNmxnU3R6eTNWOWt6cnNMSnowaWlFa3NjOXAwNTY0NUFqMFBobS1ZenNOd0EwWUk0blBBR0haTHpIMkNhbG5GYWRqOHFBU2JFWUJHay1vUmhEbVlPendTdm1rcw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-26-forestry-commission-tackles-illegal-mining-in-50-forest-rese",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "Forestry Commission tackles illegal mining in 50 forest reserves",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A total of 453 illegal miners were arrested in 2025, while the affected reserves were categorised into green, yellow and orange zones to improve monitoring and control.",
+      "metrics": {
+        "arrests": 453
+      },
+      "source": {
+        "name": "Hugh Brown",
+        "url": "https://3news.com/news/forestry-commission-tackles-illegal-mining-in-50-forest-reserves-h"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/forestry-commission-tackles-illegal-mining-in-50-forest-reserves-h",
       "via": "rss",
       "verified": false
     },
@@ -2342,8 +2543,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-fight-must-go-beyond-empty-slogans-it-requires-conscious-effort-methodist-church/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
     },
     {
       "id": "auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to",
@@ -2884,8 +3084,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQck9KVGNfNHc3MTJtbzJ5VmpvUWVPMUpYVWpBZm5zeEpFcHBPa3dNLVRlUm0ySXlITHg0OHYxcjZ5S2ZCeXkxZ3dWQm9GUU50OFhCSXdxUy0zenFWT21mNTZwUjVSNHoyZ3FUaUJPV0IzZVRPYjZfZjlzaURlejhjd0dnMWU2M01kQXR1NE1DcnFNRFNiY3NsYUxiRQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
     },
     {
       "id": "auto-2026-08-19-illegal-mining-ravages-iponan-river-despite-10-year-old-writ",
