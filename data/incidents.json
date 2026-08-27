@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-27T09:48:20.912Z",
+  "updated": "2026-08-27T22:18:31.732Z",
   "counts": {
-    "total": 515,
+    "total": 523,
     "verified": 28,
-    "automated": 487,
+    "automated": 495,
     "earliest": "2024-07-01",
     "latest": "2026-08-27"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTE9HblNibTZ6S3NVbVRlVGMyWXh3eFAyUDBLM1MtT3RIM2hUQWlNYVhiMHJEY25TUEhEcXNGOWVXZGNVSUE5S1UxV2dsN1V3TmFvdndZdGxqa3l1QmNLNDRObmdtdEdRN3VRQ2NsdV94a24yOFNvV1Z5V1B4WXM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse"
     },
     {
       "id": "auto-2026-08-27-ministers-mce-s-chiefs-catholic-bishops-allege-complicity-of",
@@ -107,6 +108,142 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-08-27-galamsey-fight-requires-all-of-government-approach-zanetor",
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Galamsey fight requires ‘all-of-government’ approach – Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight requires ‘all-of-government’ approach – Zanetor CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYV9YV0NIOEp4YjVIMXJycG1RXzdxbVB6WEdGeUxsSURPX0hyV2d1VzNzR0lKb3A1b3BjdmlkeVVzbjZaam1nUE04NVhQb3Y1ajQ2dGZ4LV9HVnQybG5ObmIyU196blA0RnNmWU15VEo3cHhaeUhsLTBYSHFVdi1ZQVhXOU9GeHpEeTlCUVhTWWdDM2VXQXY4S3ltZTY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQYV9YV0NIOEp4YjVIMXJycG1RXzdxbVB6WEdGeUxsSURPX0hyV2d1VzNzR0lKb3A1b3BjdmlkeVVzbjZaam1nUE04NVhQb3Y1ajQ2dGZ4LV9HVnQybG5ObmIyU196blA0RnNmWU15VEo3cHhaeUhsLTBYSHFVdi1ZQVhXOU9GeHpEeTlCUVhTWWdDM2VXQXY4S3ltZTY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-worsening-galamsey-activities-drive-residents-of-mfanteman-p",
+      "date": "2026-08-27",
+      "category": "arrest",
+      "title": "Worsening Galamsey Activities drive residents of Mfanteman, Pokukrom, and others to abandon Boreholes, Sachet Water for Bottled Water",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Worsening Galamsey Activities drive residents of Mfanteman, Pokukrom, and others to abandon Boreholes, Sachet Water for Bottled Water Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHg4Z2JTd1hzY09yN3lQS1djWkVheGpRcXdyTEx6UElJNll5OUpoS0ttZjk3ZEZ5eHRDZWFONzd3M19uZkF1VmNUemc5REpWOXhBSzZfMmNpRVFiOWZXTFpSQzZmUllQOEhUbTdHZU5JaVVpcmIzZVhzNVY5QmhmYzlDR0NSMUkxbElhOVczVWxkZTg2NjJUaNIBmAFBVV95cUxNeHg4Z2JTd1hzY09yN3lQS1djWkVheGpRcXdyTEx6UElJNll5OUpoS0ttZjk3ZEZ5eHRDZWFONzd3M19uZkF1VmNUemc5REpWOXhBSzZfMmNpRVFiOWZXTFpSQzZmUllQOEhUbTdHZU5JaVVpcmIzZVhzNVY5QmhmYzlDR0NSMUkxbElhOVczVWxkZTg2NjJUaA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNeHg4Z2JTd1hzY09yN3lQS1djWkVheGpRcXdyTEx6UElJNll5OUpoS0ttZjk3ZEZ5eHRDZWFONzd3M19uZkF1VmNUemc5REpWOXhBSzZfMmNpRVFiOWZXTFpSQzZmUllQOEhUbTdHZU5JaVVpcmIzZVhzNVY5QmhmYzlDR0NSMUkxbElhOVczVWxkZTg2NjJUaNIBmAFBVV95cUxNeHg4Z2JTd1hzY09yN3lQS1djWkVheGpRcXdyTEx6UElJNll5OUpoS0ttZjk3ZEZ5eHRDZWFONzd3M19uZkF1VmNUemc5REpWOXhBSzZfMmNpRVFiOWZXTFpSQzZmUllQOEhUbTdHZU5JaVVpcmIzZVhzNVY5QmhmYzlDR0NSMUkxbElhOVczVWxkZTg2NjJUaA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse"
+    },
+    {
+      "id": "auto-2026-08-27-we-need-nationwide-spot-checks-for-mercury-contamination-due",
+      "date": "2026-08-27",
+      "category": "water",
+      "title": "We need nationwide spot checks for mercury contamination due to galamsey - Dr. Zenator Agyeman.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We need nationwide spot checks for mercury contamination due to galamsey - Dr. Zenator Agyeman. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FZUttQ1MtR2FpWWpXdXpJcWJaQTE1dFlNblZTTlNnU2JDUGhLbVA0S0U0SnVWQVY0eXdTYU1kZE5LNWZ4UExnREV4bEV5eTViYndmVGdMem5mVDNWdzZqc21Hckg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FZUttQ1MtR2FpWWpXdXpJcWJaQTE1dFlNblZTTlNnU2JDUGhLbVA0S0U0SnVWQVY0eXdTYU1kZE5LNWZ4UExnREV4bEV5eTViYndmVGdMem5mVDNWdzZqc21Hckg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-a-thousand-plus-arrests-are-measurable-progress-in-anti-ille",
+      "date": "2026-08-27",
+      "category": "arrest",
+      "title": "A thousand plus arrests are “measurable progress” in anti-illegal mining operation – Ramaphosa",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A thousand plus arrests are “measurable progress” in anti-illegal mining operation – Ramaphosa defenceWeb",
+      "metrics": {},
+      "source": {
+        "name": "defenceWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnJVWWJfdnpjd0tZVXFxVmZUN01SM3JwOGNaYkRqeDlrM3lHV3o2eTZPU3N3U3pnYTVER0x6T1ZnX0tIY1dhNlN3U0JCRHg2eXBlVUYzUGQyRmtHeHJSdXNvbnQzN09VLVdPNlplaFM4VU1GOEc1aC1SNUZmVTdLTzI0aW5qLUNnU2VjOFdnbHNqUTZQTmZveFJvVWJlVE5ZdGJOT1dxVHVSTEd5ZGJTSkhKR19mVXFFak0yR2hEYWZBRTlCRDU2LVU3R05XRlBKTG42WlRjRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnJVWWJfdnpjd0tZVXFxVmZUN01SM3JwOGNaYkRqeDlrM3lHV3o2eTZPU3N3U3pnYTVER0x6T1ZnX0tIY1dhNlN3U0JCRHg2eXBlVUYzUGQyRmtHeHJSdXNvbnQzN09VLVdPNlplaFM4VU1GOEc1aC1SNUZmVTdLTzI0aW5qLUNnU2VjOFdnbHNqUTZQTmZveFJvVWJlVE5ZdGJOT1dxVHVSTEd5ZGJTSkhKR19mVXFFak0yR2hEYWZBRTlCRDU2LVU3R05XRlBKTG42WlRjRQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-no-plea-deal-for-wontumi-exim-bank-trial-to-proceed",
+      "date": "2026-08-27",
+      "category": "prosecution",
+      "title": "No plea deal for Wontumi; Exim Bank trial to proceed",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The High Court in Accra has directed the prosecution to file its disclosures within 14 days to pave the way for the trial of the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, over the alleged GH¢30 million Ghana Export-Import (Exim) Bank financial loss case. The direction followed an announcement by the State that efforts to r",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/no-plea-deal-for-wontumi-exim-bank-trial-to-proceed.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/no-plea-deal-for-wontumi-exim-bank-trial-to-proceed.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat",
+      "date": "2026-08-27",
+      "category": "policy",
+      "title": "Zanetor Agyeman-Rawlings pledges inter-ministerial coordination on illegal mining, backs styrofoam ban",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "At her vetting, Zanetor Agyeman-Rawlings vowed inter-ministerial coordination on galamsey, backed the styrofoam ban, and flagged brain drain in science.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-gold-refining-in-ghana-more-expensive-than-abroad-kenneth-as",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Gold refining in Ghana more expensive than abroad – Kenneth Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Chamber of Mines and Convenor of the Media Coalition Against Illegal Mining, Kenneth Ashigbey, has disclosed that it currently costs more to refine gold in Ghana than abroad. He explained that the high cost of refining locally is driven by several factors, including the cost of power, taxes … The post Gold refining in Ghana more expensive than abroad – Kenneth Ashigbey appeare",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/gold-refining-in-ghana-more-expensive-than-abroad-kenneth-ashigbey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/gold-refining-in-ghana-more-expensive-than-abroad-kenneth-ashigbey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
@@ -2808,6 +2945,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-20-double-illegality-how-galamsey-is-opening-ghana-s-forests-to"
+    },
+    {
+      "id": "auto-2026-08-20-when-the-rivers-heal-child-welfare-and-ghana-s-anti-galamsey",
+      "date": "2026-08-20",
+      "category": "water",
+      "title": "When the Rivers Heal: Child Welfare and Ghana’s Anti-Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "When the Rivers Heal: Child Welfare and Ghana’s Anti-Galamsey Fight Stimson Center",
+      "metrics": {},
+      "source": {
+        "name": "Stimson Center",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenRscXpBbmdFLUFlWjgydDF1d05LMkRTSUxPVTJhSnB6TS02RGQ3b1RDRERwWFN1NWtKX3o1cGVRZDFabEJvb1VBSDlfQkh6b3ZuajRzSFVxVVN1MHFMVGo0TERjWUhJZTlyWm9XcmV3YjZYQ2pxcUpfaGJic0ZOSGRJYWxzQWpJTm4tQ1pxVXdIQjh0QlVQTFBPYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNenRscXpBbmdFLUFlWjgydDF1d05LMkRTSUxPVTJhSnB6TS02RGQ3b1RDRERwWFN1NWtKX3o1cGVRZDFabEJvb1VBSDlfQkh6b3ZuajRzSFVxVVN1MHFMVGo0TERjWUhJZTlyWm9XcmV3YjZYQ2pxcUpfaGJic0ZOSGRJYWxzQWpJTm4tQ1pxVXdIQjh0QlVQTFBPYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-20-when-the-rivers-heal-child-welfare-and-ghana-s-anti-galamsey"
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
@@ -9469,7 +9626,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0xsaER1MjFRNFVTRW1mMjlwZDlhdHZLYXVaWGs2SElYUFZmUXVmNTZkLTFuQWprT2RmMTBSRUtyMkpkYTNaMVE0Rk5ncGJUTGRrZWFZQW83OFRiNnVzbFFIUnN5V1U1dElTR3F2dXQtVDduV1UyQ0lHUW81NVIwazF2aTBwTnBJOXQyTmdETUJhQzNlWmZEV215cU1DTFMwT3NBbjhDSDhWZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-20-when-the-rivers-heal-child-welfare-and-ghana-s-anti-galamsey"
     },
     {
       "id": "auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free",
