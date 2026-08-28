@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-28T11:25:52.868Z",
+  "updated": "2026-08-28T22:23:56.622Z",
   "counts": {
-    "total": 529,
+    "total": 537,
     "verified": 28,
-    "automated": 501,
+    "automated": 509,
     "earliest": "2024-07-01",
     "latest": "2026-08-28"
   },
@@ -26,6 +26,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-28T22:17:12.822Z",
       "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
     },
     {
@@ -87,6 +88,165 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-28-i-ll-fight-galamsey-environmental-crimes-dr-agyeman-rawlings",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "I’ll fight galamsey, environmental crimes — Dr Agyeman-Rawlings",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "I’ll fight galamsey, environmental crimes — Dr Agyeman-Rawlings Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORU1qUUswU0UwWi05RkMyeGYtMXd5THozU3RydXdzblBIZklhaGh5NVF3X09VREhsV2I0T19YVF9jWmpjeWZfX1c3dzFHUnI0LUNCQk13MnA4d2FPaXlWWGlVN3JlaDIwU0tsYS1DQjdWdVRHVzVHS09zS0l0YnpieVNxRTZjZlk3Wm9UX1A4bFhVRkZBT0w5QXo0TVE2TXhGdFBSTUwzb2xTTm91TlU5QklrYVQ1SkplVlEyTw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxORU1qUUswU0UwWi05RkMyeGYtMXd5THozU3RydXdzblBIZklhaGh5NVF3X09VREhsV2I0T19YVF9jWmpjeWZfX1c3dzFHUnI0LUNCQk13MnA4d2FPaXlWWGlVN3JlaDIwU0tsYS1DQjdWdVRHVzVHS09zS0l0YnpieVNxRTZjZlk3Wm9UX1A4bFhVRkZBT0w5QXo0TVE2TXhGdFBSTUwzb2xTTm91TlU5QklrYVQ1SkplVlEyTw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+    },
+    {
+      "id": "auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "NAIMOS, security agencies raid illegal mining camps threatening Black Volta River in Savannah Region",
+      "place": "Black Volta",
+      "region": "Savannah",
+      "lat": 9,
+      "lon": -2.4,
+      "summary": "NAIMOS, security agencies raid illegal mining camps threatening Black Volta River in Savannah Region MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkRDdUVkQTYwSnlXc25saTdrcEhUM2hVdFlCREhpUnA0Qnd3TkFtZXhWbUp5eTFFQmlLdzFPa3I3VzNDQmV6M0RxNzFOOHJNSmpzc3RqSjJkclFVdmlORklKaGwxUTdVRmVuTUxldjNDM2VaMEQ2WXlMc3pBa3E1d2JMN3dCcXBmSDJQejNsbDFod2RyRzhsejc3R05VMzFlVzhycEhNdXJ5dG1CdWNKcUk1X0ZzbFlCMVVNczVFb2JENF9ReUFV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkRDdUVkQTYwSnlXc25saTdrcEhUM2hVdFlCREhpUnA0Qnd3TkFtZXhWbUp5eTFFQmlLdzFPa3I3VzNDQmV6M0RxNzFOOHJNSmpzc3RqSjJkclFVdmlORklKaGwxUTdVRmVuTUxldjNDM2VaMEQ2WXlMc3pBa3E1d2JMN3dCcXBmSDJQejNsbDFod2RyRzhsejc3R05VMzFlVzhycEhNdXJ5dG1CdWNKcUk1X0ZzbFlCMVVNczVFb2JENF9ReUFV?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
+    },
+    {
+      "id": "auto-2026-08-28-water-crisis-looms-as-galamsey-rages-patrick-yaw-boamah-warn",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "Water Crisis Looms as Galamsey Rages — Patrick Yaw Boamah Warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Water Crisis Looms as Galamsey Rages — Patrick Yaw Boamah Warns MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjMtQVU0b1BvdXJQRWhnZkd6eHlMR0puWEM1MlVhNXV5TjZCOGNNek5ZVHhhMHBMS1hPWnZzU3dLVnBfSUtHU0RlVjhCQW5aSnZwNm1PbzhtcUVyaVRNR2M0M1dTaXJqRFNkcWxpSmVHTXRYS3VDTHp6Nk92a25NaXBhdTQwNzNEeGdveDIxNUs?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjMtQVU0b1BvdXJQRWhnZkd6eHlMR0puWEM1MlVhNXV5TjZCOGNNek5ZVHhhMHBMS1hPWnZzU3dLVnBfSUtHU0RlVjhCQW5aSnZwNm1PbzhtcUVyaVRNR2M0M1dTaXJqRFNkcWxpSmVHTXRYS3VDTHp6Nk92a25NaXBhdTQwNzNEeGdveDIxNUs?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-28-property-rate-can-yield-gh-20billion-yearly-local-government",
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "Property rate can yield GH¢20billion yearly - Local Government Minister designate says at vetting",
+      "place": "Bawku",
+      "region": "Upper East",
+      "lat": 11.06,
+      "lon": -0.24,
+      "summary": "The Minister designate for Local Government, Chieftaincy and Religious Affairs, Mahama Ayariga, has said he will introduce a technology-driven system to help Metropolitan, Municipal and District Assemblies (MMDAs) identify, value and collect property rates to boost local revenue. He said the initiative could unlock an estimated GH¢20 billion annually in property rates alone, describing the potential revenue base of t",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-property-rate-can-yield-ghc20bn-yearly-local-government-minister-designate-says-at-vetting.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-property-rate-can-yield-ghc20bn-yearly-local-government-minister-designate-says-at-vetting.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-28-implement-accepted-recommendations-human-rights-csos-to-govt",
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "Implement accepted recommendations human rights — CSOs to govt",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two Civil Society groups have called on the government to deepen the implementation of accepted human rights recommendations as the country prepares to appear before the UN Human Rights Council again in 2027. They have also urged Parliament to swiftly pass the Code of Conduct for Public Officers Bill. The Executive Director of the POS Foundation, Jonathan Owusu, and the Executive Director of the Africa Centre for Int",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-implement-accepted-recommendations-human-rights-csos-to-govt.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-implement-accepted-recommendations-human-rights-csos-to-govt.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
+    {
+      "id": "auto-2026-08-28-ame-zion-church-calls-for-new-approach-to-ministry",
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "AME Zion Church calls for new approach to ministry",
+      "place": "Cape Coast",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The African Methodist Episcopal Zion Church (AME Zion) has called for a major rethink of its approach to ministry to remain relevant to the changing needs and expectations of present-day society. The Presiding Bishop of the Western West Africa Episcopal District of the Church, Rt Rev. Dr Hilliard K. Dela Dogbe, said the church should move beyond conventional programmes and find new ways of engaging children, young pe",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ame-zion-church-calls-for-new-approach-to-ministry.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ame-zion-church-calls-for-new-approach-to-ministry.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-08-28-claims-that-naimos-taskforce-shot-and-killed-young-man-at-ak",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "Claims that NAIMOS taskforce shot and killed young man at Akyem Hemang is false",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "In a press release dated August 28, 2026, NAIMOS described as false media reports alleging that NAIMOS personnel were involved in the shooting and death of the young man.",
+      "metrics": {},
+      "source": {
+        "name": "NAIMOS Spokesperson",
+        "url": "https://3news.com/news/cl"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/cl",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-claims-that-naimos-taskforce-shot-and-killed-young-man-at-ak"
+    },
+    {
+      "id": "auto-2026-08-28-naimos-denies-involvement-in-alleged-shooting-death-at-akyem",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "NAIMOS denies involvement in alleged shooting, death at Akyem Hemang",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has denied reports alleging that its personnel were involved in the shooting and death of a young man at Akyem Hemang in the Eastern Region. In a press release issued on Friday, August 28, 2026, NAIMOS described the allegation as false, stressing that it did not conduct any […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-denies-involvement-in-alleged-shooting-death-at-akyem-hemang/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-denies-involvement-in-alleged-shooting-death-at-akyem-hemang/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-claims-that-naimos-taskforce-shot-and-killed-young-man-at-ak"
+    },
+    {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
       "date": "2026-08-27",
       "category": "forest",
@@ -104,6 +264,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTE9HblNibTZ6S3NVbVRlVGMyWXh3eFAyUDBLM1MtT3RIM2hUQWlNYVhiMHJEY25TUEhEcXNGOWVXZGNVSUE5S1UxV2dsN1V3TmFvdndZdGxqa3l1QmNLNDRObmdtdEdRN3VRQ2NsdV94a24yOFNvV1Z5V1B4WXM?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-28T22:22:49.646Z",
       "thread": "t-auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse"
     },
     {
@@ -124,6 +285,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNHJ1aWJCR1N1cXZWdW8tQkhSNmE3VXZlQ3ZhWXg1NERVM1dGaV9XZ19xemR5Q05TSmNkQWVFdldhRFFVREZsQjJqaWEyYjRzQUE1X0w3LU9ZZHZ1dXBROHlsUUZKLUFyUnowb3ZFTGlMellERlVzNDVQclhOM2NvcmFmZ01TRzZ5S3VYZ05adUVjQWNuRHpLUUdYTFNjWGRnVHAxUi1JZnlWZUNneVA4czU2TTA2TUhWMGJITmRES1pEUm5FODdqaFNqR3Q3eFJncnpEZjlR?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-28T22:23:33.959Z",
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
     },
     {
@@ -2545,8 +2707,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaVM5Q0lZZTdteHpOSnVxLVlHamk4OFdlMGFpelY2SkxIbzNrRFdlRkp1V3hpSC12eEN3bGRkUXlGSGNrSVpFdXNEN3ZBbnlJMGg5RUQ0MGJDclc0UlpoQWppR2VQTmo1cVNyYV9OcTlSWXkxc2t2ZzNKWTVLejhTVW5LRXE4Y1pJUEtNTHAtUVFjUlYtbHQxbzFzVHpRZC1rQjhwSTFhR3g?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-22T06:59:23.579Z",
-      "thread": "t-auto-2026-07-29-galamsey-we-need-action-not-just-inspections-atronie-chief-o"
+      "archivedAt": "2026-08-22T06:59:23.579Z"
     },
     {
       "id": "auto-2026-08-21-tanoso-ankobeahene-granted-bail-over-alleged-galamsey-task-f",
@@ -2761,7 +2922,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-2027-budget-statement-must-pivot-around-job-creation-greater-transparency-csos-to-government.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
     },
     {
       "id": "auto-2026-08-21-playback-newsfile-discussed-nationwide-blackouts-goldbod-con",
@@ -5446,7 +5608,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-12T13:45:17.785Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "thread": "t-auto-2026-08-12-14-illegal-miners-dead-scores-injured-in-south-africa"
     },
     {
       "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
@@ -5527,7 +5689,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-13T02:46:26.497Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "thread": "t-auto-2026-08-12-14-illegal-miners-dead-scores-injured-in-south-africa"
     },
     {
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
@@ -8445,8 +8607,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y3WGhVeE5UTEJxZEcyRXFIWG5jVkVHLXFiamI5NzZHQmk0X1pycm85anZyTWFnYlUyZHg1cHRiMUR2eG9PLWF6RlFZeWZSRVktUGowcmhfTS1WcW0xR3J6azgzQ1lRWWhYa2tFMHlxSTlSS2JBd1ktNkJCcnN3WFUzQmxTaUdIa1NjRWJkR2Vmem9KRXdaX1A1VThhZ3FUR21xS3hTcHp4ZWxJRjMtbkpXWkFyMnV1UEJaVDNBNHBYSjQtdUE?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-29-galamsey-has-destroyed-our-water-help-us-secure-boreholes-at"
+      "verified": false
     },
     {
       "id": "auto-2026-08-04-galamsey-crisis-seek-help-if-you-re-overwhelmed-bono-regiona",
@@ -9316,8 +9477,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxZZFJZMDFZOGpMeERiTDdmR1NWRWFIQWExdjZER296TW9vTGROYUpMbURabVVRb2dpTGw2RVl0SjFWZW92T0Y3MXlZcGhKQWYzNU9IaXIxMGZlWHFfNkJwUUxzWERwYVlidV90Sl81LUtpMUFuZTc5eFpwdVlxd0Z5TWZfNGdFdGc2ZFAzRDZGaHVkelN6WG94Z1ZENUZQNW5oNVVZcU53V3lnWGdXbDAwYlNzOExuSkpkVEVR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-29-galamsey-has-destroyed-our-water-help-us-secure-boreholes-at"
+      "verified": false
     },
     {
       "id": "auto-2026-07-29-fighting-illegal-mining-assessing-the-government-s-fight-so-",
