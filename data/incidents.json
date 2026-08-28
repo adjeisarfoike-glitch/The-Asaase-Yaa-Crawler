@@ -1,13 +1,91 @@
 {
-  "updated": "2026-08-27T22:18:31.732Z",
+  "updated": "2026-08-28T11:25:52.868Z",
   "counts": {
-    "total": 523,
+    "total": 529,
     "verified": 28,
-    "automated": 495,
+    "automated": 501,
     "earliest": "2024-07-01",
-    "latest": "2026-08-27"
+    "latest": "2026-08-28"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "Galamsey fight requires an all-of-government approach — Zanetor Agyeman-Rawlings",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight requires an all-of-government approach — Zanetor Agyeman-Rawlings Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+    },
+    {
+      "id": "auto-2026-08-28-supporting-small-scale-miners-to-become-medium-scale-miners-",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "Supporting small-scale miners to become medium-scale miners key to tackling galamsey menace – Bawumia",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The New Patriotic Party’s 2028 flagbearer, Dr Mahamudu Bawumia, has proposed a clear path to tackling illegal mining, arguing that Ghana must formalise, incentivise and support small-scale miners to grow into medium-scale operators.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/supporting-small-scale-miners-to-become-medium-scale-miners-key-to-tackling-galamsey-menace-bawumia/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/supporting-small-scale-miners-to-become-medium-scale-miners-key-to-tackling-galamsey-menace-bawumia/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
+    },
+    {
+      "id": "auto-2026-08-28-bawumia-discusses-reforms-to-promote-responsible-mining-with",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "Bawumia discusses reforms to promote responsible mining with National Association of Small-Scale Miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "They discussed the challenges facing small-scale mining and practical reforms to promote responsible mining",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/bawumia-discusses-reforms-to-promote-responsible-mining-with-national-association-of-small-scale-miners"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/bawumia-discusses-reforms-to-promote-responsible-mining-with-national-association-of-small-scale-miners",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-28-we-are-going-around-in-circles-sekou-nkrumah-renews-call-for",
+      "date": "2026-08-28",
+      "category": "policy",
+      "title": "“We are going around in circles” — Sekou Nkrumah renews call for galamsey state of emergency",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Pan-African analyst Sekou Nkrumah has renewed calls for the government to declare a targeted state of emergency in areas affected by illegal mining, arguing that existing measures have failed to halt the destruction of Ghana’s forests and water bodies. Nkrumah said the government needed to demonstrate the political will to... The post “We are going around in circles” — Sekou Nkrumah renews call for galamsey state of ",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/we-are-going-around-in-circles-sekou-nkrumah-renews-call-for-galamsey-state-of-emergency/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/we-are-going-around-in-circles-sekou-nkrumah-renews-call-for-galamsey-state-of-emergency/",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
       "date": "2026-08-27",
@@ -223,7 +301,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
     },
     {
       "id": "auto-2026-08-27-gold-refining-in-ghana-more-expensive-than-abroad-kenneth-as",
@@ -244,6 +323,46 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-27-zanetor-calls-for-coordinated-approach-to-galamsey-fight",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Zanetor Calls for Coordinated Approach to Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Zanetor Calls for Coordinated Approach to Galamsey Fight Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTU0M0FmOHNZME1DQWtOZ2tUSEsxbUdwUUhuV2hSelphUS1wX2VpejhpVHRNQnlYaGZEbG1CcFNzVXNPdGhMZnk0bzN2UjdFWWcxLTYxYkJOU0huU3BkMEdPVV8zM0U3SVpESzdRYW5YS0dTbm4wQWFvOVJ4UERCZ0QyWnRtb2ZMZ3dEZUpBYkE3UHpiemZmOVBVTHdIM1c1?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTU0M0FmOHNZME1DQWtOZ2tUSEsxbUdwUUhuV2hSelphUS1wX2VpejhpVHRNQnlYaGZEbG1CcFNzVXNPdGhMZnk0bzN2UjdFWWcxLTYxYkJOU0huU3BkMEdPVV8zM0U3SVpESzdRYW5YS0dTbm4wQWFvOVJ4UERCZ0QyWnRtb2ZMZ3dEZUpBYkE3UHpiemZmOVBVTHdIM1c1?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-08-27-gold-greed-and-graves-illegal-mining-s-growing-threat-to-pub",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "‎Gold, Greed and Graves: Illegal Mining's Growing Threat to Public Life in West Africa A Ghana-Nigeria Case Study ‎",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‎Gold, Greed and Graves: Illegal Mining's Growing Threat to Public Life in West Africa A Ghana-Nigeria Case Study ‎ Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1Y5QVI3UzVqOXlBQUZ3UFZGRHZBQW9jSFJCWE03Ql91YUpIc0piYzdtWUtxVnlHR1cxNHY1RXpOZFNzMlVqTWFLNTF1N3VYeTVMbUV0UDVwUlF1b2NwSmNjd0hjOVlqRFhkelNoY192QlgzbUc5WEFNSE9BNjdIVjlRWHVsRGUtajU4S1FMdkdUdzdGSFE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1Y5QVI3UzVqOXlBQUZ3UFZGRHZBQW9jSFJCWE03Ql91YUpIc0piYzdtWUtxVnlHR1cxNHY1RXpOZFNzMlVqTWFLNTF1N3VYeTVMbUV0UDVwUlF1b2NwSmNjd0hjOVlqRFhkelNoY192QlgzbUc5WEFNSE9BNjdIVjlRWHVsRGUtajU4S1FMdkdUdzdGSFE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
@@ -1158,7 +1277,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGFBcFM5ZXhXaGxueUtFTGVLZkhETDhQZlR0Vy14WXBDWDNacWU3SkJMWVkwcGhSUkYxV1dDSXplMExwZ05nclJUdkFGSG1hSy1kdjJEbWJGZllDVXgyM3Fzc0lCT1VwOFBSWjVFeEtkM2E2c0dIdzB5R3hDUnkxYy1B?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-08-25-goldbod-is-worsening-galamsey-crisis-by-buying-from-illegal-",
@@ -3842,8 +3962,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOSmRfcFBRSmZwWnlhTmtmdEtyNTFpLTRuQ1lBanBRWW9RMnowQVhKblg5Rmx6M0hqdThPcjc5NV9DTDJNbV9OTzlBb0dqaDJoS1FkUWh6dEk5c1hobzdjLTR3ZVIzc1dvMXBhLThEYm9hZlNySzlXZUoxdGtDblY5U1ZKWlBZMFpXYVhJY2s2Z0hqeFhrWFR4TFdPd2lEVFlUdTVGRk4tdjdQNVpyeTR3WTk4VQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+      "verified": false
     },
     {
       "id": "auto-2026-08-17-duncan-williams-warns-galamsey-could-endanger-ghana-s-future",
