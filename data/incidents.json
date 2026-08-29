@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-28T22:23:56.622Z",
+  "updated": "2026-08-29T07:08:40.595Z",
   "counts": {
-    "total": 537,
+    "total": 539,
     "verified": 28,
-    "automated": 509,
+    "automated": 511,
     "earliest": "2024-07-01",
     "latest": "2026-08-28"
   },
@@ -245,6 +245,47 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-28-claims-that-naimos-taskforce-shot-and-killed-young-man-at-ak"
+    },
+    {
+      "id": "auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "Fighting Illegal Mining: NAIMOS arrests 10 illegal miners, seizes equipment and firearms in S/R",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fighting Illegal Mining: NAIMOS arrests 10 illegal miners, seizes equipment and firearms in S/R Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uREktcThpbzNrbnllRUkxbjF0XzAtYWNjS3VnVkplSjJkUTRmRkR5aVVCR3RVWWNEdFZtSGRwcU1RdDFJT1QtdXgwczh1UG9vcEhHVWhYck9sVTVlU0lYUWJRWFnSAVxBVV95cUxPX18wd1lPNWJOeS1pTFY0WFV0cTJiZXQ3cGp6V0Z2VmlEMU9TVktrZWQ2T3Y1UDUwdnJvWVNTb2pMaThfamk1dmdyZkJQV2hLWGVUQnozSTlPdWktbQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uREktcThpbzNrbnllRUkxbjF0XzAtYWNjS3VnVkplSjJkUTRmRkR5aVVCR3RVWWNEdFZtSGRwcU1RdDFJT1QtdXgwczh1UG9vcEhHVWhYck9sVTVlU0lYUWJRWFnSAVxBVV95cUxPX18wd1lPNWJOeS1pTFY0WFV0cTJiZXQ3cGp6V0Z2VmlEMU9TVktrZWQ2T3Y1UDUwdnJvWVNTb2pMaThfamk1dmdyZkJQV2hLWGVUQnozSTlPdWktbQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-29-fighting-illegal-mining-assessing-the-government-s-fight-so-"
+    },
+    {
+      "id": "auto-2026-08-28-illegal-mining-10-illegal-miners-arrested-equipment-and-fire",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "Illegal mining: 10 illegal miners arrested, equipment and firearms seized in Savannah Region.",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "Illegal mining: 10 illegal miners arrested, equipment and firearms seized in Savannah Region. Modern Ghana",
+      "metrics": {
+        "arrests": 10
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxS2FzT1JMSFdPdGhpY19ESHktM21BeGlDLUkxZlJkR2NNQWZ1OFFEM3J6Y1JuQmxtUHplZHNJVkI4YnQ4UXFkeDB1UzJvLTdJa1NNdFpabXJxeFRT0gFcQVVfeXFMUDFLYXNPUkxIV090aGljX0RIeS0zbUF4aUMtSTFmUmRHY01BZnU4UUQzcnpjUm5CbG1QemVkc0lWQjhidDhRcWR4MHVTMm8tN0lrU010WlptcnF4VFM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxS2FzT1JMSFdPdGhpY19ESHktM21BeGlDLUkxZlJkR2NNQWZ1OFFEM3J6Y1JuQmxtUHplZHNJVkI4YnQ4UXFkeDB1UzJvLTdJa1NNdFpabXJxeFRT0gFcQVVfeXFMUDFLYXNPUkxIV090aGljX0RIeS0zbUF4aUMtSTFmUmRHY01BZnU4UUQzcnpjUm5CbG1QemVkc0lWQjhidDhRcWR4MHVTMm8tN0lrU010WlptcnF4VFM?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
@@ -9496,7 +9537,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6MmtvY0oxa1JMSTQ3bGtrUXJBOG0zajhTcXlXWHJ1RGVEdVR2WVFrNkU4ZVZqXzBtTUpPX3NuN2o0RXRxTW9WcmI5RjE0em5pcGsyRnVYbllrSGNuaVlLQ1k1Q1PSAVxBVV95cUxQcFU1WkVOdlg1eWlkNERuWk5LVVdRay1EUEZmU1RsVjVlbWU4WU9oRUU4aG1KR0lld3R0SUtKcmwyTlRHZVNmU201TmgzdkFHMDZxaHp4MHVxRU1zVA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-29-fighting-illegal-mining-assessing-the-government-s-fight-so-"
     },
     {
       "id": "auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced",
