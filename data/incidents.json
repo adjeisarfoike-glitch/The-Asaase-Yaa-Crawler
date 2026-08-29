@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-29T16:48:54.604Z",
+  "updated": "2026-08-29T21:00:00.618Z",
   "counts": {
-    "total": 545,
+    "total": 546,
     "verified": 28,
-    "automated": 517,
+    "automated": 518,
     "earliest": "2024-07-01",
     "latest": "2026-08-29"
   },
@@ -242,8 +242,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkRDdUVkQTYwSnlXc25saTdrcEhUM2hVdFlCREhpUnA0Qnd3TkFtZXhWbUp5eTFFQmlLdzFPa3I3VzNDQmV6M0RxNzFOOHJNSmpzc3RqSjJkclFVdmlORklKaGwxUTdVRmVuTUxldjNDM2VaMEQ2WXlMc3pBa3E1d2JMN3dCcXBmSDJQejNsbDFod2RyRzhsejc3R05VMzFlVzhycEhNdXJ5dG1CdWNKcUk1X0ZzbFlCMVVNczVFb2JENF9ReUFV?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
+      "verified": false
     },
     {
       "id": "auto-2026-08-28-water-crisis-looms-as-galamsey-rages-patrick-yaw-boamah-warn",
@@ -404,6 +403,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxS2FzT1JMSFdPdGhpY19ESHktM21BeGlDLUkxZlJkR2NNQWZ1OFFEM3J6Y1JuQmxtUHplZHNJVkI4YnQ4UXFkeDB1UzJvLTdJa1NNdFpabXJxeFRT0gFcQVVfeXFMUDFLYXNPUkxIV090aGljX0RIeS0zbUF4aUMtSTFmUmRHY01BZnU4UUQzcnpjUm5CbG1QemVkc0lWQjhidDhRcWR4MHVTMm8tN0lrU010WlptcnF4VFM?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "NAIMOS arrests 10 illegal miners, seizes equipment in Savannah Region | JoyNews Today | 28-08-2026",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "NAIMOS arrests 10 illegal miners, seizes equipment in Savannah Region | JoyNews Today | 28-08-2026 Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSjF1Ti1oTlk5VGMyamw2dkJKSWhlUHFJbUxydFZYazA2b3RxMVoyYTdwczlGMlRtWkRmQnJXSEw4Z3RBbmVSM1hMNXV1d0t1TUZkOE9XaTliMUdvZ0hRX25zc0TSAVxBVV95cUxPU0s4Tm0wM2VfYnhfazlzWnVtcDBFQTdPTzAzUmp5ZVBPSXFYQVR1T2xONmMtMllJQmk5Q3RHOHVENTJ5MGZ0eWFPTEdva2hKVHhYbWVVUHZxS2syMg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSjF1Ti1oTlk5VGMyamw2dkJKSWhlUHFJbUxydFZYazA2b3RxMVoyYTdwczlGMlRtWkRmQnJXSEw4Z3RBbmVSM1hMNXV1d0t1TUZkOE9XaTliMUdvZ0hRX25zc0TSAVxBVV95cUxPU0s4Tm0wM2VfYnhfazlzWnVtcDBFQTdPTzAzUmp5ZVBPSXFYQVR1T2xONmMtMllJQmk5Q3RHOHVENTJ5MGZ0eWFPTEdva2hKVHhYbWVVUHZxS2syMg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
@@ -6512,8 +6531,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
+      "verified": false
     },
     {
       "id": "auto-2026-08-11-attorney-general-opposes-bail-application-by-wontumi-s-lawye",
@@ -7326,8 +7344,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-bribe-taking-security-officials-undermining-galamsey-fight-m",
