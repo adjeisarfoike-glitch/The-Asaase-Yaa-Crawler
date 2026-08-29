@@ -1,13 +1,132 @@
 {
-  "updated": "2026-08-29T07:08:40.595Z",
+  "updated": "2026-08-29T16:48:54.604Z",
   "counts": {
-    "total": 539,
+    "total": 545,
     "verified": 28,
-    "automated": 511,
+    "automated": 517,
     "earliest": "2024-07-01",
-    "latest": "2026-08-28"
+    "latest": "2026-08-29"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-29-galamsey-provide-determined-leadership-mahama-tasks-zanetor",
+      "date": "2026-08-29",
+      "category": "forest",
+      "title": "Galamsey: ‘Provide determined leadership’ – Mahama tasks Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘Provide determined leadership’ – Mahama tasks Zanetor CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkExTnZ1ZlRiLVNVRjFNSHJKdEJ5QWQtZFZqNVNPQXB3WEVzTmVuakZwZ2prTEZJS053b0h0OHA3ZXNYTUp6V3JTRHdlUWF6YWxQRmttX2VLb0p1OGhxaGFCQ1ZJMzZhbE5yTW1IVVBxWG5EaTZ4Rk9pYmdOT0ZJRjNYOGVXd3lWZExPUzRjMmZLVUFRdjlrRHNRWEMwQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPQkExTnZ1ZlRiLVNVRjFNSHJKdEJ5QWQtZFZqNVNPQXB3WEVzTmVuakZwZ2prTEZJS053b0h0OHA3ZXNYTUp6V3JTRHdlUWF6YWxQRmttX2VLb0p1OGhxaGFCQ1ZJMzZhbE5yTW1IVVBxWG5EaTZ4Rk9pYmdOT0ZJRjNYOGVXd3lWZExPUzRjMmZLVUFRdjlrRHNRWEMwQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-29-from-galamsey-to-beauty-empire-the-inspiring-journey-behind-",
+      "date": "2026-08-29",
+      "category": "forest",
+      "title": "From Galamsey to Beauty Empire: The Inspiring Journey Behind Linglow Beauty",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "From Galamsey to Beauty Empire: The Inspiring Journey Behind Linglow Beauty Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZ9IBngFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZ9IBngFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-why-galamsey-won-t-die-the-uncomfortable-truth-behind-ghana-"
+    },
+    {
+      "id": "auto-2026-08-29-protect-freedom-of-worship-prevent-faith-based-discriminatio",
+      "date": "2026-08-29",
+      "category": "arrest",
+      "title": "Protect freedom of worship, prevent faith-based discrimination — Mahama charges Ayariga",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President John Dramani Mahama has charged the newly sworn-in Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, to lead a decisive campaign against illegal mining, commonly known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/protect-freedom-of-worship-prevent-faith-based-discrimination-mahama-charges-ayariga/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/protect-freedom-of-worship-prevent-faith-based-discrimination-mahama-charges-ayariga/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-08-29-mahama-tasks-zanetor-to-provide-decisive-leadership-in-galam",
+      "date": "2026-08-29",
+      "category": "water",
+      "title": "Mahama tasks Zanetor to provide decisive leadership in galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President John Dramani Mahama has tasked the newly sworn-in Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, to provide decisive leadership in the fight against illegal mining, popularly known as galamsey. He said the destruction of Ghana’s forests and water bodies through illegal mining remained one of the gravest threats to the country’s survival […]",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/mahama-tasks-zanetor-to-provide-decisive-leadership-in-galamsey-fight/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mahama-tasks-zanetor-to-provide-decisive-leadership-in-galamsey-fight/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-08-29-president-mahama-swears-in-ayariga-zanetor-as-ministers",
+      "date": "2026-08-29",
+      "category": "policy",
+      "title": "President Mahama swears in Ayariga, Zanetor as Ministers",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "President John Dramani Mahama has sworn into office two new Ministers of State at the Jubilee House in Accra, charging them to serve the people of Ghana with integrity, humility and fairness. Former Majority Leader in Parliament, Mahama Ayariga was sworn in as Minister of Local Government, Chieftaincy and Religious Affairs, whilst Member of Parliament for Korle-Klottey, Dr Zanetor Agyeman-Rawlings took the oath of of",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-ayariga-zanetor-as-ministers.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-ayariga-zanetor-as-ministers.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-08-29-president-mahama-tasks-zanetor-agyeman-rawlings-to-provide-d",
+      "date": "2026-08-29",
+      "category": "arrest",
+      "title": "President Mahama tasks Zanetor Agyeman-Rawlings to provide decisive leadership in fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By: Benjamin Nii Nai Anyetei President John Dramani Mahama has charged the newly sworn-in Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, to provide firm and decisive leadership in the fight against illegal mining, popularly known as galamsey. President Mahama said the continued destruction of Ghana’s forests and water bodies through illegal mining remains […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/politics/president-mahama-tasks-zanetor-agyeman-rawlings-to-provide-decisive-leadership-in-fight-against-galamsey/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/politics/president-mahama-tasks-zanetor-agyeman-rawlings-to-provide-decisive-leadership-in-fight-against-galamsey/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
     {
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
       "date": "2026-08-28",
@@ -26,8 +145,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-28T22:17:12.822Z",
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "archivedAt": "2026-08-28T22:17:12.822Z"
     },
     {
       "id": "auto-2026-08-28-supporting-small-scale-miners-to-become-medium-scale-miners-",
@@ -504,8 +622,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-gold-refining-in-ghana-more-expensive-than-abroad-kenneth-as",
@@ -663,7 +780,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmFTSTFBOFVmWTZta1F6UmRfMjlMelFxRXdzd1FVQUI5TjFSdGVoclFGT21ZOFpEVVplSFQ2eGNwajZmNEppdFBmTFVhd3h3bk1UU1lHcUNGdXRVTmVVeGdjMmdZLVV5czdnTjlCc1lpOXZOcEJPYXVZMzZjam83VlMtbzc0MjBYcmozcFlNWlFJT3dud1HSAZQBQVVfeXFMTThlSGMwMUFVdXJTNlFGTmRlc3dBUENCdmRob1hpdl9DVWlkaTR6SjJzeTlNU3NKSWlUTUV3c1RNWW5GZy1fN25kdVNEXzJkd3M1NWxxc2FFUzdGVzlwd2tJU3ptOU40Ui1ESnpVeVUxOS1QUVVaSU1zVzFIVC1WeUhmUmRBOUluTGNDYjZkSlJmYTNUZg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-26-why-galamsey-won-t-die-the-uncomfortable-truth-behind-ghana-"
     },
     {
       "id": "auto-2026-08-26-galamsey-making-it-difficult-to-find-medicinal-plants-ghaftr",
@@ -1640,7 +1758,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/the-accra-turf-club-calls-for-investigations-into-demolition-of-facilities.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala",
@@ -2473,8 +2591,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/no-president-has-fought-galamsey-more-seriously-than-mahama-ndc-communicator/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "verified": false
     },
     {
       "id": "auto-2026-08-22-galamsey-and-water-quality-worsening-newsfile",
@@ -4357,8 +4474,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-bawku-will-bounce-back-president-mahama.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-18T07:08:13.176Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "archivedAt": "2026-08-18T07:08:13.176Z"
     },
     {
       "id": "auto-2026-08-17-galamsey-ansu-kumi-demands-answers-over-ndc-s-failure-to-dec",
