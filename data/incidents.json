@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-30T11:59:02.185Z",
+  "updated": "2026-08-30T16:45:02.567Z",
   "counts": {
-    "total": 549,
+    "total": 552,
     "verified": 28,
-    "automated": 521,
+    "automated": 524,
     "earliest": "2024-07-01",
     "latest": "2026-08-30"
   },
@@ -27,6 +27,64 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-30T11:52:25.964Z"
+    },
+    {
+      "id": "auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf",
+      "date": "2026-08-30",
+      "category": "forest",
+      "title": "7 dead, 4 trapped after galamsey pit collapses at Asaman Tamfoe",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "7 dead, 4 trapped after galamsey pit collapses at Asaman Tamfoe CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTV5UW9ZYXI3VWZ4dGVLakRCQkNtSVROVGk4OW1kSEtyMWJid0x5WUJrcmVvNGJPRnd5SXgwNWQwaExGZmpWVHk4eTBIVVBFdTlLN0xwT2FTNHJnZ0tYWGNPNHlJUVhiYVlNR3diSUkyYXd4eVE5THJmQ3pMSWNZcjU5RGhVZjBfb0NZQjRfSDdYZ0ZBT2FzWXF1aGR2bG5VRnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTV5UW9ZYXI3VWZ4dGVLakRCQkNtSVROVGk4OW1kSEtyMWJid0x5WUJrcmVvNGJPRnd5SXgwNWQwaExGZmpWVHk4eTBIVVBFdTlLN0xwT2FTNHJnZ0tYWGNPNHlJUVhiYVlNR3diSUkyYXd4eVE5THJmQ3pMSWNZcjU5RGhVZjBfb0NZQjRfSDdYZ0ZBT2FzWXF1aGR2bG5VRnc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-30-mahama-charges-new-environment-minister-to-treat-galamsey-as",
+      "date": "2026-08-30",
+      "category": "policy",
+      "title": "Mahama Charges New Environment Minister To Treat Galamsey As A Health Crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama Charges New Environment Minister To Treat Galamsey As A Health Crisis News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTJkVFNkSUlJZGx3WlVsQ1U3eDNvVjJWQ1JtaW1HZDQ0QklDWnM5cWpVa281Z3lGNHNkbW1qODQtN1JkZUdkd2pGWDlCekFrQTktWkdRYWVoWGJlNHJVV2wxby1qQkMzYlBRSWs0NHlwMVEtcXhTdjBabmVKeC1DeFc5WVcydXQzZkdNeTFGQ1pXNUVGQnBHa0h1bUtBdE5pV1pTdA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTJkVFNkSUlJZGx3WlVsQ1U3eDNvVjJWQ1JtaW1HZDQ0QklDWnM5cWpVa281Z3lGNHNkbW1qODQtN1JkZUdkd2pGWDlCekFrQTktWkdRYWVoWGJlNHJVV2wxby1qQkMzYlBRSWs0NHlwMVEtcXhTdjBabmVKeC1DeFc5WVcydXQzZkdNeTFGQ1pXNUVGQnBHa0h1bUtBdE5pV1pTdA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-08-30-10-arrested-in-illegal-mining-operation-at-kpali",
+      "date": "2026-08-30",
+      "category": "arrest",
+      "title": "10 arrested in illegal mining operation at Kpali",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "10 arrested in illegal mining operation at Kpali Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZzdzVVbHk0MFk4MlFZRm1XNV9vV2NvLWRCWUlCRDcyMUdncHA2TEVlTzFxbl9hUDlzWDEzNlRNQ3BycXN4U2dDVVYwYWg5TEEzYWtOdXA2RWVRblh5VThQbWEtSVNSSWVXTkIxVnlEczJlckJzT0JQby1EZjZXME93?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZzdzVVbHk0MFk4MlFZRm1XNV9vV2NvLWRCWUlCRDcyMUdncHA2TEVlTzFxbl9hUDlzWDEzNlRNQ3BycXN4U2dDVVYwYWg5TEEzYWtOdXA2RWVRblh5VThQbWEtSVNSSWVXTkIxVnlEczJlckJzT0JQby1EZjZXME93?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-29-galamsey-provide-determined-leadership-mahama-tasks-zanetor",
