@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-30T05:27:55.118Z",
+  "updated": "2026-08-30T11:59:02.185Z",
   "counts": {
-    "total": 546,
+    "total": 549,
     "verified": 28,
-    "automated": 518,
+    "automated": 521,
     "earliest": "2024-07-01",
-    "latest": "2026-08-29"
+    "latest": "2026-08-30"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
+      "date": "2026-08-30",
+      "category": "forest",
+      "title": "Military, Forestry Commission team destroy illegal mining equipment at Krokosua Hills Reserve",
+      "place": "Krokosua Hills",
+      "region": "Western North",
+      "lat": 6.55,
+      "lon": -2.83,
+      "summary": "Military, Forestry Commission team destroy illegal mining equipment at Krokosua Hills Reserve 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEtVMTcwTnVmMTJ4Yy1KZHVBYlhQUXFOOFN4blhzOU5WVTdocXRrWWducjNPXzFmdjczT0JrdWF4Z0ZPdTBzdnY3RThrbVFldkZEWTVFV3Vzbk8tY3pIcm5YUTdCdEhkU0JFdFhNa0dGU01VeVFhbnBtbDlMWFF6Zm5hMGVzNFBZMXd5OU90QTBSbUVKbjRISE5XVVZfdm84Vnk3NlRnc1NmcnhuNDVtVE9FTkNzZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxNdEtVMTcwTnVmMTJ4Yy1KZHVBYlhQUXFOOFN4blhzOU5WVTdocXRrWWducjNPXzFmdjczT0JrdWF4Z0ZPdTBzdnY3RThrbVFldkZEWTVFV3Vzbk8tY3pIcm5YUTdCdEhkU0JFdFhNa0dGU01VeVFhbnBtbDlMWFF6Zm5hMGVzNFBZMXd5OU90QTBSbUVKbjRISE5XVVZfdm84Vnk3NlRnc1NmcnhuNDVtVE9FTkNzZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-30T11:52:25.964Z"
+    },
     {
       "id": "auto-2026-08-29-galamsey-provide-determined-leadership-mahama-tasks-zanetor",
       "date": "2026-08-29",
@@ -25,7 +45,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPQkExTnZ1ZlRiLVNVRjFNSHJKdEJ5QWQtZFZqNVNPQXB3WEVzTmVuakZwZ2prTEZJS053b0h0OHA3ZXNYTUp6V3JTRHdlUWF6YWxQRmttX2VLb0p1OGhxaGFCQ1ZJMzZhbE5yTW1IVVBxWG5EaTZ4Rk9pYmdOT0ZJRjNYOGVXd3lWZExPUzRjMmZLVUFRdjlrRHNRWEMwQQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-30T11:52:52.574Z"
     },
     {
       "id": "auto-2026-08-29-from-galamsey-to-beauty-empire-the-inspiring-journey-behind-",
@@ -45,6 +66,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZ9IBngFBVV95cUxPeXJsR1FwRTVVTndsTGRnWUFvN0ZCMkF5XzlzeHZZNWdGMWltd05qZUhpUWpsdUQwT1ZQa280bFpmTjhnOFE1eldqYWdFa0RncERjeDJ0RmxJNmF0OTZSTF8xRnc3YXBVZXlrazhEc2Q0eV9XdlRDd3BhYzlNWjdFVFdMNFVSNG9iZm9acFRXUFVhREVYNG9rVDA4NXhvZw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-30T11:53:17.547Z",
       "thread": "t-auto-2026-08-26-why-galamsey-won-t-die-the-uncomfortable-truth-behind-ghana-"
     },
     {
@@ -128,6 +150,25 @@
       "thread": "t-pol-2026-07-16-half-year"
     },
     {
+      "id": "auto-2026-08-29-lands-ministry-denies-naimos-link-to-fatal-shooting",
+      "date": "2026-08-29",
+      "category": "policy",
+      "title": "Lands Ministry Denies NAIMOS Link To Fatal Shooting",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Lands Ministry Denies NAIMOS Link To Fatal Shooting News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW5qRXltWnB6c2RLNDNwSkJXLVdRbzJWOTU3LTVWVVhnellMTlBHeWcwRFN3OTFtMXpxeURqOTdZNTdoT1FTSXd2QVZFeld4SWdDLXlCTUpITG9ZMl9ITWhhVkw0NkEzcm9wbTEzZHRfcFBEdWlIdkhUQnk0dDhKV0k0dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW5qRXltWnB6c2RLNDNwSkJXLVdRbzJWOTU3LTVWVVhnellMTlBHeWcwRFN3OTFtMXpxeURqOTdZNTdoT1FTSXd2QVZFeld4SWdDLXlCTUpITG9ZMl9ITWhhVkw0NkEzcm9wbTEzZHRfcFBEdWlIdkhUQnk0dDhKV0k0dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
       "date": "2026-08-28",
       "category": "policy",
@@ -203,7 +244,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/we-are-going-around-in-circles-sekou-nkrumah-renews-call-for-galamsey-state-of-emergency/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-30T11:57:04.188Z"
     },
     {
       "id": "auto-2026-08-28-i-ll-fight-galamsey-environmental-crimes-dr-agyeman-rawlings",
@@ -223,6 +265,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxORU1qUUswU0UwWi05RkMyeGYtMXd5THozU3RydXdzblBIZklhaGh5NVF3X09VREhsV2I0T19YVF9jWmpjeWZfX1c3dzFHUnI0LUNCQk13MnA4d2FPaXlWWGlVN3JlaDIwU0tsYS1DQjdWdVRHVzVHS09zS0l0YnpieVNxRTZjZlk3Wm9UX1A4bFhVRkZBT0w5QXo0TVE2TXhGdFBSTUwzb2xTTm91TlU5QklrYVQ1SkplVlEyTw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-30T11:57:29.014Z",
       "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
     },
     {
@@ -242,7 +285,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkRDdUVkQTYwSnlXc25saTdrcEhUM2hVdFlCREhpUnA0Qnd3TkFtZXhWbUp5eTFFQmlLdzFPa3I3VzNDQmV6M0RxNzFOOHJNSmpzc3RqSjJkclFVdmlORklKaGwxUTdVRmVuTUxldjNDM2VaMEQ2WXlMc3pBa3E1d2JMN3dCcXBmSDJQejNsbDFod2RyRzhsejc3R05VMzFlVzhycEhNdXJ5dG1CdWNKcUk1X0ZzbFlCMVVNczVFb2JENF9ReUFV?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-30T11:58:00.063Z"
     },
     {
       "id": "auto-2026-08-28-water-crisis-looms-as-galamsey-rages-patrick-yaw-boamah-warn",
@@ -261,7 +305,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjMtQVU0b1BvdXJQRWhnZkd6eHlMR0puWEM1MlVhNXV5TjZCOGNNek5ZVHhhMHBMS1hPWnZzU3dLVnBfSUtHU0RlVjhCQW5aSnZwNm1PbzhtcUVyaVRNR2M0M1dTaXJqRFNkcWxpSmVHTXRYS3VDTHp6Nk92a25NaXBhdTQwNzNEeGdveDIxNUs?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-30T11:58:25.129Z"
     },
     {
       "id": "auto-2026-08-28-property-rate-can-yield-gh-20billion-yearly-local-government",
@@ -281,6 +326,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-property-rate-can-yield-ghc20bn-yearly-local-government-minister-designate-says-at-vetting.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-30T11:58:56.018Z",
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
@@ -702,6 +748,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
+    },
+    {
+      "id": "auto-2026-08-27-fighting-galamsey-if-parties-unite-against-vote-buying-thing",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Fighting Galamsey: If Parties Unite Against Vote Buying, Things Will Change | Kwame Jantuah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fighting Galamsey: If Parties Unite Against Vote Buying, Things Will Change | Kwame Jantuah YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLYkpmS2FraDBzVm1QMHhTX3VNSlJZaERPTEo0MVE3aU9DVDBnZmRDSkg5WFBZTjhSUXJLdFhWcUt5dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLYkpmS2FraDBzVm1QMHhTX3VNSlJZaERPTEo0MVE3aU9DVDBnZmRDSkg5WFBZTjhSUXJLdFhWcUt5dw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
