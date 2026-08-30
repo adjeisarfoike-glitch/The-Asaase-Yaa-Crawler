@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-30T16:45:02.567Z",
+  "updated": "2026-08-30T21:08:50.410Z",
   "counts": {
-    "total": 552,
+    "total": 554,
     "verified": 28,
-    "automated": 524,
+    "automated": 526,
     "earliest": "2024-07-01",
     "latest": "2026-08-30"
   },
@@ -45,7 +45,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTV5UW9ZYXI3VWZ4dGVLakRCQkNtSVROVGk4OW1kSEtyMWJid0x5WUJrcmVvNGJPRnd5SXgwNWQwaExGZmpWVHk4eTBIVVBFdTlLN0xwT2FTNHJnZ0tYWGNPNHlJUVhiYVlNR3diSUkyYXd4eVE5THJmQ3pMSWNZcjU5RGhVZjBfb0NZQjRfSDdYZ0ZBT2FzWXF1aGR2bG5VRnc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
     },
     {
       "id": "auto-2026-08-30-mahama-charges-new-environment-minister-to-treat-galamsey-as",
@@ -83,6 +84,45 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZzdzVVbHk0MFk4MlFZRm1XNV9vV2NvLWRCWUlCRDcyMUdncHA2TEVlTzFxbl9hUDlzWDEzNlRNQ3BycXN4U2dDVVYwYWg5TEEzYWtOdXA2RWVRblh5VThQbWEtSVNSSWVXTkIxVnlEczJlckJzT0JQby1EZjZXME93?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZzdzVVbHk0MFk4MlFZRm1XNV9vV2NvLWRCWUlCRDcyMUdncHA2TEVlTzFxbl9hUDlzWDEzNlRNQ3BycXN4U2dDVVYwYWg5TEEzYWtOdXA2RWVRblh5VThQbWEtSVNSSWVXTkIxVnlEczJlckJzT0JQby1EZjZXME93?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-30-seven-dead-four-trapped-after-galamsey-pit-collapses-at-asam",
+      "date": "2026-08-30",
+      "category": "forest",
+      "title": "Seven dead, four trapped after galamsey pit collapses at Asaman Tamfoe",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Seven dead, four trapped after galamsey pit collapses at Asaman Tamfoe Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDUtRURGVC1kcGUzdXhITm96dHVnaXI0RHVEZWdYdFhCamRLaC1ueHdCS0dGY3pEaW5haEFVX1RPREt5WUJ4UlRpbGtWdGo0Rk1ORU94ZEp3NGc1SXNqaGcwQmhvQ1FfQUduRmFjaHdmSlhTMUJQbWZfbEVWY1NkbEs4Z3NZMkRoY0VFUy1mTFo2dU1ObHhjdWNHRdIBmgFBVV95cUxOc0RCNXZTZDR1aUxxUmtPT0VDeXhaN0ktMzZnMUhWTXlyOUIyYjFhdlNqb3JWd1pxTTFQWVFFYmZEOG11c3Rrd1YtYWhQOUZmRXBkZENUOHoxd2VPamFST3NLSWk0YXlZYU5ObDl4dkdldWhnWjlMTjdGMDVsNW1QMHc3S2YxRWdBSkRzZlZFNFd5RVM5Z3dqc2hB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDUtRURGVC1kcGUzdXhITm96dHVnaXI0RHVEZWdYdFhCamRLaC1ueHdCS0dGY3pEaW5haEFVX1RPREt5WUJ4UlRpbGtWdGo0Rk1ORU94ZEp3NGc1SXNqaGcwQmhvQ1FfQUduRmFjaHdmSlhTMUJQbWZfbEVWY1NkbEs4Z3NZMkRoY0VFUy1mTFo2dU1ObHhjdWNHRdIBmgFBVV95cUxOc0RCNXZTZDR1aUxxUmtPT0VDeXhaN0ktMzZnMUhWTXlyOUIyYjFhdlNqb3JWd1pxTTFQWVFFYmZEOG11c3Rrd1YtYWhQOUZmRXBkZENUOHoxd2VPamFST3NLSWk0YXlZYU5ObDl4dkdldWhnWjlMTjdGMDVsNW1QMHc3S2YxRWdBSkRzZlZFNFd5RVM5Z3dqc2hB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-30-10-arrested-in-illegal-mining-operations-at-kpali",
+      "date": "2026-08-30",
+      "category": "arrest",
+      "title": "10 arrested in illegal mining operations at Kpali",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "10 arrested in illegal mining operations at Kpali MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjRoUnJNbUtlN3VJUDNyTEUzTjJDb3RvUnY2QklJQklBVXZXZDEtLUhvWFZzMXpRbXphLV9jZnRtTE5zZnFqR204QlZKRzN3NmFlX25FSVhsekc2MGZYM1l1Y3RiN0ZDUm1XY0RvMUw2a2YzdHR5WHVXLUN2blJtM1FVRmw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjRoUnJNbUtlN3VJUDNyTEUzTjJDb3RvUnY2QklJQklBVXZXZDEtLUhvWFZzMXpRbXphLV9jZnRtTE5zZnFqR204QlZKRzN3NmFlX25FSVhsekc2MGZYM1l1Y3RiN0ZDUm1XY0RvMUw2a2YzdHR5WHVXLUN2blJtM1FVRmw?oc=5",
       "via": "rss",
       "verified": false
     },
