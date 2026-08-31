@@ -1,13 +1,132 @@
 {
-  "updated": "2026-08-31T05:36:28.416Z",
+  "updated": "2026-08-31T13:50:03.072Z",
   "counts": {
-    "total": 557,
+    "total": 565,
     "verified": 28,
-    "automated": 529,
+    "automated": 537,
     "earliest": "2024-07-01",
-    "latest": "2026-08-30"
+    "latest": "2026-08-31"
   },
   "incidents": [
+    {
+      "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "“We don’t really want to go to the heart of the matter” – Awula Serwah on Ghana’s galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“We don’t really want to go to the heart of the matter” – Awula Serwah on Ghana’s galamsey fight Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjRkOHNtTWxqUUhpckVqWm5lQ09tSGtFVl9tdXozeFByNFhpV0poY1k0bjBZTkVqUzZlUDBGNWVRTGl1UE44dWdET3V6QmtsTzdZelo2a25wbGF0RUg1dTZuRmJIOFVJRjdTanNJSFBsano5dm5BVUp1TGpONFRmRDZ4SHVWajdvc1RJRmloTXhaeF9uUm5qYXVwVVhOekczWFZqYVVINWY3VHhUalo4Y1ZHZXVZdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjRkOHNtTWxqUUhpckVqWm5lQ09tSGtFVl9tdXozeFByNFhpV0poY1k0bjBZTkVqUzZlUDBGNWVRTGl1UE44dWdET3V6QmtsTzdZelo2a25wbGF0RUg1dTZuRmJIOFVJRjdTanNJSFBsano5dm5BVUp1TGpONFRmRDZ4SHVWajdvc1RJRmloTXhaeF9uUm5qYXVwVVhOekczWFZqYVVINWY3VHhUalo4Y1ZHZXVZdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-31T13:44:16.138Z",
+      "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
+    },
+    {
+      "id": "auto-2026-08-31-serwah-lack-of-political-will-fuels-galamsey-crisis",
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "Serwah: Lack of Political Will Fuels Galamsey Crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Serwah: Lack of Political Will Fuels Galamsey Crisis News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXo4WWVLYVpmMWV4MFlUVmdVbVdzNjhXU1lyTkVPZXNsbGVPZE16U3JxS2F6SUFWWE9MMWtsa0dDMWdKRE9FdzhSQ19DYXNncEtwUzNfZUJSRDg1RWJTZkZCR09ZdzQwc3RSU1RJNl8tYkp6cDdhV3hVZW16SFlLcXJjdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXo4WWVLYVpmMWV4MFlUVmdVbVdzNjhXU1lyTkVPZXNsbGVPZE16U3JxS2F6SUFWWE9MMWtsa0dDMWdKRE9FdzhSQ19DYXNncEtwUzNfZUJSRDg1RWJTZkZCR09ZdzQwc3RSU1RJNl8tYkp6cDdhV3hVZW16SFlLcXJjdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-government-designates-13-blocked-out-areas-for-small-scale-m",
+      "date": "2026-08-31",
+      "category": "arrest",
+      "title": "Government designates 13 blocked-out areas for small-scale mining to curb illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government designates 13 blocked-out areas for small-scale mining to curb illegal mining GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTkyd3FYU0EwMmdaX0Ffd1REb25CeDMzQTNNTVBZc3JpOXI5aTI4M1VFMTBCM0xNYVREaFpnYWFvdUdaV3FQYWFMVEpKeXhqbkdxR1F6UGZpN0ZwaXprRkw3ckhlQjRYeXphX0JpQllYN1JfUlhJRXFkZzRMRHJnQm9vdWhfRzJSZ1VXOXVZTTFseTc5ZVA5X1BmbFdJdUxBelZDZGU4Q1B1U2RNRmU3Nkt5eVZtSmxGMl9CeXpDUDJfX0dmNkpURS1ld3ZYUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTkyd3FYU0EwMmdaX0Ffd1REb25CeDMzQTNNTVBZc3JpOXI5aTI4M1VFMTBCM0xNYVREaFpnYWFvdUdaV3FQYWFMVEpKeXhqbkdxR1F6UGZpN0ZwaXprRkw3ckhlQjRYeXphX0JpQllYN1JfUlhJRXFkZzRMRHJnQm9vdWhfRzJSZ1VXOXVZTTFseTc5ZVA5X1BmbFdJdUxBelZDZGU4Q1B1U2RNRmU3Nkt5eVZtSmxGMl9CeXpDUDJfX0dmNkpURS1ld3ZYUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-31T13:45:07.700Z"
+    },
+    {
+      "id": "auto-2026-08-31-ghana-is-on-right-path-in-galamsey-fight-despite-challenges-",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Ghana is on right path in galamsey fight despite challenges - Kotoko",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana is on right path in galamsey fight despite challenges - Kotoko GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2NfMFJ0TURQQmJVeVV5ck82TGEyMjZuNUdHaFFjQUFRSUVFX2lRWnRSZFo4ZVk3QmRxbUlFTE1BM1YyVlpUNnVvWVBuV2c3RUZpR3ZTZVhFMFVfOTg2RVRuWmZkMnNNdlJIUk9rWmI2VFJ4dXpyZ0JIZmxObzZlT3BPNHBNeEphY2lxU3FGLVNFSE9ObWQ0blZhNEhxVlo3S05Ea1pEcjR2ZjBYOUZ0YUNQdGV0LVhYWGlqOGdB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2NfMFJ0TURQQmJVeVV5ck82TGEyMjZuNUdHaFFjQUFRSUVFX2lRWnRSZFo4ZVk3QmRxbUlFTE1BM1YyVlpUNnVvWVBuV2c3RUZpR3ZTZVhFMFVfOTg2RVRuWmZkMnNNdlJIUk9rWmI2VFJ4dXpyZ0JIZmxObzZlT3BPNHBNeEphY2lxU3FGLVNFSE9ObWQ0blZhNEhxVlo3S05Ea1pEcjR2ZjBYOUZ0YUNQdGV0LVhYWGlqOGdB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-31T13:45:39.072Z"
+    },
+    {
+      "id": "auto-2026-08-31-ghana-on-the-right-path-in-fight-against-illegal-mining-fore",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Ghana on the right path in fight against illegal mining – Forestry Commission Deputy CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Deputy Chief Executive Officer of the Forestry Commission, Elikem Kotoko has said Ghana is making progress in the fight against illegal mining, although he acknowledges that the country has not yet achieved its desired outcome.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/ghana-on-the-right-path-in-fight-against-illegal-mining-forestry-commission-deputy-ceo"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ghana-on-the-right-path-in-fight-against-illegal-mining-forestry-commission-deputy-ceo",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-08-31-13-mining-blocks-secured-for-small-scale-miners-minerals-com",
+      "date": "2026-08-31",
+      "category": "water",
+      "title": "13 mining blocks secured for small-scale miners – Minerals Commission",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minerals Commission has secured 13 mining block areas across the country to provide alternative legal spaces for small-scale miners currently operating in prohibited areas, particularly along water bodies. The initiative forms part of a broader strategy to tackle illegal mining by combining enforcement with access to properly investigated and regularised mineral-bearing areas. laces, and … The post 13 mining bloc",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/13-mining-blocks-secured-for-small-scale-miners-minerals-commission/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/13-mining-blocks-secured-for-small-scale-miners-minerals-commission/",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
       "date": "2026-08-30",
@@ -129,6 +248,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-30-7-feared-dead-as-galamsey-pit-collapses-at-asaman-tamfoe",
+      "date": "2026-08-30",
+      "category": "forest",
+      "title": "7 feared dead as galamsey pit collapses at Asaman Tamfoe",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "7 feared dead as galamsey pit collapses at Asaman Tamfoe GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQW1NakVmdVYwdFVDRlJ4ZjFsNjN0ZElxLWRhLVV4enQtc0xadWZnc3VCNHNyZFJaN2VCN2EwQ3ZRVUJsYmpTcjIxd0RoOENDWDNNQkRqTElXa2NFWUZfRUJYRlhLTWVGbkVIVzNfMGhyTnJ5amFqMjA4YTdBTDkzVWJ6WkxfenJCUmd4WUFQa1FWVlhiSmtSN21kWmVZSF9tR0xBS1hjTFdZS1A1eTBnN0QzdEV1dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxNQW1NakVmdVYwdFVDRlJ4ZjFsNjN0ZElxLWRhLVV4enQtc0xadWZnc3VCNHNyZFJaN2VCN2EwQ3ZRVUJsYmpTcjIxd0RoOENDWDNNQkRqTElXa2NFWUZfRUJYRlhLTWVGbkVIVzNfMGhyTnJ5amFqMjA4YTdBTDkzVWJ6WkxfenJCUmd4WUFQa1FWVlhiSmtSN21kWmVZSF9tR0xBS1hjTFdZS1A1eTBnN0QzdEV1dw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
       "id": "auto-2026-08-29-galamsey-provide-determined-leadership-mahama-tasks-zanetor",
       "date": "2026-08-29",
       "category": "forest",
@@ -227,6 +366,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/president-mahama-swears-in-ayariga-zanetor-as-ministers.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-31T13:48:43.932Z",
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
@@ -247,6 +387,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/politics/president-mahama-tasks-zanetor-agyeman-rawlings-to-provide-decisive-leadership-in-fight-against-galamsey/2026/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-31T13:49:27.626Z",
       "thread": "t-pol-2026-07-16-half-year"
     },
     {
@@ -3051,6 +3192,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQdWhyM1JuQ1lLUk05TlI4MEYybUoxV1pZMWYyOG5XRTJGeE9McTFnd0Q4bFlqRWdSRGJGdXlmdGFtbElrWGg2d2p2Q0Q5MjJodDhIU1NRY04zbld4aDR6OEl4VDZfamw1Nk4xbXRJcEgwekVvUmVzdTNtQ2IzR3IwWXBUMWp1TnN3T0RGYllRUzhVTjBLUWprRWRwVHAxdw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-22-stop-blaming-npp-and-fix-galamsey-methodist-church-presiding",
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "Stop Blaming NPP and Fix Galamsey - Methodist Church Presiding Bishop Tells Mahama Government",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Stop Blaming NPP and Fix Galamsey - Methodist Church Presiding Bishop Tells Mahama Government News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV85endLRjg1SGRXU3JDN2Z3enJQZnRGVXdjQ1FMaE9mLXdkb1dwNVNOelV5QzBuNWxpb1dGTUNlNDgwbzZxSjFMOGNwWHdDTjg1S1hGOHFwU200Zk5STDRTUFl0MlNIZm5XTmpfX0tMendzVmY3NDVkR0htWnJRYlVVU0g4Z0kyWUlabFFCRnJfcERod1hjMTZPZ0FfT0R5MTVack1TYlpRWnVRQTVFaWhzVll1VUJG?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV85endLRjg1SGRXU3JDN2Z3enJQZnRGVXdjQ1FMaE9mLXdkb1dwNVNOelV5QzBuNWxpb1dGTUNlNDgwbzZxSjFMOGNwWHdDTjg1S1hGOHFwU200Zk5STDRTUFl0MlNIZm5XTmpfX0tMendzVmY3NDVkR0htWnJRYlVVU0g4Z0kyWUlabFFCRnJfcERod1hjMTZPZ0FfT0R5MTVack1TYlpRWnVRQTVFaWhzVll1VUJG?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-08-21-arise-ghana-demands-stronger-commitment-to-end-galamsey",
@@ -8695,7 +8856,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFZHZ3pqV29ndjBlT0NUczhYU1prOE85bzd0Y0JXV1dtUndKYU00T2VPSkdlRUxpWHRZQnV0NXkwVmdQU0l0SlAydGdGUDlmT2FvTERiTUhNcmZubmNZVkxSMVpJRWFwV0tKcW45eTFSbmE5TGdtbGpqM192QmMzZEpHd3BuS0kxdUhUOWMxcUdFZ3JG?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
     },
     {
       "id": "auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra",
