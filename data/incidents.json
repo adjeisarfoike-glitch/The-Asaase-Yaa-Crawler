@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-30T21:08:50.410Z",
+  "updated": "2026-08-31T05:36:28.416Z",
   "counts": {
-    "total": 554,
+    "total": 557,
     "verified": 28,
-    "automated": 526,
+    "automated": 529,
     "earliest": "2024-07-01",
     "latest": "2026-08-30"
   },
@@ -46,6 +46,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTV5UW9ZYXI3VWZ4dGVLakRCQkNtSVROVGk4OW1kSEtyMWJid0x5WUJrcmVvNGJPRnd5SXgwNWQwaExGZmpWVHk4eTBIVVBFdTlLN0xwT2FTNHJnZ0tYWGNPNHlJUVhiYVlNR3diSUkyYXd4eVE5THJmQ3pMSWNZcjU5RGhVZjBfb0NZQjRfSDdYZ0ZBT2FzWXF1aGR2bG5VRnc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-31T05:30:29.678Z",
       "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
     },
     {
@@ -85,7 +86,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZzdzVVbHk0MFk4MlFZRm1XNV9vV2NvLWRCWUlCRDcyMUdncHA2TEVlTzFxbl9hUDlzWDEzNlRNQ3BycXN4U2dDVVYwYWg5TEEzYWtOdXA2RWVRblh5VThQbWEtSVNSSWVXTkIxVnlEczJlckJzT0JQby1EZjZXME93?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-08-31T05:31:39.639Z"
     },
     {
       "id": "auto-2026-08-30-seven-dead-four-trapped-after-galamsey-pit-collapses-at-asam",
@@ -465,6 +467,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ame-zion-church-calls-for-new-approach-to-ministry.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-31T05:35:31.312Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
@@ -567,6 +570,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+    },
+    {
+      "id": "auto-2026-08-28-is-this-a-disaster-waiting-to-happen-galamsey-exposed",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "Is this a disaster waiting to happen? Galamsey Exposed.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Is this a disaster waiting to happen? Galamsey Exposed. YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbFMyVm9wdlhGeTZJSnppNEVTTEliVHJCVFRhdHBDdTVwb3dWMUdtM0Zfd3NEQmNNbUlFTzRheXBvWGtjWThyOTJUT1FGT2dkYVM4ZDkwSF9LdFMw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbFMyVm9wdlhGeTZJSnppNEVTTEliVHJCVFRhdHBDdTVwb3dWMUdtM0Zfd3NEQmNNbUlFTzRheXBvWGtjWThyOTJUT1FGT2dkYVM4ZDkwSF9LdFMw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
@@ -863,6 +885,26 @@
         "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLYkpmS2FraDBzVm1QMHhTX3VNSlJZaERPTEo0MVE3aU9DVDBnZmRDSkg5WFBZTjhSUXJLdFhWcUt5dw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTFBLYkpmS2FraDBzVm1QMHhTX3VNSlJZaERPTEo0MVE3aU9DVDBnZmRDSkg5WFBZTjhSUXJLdFhWcUt5dw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
+    },
+    {
+      "id": "auto-2026-08-27-galamsey-fight-requires-effective-inter-agency-coordination-",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Galamsey fight requires effective inter-agency coordination - Dr Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight requires effective inter-agency coordination - Dr Zanetor GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNk5WZ2FhRUVmU1kxc05HMTM1UkdtcmlCUDhvUU5RZFIyUEtZNXZnbEpfZGRYWFJlaVNjYjlpcHBlREU1ekxVcFluLVZiSGRaOV9MWXZuVmFWRmhzWHZjZ2lnYlVQZWM3SkR3LUNVREllMHVNZ015azN1ampET3AweXkza3pld1VZMUd3NVJuSHd5ekRPRTRFd1RURmphZWpJQ1FsbE1Ka1dlc2ljSnFSZlVtcGRad0ozRmdwS3BFaGdXQlQtNThidg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNk5WZ2FhRUVmU1kxc05HMTM1UkdtcmlCUDhvUU5RZFIyUEtZNXZnbEpfZGRYWFJlaVNjYjlpcHBlREU1ekxVcFluLVZiSGRaOV9MWXZuVmFWRmhzWHZjZ2lnYlVQZWM3SkR3LUNVREllMHVNZ015azN1ampET3AweXkza3pld1VZMUd3NVJuSHd5ekRPRTRFd1RURmphZWpJQ1FsbE1Ka1dlc2ljSnFSZlVtcGRad0ozRmdwS3BFaGdXQlQtNThidg?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3587,6 +3629,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-20-when-the-rivers-heal-child-welfare-and-ghana-s-anti-galamsey"
+    },
+    {
+      "id": "auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min",
+      "date": "2026-08-20",
+      "category": "policy",
+      "title": "Kwame Jantuah calls for a three-year ban on all forms of mining to combat galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kwame Jantuah calls for a three-year ban on all forms of mining to combat galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWpqa2pIN0t4WTduRDZSaTdMaFJ6MDViTHZfbHVKVlJBb1l3VzkxYTR0UzVsa0dSaUxoWVJQY0hPQmkzY1pmNl9UM1ltcG0yWlpJMFNrSVdlcDB1cVdKbl96bG9Rd2MtZlVMdTg0bmMwLTBtaGFBUWRrVzNfZmVYakdub1IzNWIwZ0pEaUdwRFltb3RTT2U1UmZjY3hSNkhsWWRwM1RQa0VwVnV6b3ZLSnV5TWxMMFFlZWpfTDZwc2ZWWW41WVUzTW9IelpXWGNTbG11Tg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWpqa2pIN0t4WTduRDZSaTdMaFJ6MDViTHZfbHVKVlJBb1l3VzkxYTR0UzVsa0dSaUxoWVJQY0hPQmkzY1pmNl9UM1ltcG0yWlpJMFNrSVdlcDB1cVdKbl96bG9Rd2MtZlVMdTg0bmMwLTBtaGFBUWRrVzNfZmVYakdub1IzNWIwZ0pEaUdwRFltb3RTT2U1UmZjY3hSNkhsWWRwM1RQa0VwVnV6b3ZLSnV5TWxMMFFlZWpfTDZwc2ZWWW41WVUzTW9IelpXWGNTbG11Tg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
     },
     {
       "id": "auto-2026-08-19-situation-critical-galamsey-lip-service",
