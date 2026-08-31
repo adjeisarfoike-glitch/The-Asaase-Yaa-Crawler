@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-31T13:50:03.072Z",
+  "updated": "2026-08-31T22:55:54.593Z",
   "counts": {
-    "total": 565,
+    "total": 574,
     "verified": 28,
-    "automated": 537,
+    "automated": 546,
     "earliest": "2024-07-01",
     "latest": "2026-08-31"
   },
@@ -106,6 +106,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ghana-on-the-right-path-in-fight-against-illegal-mining-forestry-commission-deputy-ceo",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-08-31T22:49:23.857Z",
       "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
@@ -126,6 +127,165 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/13-mining-blocks-secured-for-small-scale-miners-minerals-commission/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-ghana-making-incremental-progress-lands-ministry",
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "Galamsey: Ghana making incremental progress – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Ghana making incremental progress – Lands Ministry CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0RVdFFNSVhyX0tSLVZreUxiVklLVndNZTBYQTR0dENyaWNxenBzVjUwdTNudGZQZUNmTnRrUmdrbWFvelcxQ2twTGxlZVdqdDFWdnRWaDd1bjRpOFR6cVQtUWZ2NkoxaS1xVHczX0RtaGVydXVfUlV5QVpJNXlCcjl1NGJZS1lPMWlpYnFGdWdvOHFQLTFJVkhnSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0RVdFFNSVhyX0tSLVZreUxiVklLVndNZTBYQTR0dENyaWNxenBzVjUwdTNudGZQZUNmTnRrUmdrbWFvelcxQ2twTGxlZVdqdDFWdnRWaDd1bjRpOFR6cVQtUWZ2NkoxaS1xVHczX0RtaGVydXVfUlV5QVpJNXlCcjl1NGJZS1lPMWlpYnFGdWdvOHFQLTFJVkhnSQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-31T22:50:39.675Z"
+    },
+    {
+      "id": "auto-2026-08-31-asaman-tamfoe-rescue-operation-ends-at-galamsey-site-death-t",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Asaman Tamfoe: Rescue operation ends at galamsey site, death toll stands at seven",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Asaman Tamfoe: Rescue operation ends at galamsey site, death toll stands at seven CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWlBdEdjQ2MtVW5SaXpuMDh1c3NqNEQyN1kwNXF5LWFDaFNoZUFZYzUycm5aTmtOVDVLUUh6OUJkTG1NMG1ENV9BSzFxWE5lSVNnWEdTZk80LXhlaW0tR1ZEbTV6Qk5YUGloZG1ha3ZneGprS0hON096QTZaMHI1UnlRWnJTMThDX0FUOXFkRjNOczNURldUOTR2STkxQVNXbEFPTUtvZHVQdUVvUTU3QUtRdEVvSnBC?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWlBdEdjQ2MtVW5SaXpuMDh1c3NqNEQyN1kwNXF5LWFDaFNoZUFZYzUycm5aTmtOVDVLUUh6OUJkTG1NMG1ENV9BSzFxWE5lSVNnWEdTZk80LXhlaW0tR1ZEbTV6Qk5YUGloZG1ha3ZneGprS0hON096QTZaMHI1UnlRWnJTMThDX0FUOXFkRjNOczNURldUOTR2STkxQVNXbEFPTUtvZHVQdUVvUTU3QUtRdEVvSnBC?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-31-eastern-region-seven-killed-in-galamsey-pit-collapse-at-asam",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Eastern region: Seven killed in galamsey pit collapse at Asamang Tamfoe",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Eastern region: Seven killed in galamsey pit collapse at Asamang Tamfoe Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2pCSWFVcXo3bGF0VWxUam1hT281dVE4V05FOXJTWWhBVm1mUDItN3hUV3pDSlpiaU9Qc0lWWDBvS0t0b1lIdWVodHpia1ZIclllUVBORWhOQ0NXUUtsWVBlQ2c1eU1rV2psTlZwSDMxbkNhQUJwNERRdlYyYlE5UlFhcENHbXZvQzR5VnB3elh4aEFieDRwdHpVa9IBmgFBVV95cUxONUZtRGhCRGZETkhhc2hYLU5WT2NhdVhyUk90MnlTQVdhWkpveldNM2xJUjZTY2F2MW96dWhBeDQ5djczd1V0bkhWSmgwd3BBdHhNTDVwTmY3U3doTy01MWFhMmNmODlxTUxWdE9KX3JxeUE0RmlYTHlEbkFYUUJ5RWhxNjFCdm0zOG1tazQydWpHajFGUjh2bVdB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2pCSWFVcXo3bGF0VWxUam1hT281dVE4V05FOXJTWWhBVm1mUDItN3hUV3pDSlpiaU9Qc0lWWDBvS0t0b1lIdWVodHpia1ZIclllUVBORWhOQ0NXUUtsWVBlQ2c1eU1rV2psTlZwSDMxbkNhQUJwNERRdlYyYlE5UlFhcENHbXZvQzR5VnB3elh4aEFieDRwdHpVa9IBmgFBVV95cUxONUZtRGhCRGZETkhhc2hYLU5WT2NhdVhyUk90MnlTQVdhWkpveldNM2xJUjZTY2F2MW96dWhBeDQ5djczd1V0bkhWSmgwd3BBdHhNTDVwTmY3U3doTy01MWFhMmNmODlxTUxWdE9KX3JxeUE0RmlYTHlEbkFYUUJ5RWhxNjFCdm0zOG1tazQydWpHajFGUjh2bVdB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Galamsey: Ibrahim Adjei Rejects Claims That GoldBod Has Worsened Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Ibrahim Adjei Rejects Claims That GoldBod Has Worsened Illegal Mining Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JdVVDX1JGU0NON3JTY1RIV1VYMXdHZnRpaGZfeXplTTUzdG1ORThHc3VGOEV6dGZ0Mm1ieS05RG9DeXoyRVR6bS1Cb0Q4MTJKb0xteTVLVVR5NTdKbjN5S21BONIBXEFVX3lxTE1wcktVYzlOc1NFMEp1Um1qaGlBeUFBR2o2cktDTVNKbHd1dXExTjRfaHFaZ0lSUnNvcV8tRTdyV0EwV1R4UUxpUVA0VFlzMDFYZEQ4RGlEV2ctbXBK?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JdVVDX1JGU0NON3JTY1RIV1VYMXdHZnRpaGZfeXplTTUzdG1ORThHc3VGOEV6dGZ0Mm1ieS05RG9DeXoyRVR6bS1Cb0Q4MTJKb0xteTVLVVR5NTdKbjN5S21BONIBXEFVX3lxTE1wcktVYzlOc1NFMEp1Um1qaGlBeUFBR2o2cktDTVNKbHd1dXExTjRfaHFaZ0lSUnNvcV8tRTdyV0EwV1R4UUxpUVA0VFlzMDFYZEQ4RGlEV2ctbXBK?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-illegal-mining-has-escalated-under-the-ndc-governme",
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "Galamsey: “Illegal Mining Has Escalated Under the NDC Government” — Elvis Darko | Breakfast Daily",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: “Illegal Mining Has Escalated Under the NDC Government” — Elvis Darko | Breakfast Daily Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81X1JyQ0R0RkM0dW5MUV9JMFp6Z2JjQVQyaVRJUkVYVlV2dzQyaVpfVDFJdnJGdkJVVlM5bWFsbWwtT0VqelJqR1Jvek83ckpHNGVfUFR6UVNQYXdxcnN3Zl8xTdIBXEFVX3lxTFAzNXR2SE01UU9UaWhlZEwwbGVkelBfUVktanNEN2ZaV2wyLTN1SW1YaUhUNUl4Z0hKOW5aWmNNeXl2LTgxdjFLU2t3bDAtOV8tZks5am1QdUJiNnZV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE81X1JyQ0R0RkM0dW5MUV9JMFp6Z2JjQVQyaVRJUkVYVlV2dzQyaVpfVDFJdnJGdkJVVlM5bWFsbWwtT0VqelJqR1Jvek83ckpHNGVfUFR6UVNQYXdxcnN3Zl8xTdIBXEFVX3lxTFAzNXR2SE01UU9UaWhlZEwwbGVkelBfUVktanNEN2ZaV2wyLTN1SW1YaUhUNUl4Z0hKOW5aWmNNeXl2LTgxdjFLU2t3bDAtOV8tZks5am1QdUJiNnZV?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-channel-one-tv-live-the-fight-against-galamsey-a-closer-look",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Channel One TV LIVE! The Fight Against Galamsey: A Closer Look at Recent Issues | #PointOfView",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Channel One TV LIVE! The Fight Against Galamsey: A Closer Look at Recent Issues | #PointOfView Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOXNKbUhrd1JfRnZ1ek55bVVMTDBDa0YxSV9IN1IzYVJqWmdFTW1McmQ0UklWUlNIZHR2UkM2QmwwbkNHYVo2TTU2Z3kySjdrZkpxMFpRNzV1TlhlbEs1Sl9yNNIBXEFVX3lxTE9MbUUwdmoxblpjUnJFNXdQZlNlR0c5WHR5aWdlQlpsVHpfTnJySjAyZGtxdzAyTVNPeVdCVU41VExmUFZMSDNBalFmYVAtTDU0YkJsUG5DVW84Um1S?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOXNKbUhrd1JfRnZ1ek55bVVMTDBDa0YxSV9IN1IzYVJqWmdFTW1McmQ0UklWUlNIZHR2UkM2QmwwbkNHYVo2TTU2Z3kySjdrZkpxMFpRNzV1TlhlbEs1Sl9yNNIBXEFVX3lxTE9MbUUwdmoxblpjUnJFNXdQZlNlR0c5WHR5aWdlQlpsVHpfTnJySjAyZGtxdzAyTVNPeVdCVU41VExmUFZMSDNBalFmYVAtTDU0YkJsUG5DVW84Um1S?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-31-zanetor-agyeman-rawlings-pledges-decisive-action-on-climate-",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Zanetor Agyeman-Rawlings pledges decisive action on climate change, galamsey and environmental degradation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The newly appointed Minister for Environment, Science and Technology, Dr Zanetor Rawlings, has pledged to pursue decisive action against climate change, environmental degradation, illegal mining, pollution and other challenges confronting Ghana’s environment.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/zanetor-agyeman-rawlings-pledges-decisive-action-on-climate-change-galamsey-and-environmental-degradation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/zanetor-agyeman-rawlings-pledges-decisive-action-on-climate-change-galamsey-and-environmental-degradation/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-08-31-goldbod-generated-1-315bn-in-forex-in-august-1-4bn-to-be-gen",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "GoldBod generated $1.315bn in Forex in August, $1.4bn to be generated in September",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) generated US$1.315 billion in foreign exchange in August 2026 under a new collaborative financing model introduced to support its artisanal and small-scale mining gold operations.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/goldbod-generated-1-315bn-in-forex-in-august-targets-1-4bn-in-september"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/goldbod-generated-1-315bn-in-forex-in-august-targets-1-4bn-in-september",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-08-31T22:53:15.324Z"
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -266,6 +426,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-30-galamsey-raid-10-arrested-guns-and-excavators-seized-in-sava",
+      "date": "2026-08-30",
+      "category": "arrest",
+      "title": "Galamsey raid: 10 arrested, guns and excavators seized in Savannah Region",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "Galamsey raid: 10 arrested, guns and excavators seized in Savannah Region cedirates.com",
+      "metrics": {},
+      "source": {
+        "name": "cedirates.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZU5BUnZCakl2ajlZREt4Y1U0MFNGSmMzUFZ2ZG1YVTFEZ3N2QVdWLThYVnc1YV9VU3kxb0dlLXZRdWMwcU1sR3pTY3NDdDlqNnhwZS1QdnR3UkNYOUVyblZ6YjlVLWVOaXhzYXk3dlJfbkNaT3JQZ240eVc5WDFOcUtxRHY4VzJHbTdiR3Z5R0luRHRuS0FrY2dLbmstWU0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxPZU5BUnZCakl2ajlZREt4Y1U0MFNGSmMzUFZ2ZG1YVTFEZ3N2QVdWLThYVnc1YV9VU3kxb0dlLXZRdWMwcU1sR3pTY3NDdDlqNnhwZS1QdnR3UkNYOUVyblZ6YjlVLWVOaXhzYXk3dlJfbkNaT3JQZ240eVc5WDFOcUtxRHY4VzJHbTdiR3Z5R0luRHRuS0FrY2dLbmstWU0?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-29-galamsey-provide-determined-leadership-mahama-tasks-zanetor",
