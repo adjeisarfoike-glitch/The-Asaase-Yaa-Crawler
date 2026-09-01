@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-01T16:43:25.288Z",
+  "updated": "2026-09-01T21:07:01.556Z",
   "counts": {
-    "total": 590,
+    "total": 592,
     "verified": 28,
-    "automated": 562,
+    "automated": 564,
     "earliest": "2024-07-01",
     "latest": "2026-09-01"
   },
@@ -26,6 +26,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhRXVjYVRhOU96WnRMeXJJQTlUQ0hjQ2dlNl9DUFFDN1JWbDVNb2hMWkpqR2RwWDVhSGdNUGxrV3dCU0NxcEZsSVFmZDNNM0Z2M3dpM3A1b0c5UGdPZ3V5X1Y2a9IBXEFVX3lxTE5ka2JnaVBJQXJBRHJyZ3hVT0FJMERHaTViVXNrdjAzRTBRMUw4ajkzWkdrRWRoYlFSeGRZWlNkWURaSFk1R0FRRXc5YXRlTTB5ZzB6clBYbUVqNnJ1?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-01T21:00:50.520Z",
       "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
@@ -45,7 +46,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0VOalllMy01YjFMdWY4Y0tkR1d2RHY0LTNjX3Q3U056ckhVcFV2Y2pTTnUtWDFPVGxqc0lCSEEtYmJVVDl4S1N5QUdRM2I1ZVRKOHNvcUt6XzZlV2dUNFVnWklNUUVXN1h4UTFFUjJ1Z2tNdDZMd1BneXNKem5OYkhSV2N2bUhWOTRKcnAzVTJmdlZXTFFKdkdoSE1pYkw4UGc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-01T21:01:15.465Z"
     },
     {
       "id": "auto-2026-09-01-the-sahel-shakedown-and-the-galamsey-threat-how-global-power",
@@ -65,6 +67,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHVQdWx5dlFsaGJKd2VqbXFJazRZbHFsT1R4ejAzNTVzNkRvR0tGM1JOTFJMeFFZdnJLSmQyM0c2X0xlLWFXczNCOGxrck4wcnZlTjNybDhKZVJ5bFBFem4tbTN5dVBtY0VCV0x0ZndnSG5NY05fZTAxbE9XaGExZ1VTUlQ4MGxJRFZHczRvZ0pPR2Z0R0hheA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-01T21:01:47.091Z",
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
@@ -84,7 +87,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxOakVZTC0xS21Va19fYVl3OXAyekVCcW56MjNQWkNZYlc2X0taMHhlcHdFektNM1Y0a252VGhGaFdTazFtYm9YY3ZZNU92YTRBaC1uOHk3WGZWZ24wQUhtUkVNcWJOQlNqdV9nQ0Qxc2gydEhUWkZHb3d4VTNCLTBMMVFxNFBuVkhjV1E?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-01T21:02:19.251Z"
     },
     {
       "id": "auto-2026-09-01-naimos-arrest-10-illegal-miners-seize-equipment",
@@ -103,7 +107,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEpVRldvNDRCcnlZRm1WVXRXUnV3TUE0WktveW52Ny1jU0lFSUdrUWsyMjRDQnExdU9ES19wNF9nVUxvYVViNUhSLUp1X2RLRmdXVEpBbEZYS3pONzRsaEZfY2xGLVFXa2lwOVkwWW1wRHVDc3V5cGczQ1NsN19QZmt3?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-01T21:03:01.794Z"
     },
     {
       "id": "auto-2026-09-01-naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyi",
@@ -165,6 +170,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-09-01-galamsey-fight-failing-due-to-politics-official-warns",
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "Galamsey Fight Failing Due to Politics, Official Warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight Failing Due to Politics, Official Warns News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnJZeUN1aDEwNldWUWFHakotV1JLRzNBNU15SXNham0tOHNYSFQ4UXQ4TUtXSW5TaXdmVUE2b0ZtZTRxVVNobE1BWGVpdnQxVWxtVHF3cmdiaU9Rbk9rbmZaNTRrSzY5LXA0a2tka0FOQ1l2MDR5QzNKaVliT3hmM19lMFFJQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxNMnJZeUN1aDEwNldWUWFHakotV1JLRzNBNU15SXNham0tOHNYSFQ4UXQ4TUtXSW5TaXdmVUE2b0ZtZTRxVVNobE1BWGVpdnQxVWxtVHF3cmdiaU9Rbk9rbmZaNTRrSzY5LXA0a2tka0FOQ1l2MDR5QzNKaVliT3hmM19lMFFJQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-09-01-nscdc-busts-illegal-mining-site-arrests-19-in-edo",
+      "date": "2026-09-01",
+      "category": "arrest",
+      "title": "NSCDC Busts Illegal Mining Site, Arrests 19 In Edo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NSCDC Busts Illegal Mining Site, Arrests 19 In Edo Goldmyne TV",
+      "metrics": {},
+      "source": {
+        "name": "Goldmyne TV",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3R3RnejFTaTBjQUhFeUYzOVBGa25kc1hvaFRuRTVpY3pRcm55ZURsVjJIUms1bWVxUDgydTJoR1dCMXM5Q1RNVm1BdWNfbm9nOHVSdnUwUnM5UGZ2X1RObjRrdnY5SWxvdE9mUlY5V1VpWDVBeXBkU29R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiekFVX3lxTFB3R3RnejFTaTBjQUhFeUYzOVBGa25kc1hvaFRuRTVpY3pRcm55ZURsVjJIUms1bWVxUDgydTJoR1dCMXM5Q1RNVm1BdWNfbm9nOHVSdnUwUnM5UGZ2X1RObjRrdnY5SWxvdE9mUlY5V1VpWDVBeXBkU29R?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
