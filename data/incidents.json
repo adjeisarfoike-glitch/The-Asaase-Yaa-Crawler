@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-01T11:41:49.520Z",
+  "updated": "2026-09-01T16:43:25.288Z",
   "counts": {
-    "total": 588,
+    "total": 590,
     "verified": 28,
-    "automated": 560,
+    "automated": 562,
     "earliest": "2024-07-01",
     "latest": "2026-09-01"
   },
@@ -126,6 +126,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-01-give-zanetor-free-hand-to-fight-galamsey-acheampong-christia",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "Give Zanetor free hand to fight galamsey – Acheampong Christian tells govt",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Give Zanetor free hand to fight galamsey – Acheampong Christian tells govt Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemJ6MnZhbFhtNFZZb1k2VEdIX0dXeFhkQ2hEeGZwQTlhR29rZ25uNmdTRE00cmFkang2WG94YWlWY2M2a21lWmJmVmd1cWZZd080cER0TjVySHF5T095dU9ncDdMeFRoWDFnT0FYdzVmU1RlYzcxeDRucEN5QWxiMHIxSnE2TXBvbnV1eWk0MG9RRzMyNU5kV0xB0gGYAUFVX3lxTFBqdWtQVDF1YUFwNW43VmowdzZQZk1Oa3VlTkxBZndRUFJ5SElOVzl5UjVvdEgxSmdEMHpfT2M3aUxRV2VtbGh3b09XNHQtRWZLMVNDZ1F2TTRRcTZuY3lFN0RlZGlWNURHaEctM01IdURVckJnY0I5WVZHTTd5U0phMWNoeG1ZQkQ5bG42QWdaR3RBRmM0WkNp?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOemJ6MnZhbFhtNFZZb1k2VEdIX0dXeFhkQ2hEeGZwQTlhR29rZ25uNmdTRE00cmFkang2WG94YWlWY2M2a21lWmJmVmd1cWZZd080cER0TjVySHF5T095dU9ncDdMeFRoWDFnT0FYdzVmU1RlYzcxeDRucEN5QWxiMHIxSnE2TXBvbnV1eWk0MG9RRzMyNU5kV0xB0gGYAUFVX3lxTFBqdWtQVDF1YUFwNW43VmowdzZQZk1Oa3VlTkxBZndRUFJ5SElOVzl5UjVvdEgxSmdEMHpfT2M3aUxRV2VtbGh3b09XNHQtRWZLMVNDZ1F2TTRRcTZuY3lFN0RlZGlWNURHaEctM01IdURVckJnY0I5WVZHTTd5U0phMWNoeG1ZQkQ5bG42QWdaR3RBRmM0WkNp?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-lands-ministry-warns-against-state-of-emergency-as-galamsey-",
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "Lands Ministry Warns Against State of Emergency as Galamsey Solution",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Lands Ministry Warns Against State of Emergency as Galamsey Solution Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01b016M21Hc0ZvS0NncXJrQzJjVG9saHpTVS1VdEVwazRYR2FJSGJ5Ukp5bS1DY0RGcVYyZFNpX0NWZTVCb1ZBREVLSXd3blBZeURyYXNyYlhUTmhTRGJWbzF3Z9IBXEFVX3lxTE1xZFFmbXE5RVhzR3JJZWRId0J2N3I0OWxkN2RCTXlNNVk1R0dXTm5oNTdjel9jWHBqNnB0cnhtWC1rRFVfVE5rZkFMSGhnUmJLOEtzcFBLTjFoVzZz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE01b016M21Hc0ZvS0NncXJrQzJjVG9saHpTVS1VdEVwazRYR2FJSGJ5Ukp5bS1DY0RGcVYyZFNpX0NWZTVCb1ZBREVLSXd3blBZeURyYXNyYlhUTmhTRGJWbzF3Z9IBXEFVX3lxTE1xZFFmbXE5RVhzR3JJZWRId0J2N3I0OWxkN2RCTXlNNVk1R0dXTm5oNTdjel9jWHBqNnB0cnhtWC1rRFVfVE5rZkFMSGhnUmJLOEtzcFBLTjFoVzZz?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
