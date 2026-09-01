@@ -1,13 +1,33 @@
 {
-  "updated": "2026-08-31T22:55:54.593Z",
+  "updated": "2026-09-01T05:11:10.012Z",
   "counts": {
-    "total": 574,
+    "total": 580,
     "verified": 28,
-    "automated": 546,
+    "automated": 552,
     "earliest": "2024-07-01",
-    "latest": "2026-08-31"
+    "latest": "2026-09-01"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-01-galamsey-in-forest-reserves-as-of-now-there-is-no-red-zone-p",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "Galamsey in Forest Reserves: “As of Now, There Is No Red Zone” – Paa Kwesi Schandorf | #PointOfView",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey in Forest Reserves: “As of Now, There Is No Red Zone” – Paa Kwesi Schandorf | #PointOfView modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhRXVjYVRhOU96WnRMeXJJQTlUQ0hjQ2dlNl9DUFFDN1JWbDVNb2hMWkpqR2RwWDVhSGdNUGxrV3dCU0NxcEZsSVFmZDNNM0Z2M3dpM3A1b0c5UGdPZ3V5X1Y2a9IBXEFVX3lxTE5ka2JnaVBJQXJBRHJyZ3hVT0FJMERHaTViVXNrdjAzRTBRMUw4ajkzWkdrRWRoYlFSeGRZWlNkWURaSFk1R0FRRXc5YXRlTTB5ZzB6clBYbUVqNnJ1?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhRXVjYVRhOU96WnRMeXJJQTlUQ0hjQ2dlNl9DUFFDN1JWbDVNb2hMWkpqR2RwWDVhSGdNUGxrV3dCU0NxcEZsSVFmZDNNM0Z2M3dpM3A1b0c5UGdPZ3V5X1Y2a9IBXEFVX3lxTE5ka2JnaVBJQXJBRHJyZ3hVT0FJMERHaTViVXNrdjAzRTBRMUw4ajkzWkdrRWRoYlFSeGRZWlNkWURaSFk1R0FRRXc5YXRlTTB5ZzB6clBYbUVqNnJ1?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
       "date": "2026-08-31",
@@ -286,6 +306,104 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-31T22:53:15.324Z"
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Galamsey: State of emergency is no ‘magic wand’ – Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: State of emergency is no ‘magic wand’ – Schandorf CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0VIQnMzcXFHUFM3a2xVNkFXSncyVW9jVlJ6dDVUZXRVZ0Jzd0ZKQmI4RmJMMEo2TWZkcUk1WU9SWkt3OHlzZ2hkVzNNZ2VaWEhPZkRkbXZrSEF3R3cyLUM0cmdxbGxfLThHSnlCYjdtUHZBckMxME5NeUJtZlE3YzBIWkxWc3gtbGtnVGV4akZYcTFDMmZn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ0VIQnMzcXFHUFM3a2xVNkFXSncyVW9jVlJ6dDVUZXRVZ0Jzd0ZKQmI4RmJMMEo2TWZkcUk1WU9SWkt3OHlzZ2hkVzNNZ2VaWEhPZkRkbXZrSEF3R3cyLUM0cmdxbGxfLThHSnlCYjdtUHZBckMxME5NeUJtZlE3YzBIWkxWc3gtbGtnVGV4akZYcTFDMmZn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-mahama-cannot-afford-to-fail-ghanaians-bokpin",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Galamsey: Mahama cannot afford to fail Ghanaians – Bokpin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Mahama cannot afford to fail Ghanaians – Bokpin CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjFhQVJJWW1pYjVpV0RpTmJ1cFJJeU5FSlhNclVibXM0QUZBR0kya2hlV1RKZm92bDNoLURsc0hDQW1NaWN4ZkxBT3RPMWdiMHZKS2lybmFwVVM3a2VLSlhZZmYzWE5CSkczUlU0b3pEM01VNWp5ZHJXdFBISWd5LUkzUDNnYi1rSlhIQjlGaTVMODhFQkxv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjFhQVJJWW1pYjVpV0RpTmJ1cFJJeU5FSlhNclVibXM0QUZBR0kya2hlV1RKZm92bDNoLURsc0hDQW1NaWN4ZkxBT3RPMWdiMHZKS2lybmFwVVM3a2VLSlhZZmYzWE5CSkczUlU0b3pEM01VNWp5ZHJXdFBISWd5LUkzUDNnYi1rSlhIQjlGaTVMODhFQkxv?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Galamsey: State of Emergency is No ‘Magic Wand’ – Schandorf | #PointOfView",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: State of Emergency is No ‘Magic Wand’ – Schandorf | #PointOfView modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "President Mahama Cannot Fail Us – Prof. Godfred Bokpin on Galamsey | #PointOfView",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama Cannot Fail Us – Prof. Godfred Bokpin on Galamsey | #PointOfView modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zOHM4U2xQa3VoY2M3QVByMk1nY1ljWUxobmRYZURXcm96eU1DdEczWE10MEQ3Zll4MEVlbE1QSlBnaUFNaTRqekU0dl90cjNIWXZBRUJkU20tYlNWTG5rLVMtNNIBXEFVX3lxTE9nYlFSQVRtUlpfRnltRUg3clVHMC1YOHhwZU1zMHBBX3NvTVhuUE43VTFiMkRBYUlVYThfRWlKUURBYnpfenU3VFNJRVNfSDJQM2FldHpHelZPb2VH?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zOHM4U2xQa3VoY2M3QVByMk1nY1ljWUxobmRYZURXcm96eU1DdEczWE10MEQ3Zll4MEVlbE1QSlBnaUFNaTRqekU0dl90cjNIWXZBRUJkU20tYlNWTG5rLVMtNNIBXEFVX3lxTE9nYlFSQVRtUlpfRnltRUg3clVHMC1YOHhwZU1zMHBBX3NvTVhuUE43VTFiMkRBYUlVYThfRWlKUURBYnpfenU3VFNJRVNfSDJQM2FldHpHelZPb2VH?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-08-31-asamang-tamfoe-tragedy-atiwa-east-mp-mourns-seven-victims-ca",
+      "date": "2026-08-31",
+      "category": "policy",
+      "title": "Asamang Tamfoe tragedy: Atiwa East MP mourns seven victims, calls for mining safety",
+      "place": "Atiwa",
+      "region": "Eastern",
+      "lat": 6.25,
+      "lon": -0.6,
+      "summary": "Member of Parliament for Atiwa East in the Eastern Region Abena Osei-Asare has expressed condolences to families of seven people killed in a galamsey pit collapse at Asamang Tamfoe, a community in the constituency. In a Facebook post on Monday (31 August), Osei-Asare described the incident as a “profound tragedy”... The post Asamang Tamfoe tragedy: Atiwa East MP mourns seven victims, calls for mining safety appeared ",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/asamang-tamfoe-tragedy-atiwa-east-mp-mourns-seven-victims-calls-for-mining-safety/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/asamang-tamfoe-tragedy-atiwa-east-mp-mourns-seven-victims-calls-for-mining-safety/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -8369,7 +8487,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UYmJ4d0FzRTFTdG5xRUYtUWVjZGpKb2RZbU9jX3AtV3ZfWnVWTWJkeHNtWnJwVldzN1ljYmlLQUJRQm5acmNvYWlqeHJxemtYQ3BVcjNGejNLQ1dPM2diRm15QW_SAVxBVV95cUxQV0p6OHVpSWo3d2hVeFRxamR1UlZsU2pxYlptZ09GcC05LXpRRGk2WnZwY1pfaWVUYUc4V1NTNjZLUjEzdDN6eWR0T29zdEljQ0pnSi1vcWpmM083cQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-07-fight-galamsey-to-honour-their-memory-families-of-helicopter",
@@ -8937,8 +9055,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YOUl0YlA4aGw4Q0pKVmRncjB2enVBMlk1X2tTaVdIV0pIUWFIbnNjSGFudUFidmtDc0QwNU9DUFA5dmxDd3lQdGpVX3otNS1Gb2JZeFcwZUItYmVRbDBpa2Q3ZTDSAVxBVV95cUxQOVMwa0pjQl9sLU15Q0dIVGFIckN0akhJQWdOOTVVelBfaVVCZ2pleWdaTG96X2VDWm5vZ3d6d2ZhbDZqanN1bWViY0JCcG5tXzM2bU5Ub1BhVXQ5Yw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
+      "verified": false
     },
     {
       "id": "auto-2026-08-06-galamsey-three-arrested-along-birim-river",
@@ -9055,7 +9172,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTA5cVlvOG45bHZrRjl4WERRSV9rM1Ftd3dSbHZsQzhBUkxNLUYtRTRZa3M2ck9TdUJhSGw5UVg5NHB6RHJ4dHdySVVCOFpGWlFtdVFYZFpfZWF6VzMzX21qYVd1NndLWU9aQUw5RzlrckU4Rk41TWJIMzlYNWJfTU9jaHlCR09BZmlaTXMyVDlvTWhlbEN2T3hSZFVVZ1lVQy1lMTM3UTNPOE1YRmpXRjBqMkhlMWVzNVdfM3FjUWt5dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-06-bono-regional-minister-vows-not-to-relent-on-galamsey-crackd",
@@ -10034,8 +10152,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRU02RF9EdTZ2SXZCVWZ3ZEk4OEFUSzgxaUVVMWdlR3hDRVcycmoxRktQNlo5V1g3NHZvU3ZFM0gzWTEwS21HdlJsNDdJR0FPUkRsNElVYXJRaEwzaEpjNzBiNk_SAVxBVV95cUxPWjNfcEdNVGZLdnZHWkhibFd2blg4R3lkZFBfbGFVMUV4RUxMb2JEZTQ2OUVGeUk0Vkp4MGhQanVGSE1UQ2UzUDhOTmRNYnB6S3B4bnNrSXNoTGtDbw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-galamseyers-in-mpohor-fiase-oper",
