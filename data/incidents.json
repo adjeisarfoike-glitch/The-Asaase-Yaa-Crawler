@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-01T05:11:10.012Z",
+  "updated": "2026-09-01T11:41:49.520Z",
   "counts": {
-    "total": 580,
+    "total": 588,
     "verified": 28,
-    "automated": 552,
+    "automated": 560,
     "earliest": "2024-07-01",
     "latest": "2026-09-01"
   },
@@ -27,6 +27,105 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "Galamsey deaths: Ashigbey calls for targeted state of emergency",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey deaths: Ashigbey calls for targeted state of emergency CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0VOalllMy01YjFMdWY4Y0tkR1d2RHY0LTNjX3Q3U056ckhVcFV2Y2pTTnUtWDFPVGxqc0lCSEEtYmJVVDl4S1N5QUdRM2I1ZVRKOHNvcUt6XzZlV2dUNFVnWklNUUVXN1h4UTFFUjJ1Z2tNdDZMd1BneXNKem5OYkhSV2N2bUhWOTRKcnAzVTJmdlZXTFFKdkdoSE1pYkw4UGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ0VOalllMy01YjFMdWY4Y0tkR1d2RHY0LTNjX3Q3U056ckhVcFV2Y2pTTnUtWDFPVGxqc0lCSEEtYmJVVDl4S1N5QUdRM2I1ZVRKOHNvcUt6XzZlV2dUNFVnWklNUUVXN1h4UTFFUjJ1Z2tNdDZMd1BneXNKem5OYkhSV2N2bUhWOTRKcnAzVTJmdlZXTFFKdkdoSE1pYkw4UGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-the-sahel-shakedown-and-the-galamsey-threat-how-global-power",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "The Sahel Shakedown and the Galamsey Threat: How Global Power Plays are Reshaping Ghana’s Sovereignty and Security",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Sahel Shakedown and the Galamsey Threat: How Global Power Plays are Reshaping Ghana’s Sovereignty and Security Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHVQdWx5dlFsaGJKd2VqbXFJazRZbHFsT1R4ejAzNTVzNkRvR0tGM1JOTFJMeFFZdnJLSmQyM0c2X0xlLWFXczNCOGxrck4wcnZlTjNybDhKZVJ5bFBFem4tbTN5dVBtY0VCV0x0ZndnSG5NY05fZTAxbE9XaGExZ1VTUlQ4MGxJRFZHczRvZ0pPR2Z0R0hheA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHVQdWx5dlFsaGJKd2VqbXFJazRZbHFsT1R4ejAzNTVzNkRvR0tGM1JOTFJMeFFZdnJLSmQyM0c2X0xlLWFXczNCOGxrck4wcnZlTjNybDhKZVJ5bFBFem4tbTN5dVBtY0VCV0x0ZndnSG5NY05fZTAxbE9XaGExZ1VTUlQ4MGxJRFZHczRvZ0pPR2Z0R0hheA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-09-01-plato-s-folder-fighting-galamsey-time-to-turn-to-the-gods",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "PLATO’S FOLDER: Fighting ‘galamsey’: Time to turn to the gods?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PLATO’S FOLDER: Fighting ‘galamsey’: Time to turn to the gods? 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOakVZTC0xS21Va19fYVl3OXAyekVCcW56MjNQWkNZYlc2X0taMHhlcHdFektNM1Y0a252VGhGaFdTazFtYm9YY3ZZNU92YTRBaC1uOHk3WGZWZ24wQUhtUkVNcWJOQlNqdV9nQ0Qxc2gydEhUWkZHb3d4VTNCLTBMMVFxNFBuVkhjV1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxOakVZTC0xS21Va19fYVl3OXAyekVCcW56MjNQWkNZYlc2X0taMHhlcHdFektNM1Y0a252VGhGaFdTazFtYm9YY3ZZNU92YTRBaC1uOHk3WGZWZ24wQUhtUkVNcWJOQlNqdV9nQ0Qxc2gydEhUWkZHb3d4VTNCLTBMMVFxNFBuVkhjV1E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-naimos-arrest-10-illegal-miners-seize-equipment",
+      "date": "2026-09-01",
+      "category": "arrest",
+      "title": "NAIMOS arrest 10 illegal miners, seize equipment",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrest 10 illegal miners, seize equipment MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEpVRldvNDRCcnlZRm1WVXRXUnV3TUE0WktveW52Ny1jU0lFSUdrUWsyMjRDQnExdU9ES19wNF9nVUxvYVViNUhSLUp1X2RLRmdXVEpBbEZYS3pONzRsaEZfY2xGLVFXa2lwOVkwWW1wRHVDc3V5cGczQ1NsN19QZmt3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEpVRldvNDRCcnlZRm1WVXRXUnV3TUE0WktveW52Ny1jU0lFSUdrUWsyMjRDQnExdU9ES19wNF9nVUxvYVViNUhSLUp1X2RLRmdXVEpBbEZYS3pONzRsaEZfY2xGLVFXa2lwOVkwWW1wRHVDc3V5cGczQ1NsN19QZmt3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyi",
+      "date": "2026-09-01",
+      "category": "arrest",
+      "title": "NAIMOS arrests 10 illegal miners, seize equipment near Gbinyiri",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS), in collaboration with the Northern Command of the Ghana Army and the Ghana Police Service, have arrested 10 suspected illegal miners during an anti-illegal mining operation at Kpali, near Gbinyiri in the Sawla-Tuna-Kalba District of the Savannah Region. The team also seized two excavators, three excavator monitors, a […]",
+      "metrics": {
+        "arrests": 10
+      },
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyiri/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyiri/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
@@ -404,6 +503,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-08-31-asaman-tamfoe-illegal-mining-7-killed-4-trapped-after-mining",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Asaman Tamfoe Illegal Mining: 7 Killed, 4 Trapped After Mining Pit Collapse",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Asaman Tamfoe Illegal Mining: 7 Killed, 4 Trapped After Mining Pit Collapse Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03eVJ2WVlUZTlyS3I0VzlzcTloVDFQZDhYU2pTUWxzRmE2eFVSdGlTZHNDZ3dNakI5ZGlvVTZyeENwVy1uNDV4OXVlOHp2YUhWZGhUV2NmTEx0OGJpS09BTEt4d9IBXEFVX3lxTFBBaW9BYmp2MXdCQTFDVmZDeWhMZlVBNnFBOS1DcHFiQWtYSExxYndVVGZYeUYyLTlWM2p0cmxJbFY3a0dWWFJIVzBqUkt2OTQ0WUlvc2x3SDVBWXc1?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE03eVJ2WVlUZTlyS3I0VzlzcTloVDFQZDhYU2pTUWxzRmE2eFVSdGlTZHNDZ3dNakI5ZGlvVTZyeENwVy1uNDV4OXVlOHp2YUhWZGhUV2NmTEx0OGJpS09BTEt4d9IBXEFVX3lxTFBBaW9BYmp2MXdCQTFDVmZDeWhMZlVBNnFBOS1DcHFiQWtYSExxYndVVGZYeUYyLTlWM2p0cmxJbFY3a0dWWFJIVzBqUkt2OTQ0WUlvc2x3SDVBWXc1?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-31-galamsey-payroll-claims-expose-rot-in-ghana-s-anti-mining-fi",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Galamsey Payroll Claims Expose Rot in Ghana's Anti-Mining Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Payroll Claims Expose Rot in Ghana's Anti-Mining Fight streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTJxWTJjV1YzdXFYUV9IX2V3TU9YamJsa0M1dkJubkVXSlhoUTJiRmFrdVFoeUZicFgwZTMzZ1pVVU5LVmVwVy1ubUpzdE1Wb1lPYzdkY2xQSEdEcnFyc0MyV3VwVE5jRFQ3UjhUZEZCWENOMHBjbGFmaTNjX3prSTVKd19mZk9lSnpLVVpPNlFwSWhHOWJocmFaa3c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTJxWTJjV1YzdXFYUV9IX2V3TU9YamJsa0M1dkJubkVXSlhoUTJiRmFrdVFoeUZicFgwZTMzZ1pVVU5LVmVwVy1ubUpzdE1Wb1lPYzdkY2xQSEdEcnFyc0MyV3VwVE5jRFQ3UjhUZEZCWENOMHBjbGFmaTNjX3prSTVKd19mZk9lSnpLVVpPNlFwSWhHOWJocmFaa3c?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -2460,6 +2598,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3ZDd0LWlxbndXRTRXNXRGV05kYjlIS0IwVncyUWhHRUk2Xy05bWtkNVp6UDZLenhNaDNyaTFsS0ZTaEhhbFdOX2V3ZWtfQmZIMHZ0a0VfejNqMTBpOF9zeFdrT1A?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders-adf-magazine-com",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "Galamsey Threat Goes Beyond Ghana’s Borders - adf-magazine.com",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Threat Goes Beyond Ghana’s Borders adf-magazine.com",
+      "metrics": {},
+      "source": {
+        "name": "adf-magazine.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGFBcFM5ZXhXaGxueUtFTGVLZkhETDhQZlR0Vy14WXBDWDNacWU3SkJMWVkwcGhSUkYxV1dDSXplMExwZ05nclJUdkFGSG1hSy1kdjJEbWJGZllDVXgyM3Fzc0lCT1VwOFBSWjVFeEtkM2E2c0dIdzB5R3hDUnkxYy1B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPNGFBcFM5ZXhXaGxueUtFTGVLZkhETDhQZlR0Vy14WXBDWDNacWU3SkJMWVkwcGhSUkYxV1dDSXplMExwZ05nclJUdkFGSG1hSy1kdjJEbWJGZllDVXgyM3Fzc0lCT1VwOFBSWjVFeEtkM2E2c0dIdzB5R3hDUnkxYy1B?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
