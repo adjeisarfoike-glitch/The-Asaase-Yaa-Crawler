@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-01T21:07:01.556Z",
+  "updated": "2026-09-02T04:34:03.803Z",
   "counts": {
-    "total": 592,
+    "total": 594,
     "verified": 28,
-    "automated": 564,
+    "automated": 566,
     "earliest": "2024-07-01",
     "latest": "2026-09-01"
   },
@@ -130,6 +130,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyiri/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-02T04:29:56.013Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
@@ -149,7 +150,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOemJ6MnZhbFhtNFZZb1k2VEdIX0dXeFhkQ2hEeGZwQTlhR29rZ25uNmdTRE00cmFkang2WG94YWlWY2M2a21lWmJmVmd1cWZZd080cER0TjVySHF5T095dU9ncDdMeFRoWDFnT0FYdzVmU1RlYzcxeDRucEN5QWxiMHIxSnE2TXBvbnV1eWk0MG9RRzMyNU5kV0xB0gGYAUFVX3lxTFBqdWtQVDF1YUFwNW43VmowdzZQZk1Oa3VlTkxBZndRUFJ5SElOVzl5UjVvdEgxSmdEMHpfT2M3aUxRV2VtbGh3b09XNHQtRWZLMVNDZ1F2TTRRcTZuY3lFN0RlZGlWNURHaEctM01IdURVckJnY0I5WVZHTTd5U0phMWNoeG1ZQkQ5bG42QWdaR3RBRmM0WkNp?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-02T04:30:23.118Z"
     },
     {
       "id": "auto-2026-09-01-lands-ministry-warns-against-state-of-emergency-as-galamsey-",
@@ -625,6 +627,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTJxWTJjV1YzdXFYUV9IX2V3TU9YamJsa0M1dkJubkVXSlhoUTJiRmFrdVFoeUZicFgwZTMzZ1pVVU5LVmVwVy1ubUpzdE1Wb1lPYzdkY2xQSEdEcnFyc0MyV3VwVE5jRFQ3UjhUZEZCWENOMHBjbGFmaTNjX3prSTVKd19mZk9lSnpLVVpPNlFwSWhHOWJocmFaa3c?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-ewurade-panic-at-asamang-tamfoe-as-galamsey-pit-collapses-on",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "\"Ewurade\": Panic at Asamang Tamfoe as galamsey pit collapses on over 10 youths",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"Ewurade\": Panic at Asamang Tamfoe as galamsey pit collapses on over 10 youths Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0hiZVFwRFVzcVlWS3cxNkJhUDNNaWFxMnFxeUNoaDJZeU5YZ2JBUXBYZVl4Y2EzWGs3YXRHOTFuSjZlaGJsLUtORzQ3VFRXTHExWEdCeUpfOWgyeEtZZzRVNlhUa0N6THRhd0xSQlVxa2JiQk9WMGN6cDViYXFfTEkxSXZBcEdqSWZaN2JNazc2ZFRkUldyR0NveGw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0hiZVFwRFVzcVlWS3cxNkJhUDNNaWFxMnFxeUNoaDJZeU5YZ2JBUXBYZVl4Y2EzWGs3YXRHOTFuSjZlaGJsLUtORzQ3VFRXTHExWEdCeUpfOWgyeEtZZzRVNlhUa0N6THRhd0xSQlVxa2JiQk9WMGN6cDViYXFfTEkxSXZBcEdqSWZaN2JNazc2ZFRkUldyR0NveGw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -3314,6 +3336,25 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3VvdHJoOHlfVDhPN01sYm8zSzlMWEFIOFVwSF9xMUUwVEJDR0Jkb0VsVl9qTUx5ZDNUTkhLdjdoemNJcXV6cFRCSDl0bzhfcWQ2cWxLZkhfSnBBdGZ3aTkwbjlYN2dKNExtRF90VjNCU1NyOFNJU1c4R1E0WE5WNDhsMnlzV0Y5QVpMUDBn?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxNU3VvdHJoOHlfVDhPN01sYm8zSzlMWEFIOFVwSF9xMUUwVEJDR0Jkb0VsVl9qTUx5ZDNUTkhLdjdoemNJcXV6cFRCSDl0bzhfcWQ2cWxLZkhfSnBBdGZ3aTkwbjlYN2dKNExtRF90VjNCU1NyOFNJU1c4R1E0WE5WNDhsMnlzV0Y5QVpMUDBn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-23-ndc-never-included-state-of-emergency-in-manifesto-to-fight-",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "NDC never included state of emergency in manifesto to fight galamsey - Member",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC never included state of emergency in manifesto to fight galamsey - Member GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmNvajNoQXBKRzlNRl9Jb1NqanRHTnJRWnFSODZPZ1RPNzdhMmE1VG56b1hUMWgydmg1Mk1QNG1USlpReGlvV1FjTE95NW1faVdtbmJ4OGFzRTVGZVhJR0dzY0QwVURwMGw5MGFUX2czall3NjBERjVaQ1F1SjdBQ0JfQ3hzSThPb1MyZ2k5elZ2SV9ET0l1WXMweF8wS3YwS2tzQlRQbWNkTEdTSXcxcFpFdk00VVhaQVRpdzNuTGluQTNxQ05ROVVWUTB4bTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxNNmNvajNoQXBKRzlNRl9Jb1NqanRHTnJRWnFSODZPZ1RPNzdhMmE1VG56b1hUMWgydmg1Mk1QNG1USlpReGlvV1FjTE95NW1faVdtbmJ4OGFzRTVGZVhJR0dzY0QwVURwMGw5MGFUX2czall3NjBERjVaQ1F1SjdBQ0JfQ3hzSThPb1MyZ2k5elZ2SV9ET0l1WXMweF8wS3YwS2tzQlRQbWNkTEdTSXcxcFpFdk00VVhaQVRpdzNuTGluQTNxQ05ROVVWUTB4bTQ?oc=5",
       "via": "rss",
       "verified": false
     },
