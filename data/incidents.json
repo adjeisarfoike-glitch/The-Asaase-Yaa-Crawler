@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-02T16:38:47.232Z",
+  "updated": "2026-09-02T21:08:17.858Z",
   "counts": {
-    "total": 602,
+    "total": 607,
     "verified": 28,
-    "automated": 574,
+    "automated": 579,
     "earliest": "2024-07-01",
     "latest": "2026-09-02"
   },
@@ -12,20 +12,21 @@
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
       "date": "2026-09-02",
       "category": "forest",
-      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah",
+      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah Modern Ghana",
+      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah Ghana Business News",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5"
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-02T21:01:07.858Z"
     },
     {
       "id": "auto-2026-09-02-npp-sounds-alarm-over-galamsey-1-7bn-gold-loss",
@@ -44,7 +45,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTG50RFdHTTZtSlN3X1BhY3A2UW1ZSnR0TXg1YjRBMXF3RGxoVWFPRTdpclhVS1Rhel9aWkdxZkNXV3ByY240VXlOMVA4Tkg0bU42eTFiNTRJbXRRNVd0MHpRYmFWMU1yODZxSFNzMDFCaGladDJmZ216UQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-02T21:01:56.887Z"
     },
     {
       "id": "auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water",
@@ -63,7 +65,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-02T21:02:33.913Z"
     },
     {
       "id": "auto-2026-09-02-2-chinese-nationals-arrested-for-illegal-mining-in-sulawesi",
@@ -83,6 +86,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVNxV1Q2QjJOZncyUU41S3hWWVA2OExsMUphamw3TG4yN3Q1ZnBTS09fNEhwSXVGaFVIbDExTFNXbWtzWHJlbnNiUDQ5Z1VpMkM0X1plNGZFNnRfUExhcGQ2VWpOVURfNjVmRU4xMHg3RWNPT0E4cHAyM01LaGpNZklHRHpsRDRyaUdkc2Y0TGZiS0dIQzhB?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-02-mp-orders-alleged-illegal-miners-along-tutuka-akrofuom-road-",
+      "date": "2026-09-02",
+      "category": "policy",
+      "title": "MP orders alleged illegal miners along Tutuka–Akrofuom road to vacate sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Member of Parliament for the Akrofuom Constituency, Joseph Azumah, has directed persons allegedly engaged in illegal mining along the Tutuka–Akrofuom Road to vacate their sites immediately. The directive follows concerns that mining activities along the stretch between Ahansoyewodea and Akrofuom are obstructing the road contractor and could delay the completion of the project. In a […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/mp-orders-alleged-illegal-miners-along-tutuka-akrofuom-road-to-vacate-sites/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/mp-orders-alleged-illegal-miners-along-tutuka-akrofuom-road-to-vacate-sites/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-09-01-galamsey-in-forest-reserves-as-of-now-there-is-no-red-zone-p",
@@ -1707,6 +1730,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-27-effective-coordination-key-to-fighting-galamsey-zanetor",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Effective coordination key to fighting galamsey – Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Effective coordination key to fighting galamsey – Zanetor MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm92eHhjUFRYaUR1ci1WMlNPTF9TNTh4Uk5YYUxYc0dfWWg2TTd1dmw0X2M5Yml4R05nRTd0S3I1SGh1bTMtallvY2gteUVfZTV3Y080UE81OXhGT3dzTTVNbk9XVmZNdWlhSk5NMG1welg0d3MtWEVEbUtLSUIxUm5Ub1g2RmFXdHlxaA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm92eHhjUFRYaUR1ci1WMlNPTF9TNTh4Uk5YYUxYc0dfWWg2TTd1dmw0X2M5Yml4R05nRTd0S3I1SGh1bTMtallvY2gteUVfZTV3Y080UE81OXhGT3dzTTVNbk9XVmZNdWlhSk5NMG1welg0d3MtWEVEbUtLSUIxUm5Ub1g2RmFXdHlxaA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
       "date": "2026-08-26",
       "category": "arrest",
@@ -2178,6 +2220,25 @@
         "url": "https://3news.com/news/forestry-commission-tackles-illegal-mining-in-50-forest-reserves-h"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/forestry-commission-tackles-illegal-mining-in-50-forest-reserves-h",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-26-our-guests-refuse-local-fish-hotels-association-blames-galam",
+      "date": "2026-08-26",
+      "category": "water",
+      "title": "'Our guests refuse local fish' – Hotels Association blames galamsey pollution",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Our guests refuse local fish' – Hotels Association blames galamsey pollution GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzBwTUZfOGpaSUZtbUt5Y1JHZElkMm5CMWxSWjg0QWVnaG1mamxNTUVTa3pSTlVfR2ZIamF1dWFZWXdjM0p2bXd4SFFsM3RhQl9VRjZHb2ZhMEJPVFUwdXNfSFNfWUZRT295Y1JVbXVTSVpCZW5heDl1Qk5VX2pmSnBVWkpESWpxbVFBSHR5NGozaFhZWkdhNHJfbGJDTlZoRndaZnE3Y19UTXNFVzVfZDRmM1BOMU1SWVFyME8xM0N3NUMxakJURw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzBwTUZfOGpaSUZtbUt5Y1JHZElkMm5CMWxSWjg0QWVnaG1mamxNTUVTa3pSTlVfR2ZIamF1dWFZWXdjM0p2bXd4SFFsM3RhQl9VRjZHb2ZhMEJPVFUwdXNfSFNfWUZRT295Y1JVbXVTSVpCZW5heDl1Qk5VX2pmSnBVWkpESWpxbVFBSHR5NGozaFhZWkdhNHJfbGJDTlZoRndaZnE3Y19UTXNFVzVfZDRmM1BOMU1SWVFyME8xM0N3NUMxakJURw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2857,6 +2918,25 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGJSbEd0LUNrUUljV2IwUXdSakcteGdRblNENldyNl9pUUVHWlRvWllCMTNfc1p0aTVLMnZ4UU0zNmZxb2xwa1A3TXp5Q19yU19mQWJKbkRGUVg5YVQzRFhPbUxabUh3OWVySzhETU5qaU81alhCbHlvTUgyZmROaUZkOTQzQlFQRDFZVW5rX1hHaGVvLUx0UUl1T25oTkJFTEdTSlZVY3FrVW9PdnVSeEtGUUI1U2FQQS1sUVY0dXR1dWJyTmYtZTdRR1NkYkU5bDk0Qm1BTDI5R2s?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbGJSbEd0LUNrUUljV2IwUXdSakcteGdRblNENldyNl9pUUVHWlRvWllCMTNfc1p0aTVLMnZ4UU0zNmZxb2xwa1A3TXp5Q19yU19mQWJKbkRGUVg5YVQzRFhPbUxabUh3OWVySzhETU5qaU81alhCbHlvTUgyZmROaUZkOTQzQlFQRDFZVW5rX1hHaGVvLUx0UUl1T25oTkJFTEdTSlZVY3FrVW9PdnVSeEtGUUI1U2FQQS1sUVY0dXR1dWJyTmYtZTdRR1NkYkU5bDk0Qm1BTDI5R2s?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-21-year-old-man-found-dead-in-galamsey-pit-at-twumkrom",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "21-year-old man found dead in galamsey pit at Twumkrom",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "21-year-old man found dead in galamsey pit at Twumkrom GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm01OTJpTmJGeTJVNTdLSEZzaHhWM3FKTDVlTTA4TWJaRU00VzBETld6WG1yNURleG9OWmVTSnBxTHBpS28zR3kxTFFIMGU2T0ZlenhxTzA0ajN3OVc4Vk9IMXd2azdHQXVXM3U0RTVKUzRQdVNFa2xjYXJxYXpjb3JiNkVyT3F2R1BZSzZiSW9oX01nWHRBS2l0bWRXRFViYXNhZEdORnYwMFdZamZJMXpSdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNcm01OTJpTmJGeTJVNTdLSEZzaHhWM3FKTDVlTTA4TWJaRU00VzBETld6WG1yNURleG9OWmVTSnBxTHBpS28zR3kxTFFIMGU2T0ZlenhxTzA0ajN3OVc4Vk9IMXd2azdHQXVXM3U0RTVKUzRQdVNFa2xjYXJxYXpjb3JiNkVyT3F2R1BZSzZiSW9oX01nWHRBS2l0bWRXRFViYXNhZEdORnYwMFdZamZJMXpSdw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -4204,6 +4284,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+    },
+    {
+      "id": "auto-2026-08-21-atwima-kwanwoma-residents-demand-action-over-galamsey-pit-re",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "Atwima Kwanwoma residents demand action over galamsey pit-related deaths",
+      "place": "Atwima",
+      "region": "Ashanti",
+      "lat": 6.6,
+      "lon": -2.05,
+      "summary": "Atwima Kwanwoma residents demand action over galamsey pit-related deaths GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWU5MTk4Rk5DMzhhRVMzeEJLby1kaDhQR1Q2TFhIOUxKRlZEYlRjUHZ2S3puVVUzZGdRS1dqUEVoNFZ5bGw1cmdFNU5TX1NHTjBuUktaRVpCdFVrME5QNGQyTW16VjRMdVIxYnZBTUlWWTR6UXBxWnhqR3ZIc3A1OG9tc3RsN1RmVHU2SWY1UDVkMkR3Vm5ZODhuMG1QbGxOSndHS0NDVHNGZEJGVjRUa0VNd2lydDVNeGdUZmpndXBFcDY5NHdJMkpQdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWU5MTk4Rk5DMzhhRVMzeEJLby1kaDhQR1Q2TFhIOUxKRlZEYlRjUHZ2S3puVVUzZGdRS1dqUEVoNFZ5bGw1cmdFNU5TX1NHTjBuUktaRVpCdFVrME5QNGQyTW16VjRMdVIxYnZBTUlWWTR6UXBxWnhqR3ZIc3A1OG9tc3RsN1RmVHU2SWY1UDVkMkR3Vm5ZODhuMG1QbGxOSndHS0NDVHNGZEJGVjRUa0VNd2lydDVNeGdUZmpndXBFcDY5NHdJMkpQdw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-20-galamsey-fight-must-go-beyond-empty-slogans-it-requires-cons",
