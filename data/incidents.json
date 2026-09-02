@@ -1,13 +1,70 @@
 {
-  "updated": "2026-09-02T04:34:03.803Z",
+  "updated": "2026-09-02T11:19:06.548Z",
   "counts": {
-    "total": 594,
+    "total": 598,
     "verified": 28,
-    "automated": 566,
+    "automated": 570,
     "earliest": "2024-07-01",
-    "latest": "2026-09-01"
+    "latest": "2026-09-02"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
+      "date": "2026-09-02",
+      "category": "forest",
+      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah Ghana Business News",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-02-npp-sounds-alarm-over-galamsey-1-7bn-gold-loss",
+      "date": "2026-09-02",
+      "category": "forest",
+      "title": "NPP sounds alarm over galamsey, $1.7bn gold loss",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP sounds alarm over galamsey, $1.7bn gold loss Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTG50RFdHTTZtSlN3X1BhY3A2UW1ZSnR0TXg1YjRBMXF3RGxoVWFPRTdpclhVS1Rhel9aWkdxZkNXV3ByY240VXlOMVA4Tkg0bU42eTFiNTRJbXRRNVd0MHpRYmFWMU1yODZxSFNzMDFCaGladDJmZ216UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTG50RFdHTTZtSlN3X1BhY3A2UW1ZSnR0TXg1YjRBMXF3RGxoVWFPRTdpclhVS1Rhel9aWkdxZkNXV3ByY240VXlOMVA4Tkg0bU42eTFiNTRJbXRRNVd0MHpRYmFWMU1yODZxSFNzMDFCaGladDJmZ216UQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water",
+      "date": "2026-09-02",
+      "category": "water",
+      "title": "Galamsey threatens Volta Lake as NPP raises alarm over water pollution",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey threatens Volta Lake as NPP raises alarm over water pollution Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-01-galamsey-in-forest-reserves-as-of-now-there-is-no-red-zone-p",
       "date": "2026-09-01",
@@ -211,6 +268,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiekFVX3lxTFB3R3RnejFTaTBjQUhFeUYzOVBGa25kc1hvaFRuRTVpY3pRcm55ZURsVjJIUms1bWVxUDgydTJoR1dCMXM5Q1RNVm1BdWNfbm9nOHVSdnUwUnM5UGZ2X1RObjRrdnY5SWxvdE9mUlY5V1VpWDVBeXBkU29R?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-goldbod-cannot-be-blamed-for-rise-in-galamsey-npp-s-ibrahim-",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "GoldBod cannot be blamed for rise in galamsey – NPP's Ibrahim Adjei",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod cannot be blamed for rise in galamsey – NPP's Ibrahim Adjei GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHFxWS1PWGNLR3BERE1uOUw3WUlzUXkyY3JGSFBCNkRGWUU4SFV2dnd3Vi05U0hGRXpZcXI1QVdDSXp5Q1d5eG1pcmRlRWctaXdiZDEwNm9zazFNOWpCRkJQYlZGdDJlU0w0b2piOHc4Mlp2LVNGQjkwd2dTVDBTMnl3UmRVQl9TNGZDT09PZU1JNUlfTFBONGZ0bmE5TGxQN0Z4WTFvX281NmRTbHdpRWlSaEp4aVdqM19KMFJMWVJTdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHFxWS1PWGNLR3BERE1uOUw3WUlzUXkyY3JGSFBCNkRGWUU4SFV2dnd3Vi05U0hGRXpZcXI1QVdDSXp5Q1d5eG1pcmRlRWctaXdiZDEwNm9zazFNOWpCRkJQYlZGdDJlU0w0b2piOHc4Mlp2LVNGQjkwd2dTVDBTMnl3UmRVQl9TNGZDT09PZU1JNUlfTFBONGZ0bmE5TGxQN0Z4WTFvX281NmRTbHdpRWlSaEp4aVdqM19KMFJMWVJTdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
