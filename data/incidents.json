@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-02T21:08:17.858Z",
+  "updated": "2026-09-03T04:27:07.468Z",
   "counts": {
-    "total": 607,
+    "total": 614,
     "verified": 28,
-    "automated": 579,
+    "automated": 586,
     "earliest": "2024-07-01",
     "latest": "2026-09-02"
   },
@@ -85,7 +85,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOeVNxV1Q2QjJOZncyUU41S3hWWVA2OExsMUphamw3TG4yN3Q1ZnBTS09fNEhwSXVGaFVIbDExTFNXbWtzWHJlbnNiUDQ5Z1VpMkM0X1plNGZFNnRfUExhcGQ2VWpOVURfNjVmRU4xMHg3RWNPT0E4cHAyM01LaGpNZklHRHpsRDRyaUdkc2Y0TGZiS0dIQzhB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-03T04:20:39.707Z"
     },
     {
       "id": "auto-2026-09-02-mp-orders-alleged-illegal-miners-along-tutuka-akrofuom-road-",
@@ -106,6 +107,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-09-02-galamsey-fight-very-soon-mahama-will-become-a-lame-duck-ken-",
+      "date": "2026-09-02",
+      "category": "forest",
+      "title": "Galamsey Fight: Very soon Mahama will become a 'lame duck' - Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Very soon Mahama will become a 'lame duck' - Ken Ashigbey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1pLNy02UEl2OXc5UDhxQ3kxRjFZaXJFdnNFNHFFckJXRDliMmRfTVc1QmUxQlh3TmFmWFNnckJVcDM1ZV8xWUtvckNVY1VvdzJXUGZTZXBBUFZ6eGRrVlcxd1MzWUNibEp0R0g5bldFOFhpdzhHc3hxM0FBY1l2MGVNTU5WT1paVWFhelFDRTRac19xLWVQc3g0T1FWN0ZiVVMwVW1zODVzSkJaZVlVc05nSF9VSWFtTWxoNGNYRXpMdzVxa0dlZUFFVy1BaDhMUFlF?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1pLNy02UEl2OXc5UDhxQ3kxRjFZaXJFdnNFNHFFckJXRDliMmRfTVc1QmUxQlh3TmFmWFNnckJVcDM1ZV8xWUtvckNVY1VvdzJXUGZTZXBBUFZ6eGRrVlcxd1MzWUNibEp0R0g5bldFOFhpdzhHc3hxM0FBY1l2MGVNTU5WT1paVWFhelFDRTRac19xLWVQc3g0T1FWN0ZiVVMwVW1zODVzSkJaZVlVc05nSF9VSWFtTWxoNGNYRXpMdzVxa0dlZUFFVy1BaDhMUFlF?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-03T04:22:19.643Z"
     },
     {
       "id": "auto-2026-09-01-galamsey-in-forest-reserves-as-of-now-there-is-no-red-zone-p",
@@ -331,6 +352,64 @@
       "verified": false,
       "archivedAt": "2026-09-02T16:36:30.224Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-09-01-mahama-must-show-stronger-leadership-in-galamsey-fight-prof-",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "Mahama must show stronger leadership in galamsey fight – Prof. Bokpin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama must show stronger leadership in galamsey fight – Prof. Bokpin MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk56SFQ1dGFoOGRDeXNONEZtb09SOUR2SWZVNWpQNlpkOFNwTTFVMUd6Nl84b3NZd0o5Q1dfZ3FQVHM5cjZ4QmlXN2pyVHJTX2MyYk5wMm83QXp4N2llWXdmaGc2dEI1NUZteGpzTTR0QlpTdGNwQVpTQno3ci1wM0M5aVZ4Q09FSEZHZmFOQmRDYk5iU1YwdExhTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk56SFQ1dGFoOGRDeXNONEZtb09SOUR2SWZVNWpQNlpkOFNwTTFVMUd6Nl84b3NZd0o5Q1dfZ3FQVHM5cjZ4QmlXN2pyVHJTX2MyYk5wMm83QXp4N2llWXdmaGc2dEI1NUZteGpzTTR0QlpTdGNwQVpTQno3ci1wM0M5aVZ4Q09FSEZHZmFOQmRDYk5iU1YwdExhTQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-09-01-galamsey-menace-state-of-emergency-is-no-magic-wand-lands-mi",
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "Galamsey Menace: State of emergency is no 'magic wand' - Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Menace: State of emergency is no 'magic wand' - Lands Ministry GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGJSSDBTWXVuVDJLTV92djlXNVVoVVlYODFoNGZuZ2JBUzlZckF4TXBrVW9LUXNKNFVKQ1N2ZnFPeVpZalJlekhSaUhCUkFQck9veXF5RUc1d1VuMXZEUEJ3SnZEeVNUMWdQeWw4QmlCNTFEOVRGN2R4QTVtYWxxZEMtd3N2N2wwWWk4b1V2WFpoRnRtUG1DRUpYbHg5RzMwOGhFUk1nV3NnMHF6cEZzUG9RRmxpRTJ2Z1k4a1lYXy1yb3d1dy12aHY4N1pxMzdk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGJSSDBTWXVuVDJLTV92djlXNVVoVVlYODFoNGZuZ2JBUzlZckF4TXBrVW9LUXNKNFVKQ1N2ZnFPeVpZalJlekhSaUhCUkFQck9veXF5RUc1d1VuMXZEUEJ3SnZEeVNUMWdQeWw4QmlCNTFEOVRGN2R4QTVtYWxxZEMtd3N2N2wwWWk4b1V2WFpoRnRtUG1DRUpYbHg5RzMwOGhFUk1nV3NnMHF6cEZzUG9RRmxpRTJ2Z1k4a1lYXy1yb3d1dy12aHY4N1pxMzdk?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha",
+      "date": "2026-09-01",
+      "category": "arrest",
+      "title": "NAIMOS records 228 operations and 112 arrests in August – Schandorf reveals",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS records 228 operations and 112 arrests in August – Schandorf reveals MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
@@ -3575,6 +3654,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-23-video-galamsey-what-happened-to-the-state-of-emergency-ai-dr",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Video | Galamsey: What Happened To The State Of Emergency, AI, Drone - Sefa Kayi Asks",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Video | Galamsey: What Happened To The State Of Emergency, AI, Drone - Sefa Kayi Asks GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTMwWGtKR3puT00yTzdpSURCS2FtVkthb192NG0wcHdUNkZYeFBhVXB1Vkk4NHRLZmxwMTFWUml1aG1jT0ZxeGNLZ3plRzBDQ2tDS2pORVQ3Z0FMTEdibTlBbVpyZVJsM09ldzhhaWJqaENFY0hFU3JkY3ZWajdCMjFHMmFTc0hOYktfeFdkd0gxSHV0TW9oRTRENEVNeUVxMnQ4NFlMSWhESDZYVHBjSGJYdGZhanVOSUFYdjFQYXdHR3d4YngyWG44dzRlejQ2M1VB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTMwWGtKR3puT00yTzdpSURCS2FtVkthb192NG0wcHdUNkZYeFBhVXB1Vkk4NHRLZmxwMTFWUml1aG1jT0ZxeGNLZ3plRzBDQ2tDS2pORVQ3Z0FMTEdibTlBbVpyZVJsM09ldzhhaWJqaENFY0hFU3JkY3ZWajdCMjFHMmFTc0hOYktfeFdkd0gxSHV0TW9oRTRENEVNeUVxMnQ4NFlMSWhESDZYVHBjSGJYdGZhanVOSUFYdjFQYXdHR3d4YngyWG44dzRlejQ2M1VB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
       "id": "auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g",
       "date": "2026-08-22",
       "category": "forest",
@@ -4010,6 +4109,26 @@
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
+      "id": "auto-2026-08-22-galamsey-funding-politics-churches-and-media-senyo-hosi-clai",
+      "date": "2026-08-22",
+      "category": "policy",
+      "title": "Galamsey funding politics, churches and media - Senyo Hosi claims",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey funding politics, churches and media - Senyo Hosi claims GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONndMYmpGRDZJbk9KQTN3dDhzQzV3ZlZFT3lzV1VOMFFXT0J2TVQzUnBLb0dvZXZMVjVKVzhUSjg3Q05xUExVX3VHdEZnX3YzbjR0VHp0eVkyYU9yMTRPMmtLNERQX3VDeUcwbHAtOHkwdW5PNXJZbTVRRmNDcVNsX0lBdEtZamc0R0hiUGVYcHdsdVpKYUZIdkpYWDZKRmJGVkVxQWwwWVhCYWpvWmlaaVplWmxMaVF5ejJZNzd3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxONndMYmpGRDZJbk9KQTN3dDhzQzV3ZlZFT3lzV1VOMFFXT0J2TVQzUnBLb0dvZXZMVjVKVzhUSjg3Q05xUExVX3VHdEZnX3YzbjR0VHp0eVkyYU9yMTRPMmtLNERQX3VDeUcwbHAtOHkwdW5PNXJZbTVRRmNDcVNsX0lBdEtZamc0R0hiUGVYcHdsdVpKYUZIdkpYWDZKRmJGVkVxQWwwWVhCYWpvWmlaaVplWmxMaVF5ejJZNzd3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
       "id": "auto-2026-08-21-arise-ghana-demands-stronger-commitment-to-end-galamsey",
       "date": "2026-08-21",
       "category": "water",
@@ -4303,6 +4422,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWU5MTk4Rk5DMzhhRVMzeEJLby1kaDhQR1Q2TFhIOUxKRlZEYlRjUHZ2S3puVVUzZGdRS1dqUEVoNFZ5bGw1cmdFNU5TX1NHTjBuUktaRVpCdFVrME5QNGQyTW16VjRMdVIxYnZBTUlWWTR6UXBxWnhqR3ZIc3A1OG9tc3RsN1RmVHU2SWY1UDVkMkR3Vm5ZODhuMG1QbGxOSndHS0NDVHNGZEJGVjRUa0VNd2lydDVNeGdUZmpndXBFcDY5NHdJMkpQdw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-21-galamsey-driving-the-profits-goldbod-is-making-dr-zaato-asse",
+      "date": "2026-08-21",
+      "category": "forest",
+      "title": "'Galamsey driving the profits GoldBod is making' - Dr Zaato asserts",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Galamsey driving the profits GoldBod is making' - Dr Zaato asserts GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclExcEhtYkFVTmR6NUZONUdHMi1ZWnV0YlM1WkV1ZHUzcmZKQzJzVVdBTkRiS3o2V0l3QXZWcHVXRVp3cEhWaVdlQ2ljdkh6RFJnTDFPYzlqWGVEUXpNMF9CQkN3U1NNMWhmdW01V1pXVV9wYndYV1hOQXp4amQ0Mk5sdEs0YU9nR0lQbFFKRVd1TjRrd0J5NVRGTmZJcDNkb2hCeHYtNExnM29ybWx1ZXpidm5HY2lxaGJN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclExcEhtYkFVTmR6NUZONUdHMi1ZWnV0YlM1WkV1ZHUzcmZKQzJzVVdBTkRiS3o2V0l3QXZWcHVXRVp3cEhWaVdlQ2ljdkh6RFJnTDFPYzlqWGVEUXpNMF9CQkN3U1NNMWhmdW01V1pXVV9wYndYV1hOQXp4amQ0Mk5sdEs0YU9nR0lQbFFKRVd1TjRrd0J5NVRGTmZJcDNkb2hCeHYtNExnM29ybWx1ZXpidm5HY2lxaGJN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
     },
     {
       "id": "auto-2026-08-20-galamsey-fight-must-go-beyond-empty-slogans-it-requires-cons",
@@ -8795,7 +8934,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-09T19:01:02.090Z",
-      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+      "thread": "t-auto-2026-07-30-if-you-voted-for-ndc-to-solve-galamsey-you-ve-been-scammed-d"
     },
     {
       "id": "auto-2026-08-08-bono-regional-minister-reaffirms-commitment-to-fighting-gala",
@@ -9039,7 +9178,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UYmJ4d0FzRTFTdG5xRUYtUWVjZGpKb2RZbU9jX3AtV3ZfWnVWTWJkeHNtWnJwVldzN1ljYmlLQUJRQm5acmNvYWlqeHJxemtYQ3BVcjNGejNLQ1dPM2diRm15QW_SAVxBVV95cUxQV0p6OHVpSWo3d2hVeFRxamR1UlZsU2pxYlptZ09GcC05LXpRRGk2WnZwY1pfaWVUYUc4V1NTNjZLUjEzdDN6eWR0T29zdEljQ0pnSi1vcWpmM083cQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-07-fight-galamsey-to-honour-their-memory-families-of-helicopter",
@@ -9726,7 +9865,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTA5cVlvOG45bHZrRjl4WERRSV9rM1Ftd3dSbHZsQzhBUkxNLUYtRTRZa3M2ck9TdUJhSGw5UVg5NHB6RHJ4dHdySVVCOFpGWlFtdVFYZFpfZWF6VzMzX21qYVd1NndLWU9aQUw5RzlrckU4Rk41TWJIMzlYNWJfTU9jaHlCR09BZmlaTXMyVDlvTWhlbEN2T3hSZFVVZ1lVQy1lMTM3UTNPOE1YRmpXRjBqMkhlMWVzNVdfM3FjUWt5dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-06-bono-regional-minister-vows-not-to-relent-on-galamsey-crackd",
@@ -10688,7 +10828,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1RElETUUyVHk1V0F5bUNRRGE1X2dxYnJWeXRBOWQ1eGJ5NFFRRGpuRHFGTE9UMFdJbWJXcm5KS0V5NnA5dXlCVVpEREtUbkFpaVpscUtzY1ZvakVIWHlj0gFcQVVfeXFMT3dESi1vbF9pRGtXTVd5U05IbDRJeXZjNUVtMnNYRUl3MmtkWGNMc3pwQzJJNWtxR3lWMTF0RHFRQWJFdmtBa1NERk1rNVRXQmt2MElBQ25yRUdVWDU?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-government-is-turning-a-blind-eye-to-galamsey-that-s-irrespo"
+      "thread": "t-auto-2026-07-30-if-you-voted-for-ndc-to-solve-galamsey-you-ve-been-scammed-d"
     },
     {
       "id": "auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec",
@@ -10707,8 +10847,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRU02RF9EdTZ2SXZCVWZ3ZEk4OEFUSzgxaUVVMWdlR3hDRVcycmoxRktQNlo5V1g3NHZvU3ZFM0gzWTEwS21HdlJsNDdJR0FPUkRsNElVYXJRaEwzaEpjNzBiNk_SAVxBVV95cUxPWjNfcEdNVGZLdnZHWkhibFd2blg4R3lkZFBfbGFVMUV4RUxMb2JEZTQ2OUVGeUk0Vkp4MGhQanVGSE1UQ2UzUDhOTmRNYnB6S3B4bnNrSXNoTGtDbw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-near-mpohor-fiase-police-station-19-arrested-suspec"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-galamseyers-in-mpohor-fiase-oper",
