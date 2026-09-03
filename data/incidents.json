@@ -1,13 +1,129 @@
 {
-  "updated": "2026-09-03T11:16:53.467Z",
+  "updated": "2026-09-03T16:29:55.570Z",
   "counts": {
-    "total": 619,
+    "total": 630,
     "verified": 28,
-    "automated": 591,
+    "automated": 602,
     "earliest": "2024-07-01",
-    "latest": "2026-09-02"
+    "latest": "2026-09-03"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
+      "date": "2026-09-03",
+      "category": "prosecution",
+      "title": "GoldBod, Galamsey, Supreme Court Caseload: Bilson-Darku And Sophia Akuffo Break It Down",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod, Galamsey, Supreme Court Caseload: Bilson-Darku And Sophia Akuffo Break It Down Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZUFnektrdGYwbnc1Vk5VamJGX3JiNjIyZG5oeWQ3cnc1SUNtUEJfM2RacmtVNWstcVczdVkyeGpjVFQtVWRtOXN4T2ZDV1owQ0Z6dUZ6Vmo4VG82YTMtelM5MNIBXEFVX3lxTFBLRmxzdkdOOHZjRXZFeW1FcW82WW5DeFNxYXJYQUkzSndSTWpzVTdkSzcxMndGRXJhcE4wYzV1SVVuZXdkbTY5dUFsdFlSQnNwTlhQSUNCX3l0b3dQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZUFnektrdGYwbnc1Vk5VamJGX3JiNjIyZG5oeWQ3cnc1SUNtUEJfM2RacmtVNWstcVczdVkyeGpjVFQtVWRtOXN4T2ZDV1owQ0Z6dUZ6Vmo4VG82YTMtelM5MNIBXEFVX3lxTFBLRmxzdkdOOHZjRXZFeW1FcW82WW5DeFNxYXJYQUkzSndSTWpzVTdkSzcxMndGRXJhcE4wYzV1SVVuZXdkbTY5dUFsdFlSQnNwTlhQSUNCX3l0b3dQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-compare-galamsey-and-road-accidents-under-both-govts-kwasi-k",
+      "date": "2026-09-03",
+      "category": "forest",
+      "title": "Compare galamsey and road accidents under both govts – Kwasi Kwarteng challenges CJ",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Compare galamsey and road accidents under both govts – Kwasi Kwarteng challenges CJ MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmhLUHA3TDd0aVJRSEJtd1ZYTEx0TGhzVGtMOE1MZFJVMENUN1UzbU9KMm10TGg2dWl6LWRFZmJJSDR0WTZKcEd3NkthTXdLQkJiS25hVkpjUHlHaHZxNHlOWWlVMVBOc1BOTFFLczFPMk5PTnY5UjkzTXhWZ0ZBbjAzV2NiRm12aC1VQXZHQk4wc3RaNnFLRER1d1dWUGJ5ZFl1dTQyaXU5QUU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmhLUHA3TDd0aVJRSEJtd1ZYTEx0TGhzVGtMOE1MZFJVMENUN1UzbU9KMm10TGg2dWl6LWRFZmJJSDR0WTZKcEd3NkthTXdLQkJiS25hVkpjUHlHaHZxNHlOWWlVMVBOc1BOTFFLczFPMk5PTnY5UjkzTXhWZ0ZBbjAzV2NiRm12aC1VQXZHQk4wc3RaNnFLRER1d1dWUGJ5ZFl1dTQyaXU5QUU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-gif-demands-swift-prosecution-of-attacks-on-forestry-commiss",
+      "date": "2026-09-03",
+      "category": "forest",
+      "title": "GIF demands swift prosecution of attacks on Forestry Commission officers",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The Ghana Institute of Foresters (GIF) has expressed concern over what it describes as the slow prosecution of persons implicated in the killings and attacks on Forestry Commission officers in the line of duty. The Institute says the apparent lack of visible progress in some of the cases risks creating a culture of impunity and could encourage further attacks on forestry personnel. Its concerns follow a series of rep",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/gif-demands-swift-prosecution-of-attacks-on-forestry-commission-officers/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/gif-demands-swift-prosecution-of-attacks-on-forestry-commission-officers/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-we-have-cleared-ankobra-river-of-changfan-machines-as-part-o",
+      "date": "2026-09-03",
+      "category": "water",
+      "title": "We have cleared Ankobra River of Changfan machines as part of Operation Watershed",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "The visit was to assess the impact of the joint Operation Watershed, being carried out by the National Anti-Illegal Mining Operations Secretariat (NAIMOS) and the Navy Special Forces after months of deployment to the region.",
+      "metrics": {},
+      "source": {
+        "name": "Lands Minister",
+        "url": "https://3news.com/news/we-have-cleared-ankobra-river-of-changfan-machines-as-part-of-operation-watershed-lands-minister"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/we-have-cleared-ankobra-river-of-changfan-machines-as-part-of-operation-watershed-lands-minister",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-03-security-agencies-intercept-vehicle-loaded-with-suspected-so",
+      "date": "2026-09-03",
+      "category": "arrest",
+      "title": "Security agencies intercept vehicle loaded with suspected sodium cyanide, unregistered cigarettes in Bono East",
+      "place": "Bono East Region",
+      "region": "Bono East",
+      "lat": 7.59,
+      "lon": -1.94,
+      "summary": "Security agencies have intercepted a vehicle suspected of transporting sodium cyanide, a dangerous chemical associated with illegal mining, and a substantial quantity of unregistered cigarettes in the Bono East Region.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/security-agencies-intercept-vehicle-loaded-with-suspected-sodium-cyanide-unregistered-cigarettes-in-bono-east"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/security-agencies-intercept-vehicle-loaded-with-suspected-sodium-cyanide-unregistered-cigarettes-in-bono-east",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-the-galamsey-surge-trading-our-future-heritage-water-and-hea",
+      "date": "2026-09-03",
+      "category": "water",
+      "title": "The Galamsey Surge: Trading Our Future, Heritage, Water and Health for Quick Cash?",
+      "place": "Achiase",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.95,
+      "summary": "By: Franklin ASARE-DONKOH A quiet catastrophe is reshaping the mineral-rich rural landscape of Ghana, in spite of reported best efforts to fight galamsey. In places like Pokukrom, Mfanteman, Achiase, and Meretweso, all in the Upper Denkyera East municipality, where deep green forests once stood and clear rivers sustained generations, a landscape of craters, muddy wasteland, […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/general/galamsey-surge/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/galamsey-surge/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
     {
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
       "date": "2026-09-02",
@@ -409,8 +525,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-naimos-clears-galamsey-sites-the-people-return-after-operati",
@@ -430,7 +545,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXBiNVZtb09sWG5PY3M1MFBTcC10LXJVdDI1MVJNS1RjUElfM2ZLTDV1aUFacWQ5UlpFbF9kcjgxaXBEZlFidlZOZENDSXo1QXlTTnpjbnFmdzd4TW9hQzlBaFEyZk9zXzNQWHFmVTk5dGI1ckNyZEZlUmM3WkJCTHdKWS1tUTRtdVZYejdRYmt6RF9NRDJBcWNqTjJuNUVBT2tvSTd3WnZmYkR2d3MyNFhUejRGT2VN?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
+    },
+    {
+      "id": "auto-2026-09-01-ndc-npp-must-admit-their-role-in-politicising-galamsey-schan",
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "NDC, NPP must admit their role in politicising galamsey – Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC, NPP must admit their role in politicising galamsey – Schandorf MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
@@ -906,6 +1040,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-08-31-over-30-lives-lost-to-galamsey-accidents-in-eastern-region-i",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Over 30 lives lost to galamsey accidents in Eastern Region in 2026 - NADMO",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Over 30 lives lost to galamsey accidents in Eastern Region in 2026 - NADMO GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEJGSWRJVWpDUklfbFZILWxHWENxSHJEaVV5SThudElqMl9YcXhaMnJSamRZaEs2M1ZJWWwyRjVWN1d0TGV1cWN6RFZsY2oxYlBzZVlQNnE5MTZSWW1tSmhaVXI4REZxWWI4UGdhUkZrWU5jelc3c1JLWUo3NEU1VW9LRTdqYXFBOGZleFlTSWRrUUF2Nko5TGJFVmhHOTM2OS1jYTB0TEN1dkhGbHMyM2tpRFpZQ0haNVVjWWthT0NraWVkTXlhS0ltaWJORHNUSGEyWlVvTE8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEJGSWRJVWpDUklfbFZILWxHWENxSHJEaVV5SThudElqMl9YcXhaMnJSamRZaEs2M1ZJWWwyRjVWN1d0TGV1cWN6RFZsY2oxYlBzZVlQNnE5MTZSWW1tSmhaVXI4REZxWWI4UGdhUkZrWU5jelc3c1JLWUo3NEU1VW9LRTdqYXFBOGZleFlTSWRrUUF2Nko5TGJFVmhHOTM2OS1jYTB0TEN1dkhGbHMyM2tpRFpZQ0haNVVjWWthT0NraWVkTXlhS0ltaWJORHNUSGEyWlVvTE8?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -3097,6 +3250,45 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGxSdThfbzl2TTBWWUo5S3VaYlJKc1JxNVlicWt5N3NpcWtIaXlHU0NvbWE0WThfS0w4ejRtZ216aDNLTHNKUjZ5T3NlNkQ5WWJpclJ5Mm1WY1dxSDdQbm5KUHBiZE05b0YwTTdPOW13OE1zcGViM1JHTUlWcC1QamtYbTVnSE50Qkc5ZnByTnEtWmVQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-hopeson-adorye-calls-for-one-year-mining-ban-as-abandoned-ga",
+      "date": "2026-08-25",
+      "category": "arrest",
+      "title": "Hopeson Adorye calls for one-year mining ban as abandoned galamsey pits claim 23 lives in Ashanti Region",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Hopeson Adorye calls for one-year mining ban as abandoned galamsey pits claim 23 lives in Ashanti Region MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEx0RWF6bnFMcW1pdnBEczdoMmJNcV9tUExUWF9IbVFmVGJDLWx0enJKcVNVZzZrLUI5Y2hhQkxqMjFmSXJwR3pVdEtidGxDTDg2R005TGJmVk5EelZ2X3k4NmhYTGxZOGZYdjAxTVlhc20xRGZ0NzNaVFpOSUlKamxrcVh3QnRlT2k2Rm43ZmNpUTFfOGRTU3VHTnVnWTU0YmxlR3VSdS01ODh0bkxpcC1iNThPdUlrREZrQlIwMWlEaUNRNm95b1lzeEpRZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEx0RWF6bnFMcW1pdnBEczdoMmJNcV9tUExUWF9IbVFmVGJDLWx0enJKcVNVZzZrLUI5Y2hhQkxqMjFmSXJwR3pVdEtidGxDTDg2R005TGJmVk5EelZ2X3k4NmhYTGxZOGZYdjAxTVlhc20xRGZ0NzNaVFpOSUlKamxrcVh3QnRlT2k2Rm43ZmNpUTFfOGRTU3VHTnVnWTU0YmxlR3VSdS01ODh0bkxpcC1iNThPdUlrREZrQlIwMWlEaUNRNm95b1lzeEpRZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-25-npp-accuses-ndc-of-worsening-galamsey-fight-through-goldbod-",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "NPP Accuses NDC Of Worsening Galamsey Fight Through GoldBod Creation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP Accuses NDC Of Worsening Galamsey Fight Through GoldBod Creation 3music.tv",
+      "metrics": {},
+      "source": {
+        "name": "3music.tv",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWM1NzVpczlkaFJvY2luNTdKclNNRG5JTlVJSWFjX2lBT1lMOFlpMnB4aXBFTEZYcWp4VW5QMkxjc2FjOEREeFdJaWVsYXlPemdwaTk0R0FfZmVEc19hMk5aN1lCVWk4NFZuVzQ5SloyQWRkLU8xOS1KQ3g0OUJBRkFaRDEtQVhnU3NsWG12RDFSenhSZm9DTUNVMUI3MDRjRC14NDRRWENyT1RLQnF4dmZIRHE3TVRKZUVBLTYtWQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWM1NzVpczlkaFJvY2luNTdKclNNRG5JTlVJSWFjX2lBT1lMOFlpMnB4aXBFTEZYcWp4VW5QMkxjc2FjOEREeFdJaWVsYXlPemdwaTk0R0FfZmVEc19hMk5aN1lCVWk4NFZuVzQ5SloyQWRkLU8xOS1KQ3g0OUJBRkFaRDEtQVhnU3NsWG12RDFSenhSZm9DTUNVMUI3MDRjRC14NDRRWENyT1RLQnF4dmZIRHE3TVRKZUVBLTYtWQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
@@ -8852,6 +9044,25 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTllJUERMRENKbDB3Zk53Yk9qU01iSzRFalpIMEhjb0dNM3lGbFprUnBSc0FKSXp2MHJWejJJYmlWazNlRlRuV2Q5bmx6TGpyeFVGajdJZ2tnMWFnb2dCdjVWSHMwV0h6bncwQk5uZS1XbXg5Mml3cm9UT1Z0YXhPTXhXaTVJTHJlbVdzZXBuSHNpT25qUC1iZjFfSHI5UQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOTllJUERMRENKbDB3Zk53Yk9qU01iSzRFalpIMEhjb0dNM3lGbFprUnBSc0FKSXp2MHJWejJJYmlWazNlRlRuV2Q5bmx6TGpyeFVGajdJZ2tnMWFnb2dCdjVWSHMwV0h6bncwQk5uZS1XbXg5Mml3cm9UT1Z0YXhPTXhXaTVJTHJlbVdzZXBuSHNpT25qUC1iZjFfSHI5UQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-10-atronie-chiefs-perform-rites-to-fight-galamsey",
+      "date": "2026-08-10",
+      "category": "forest",
+      "title": "Atronie Chiefs Perform Rites to Fight Galamsey",
+      "place": "Atronie",
+      "region": "Bono",
+      "lat": 7.3,
+      "lon": -2.28,
+      "summary": "Atronie Chiefs Perform Rites to Fight Galamsey News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kdFpkTk41VHNKSktQSDI2bnh3QzdjUTZiMzR3Y2t4RjYtYmpEajVBa2ZmWHlyVzNPdUlqbllleGtFUnoyOGItS3kyRzdQMFFWSlF4cEsxYjlFTm4zZ0hDU3MxMlR4OUlwVkZDY2FNMThsZUtHRnpfVUJWakg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTE9kdFpkTk41VHNKSktQSDI2bnh3QzdjUTZiMzR3Y2t4RjYtYmpEajVBa2ZmWHlyVzNPdUlqbllleGtFUnoyOGItS3kyRzdQMFFWSlF4cEsxYjlFTm4zZ0hDU3MxMlR4OUlwVkZDY2FNMThsZUtHRnpfVUJWakg?oc=5",
       "via": "rss",
       "verified": false
     },
