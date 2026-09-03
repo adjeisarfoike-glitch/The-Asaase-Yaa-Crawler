@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-03T04:27:07.468Z",
+  "updated": "2026-09-03T11:16:53.467Z",
   "counts": {
-    "total": 614,
+    "total": 619,
     "verified": 28,
-    "automated": 586,
+    "automated": 591,
     "earliest": "2024-07-01",
     "latest": "2026-09-02"
   },
@@ -409,7 +409,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+    },
+    {
+      "id": "auto-2026-09-01-naimos-clears-galamsey-sites-the-people-return-after-operati",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "NAIMOS clears galamsey sites, the people return after operations—Paa Kwesi Schandorf reveals",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS clears galamsey sites, the people return after operations—Paa Kwesi Schandorf reveals MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXBiNVZtb09sWG5PY3M1MFBTcC10LXJVdDI1MVJNS1RjUElfM2ZLTDV1aUFacWQ5UlpFbF9kcjgxaXBEZlFidlZOZENDSXo1QXlTTnpjbnFmdzd4TW9hQzlBaFEyZk9zXzNQWHFmVTk5dGI1ckNyZEZlUmM3WkJCTHdKWS1tUTRtdVZYejdRYmt6RF9NRDJBcWNqTjJuNUVBT2tvSTd3WnZmYkR2d3MyNFhUejRGT2VN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXBiNVZtb09sWG5PY3M1MFBTcC10LXJVdDI1MVJNS1RjUElfM2ZLTDV1aUFacWQ5UlpFbF9kcjgxaXBEZlFidlZOZENDSXo1QXlTTnpjbnFmdzd4TW9hQzlBaFEyZk9zXzNQWHFmVTk5dGI1ckNyZEZlUmM3WkJCTHdKWS1tUTRtdVZYejdRYmt6RF9NRDJBcWNqTjJuNUVBT2tvSTd3WnZmYkR2d3MyNFhUejRGT2VN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
     },
     {
       "id": "auto-2026-08-31-we-don-t-really-want-to-go-to-the-heart-of-the-matter-awula-",
@@ -846,6 +867,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-30-7-dead-4-trapped-after-galamsey-pit-collapses-at-asaman-tamf"
+    },
+    {
+      "id": "auto-2026-08-31-chemical-scares-and-galamsey-shadows-tighten-grip-on-ghana-s",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Chemical Scares and Galamsey Shadows Tighten Grip on Ghana's Plates",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Chemical Scares and Galamsey Shadows Tighten Grip on Ghana's Plates streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzdGd2wxRWFobkc5Ung0OE5FWXRzSkR1Tkw4X19aaXZRbm5vNkJMOTB6MWphOFRLZ3U4ZS1GREVWSkY0aFdCSFdHTWRNODR1eXBMTmJ4SmZWV0VaOUZQdVdxcHZRaEdYQVhLT2xrXzNRZjVtNDFqU21KaHRMeHhGUGtGa2F5dFNuT0YxRGxadVljbXRaZFFzQkpmNWZKczZOVUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzdGd2wxRWFobkc5Ung0OE5FWXRzSkR1Tkw4X19aaXZRbm5vNkJMOTB6MWphOFRLZ3U4ZS1GREVWSkY0aFdCSFdHTWRNODR1eXBMTmJ4SmZWV0VaOUZQdVdxcHZRaEdYQVhLT2xrXzNRZjVtNDFqU21KaHRMeHhGUGtGa2F5dFNuT0YxRGxadVljbXRaZFFzQkpmNWZKczZOVUE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-31-gold-at-what-cost-the-hidden-price-of-ghana-s-illegal-mining",
+      "date": "2026-08-31",
+      "category": "forest",
+      "title": "Gold at What Cost? The Hidden Price of Ghana’s Illegal Mining Crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Gold at What Cost? The Hidden Price of Ghana’s Illegal Mining Crisis GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWZUMmJMYWtpYnpUQW4yNmVSRENfZm1qa3RGNHJ2LXJWLTNrbk1xeFQzbW5oeXJjaW9JUTBuazhvRGhmdW54dVRPT1VEZ3dxRlpkSG1KZDNBYVZMX2I4UldkQUZuY1ZSci1fM19walFnRGw1eUJKNlBCVHNSRGQ4bTNNODVMQnR4X2toa0pzSVZsQzA5LWt4ZlJnREpNWXZlVU91X0ItaXAzZjBPVDl5NFlUR1J6dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWZUMmJMYWtpYnpUQW4yNmVSRENfZm1qa3RGNHJ2LXJWLTNrbk1xeFQzbW5oeXJjaW9JUTBuazhvRGhmdW54dVRPT1VEZ3dxRlpkSG1KZDNBYVZMX2I4UldkQUZuY1ZSci1fM19walFnRGw1eUJKNlBCVHNSRGQ4bTNNODVMQnR4X2toa0pzSVZsQzA5LWt4ZlJnREpNWXZlVU91X0ItaXAzZjBPVDl5NFlUR1J6dw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
       "id": "auto-2026-08-30-military-forestry-commission-team-destroy-illegal-mining-equ",
@@ -3020,6 +3080,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-25-npp-blames-goldbod-for-ghana-s-persistent-galamsey-menace",
+      "date": "2026-08-25",
+      "category": "forest",
+      "title": "NPP Blames GoldBod for Ghana's Persistent Galamsey Menace",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP Blames GoldBod for Ghana's Persistent Galamsey Menace streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGxSdThfbzl2TTBWWUo5S3VaYlJKc1JxNVlicWt5N3NpcWtIaXlHU0NvbWE0WThfS0w4ejRtZ216aDNLTHNKUjZ5T3NlNkQ5WWJpclJ5Mm1WY1dxSDdQbm5KUHBiZE05b0YwTTdPOW13OE1zcGViM1JHTUlWcC1QamtYbTVnSE50Qkc5ZnByTnEtWmVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGxSdThfbzl2TTBWWUo5S3VaYlJKc1JxNVlicWt5N3NpcWtIaXlHU0NvbWE0WThfS0w4ejRtZ216aDNLTHNKUjZ5T3NlNkQ5WWJpclJ5Mm1WY1dxSDdQbm5KUHBiZE05b0YwTTdPOW13OE1zcGViM1JHTUlWcC1QamtYbTVnSE50Qkc5ZnByTnEtWmVQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
       "date": "2026-08-24",
       "category": "forest",
@@ -3393,6 +3472,25 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlpRE1OeTh1UjFxczJXaVNPQk91QjZEeHpDaDBNUUpJeU1iR0FfbzdZTnMyMWNmTkUzU25xSjhVWWJ6V0RrOE9TWV82c2NVQVZfalJYU3d3S3RaZmdPM1c1X0FmVHVRRHRodDU4UEtoLUZIVThyZHZKeDNWWG5KV01xWG1UQlVLaE9zbUpFVVA2T0hJT19wVnhmdXUyY2tUczhsbXhRcFNpeEVFTklyTVJEdDM?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlpRE1OeTh1UjFxczJXaVNPQk91QjZEeHpDaDBNUUpJeU1iR0FfbzdZTnMyMWNmTkUzU25xSjhVWWJ6V0RrOE9TWV82c2NVQVZfalJYU3d3S3RaZmdPM1c1X0FmVHVRRHRodDU4UEtoLUZIVThyZHZKeDNWWG5KV01xWG1UQlVLaE9zbUpFVVA2T0hJT19wVnhmdXUyY2tUczhsbXhRcFNpeEVFTklyTVJEdDM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-",
+      "date": "2026-08-24",
+      "category": "policy",
+      "title": "Former Minister Abu Jinapor Pushes Independent Body to Halt Galamsey Crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Minister Abu Jinapor Pushes Independent Body to Halt Galamsey Crisis streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3BYdGo4Q05hOTlUV3l6WTc1TDBCaXM3aEFJNlpHczFvUzNvaVR6TXpKeEJWX3Uyb1d3ZGtsN21NQV9uUWVtX1hRSG9GMVUwR3dqSXhqeFAwYkRnOVRvTEVlZU1VczEtb1NMSUc1aHBRWTlKSlk4RDd4Snl5ZkVaNjlheVhkZ1VtRjhDSy1wQ3pQMkVYY1k3S3lETjIxVnlKRUo3TnFEWTcyVlhGbWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3BYdGo4Q05hOTlUV3l6WTc1TDBCaXM3aEFJNlpHczFvUzNvaVR6TXpKeEJWX3Uyb1d3ZGtsN21NQV9uUWVtX1hRSG9GMVUwR3dqSXhqeFAwYkRnOVRvTEVlZU1VczEtb1NMSUc1aHBRWTlKSlk4RDd4Snl5ZkVaNjlheVhkZ1VtRjhDSy1wQ3pQMkVYY1k3S3lETjIxVnlKRUo3TnFEWTcyVlhGbWc?oc=5",
       "via": "rss",
       "verified": false
     },
