@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-03T16:29:55.570Z",
+  "updated": "2026-09-03T21:07:10.782Z",
   "counts": {
-    "total": 630,
+    "total": 635,
     "verified": 28,
-    "automated": 602,
+    "automated": 607,
     "earliest": "2024-07-01",
     "latest": "2026-09-03"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZUFnektrdGYwbnc1Vk5VamJGX3JiNjIyZG5oeWQ3cnc1SUNtUEJfM2RacmtVNWstcVczdVkyeGpjVFQtVWRtOXN4T2ZDV1owQ0Z6dUZ6Vmo4VG82YTMtelM5MNIBXEFVX3lxTFBLRmxzdkdOOHZjRXZFeW1FcW82WW5DeFNxYXJYQUkzSndSTWpzVTdkSzcxMndGRXJhcE4wYzV1SVVuZXdkbTY5dUFsdFlSQnNwTlhQSUNCX3l0b3dQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-03T21:00:42.311Z"
     },
     {
       "id": "auto-2026-09-03-compare-galamsey-and-road-accidents-under-both-govts-kwasi-k",
@@ -69,7 +70,7 @@
       "id": "auto-2026-09-03-we-have-cleared-ankobra-river-of-changfan-machines-as-part-o",
       "date": "2026-09-03",
       "category": "water",
-      "title": "We have cleared Ankobra River of Changfan machines as part of Operation Watershed",
+      "title": "We have cleared Ankobra River of Changfan machines as part of Operation Water Shield",
       "place": "Ankobra",
       "region": "Western",
       "lat": 5.3,
@@ -123,6 +124,104 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-09-03-ankobra-river-cleared-of-changfans-galamsey-thugs-lands-mini",
+      "date": "2026-09-03",
+      "category": "water",
+      "title": "Ankobra River cleared of Changfans, galamsey thugs – Lands Minister",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "Ankobra River cleared of Changfans, galamsey thugs – Lands Minister CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT04wYVM3OWZCUFpUSEJCcjdNdUVyUGpRYlZKck1hTkxZN1Z3NGl2SkNMQV9YdkdBN2lRdmFjY08xVnQyWG5uM1JWcWhqYlJJdGJiekhDVERTWE9BMFhfRGpWMERBLUt1dnVXQzJLNWVLN3RIOEpaQWFKa2ItMXNNT3pZZ0lFaVFqWmZjeVFXb0NkNXdVaHhXOHRlUHE1MXM0ZEFfMQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPT04wYVM3OWZCUFpUSEJCcjdNdUVyUGpRYlZKck1hTkxZN1Z3NGl2SkNMQV9YdkdBN2lRdmFjY08xVnQyWG5uM1JWcWhqYlJJdGJiekhDVERTWE9BMFhfRGpWMERBLUt1dnVXQzJLNWVLN3RIOEpaQWFKa2ItMXNNT3pZZ0lFaVFqWmZjeVFXb0NkNXdVaHhXOHRlUHE1MXM0ZEFfMQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-you-praised-chief-justice-on-galamsey-comment-why-call-him-p",
+      "date": "2026-09-03",
+      "category": "forest",
+      "title": "'You praised Chief Justice on galamsey comment, why call him partisan now?' – Hamza quizzes NPP",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'You praised Chief Justice on galamsey comment, why call him partisan now?' – Hamza quizzes NPP Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaS02QzItejRhZXFCQ0N0eGtrUUhtbmRKc3pDWVhlSWFab1hZdlc2SmxNdTh3a2dmdnlvdDE0UFNVVjV6bWIzRF9WYUpRMmc3bkw1ak90a1RLc1BRV1VZWDBlaUtxZy1BS2ZFNy1nNGkxMzRWWXVaSHN0SWdTUXNzekNBSFJXV19NbUkxNzNBQklVbUZiSXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPaS02QzItejRhZXFCQ0N0eGtrUUhtbmRKc3pDWVhlSWFab1hZdlc2SmxNdTh3a2dmdnlvdDE0UFNVVjV6bWIzRF9WYUpRMmc3bkw1ak90a1RLc1BRV1VZWDBlaUtxZy1BS2ZFNy1nNGkxMzRWWXVaSHN0SWdTUXNzekNBSFJXV19NbUkxNzNBQklVbUZiSXc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-ankobra-river-buah-to-permanently-station-naimos-personnel-t",
+      "date": "2026-09-03",
+      "category": "water",
+      "title": "Ankobra River: Buah To Permanently Station NAIMOS Personnel To Fight Galamsey",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "Ankobra River: Buah To Permanently Station NAIMOS Personnel To Fight Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4eFcwU2lpdGduY0VPQ0RoQ21oMUlqX1pocnVSUy1jcDFMQ1oxQXRRdmk0Vjc2NFRLcXh0UnBlNWFleHlRVml3d0dYck9iUktkYnljU1N3eWtDVkVlZkNfX285UdIBXEFVX3lxTE1yeG92cXFHekVZWUVQU2ZoQWhsZmlCZEtsZjNjXzNMLWlacnIzSUJYb1A1SC1OWUpRSTNidmh4NkxqX1lwUHVFT0lRN0hUZTZYS1pHN25iOVdMT3hO?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4eFcwU2lpdGduY0VPQ0RoQ21oMUlqX1pocnVSUy1jcDFMQ1oxQXRRdmk0Vjc2NFRLcXh0UnBlNWFleHlRVml3d0dYck9iUktkYnljU1N3eWtDVkVlZkNfX285UdIBXEFVX3lxTE1yeG92cXFHekVZWUVQU2ZoQWhsZmlCZEtsZjNjXzNMLWlacnIzSUJYb1A1SC1OWUpRSTNidmh4NkxqX1lwUHVFT0lRN0hUZTZYS1pHN25iOVdMT3hO?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+    },
+    {
+      "id": "auto-2026-09-03-year-long-naimos-patrols-clear-ankobra-river-of-galamsey-ope",
+      "date": "2026-09-03",
+      "category": "water",
+      "title": "Year-long NAIMOS patrols clear Ankobra River of galamsey operators – Lands minister",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "Year-long NAIMOS patrols clear Ankobra River of galamsey operators – Lands minister Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcm8wNkw1b09WQWlHZjF4U1FHVVdpRHc0WVM1M1RBTUlrU0dsT2NTazNyVjBES1N6bjJqeHpMbDUtUC0zSHBPclVFT0ZuVFJ6OVk5VWJ4bG41bzVVci1JR2hwNm9GQjNFNjlxYW5pWUp5b1B1VndrUmVHV3lpenRubFJyNDRRbHkyY0QyWHFNak9xd253b0FkTS1vVXRkN2JnaTRfNkRraVhWaGNMaGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxPcm8wNkw1b09WQWlHZjF4U1FHVVdpRHc0WVM1M1RBTUlrU0dsT2NTazNyVjBES1N6bjJqeHpMbDUtUC0zSHBPclVFT0ZuVFJ6OVk5VWJ4bG41bzVVci1JR2hwNm9GQjNFNjlxYW5pWUp5b1B1VndrUmVHV3lpenRubFJyNDRRbHkyY0QyWHFNak9xd253b0FkTS1vVXRkN2JnaTRfNkRraVhWaGNMaGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-03T21:05:11.840Z"
+    },
+    {
+      "id": "auto-2026-09-03-237-arrests-made-in-ankobra-river-illegal-mining-crackdown-b",
+      "date": "2026-09-03",
+      "category": "arrest",
+      "title": "237 Arrests Made in Ankobra River Illegal Mining Crackdown – Buah",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "237 Arrests Made in Ankobra River Illegal Mining Crackdown – Buah Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNdDFCcE9raFAyQ2o4NzJYekhkZExlNzV2NEZ4RW5DQ3FpTUFVbTlaUlI5eEdLUFp0OE5jX0pWVVNWSmJJeTVtZ1FnS25FXzBpaHVOcmFBY2Ewdy1TSXQ5cm1JONIBXEFVX3lxTE5ucjBvM1AxbkFKQzhrNEJWaWtkODZTNDY0NmdXZ0pIVzJkRUpCZFdNZWlFZmZjSS02cVEtR09KaUhlSVdOT1B5YnVMd3BJdXlwVTAyNloyTWNwZnhM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNdDFCcE9raFAyQ2o4NzJYekhkZExlNzV2NEZ4RW5DQ3FpTUFVbTlaUlI5eEdLUFp0OE5jX0pWVVNWSmJJeTVtZ1FnS25FXzBpaHVOcmFBY2Ewdy1TSXQ5cm1JONIBXEFVX3lxTE5ucjBvM1AxbkFKQzhrNEJWaWtkODZTNDY0NmdXZ0pIVzJkRUpCZFdNZWlFZmZjSS02cVEtR09KaUhlSVdOT1B5YnVMd3BJdXlwVTAyNloyTWNwZnhM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
@@ -2058,8 +2157,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hNmFkWjVWal9keGFkcF9SMGRFV2hUT3BDY2hDbmFlcFh2V3pYZjdtang3WGlRakhJaXd3SUY2ODhXcVFIeURiM1hEX2o2Z1BXOG01WjdVYVBZSUxnRE5tU051THI?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-26T13:15:32.220Z",
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "archivedAt": "2026-08-26T13:15:32.220Z"
     },
     {
       "id": "auto-2026-08-26-goldbod-s-operations-not-worsening-galamsey-majority",
@@ -2595,8 +2693,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXhvRlNaMUI0UFdYTTVkYkY4UERlMjNIZ3M3RWdVU3ZRT0czSnNUWWJfSXFhUlU3VGpTU1JwdExzQUgxSThHQ3V4ZlNzMTNjTmt0anUwcmNFUU53bnp1SFpobkFKMVRKX1BKQVY1eXpOQWJtSUpiaG1DQXdKekNZVUZLWFhoVExTcE94bmFZNzdEcjd1ZXBQbGVEMzBkS3RIcDduUkltVlZMT00?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-25T07:08:30.833Z",
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "archivedAt": "2026-08-25T07:08:30.833Z"
     },
     {
       "id": "auto-2026-08-25-blue-water-guards-programme-failing-in-fight-against-galamse",
@@ -9549,8 +9646,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxONVdLSHY4VS1xc0FCNWpVRXliOVhEX0lyTzV3RFJmbXBPMUQ3WS15bGUyMDRld2lSVVBLYWlMU0hQc09kTzRoTC1naDhHeU9OZkFldG1uMnNkNkFJM0dkbFVyRWxkREY3TTZ6Q3JXNkJ1Tm9MaTBCcVpRcTgzZGY5c0RnRmtqVERFNVlpaV9XYlpTUEpYZ29UOXYyMHlxNWFsSTlzY1BGcmtEUFJMUlE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T08:08:29.804Z",
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "archivedAt": "2026-08-10T08:08:29.804Z"
     },
     {
       "id": "auto-2026-08-07-bono-regional-minister-vows-not-to-relent-on-galamsey-fight-",
@@ -12144,8 +12240,7 @@
         "name": "Rainbow Radio",
         "url": "https://rainbowradioonline.com/2026/03/25/galamsey-crackdown-naimos-seizes-94-excavators-and-arrests-237-in-nationwide-sweep/"
       },
-      "verified": true,
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "verified": true
     },
     {
       "id": "fc-2026-03-04-military-withdrawal",
@@ -12395,8 +12490,7 @@
         "name": "GhanaWeb",
         "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EPA-tryouts-ionic-nano-copper-technology-on-polluted-Birim-River-2023079"
       },
-      "verified": true,
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "verified": true
     },
     {
       "id": "rec-2026-02-05-nyankumase",
