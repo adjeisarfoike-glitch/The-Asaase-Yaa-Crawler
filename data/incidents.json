@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T16:24:45.771Z",
+  "updated": "2026-09-04T20:50:02.487Z",
   "counts": {
-    "total": 666,
+    "total": 673,
     "verified": 28,
-    "automated": 638,
+    "automated": 645,
     "earliest": "2024-07-01",
     "latest": "2026-09-04"
   },
@@ -66,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGlIczVfSFhQMXdILVFKalZQR3lHVjczdGplM09adHcwT2hqSXVaLXFlb2daQ1BzZVEwQ25sQVY1ZUJkekszME5WWFVMRk1uX3FVNmQ2dFhpcVh0M2pOakpCTUdKVlNja0hYeWlxSVRtQ0c0emlzRGkweWotTUlpbERkbUk2WTZDR0NuaGtTLW0teUdTX2tnQnl6U2I0R0cybjdxSm8xUzIxTzNVc09tZDNmc2JxZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-04T20:44:31.880Z"
     },
     {
       "id": "auto-2026-09-04-from-turbidity-to-dechemicalisation-how-far-with-the-galamse",
@@ -85,7 +86,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTQzVktsaXptQWFRUDU3Q0JTbnFYcHp6VmRzMTdGM0N5T0EyQVFSTTRDeXcySkhtY1FjcmRqTGVTZDBDZTF2b1RXanl2OVhaZ0UzaUEyWUhzQUI2NGE1X0VGZG42NXBkcFBYRVB6QVJlSnlYRS1vX21EeFYtNDVsYm5SaWdmdEUwMktpUEZRQ2lCcF9ySDNrWmRB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-04T20:44:56.649Z"
     },
     {
       "id": "auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken",
@@ -104,7 +106,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtMNFZXNGh4VWszVnNRWHFULXdYVU90aFdSdVZKNHZBZXVzN1hWbzJzc0JQbEZqYWZFYUZua3BCRmRmcUU2RTcwdFhBTHFwS0pmTVdTS0lRX2k1M19zRHJfdFp2TmhneV9ycFFpY2RpYktvZV8xUEx5WkktX014VUpNWkVieFgyS0x4OTdNWVY?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-04T20:45:22.468Z"
     },
     {
       "id": "auto-2026-09-04-kumasi-priest-slams-mahama-over-galamsey-fight",
@@ -143,6 +146,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0Z2YVF0SlBqeXJDOUlzR29ETnNUaEx5cmRjaVlZNWxDdnpvZFZlMWVBZ19mZjJjUGNudEFFM2ROTFB6empJS2JzOXRDWC1jNDlZRC1tV1NhVkJ6TmNSeG0tXzhwT3BOc0twRFJDV3dvR1JkYk9EVVdudFdEOGxfWFVQdXZEQmZhSEdUaW43Y08tb0Q3UGRZUlF6MnlYM0xXbGROLXliZkw0Q05RbE16ZEctYzl6RWJVMlBocjBwTjg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-04T20:46:17.545Z",
       "thread": "t-auto-2026-09-04-kwaku-bonsam-warns-chiefs-of-danger-as-nananom-strike-over-g"
     },
     {
@@ -163,6 +167,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0NVUzNYek4ybXdkNC1uU2ZSMzRqaW1QX1BJc2Z4RE1OQjE0SUxsTFlWQjZtLUdycm84NWRPR0tvV2dQTE10VjFlOC1vSEZXX3h1c1VBT2xrR3A1Y2o4b1ZuRnRuRUdHY19KT2JhUjJFSUQ0SzBxZUZhZEgtOGdNYWVwX0FXQ3R0UkRHV3d6Qm4yS1FmUWVMZXlTWE4tT0x3Uzd2dTdudTloRGVCZUFYd0kzalpzMGNoZWtNODN5QUlVRVpWRUE?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-04T20:46:42.258Z",
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
     },
     {
@@ -320,6 +325,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VbHVnaEs1SkdUOXZWRVZ0ZEpmbGt3ODFUZG5jRzhGZTZRdnd5RGVVZXBQSGxnUXdhSHZFS0h6TjNGa1FZYk1ldjhSdXNvTFYzNjF3SnhhZnJxU1RXTm1YTl8zY9IBXEFVX3lxTE8wXy1UMXowaDdqNE1DaEw1MFp2bzRwLXdBUkNMUVNzNkZYSTJCUFFaNmw5WUJ6bHpmR3hNS2ZibklaS3QyRTk0SEduZXNfV0FwcVNlcFRBOTk2WkFF?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-04T20:49:05.259Z",
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
@@ -519,6 +525,104 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Bawumia plans mineral mapping, funding to tackle galamsey – Miracles Aboagye",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Bawumia plans mineral mapping, funding to tackle galamsey – Miracles Aboagye CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxHMTNWNXRNREpHZFBsbHpmdExudjJZdkRlZlZ1UEF2X0tPV29QUFh2WGRRTXY2NW9iRTRwc2FqYUpaS2dyNzY4UFZtdWlCRUY5OHA4VTgwN2stYmxvdFZJWWRMNnhIVTlIRkNuenRKcEx5Y0hSR3RxWG83Vi10OVlETldhbHNCSm9qRXk1VDluaUkyX2xBTDJEZi1Zamo3Y3VOOVI0X0t5dV9UOHM3WQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxHMTNWNXRNREpHZFBsbHpmdExudjJZdkRlZlZ1UEF2X0tPV29QUFh2WGRRTXY2NW9iRTRwc2FqYUpaS2dyNzY4UFZtdWlCRUY5OHA4VTgwN2stYmxvdFZJWWRMNnhIVTlIRkNuenRKcEx5Y0hSR3RxWG83Vi10OVlETldhbHNCSm9qRXk1VDluaUkyX2xBTDJEZi1Zamo3Y3VOOVI0X0t5dV9UOHM3WQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-christian-council-urges-mahama-ayariga-to-intensify-galamsey",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Christian Council Urges Mahama Ayariga to Intensify Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Christian Council Urges Mahama Ayariga to Intensify Galamsey Fight Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNWVvdkdOZEU4UmFnTTY1RnNBRTh3cWdfbm5YRGQwcDRVUThkalltWk4wSFJZbVdPLVpzQ2UzeW9lOW5EWTNZdjZSbk0wYU1RS3NNdlk5MUI5RFplbVQ1OFhnY9IBXEFVX3lxTE5JelY4QVhYSmFtUGp3UklTRzVWSzlmeGFkZnoyRnBMMVBlcFBKdVN0Yy1BTnRqU2FFdmtkcVFVc1ZQY1h0S2VZTGpmLWRqQzlrTDZQZlZ3VTJIVGZv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNWVvdkdOZEU4UmFnTTY1RnNBRTh3cWdfbm5YRGQwcDRVUThkalltWk4wSFJZbVdPLVpzQ2UzeW9lOW5EWTNZdjZSbk0wYU1RS3NNdlk5MUI5RFplbVQ1OFhnY9IBXEFVX3lxTE5JelY4QVhYSmFtUGp3UklTRzVWSzlmeGFkZnoyRnBMMVBlcFBKdVN0Yy1BTnRqU2FFdmtkcVFVc1ZQY1h0S2VZTGpmLWRqQzlrTDZQZlZ3VTJIVGZv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-09-04-galamsey-or-flood-prevention-military-burns-densu-river-dred",
+      "date": "2026-09-04",
+      "category": "water",
+      "title": "Galamsey or Flood Prevention? Military Burns Densu River Dredger",
+      "place": "Densu",
+      "region": "Eastern",
+      "lat": 5.85,
+      "lon": -0.35,
+      "summary": "Galamsey or Flood Prevention? Military Burns Densu River Dredger Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lcjloWlFQTWJkNW5COFF4UEtLQnYxT0ZmSEVva2V5SVZNR0lkbm1rR2NtRS1VUUxFTG9mM2lmS1VCNl9ZeGJ2YXE3cS1uSUd3aTVicmZ5Z2JRZXZKWHcyY3F0Z9IBXEFVX3lxTE0xU1hOZEZOSDZrRnpsM1pSZDF3YWlZNHBQZy1FVlROSWNCaDBIS0QyM0FyVURWemdRZlBxcmVfVXhtdDRldTFEYWtfR1BXcjJKakhuNEZ2V1ktR05M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lcjloWlFQTWJkNW5COFF4UEtLQnYxT0ZmSEVva2V5SVZNR0lkbm1rR2NtRS1VUUxFTG9mM2lmS1VCNl9ZeGJ2YXE3cS1uSUd3aTVicmZ5Z2JRZXZKWHcyY3F0Z9IBXEFVX3lxTE0xU1hOZEZOSDZrRnpsM1pSZDF3YWlZNHBQZy1FVlROSWNCaDBIS0QyM0FyVURWemdRZlBxcmVfVXhtdDRldTFEYWtfR1BXcjJKakhuNEZ2V1ktR05M?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-after-getting-the-gold-you-will-get-thirsty-kwaku-bonsam-exp",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "'After getting the gold, you will get thirsty' – Kwaku Bonsam explains why galamsey boys are dying",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'After getting the gold, you will get thirsty' – Kwaku Bonsam explains why galamsey boys are dying Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN21ZVnI2bWwtaU9OVlBMT0JBWFBRWjF4UllGaVR2RGFKZkpuYWhDOExBZFNrQmdzX3paVEpqaE5sM1o0eVItZzk5OXJTUGN5WDZrRFc1VVZrMjc1V1R3LTVrdWY2MkRseDlVeWZxRHE2TEJwcnJkRS1xSlFyMWk4ZEM1WFhQV0hIdWdkT1NjS2huTTjSAZIBQVVfeXFMUGZTeHZidEZaTUJfeENWR1REaVV0elpsSU1MQWd1ZWRIS2VwLXQ2UnBYTmp4OUlZTHdHaUFsQ2czdHFyRGpPZkIyejJUMHBXWXpFUFRCeFBzcUsyc3FoVFZYMnFZR1BoRUI1N2YxQnVVMWtuT3k4STBJdk1PcFVDYlhrbTZINzBHc0RLZl9qX0VFbnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxQN21ZVnI2bWwtaU9OVlBMT0JBWFBRWjF4UllGaVR2RGFKZkpuYWhDOExBZFNrQmdzX3paVEpqaE5sM1o0eVItZzk5OXJTUGN5WDZrRFc1VVZrMjc1V1R3LTVrdWY2MkRseDlVeWZxRHE2TEJwcnJkRS1xSlFyMWk4ZEM1WFhQV0hIdWdkT1NjS2huTTjSAZIBQVVfeXFMUGZTeHZidEZaTUJfeENWR1REaVV0elpsSU1MQWd1ZWRIS2VwLXQ2UnBYTmp4OUlZTHdHaUFsQ2czdHFyRGpPZkIyejJUMHBXWXpFUFRCeFBzcUsyc3FoVFZYMnFZR1BoRUI1N2YxQnVVMWtuT3k4STBJdk1PcFVDYlhrbTZINzBHc0RLZl9qX0VFbnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-kwaku-bonsam-warns-chiefs-of-danger-as-nananom-strike-over-g"
+    },
+    {
+      "id": "auto-2026-09-04-military-men-burn-changfan-machine-on-weija-lake",
+      "date": "2026-09-04",
+      "category": "prosecution",
+      "title": "Military men burn changfan machine on Weija Lake",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Four military personnel and a police officer have been accused of destroying a changfan machine being used by volunteers to dredge portions of the Weija Lake in an effort to improve water flow and help prevent flooding in surrounding communities. According to eyewitnesses and volunteers operating the machine, the equipment was being used for desilting […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/military-men-burn-changfan-machine-on-weija-lake/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/military-men-burn-changfan-machine-on-weija-lake/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
     },
     {
       "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
@@ -772,7 +876,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/16-armed-thugs-arrested-after-fierce-clash-over-illegal-mining-in-asenayo-forest-reserve/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-03-16-armed-thugs-arrested-after-fierce-clash-over-illegal-mini"
+    },
+    {
+      "id": "auto-2026-09-03-ghana-forestry-commission-16-arrested-for-asenayo-forest-ill",
+      "date": "2026-09-03",
+      "category": "arrest",
+      "title": "Ghana Forestry Commission: 16 Arrested for Asenayo Forest Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Forestry Commission: 16 Arrested for Asenayo Forest Illegal Mining Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU3VOS2g2NWhvRDA2bUk2M2U0SFVTb2tkeC1tX2EyLTNpT1RhYWs5clh5ck9FYWFWcFBmRlduTHIwRXBOZjNUOWV2cE5IaWs4eVJPd2lEcjdWeHlfVFh3cWlyWld4VEV1RkxHanNya0xDekxCNjFMdmFjSFBzM1lXajJsWkRtR01CcVJUNWVUZFBqZU1EVWQ4UzBLbU14WXZBNmdtMDBBdnlObnBQVHozTG12QXBiX0paNGdrSy1oMGdZRHl2TVJzd0hzVGgzUXFpSGRJT0FxakZMdTlCSmRN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU3VOS2g2NWhvRDA2bUk2M2U0SFVTb2tkeC1tX2EyLTNpT1RhYWs5clh5ck9FYWFWcFBmRlduTHIwRXBOZjNUOWV2cE5IaWs4eVJPd2lEcjdWeHlfVFh3cWlyWld4VEV1RkxHanNya0xDekxCNjFMdmFjSFBzM1lXajJsWkRtR01CcVJUNWVUZFBqZU1EVWQ4UzBLbU14WXZBNmdtMDBBdnlObnBQVHozTG12QXBiX0paNGdrSy1oMGdZRHl2TVJzd0hzVGgzUXFpSGRJT0FxakZMdTlCSmRN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-03-16-armed-thugs-arrested-after-fierce-clash-over-illegal-mini"
     },
     {
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
@@ -1250,6 +1375,25 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV9WZl9DTEF2dmhJa2lqUHZudkQ3dm1PZ0N5VzIybUxrTjlkMlYyNERocXZLWnAtaExMU3hkdURnbElrbktCcjdwSFpNUENpQ1VWMW94Rjg1bG9lNnMwUG9VQjk5dTVtYzZGblZPa3FZR2xURHBCdldUZmZjaTRNMnJOaktuVTg5eEtoZHVkZm9HTnNodWUw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV9WZl9DTEF2dmhJa2lqUHZudkQ3dm1PZ0N5VzIybUxrTjlkMlYyNERocXZLWnAtaExMU3hkdURnbElrbktCcjdwSFpNUENpQ1VWMW94Rjg1bG9lNnMwUG9VQjk5dTVtYzZGblZPa3FZR2xURHBCdldUZmZjaTRNMnJOaktuVTg5eEtoZHVkZm9HTnNodWUw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-skytrain-case-fuel-price-hike-galamsey-deaths-more-stories",
+      "date": "2026-09-01",
+      "category": "forest",
+      "title": "Skytrain Case, Fuel Price Hike, Galamsey Deaths & More stories",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Skytrain Case, Fuel Price Hike, Galamsey Deaths & More stories YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xRUYwMlNETWtEVEdEdUJPbHRKZGlVSE05SVpNQ0NrLWo0RHllZzhiX1B6SDA2MHV2MFFYb3k2aEtZY1lTcl91NUJkMWJ1LTZReVRMV0gtSjhETXE5?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xRUYwMlNETWtEVEdEdUJPbHRKZGlVSE05SVpNQ0NrLWo0RHllZzhiX1B6SDA2MHV2MFFYb3k2aEtZY1lTcl91NUJkMWJ1LTZReVRMV0gtSjhETXE5?oc=5",
       "via": "rss",
       "verified": false
     },
