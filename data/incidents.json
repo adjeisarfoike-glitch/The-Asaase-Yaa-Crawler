@@ -1,13 +1,32 @@
 {
-  "updated": "2026-09-03T21:07:10.782Z",
+  "updated": "2026-09-04T04:33:47.735Z",
   "counts": {
-    "total": 635,
+    "total": 641,
     "verified": 28,
-    "automated": 607,
+    "automated": 613,
     "earliest": "2024-07-01",
-    "latest": "2026-09-03"
+    "latest": "2026-09-04"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Police-Forestry Commission team arrest 16 armed thugs in the Asenanyo Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Police-Forestry Commission team arrest 16 armed thugs in the Asenanyo Forest Reserve MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnE4UlozamVkbENYcC1aRXJWc1cwbmI1MVc5LW0yeUxzLUJ4UkxLSG5NTXVGUVA3MG8yYzItNDUyNUlrNUl6MHl4amphRzNPZGJmZXVYek9SRU9PT0FyM0t4dzBEX0NfTHo4WEdjNWpsQ3NkbDNhNGc2a0dSYWdFOFdWS3lHd2x5aWxpSTdpSFM2OVdOQk1jV2ZfWUdJQmhYZE1PYm1NcllCTnhZcVZIaFJ2c3d6Qi1B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnE4UlozamVkbENYcC1aRXJWc1cwbmI1MVc5LW0yeUxzLUJ4UkxLSG5NTXVGUVA3MG8yYzItNDUyNUlrNUl6MHl4amphRzNPZGJmZXVYek9SRU9PT0FyM0t4dzBEX0NfTHo4WEdjNWpsQ3NkbDNhNGc2a0dSYWdFOFdWS3lHd2x5aWxpSTdpSFM2OVdOQk1jV2ZfWUdJQmhYZE1PYm1NcllCTnhZcVZIaFJ2c3d6Qi1B?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
       "date": "2026-09-03",
@@ -45,7 +64,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmhLUHA3TDd0aVJRSEJtd1ZYTEx0TGhzVGtMOE1MZFJVMENUN1UzbU9KMm10TGg2dWl6LWRFZmJJSDR0WTZKcEd3NkthTXdLQkJiS25hVkpjUHlHaHZxNHlOWWlVMVBOc1BOTFFLczFPMk5PTnY5UjkzTXhWZ0ZBbjAzV2NiRm12aC1VQXZHQk4wc3RaNnFLRER1d1dWUGJ5ZFl1dTQyaXU5QUU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-04T04:30:07.039Z"
     },
     {
       "id": "auto-2026-09-03-gif-demands-swift-prosecution-of-attacks-on-forestry-commiss",
@@ -224,24 +244,61 @@
       "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
-      "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
-      "date": "2026-09-02",
-      "category": "forest",
-      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah",
+      "id": "auto-2026-09-03-i-will-die-with-integrity-than-be-corrupted-by-galamsey-land",
+      "date": "2026-09-03",
+      "category": "policy",
+      "title": "'I will die with integrity than be corrupted by galamsey' – Lands Minister",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah Ghana Business News",
+      "summary": "'I will die with integrity than be corrupted by galamsey' – Lands Minister Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "Ghana Business News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1VJR2FlRjE5bFNuSnFHeTNsSm5FcjIwOVhDUHhKMHIzczRqckRBNDY1b3JNcmhqLVNIUS1wRUN6VnpPSm1oTlliZ25LNlVud2hjcXpzQndBQTZOQWlpUXZtOHpBUWJhTVNyNHJwWVk1ZjgyTmc2OGFlMXpyeGZrYXVsU0tqbEw1UXNoX1k1VGlTOG5POUxz0gGWAUFVX3lxTFBTWFdoX055ei1HSGsxSC1ZTzN4OEdpRnhPRkZ0ejJWQVYzcXMzMzFHNnBHVXo3T2tfdW9KZlZzdThNbGdLR2FzTzNpYlZyd0I5NmJxbllMSnZBcVJycTdwVldLQWFQdllfclc5U3JlZjEzRXIwRVFlSURXRTYybXBTVlhCYkNjNDBoeXpsYnI3bmxSSUM4Zw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1VJR2FlRjE5bFNuSnFHeTNsSm5FcjIwOVhDUHhKMHIzczRqckRBNDY1b3JNcmhqLVNIUS1wRUN6VnpPSm1oTlliZ25LNlVud2hjcXpzQndBQTZOQWlpUXZtOHpBUWJhTVNyNHJwWVk1ZjgyTmc2OGFlMXpyeGZrYXVsU0tqbEw1UXNoX1k1VGlTOG5POUxz0gGWAUFVX3lxTFBTWFdoX055ei1HSGsxSC1ZTzN4OEdpRnhPRkZ0ejJWQVYzcXMzMzFHNnBHVXo3T2tfdW9KZlZzdThNbGdLR2FzTzNpYlZyd0I5NmJxbllMSnZBcVJycTdwVldLQWFQdllfclc5U3JlZjEzRXIwRVFlSURXRTYybXBTVlhCYkNjNDBoeXpsYnI3bmxSSUM4Zw?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-09-02T21:01:07.858Z"
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-03-16-armed-thugs-arrested-after-fierce-clash-over-illegal-mini",
+      "date": "2026-09-03",
+      "category": "forest",
+      "title": "16 armed thugs arrested after fierce clash over illegal mining in Asenayo Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A joint police and Forestry Commission team has arrested 16 armed men accused of preventing officials from accessing the Asenayo Forest Reserve to clamp down on illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/16-armed-thugs-arrested-after-fierce-clash-over-illegal-mining-in-asenayo-forest-reserve/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/16-armed-thugs-arrested-after-fierce-clash-over-illegal-mining-in-asenayo-forest-reserve/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
+      "date": "2026-09-02",
+      "category": "forest",
+      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-02-npp-sounds-alarm-over-galamsey-1-7bn-gold-loss",
@@ -342,6 +399,25 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-03T04:22:19.643Z"
+    },
+    {
+      "id": "auto-2026-09-02-ghana-water-insists-its-treated-water-is-safe-despite-heavy-",
+      "date": "2026-09-02",
+      "category": "water",
+      "title": "Ghana Water insists its treated water is safe despite heavy metal concerns over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Water insists its treated water is safe despite heavy metal concerns over galamsey MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFucHJxdUxQcFU5LTZBRlkwc0w1VTZrZmt6a2lNX0NDX0oyVW00akt5eXo3QnE0bDJPSFhRb2F2dVlVTGNXY195UjVkeE5BTUZYdXBEanpNTjlEWEc2UldUTkJmUmxYUy1ZS3Z3aE0ycFo5Zm9QYUdkOTA1OFlFS3hLMzNia3FWM05SY1FZVkZ3Z0M2dTFCU3YtTFEyMTU2U0hBSWd5OVdBXzNqbjVmcDVoZWJhSlFr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFucHJxdUxQcFU5LTZBRlkwc0w1VTZrZmt6a2lNX0NDX0oyVW00akt5eXo3QnE0bDJPSFhRb2F2dVlVTGNXY195UjVkeE5BTUZYdXBEanpNTjlEWEc2UldUTkJmUmxYUy1ZS3Z3aE0ycFo5Zm9QYUdkOTA1OFlFS3hLMzNia3FWM05SY1FZVkZ3Z0M2dTFCU3YtTFEyMTU2U0hBSWd5OVdBXzNqbjVmcDVoZWJhSlFr?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-galamsey-in-forest-reserves-as-of-now-there-is-no-red-zone-p",
@@ -662,6 +738,25 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-01-state-of-emergency-is-no-magic-wand-for-galamsey-lands-minis",
+      "date": "2026-09-01",
+      "category": "policy",
+      "title": "State of emergency is no ‘magic wand’ for galamsey – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "State of emergency is no ‘magic wand’ for galamsey – Lands Ministry MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV9WZl9DTEF2dmhJa2lqUHZudkQ3dm1PZ0N5VzIybUxrTjlkMlYyNERocXZLWnAtaExMU3hkdURnbElrbktCcjdwSFpNUENpQ1VWMW94Rjg1bG9lNnMwUG9VQjk5dTVtYzZGblZPa3FZR2xURHBCdldUZmZjaTRNMnJOaktuVTg5eEtoZHVkZm9HTnNodWUw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQZV9WZl9DTEF2dmhJa2lqUHZudkQ3dm1PZ0N5VzIybUxrTjlkMlYyNERocXZLWnAtaExMU3hkdURnbElrbktCcjdwSFpNUENpQ1VWMW94Rjg1bG9lNnMwUG9VQjk5dTVtYzZGblZPa3FZR2xURHBCdldUZmZjaTRNMnJOaktuVTg5eEtoZHVkZm9HTnNodWUw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1464,21 +1559,20 @@
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
       "date": "2026-08-28",
       "category": "policy",
-      "title": "Galamsey fight requires an all-of-government approach — Zanetor Agyeman-Rawlings",
+      "title": "Galamsey fight requires an all-of-government approach — Zanetor",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey fight requires an all-of-government approach — Zanetor Agyeman-Rawlings Ghana News Agency",
+      "summary": "Galamsey fight requires an all-of-government approach — Zanetor Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "Ghana News Agency",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVi13eUhvZHpaTDhVdk5rOHpZWUtfV0VEbDBYUW9QeDQ0NTJlSW5MeG5VcnQwYUNOZFhDSVJ5NG50UjhvRU1JQjRQODNFVWhFX2xrMHEtdW5qWFh3ZUNSUVhjemdIUnRoYVN4WTVCMEQtYzZxcnlwQnJ6bnFiSWx6X04wNG5ZNk00NXR3STRFeWJidmZxMTA2M3MxdVPSAZsBQVVfeXFMT0RENDNDa1E3Z3ZrN3NzeEJvdjRpS3NrMU1aZ2dsc2RFdzRKRTAxbVNKMG95TzRZajFVLW9iSzFNeGxtNjQwZU10YlV2Q0NlUDVFRzZxU3RyQ3V2cmQtT0NwYmVJYTZVdHNZRE9LcW9DRzN6MjFudWRjeGpiQ21QNkVVSGlyUmphT1Vja0JYdm5uaXRoSEJnWkd2Yjg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tTS2RHTkVzQmJCNnNvU05XblV5TUhYWVpENm5FeDdrZUNPekE4TVBVTUgwaVJ6VGtfT0x2ajUwTFpNcnI5WEZsN1hnajZBU1lHSmRnU1V4bGFVMTVUTExHejJCd2RRZlFlVFp1QnEzUkdENFJGUFdTTW1jbUQxTV9vVWJzbUdIUF94X2RjeFlRUzlFVG9LcWtnTkdoN0hXWGFuV1RYUDhfUQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNVi13eUhvZHpaTDhVdk5rOHpZWUtfV0VEbDBYUW9QeDQ0NTJlSW5MeG5VcnQwYUNOZFhDSVJ5NG50UjhvRU1JQjRQODNFVWhFX2xrMHEtdW5qWFh3ZUNSUVhjemdIUnRoYVN4WTVCMEQtYzZxcnlwQnJ6bnFiSWx6X04wNG5ZNk00NXR3STRFeWJidmZxMTA2M3MxdVPSAZsBQVVfeXFMT0RENDNDa1E3Z3ZrN3NzeEJvdjRpS3NrMU1aZ2dsc2RFdzRKRTAxbVNKMG95TzRZajFVLW9iSzFNeGxtNjQwZU10YlV2Q0NlUDVFRzZxU3RyQ3V2cmQtT0NwYmVJYTZVdHNZRE9LcW9DRzN6MjFudWRjeGpiQ21QNkVVSGlyUmphT1Vja0JYdm5uaXRoSEJnWkd2Yjg?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-08-28T22:17:12.822Z"
+      "verified": false
     },
     {
       "id": "auto-2026-08-28-supporting-small-scale-miners-to-become-medium-scale-miners-",
@@ -1801,6 +1895,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-08-28-scaling-up-small-scale-mining-key-to-tackling-galamsey-bawum",
+      "date": "2026-08-28",
+      "category": "forest",
+      "title": "Scaling up small-scale mining key to tackling galamsey – Bawumia",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Scaling up small-scale mining key to tackling galamsey – Bawumia GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTlnbnRWZ1FXVjFTUVhlM2U0V1NtSThCZFhFLTF3enU4ckRLTHdaNmo2WVJhMnRCenhxb0tqZ05YUWxPNmw5RGtuQTM3OWwzeDVqdzk4RnF6cDNSeUVFalNHUEZZTUZuQ1NLeDkydm9GX0gtRGV3dzNaQllaODFrWFFyZW9jSlhQeGM0ZWRrWEF0ajRISk41ZkI1QkM3Q1RENE83d18zeFNyMUt3Z3B1S3g5UXNxUnJfRXJ4aU1B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTlnbnRWZ1FXVjFTUVhlM2U0V1NtSThCZFhFLTF3enU4ckRLTHdaNmo2WVJhMnRCenhxb0tqZ05YUWxPNmw5RGtuQTM3OWwzeDVqdzk4RnF6cDNSeUVFalNHUEZZTUZuQ1NLeDkydm9GX0gtRGV3dzNaQllaODFrWFFyZW9jSlhQeGM0ZWRrWEF0ajRISk41ZkI1QkM3Q1RENE83d18zeFNyMUt3Z3B1S3g5UXNxUnJfRXJ4aU1B?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
