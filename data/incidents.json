@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T04:33:47.735Z",
+  "updated": "2026-09-04T11:20:28.914Z",
   "counts": {
-    "total": 641,
+    "total": 653,
     "verified": 28,
-    "automated": 613,
+    "automated": 625,
     "earliest": "2024-07-01",
     "latest": "2026-09-04"
   },
@@ -25,7 +25,241 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnE4UlozamVkbENYcC1aRXJWc1cwbmI1MVc5LW0yeUxzLUJ4UkxLSG5NTXVGUVA3MG8yYzItNDUyNUlrNUl6MHl4amphRzNPZGJmZXVYek9SRU9PT0FyM0t4dzBEX0NfTHo4WEdjNWpsQ3NkbDNhNGc2a0dSYWdFOFdWS3lHd2x5aWxpSTdpSFM2OVdOQk1jV2ZfWUdJQmhYZE1PYm1NcllCTnhZcVZIaFJ2c3d6Qi1B?oc=5",
       "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the"
+    },
+    {
+      "id": "auto-2026-09-04-poaching-galamsey-threaten-western-region-wildlife",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Poaching, galamsey threaten Western Region wildlife",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "Poaching, galamsey threaten Western Region wildlife Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU09JSGZKTXlldzFsT0IyVjVVNGo4TDc3bjczaENuVEliNXJnanVXY3JpY1VTTEJmMF96anJoajM3MTQ0S0ZlV2NMTjZabGlvQ0JCZXpJVmFYNWJTdWxTWE8xRnlzQnBUVkRtWlIyNFdnZl9OVW83cWVpbl9oTXBwWGt6amZXblU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihwFBVV95cUxPU09JSGZKTXlldzFsT0IyVjVVNGo4TDc3bjczaENuVEliNXJnanVXY3JpY1VTTEJmMF96anJoajM3MTQ0S0ZlV2NMTjZabGlvQ0JCZXpJVmFYNWJTdWxTWE8xRnlzQnBUVkRtWlIyNFdnZl9OVW83cWVpbl9oTXBwWGt6amZXblU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-04T11:15:55.358Z"
+    },
+    {
+      "id": "auto-2026-09-04-we-will-not-waver-in-galamsey-fight-3-000-machines-cleared-2",
+      "date": "2026-09-04",
+      "category": "arrest",
+      "title": "We will not waver in galamsey fight • 3,000 machines cleared, 237 arrested – Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We will not waver in galamsey fight • 3,000 machines cleared, 237 arrested – Lands Minister Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGlIczVfSFhQMXdILVFKalZQR3lHVjczdGplM09adHcwT2hqSXVaLXFlb2daQ1BzZVEwQ25sQVY1ZUJkekszME5WWFVMRk1uX3FVNmQ2dFhpcVh0M2pOakpCTUdKVlNja0hYeWlxSVRtQ0c0emlzRGkweWotTUlpbERkbUk2WTZDR0NuaGtTLW0teUdTX2tnQnl6U2I0R0cybjdxSm8xUzIxTzNVc09tZDNmc2JxZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGlIczVfSFhQMXdILVFKalZQR3lHVjczdGplM09adHcwT2hqSXVaLXFlb2daQ1BzZVEwQ25sQVY1ZUJkekszME5WWFVMRk1uX3FVNmQ2dFhpcVh0M2pOakpCTUdKVlNja0hYeWlxSVRtQ0c0emlzRGkweWotTUlpbERkbUk2WTZDR0NuaGtTLW0teUdTX2tnQnl6U2I0R0cybjdxSm8xUzIxTzNVc09tZDNmc2JxZw?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-from-turbidity-to-dechemicalisation-how-far-with-the-galamse",
+      "date": "2026-09-04",
+      "category": "water",
+      "title": "From Turbidity to Dechemicalisation: How Far with the Galamsey Fight?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "From Turbidity to Dechemicalisation: How Far with the Galamsey Fight? Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTQzVktsaXptQWFRUDU3Q0JTbnFYcHp6VmRzMTdGM0N5T0EyQVFSTTRDeXcySkhtY1FjcmRqTGVTZDBDZTF2b1RXanl2OVhaZ0UzaUEyWUhzQUI2NGE1X0VGZG42NXBkcFBYRVB6QVJlSnlYRS1vX21EeFYtNDVsYm5SaWdmdEUwMktpUEZRQ2lCcF9ySDNrWmRB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOeTQzVktsaXptQWFRUDU3Q0JTbnFYcHp6VmRzMTdGM0N5T0EyQVFSTTRDeXcySkhtY1FjcmRqTGVTZDBDZTF2b1RXanl2OVhaZ0UzaUEyWUhzQUI2NGE1X0VGZG42NXBkcFBYRVB6QVJlSnlYRS1vX21EeFYtNDVsYm5SaWdmdEUwMktpUEZRQ2lCcF9ySDNrWmRB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "7 dead, one trapped after galamsey pit collapses at Manso Keniago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "7 dead, one trapped after galamsey pit collapses at Manso Keniago 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtMNFZXNGh4VWszVnNRWHFULXdYVU90aFdSdVZKNHZBZXVzN1hWbzJzc0JQbEZqYWZFYUZua3BCRmRmcUU2RTcwdFhBTHFwS0pmTVdTS0lRX2k1M19zRHJfdFp2TmhneV9ycFFpY2RpYktvZV8xUEx5WkktX014VUpNWkVieFgyS0x4OTdNWVY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtMNFZXNGh4VWszVnNRWHFULXdYVU90aFdSdVZKNHZBZXVzN1hWbzJzc0JQbEZqYWZFYUZua3BCRmRmcUU2RTcwdFhBTHFwS0pmTVdTS0lRX2k1M19zRHJfdFp2TmhneV9ycFFpY2RpYktvZV8xUEx5WkktX014VUpNWkVieFgyS0x4OTdNWVY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-kumasi-priest-slams-mahama-over-galamsey-fight",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Kumasi Priest Slams Mahama Over Galamsey Fight",
+      "place": "Kumasi",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Kumasi Priest Slams Mahama Over Galamsey Fight News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sbGRjRDZGWHZFNVB1ejRxazY3WThpVmI4dWpMb2V6cE1XUHhmMHFCbWdVQzhlSTItd2g5M0E2cElGOERwMi14UnZ1aDFKMERWLTBVTXp0WGU1Tk4ybTV4RVVha0dIS0E0YkhVMFlIQlhKQkMyV25NVDR6LUY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTE9sbGRjRDZGWHZFNVB1ejRxazY3WThpVmI4dWpMb2V6cE1XUHhmMHFCbWdVQzhlSTItd2g5M0E2cElGOERwMi14UnZ1aDFKMERWLTBVTXp0WGU1Tk4ybTV4RVVha0dIS0E0YkhVMFlIQlhKQkMyV25NVDR6LUY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-kwaku-bonsam-warns-chiefs-of-danger-as-nananom-strike-over-g",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Kwaku Bonsam warns chiefs of danger as Nananom ‘strike’ over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kwaku Bonsam warns chiefs of danger as Nananom ‘strike’ over galamsey Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0Z2YVF0SlBqeXJDOUlzR29ETnNUaEx5cmRjaVlZNWxDdnpvZFZlMWVBZ19mZjJjUGNudEFFM2ROTFB6empJS2JzOXRDWC1jNDlZRC1tV1NhVkJ6TmNSeG0tXzhwT3BOc0twRFJDV3dvR1JkYk9EVVdudFdEOGxfWFVQdXZEQmZhSEdUaW43Y08tb0Q3UGRZUlF6MnlYM0xXbGROLXliZkw0Q05RbE16ZEctYzl6RWJVMlBocjBwTjg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0Z2YVF0SlBqeXJDOUlzR29ETnNUaEx5cmRjaVlZNWxDdnpvZFZlMWVBZ19mZjJjUGNudEFFM2ROTFB6empJS2JzOXRDWC1jNDlZRC1tV1NhVkJ6TmNSeG0tXzhwT3BOc0twRFJDV3dvR1JkYk9EVVdudFdEOGxfWFVQdXZEQmZhSEdUaW43Y08tb0Q3UGRZUlF6MnlYM0xXbGROLXliZkw0Q05RbE16ZEctYzl6RWJVMlBocjBwTjg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-galamsey-has-worsened-under-your-tenure-catholic-priest-tell",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Galamsey has worsened under your tenure' – Catholic priest tells Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey has worsened under your tenure' – Catholic priest tells Mahama GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0NVUzNYek4ybXdkNC1uU2ZSMzRqaW1QX1BJc2Z4RE1OQjE0SUxsTFlWQjZtLUdycm84NWRPR0tvV2dQTE10VjFlOC1vSEZXX3h1c1VBT2xrR3A1Y2o4b1ZuRnRuRUdHY19KT2JhUjJFSUQ0SzBxZUZhZEgtOGdNYWVwX0FXQ3R0UkRHV3d6Qm4yS1FmUWVMZXlTWE4tT0x3Uzd2dTdudTloRGVCZUFYd0kzalpzMGNoZWtNODN5QUlVRVpWRUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0NVUzNYek4ybXdkNC1uU2ZSMzRqaW1QX1BJc2Z4RE1OQjE0SUxsTFlWQjZtLUdycm84NWRPR0tvV2dQTE10VjFlOC1vSEZXX3h1c1VBT2xrR3A1Y2o4b1ZuRnRuRUdHY19KT2JhUjJFSUQ0SzBxZUZhZEgtOGdNYWVwX0FXQ3R0UkRHV3d6Qm4yS1FmUWVMZXlTWE4tT0x3Uzd2dTdudTloRGVCZUFYd0kzalpzMGNoZWtNODN5QUlVRVpWRUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-09-04-galamsey-fight-we-are-turning-the-corner-lands-minister",
+      "date": "2026-09-04",
+      "category": "policy",
+      "title": "Galamsey fight: ‘We are turning the corner’ – Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: ‘We are turning the corner’ – Lands Minister MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVRfR2xFSENyS0MweVk5Y2tMaEx5OFo1UENYVTRtVUdJQWJralNoZE9RcFNhSHFEanc3Z1hnUGZYXzBDaS1IZmJ5b3pYNi1uQ0wtSnlOR25EbXNrWWpreklZSEZ6eGZIQjJ0cklXZ01SR041ZlNlYnc0UjdLVXNlcFJVTzZjY2FtUm1mNg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVRfR2xFSENyS0MweVk5Y2tMaEx5OFo1UENYVTRtVUdJQWJralNoZE9RcFNhSHFEanc3Z1hnUGZYXzBDaS1IZmJ5b3pYNi1uQ0wtSnlOR25EbXNrWWpreklZSEZ6eGZIQjJ0cklXZ01SR041ZlNlYnc0UjdLVXNlcFJVTzZjY2FtUm1mNg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-lands-minister-inspects-ankobra-cites-progress-in-galamsey-f",
+      "date": "2026-09-04",
+      "category": "policy",
+      "title": "Lands Minister inspects Ankobra, cites progress in galamsey fight",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "Lands Minister inspects Ankobra, cites progress in galamsey fight MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxpeDlKaGtMSmFtdFBiZmRCNmhtWlNFcVFsQndPQ29jd09DYVljVjdZbkVvaktwR3N0b1IxRmxVSjQ1SnRtV29yRW9tOV93QS1rNk01OGdEX2FHdXhRMWd3cEhZbmRWVmF4Y2YxVzVOcEdHSGdyNHNZcjNZWGVKcG1uUzRPNDVzRGduTnZoUmpLWkZMTi1GWg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxpeDlKaGtMSmFtdFBiZmRCNmhtWlNFcVFsQndPQ29jd09DYVljVjdZbkVvaktwR3N0b1IxRmxVSjQ1SnRtV29yRW9tOV93QS1rNk01OGdEX2FHdXhRMWd3cEhZbmRWVmF4Y2YxVzVOcEdHSGdyNHNZcjNZWGVKcG1uUzRPNDVzRGduTnZoUmpLWkZMTi1GWg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-ase",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Police-Forestry Commission team arrest 16 armed thugs in Asenanyo Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Police-Forestry Commission team arrest 16 armed thugs in Asenanyo Forest Reserve Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFBlUEk4OGMzY0hQZ3RvZ2k5LWg3MjBvcEVudW01NUhScUg3enppMndBLTRjREs2a1ZhUl9nQjhMVmJ1ajQ0eHdhOWstTHgtZ3ZkSHpUdkpzdDlGbjRkS1RocXEzb1A1N056VmMya0JqYkcwdnJBYmpvYlJRbFZGOGFxSXl1TWQ5VVBheGJTTVREVnR4Zkxfc1VrOWZDZUFWcjFQWHFOYlBlck80?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFBlUEk4OGMzY0hQZ3RvZ2k5LWg3MjBvcEVudW01NUhScUg3enppMndBLTRjREs2a1ZhUl9nQjhMVmJ1ajQ0eHdhOWstTHgtZ3ZkSHpUdkpzdDlGbjRkS1RocXEzb1A1N056VmMya0JqYkcwdnJBYmpvYlJRbFZGOGFxSXl1TWQ5VVBheGJTTVREVnR4Zkxfc1VrOWZDZUFWcjFQWHFOYlBlck80?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the"
+    },
+    {
+      "id": "auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "8 feared dead as illegal mining pit collapses at Domi Keniago",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "At least eight persons have been feared dead at Domi Keniago in the Ashanti Region after an illegal mining pit collapsed on twelve miners.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniago/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniago/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-09-04-a-r-8-feared-dead-as-illegal-mining-pit-collapses-on-miners-",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "A/R: 8 feared dead as illegal mining pit collapses on miners at Domi Keniago [Photos]",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "At least eight persons are feared dead at Domi Keniago in the Ashanti Region after an illegal mining pit collapsed on 12 miners. The incident reportedly occurred at about 9:40 p.m. on Thursday, September 3, 2026, in the Amansie South District. The miners were reportedly undertaking mining activities inside the pit when it collapsed. An […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/a-r-8-feared-dead-as-illegal-mining-pit-collapses-on-miners-at-domi-keniago-photos/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/a-r-8-feared-dead-as-illegal-mining-pit-collapses-on-miners-at-domi-keniago-photos/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
     },
     {
       "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
