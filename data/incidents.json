@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T10:39:38.505Z",
+  "updated": "2026-09-05T15:17:52.379Z",
   "counts": {
     "total": 677,
     "verified": 28,
@@ -448,6 +448,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3JoRkRrSzctQzBHNk4teFk4Y3hINDdodEE1VDJHOHE0ZElpM0w5cDVoSzNMV3NtTXNVTVBZNHhkRFlqOWxBN1VSemRBRnJXeE5mVjl0emwtckVjQ3I1U1VkME54QVZIZzJyOWxUMFdyZ245N2sxcDBScmQyMHVJVmh4RFpwakFjWXVPdU51eENhT21RV1hMR09ZU0ZkdGZZNjJkZWc0cDV1aE92SG8zRlFKcFR2S0RfRjk2LUUyMU9sSkRxQnc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-05T15:16:03.728Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
@@ -467,7 +468,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHVady1nNkxWZ3NaTV9kSEI3M3NiR0V6d2hVU3RyUnoxVHZaVk81YlRDaWhTbk5kMzNmVkRCLW5xakp1c1dMOXRwRElETjYtSjFPQVNZMW1CNDBBSktqbjlaZnRvdzJfaldPV29IYjMtRnFhRG5JRmMzdWN2aGwwdEtn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-05T15:16:47.304Z"
     },
     {
       "id": "auto-2026-09-04-lands-minister-vows-to-fight-galamsey-all-the-way-targets-fi",
