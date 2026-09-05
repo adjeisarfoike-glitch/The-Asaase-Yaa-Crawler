@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-04T20:50:02.487Z",
+  "updated": "2026-09-05T04:29:17.663Z",
   "counts": {
-    "total": 673,
+    "total": 674,
     "verified": 28,
-    "automated": 645,
+    "automated": 646,
     "earliest": "2024-07-01",
     "latest": "2026-09-04"
   },
@@ -187,7 +187,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxNaVRfR2xFSENyS0MweVk5Y2tMaEx5OFo1UENYVTRtVUdJQWJralNoZE9RcFNhSHFEanc3Z1hnUGZYXzBDaS1IZmJ5b3pYNi1uQ0wtSnlOR25EbXNrWWpreklZSEZ6eGZIQjJ0cklXZ01SR041ZlNlYnc0UjdLVXNlcFJVTzZjY2FtUm1mNg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-05T04:24:02.734Z"
     },
     {
       "id": "auto-2026-09-04-lands-minister-inspects-ankobra-cites-progress-in-galamsey-f",
@@ -206,7 +207,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmxpeDlKaGtMSmFtdFBiZmRCNmhtWlNFcVFsQndPQ29jd09DYVljVjdZbkVvaktwR3N0b1IxRmxVSjQ1SnRtV29yRW9tOV93QS1rNk01OGdEX2FHdXhRMWd3cEhZbmRWVmF4Y2YxVzVOcEdHSGdyNHNZcjNZWGVKcG1uUzRPNDVzRGduTnZoUmpLWkZMTi1GWg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-05T04:24:34.532Z"
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-ase",
@@ -464,7 +466,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQOC1pVFFqdUwxWnVBcS1DYkRqNElEbHA4OFo1Q0JrTWFqNkU0YWl5VlFlVUtpY0VQLTRxNkd6TmlBOTdINTV6UHNQV2RlcHIxNWpoZG1fdUIxN0Z1V1ZCTFFHSXgwak1FZXZSeVkteW52ZHJKZ1hlOHV6c185NWlXUUsyUG1YUmFMNmFLUnQ0NlBaRks1OUFMMy1rWmNZQQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-05T04:29:11.452Z"
     },
     {
       "id": "auto-2026-09-04-miif-targets-gh-9bn-royalty-collection",
@@ -623,6 +626,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
+    },
+    {
+      "id": "auto-2026-09-04-ghana-operation-water-shield-shows-significant-galamsey-prog",
+      "date": "2026-09-04",
+      "category": "forest",
+      "title": "Ghana: Operation Water Shield Shows Significant Galamsey Progress",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: Operation Water Shield Shows Significant Galamsey Progress Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHVJbEF0bVI0RWVBNHRRYjc4RFByRksxLWVObzFOUjVDdzZnTjRXREpackNXYVdIcnFoQnlyTHFUNFkyYUNWVHRQTl9RUDFjYmc1dGsyeUh1alQ3V3FhdjhOZzZsaGdlSzdIUXpmMWltQWtVVkREZWw2S04wVGNtS2FGWVRnOUR2dTJHQ0JXcEZnRXRuS1RZM0oyMlgwb202X01qQzEtY0VPOWN5ODZZWTZFS1pKR3VnclVCemQxUkc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHVJbEF0bVI0RWVBNHRRYjc4RFByRksxLWVObzFOUjVDdzZnTjRXREpackNXYVdIcnFoQnlyTHFUNFkyYUNWVHRQTl9RUDFjYmc1dGsyeUh1alQ3V3FhdjhOZzZsaGdlSzdIUXpmMWltQWtVVkREZWw2S04wVGNtS2FGWVRnOUR2dTJHQ0JXcEZnRXRuS1RZM0oyMlgwb202X01qQzEtY0VPOWN5ODZZWTZFS1pKR3VnclVCemQxUkc?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
