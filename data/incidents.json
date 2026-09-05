@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-05T04:29:17.663Z",
+  "updated": "2026-09-05T10:39:38.505Z",
   "counts": {
-    "total": 674,
+    "total": 677,
     "verified": 28,
-    "automated": 646,
+    "automated": 649,
     "earliest": "2024-07-01",
-    "latest": "2026-09-04"
+    "latest": "2026-09-05"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
+      "date": "2026-09-05",
+      "category": "policy",
+      "title": "Pulpit and Politics: Pastors speak on galamsey and the National Cathedral",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Pulpit and Politics: Pastors speak on galamsey and the National Cathedral graphic.com.gh",
+      "metrics": {},
+      "source": {
+        "name": "graphic.com.gh",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzZtVVZyRjV3ODR6bEthNmVSMkRnSUJ3UjhvTkFfMVVRNVRMZVNINTVTY3NqampmWUxxVno1NWhwV0dxVE92Y2FvempEbjhlZ0xsZWw4dFRUcWJmZ2FNU240dWlkTWJwNlUyUFY1YUtxOUVzcFdKM2ZEY09ZS1lKYnYwSWNfdWZkc2pRTXQ1SnAxNjB5bVU1RmV3MUdCYUpBVmxzWGhpOElGYWpJVlVsWDZBRjFHSE1heWR2bGFVZUpoMmw0ZEhFWQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSzZtVVZyRjV3ODR6bEthNmVSMkRnSUJ3UjhvTkFfMVVRNVRMZVNINTVTY3NqampmWUxxVno1NWhwV0dxVE92Y2FvempEbjhlZ0xsZWw4dFRUcWJmZ2FNU240dWlkTWJwNlUyUFY1YUtxOUVzcFdKM2ZEY09ZS1lKYnYwSWNfdWZkc2pRTXQ1SnAxNjB5bVU1RmV3MUdCYUpBVmxzWGhpOElGYWpJVlVsWDZBRjFHSE1heWR2bGFVZUpoMmw0ZEhFWQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-05T10:32:14.160Z"
+    },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
       "date": "2026-09-04",
@@ -487,6 +507,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-miif-targets-ghc9bn-royalty-collection.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-05T10:38:45.447Z",
       "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
@@ -2573,6 +2594,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTlnbnRWZ1FXVjFTUVhlM2U0V1NtSThCZFhFLTF3enU4ckRLTHdaNmo2WVJhMnRCenhxb0tqZ05YUWxPNmw5RGtuQTM3OWwzeDVqdzk4RnF6cDNSeUVFalNHUEZZTUZuQ1NLeDkydm9GX0gtRGV3dzNaQllaODFrWFFyZW9jSlhQeGM0ZWRrWEF0ajRISk41ZkI1QkM3Q1RENE83d18zeFNyMUt3Z3B1S3g5UXNxUnJfRXJ4aU1B?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-08-28-naimos-black-volta-illegal-mining-raid-leads-to-10-arrests-e",
+      "date": "2026-08-28",
+      "category": "arrest",
+      "title": "NAIMOS: Black Volta Illegal Mining Raid Leads To 10 Arrests, Equipment Seized",
+      "place": "Black Volta",
+      "region": "Savannah",
+      "lat": 9,
+      "lon": -2.4,
+      "summary": "NAIMOS: Black Volta Illegal Mining Raid Leads To 10 Arrests, Equipment Seized Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2ZhX0FjZ3VrSEw3WXU4RXhZdVkzMDkzX0hLWVF1T3k1b0FkRXlaampiM2VOaXlzd2FtbXNUQVo1QXZUYXl3OHF4bTJ2dk1sUFFPU3NsVjQzMHQ5bTRBZllKcVBNWlF2ejN3b3FfM3p3ZGJCOHF1a3BaZVlYdWF4NEVGMXJ3eFZVMnFzM0xQUjlWd05tMEl4dHlOX0p0WmRGakRfblpUNmlOUlhZQ3Z1SXd1Um9PdUI1aVE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2ZhX0FjZ3VrSEw3WXU4RXhZdVkzMDkzX0hLWVF1T3k1b0FkRXlaampiM2VOaXlzd2FtbXNUQVo1QXZUYXl3OHF4bTJ2dk1sUFFPU3NsVjQzMHQ5bTRBZllKcVBNWlF2ejN3b3FfM3p3ZGJCOHF1a3BaZVlYdWF4NEVGMXJ3eFZVMnFzM0xQUjlWd05tMEl4dHlOX0p0WmRGakRfblpUNmlOUlhZQ3Z1SXd1Um9PdUI1aVE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
@@ -4772,7 +4813,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPRXU5bGtZbWhNRmczLVBnTDlualZUaHl6Z3N3QzV5c0FRRmttRldzZG5ieGEtUmppTVhPQXZvRV9BdzVIdWltQnhVd2lSTm5KUnNLMXNMQkpxRzFHUkhsZEtQSzBnSEVNUkJ0dDdiOTQtTkRTZTN5Vmg2VEN1V1dVakRKQU11ZHRDM1JzWFBvc21JcVg5?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-23-galamsey-destroys-over-100-acres-of-farmland-at-akyem-atobri"
     },
     {
       "id": "auto-2026-08-23-ghana-should-regulate-galamsey-not-fight-it-campaigner-says",
@@ -4831,6 +4873,28 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-08-23-akyem-atobriso-galamsey-farmland-destruction-ravages-100-acr",
+      "date": "2026-08-23",
+      "category": "forest",
+      "title": "Akyem Atobriso: Galamsey Farmland Destruction Ravages 100 Acres",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Akyem Atobriso: Galamsey Farmland Destruction Ravages 100 Acres Wansom AI",
+      "metrics": {
+        "acres": 100
+      },
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmlsSWRkajFTVDlhOWFjdU5KVHlhWFhELXl2dkxVR2g4cDRKTEJXeElEX19HSXJkZEprTEtxVEowY0JMemk4VkNqUkM4dEJaQmdXMUhfT3dqdnp4MmpIZ1FtV1lVZXhRT0NKWDEwT0k3cWJuN09VM1JzdkNTSmVuUlJacXRkczFUc0wtcFN4Y0F0Q2hsUm1CaTBNdE8zSXhxN0xZNkpJcGg3amxUTDg5LWZua3lwLTAzcXUyRG5CUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmlsSWRkajFTVDlhOWFjdU5KVHlhWFhELXl2dkxVR2g4cDRKTEJXeElEX19HSXJkZEprTEtxVEowY0JMemk4VkNqUkM4dEJaQmdXMUhfT3dqdnp4MmpIZ1FtV1lVZXhRT0NKWDEwT0k3cWJuN09VM1JzdkNTSmVuUlJacXRkczFUc0wtcFN4Y0F0Q2hsUm1CaTBNdE8zSXhxN0xZNkpJcGg3amxUTDg5LWZua3lwLTAzcXUyRG5CUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-galamsey-destroys-over-100-acres-of-farmland-at-akyem-atobri"
     },
     {
       "id": "auto-2026-08-22-jomoro-will-revive-coconut-industry-instead-of-engaging-in-g",
