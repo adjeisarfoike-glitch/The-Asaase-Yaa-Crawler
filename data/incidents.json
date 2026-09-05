@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-05T15:17:52.379Z",
+  "updated": "2026-09-05T20:24:41.094Z",
   "counts": {
-    "total": 677,
+    "total": 678,
     "verified": 28,
-    "automated": 649,
+    "automated": 650,
     "earliest": "2024-07-01",
     "latest": "2026-09-05"
   },
@@ -27,6 +27,27 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-05T10:32:14.160Z"
+    },
+    {
+      "id": "auto-2026-09-05-christian-council-urges-ayariga-to-intensify-fight-against-g",
+      "date": "2026-09-05",
+      "category": "forest",
+      "title": "Christian Council Urges Ayariga to Intensify Fight Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Christian Council Urges Ayariga to Intensify Fight Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbTdGU1VLTHpLQVk1Ym5zU1dkS3NDdlpPR25lN3VBdzROMGUwQ3hUVWNIVnp3dDdjMnBta2lvVm5TQWl0TGVwZ1dNUGw4T3hzUlppbDdncTVQZm1uQjF4LTg3d9IBXEFVX3lxTE1QLWFBaGZTRHJ1Qm9xT1EyUkRHbVczNTRYUDBhX0p2SkU5c2RPS3gzTW15c2k5RVV6a3RDSGpXekstdThuVXZCTHRxLWtVYzJ3TDRKR1QwVmhTUHQy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbTdGU1VLTHpLQVk1Ym5zU1dkS3NDdlpPR25lN3VBdzROMGUwQ3hUVWNIVnp3dDdjMnBta2lvVm5TQWl0TGVwZ1dNUGw4T3hzUlppbDdncTVQZm1uQjF4LTg3d9IBXEFVX3lxTE1QLWFBaGZTRHJ1Qm9xT1EyUkRHbVczNTRYUDBhX0p2SkU5c2RPS3gzTW15c2k5RVV6a3RDSGpXekstdThuVXZCTHRxLWtVYzJ3TDRKR1QwVmhTUHQy?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-05T20:18:48.252Z",
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
@@ -248,6 +269,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFBlUEk4OGMzY0hQZ3RvZ2k5LWg3MjBvcEVudW01NUhScUg3enppMndBLTRjREs2a1ZhUl9nQjhMVmJ1ajQ0eHdhOWstTHgtZ3ZkSHpUdkpzdDlGbjRkS1RocXEzb1A1N056VmMya0JqYkcwdnJBYmpvYlJRbFZGOGFxSXl1TWQ5VVBheGJTTVREVnR4Zkxfc1VrOWZDZUFWcjFQWHFOYlBlck80?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-05T20:19:38.547Z",
       "thread": "t-auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the"
     },
     {
