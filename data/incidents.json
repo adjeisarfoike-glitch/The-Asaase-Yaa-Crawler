@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-06T15:32:58.047Z",
+  "updated": "2026-09-06T20:29:51.860Z",
   "counts": {
-    "total": 686,
+    "total": 688,
     "verified": 28,
-    "automated": 658,
+    "automated": 660,
     "earliest": "2024-07-01",
     "latest": "2026-09-06"
   },
@@ -91,6 +91,28 @@
       "verified": false,
       "archivedAt": "2026-09-06T15:27:32.578Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-09-06-forestry-commission-arrests-12-illegal-miners-in-atewa-fores",
+      "date": "2026-09-06",
+      "category": "arrest",
+      "title": "Forestry Commission arrests 12 illegal miners in Atewa Forest",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "The Forestry Commission’s Rapid Response Unit (RRU) has arrested 12 persons suspected of engaging in illegal mining, popularly known as galamsey, in the Atewa Range Forest Reserve in the Eastern Region. The arrests were made during a dawn operation on Friday, September 4, 2026, around the Sagyimase community in Compartments 61 and 62 of the […]",
+      "metrics": {
+        "arrests": 12
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/forestry-commission-arrests-12-illegal-miners-in-atewa-forest/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/forestry-commission-arrests-12-illegal-miners-in-atewa-forest/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -8522,6 +8544,25 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjZJWExaUE9fRjZFdEJncVZPdjBYS3RGZFU0UURIT21NblJjQVI1NWg3T2RJUzdPNGdXbWF1MlhwR2lVd2NaTDh2XzlxNXd3ZHJXcko2cjJFQ0REd0JtYzloVmw4QkdBSTVsVEU5akRnWlk1ZVNBczM3ZVBuOFExeHd4Z1BRR0VPQkQ5czdzQ1RHMm930gGTAUFVX3lxTE83VWNtclY5MEJIcmNkdndoN2J2a2ZiYndYRHdXenVDYk54VFI1N0J1dXlHZm5FalpjT3lOdmlkb19fRmNQZi14VU80ZUdJbk1ZcHYtenFfNkVvR2FiMmtfeUZDMDZtNmdfWlJ4Mnc4VkI3LVRPNlpUME9KZTdNSEIycjBRN3pTRXVjOTg2d0dmeDJlOA?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjZJWExaUE9fRjZFdEJncVZPdjBYS3RGZFU0UURIT21NblJjQVI1NWg3T2RJUzdPNGdXbWF1MlhwR2lVd2NaTDh2XzlxNXd3ZHJXcko2cjJFQ0REd0JtYzloVmw4QkdBSTVsVEU5akRnWlk1ZVNBczM3ZVBuOFExeHd4Z1BRR0VPQkQ5czdzQ1RHMm930gGTAUFVX3lxTE83VWNtclY5MEJIcmNkdndoN2J2a2ZiYndYRHdXenVDYk54VFI1N0J1dXlHZm5FalpjT3lOdmlkb19fRmNQZi14VU80ZUdJbk1ZcHYtenFfNkVvR2FiMmtfeUZDMDZtNmdfWlJ4Mnc4VkI3LVRPNlpUME9KZTdNSEIycjBRN3pTRXVjOTg2d0dmeDJlOA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-13-squeezed-by-eu-rules-and-threat-of-illegal-mining-cocoa-farm",
+      "date": "2026-08-13",
+      "category": "forest",
+      "title": "Squeezed by EU Rules and Threat of Illegal Mining, Cocoa Farmers in Ghana Face a Turning Point",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Squeezed by EU Rules and Threat of Illegal Mining, Cocoa Farmers in Ghana Face a Turning Point Earth.Org",
+      "metrics": {},
+      "source": {
+        "name": "Earth.Org",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjB3N0dCdU0xdTJnMEwzOHdyVi1WTld5X2FybzNjdk9MTlBndDM0SHhJQVZoSFpBckl2OWhqV2ZDaTFrN0RUdUdjSnZtaUpWQ3RldjlxallhRm8tdkxvTi1OYTBHNGNNLS1qUzYtcHpQYjFRcDNzV2NrZXhONGR1SjUtSk1hT2dOZlZwLWFiM1F5aVZMQlExMjh1OTVmQ1ZLb2R6QVo1VTBwckpIbEtEVG5R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjB3N0dCdU0xdTJnMEwzOHdyVi1WTld5X2FybzNjdk9MTlBndDM0SHhJQVZoSFpBckl2OWhqV2ZDaTFrN0RUdUdjSnZtaUpWQ3RldjlxallhRm8tdkxvTi1OYTBHNGNNLS1qUzYtcHpQYjFRcDNzV2NrZXhONGR1SjUtSk1hT2dOZlZwLWFiM1F5aVZMQlExMjh1OTVmQ1ZLb2R6QVo1VTBwckpIbEtEVG5R?oc=5",
       "via": "rss",
       "verified": false
     },
