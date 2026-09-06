@@ -1,13 +1,34 @@
 {
-  "updated": "2026-09-05T20:24:41.094Z",
+  "updated": "2026-09-06T04:40:58.286Z",
   "counts": {
-    "total": 678,
+    "total": 680,
     "verified": 28,
-    "automated": 650,
+    "automated": 652,
     "earliest": "2024-07-01",
-    "latest": "2026-09-05"
+    "latest": "2026-09-06"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-06-forestry-commission-nabs-12-illegal-miners-in-atewa-forest-r",
+      "date": "2026-09-06",
+      "category": "forest",
+      "title": "Forestry Commission nabs 12 illegal miners in Atewa Forest Reserve in dawn swoop",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Forestry Commission nabs 12 illegal miners in Atewa Forest Reserve in dawn swoop GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXZOdDNGNWVvT25ya0NVbGdhbjRTcHp0WEVnMlFqRS01bUlzbEd2RXVCT0VXeElfeU1WeWpIY2QwME1HVm0tRjZlZHRHa0RNcVZyd1BQbC1pTC1pb0VqNWg1REtDaWQ2bmVyVHdEM0R4QkdiWVlaZXR3TnZtem4tWlNIRWlhaTczS0NTSGlwWWlSd0JUTDV5MkdiM3hYWTVhbWNfenQ0WXdJVWIyaEdVQ283RUViYlVhSUVwRGlVaV85ZXNOMWdxSzFxZWxzWno3VG5TOWF3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXZOdDNGNWVvT25ya0NVbGdhbjRTcHp0WEVnMlFqRS01bUlzbEd2RXVCT0VXeElfeU1WeWpIY2QwME1HVm0tRjZlZHRHa0RNcVZyd1BQbC1pTC1pb0VqNWg1REtDaWQ2bmVyVHdEM0R4QkdiWVlaZXR3TnZtem4tWlNIRWlhaTczS0NTSGlwWWlSd0JUTDV5MkdiM3hYWTVhbWNfenQ0WXdJVWIyaEdVQ283RUViYlVhSUVwRGlVaV85ZXNOMWdxSzFxZWxzWno3VG5TOWF3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-06T04:35:30.869Z",
+      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+    },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
       "date": "2026-09-05",
@@ -48,6 +69,27 @@
       "verified": false,
       "archivedAt": "2026-09-05T20:18:48.252Z",
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew",
+      "date": "2026-09-05",
+      "category": "forest",
+      "title": "Forestry Commission taskforce arrests illegal miners in Atewa Forest Reserve",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "The joint covert operation was carried out at dawn on September 4, 2026, around the Sagyimase community, in Compartments 61 and 62 of the Atewa Forest Reserve in the Kyebi Forest District.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/forestry-commission"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/forestry-commission",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-06T04:36:04.715Z",
+      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
@@ -611,6 +653,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwNWVvdkdOZEU4UmFnTTY1RnNBRTh3cWdfbm5YRGQwcDRVUThkalltWk4wSFJZbVdPLVpzQ2UzeW9lOW5EWTNZdjZSbk0wYU1RS3NNdlk5MUI5RFplbVQ1OFhnY9IBXEFVX3lxTE5JelY4QVhYSmFtUGp3UklTRzVWSzlmeGFkZnoyRnBMMVBlcFBKdVN0Yy1BTnRqU2FFdmtkcVFVc1ZQY1h0S2VZTGpmLWRqQzlrTDZQZlZ3VTJIVGZv?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-06T04:40:52.049Z",
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
@@ -8485,15 +8528,15 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
+      "title": "Illegal mining threatens Ghana’s first marine protected area",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news.mongabay.com",
       "metrics": {},
       "source": {
-        "name": "Mongabay",
+        "name": "news.mongabay.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5",
