@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-06T04:40:58.286Z",
+  "updated": "2026-09-06T11:00:08.147Z",
   "counts": {
-    "total": 680,
+    "total": 682,
     "verified": 28,
-    "automated": 652,
+    "automated": 654,
     "earliest": "2024-07-01",
     "latest": "2026-09-06"
   },
@@ -90,6 +90,25 @@
       "verified": false,
       "archivedAt": "2026-09-06T04:36:04.715Z",
       "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+    },
+    {
+      "id": "auto-2026-09-05-ghana-s-galamsey-situation-is-crazy",
+      "date": "2026-09-05",
+      "category": "forest",
+      "title": "Ghana's Galamsey Situation Is Crazy",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana's Galamsey Situation Is Crazy YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VLWd4WXpWbFNfQUZsSmhmZ1hZbnpJb19Lc3plLW1NbnJrcXdBdzFaV1JfbVRpeG55Z0VORnVLRDJ3Zw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VLWd4WXpWbFNfQUZsSmhmZ1hZbnpJb19Lc3plLW1NbnJrcXdBdzFaV1JfbVRpeG55Z0VORnVLRDJ3Zw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
@@ -733,6 +752,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHVJbEF0bVI0RWVBNHRRYjc4RFByRksxLWVObzFOUjVDdzZnTjRXREpackNXYVdIcnFoQnlyTHFUNFkyYUNWVHRQTl9RUDFjYmc1dGsyeUh1alQ3V3FhdjhOZzZsaGdlSzdIUXpmMWltQWtVVkREZWw2S04wVGNtS2FGWVRnOUR2dTJHQ0JXcEZnRXRuS1RZM0oyMlgwb202X01qQzEtY0VPOWN5ODZZWTZFS1pKR3VnclVCemQxUkc?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-military-destroys-changfan-machine-on-densu-river-despite-as",
+      "date": "2026-09-04",
+      "category": "water",
+      "title": "Military destroys Changfan machine on Densu River despite Assembly’s approval claim",
+      "place": "Densu",
+      "region": "Eastern",
+      "lat": 5.85,
+      "lon": -0.35,
+      "summary": "Military destroys Changfan machine on Densu River despite Assembly’s approval claim GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2hEcGJpNzhlRFlkY0F6bFNBNWJTanlqRUx0T3Z4b1BDMHhFV3hIRnZHRVUwN2ZXUW5NQ0RqLXZ5WEFqSXNXdmJVYWZYUVBXQzZUVzBqVjQ5dmRzZUY2YlBSaG9RSURMeDZKazFRc3ZINGdRelZrWGZGT3YwTGhZVXlSbm82elpRWnBJd2ZaSjRkd0ZPRVdKWWN5YU1hYUhWb0hfbldTUm52X0dyanVYQWtBczNXOG9LVVo2UHQwUDN0LTNTdF9qY1Q2bFV4aGJwa2pXUENUaGV4Zw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2hEcGJpNzhlRFlkY0F6bFNBNWJTanlqRUx0T3Z4b1BDMHhFV3hIRnZHRVUwN2ZXUW5NQ0RqLXZ5WEFqSXNXdmJVYWZYUVBXQzZUVzBqVjQ5dmRzZUY2YlBSaG9RSURMeDZKazFRc3ZINGdRelZrWGZGT3YwTGhZVXlSbm82elpRWnBJd2ZaSjRkd0ZPRVdKWWN5YU1hYUhWb0hfbldTUm52X0dyanVYQWtBczNXOG9LVVo2UHQwUDN0LTNTdF9qY1Q2bFV4aGJwa2pXUENUaGV4Zw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
     },
     {
       "id": "auto-2026-09-03-goldbod-galamsey-supreme-court-caseload-bilson-darku-and-sop",
@@ -8528,15 +8567,15 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area",
+      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area news.mongabay.com",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
       "metrics": {},
       "source": {
-        "name": "news.mongabay.com",
+        "name": "Mongabay",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQc216aVVUNHgzUXNkSEhfM2cyell6TW9XTDQ3TW40R211ZTBrektQYVRaUjQ1VjB5dWpHcUZLNnFlZlpYWDI1WEdFQjhGQy1qVHlVb19UU0E0SERoSjcyRWtWemlqSXhFQzdndkFlc1FkUFdEZ1AxTnVDVU94TlMxZVN3VEFucGlDblI2ZGhGRnJYMG5IOHFWYUhR0gGfAUFVX3lxTFBIZGlpZkNiUmR2eExNM3RZSGpLbGN3Zmktd3FFOVJyZVJiUVB1R0xsQkQ0OHBtUk5ONkl4Y2xwOHJlUWtORlJ1WTZYazd6bzRkMmp1LXhmZFRjbko3NEZvU0t6am9tdEIzUjhvRFpGRW9jc0tkajRYOE0tZkpFQlZISWhYWDc0Vm56SmY5WkJJUkN0b1F4ZXRJX3hjZ2h0SQ?oc=5",
