@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-06T11:00:08.147Z",
+  "updated": "2026-09-06T15:32:58.047Z",
   "counts": {
-    "total": 682,
+    "total": 686,
     "verified": 28,
-    "automated": 654,
+    "automated": 658,
     "earliest": "2024-07-01",
     "latest": "2026-09-06"
   },
@@ -28,6 +28,69 @@
       "verified": false,
       "archivedAt": "2026-09-06T04:35:30.869Z",
       "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+    },
+    {
+      "id": "auto-2026-09-06-galamsey-forestry-commission-arrests-12-illegal-miners-in-at",
+      "date": "2026-09-06",
+      "category": "arrest",
+      "title": "Galamsey: Forestry Commission arrests 12 illegal miners in Atewa Forest",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Galamsey: Forestry Commission arrests 12 illegal miners in Atewa Forest CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPalU5M0NkbXdqM09ibjhqTUplaW1kZTFOMWpmVnJ3em5MOHJ0Q2NtajlRSGpJazJyOUhjdVJQWWp0VWdpNFNjZGZtdW9jVFlKVDZaM1gwNXlqMV9UVUhSaUtBbXhiNEczanV4bVc0aVd2QmNFR2VIYWFkMjBSUlB2QnZSanM3WGNWNkdHeVlQOVlwX0lYVGRKTll2MkpGSW5naTFkUEtwTEQ2amQx?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxPalU5M0NkbXdqM09ibjhqTUplaW1kZTFOMWpmVnJ3em5MOHJ0Q2NtajlRSGpJazJyOUhjdVJQWWp0VWdpNFNjZGZtdW9jVFlKVDZaM1gwNXlqMV9UVUhSaUtBbXhiNEczanV4bVc0aVd2QmNFR2VIYWFkMjBSUlB2QnZSanM3WGNWNkdHeVlQOVlwX0lYVGRKTll2MkpGSW5naTFkUEtwTEQ2amQx?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-06T15:26:43.144Z",
+      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+    },
+    {
+      "id": "auto-2026-09-06-bawumia-plans-mineral-mapping-and-funding-to-tackle-galamsey",
+      "date": "2026-09-06",
+      "category": "forest",
+      "title": "Bawumia Plans Mineral Mapping and Funding to Tackle Galamsey — Miracles Aboagye",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Bawumia Plans Mineral Mapping and Funding to Tackle Galamsey — Miracles Aboagye Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52LVRMZWYwd1NtcHhNcFpvbVRJRThMNndHQ0pZbnkxWEUwX2RUaUJMZ09EZDBvUjAzNGxQM2FMVmgwdHJ3SEs0RXV6N3JEdlRPc3ByVEdzWFFwZTdQbDlPMFQ2TdIBXEFVX3lxTFBOTF9fNEJZeHZZWEs0eDFuTlIyUmt0ZkJ5Y24wWmJ5ZnRrRjBzM0ZScG9FYmNZTVZvZ00zeEZwUmpjTmFMWjczcGtTOTRRRTNWeVYxeE5pTHR2YU5z?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE52LVRMZWYwd1NtcHhNcFpvbVRJRThMNndHQ0pZbnkxWEUwX2RUaUJMZ09EZDBvUjAzNGxQM2FMVmgwdHJ3SEs0RXV6N3JEdlRPc3ByVEdzWFFwZTdQbDlPMFQ2TdIBXEFVX3lxTFBOTF9fNEJZeHZZWEs0eDFuTlIyUmt0ZkJ5Y24wWmJ5ZnRrRjBzM0ZScG9FYmNZTVZvZ00zeEZwUmpjTmFMWjczcGtTOTRRRTNWeVYxeE5pTHR2YU5z?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-06T15:27:07.725Z",
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
+    },
+    {
+      "id": "auto-2026-09-06-ghana-needs-21bn-to-restore-lands-damaged-by-illegal-mining-",
+      "date": "2026-09-06",
+      "category": "reclamation",
+      "title": "Ghana needs $21bn to restore lands damaged by illegal mining – Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana needs $21bn to restore lands damaged by illegal mining – Frimpong-Boateng MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2p2T0UzNWE1Y01DcW0yZ2ZwX3lGVDlMdjMyM0lLc0VTWVdmZDFQa1dXZ3RVcmpHOEZvYnVpNld5V3F0WTlwQTl4Y1J6UWFBa0p3VzNtOWJVWGxycnpPMndkQU5HbUl2ZWRtZk80WklxclRfd3FVeW04cFVjekk0VFM2ajZILXJXTjFmSG42X3hna3htUElsa0NqN082eHI1SHdQajRoYUo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2p2T0UzNWE1Y01DcW0yZ2ZwX3lGVDlMdjMyM0lLc0VTWVdmZDFQa1dXZ3RVcmpHOEZvYnVpNld5V3F0WTlwQTl4Y1J6UWFBa0p3VzNtOWJVWGxycnpPMndkQU5HbUl2ZWRtZk80WklxclRfd3FVeW04cFVjekk0VFM2ajZILXJXTjFmSG42X3hna3htUElsa0NqN082eHI1SHdQajRoYUo?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-06T15:27:32.578Z",
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -108,7 +171,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VLWd4WXpWbFNfQUZsSmhmZ1hZbnpJb19Lc3plLW1NbnJrcXdBdzFaV1JfbVRpeG55Z0VORnVLRDJ3Zw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-06T15:27:58.055Z"
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
@@ -652,7 +716,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxHMTNWNXRNREpHZFBsbHpmdExudjJZdkRlZlZ1UEF2X0tPV29QUFh2WGRRTXY2NW9iRTRwc2FqYUpaS2dyNzY4UFZtdWlCRUY5OHA4VTgwN2stYmxvdFZJWWRMNnhIVTlIRkNuenRKcEx5Y0hSR3RxWG83Vi10OVlETldhbHNCSm9qRXk1VDluaUkyX2xBTDJEZi1Zamo3Y3VOOVI0X0t5dV9UOHM3WQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
       "id": "auto-2026-09-04-christian-council-urges-mahama-ayariga-to-intensify-galamsey",
@@ -1047,6 +1112,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-03-16-armed-thugs-arrested-after-fierce-clash-over-illegal-mini"
+    },
+    {
+      "id": "auto-2026-09-03-galamsey-fight-collapsed-after-safeguards-introduced-in-2018",
+      "date": "2026-09-03",
+      "category": "arrest",
+      "title": "Galamsey fight collapsed after safeguards introduced in 2018 were abandoned – Prof Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight collapsed after safeguards introduced in 2018 were abandoned – Prof Frimpong-Boateng MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEJXZG1vTVZsdktvLVhLdi1MN1J3bjBLcWx0bXZjNEpOd190bUxRakp3aWduUm1YOGE1eTdkX1ZoZTloUnRxT3h4aG1zT3lZR1ZrbjBRVVpBdy1hVlRxcTRnSDNqWnJ3S3kxbHhrdEZreWxkZ0NiVnhxNnFjdWRhdDZOYm1yVXNvcDhBNWstQW56RGhGNS1CanpOVlNFZTlfb1JmdnJzaGFwZTZxRmVTbXZOZUhNVE40Y0JZMVduOEZpcHlB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEJXZG1vTVZsdktvLVhLdi1MN1J3bjBLcWx0bXZjNEpOd190bUxRakp3aWduUm1YOGE1eTdkX1ZoZTloUnRxT3h4aG1zT3lZR1ZrbjBRVVpBdy1hVlRxcTRnSDNqWnJ3S3kxbHhrdEZreWxkZ0NiVnhxNnFjdWRhdDZOYm1yVXNvcDhBNWstQW56RGhGNS1CanpOVlNFZTlfb1JmdnJzaGFwZTZxRmVTbXZOZUhNVE40Y0JZMVduOEZpcHlB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
