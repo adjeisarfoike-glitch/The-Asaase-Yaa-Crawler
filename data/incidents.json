@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-06T20:29:51.860Z",
+  "updated": "2026-09-07T04:42:37.378Z",
   "counts": {
-    "total": 688,
+    "total": 693,
     "verified": 28,
-    "automated": 660,
+    "automated": 665,
     "earliest": "2024-07-01",
     "latest": "2026-09-06"
   },
@@ -113,6 +113,66 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+    },
+    {
+      "id": "auto-2026-09-06-illegal-mining-concessions-easier-to-obtain-than-lawful-ones",
+      "date": "2026-09-06",
+      "category": "forest",
+      "title": "Illegal mining concessions easier to obtain than lawful ones in Ghana – Prof Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining concessions easier to obtain than lawful ones in Ghana – Prof Frimpong-Boateng MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTC1KUjVSN3dSaVFBbXdYWWk2TGpFS2NVc2R3Mm9xYW1ldlVqR0YxeXdyQWhVQnRrRGM3T2FCTk5wYWM0VWtXWUotSzdlMUY5aTZuN3VIMWNieE1GeDA5Mjd6V1JXMEVGbC1xdk9vLXJoR242NGR0SVhtQVZaVkpHUDI0Ti1zb18xeG85cXBwT0pZNE51QVB0T2N5eTRGZHBqbzNSbWlRTE9hS1RFd2NNVjhhV3puNHFtQkpYRw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxPTC1KUjVSN3dSaVFBbXdYWWk2TGpFS2NVc2R3Mm9xYW1ldlVqR0YxeXdyQWhVQnRrRGM3T2FCTk5wYWM0VWtXWUotSzdlMUY5aTZuN3VIMWNieE1GeDA5Mjd6V1JXMEVGbC1xdk9vLXJoR242NGR0SVhtQVZaVkpHUDI0Ti1zb18xeG85cXBwT0pZNE51QVB0T2N5eTRGZHBqbzNSbWlRTE9hS1RFd2NNVjhhV3puNHFtQkpYRw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-09-06-no-illegal-mining-operation-will-find-refuge-on-akyem-essase",
+      "date": "2026-09-06",
+      "category": "forest",
+      "title": "No illegal mining operation will find refuge on Akyem Essase lands — Chief declares",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief of Akyem Essase (Apaapam), Baffour K.S. Sikabede, has declared that no illegal mining operation will be allowed to operate within his traditional area under his leadership.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/no-illegal-mining-operation-will-find-refuge-on-akyem-essase-lands-chief-declares/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/no-illegal-mining-operation-will-find-refuge-on-akyem-essase-lands-chief-declares/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-06-no-illegal-mining-operation-will-find-refuge-on-akyem-essase"
+    },
+    {
+      "id": "auto-2026-09-06-galamsey-chiefs-must-not-trade-rivers-for-mining-royalties-b",
+      "date": "2026-09-06",
+      "category": "water",
+      "title": "Galamsey: Chiefs must not trade rivers for mining royalties – Baffour Sikabede",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief of Akyem Essase (Apaapam), Baffour K.S. Sikabede, has urged traditional leaders to resist financial inducements and reject mining activities that threaten rivers, forests and the future of their communities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-chiefs-must-not-trade-rivers-for-mining-royalties-baffour-sikabede/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-chiefs-must-not-trade-rivers-for-mining-royalties-baffour-sikabede/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-06-no-illegal-mining-operation-will-find-refuge-on-akyem-essase"
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -496,7 +556,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGkwMUtVTU54VmNWclZaeEI2RU9BT0hWaDFaTTFXWUotZXNNSWRwRmQ2QURhaWU4N25FZGJ0bVpyMUFFTXpoMXZ4a1hkNE1jWnpETkRsSHY1YmFURzNBVE5qTDF0UXpTcUhOazMyNWNER29peFVMMzlrSS1SOGN1R2liZW92b1g3NnBGdm1kZXlLdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-07T04:40:23.466Z"
     },
     {
       "id": "auto-2026-09-04-christian-council-urges-ayariga-to-step-up-fight-against-gal",
@@ -2449,6 +2510,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-29-ghana-zanetor-agyeman-rawlings-tasked-with-galamsey-leadersh",
+      "date": "2026-08-29",
+      "category": "forest",
+      "title": "Ghana: Zanetor Agyeman-Rawlings Tasked With Galamsey Leadership",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: Zanetor Agyeman-Rawlings Tasked With Galamsey Leadership Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGljSjZYdW42alJ6SGI0bUtGbHRBUUMwN256Sk9GUUNXWkRqUzEzZ1duRFZpOWJydnduU2Q3UGVrcEZsdHJyUHhFNVZXLVJYMXA4UGRfU1QtdU5qWlFjclhrLVZnZkVncTZtRTJ0MEJ2My1Ja1FmdXM2ZTJ1MlpWR0dCMmNJbFlqMEd5SDhETmxLTEVJMnYyRzB5aTJaYWZYaWp5eVo1bTM2eU1tdDVoTV8wbWZ5bGxPZWtiWGpuMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGljSjZYdW42alJ6SGI0bUtGbHRBUUMwN256Sk9GUUNXWkRqUzEzZ1duRFZpOWJydnduU2Q3UGVrcEZsdHJyUHhFNVZXLVJYMXA4UGRfU1QtdU5qWlFjclhrLVZnZkVncTZtRTJ0MEJ2My1Ja1FmdXM2ZTJ1MlpWR0dCMmNJbFlqMEd5SDhETmxLTEVJMnYyRzB5aTJaYWZYaWp5eVo1bTM2eU1tdDVoTV8wbWZ5bGxPZWtiWGpuMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
       "date": "2026-08-28",
       "category": "policy",
@@ -2827,6 +2907,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+    },
+    {
+      "id": "auto-2026-08-28-betterland-denies-illegal-mining-in-draw-river-forest-reserv",
+      "date": "2026-08-28",
+      "category": "water",
+      "title": "Betterland denies illegal mining in Draw River Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Betterland denies illegal mining in Draw River Forest Reserve Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjhidUxqSDRRQTRjVm9YMTFFMUZkLW42UEdteDdRZ3RtSEhYVmdfaHVncTJIUjZwd1c4QlZRakx6SUc0bEowVHZXTzREZ0tIekpaZmN2RWxEX3BKRmhrS0xKeTdKRnR3dHZHSlNUMkphZjRyU2pSbDBORlFQR3ZhSy1pRGk5eWFaampxbmd4TVU5Wi1ZSmc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPZjhidUxqSDRRQTRjVm9YMTFFMUZkLW42UEdteDdRZ3RtSEhYVmdfaHVncTJIUjZwd1c4QlZRakx6SUc0bEowVHZXTzREZ0tIekpaZmN2RWxEX3BKRmhrS0xKeTdKRnR3dHZHSlNUMkphZjRyU2pSbDBORlFQR3ZhSy1pRGk5eWFaampxbmd4TVU5Wi1ZSmc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-are-not-mining-in-draw-river-forest-reserve-betterland-gh"
     },
     {
       "id": "auto-2026-08-27-mfanteman-pokukrom-others-turn-to-bottled-water-amid-galamse",
@@ -8302,7 +8402,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNSEVYQkE5TEVkUVNEdDRRRElTcXhqTzZhWEdjdHVhRmpHakpWeDFnLUFaVUhOR3UwMDBURE9Sbi1BLXhnWncydXdsT210OW1xY0MtTnNHNXNqX2pqOThBQ0p0T21SVHNtR0RwRXYySHRuODdqX25xWV90MHhvZHdzcmxDZS1ZdTJFVV9PRE90ZXpXRmc4cEJhaW9ZS2lpOFdoLWc?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-13T13:46:23.277Z"
+      "archivedAt": "2026-08-13T13:46:23.277Z",
+      "thread": "t-auto-2026-08-13-we-are-not-mining-in-draw-river-forest-reserve-betterland-gh"
     },
     {
       "id": "auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi",
