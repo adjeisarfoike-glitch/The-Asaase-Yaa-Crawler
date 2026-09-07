@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-07T12:34:16.264Z",
+  "updated": "2026-09-07T21:35:34.508Z",
   "counts": {
-    "total": 705,
+    "total": 716,
     "verified": 28,
-    "automated": 677,
+    "automated": 688,
     "earliest": "2024-07-01",
     "latest": "2026-09-07"
   },
@@ -46,7 +46,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUw3ZERoMldVdVotVXRHM0xpdldFRXRmXzJjeU9OX0lQMFpaMUk5VmU4ZlVfMWl3b2JTR1JHOTNDX0UxVHM2akw5aXdJTzhMY21uNmV5SWtyem82dnJfSEZTUm9BbVd0SVRrRXU2dDFtVWg3NndlUzM2eF8yUF9ZT1F2VTFqYXVodDVKMmhpLTY3RzNZWGpwQi1ud3NYV0ZZNXlDYWQ2VGowSFM4MF94QUd3Tk43SFk5TEY5eDVCVjdhNjlZS0JZ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-07T21:29:36.202Z"
     },
     {
       "id": "auto-2026-09-07-galamsey-accounts-for-25-of-fibre-cuts-across-ghana-sam-geor",
@@ -85,7 +86,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlQ5dm9nc1EzdmEzR3JocS1DbUE1NmUyV0lBd0hNVHZyUkdLUnRTM1VjUEIwN01RZTU5b190MWxZR1pjdFRYQUpnRnNaRWZxSEh1QlRKMlVPNFpENG1KQk05bHpEMHJSVUk2SThIdW5fRVE0aVN2Nzd5dUZwWmVsTmUycW1rTmpoTXhyVktzMTd3b1R5OEI1TlhIajFDblBZcTdTWGhR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-07T21:30:01.949Z"
     },
     {
       "id": "auto-2026-09-07-gideon-boako-donates-84-spraying-machines-to-tano-north-coco",
@@ -124,7 +126,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDk3NlJYOU42RGFoRXE1WjZ3UXIzbWhGYUJSaDRVUFQwTE1lSHJEUWl6bUs2TUo5WU10ZVlvZms3cTFuT3AzREl6ZFhfSUlnVzZUX3dpcmp3N1o4SmNURFlXSGRFbWhsVE9nRktsS2ZaaERwMEZpZi1XdEd0Z2dLai14VXZaaGxuX1NpVTRSZjF0dGZPZzZZUEMtRUZVQnh0ckZxcUJ4VWQ0dFgyUzZLMndDVWY?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+      "archivedAt": "2026-09-07T21:31:17.786Z"
     },
     {
       "id": "auto-2026-09-07-ahafo-clergy-call-for-stronger-action-against-galamsey-and-t",
@@ -167,6 +169,161 @@
       "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
     },
     {
+      "id": "auto-2026-09-07-52-year-old-anti-galamsey-campaigner-found-dead-in-suspected",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "52-year-old anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "52-year-old anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekxGNEVRSTlZZ1dIVXRtVGtQQkxmUnBIdHg5NVl6S3hYNVA2WGZmVzQ1TXJnTXUtV0c2OE1MMjJoOXpBUHJMU0xRUVpQWXJpRGk0S2hKakVnVXFPSmF1czVnMFMyZkl1clFWam1LY2ZleVJkVWFPTGtyTmpPR0E4c2FPOUJhTk5kM2lEUjZEMWwyOU81RkF5ZU8wQUVLV3AtSUVtQ3JBREQ0c0xYeVhDVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNekxGNEVRSTlZZ1dIVXRtVGtQQkxmUnBIdHg5NVl6S3hYNVA2WGZmVzQ1TXJnTXUtV0c2OE1MMjJoOXpBUHJMU0xRUVpQWXJpRGk0S2hKakVnVXFPSmF1czVnMFMyZkl1clFWam1LY2ZleVJkVWFPTGtyTmpPR0E4c2FPOUJhTk5kM2lEUjZEMWwyOU81RkF5ZU8wQUVLV3AtSUVtQ3JBREQ0c0xYeVhDVQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-09-07-the-telecom-industry-is-one-of-the-worst-hit-sam-george-on-g",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "\"The telecom industry is one of the worst hit” – Sam George on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"The telecom industry is one of the worst hit” – Sam George on galamsey Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1I3ODJTaDhVSnpRTUxKalQxZXVsdzZSZ3FESElHa0lseExBc2RVdndLMWZPYVJuWWVpX0lyb1pnRFRWblpRXzh2Nng0Wl82VldCWUFKcnNPcXdGV3YxM1V2ZXZXX1ZPMllSekpYOW9sSkppZVFIdkgzbFVqQ2RjOHdGMGZzS3dGYkx5cTUtMzFkeTl6QV9jNlcyaw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQV1I3ODJTaDhVSnpRTUxKalQxZXVsdzZSZ3FESElHa0lseExBc2RVdndLMWZPYVJuWWVpX0lyb1pnRFRWblpRXzh2Nng0Wl82VldCWUFKcnNPcXdGV3YxM1V2ZXZXX1ZPMllSekpYOW9sSkppZVFIdkgzbFVqQ2RjOHdGMGZzS3dGYkx5cTUtMzFkeTl6QV9jNlcyaw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-07-nobody-can-fight-galamsey-in-this-country-dr-anane-gyinde",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "Nobody can fight galamsey in this country – Dr Anane-Gyinde",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nobody can fight galamsey in this country – Dr Anane-Gyinde GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0R2pTd0JwLVRTQlhBVWtuUkVPdlVtbVZUN2huVWEyRUdZTUU1SFktOXk0NDhNTElCQjltZ1R1a3AyOVBIYnE5V1lxTU85T3JaQzlOdmlhTWUzY3JnYVRZenRJVzNyU19fcmZpQVdkRVF3S0RCdmNhbFBn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiekFVX3lxTFA0R2pTd0JwLVRTQlhBVWtuUkVPdlVtbVZUN2huVWEyRUdZTUU1SFktOXk0NDhNTElCQjltZ1R1a3AyOVBIYnE5V1lxTU85T3JaQzlOdmlhTWUzY3JnYVRZenRJVzNyU19fcmZpQVdkRVF3S0RCdmNhbFBn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-07-illegal-mining-accounts-for-25-of-ghana-s-fibre-cuts-sam-geo",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "Illegal mining accounts for 25% of Ghana’s fibre cuts— Sam George",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining accounts for 25% of Ghana’s fibre cuts— Sam George Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFB1OGdEazlZWHIwUHBvZGVqV2RPb3Bid0xwc0E4Q3FRYno1VHNteHpLZlluZmo0S1p6UExUV1NWcmRaMjNrdDFfNlI5Y2RnZXdUWWxNM25rcmsyQ3FsaUN1WUlRMkFhazRIeTd4S2F1QWdkel9GSTR6NnJaOUdiTGkzRHk0UXEwQjJ5Tk5NMWZseWptWG5J0gGWAUFVX3lxTE5HOVZPT3M4ZTVNZE1lSF9fQ0s5UHh4REZTbE5PQlFOcGNmdkRMMjFVQWNHeW8tX3hWRkIyU1lXNVpLUDYzb1h1cXdSWFhTUU55Wk4xcnVURXJId1BfY0g2M3RqanRBSzN6Uy1KaGVBQjI4ZThCOG5haFU3c1hMdUtRZUV1VE1PYVhjaGYxaEY1cnRlSXhaQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNeFB1OGdEazlZWHIwUHBvZGVqV2RPb3Bid0xwc0E4Q3FRYno1VHNteHpLZlluZmo0S1p6UExUV1NWcmRaMjNrdDFfNlI5Y2RnZXdUWWxNM25rcmsyQ3FsaUN1WUlRMkFhazRIeTd4S2F1QWdkel9GSTR6NnJaOUdiTGkzRHk0UXEwQjJ5Tk5NMWZseWptWG5J0gGWAUFVX3lxTE5HOVZPT3M4ZTVNZE1lSF9fQ0s5UHh4REZTbE5PQlFOcGNmdkRMMjFVQWNHeW8tX3hWRkIyU1lXNVpLUDYzb1h1cXdSWFhTUU55Wk4xcnVURXJId1BfY0g2M3RqanRBSzN6Uy1KaGVBQjI4ZThCOG5haFU3c1hMdUtRZUV1VE1PYVhjaGYxaEY1cnRlSXhaQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-07-anti-galamsey-campaigner-found-dead-in-suspected-suicide-at-",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "Anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3BBQ282Z2NlNV80LXVjN0VtcFhtaDlkanNxeWVwUzJLX1dQTnRYRldkbWNDS1dhWnpkYXhIdHk3YUl3ZWlTN0hzQ09renhYak5UVDdFT1czSU43dGVTZ3lQajM3RVRVZUhiLS05emEzT01TeGFpNVkwbXFmSXV3Ulc5bE5GelpfSF9JbWtCS2NYT1dVUFIxVNIBmAFBVV95cUxOR3BBQ282Z2NlNV80LXVjN0VtcFhtaDlkanNxeWVwUzJLX1dQTnRYRldkbWNDS1dhWnpkYXhIdHk3YUl3ZWlTN0hzQ09renhYak5UVDdFT1czSU43dGVTZ3lQajM3RVRVZUhiLS05emEzT01TeGFpNVkwbXFmSXV3Ulc5bE5GelpfSF9JbWtCS2NYT1dVUFIxVA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOR3BBQ282Z2NlNV80LXVjN0VtcFhtaDlkanNxeWVwUzJLX1dQTnRYRldkbWNDS1dhWnpkYXhIdHk3YUl3ZWlTN0hzQ09renhYak5UVDdFT1czSU43dGVTZ3lQajM3RVRVZUhiLS05emEzT01TeGFpNVkwbXFmSXV3Ulc5bE5GelpfSF9JbWtCS2NYT1dVUFIxVNIBmAFBVV95cUxOR3BBQ282Z2NlNV80LXVjN0VtcFhtaDlkanNxeWVwUzJLX1dQTnRYRldkbWNDS1dhWnpkYXhIdHk3YUl3ZWlTN0hzQ09renhYak5UVDdFT1czSU43dGVTZ3lQajM3RVRVZUhiLS05emEzT01TeGFpNVkwbXFmSXV3Ulc5bE5GelpfSF9JbWtCS2NYT1dVUFIxVA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-09-07-forestry-commission-arrests-12-illegal-miners-in-atewa-fores",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "Forestry Commission arrests 12 illegal miners in Atewa Forest Reserve",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Forestry Commission arrests 12 illegal miners in Atewa Forest Reserve Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWkF3NzUxc1lNTTFSSVMwaE9rb1BzOWJVSVE2bGszRWp5NzMwcDdqa3VUVXk1UmZtU3E2NmI2d0xxeVI1eG5VcXFCNjNRbHZGT0Y1ZnRhQm1oNGcyV0JCU2VlWXNNWG5aUDh0cGdLNXdFV09PU3NLRnZjM1d4SmFaUVZDZy15V3pCYkgtYlRJZkdoYnRUa05WeGEwLW0zdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPWkF3NzUxc1lNTTFSSVMwaE9rb1BzOWJVSVE2bGszRWp5NzMwcDdqa3VUVXk1UmZtU3E2NmI2d0xxeVI1eG5VcXFCNjNRbHZGT0Y1ZnRhQm1oNGcyV0JCU2VlWXNNWG5aUDh0cGdLNXdFV09PU3NLRnZjM1d4SmFaUVZDZy15V3pCYkgtYlRJZkdoYnRUa05WeGEwLW0zdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-07-spiritualist-and-advocate-against-illegal-mining-found-dead-",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "Spiritualist and advocate against illegal mining found dead at Assin Amoabeng near Nyankumasi Ahenkro",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "Residents of Assin Amoabeng, a community near Nyankumase Ahenkro in the Assin South District of the Central Region, woke up on Monday to discover that a 52-year-old spiritualist and farmer, commonly referred to as Alhaji Nagode, was dead under circumstances suspected to be suicide. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/spiritualist-and-advocate-against-illegal-mining-found-dead-at-assin-amoabeng-near-nyankumasi-ahenkro.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/spiritualist-and-advocate-against-illegal-mining-found-dead-at-assin-amoabeng-near-nyankumasi-ahenkro.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+    },
+    {
+      "id": "auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages",
+      "date": "2026-09-07",
+      "category": "policy",
+      "title": "NCA to compensate subscribers over network outages",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The National Communications Authority (NCA) is to introduce a compensation scheme for mobile phone and broadband subscribers who lose service because of network faults beyond their control. The Minister of Communication, Digital Technology and Innovations, Samuel Nartey George, announced the plan at a press briefing in Accra in Monday (September 7, 2026). He said the scheme would provide relief to subscribers who los",
+      "metrics": {},
+      "source": {
+        "name": "Sam George",
+        "url": "https://www.graphic.com.gh/news/general-news/nca-to-compensate-subscribers-over-network-outages-before-year-end.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/nca-to-compensate-subscribers-over-network-outages-before-year-end.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-09-06-forestry-commission-nabs-12-illegal-miners-in-atewa-forest-r",
       "date": "2026-09-06",
       "category": "forest",
@@ -184,8 +341,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZXZOdDNGNWVvT25ya0NVbGdhbjRTcHp0WEVnMlFqRS01bUlzbEd2RXVCT0VXeElfeU1WeWpIY2QwME1HVm0tRjZlZHRHa0RNcVZyd1BQbC1pTC1pb0VqNWg1REtDaWQ2bmVyVHdEM0R4QkdiWVlaZXR3TnZtem4tWlNIRWlhaTczS0NTSGlwWWlSd0JUTDV5MkdiM3hYWTVhbWNfenQ0WXdJVWIyaEdVQ283RUViYlVhSUVwRGlVaV85ZXNOMWdxSzFxZWxzWno3VG5TOWF3?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-06T04:35:30.869Z",
-      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+      "archivedAt": "2026-09-06T04:35:30.869Z"
     },
     {
       "id": "auto-2026-09-06-galamsey-forestry-commission-arrests-12-illegal-miners-in-at",
@@ -205,8 +361,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxPalU5M0NkbXdqM09ibjhqTUplaW1kZTFOMWpmVnJ3em5MOHJ0Q2NtajlRSGpJazJyOUhjdVJQWWp0VWdpNFNjZGZtdW9jVFlKVDZaM1gwNXlqMV9UVUhSaUtBbXhiNEczanV4bVc0aVd2QmNFR2VIYWFkMjBSUlB2QnZSanM3WGNWNkdHeVlQOVlwX0lYVGRKTll2MkpGSW5naTFkUEtwTEQ2amQx?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-06T15:26:43.144Z",
-      "thread": "t-auto-2026-09-05-forestry-commission-taskforce-arrests-illegal-miners-in-atew"
+      "archivedAt": "2026-09-06T15:26:43.144Z"
     },
     {
       "id": "auto-2026-09-06-bawumia-plans-mineral-mapping-and-funding-to-tackle-galamsey",
@@ -368,7 +523,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVVPNlRkQlJlWWItRVo5bVEyNUo5UzZoTTNLWFZzQkZsZm1adklpNDBtU2NRd2lVd0hlNm1ERkxQLXF2U095cW9Ra3VIanVNcjMzb1JVTmpFcDdDREVlMWVBdUN4RG1CM1RiQW9OVG5NVUpwWHJyUzJRQ2JFSnJiMDRBZ0pMX0Z2VndIVndCR29HOHA4TlhoSmVOOHhNelotR2pCVG52LVFaY0JuR1hrWmY1elAxejJrZk1vb2Uxb3kxUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-06-baffour-sikabede-ghana-galamsey-chiefs-must-protect-environm",
@@ -411,6 +567,46 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+    },
+    {
+      "id": "auto-2026-09-06-frimpong-boateng-ghana-galamsey-political-cost-undermines-en",
+      "date": "2026-09-06",
+      "category": "policy",
+      "title": "Frimpong-Boateng: Ghana Galamsey Political Cost Undermines Enforcement",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong-Boateng: Ghana Galamsey Political Cost Undermines Enforcement Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDB0cy1uemNYUjNHc1QwaG55cFJDMmd4cGExV2pSYmVtY2NJY25aNUc1VEFJQXd0U3NmaHF5YXpzQ2lySTJXR3daUUZQRzJyV0NrVDVxa3NNb01WekVFei1jWGE4M25DM1FQY0ZPN0QtZlpKZFpqXzJuR3NpMjR3c2lnZGZkejBsZm9pS0M1aGs0NlZTZGNWNmtOLTQ5S2lCcndkNUdBZVZlbGc0M25nZHBXOGVfUlp3ZlNvVjVuX1FWU2RpcWZNUHBR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDB0cy1uemNYUjNHc1QwaG55cFJDMmd4cGExV2pSYmVtY2NJY25aNUc1VEFJQXd0U3NmaHF5YXpzQ2lySTJXR3daUUZQRzJyV0NrVDVxa3NNb01WekVFei1jWGE4M25DM1FQY0ZPN0QtZlpKZFpqXzJuR3NpMjR3c2lnZGZkejBsZm9pS0M1aGs0NlZTZGNWNmtOLTQ5S2lCcndkNUdBZVZlbGc0M25nZHBXOGVfUlp3ZlNvVjVuX1FWU2RpcWZNUHBR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
+    },
+    {
+      "id": "auto-2026-09-06-frimpong-boateng-ghana-illegal-mining-concessions-easier-tha",
+      "date": "2026-09-06",
+      "category": "forest",
+      "title": "Frimpong-Boateng: Ghana Illegal Mining Concessions Easier Than Legal Path",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong-Boateng: Ghana Illegal Mining Concessions Easier Than Legal Path Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjV6Z2FIa3NnUmVObnVIYTVYeGNWb25EYzJ6eTRqMzNRN2FIQy01X0VRNHY3emp6YjJnaDc1MjZtbDczdnZrRTd0VnJFcXJDV1pJeEVRWk1VQXd6OVVJUlh3eDVxTU1HdE9RblhodnU2bDluU3V2WnYxV1o3MHlMTGlUYXRFSmV0RU9zbDFIelBkVW1scFVUdmMwRV9GNmp3TWpja2xFZHlkSUREbVhtMXBQbVlDZFpGQ1ZScHRLeldxRHhOWktn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjV6Z2FIa3NnUmVObnVIYTVYeGNWb25EYzJ6eTRqMzNRN2FIQy01X0VRNHY3emp6YjJnaDc1MjZtbDczdnZrRTd0VnJFcXJDV1pJeEVRWk1VQXd6OVVJUlh3eDVxTU1HdE9RblhodnU2bDluU3V2WnYxV1o3MHlMTGlUYXRFSmV0RU9zbDFIelBkVW1scFVUdmMwRV9GNmp3TWpja2xFZHlkSUREbVhtMXBQbVlDZFpGQ1ZScHRLeldxRHhOWktn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -835,8 +1031,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUZBWnl4NUp6bzIxSXlXOEVTZEdtTXNiTm03Z2R3VHJ1QWdNLWxsaXZORUs5OFQ3Q2l5VkxqU3ZYSHN6cV9Mcmt1ZG00U21rVk5waldFRUIzcUFyLVU4UXBKVk1odXY2TWZOZnYwWW00RWZNZ3c2dkR5UnV1aEhWWXZ6b3NnbDMxU1d1TzZFcTdxdXNkcG1KdEE3WQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "verified": false
     },
     {
       "id": "auto-2026-09-04-adom-trotro-changfan-machines-on-weija-lake-for-dredging-not",
@@ -3680,7 +3875,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-justice-must-guide-africas-energy-transition-former-lands-minister.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
+      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
     },
     {
       "id": "auto-2026-08-26-stay-away-from-galamsey-areas-ghaftram-advises-members",
@@ -4000,6 +4195,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-08-26-ghie-ghana-galamsey-fight-strategy-review-urged-for-clear-re",
+      "date": "2026-08-26",
+      "category": "forest",
+      "title": "GhIE Ghana: Galamsey Fight Strategy Review Urged For Clear Results",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GhIE Ghana: Galamsey Fight Strategy Review Urged For Clear Results Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVl3NGdtSkhHQmlRNnhUTV92ZzByZTNiTFhKTGVnaWx6aUl5ajRTd214MjFrSmN0TUt4TzZsR3JoSHhNdlk2QUxUbzE5NTR3X3F2bTFrZnBDOUZTemVDMUh5RXFrSWJSWEY3cWdyLVdKNm5QYnNrZW43bVBnS3dOZWJrN2ZwU1BLTzNYZUx0M0FyX2ZtaktEVDdQd2hlWjlCV3ZxOFNURFF6YzZGQjF5N0tLekFab3cxbTZj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVl3NGdtSkhHQmlRNnhUTV92ZzByZTNiTFhKTGVnaWx6aUl5ajRTd214MjFrSmN0TUt4TzZsR3JoSHhNdlk2QUxUbzE5NTR3X3F2bTFrZnBDOUZTemVDMUh5RXFrSWJSWEY3cWdyLVdKNm5QYnNrZW43bVBnS3dOZWJrN2ZwU1BLTzNYZUx0M0FyX2ZtaktEVDdQd2hlWjlCV3ZxOFNURFF6YzZGQjF5N0tLekFab3cxbTZj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+    },
+    {
       "id": "auto-2026-08-25-ashanti-region-23-killed-in-abandoned-galamsey-pits-in-2026",
       "date": "2026-08-25",
       "category": "arrest",
@@ -4100,8 +4315,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
+      "verified": false
     },
     {
       "id": "auto-2026-08-25-ghana-must-reclaim-the-values-that-kept-our-communities-clea",
@@ -5148,7 +5362,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3BYdGo4Q05hOTlUV3l6WTc1TDBCaXM3aEFJNlpHczFvUzNvaVR6TXpKeEJWX3Uyb1d3ZGtsN21NQV9uUWVtX1hRSG9GMVUwR3dqSXhqeFAwYkRnOVRvTEVlZU1VczEtb1NMSUc1aHBRWTlKSlk4RDd4Snl5ZkVaNjlheVhkZ1VtRjhDSy1wQ3pQMkVYY1k3S3lETjIxVnlKRUo3TnFEWTcyVlhGbWc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
@@ -9034,8 +9249,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo0eTZFb2h0OVVETE41TG93RG9HYUlXZWZCd2NvZE93ZEV4WWpGcTRSdzFDZURGajU0dEtxQmgxT04tclVLMm1QUW9lNW1VUUI3bWtXZXg3bW4wU01EVHhkLWdFQjdDM040MEoyLTVJbTZEZWxGMktyOGV2YzAzcTY4YkhKMmkyZzhyOV94ZXlkQnZhbUE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-13T02:46:26.497Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-08-13T02:46:26.497Z"
     },
     {
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
