@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-07T21:35:34.508Z",
+  "updated": "2026-09-08T04:38:27.680Z",
   "counts": {
-    "total": 716,
+    "total": 717,
     "verified": 28,
-    "automated": 688,
+    "automated": 689,
     "earliest": "2024-07-01",
     "latest": "2026-09-07"
   },
@@ -106,7 +106,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGs1ckc1bEQ5a2FWZ2tUUXdta1drYmxQTS1YVk1jTWdPVUw5YlFHOWRKRERuZng5SWlQaS1lQXdOWFh6YzQ5Z1Zrc3pMT3VwZXhZOXJ6eUxuMDlyeURQMUhfVDZxV3hLQWpPZHVIM2hBQWZxNWtSZnExamVwQ1U0TXI2RDZMcXRBWFZrR1RueWZpTnZITWtmT2hWSUpqeGVOMlBhX2lFQVplWFVMN28yaWFSUDY2dmJO?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-08T04:31:51.886Z"
     },
     {
       "id": "auto-2026-09-07-forestry-commission-arrests-12-galamseyers-in-dawn-swoop-in-",
@@ -445,6 +446,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxPTC1KUjVSN3dSaVFBbXdYWWk2TGpFS2NVc2R3Mm9xYW1ldlVqR0YxeXdyQWhVQnRrRGM3T2FCTk5wYWM0VWtXWUotSzdlMUY5aTZuN3VIMWNieE1GeDA5Mjd6V1JXMEVGbC1xdk9vLXJoR242NGR0SVhtQVZaVkpHUDI0Ti1zb18xeG85cXBwT0pZNE51QVB0T2N5eTRGZHBqbzNSbWlRTE9hS1RFd2NNVjhhV3puNHFtQkpYRw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-08T04:37:48.434Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
@@ -2959,8 +2961,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGljSjZYdW42alJ6SGI0bUtGbHRBUUMwN256Sk9GUUNXWkRqUzEzZ1duRFZpOWJydnduU2Q3UGVrcEZsdHJyUHhFNVZXLVJYMXA4UGRfU1QtdU5qWlFjclhrLVZnZkVncTZtRTJ0MEJ2My1Ja1FmdXM2ZTJ1MlpWR0dCMmNJbFlqMEd5SDhETmxLTEVJMnYyRzB5aTJaYWZYaWp5eVo1bTM2eU1tdDVoTV8wbWZ5bGxPZWtiWGpuMA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
@@ -3579,8 +3580,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-gold-refining-in-ghana-more-expensive-than-abroad-kenneth-as",
@@ -3697,6 +3697,25 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm92eHhjUFRYaUR1ci1WMlNPTF9TNTh4Uk5YYUxYc0dfWWg2TTd1dmw0X2M5Yml4R05nRTd0S3I1SGh1bTMtallvY2gteUVfZTV3Y080UE81OXhGT3dzTTVNbk9XVmZNdWlhSk5NMG1welg0d3MtWEVEbUtLSUIxUm5Ub1g2RmFXdHlxaA?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm92eHhjUFRYaUR1ci1WMlNPTF9TNTh4Uk5YYUxYc0dfWWg2TTd1dmw0X2M5Yml4R05nRTd0S3I1SGh1bTMtallvY2gteUVfZTV3Y080UE81OXhGT3dzTTVNbk9XVmZNdWlhSk5NMG1welg0d3MtWEVEbUtLSUIxUm5Ub1g2RmFXdHlxaA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-08-27-zanetor-agyeman-rawlings-galamsey-coordination-ghana-critica",
+      "date": "2026-08-27",
+      "category": "forest",
+      "title": "Zanetor Agyeman-Rawlings: Galamsey Coordination Ghana Critical for Mining Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Zanetor Agyeman-Rawlings: Galamsey Coordination Ghana Critical for Mining Fight Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVNjUkFBTnpwREtWQmpYWHRscmpIUkEzdGNwRkc0U0ttcC1NYnMwQldLNGQ3aUs3YVYwbzJDU0I1dmFRcHUySmpRdkJIMnJhQzBxVXl1M2l2THAwbWdIX2h2a21yWjd6QlBxMG1zZDJ1bHFiSEVVN2Y3N213MVYtX1JhalVacmN4My1ZTlFGemJ4RXBxX0V4ZEFCbm9rbTN6Q2JHeXNTOG1HcXdMaHJkUHV5eGJmSTJMY2ZLSVp5M3NWQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVNjUkFBTnpwREtWQmpYWHRscmpIUkEzdGNwRkc0U0ttcC1NYnMwQldLNGQ3aUs3YVYwbzJDU0I1dmFRcHUySmpRdkJIMnJhQzBxVXl1M2l2THAwbWdIX2h2a21yWjd6QlBxMG1zZDJ1bHFiSEVVN2Y3N213MVYtX1JhalVacmN4My1ZTlFGemJ4RXBxX0V4ZEFCbm9rbTN6Q2JHeXNTOG1HcXdMaHJkUHV5eGJmSTJMY2ZLSVp5M3NWQQ?oc=5",
       "via": "rss",
       "verified": false
     },
