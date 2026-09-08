@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-08T16:42:30.523Z",
+  "updated": "2026-09-08T21:13:57.965Z",
   "counts": {
-    "total": 729,
+    "total": 730,
     "verified": 28,
-    "automated": 701,
+    "automated": 702,
     "earliest": "2024-07-01",
     "latest": "2026-09-08"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTFBMd3pXUVNKclUwLW1pTktJSzFWeC1jN2g4Y1BCTl9wSWN4N3hkQlo3TUMxTUNiblZBb205UmNnQXJIdHI4dURsbTdVQzREZEludmJXcXBGTTVhY09Ha2hfSnBPOGVGRnk0TG1tczFfYmlrSTU5ZHpPbmFrQlI?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-08T21:07:37.335Z"
     },
     {
       "id": "auto-2026-09-08-12-illegal-miners-nabbed-at-atewa-forest-reserve",
@@ -67,6 +68,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-causes-1-in-4-fibre-cuts-in-ghana-sam-george/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-08T21:08:49.145Z",
       "thread": "t-auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages"
     },
     {
@@ -87,6 +89,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-accounts-for-25-of-fibre-cuts-sam-george",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-08T21:09:01.383Z",
       "thread": "t-auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages"
     },
     {
@@ -224,6 +227,27 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+    },
+    {
+      "id": "auto-2026-09-08-galamsey-causing-25-of-fibre-cuts-in-ghana-sam-george-reveal",
+      "date": "2026-09-08",
+      "category": "forest",
+      "title": "Galamsey Causing 25% of Fibre Cuts in Ghana — Sam George Reveals | Breakfast Daily",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Causing 25% of Fibre Cuts in Ghana — Sam George Reveals | Breakfast Daily Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HZGxkVXNLQ0VpTEdWVEp1MU9VRXhBS0hMUW5zZFhUN3hEZE9VV29OWjZoMFN1ZHE0REhudFlSVnF6LUpncDB4LVczYmRUaTV6STN3TVZ5U2RSWEMyR1g1VzRsTdIBXEFVX3lxTE9jY2FsNlZhX3ZSSlVPdUN5STlmdHRKcGd0VkRRNXlPWmZMR1RPOXJ0aldKOHdyOThrcUU1NnkwWndmREtNUnVHWGhuR2ZJVmhGUlpPemJqMEVhZHdB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HZGxkVXNLQ0VpTEdWVEp1MU9VRXhBS0hMUW5zZFhUN3hEZE9VV29OWjZoMFN1ZHE0REhudFlSVnF6LUpncDB4LVczYmRUaTV6STN3TVZ5U2RSWEMyR1g1VzRsTdIBXEFVX3lxTE9jY2FsNlZhX3ZSSlVPdUN5STlmdHRKcGd0VkRRNXlPWmZMR1RPOXJ0aldKOHdyOThrcUU1NnkwWndmREtNUnVHWGhuR2ZJVmhGUlpPemJqMEVhZHdB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-08T21:11:57.717Z",
+      "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
     },
     {
       "id": "auto-2026-09-07-i-d-rather-die-with-integrity-than-be-corrupted-by-galamsey-",
@@ -9511,12 +9535,12 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area",
+      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area Mongabay",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
       "metrics": {},
       "source": {
         "name": "Mongabay",
