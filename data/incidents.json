@@ -1,13 +1,94 @@
 {
-  "updated": "2026-09-08T04:38:27.680Z",
+  "updated": "2026-09-08T11:20:36.956Z",
   "counts": {
-    "total": 717,
+    "total": 722,
     "verified": 28,
-    "automated": 689,
+    "automated": 694,
     "earliest": "2024-07-01",
-    "latest": "2026-09-07"
+    "latest": "2026-09-08"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-08-galamsey-accounts-for-25-of-fibre-cuts-sam-george",
+      "date": "2026-09-08",
+      "category": "forest",
+      "title": "Galamsey accounts for 25% of fibre cuts - Sam George",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey accounts for 25% of fibre cuts - Sam George 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMd3pXUVNKclUwLW1pTktJSzFWeC1jN2g4Y1BCTl9wSWN4N3hkQlo3TUMxTUNiblZBb205UmNnQXJIdHI4dURsbTdVQzREZEludmJXcXBGTTVhY09Ha2hfSnBPOGVGRnk0TG1tczFfYmlrSTU5ZHpPbmFrQlI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifEFVX3lxTFBMd3pXUVNKclUwLW1pTktJSzFWeC1jN2g4Y1BCTl9wSWN4N3hkQlo3TUMxTUNiblZBb205UmNnQXJIdHI4dURsbTdVQzREZEludmJXcXBGTTVhY09Ha2hfSnBPOGVGRnk0TG1tczFfYmlrSTU5ZHpPbmFrQlI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-08-12-illegal-miners-nabbed-at-atewa-forest-reserve",
+      "date": "2026-09-08",
+      "category": "arrest",
+      "title": "12 Illegal miners nabbed at Atewa Forest Reserve",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "12 Illegal miners nabbed at Atewa Forest Reserve Graphic Online",
+      "metrics": {
+        "arrests": 12
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNhc201UDZxeXNZLXBTbGJwd0lsNnZzc2dhWGdXZVdUMDh2TXpacmh0cWtXN1VjVnNwX2ljQlZJSVlrQ1R2enI2MFJDY2RaTFVubGRId053azd4c243MmJqdGpwVGQ1QmlROXRSbTBoSmVkSTFYN1hDYWQtaVdKT0FVNy1LT2d3Q19LSzlTQjZkQ3ZkTGJGVVlPZVY3ZkE5MnU0SkhMOTRKNWFnTnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNhc201UDZxeXNZLXBTbGJwd0lsNnZzc2dhWGdXZVdUMDh2TXpacmh0cWtXN1VjVnNwX2ljQlZJSVlrQ1R2enI2MFJDY2RaTFVubGRId053azd4c243MmJqdGpwVGQ1QmlROXRSbTBoSmVkSTFYN1hDYWQtaVdKT0FVNy1LT2d3Q19LSzlTQjZkQ3ZkTGJGVVlPZVY3ZkE5MnU0SkhMOTRKNWFnTnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+    },
+    {
+      "id": "auto-2026-09-08-galamsey-causes-1-in-4-fibre-cuts-in-ghana-sam-george",
+      "date": "2026-09-08",
+      "category": "policy",
+      "title": "Galamsey causes 1 in 4 fibre cuts in Ghana – Sam George",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining, popularly known as galamsey, is responsible for about one in every four fibre-optic cable cuts recorded across Ghana, Communications, Digital Technology and Innovations Minister Samuel Nartey George has disclosed.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-causes-1-in-4-fibre-cuts-in-ghana-sam-george/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-causes-1-in-4-fibre-cuts-in-ghana-sam-george/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages"
+    },
+    {
+      "id": "auto-2026-09-08-galamsey-accounts-for-25-of-fibre-cuts",
+      "date": "2026-09-08",
+      "category": "policy",
+      "title": "Galamsey accounts for 25% of fibre cuts",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Communications Minister, Sam George has disclosed that illegal mining, popularly known as galamsey, accounts for about 25 per cent of fibre cuts in Ghana, worsening service disruptions across the telecommunications sector.",
+      "metrics": {},
+      "source": {
+        "name": "Sam George",
+        "url": "https://3news.com/news/galamsey-accounts-for-25-of-fibre-cuts-sam-george"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-accounts-for-25-of-fibre-cuts-sam-george",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages"
+    },
     {
       "id": "auto-2026-09-07-i-d-rather-die-with-integrity-than-be-corrupted-by-galamsey-",
       "date": "2026-09-07",
@@ -321,6 +402,26 @@
         "url": "https://www.graphic.com.gh/news/general-news/nca-to-compensate-subscribers-over-network-outages-before-year-end.html"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/nca-to-compensate-subscribers-over-network-outages-before-year-end.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-nca-to-compensate-subscribers-over-network-outages"
+    },
+    {
+      "id": "auto-2026-09-07-one-in-four-fibre-cuts-in-ghana-caused-by-galamsey-sam-georg",
+      "date": "2026-09-07",
+      "category": "forest",
+      "title": "One in four fibre cuts in Ghana caused by galamsey – Sam George",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "One in four fibre cuts in Ghana caused by galamsey – Sam George GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1hleG9tc21ENy0tSHpDTDM0SExDMF95eWlfMmNsdTFHdGdIWTZrZ1hSWTJxNGZab09JNFpUWWJTb1Y2ZFYyMGk2RWpKYl9IMDJfb045VmFuSU9FZDVkSnN3NGp4aTVUQ1lrSUtwbV9PY3Y5aThZcTl2NkVYUGduMGMwWE5sM2xjZUl0MzVQeEpXRlRTNl9YbllUMUEyanFIRmplYWNBVDMxQkNsazhTRnpFcmR5ZGtt?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1hleG9tc21ENy0tSHpDTDM0SExDMF95eWlfMmNsdTFHdGdIWTZrZ1hSWTJxNGZab09JNFpUWWJTb1Y2ZFYyMGk2RWpKYl9IMDJfb045VmFuSU9FZDVkSnN3NGp4aTVUQ1lrSUtwbV9PY3Y5aThZcTl2NkVYUGduMGMwWE5sM2xjZUl0MzVQeEpXRlRTNl9YbllUMUEyanFIRmplYWNBVDMxQkNsazhTRnpFcmR5ZGtt?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -9274,12 +9375,12 @@
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
       "date": "2026-08-12",
       "category": "forest",
-      "title": "Illegal mining threatens Ghana’s first marine protected area - news",
+      "title": "Illegal mining threatens Ghana’s first marine protected area",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Illegal mining threatens Ghana’s first marine protected area news - Mongabay",
+      "summary": "Illegal mining threatens Ghana’s first marine protected area Mongabay",
       "metrics": {},
       "source": {
         "name": "Mongabay",
