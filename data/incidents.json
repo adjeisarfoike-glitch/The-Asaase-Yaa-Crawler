@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-09T11:26:11.098Z",
+  "updated": "2026-09-09T16:43:27.402Z",
   "counts": {
-    "total": 734,
+    "total": 735,
     "verified": 28,
-    "automated": 706,
+    "automated": 707,
     "earliest": "2024-07-01",
     "latest": "2026-09-09"
   },
@@ -26,6 +26,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jailed-15-years/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-09-big-push-galamsey-accounts-for-major-fibre-cuts-galamsey-fig",
+      "date": "2026-09-09",
+      "category": "forest",
+      "title": "Big Push, Galamsey Accounts for Major Fibre Cuts:Galamsey fight is far from being won - Monney.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Big Push, Galamsey Accounts for Major Fibre Cuts:Galamsey fight is far from being won - Monney. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbjBOdXpLbGVNNEhzZUJ3dEJlVGxFMTg0NnFNem54X19oN0ozTTRwVE5rZ1AtX2RSdTd5RzRaSWE0YTlXbEtRdmRGZzR6Rl96UXQwQmhRXy1tcllyT2NNR3NJWnPSAVxBVV95cUxNbDZaTkFzS3pvNTA3cEtVOGxXNl9xRThnUzB4M3JUUTVBRFRoNElESlVVRXJRdE5jd3BxSFZla25UWnkzNnFVMldUVms5cXVzWDNxQXBzVTlreHMtdA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbjBOdXpLbGVNNEhzZUJ3dEJlVGxFMTg0NnFNem54X19oN0ozTTRwVE5rZ1AtX2RSdTd5RzRaSWE0YTlXbEtRdmRGZzR6Rl96UXQwQmhRXy1tcllyT2NNR3NJWnPSAVxBVV95cUxNbDZaTkFzS3pvNTA3cEtVOGxXNl9xRThnUzB4M3JUUTVBRFRoNElESlVVRXJRdE5jd3BxSFZla25UWnkzNnFVMldUVms5cXVzWDNxQXBzVTlreHMtdA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
     },
     {
       "id": "auto-2026-09-08-galamsey-accounts-for-25-of-fibre-cuts-sam-george",
@@ -490,6 +510,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNekxGNEVRSTlZZ1dIVXRtVGtQQkxmUnBIdHg5NVl6S3hYNVA2WGZmVzQ1TXJnTXUtV0c2OE1MMjJoOXpBUHJMU0xRUVpQWXJpRGk0S2hKakVnVXFPSmF1czVnMFMyZkl1clFWam1LY2ZleVJkVWFPTGtyTmpPR0E4c2FPOUJhTk5kM2lEUjZEMWwyOU81RkF5ZU8wQUVLV3AtSUVtQ3JBREQ0c0xYeVhDVQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-09T16:41:22.668Z",
       "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
     },
     {
