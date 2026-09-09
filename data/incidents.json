@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-09T16:43:27.402Z",
+  "updated": "2026-09-09T21:01:55.554Z",
   "counts": {
-    "total": 735,
+    "total": 737,
     "verified": 28,
-    "automated": 707,
+    "automated": 709,
     "earliest": "2024-07-01",
     "latest": "2026-09-09"
   },
@@ -46,6 +46,44 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
+    },
+    {
+      "id": "auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac",
+      "date": "2026-09-09",
+      "category": "forest",
+      "title": "A Rocha Ghana defends claim that over 50 forest reserves face galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A Rocha Ghana defends claim that over 50 forest reserves face galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
+      "date": "2026-09-09",
+      "category": "forest",
+      "title": "Aowin Traditional Council engages Municipal Security Council over child exportation, Galamsey and criminal activities",
+      "place": "Aowin",
+      "region": "Western North",
+      "lat": 5.9,
+      "lon": -2.75,
+      "summary": "Aowin Traditional Council engages Municipal Security Council over child exportation, Galamsey and criminal activities 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUIyc19VcXotSUdSOHc1UDA4enBmbmdYcDdrWU9sZ1ZJVGtPRDNOMzVKNkhUS29fV0doRHhfTHVySThHU1VTRHlra1NncVNGdEljdnF5QzRMYXVGVFhrMkRNNk1wXzVqYWpnX0xvYjFXYVBydjNTeDQ3SEpIU0w0YkNBalFpYzNFRHN3Rnh3dmIwT3VQS05PLUtKbzFqdzdiYnp1azF5R0t0dHlqZGlLYWZNQV9ld3pQSVhNVkt4SlZ1NXlscVgzUWRYVVlLVzZuU1RsOVNn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUIyc19VcXotSUdSOHc1UDA4enBmbmdYcDdrWU9sZ1ZJVGtPRDNOMzVKNkhUS29fV0doRHhfTHVySThHU1VTRHlra1NncVNGdEljdnF5QzRMYXVGVFhrMkRNNk1wXzVqYWpnX0xvYjFXYVBydjNTeDQ3SEpIU0w0YkNBalFpYzNFRHN3Rnh3dmIwT3VQS05PLUtKbzFqdzdiYnp1azF5R0t0dHlqZGlLYWZNQV9ld3pQSVhNVkt4SlZ1NXlscVgzUWRYVVlLVzZuU1RsOVNn?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-08-galamsey-accounts-for-25-of-fibre-cuts-sam-george",
@@ -4276,8 +4314,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/stay-away-from-galamsey-areas-ghaftram-advises-members/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
+      "verified": false
     },
     {
       "id": "auto-2026-08-26-review-strategies-to-fight-galamsey-ghie-urges",
@@ -12576,8 +12613,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxQU2Y3WGhVeE5UTEJxZEcyRXFIWG5jVkVHLXFiamI5NzZHQmk0X1pycm85anZyTWFnYlUyZHg1cHRiMUR2eG9PLWF6RlFZeWZSRVktUGowcmhfTS1WcW0xR3J6azgzQ1lRWWhYa2tFMHlxSTlSS2JBd1ktNkJCcnN3WFUzQmxTaUdIa1NjRWJkR2Vmem9KRXdaX1A1VThhZ3FUR21xS3hTcHp4ZWxJRjMtbkpXWkFyMnV1UEJaVDNBNHBYSjQtdUE?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-29-galamsey-has-destroyed-our-water-help-us-secure-boreholes-at"
+      "verified": false
     },
     {
       "id": "auto-2026-08-04-galamsey-crisis-seek-help-if-you-re-overwhelmed-bono-regiona",
@@ -13448,8 +13484,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmxZZFJZMDFZOGpMeERiTDdmR1NWRWFIQWExdjZER296TW9vTGROYUpMbURabVVRb2dpTGw2RVl0SjFWZW92T0Y3MXlZcGhKQWYzNU9IaXIxMGZlWHFfNkJwUUxzWERwYVlidV90Sl81LUtpMUFuZTc5eFpwdVlxd0Z5TWZfNGdFdGc2ZFAzRDZGaHVkelN6WG94Z1ZENUZQNW5oNVVZcU53V3lnWGdXbDAwYlNzOExuSkpkVEVR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-29-galamsey-has-destroyed-our-water-help-us-secure-boreholes-at"
+      "verified": false
     },
     {
       "id": "auto-2026-07-29-fighting-illegal-mining-assessing-the-government-s-fight-so-",
