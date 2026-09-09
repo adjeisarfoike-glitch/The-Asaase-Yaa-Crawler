@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-08T21:13:57.965Z",
+  "updated": "2026-09-09T04:44:11.745Z",
   "counts": {
-    "total": 730,
+    "total": 732,
     "verified": 28,
-    "automated": 702,
+    "automated": 704,
     "earliest": "2024-07-01",
     "latest": "2026-09-08"
   },
@@ -109,7 +109,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2t5dGFuS2Z1ZVMwNU5lVFcteGQxM3prNVlnVC1UeWF2ejR3eWR1Z05EVk1ZYmIyNzdjU19YT0tESFFoZHNHcEtqLXp6SW83WUdYYnZhYW9HNWdlUWtRWEFra2hYT0NZcS1vWHlJU0NtRTJqcmc2SzFfLTJtV01CM2FFN2VsU0twTHNOSDNUZC1mRWlXaHJ4U0E0bks0d3JDRllzdFBOR0poX1N3VXl5N0h2b0Fnb0hpNU9BMUcyUHZkUVJKd29hYU5n?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-09T04:39:38.503Z"
     },
     {
       "id": "auto-2026-09-08-galamsey-exposes-religious-hypocrisy-among-some-christians-d",
@@ -248,6 +249,45 @@
       "verified": false,
       "archivedAt": "2026-09-08T21:11:57.717Z",
       "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
+    },
+    {
+      "id": "auto-2026-09-08-sam-george-ghana-galamsey-fibre-cuts-account-for-25-of-damag",
+      "date": "2026-09-08",
+      "category": "forest",
+      "title": "Sam George: Ghana Galamsey Fibre Cuts Account for 25% of Damage",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sam George: Ghana Galamsey Fibre Cuts Account for 25% of Damage Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVJYWnpId0pvVUlCWVNQcHhCVHVNeWY4YkYtcnRFQXRqbDhuS2tOTWNoSFN6VEFDZHl0SlNyU2dzd0ZzZ21nUm0zTEVrSEVKZlJJUURWSmRyTjZDbzBFVldfQWdDcHBBX2VNX20xZFBjN1JpRjZtbk5vT2wxQlNkUkxWS2k0aHpKSnVKa3JkZE95ai1MeW5lSWdscTVPRHRQR2JqbnpzRkQySU8wUUtCNlVyRnJEcGtwSWxXYTZmWGU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVJYWnpId0pvVUlCWVNQcHhCVHVNeWY4YkYtcnRFQXRqbDhuS2tOTWNoSFN6VEFDZHl0SlNyU2dzd0ZzZ21nUm0zTEVrSEVKZlJJUURWSmRyTjZDbzBFVldfQWdDcHBBX2VNX20xZFBjN1JpRjZtbk5vT2wxQlNkUkxWS2k0aHpKSnVKa3JkZE95ai1MeW5lSWdscTVPRHRQR2JqbnpzRkQySU8wUUtCNlVyRnJEcGtwSWxXYTZmWGU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
+    },
+    {
+      "id": "auto-2026-09-08-galamsey-operator-who-posed-as-pastor-to-defile-student-jail",
+      "date": "2026-09-08",
+      "category": "prosecution",
+      "title": "Galamsey operator who posed as pastor to defile student jailed 15 years",
+      "place": "Tarkwa",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -1.99,
+      "summary": "A Tarkwa Circuit Court has sentenced a 20-year-old galamsey operator to 15 years’ imprisonment for defiling a 14-year-old student after posing as a pastor.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-operator-who-posed-as-pastor-to-defile-student-jailed-15-years/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-operator-who-posed-as-pastor-to-defile-student-jailed-15-years/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-07-i-d-rather-die-with-integrity-than-be-corrupted-by-galamsey-",
