@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-10T04:45:17.900Z",
+  "updated": "2026-09-10T11:23:43.045Z",
   "counts": {
-    "total": 738,
+    "total": 739,
     "verified": 28,
-    "automated": 710,
+    "automated": 711,
     "earliest": "2024-07-01",
     "latest": "2026-09-10"
   },
@@ -26,7 +26,27 @@
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/cocoa-lands-now-security-zones-as-farmers-step-up-anti-galamsey-campaign/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-10T11:16:23.779Z",
       "thread": "t-auto-2026-08-13-squeezed-by-eu-rules-and-threat-of-illegal-mining-cocoa-farm"
+    },
+    {
+      "id": "auto-2026-09-10-a-rocha-ghana-insists-50-forest-reserves-affected-by-galamse",
+      "date": "2026-09-10",
+      "category": "forest",
+      "title": "A Rocha Ghana Insists 50 Forest Reserves Affected by Galamsey, Demands Evidence-Based Verification",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A Rocha Ghana Insists 50 Forest Reserves Affected by Galamsey, Demands Evidence-Based Verification NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenVlQ2FaTnMwalZRVU5rVmZDZldMNDQ3N0xUX3hua3YtNlltSlFObFU0ellZeHZyQjRNMUp3U0tUMmtJQWp2MHJ1Z1hpdlM0TllxcVlqd0lwQ0JpNUUwOFh6LU14bXAyQjhrVy1wRW1ZVWtuUXlyaUtzZ2FtdmV0eHJZajBQZTFQU0FmYXRzNHYzd3dReHFoTXV2cFhWaGNjT1FnMDRXcGFzbHg3bm5pakZfYi12M3VlRHdvTXM3MHg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenVlQ2FaTnMwalZRVU5rVmZDZldMNDQ3N0xUX3hua3YtNlltSlFObFU0ellZeHZyQjRNMUp3U0tUMmtJQWp2MHJ1Z1hpdlM0TllxcVlqd0lwQ0JpNUUwOFh6LU14bXAyQjhrVy1wRW1ZVWtuUXlyaUtzZ2FtdmV0eHJZajBQZTFQU0FmYXRzNHYzd3dReHFoTXV2cFhWaGNjT1FnMDRXcGFzbHg3bm5pakZfYi12M3VlRHdvTXM3MHg?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-09-galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jail",
@@ -65,6 +85,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zbjBOdXpLbGVNNEhzZUJ3dEJlVGxFMTg0NnFNem54X19oN0ozTTRwVE5rZ1AtX2RSdTd5RzRaSWE0YTlXbEtRdmRGZzR6Rl96UXQwQmhRXy1tcllyT2NNR3NJWnPSAVxBVV95cUxNbDZaTkFzS3pvNTA3cEtVOGxXNl9xRThnUzB4M3JUUTVBRFRoNElESlVVRXJRdE5jd3BxSFZla25UWnkzNnFVMldUVms5cXVzWDNxQXBzVTlreHMtdA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-10T11:18:27.731Z",
       "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
     },
     {
