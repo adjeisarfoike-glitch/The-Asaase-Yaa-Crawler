@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-09T21:01:55.554Z",
+  "updated": "2026-09-10T04:45:17.900Z",
   "counts": {
-    "total": 737,
+    "total": 738,
     "verified": 28,
-    "automated": 709,
+    "automated": 710,
     "earliest": "2024-07-01",
-    "latest": "2026-09-09"
+    "latest": "2026-09-10"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-10-cocoa-lands-now-security-zones-as-farmers-step-up-anti-galam",
+      "date": "2026-09-10",
+      "category": "forest",
+      "title": "Cocoa lands now “security zones” as farmers step up anti-galamsey campaign",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Concerned Farmers Association has declared all cocoa-growing areas across the country “security zones” and ordered illegal miners and mining companies operating on cocoa farms to immediately withdraw their equipment. The association said in a statement dated September 4 and signed by Farmer General Nana Oboadie Boateng Bonsu II that... The post Cocoa lands now “security zones” as farmers step up anti-galamsey cam",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/cocoa-lands-now-security-zones-as-farmers-step-up-anti-galamsey-campaign/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/cocoa-lands-now-security-zones-as-farmers-step-up-anti-galamsey-campaign/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-squeezed-by-eu-rules-and-threat-of-illegal-mining-cocoa-farm"
+    },
     {
       "id": "auto-2026-09-09-galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jail",
       "date": "2026-09-09",
@@ -9544,7 +9564,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjB3N0dCdU0xdTJnMEwzOHdyVi1WTld5X2FybzNjdk9MTlBndDM0SHhJQVZoSFpBckl2OWhqV2ZDaTFrN0RUdUdjSnZtaUpWQ3RldjlxallhRm8tdkxvTi1OYTBHNGNNLS1qUzYtcHpQYjFRcDNzV2NrZXhONGR1SjUtSk1hT2dOZlZwLWFiM1F5aVZMQlExMjh1OTVmQ1ZLb2R6QVo1VTBwckpIbEtEVG5R?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-13-squeezed-by-eu-rules-and-threat-of-illegal-mining-cocoa-farm"
     },
     {
       "id": "auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten",
