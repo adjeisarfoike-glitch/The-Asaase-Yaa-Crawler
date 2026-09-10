@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-10T11:23:43.045Z",
+  "updated": "2026-09-10T16:29:07.870Z",
   "counts": {
-    "total": 739,
+    "total": 742,
     "verified": 28,
-    "automated": 711,
+    "automated": 714,
     "earliest": "2024-07-01",
     "latest": "2026-09-10"
   },
@@ -47,6 +47,45 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenVlQ2FaTnMwalZRVU5rVmZDZldMNDQ3N0xUX3hua3YtNlltSlFObFU0ellZeHZyQjRNMUp3U0tUMmtJQWp2MHJ1Z1hpdlM0TllxcVlqd0lwQ0JpNUUwOFh6LU14bXAyQjhrVy1wRW1ZVWtuUXlyaUtzZ2FtdmV0eHJZajBQZTFQU0FmYXRzNHYzd3dReHFoTXV2cFhWaGNjT1FnMDRXcGFzbHg3bm5pakZfYi12M3VlRHdvTXM3MHg?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-10-galamsey-stealing-boys-from-classrooms-in-bongo-dce-raises-a",
+      "date": "2026-09-10",
+      "category": "forest",
+      "title": "Galamsey 'stealing' boys from classrooms in Bongo – DCE raises alarm",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey 'stealing' boys from classrooms in Bongo – DCE raises alarm Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZm81SmxLY2RfWkI1UjhJQW5tTlRVNXNnRnBuQnp3LU92MmNYX09aLTlCUURWS2EtTHZaZENKOGNsenNQNUpwcEtHS0tNV1Q5R0pmRGZ0Q3M4dVFHX2JyaTBXbTA3UGJCWlp6VE1Oclk2cDZFa0pHMG5tRkQ4VnI0UnZmb2gyelBxQXZqZ3VtMGlCeTBTU3g40gGXAUFVX3lxTE1mbzVKbEtjZF9aQjVSOElBbm1OVFU1c2dGcG5CenctT3YyY1hfT1otOUJRRFZLYS1MdlpkQ0o4Y2x6c1A1SnBwS0dLS01XVDlHSmZEZnRDczh1UUdfYnJpMFdtMDdQYkJaWnpUTU5yWTZwNkVrSkcwbm1GRDhWcjRSdmZvaDJ6UHFBdmpndW0waUJ5MFNTeDg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNZm81SmxLY2RfWkI1UjhJQW5tTlRVNXNnRnBuQnp3LU92MmNYX09aLTlCUURWS2EtTHZaZENKOGNsenNQNUpwcEtHS0tNV1Q5R0pmRGZ0Q3M4dVFHX2JyaTBXbTA3UGJCWlp6VE1Oclk2cDZFa0pHMG5tRkQ4VnI0UnZmb2gyelBxQXZqZ3VtMGlCeTBTU3g40gGXAUFVX3lxTE1mbzVKbEtjZF9aQjVSOElBbm1OVFU1c2dGcG5CenctT3YyY1hfT1otOUJRRFZLYS1MdlpkQ0o4Y2x6c1A1SnBwS0dLS01XVDlHSmZEZnRDczh1UUdfYnJpMFdtMDdQYkJaWnpUTU5yWTZwNkVrSkcwbm1GRDhWcjRSdmZvaDJ6UHFBdmpndW0waUJ5MFNTeDg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-10-a-rocha-ghana-stands-by-claim-of-50-plus-forest-reserves-aff",
+      "date": "2026-09-10",
+      "category": "forest",
+      "title": "A Rocha Ghana stands by claim of 50-plus forest reserves affected by galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A Rocha Ghana stands by claim of 50-plus forest reserves affected by galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmVwbUtXRzFMelhnM0g3d3NmSkoxeXh5TXpGa2lac3ZCQjAtLTI5NmxnTXdFZGhlZ1I0Zjc0RGR6YjhLREtRakJOWGdxVVlpcWplNXRsMW8xRUJ6MjZfY1hOZFhNN3NRM1N3MTF4Y3BFRDRyeVluWVNMRTZLQU9OTXdyU2hWNndyUFpIRUMxM19rb0VpVFZSR9IBlwFBVV95cUxQMGlkRWIwSE9SanIydGU2THVkUnlFZkJ0WU5BLUd1dHo2bTVlS2dsV3RleFdHM2Zpa2FLN3BvSFVQcXB1ZUlqOXFfdjJfb2xLSkR1NXNwUF9ZT25YWmJsTnpVd2hhR1BLNEhNSUpMM0E5WEZOQ0NWTnFiOXJBNzRscV9SbGNScHhVZGRNY1d5OVQ0TEFoTlBR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmVwbUtXRzFMelhnM0g3d3NmSkoxeXh5TXpGa2lac3ZCQjAtLTI5NmxnTXdFZGhlZ1I0Zjc0RGR6YjhLREtRakJOWGdxVVlpcWplNXRsMW8xRUJ6MjZfY1hOZFhNN3NRM1N3MTF4Y3BFRDRyeVluWVNMRTZLQU9OTXdyU2hWNndyUFpIRUMxM19rb0VpVFZSR9IBlwFBVV95cUxQMGlkRWIwSE9SanIydGU2THVkUnlFZkJ0WU5BLUd1dHo2bTVlS2dsV3RleFdHM2Zpa2FLN3BvSFVQcXB1ZUlqOXFfdjJfb2xLSkR1NXNwUF9ZT25YWmJsTnpVd2hhR1BLNEhNSUpMM0E5WEZOQ0NWTnFiOXJBNzRscV9SbGNScHhVZGRNY1d5OVQ0TEFoTlBR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-10T16:23:07.498Z"
     },
     {
       "id": "auto-2026-09-09-galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jail",
@@ -125,6 +164,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUIyc19VcXotSUdSOHc1UDA4enBmbmdYcDdrWU9sZ1ZJVGtPRDNOMzVKNkhUS29fV0doRHhfTHVySThHU1VTRHlra1NncVNGdEljdnF5QzRMYXVGVFhrMkRNNk1wXzVqYWpnX0xvYjFXYVBydjNTeDQ3SEpIU0w0YkNBalFpYzNFRHN3Rnh3dmIwT3VQS05PLUtKbzFqdzdiYnp1azF5R0t0dHlqZGlLYWZNQV9ld3pQSVhNVkt4SlZ1NXlscVgzUWRYVVlLVzZuU1RsOVNn?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-09-big-push-galamsey-accounts-for-major-fibre-cuts-nothing-is-b",
+      "date": "2026-09-09",
+      "category": "forest",
+      "title": "Big Push, Galamsey Accounts for Major Fibre Cuts: Nothing is being done about galamsey - Botsio.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Big Push, Galamsey Accounts for Major Fibre Cuts: Nothing is being done about galamsey - Botsio. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UeHhZSS00ZU55cndIcjFXQ1RldFZ3ZTlNQnpPQzdlZFVvRFVUdFg2YTY5MC1PeVc4TzJRdFhTb3MxNml5blN2Ul9XbmhUNXJzMVFvT0QxbWw3RlJETlFkVTBxNnPSAVxBVV95cUxQQnhHOFBpdGNmQk5aS0tNM1dReDFvcnBjRnppQWdYU2VJY3pXZlJPaGpBQVBTUDJjTzBrcUV6WkdrWnZUcHNPdE5vNXBJVUM1V0VFQU1SWll3OGQ5Uw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UeHhZSS00ZU55cndIcjFXQ1RldFZ3ZTlNQnpPQzdlZFVvRFVUdFg2YTY5MC1PeVc4TzJRdFhTb3MxNml5blN2Ul9XbmhUNXJzMVFvT0QxbWw3RlJETlFkVTBxNnPSAVxBVV95cUxQQnhHOFBpdGNmQk5aS0tNM1dReDFvcnBjRnppQWdYU2VJY3pXZlJPaGpBQVBTUDJjTzBrcUV6WkdrWnZUcHNPdE5vNXBJVUM1V0VFQU1SWll3OGQ5Uw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-galamsey-big-push-road-works-named-top-causes-of-rising-fibr"
     },
     {
       "id": "auto-2026-09-08-galamsey-accounts-for-25-of-fibre-cuts-sam-george",
