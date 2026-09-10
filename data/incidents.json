@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T16:29:07.870Z",
+  "updated": "2026-09-10T20:56:48.635Z",
   "counts": {
     "total": 742,
     "verified": 28,
@@ -144,7 +144,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-10T20:51:50.901Z"
     },
     {
       "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
@@ -163,7 +164,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUIyc19VcXotSUdSOHc1UDA4enBmbmdYcDdrWU9sZ1ZJVGtPRDNOMzVKNkhUS29fV0doRHhfTHVySThHU1VTRHlra1NncVNGdEljdnF5QzRMYXVGVFhrMkRNNk1wXzVqYWpnX0xvYjFXYVBydjNTeDQ3SEpIU0w0YkNBalFpYzNFRHN3Rnh3dmIwT3VQS05PLUtKbzFqdzdiYnp1azF5R0t0dHlqZGlLYWZNQV9ld3pQSVhNVkt4SlZ1NXlscVgzUWRYVVlLVzZuU1RsOVNn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-10T20:52:16.056Z"
     },
     {
       "id": "auto-2026-09-09-big-push-galamsey-accounts-for-major-fibre-cuts-nothing-is-b",
@@ -608,6 +610,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ahafo-clergy-call-for-stronger-action-against-galamsey-and-tano-river-pollution/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-10T20:55:51.420Z",
       "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
     },
     {
