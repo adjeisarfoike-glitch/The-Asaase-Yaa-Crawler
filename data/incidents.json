@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-11T16:32:20.705Z",
+  "updated": "2026-09-11T21:02:25.502Z",
   "counts": {
-    "total": 749,
+    "total": 753,
     "verified": 28,
-    "automated": 721,
+    "automated": 725,
     "earliest": "2024-07-01",
     "latest": "2026-09-11"
   },
@@ -108,6 +108,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOZENQOXdwaDZzdGhBcE9YZXd0UFRjaTBXNFZlT1Q5WE5WVF9heTZ1MVdPQXNXanVkTTRCVzFDNm9LWlhMbTBxNmJvRGs4b3dVcmRjNElVOVdadFRYc1Fxc0FDNE1WUF9ONFFnQU5URFgxdmtWNFRSYkotcDRuYmw1S2djWGt1bnZkQ291bFM5eEpFcENJcVV6cXpxZ2dOM1Vj?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-11T20:56:22.533Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
@@ -128,6 +129,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/birim-ankobra-tano-bia-pra-and-offin-rivers",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-11T20:56:47.053Z",
       "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
@@ -146,6 +148,86 @@
         "url": "https://asaaseradio.com/naimos-launches-operation-water-shield-to-protect-major-rivers-from-illegal-mining/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/naimos-launches-operation-water-shield-to-protect-major-rivers-from-illegal-mining/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-11T20:57:17.737Z",
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-11-galamsey-in-numbers-big-analysis",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "Galamsey in numbers | Big Analysis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey in numbers | Big Analysis Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kS0VYbTl2aFl3Q3BzS25SVThpU0pzamNTUnpZQnhzUVNvSUR0TFR0STY1bVFXVElzUHI4QW5Wa0wxQ0owaEhMY0lZOW5JVHpmQmZkSi1ndW9leTdZTGNxUUY1WWbSAVxBVV95cUxQc0NnbFprMkJ5MXc1YUQwdEpQRWJlQkpxMlp1aE9IczdSbFFJT2daVVo1NXZ2SDQ3QktLT2pyRWs4NDluUlRZem0xRV90YmVhX1RaUjRRZXp2bS0zcA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kS0VYbTl2aFl3Q3BzS25SVThpU0pzamNTUnpZQnhzUVNvSUR0TFR0STY1bVFXVElzUHI4QW5Wa0wxQ0owaEhMY0lZOW5JVHpmQmZkSi1ndW9leTdZTGNxUUY1WWbSAVxBVV95cUxQc0NnbFprMkJ5MXc1YUQwdEpQRWJlQkpxMlp1aE9IczdSbFFJT2daVVo1NXZ2SDQ3QktLT2pyRWs4NDluUlRZem0xRV90YmVhX1RaUjRRZXp2bS0zcA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-11-naimos-targets-galamsey-financiers-facilitators-and-equipmen",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "NAIMOS Targets Galamsey Financiers, Facilitators and Equipment Suppliers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Targets Galamsey Financiers, Facilitators and Equipment Suppliers Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZ1FUeldCTXdsRDR2bU8xNFlWc08tZlBVRHZGczI2c2tsMWIyVlNhcnFHOVNTZ0FqcVhpclhfbXpzWFF5eFhCVU1wTktrcVFGN3ZlekplUlB3UFBzWWpaUjJnd9IBXEFVX3lxTE1JSGhTSFhpRDBhUjkweF92VTRzdFhBbE41X0txTzBrcV9uSnFPUWxpN0c4b0g5VUtFT2hweWRjczlYQnVaRGxWOTJYZ2ZpNEJOcE1Dd3d2bTFCN21T?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZ1FUeldCTXdsRDR2bU8xNFlWc08tZlBVRHZGczI2c2tsMWIyVlNhcnFHOVNTZ0FqcVhpclhfbXpzWFF5eFhCVU1wTktrcVFGN3ZlekplUlB3UFBzWWpaUjJnd9IBXEFVX3lxTE1JSGhTSFhpRDBhUjkweF92VTRzdFhBbE41X0txTzBrcV9uSnFPUWxpN0c4b0g5VUtFT2hweWRjczlYQnVaRGxWOTJYZ2ZpNEJOcE1Dd3d2bTFCN21T?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+    },
+    {
+      "id": "auto-2026-09-11-naimos-launches-operation-water-shield-targets-galamsey-fina",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "NAIMOS launches Operation WATER SHIELD, targets galamsey financiers and equipment suppliers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS launches Operation WATER SHIELD, targets galamsey financiers and equipment suppliers Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGNpR2JpdVVNamd1RFJOOHdHN0c4azRRcWdRMW0wQ2tVREpPSnNvcWdINFRRLVItRndfZkYzSXA4OXYtN2NlWTZ2YW9wWk1uRDd3VTlTc3JTOWhIZk93UWlWdW1FbHVDampneWYydy1rbGlienVIdElvRTFaQmtfZzlMTUtjVDdyQlp1VHV6VlY4QkdxaWlkSndjQmJucl9WX21fTzNta0Z5R3doV3U1U1VSRUZYR2Q0WUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGNpR2JpdVVNamd1RFJOOHdHN0c4azRRcWdRMW0wQ2tVREpPSnNvcWdINFRRLVItRndfZkYzSXA4OXYtN2NlWTZ2YW9wWk1uRDd3VTlTc3JTOWhIZk93UWlWdW1FbHVDampneWYydy1rbGlienVIdElvRTFaQmtfZzlMTUtjVDdyQlp1VHV6VlY4QkdxaWlkSndjQmJucl9WX21fTzNta0Z5R3doV3U1U1VSRUZYR2Q0WUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-11-operation-water-shield-naimos-begins-fresh-crackdown-on-gala",
+      "date": "2026-09-11",
+      "category": "arrest",
+      "title": "Operation Water Shield: NAIMOS begins fresh crackdown on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Operation Water Shield: NAIMOS begins fresh crackdown on galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1V2cHBKWXRkcUYtMnRha1ZHSXdfTVVldHB2N1lSaUt1OHVtaFRBUGpnb0FUdVBqZWQtajJxdDFsUUE2ZWFFSk9ncUNpSXhiSXVVekstYXFRc091VmEyeVhwcDNsU2NyZFB2NUIwUFBnSVFTTFp1cHNNZzFzTk5rcHljeEpNckR1TlRoeVZ4YUNmMDdYWnBRcDVlYllhRzRjcm9kd0NsNlJzd2xOV2hoaGY2VmpfeXBlYXZHZm80Vk8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1V2cHBKWXRkcUYtMnRha1ZHSXdfTVVldHB2N1lSaUt1OHVtaFRBUGpnb0FUdVBqZWQtajJxdDFsUUE2ZWFFSk9ncUNpSXhiSXVVekstYXFRc091VmEyeVhwcDNsU2NyZFB2NUIwUFBnSVFTTFp1cHNNZzFzTk5rcHljeEpNckR1TlRoeVZ4YUNmMDdYWnBRcDVlYllhRzRjcm9kd0NsNlJzd2xOV2hoaGY2VmpfeXBlYXZHZm80Vk8?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
@@ -1200,7 +1282,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2x6ak9TVEsyMHlYZUhMSmhjT2xET1huNHpDSDBzeE1taU9zYkxFUFpldmItVllzZXQ1ZF81WC02OFFCZFVkcVdrRTJUeFlqSjdEWVMtVDBCU1lac1g2LWZSSDExQ19wbVV5WERmV2JXR3NPRnpOVmVkOEtzVVU4Ny0yUWRIUUx2QnUtUGxNVlBJSHBoMnIyQ0VsWHB2SHJ5b3QtSVN6azlLUHREVjRTTWJ1UmtmOERndVRhYzBxWDFwNzNH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
       "id": "auto-2026-09-06-frimpong-boateng-ghana-galamsey-political-cost-undermines-en",
@@ -3731,7 +3813,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkRDdUVkQTYwSnlXc25saTdrcEhUM2hVdFlCREhpUnA0Qnd3TkFtZXhWbUp5eTFFQmlLdzFPa3I3VzNDQmV6M0RxNzFOOHJNSmpzc3RqSjJkclFVdmlORklKaGwxUTdVRmVuTUxldjNDM2VaMEQ2WXlMc3pBa3E1d2JMN3dCcXBmSDJQejNsbDFod2RyRzhsejc3R05VMzFlVzhycEhNdXJ5dG1CdWNKcUk1X0ZzbFlCMVVNczVFb2JENF9ReUFV?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-30T11:58:00.063Z"
+      "archivedAt": "2026-08-30T11:58:00.063Z",
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
       "id": "auto-2026-08-28-water-crisis-looms-as-galamsey-rages-patrick-yaw-boamah-warn",
@@ -3992,7 +4075,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2ZhX0FjZ3VrSEw3WXU4RXhZdVkzMDkzX0hLWVF1T3k1b0FkRXlaampiM2VOaXlzd2FtbXNUQVo1QXZUYXl3OHF4bTJ2dk1sUFFPU3NsVjQzMHQ5bTRBZllKcVBNWlF2ejN3b3FfM3p3ZGJCOHF1a3BaZVlYdWF4NEVGMXJ3eFZVMnFzM0xQUjlWd05tMEl4dHlOX0p0WmRGakRfblpUNmlOUlhZQ3Z1SXd1Um9PdUI1aVE?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
       "id": "auto-2026-08-28-betterland-denies-illegal-mining-in-draw-river-forest-reserv",
