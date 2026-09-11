@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-11T11:24:29.369Z",
+  "updated": "2026-09-11T16:32:20.705Z",
   "counts": {
-    "total": 743,
+    "total": 749,
     "verified": 28,
-    "automated": 715,
+    "automated": 721,
     "earliest": "2024-07-01",
     "latest": "2026-09-11"
   },
@@ -28,6 +28,127 @@
       "verified": false,
       "archivedAt": "2026-09-11T11:17:40.174Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-09-11-naimos-to-target-galamsey-financiers-equipment-suppliers-in-",
+      "date": "2026-09-11",
+      "category": "arrest",
+      "title": "NAIMOS to target galamsey financiers, equipment suppliers in new crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS to target galamsey financiers, equipment suppliers in new crackdown CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1l2Nm1OWTJ5ZE9XTFV2dks5QVZxQVRGY1hjRkJ1TGVVR3FvN1gtNEZWbk4tRlp2NkdpZUxpallTOG95RVI1TWJQd2hjMGtwS0dPNXctcWhITGxpTVhoZnR6SnpYcFlUc1BxNV9ManRsbnBIdXE0MXd1MklUV3FNam9MRXRPV1JnNjZvellRVG9NbU1hWVlkVXZ3RzV1WXpqd2V6cDVmRnJzMmJydl80OQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1l2Nm1OWTJ5ZE9XTFV2dks5QVZxQVRGY1hjRkJ1TGVVR3FvN1gtNEZWbk4tRlp2NkdpZUxpallTOG95RVI1TWJQd2hjMGtwS0dPNXctcWhITGxpTVhoZnR6SnpYcFlUc1BxNV9ManRsbnBIdXE0MXd1MklUV3FNam9MRXRPV1JnNjZvellRVG9NbU1hWVlkVXZ3RzV1WXpqd2V6cDVmRnJzMmJydl80OQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-11T16:26:20.700Z"
+    },
+    {
+      "id": "auto-2026-09-11-viral-video-of-kids-at-illegal-mining-site-sparks-concern",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "Viral video of kids at illegal mining site sparks concern",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Viral video of kids at illegal mining site sparks concern Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzdoWVRVOGV4R2k1eEJYTENfY0c5RExGUmpheU5PdXJFM3NDOGI4RU4tampRT2hnSmhuUUl5TEp1N3ozUEdCRHlQWjAxOExLM3Y1STV3dXdReW5ncm9sNi1oY3JJajU5cEUxOXdRTElDWGluX1pGRWlsbnJ4bFpyVDE2UE9tM2lEbGg2bTdfZ19xMTZlTW5kTnBtc9IBmgFBVV95cUxQeEhFX1JUOWhlZlp4c2R1WWZ6T0xnNmtUQzAzX1U0UWhkWXlhODJ1ZDNnUXZWbjlQR1BKNmU2NktSWXgyU0NzUGJpM2E5dzBWN1lmZTVFN3JEcC1QWDdrVGtNU3J0Zl92djZZRGx2Y01TQlpOcmsyeTJaWnl0MXZnaFAxUTA1dmNzRDh6Q1lhdFpERENmMVMtZlR3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOSzdoWVRVOGV4R2k1eEJYTENfY0c5RExGUmpheU5PdXJFM3NDOGI4RU4tampRT2hnSmhuUUl5TEp1N3ozUEdCRHlQWjAxOExLM3Y1STV3dXdReW5ncm9sNi1oY3JJajU5cEUxOXdRTElDWGluX1pGRWlsbnJ4bFpyVDE2UE9tM2lEbGg2bTdfZ19xMTZlTW5kTnBtc9IBmgFBVV95cUxQeEhFX1JUOWhlZlp4c2R1WWZ6T0xnNmtUQzAzX1U0UWhkWXlhODJ1ZDNnUXZWbjlQR1BKNmU2NktSWXgyU0NzUGJpM2E5dzBWN1lmZTVFN3JEcC1QWDdrVGtNU3J0Zl92djZZRGx2Y01TQlpOcmsyeTJaWnl0MXZnaFAxUTA1dmNzRDh6Q1lhdFpERENmMVMtZlR3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-11T16:26:46.147Z"
+    },
+    {
+      "id": "auto-2026-09-11-galamsey-kids-in-viral-video",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "Galamsey Kids In Viral Video",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Kids In Viral Video DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iTExkSzhzUTVMOGV4NDlvN3ZxWUkyTjBkNlMzN3J5LUFwOWdIZDVvOU5naXh6OGN2WFl5bngtTjVTUXZzYU5FQVlWV00wemVTblZuN1lJRWw4MXJYWVFOZ2EzdGpSVDJOdTJv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMia0FVX3lxTE1iTExkSzhzUTVMOGV4NDlvN3ZxWUkyTjBkNlMzN3J5LUFwOWdIZDVvOU5naXh6OGN2WFl5bngtTjVTUXZzYU5FQVlWV00wemVTblZuN1lJRWw4MXJYWVFOZ2EzdGpSVDJOdTJv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-11T16:27:11.111Z",
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-09-11-naimos-launches-operation-water-shield-against-illegal-minin",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "NAIMOS launches Operation Water Shield against illegal mining in Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS launches Operation Water Shield against illegal mining in Ghana MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZENQOXdwaDZzdGhBcE9YZXd0UFRjaTBXNFZlT1Q5WE5WVF9heTZ1MVdPQXNXanVkTTRCVzFDNm9LWlhMbTBxNmJvRGs4b3dVcmRjNElVOVdadFRYc1Fxc0FDNE1WUF9ONFFnQU5URFgxdmtWNFRSYkotcDRuYmw1S2djWGt1bnZkQ291bFM5eEpFcENJcVV6cXpxZ2dOM1Vj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOZENQOXdwaDZzdGhBcE9YZXd0UFRjaTBXNFZlT1Q5WE5WVF9heTZ1MVdPQXNXanVkTTRCVzFDNm9LWlhMbTBxNmJvRGs4b3dVcmRjNElVOVdadFRYc1Fxc0FDNE1WUF9ONFFnQU5URFgxdmtWNFRSYkotcDRuYmw1S2djWGt1bnZkQ291bFM5eEpFcENJcVV6cXpxZ2dOM1Vj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-11-naimos-launches-operation-water-shield-to-protect-birim-anko",
+      "date": "2026-09-11",
+      "category": "water",
+      "title": "NAIMOS launches 'Operation Water Shield' to protect Birim, Ankobra, Tano, Bia, Pra and Offin rivers",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "The operation, code-named \"Operation WATER SHIELD,\" was announced in a press release issued on Friday, September 11, 2026, and signed by NAIMOS Spokesperson, Paa Kwesi Schandorf.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/birim-ankobra-tano-bia-pra-and-offin-rivers"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/birim-ankobra-tano-bia-pra-and-offin-rivers",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-09-11-naimos-launches-operation-water-shield-to-protect-major-rive",
+      "date": "2026-09-11",
+      "category": "water",
+      "title": "NAIMOS launches “Operation Water Shield” to protect major rivers from illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has launched a nationwide enforcement campaign to protect major rivers and watersheds from illegal mining, targeting not only miners but also the networks that finance, supply and facilitate their activities. The National Anti-Illegal Mining Operations Secretariat (NAIMOS) said Operation WATER SHIELD would mark... The post NAIMOS launches “Operation Wat",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/naimos-launches-operation-water-shield-to-protect-major-rivers-from-illegal-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/naimos-launches-operation-water-shield-to-protect-major-rivers-from-illegal-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-09-10-cocoa-lands-now-security-zones-as-farmers-step-up-anti-galam",
@@ -431,6 +552,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/lands-ministry-engages-asutifi-north-stakeholders-on-responsible-mining-initiative/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-11T16:31:17.172Z",
       "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
     },
     {
@@ -14669,7 +14791,8 @@
         "name": "GhanaWeb",
         "url": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EPA-tryouts-ionic-nano-copper-technology-on-polluted-Birim-River-2023079"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
       "id": "rec-2026-02-05-nyankumase",
