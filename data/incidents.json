@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-12T10:49:57.387Z",
+  "updated": "2026-09-12T15:36:53.589Z",
   "counts": {
-    "total": 760,
+    "total": 765,
     "verified": 28,
-    "automated": 732,
+    "automated": 737,
     "earliest": "2024-07-01",
     "latest": "2026-09-12"
   },
@@ -25,7 +25,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk16LVVCWHVjaUFDRmhjSS1HSWRXdmpIam1NenZsOXJ0RHRTeWVmQlJKVWdUa2NwYngzQ2F2Sm5KNjlrMGJOeVNxX0dCYUZocUdmMW9jaTlid2Q3bkxFZUp1SkpEM0dmSk50LXN4T3hfOVplS0pxcG84TnFNLVk4ZkJNck5IWS1oRmgxS0ZQZDFyRUk?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-12T15:30:07.988Z",
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
     },
     {
       "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today-kofi-benti",
@@ -45,24 +47,25 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0ZZcC1iajVFMTdQTUtUcnRMZkZYX3NMOS1Ia2Y3bWNZeWNVZGNFUTlWM1RsaTJoMlNLZkhSQWFDRjh0Y3dySThkZWxXbGI3d2RjbExMOE9EaGdheXR6OEtfMmRuRFdKb3dDOTdqNnN5aDJFb2tIT08ybC1rRTMxUw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-12T15:30:20.524Z",
       "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
     },
     {
       "id": "auto-2026-09-12-atewa-forest-under-unprecedented-galamsey-attack-could-be-lo",
       "date": "2026-09-12",
       "category": "forest",
-      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends",
+      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "Deputy National Director of A Rocha Ghana, Daryl Bosu, has warned that the Atewa Forest Reserve could be lost before the end of the current government’s term if urgent measures are not taken to protect it.",
+      "summary": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu 3News",
       "metrics": {},
       "source": {
-        "name": "Daryl Bosu",
-        "url": "https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
@@ -143,6 +146,104 @@
         "url": "https://3news.com/news/there-is-no-fight-against-galamsey-today-kofi-bentil"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/there-is-no-fight-against-galamsey-today-kofi-bentil",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-12-playback-the-keypoints-galamsey-cssps-challenges-and-vacancy",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "PLAYBACK: The KeyPoints- Galamsey, CSSPS challenges and vacancy on the Council of State",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PLAYBACK: The KeyPoints- Galamsey, CSSPS challenges and vacancy on the Council of State 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk16LVVCWHVjaUFDRmhjSS1HSWRXdmpIam1NenZsOXJ0RHRTeWVmQlJKVWdUa2NwYngzQ2F2Sm5KNjlrMGJOeVNxX0dCYUZocUdmMW9jaTlid2Q3bkxFZUp1SkpEM0dmSk50LXN4T3hfOVplS0pxcG84TnFNLVk4ZkJNck5IWS1oRmgxS0ZQZDFyRUk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk16LVVCWHVjaUFDRmhjSS1HSWRXdmpIam1NenZsOXJ0RHRTeWVmQlJKVWdUa2NwYngzQ2F2Sm5KNjlrMGJOeVNxX0dCYUZocUdmMW9jaTlid2Q3bkxFZUp1SkpEM0dmSk50LXN4T3hfOVplS0pxcG84TnFNLVk4ZkJNck5IWS1oRmgxS0ZQZDFyRUk?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
+    },
+    {
+      "id": "auto-2026-09-12-galamsey-fight-akwatia-mp-calls-for-more-resources-to-streng",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "Galamsey fight: Akwatia MP calls for more resources to strengthen NAIMOS",
+      "place": "Akwatia",
+      "region": "Eastern",
+      "lat": 6.05,
+      "lon": -0.75,
+      "summary": "Galamsey fight: Akwatia MP calls for more resources to strengthen NAIMOS 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDV6di1HeXRTZGpxb3pFbG9mU0duVTBMT3ZjSG5ib2JJMnZveGlER3NJTGVFRmdfMWthTVBIbFBIUFJod0UtUHloZXc5Qm53QmFXZlk4ZGdXQ0x1TnduVEhTWEZ5cTdGOUM4cFBOY2RmcGZ5WkxrZVJFN1d4SExKV2JGZUFFZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDV6di1HeXRTZGpxb3pFbG9mU0duVTBMT3ZjSG5ib2JJMnZveGlER3NJTGVFRmdfMWthTVBIbFBIUFJod0UtUHloZXc5Qm53QmFXZlk4ZGdXQ0x1TnduVEhTWEZ5cTdGOUM4cFBOY2RmcGZ5WkxrZVJFN1d4SExKV2JGZUFFZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-12-the-key-points-galamsey-is-slowly-killing-the-atewa-forest-d",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "The Key Points: Galamsey Is Slowly Killing the Atewa Forest - Daryl Bosu of A Rocha Ghana",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "The Key Points: Galamsey Is Slowly Killing the Atewa Forest - Daryl Bosu of A Rocha Ghana Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wZ3FydDJVNjNwMEczQ2dLNXdiRndqSmhjazM4ZXJiazlmcWRMTXZxS1d2bFZwenNlNmxnNHJWR01XYVgwWXZLSVlfR19ZOVg2TTRrRC10QkQ3eDM1Q2hB0gFcQVVfeXFMTUNqcG5YaTBuNExrRHlGeGhhUG92blc0c0V4ZHJTTHo3R19faklYWW1HeDEydHc0ZDZyYTlORmltOGVsMU1EV2R2NVJ1TURmRWpVY2tZNzJ4QkpHS1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wZ3FydDJVNjNwMEczQ2dLNXdiRndqSmhjazM4ZXJiazlmcWRMTXZxS1d2bFZwenNlNmxnNHJWR01XYVgwWXZLSVlfR19ZOVg2TTRrRC10QkQ3eDM1Q2hB0gFcQVVfeXFMTUNqcG5YaTBuNExrRHlGeGhhUG92blc0c0V4ZHJTTHo3R19faklYWW1HeDEydHc0ZDZyYTlORmltOGVsMU1EV2R2NVJ1TURmRWpVY2tZNzJ4QkpHS1E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
+    },
+    {
+      "id": "auto-2026-09-12-galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-ac",
+      "date": "2026-09-12",
+      "category": "policy",
+      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity'",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Vice President of IMANI Africa, Kofi Bentil, has criticised the government’s National Anti-Illegal Mining Operations Secretariat (NAIMOS), describing it as an ineffective intervention in the fight against illegal mining also known as Galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "Kofi Bentil",
+        "url": "https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-09-12-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana",
+      "date": "2026-09-12",
+      "category": "policy",
+      "title": "Govt must unlock $1.7bn investment for WASH — WaterAid Ghana",
+      "place": "Cape Coast",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The inability of the government to release early funds allocated to water, sanitation and hygiene (WASH) is threatening efforts to tackle the country’s worsening water crisis and build resilience against climate change, WaterAid Ghana, has said. The organisation is consequently calling for an urgent shift in the government financing priorities to ensure that the estimated $1.7 billion required annually for WASH was f",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana.html",
       "via": "rss",
       "verified": false
     },
@@ -10061,8 +10162,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:45:17.785Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-08-12T13:45:17.785Z"
     },
     {
       "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
