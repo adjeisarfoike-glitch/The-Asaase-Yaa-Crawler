@@ -1,13 +1,151 @@
 {
-  "updated": "2026-09-12T04:38:09.447Z",
+  "updated": "2026-09-12T10:49:57.387Z",
   "counts": {
-    "total": 753,
+    "total": 760,
     "verified": 28,
-    "automated": 725,
+    "automated": 732,
     "earliest": "2024-07-01",
-    "latest": "2026-09-11"
+    "latest": "2026-09-12"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "LIVE: Galamsey, CSSPS challenges and vacancy on the Council of State",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: Galamsey, CSSPS challenges and vacancy on the Council of State 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk16LVVCWHVjaUFDRmhjSS1HSWRXdmpIam1NenZsOXJ0RHRTeWVmQlJKVWdUa2NwYngzQ2F2Sm5KNjlrMGJOeVNxX0dCYUZocUdmMW9jaTlid2Q3bkxFZUp1SkpEM0dmSk50LXN4T3hfOVplS0pxcG84TnFNLVk4ZkJNck5IWS1oRmgxS0ZQZDFyRUk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxQZk16LVVCWHVjaUFDRmhjSS1HSWRXdmpIam1NenZsOXJ0RHRTeWVmQlJKVWdUa2NwYngzQ2F2Sm5KNjlrMGJOeVNxX0dCYUZocUdmMW9jaTlid2Q3bkxFZUp1SkpEM0dmSk50LXN4T3hfOVplS0pxcG84TnFNLVk4ZkJNck5IWS1oRmgxS0ZQZDFyRUk?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today-kofi-benti",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "There is no fight against galamsey in Ghana today - Kofi Bentil",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "There is no fight against galamsey in Ghana today - Kofi Bentil 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0ZZcC1iajVFMTdQTUtUcnRMZkZYX3NMOS1Ia2Y3bWNZeWNVZGNFUTlWM1RsaTJoMlNLZkhSQWFDRjh0Y3dySThkZWxXbGI3d2RjbExMOE9EaGdheXR6OEtfMmRuRFdKb3dDOTdqNnN5aDJFb2tIT08ybC1rRTMxUw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0ZZcC1iajVFMTdQTUtUcnRMZkZYX3NMOS1Ia2Y3bWNZeWNVZGNFUTlWM1RsaTJoMlNLZkhSQWFDRjh0Y3dySThkZWxXbGI3d2RjbExMOE9EaGdheXR6OEtfMmRuRFdKb3dDOTdqNnN5aDJFb2tIT08ybC1rRTMxUw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
+    },
+    {
+      "id": "auto-2026-09-12-atewa-forest-under-unprecedented-galamsey-attack-could-be-lo",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Deputy National Director of A Rocha Ghana, Daryl Bosu, has warned that the Atewa Forest Reserve could be lost before the end of the current government’s term if urgent measures are not taken to protect it.",
+      "metrics": {},
+      "source": {
+        "name": "Daryl Bosu",
+        "url": "https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
+    },
+    {
+      "id": "auto-2026-09-12-daryl-bosu-of-a-rocha-ghana-questions-commitment-of-state-ac",
+      "date": "2026-09-12",
+      "category": "forest",
+      "title": "Daryl Bosu of A Rocha Ghana questions commitment of state actors to fight galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Daryl Bosu of A Rocha Ghana questions commitment of state actors to fight galamsey 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZzh6MWlzTl84bVR2UVdUOUkzbzBWOTE3RHllN0s5OTl6OHFBT3YxMDRvdVlNSzZneko5eVQwOEF5UEZRWGtKRDNSUGI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZzh6MWlzTl84bVR2UVdUOUkzbzBWOTE3RHllN0s5OTl6OHFBT3YxMDRvdVlNSzZneko5eVQwOEF5UEZRWGtKRDNSUGI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
+    },
+    {
+      "id": "auto-2026-09-12-parliamentary-committee-on-human-rights-partners-visit-child",
+      "date": "2026-09-12",
+      "category": "policy",
+      "title": "Parliamentary Committee on Human Rights, partners visit child labour-prone communities",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Suhum and Abuakwa South Municipalities, both in the Eastern Region, host numerous farming communities. Apart from the Suhum and Kyebi townships, the capitals of the two municipalities, most residents in the other communities derive their livelihoods from trading and farming. Communities surrounding the two towns such as Jato, Nankese, Okorase, Akorabo, Obretema, Omenaku, Ayisikrom and Kofigya in the Suhum Municipalit",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-parliamentary-committee-on-human-rights-partners-visit-child-labour-prone-communities.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-parliamentary-committee-on-human-rights-partners-visit-child-labour-prone-communities.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships",
+      "date": "2026-09-12",
+      "category": "policy",
+      "title": "Ghana woos China for new mining partnerships",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana has urged Chinese investors in the country to move beyond the traditional export of raw minerals to a partnership in processing, technology transfer, skills development and industrialisation towards a deeper mining cooperation between the two economies. The Minister of Lands and Natural Resources, Emmanuel Armah-Kofi Buah, made the call when he addressed the Ministerial Forum on International Mining Cooperation",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-woos-china-for-new-mining-partnerships.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-woos-china-for-new-mining-partnerships.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today",
+      "date": "2026-09-12",
+      "category": "policy",
+      "title": "There is no fight against galamsey in Ghana today",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "According to him, what the government has been doing are activities that only create an impression of seriousness without results.",
+      "metrics": {},
+      "source": {
+        "name": "Kofi Bentil",
+        "url": "https://3news.com/news/there-is-no-fight-against-galamsey-today-kofi-bentil"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/there-is-no-fight-against-galamsey-today-kofi-bentil",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-11-govt-pledges-to-complete-gh-4-12bn-bono-road-projects",
       "date": "2026-09-11",
@@ -3122,8 +3260,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOXNKbUhrd1JfRnZ1ek55bVVMTDBDa0YxSV9IN1IzYVJqWmdFTW1McmQ0UklWUlNIZHR2UkM2QmwwbkNHYVo2TTU2Z3kySjdrZkpxMFpRNzV1TlhlbEs1Sl9yNNIBXEFVX3lxTE9MbUUwdmoxblpjUnJFNXdQZlNlR0c5WHR5aWdlQlpsVHpfTnJySjAyZGtxdzAyTVNPeVdCVU41VExmUFZMSDNBalFmYVAtTDU0YkJsUG5DVW84Um1S?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+      "verified": false
     },
     {
       "id": "auto-2026-08-31-zanetor-agyeman-rawlings-pledges-decisive-action-on-climate-",
@@ -6736,7 +6873,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTlTQkdBbFpTR3pDdnpvS3ZYY3p3VlFNUGQ0b0NWNWN5SjRRZWs4dHlzelVPN05qOXFsZ1k5X3JBVVhwQXVXeEpVY0xVZzh3Y0t3a0w5MGJKTXZvUUpLSDVZUVNVdW9RNDZ6SWo4dGd1cV9BRXNhMF80MG4wd0ZJS2JQUjhBVV9nX2ZYZTZkeXo1RUFaVVpzbWtrbm9MUjZ3bEkwdVF4WU93dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
     },
     {
       "id": "auto-2026-08-22-tano-north-chiefs-tackle-police-over-routine-release-of-arre",
@@ -12385,7 +12523,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOZTFBWGUzY0VLMHhuZUFPYTBDVFZEUzdLRkNwOWRYQnZXWktFQ2E0akxLRG5aaExNSF9MV0sxcFE4aE1ra2puTDJCZU9Sc01FcGJnVW9xRTZ2ekl1ODZsU3BVZFlHMjRVb3dGbko4eUdTTWRzVDJwX2padUN1N3p6T19tV3VTcWFVeDUtVUhZcmd4VzRKNEVF?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
     },
     {
       "id": "auto-2026-08-06-finish-the-fight-against-galamsey-widow-of-crash-victim-urge",
