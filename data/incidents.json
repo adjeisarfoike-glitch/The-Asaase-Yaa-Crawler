@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-13T16:17:59.841Z",
+  "updated": "2026-09-13T20:51:20.942Z",
   "counts": {
-    "total": 770,
+    "total": 772,
     "verified": 28,
-    "automated": 742,
+    "automated": 744,
     "earliest": "2024-07-01",
     "latest": "2026-09-13"
   },
@@ -46,6 +46,44 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-13-ghana-china-agree-three-point-strategy-to-tackle-illegal-min",
+      "date": "2026-09-13",
+      "category": "forest",
+      "title": "Ghana, China agree three-point strategy to tackle illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana, China agree three-point strategy to tackle illegal mining 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE1zLTB5NTBoeVVwc2ZqRE1KU3ZnVGt1YWpTYkNHUVRqLUh3amtVckl4YWdjQ21BZWN2RWtfOFpuWFFSanpHcE1NUzBaOWdDWEZQM1k4aFJqMXFVNUw0UVQxR1JFN3dpLVlwT0hPaGdiaTBHWFBYaGNSaW5WNUZ2UXAyX3FNamJPVmxrbVQ4SQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxNTE1zLTB5NTBoeVVwc2ZqRE1KU3ZnVGt1YWpTYkNHUVRqLUh3amtVckl4YWdjQ21BZWN2RWtfOFpuWFFSanpHcE1NUzBaOWdDWEZQM1k4aFJqMXFVNUw0UVQxR1JFN3dpLVlwT0hPaGdiaTBHWFBYaGNSaW5WNUZ2UXAyX3FNamJPVmxrbVQ4SQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-13-ghana-china-deepen-cooperation-on-galamsey-and-mining-sector",
+      "date": "2026-09-13",
+      "category": "forest",
+      "title": "Ghana, China deepen cooperation on galamsey and mining sector",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana, China deepen cooperation on galamsey and mining sector MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3FDZlBFZURFSW1xdFRQSXZxTmlqcXJNcGNHY0xjUGJOUFAwOERDNGsxSXIzWFNyYWFKWXh0djhEeGttMjlBMEVVWFNPR2VNdzhaUjloUWU3UWUxLXdidVBrQnF5aThUQ1dWdVZLUXNGMmJGWXphT1lRaWIzVDY3eUF0Vi1KUzJLcGc5eS1zMjFfX0k?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxQU3FDZlBFZURFSW1xdFRQSXZxTmlqcXJNcGNHY0xjUGJOUFAwOERDNGsxSXIzWFNyYWFKWXh0djhEeGttMjlBMEVVWFNPR2VNdzhaUjloUWU3UWUxLXdidVBrQnF5aThUQ1dWdVZLUXNGMmJGWXphT1lRaWIzVDY3eUF0Vi1KUzJLcGc5eS1zMjFfX0k?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of",
@@ -93,18 +131,18 @@
       "id": "auto-2026-09-12-atewa-forest-under-unprecedented-galamsey-attack-could-be-lo",
       "date": "2026-09-12",
       "category": "forest",
-      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu",
+      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu 3news.com",
+      "summary": "Deputy National Director of A Rocha Ghana, Daryl Bosu, has warned that the Atewa Forest Reserve could be lost before the end of the current government’s term if urgent measures are not taken to protect it.",
       "metrics": {},
       "source": {
-        "name": "3news.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5"
+        "name": "Daryl Bosu",
+        "url": "https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
@@ -250,22 +288,22 @@
     {
       "id": "auto-2026-09-12-galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-ac",
       "date": "2026-09-12",
-      "category": "policy",
-      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity'",
+      "category": "forest",
+      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Vice President of IMANI Africa, Kofi Bentil, has criticised the government’s National Anti-Illegal Mining Operations Secretariat (NAIMOS), describing it as an ineffective intervention in the fight against illegal mining also known as Galamsey.",
+      "summary": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil 3News",
       "metrics": {},
       "source": {
-        "name": "Kofi Bentil",
-        "url": "https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
     },
     {
       "id": "auto-2026-09-12-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana",
@@ -10259,7 +10297,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:45:17.785Z"
+      "archivedAt": "2026-08-12T13:45:17.785Z",
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
