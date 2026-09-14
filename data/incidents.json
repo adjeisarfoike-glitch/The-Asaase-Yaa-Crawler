@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-13T20:51:20.942Z",
+  "updated": "2026-09-14T04:55:54.865Z",
   "counts": {
-    "total": 772,
+    "total": 775,
     "verified": 28,
-    "automated": 744,
+    "automated": 747,
     "earliest": "2024-07-01",
     "latest": "2026-09-13"
   },
@@ -86,6 +86,46 @@
       "verified": false
     },
     {
+      "id": "auto-2026-09-13-ghana-china-sign-illegal-mining-cooperation-agreement-to-fig",
+      "date": "2026-09-13",
+      "category": "forest",
+      "title": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmRfQUxFOTItczg2OWFyQURpQkxzQ0gwdUVDVW1qeXM4Q05nRG5zTldTcnY1cXlBTk1ha3BPenpMeGx3aTA2el9TV0RLeU9QZDEwQnRJS05BZUFuMnNHdDMyREdVWVEya05Sby0yYWZnd1Zzb3pmbWt6dm5JZENWOU83QmRwOGhZRlRFcW1Fdm1yVllUMVBTdnNHYW9CZ05WUmoyT1lkdGYyRl9jZ2pmVDZRNm01UTM4aF9kMw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmRfQUxFOTItczg2OWFyQURpQkxzQ0gwdUVDVW1qeXM4Q05nRG5zTldTcnY1cXlBTk1ha3BPenpMeGx3aTA2el9TV0RLeU9QZDEwQnRJS05BZUFuMnNHdDMyREdVWVEya05Sby0yYWZnd1Zzb3pmbWt6dm5JZENWOU83QmRwOGhZRlRFcW1Fdm1yVllUMVBTdnNHYW9CZ05WUmoyT1lkdGYyRl9jZ2pmVDZRNm01UTM4aF9kMw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
+    },
+    {
+      "id": "auto-2026-09-13-ghana-china-deepen-cooperation-to-tackle-illegal-mining",
+      "date": "2026-09-13",
+      "category": "policy",
+      "title": "Ghana, China deepen cooperation to tackle illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana and China have agreed to strengthen cooperation in the fight against illegal mining while expanding collaboration in geological exploration, environmental protection and responsible investment in Ghana’s mining sector. The agreement was reached during a high-level meeting between Ghana’s Minister of Lands and Natural Resources, Emmanuel Armah-Kofi Buah, and China’s Deputy Minister of Natural Resources, […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/ghana-china-deepen-cooperation-to-tackle-illegal-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/ghana-china-deepen-cooperation-to-tackle-illegal-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
+    },
+    {
       "id": "auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of",
       "date": "2026-09-12",
       "category": "forest",
@@ -131,18 +171,18 @@
       "id": "auto-2026-09-12-atewa-forest-under-unprecedented-galamsey-attack-could-be-lo",
       "date": "2026-09-12",
       "category": "forest",
-      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends",
+      "title": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "Deputy National Director of A Rocha Ghana, Daryl Bosu, has warned that the Atewa Forest Reserve could be lost before the end of the current government’s term if urgent measures are not taken to protect it.",
+      "summary": "Atewa Forest under unprecedented galamsey attack, could be lost before gov't tenure ends - Daryl Bosu 3News",
       "metrics": {},
       "source": {
-        "name": "Daryl Bosu",
-        "url": "https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/atewa-forest-under-unprecedented-attack-could-be-lost-before-govt-tenure-ends-a-rocha-ghana",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxOWUQ0NVJtc016WnlNVkNSNGRGN09wSy15cmNEcXFYTGpzb0tJajJ5VDdqcGhfeTNudEUtQ3YwTWhKQ2xvV29xNHh1UktjZDRwYUZDYVBIVXBVR0tJVXNzUFhLeVhzWEViWXdKMm1jMDFlVVUtN0RaS2xDbkVNcndBUlE0ZTZpSkw1QktVNFVobWU3amdHbHY4MktoT3NYX0F1YnlZWmEwYzlGb2NHRVNnSlVFbWI?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
@@ -205,7 +245,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-woos-china-for-new-mining-partnerships.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
     },
     {
       "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today",
@@ -288,22 +328,22 @@
     {
       "id": "auto-2026-09-12-galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-ac",
       "date": "2026-09-12",
-      "category": "forest",
-      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil",
+      "category": "policy",
+      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity'",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil 3News",
+      "summary": "Vice President of IMANI Africa, Kofi Bentil, has criticised the government’s National Anti-Illegal Mining Operations Secretariat (NAIMOS), describing it as an ineffective intervention in the fight against illegal mining also known as Galamsey.",
       "metrics": {},
       "source": {
-        "name": "3News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5"
+        "name": "Kofi Bentil",
+        "url": "https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-09-12-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana",
@@ -609,6 +649,26 @@
       "verified": false,
       "archivedAt": "2026-09-12T04:33:18.608Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-09-11-galamsey-in-numbers-beyond-the-numbers",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "Galamsey in numbers | Beyond The Numbers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey in numbers | Beyond The Numbers Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaOUFBY3k3UjhKUm9Gb0JtOFlMazh0M3VyalBCQ2dBV1p0eW1abnQzYzMyYXgxNzFqcnl2bTQtMnd3VzRRUy1MSGFoU014dERlQmRReXhpSlcydGlIYWRpNnRUN1nSAVxBVV95cUxOTGppUzU4X0QwNU5wNldhM3pqUnFsaW4zOURUb0E3NFdSN1REd3JfelJtNGtCVHFWQU0wVU1qNGVlUXd6aEttamdWdmRla3BHcmJvUlRtbTVFclF1dQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaOUFBY3k3UjhKUm9Gb0JtOFlMazh0M3VyalBCQ2dBV1p0eW1abnQzYzMyYXgxNzFqcnl2bTQtMnd3VzRRUy1MSGFoU014dERlQmRReXhpSlcydGlIYWRpNnRUN1nSAVxBVV95cUxOTGppUzU4X0QwNU5wNldhM3pqUnFsaW4zOURUb0E3NFdSN1REd3JfelJtNGtCVHFWQU0wVU1qNGVlUXd6aEttamdWdmRla3BHcmJvUlRtbTVFclF1dQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-09-10-cocoa-lands-now-security-zones-as-farmers-step-up-anti-galam",
@@ -991,8 +1051,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/media-must-continue-to-shine-light-on-illegal-mining-lands-minister/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-09-08-lands-ministry-engages-asutifi-north-stakeholders-on-respons",
@@ -9455,7 +9514,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-16-i-m-not-against-enforcing-the-law-duncan-williams-on-prayers",
@@ -9930,8 +9989,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -10297,8 +10355,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:45:17.785Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-08-12T13:45:17.785Z"
     },
     {
       "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
@@ -11547,8 +11604,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-murtala-mohammed-left-indelible-footprints-at-mest-armah-kofi-buah-eulogises.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-illegal-mining-lures-ghanaian-children-out-of-school-and-int",
@@ -11666,7 +11722,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
@@ -14669,8 +14725,7 @@
         "name": "The Sikaman Times",
         "url": "https://sikamantimes.com/govt-reports-200-anti-galamsey-operations-207-arrests-in-first-half-of-2026/"
       },
-      "verified": true,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": true
     },
     {
       "id": "auto-2026-07-16-some-reclamation-contractors-using-galamsey-to-fund-their-wo",
