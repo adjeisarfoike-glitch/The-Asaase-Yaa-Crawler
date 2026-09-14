@@ -1,13 +1,133 @@
 {
-  "updated": "2026-09-14T04:55:54.865Z",
+  "updated": "2026-09-14T12:45:05.465Z",
   "counts": {
-    "total": 775,
+    "total": 781,
     "verified": 28,
-    "automated": 747,
+    "automated": 753,
     "earliest": "2024-07-01",
-    "latest": "2026-09-13"
+    "latest": "2026-09-14"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "China angry over nationals’ involvement in galamsey – Kojo Bonsu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "China angry over nationals’ involvement in galamsey – Kojo Bonsu CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmxxbEZEWlpkbGx0THdrbXAycmVFX3g2blh6VmhzSUhxLVV0b21ZMVhqZ2Izckc0ZG5VMDhhbTJjS1ZRdkVtSXVXSFdqa2hXYmR2c2Q1RTg5SVlWRDVnX0FGQkM3ME1zTDVzUFlOZXY4WHZ6R251U1NJMFhYUUZTWWYzT2lLRHd4UC1DdHpobmo2eTJ4OHEwNFR5RjZDXzNa?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmxxbEZEWlpkbGx0THdrbXAycmVFX3g2blh6VmhzSUhxLVV0b21ZMVhqZ2Izckc0ZG5VMDhhbTJjS1ZRdkVtSXVXSFdqa2hXYmR2c2Q1RTg5SVlWRDVnX0FGQkM3ME1zTDVzUFlOZXY4WHZ6R251U1NJMFhYUUZTWWYzT2lLRHd4UC1DdHpobmo2eTJ4OHEwNFR5RjZDXzNa?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
+    },
+    {
+      "id": "auto-2026-09-14-xi-jinping-assigns-chinese-official-to-help-ghana-fight-gala",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "Xi Jinping Assigns Chinese Official to Help Ghana Fight Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Xi Jinping Assigns Chinese Official to Help Ghana Fight Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nOTlXTWxsSENFLUZHTUF5NDVPcEM2OGZ0R2ZGMmFMeTA5Tzk1UGlKU1FQaXdUNFNZNkRFeW9RY2x4STY4cXZnWTU0SmlBV2w0MnVOZ3JETnBDYkcyVTI2NWt4Z9IBXEFVX3lxTE1YWE1vOEEwY21hVnBBeVFMSURjR3VzTmhRcFVMZXlPSWZsZnBSM2EtbkdOS3diTUdxRUhMVi1lQVA4a0tkMDB4d2pXV3IzV0ZpaWRkQzF5Q05GemZM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nOTlXTWxsSENFLUZHTUF5NDVPcEM2OGZ0R2ZGMmFMeTA5Tzk1UGlKU1FQaXdUNFNZNkRFeW9RY2x4STY4cXZnWTU0SmlBV2w0MnVOZ3JETnBDYkcyVTI2NWt4Z9IBXEFVX3lxTE1YWE1vOEEwY21hVnBBeVFMSURjR3VzTmhRcFVMZXlPSWZsZnBSM2EtbkdOS3diTUdxRUhMVi1lQVA4a0tkMDB4d2pXV3IzV0ZpaWRkQzF5Q05GemZM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-14-rejoinder-galamsey-does-not-need-a-new-intelligence-architec",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "REJOINDER: Galamsey Does Not Need A New Intelligence Architecture",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "REJOINDER: Galamsey Does Not Need A New Intelligence Architecture NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNMU1M4MUdHUUlMZkxvNlJCYjdRZU9JalZkRlJKTER2QXA0XzlrV3ltQVJtalBxaGdkYW1XZlE1X1dXZ2lUaEphU0gtTG9sVWdjeUlUSUNlZWxGSGlzOUNTM1EwOTBTdHgyVDB6TTFjaXg3TVNvUS1XeUJ2SldnZ0NpeGxiN3dFMExTekgtWjlKanhO?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNMU1M4MUdHUUlMZkxvNlJCYjdRZU9JalZkRlJKTER2QXA0XzlrV3ltQVJtalBxaGdkYW1XZlE1X1dXZ2lUaEphU0gtTG9sVWdjeUlUSUNlZWxGSGlzOUNTM1EwOTBTdHgyVDB6TTFjaXg3TVNvUS1XeUJ2SldnZ0NpeGxiN3dFMExTekgtWjlKanhO?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
+    },
+    {
+      "id": "auto-2026-09-14-painful-scenes-as-obituary-poster-of-8-lost-in-galamsey-pit-",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "Painful scenes as obituary poster of 8 lost in galamsey pit collapse surfaces",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Painful scenes as obituary poster of 8 lost in galamsey pit collapse surfaces Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDFBTF95T1dBN01UR3l0MDhaLXVhcHBBTjI5TnBIM1pabG1QSHUwc2JrWmg5T2d1MDI0bk9ZT0hsc1BwZDZ5Q1d6YkRFRjcwQ0VwdG5zRVV2eFJTNDVzSmJ3aFVGNXZURzZIZDh0dlVjMDZTUTF4a0dCLVNTU3RRaEM1RzBzLWtxWGtWWTdPMmRGeUN6SUYxR0hYVFQxVk9pOGFDVVNsUHhCNzlBTE82TmhVbXctdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDFBTF95T1dBN01UR3l0MDhaLXVhcHBBTjI5TnBIM1pabG1QSHUwc2JrWmg5T2d1MDI0bk9ZT0hsc1BwZDZ5Q1d6YkRFRjcwQ0VwdG5zRVV2eFJTNDVzSmJ3aFVGNXZURzZIZDh0dlVjMDZTUTF4a0dCLVNTU3RRaEM1RzBzLWtxWGtWWTdPMmRGeUN6SUYxR0hYVFQxVk9pOGFDVVNsUHhCNzlBTE82TmhVbXctdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-14-atewa-forest-faces-unprecedented-illegal-mining-threat-a-roc",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "Atewa Forest faces \"unprecedented\" illegal mining threat – A Rocha Ghana",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Atewa Forest faces \"unprecedented\" illegal mining threat – A Rocha Ghana asaaseradio.com",
+      "metrics": {},
+      "source": {
+        "name": "asaaseradio.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmRuVkR3LWU0T0xIUFFpSWNjZWFQX285bjI3cTIzTHM0VGlmLVBPeGtjRkZMVE0za09kXzJvb2Z5MkRMVFB4U1Y2c3E3OHViRzFDMHZRLVhvd1Z3dWRlWGZtQUprb0hROFN5MkRjUG9ib3hPcEZualRDdnc4OEdxVXgxd0d4YktZZGJfODdOZVRFWTQtQ3J4aQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmRuVkR3LWU0T0xIUFFpSWNjZWFQX285bjI3cTIzTHM0VGlmLVBPeGtjRkZMVE0za09kXzJvb2Z5MkRMVFB4U1Y2c3E3OHViRzFDMHZRLVhvd1Z3dWRlWGZtQUprb0hROFN5MkRjUG9ib3hPcEZualRDdnc4OEdxVXgxd0d4YktZZGJfODdOZVRFWTQtQ3J4aQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
+    },
+    {
+      "id": "auto-2026-09-14-central-region-17-excavators-seized-in-naimos-operation-at-s",
+      "date": "2026-09-14",
+      "category": "arrest",
+      "title": "Central Region: 17 excavators seized in NAIMOS operation at Subin-Akwaboso",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "Central Region: 17 excavators seized in NAIMOS operation at Subin-Akwaboso 3News",
+      "metrics": {
+        "excavators": 17
+      },
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk9ycUdNZk5RcmNETF8zN2Q3OHJEYU8wRzR4VTBhSTRxVVotbGNackowcEFMRGRSelNwSEdTbnYwXzgxX1FEWjF5ZEw2cDJFT0VGcW1uRkhfUzVZblVFMUppelZBT24wLXl2Vlh6MS1DYnVqM2hTb1V4NlpKMFR4bkRodUdDMnd1QXB5QXk4YUdIQ19adFBtQlUzUDA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk9ycUdNZk5RcmNETF8zN2Q3OHJEYU8wRzR4VTBhSTRxVVotbGNackowcEFMRGRSelNwSEdTbnYwXzgxX1FEWjF5ZEw2cDJFT0VGcW1uRkhfUzVZblVFMUppelZBT24wLXl2Vlh6MS1DYnVqM2hTb1V4NlpKMFR4bkRodUdDMnd1QXB5QXk4YUdIQ19adFBtQlUzUDA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-13-watch-as-naimos-task-force-raids-galamsey-sites-seizes-excav",
       "date": "2026-09-13",
@@ -328,22 +448,22 @@
     {
       "id": "auto-2026-09-12-galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-ac",
       "date": "2026-09-12",
-      "category": "policy",
-      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity'",
+      "category": "forest",
+      "title": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Vice President of IMANI Africa, Kofi Bentil, has criticised the government’s National Anti-Illegal Mining Operations Secretariat (NAIMOS), describing it as an ineffective intervention in the fight against illegal mining also known as Galamsey.",
+      "summary": "Galamsey fight: 'NAIMOS is an excuse to suggest there is an activity' - Kofi Bentil 3News",
       "metrics": {},
       "source": {
-        "name": "Kofi Bentil",
-        "url": "https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-is-an-excuse-to-suggest-there-is-an-activity-kofi-bentil",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVqU1dfaTR2WkRRdFl2RWNFNnZ0TmtPTk91T3AyVTZ0T3FKSHZnSG9aTTQ5QnhUT0ZxU0NYWFY3VnU2QU5LUTdubVBqNUdqQXlJMkJPYXlWSUJxUG01NXM0a2N6eUg5a29UNlVUdzhSOFEyRnNhcGpERmVtWlF4YUtUT2VwR2JjdklncUo1YlZ0OHBtUUN3NXZYeWN6UlNFUHRj?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
     },
     {
       "id": "auto-2026-09-12-govt-must-unlock-1-7bn-investment-for-wash-wateraid-ghana",
@@ -420,7 +540,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTJLMHF5MExvU1hRTS05NG9YME5yaHRYb3lBZlpMcmp0aW1rRE4xYXJhb1lHV1plZnp3WkkxQzVZeUxnNUlhTDRic3NONDVhNTRzVU1NcHZUUUZZNGZKVUs4T1M1VjZ3YlI2aG0yLUZkeU5ySnFnY3ZjQkR3LXJJS09odTBZbFdDbWdjbDQxSTc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
     },
     {
       "id": "auto-2026-09-11-govt-pledges-to-complete-gh-4-12bn-bono-road-projects",
@@ -606,7 +727,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-12T04:32:17.206Z",
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-09-11-naimos-launches-operation-water-shield-targets-galamsey-fina",
@@ -2740,7 +2861,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNdDFCcE9raFAyQ2o4NzJYekhkZExlNzV2NEZ4RW5DQ3FpTUFVbTlaUlI5eEdLUFp0OE5jX0pWVVNWSmJJeTVtZ1FnS25FXzBpaHVOcmFBY2Ewdy1TSXQ5cm1JONIBXEFVX3lxTE5ucjBvM1AxbkFKQzhrNEJWaWtkODZTNDY0NmdXZ0pIVzJkRUpCZFdNZWlFZmZjSS02cVEtR09KaUhlSVdOT1B5YnVMd3BJdXlwVTAyNloyTWNwZnhM?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-09-03-i-will-die-with-integrity-than-be-corrupted-by-galamsey-land",
@@ -10355,7 +10476,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/14-illegal-miners-dead-scores-injured-in-south-africa/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:45:17.785Z"
+      "archivedAt": "2026-08-12T13:45:17.785Z",
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
       "id": "auto-2026-08-12-galamsey-destroys-60-of-rivers-scientists-raise-alarm-over-i",
@@ -10533,7 +10655,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkdCbllKNFRVSkJWT0x4dnRhVzlZSEhnWEx4RnRCNmoxSGdUNkkxQU0zbXNWZmg2cmdFQnFraFpnS3lnOFd6TXhKZzc3dWNMYWR1TWdHSEFYSXJrS2E5bFFRR1I4bDQ5S3hQVWxrMm1lUUduTGk1Y0NxdkdMUTRNeW9xSEt4eUwzMXdyYVBiVllwbjlyRll2R29rNEhDSFZ5aHR2U2lnZzhwbS0zRW1vV1Fn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-12-civil-society-coalition-steps-up-fight-against-transnational",
@@ -11681,8 +11803,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGx0VTFOd2hsZFFoWHhGWnRkOFFILXF1b2w4b0xCcUVxZVRfRU5zR0VWanZISnh5dVVmZVRoT1FlVDhwbXZSa19LaFQ5clh5RXJBdGt6dDNqUHUydHJYQndnZ2o4ZW9KZXhIUTJNVEY3NmczanhtNVhlaWxVejhQeXBxa240R2pUeXBwNEVCYm5xQQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-three-killed-after-illegal-mining-pit-collapse-at-odumase-sa",
@@ -11742,7 +11863,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMF9idVBVbEp6MTNMUTQ2YVphc1FJazNrX3VjWUZvQ3ZsbXZ6YWFnTFczamhidWxSdlo1aVNyRjBQcmVKWHpVcXFYNXY0aE91TGhEb0tMaFVoam5nR095S0FVNkJNLUJvTlNrQmIwUFRjNFZySHZaRG1fLV9Gc19DX192M3haQWpHWFg4?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
     },
     {
       "id": "auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o",
@@ -11761,8 +11882,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
@@ -11782,7 +11902,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-tano-crackdown-as-illegal-mining-op",
@@ -11802,7 +11922,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN3VFVfSUszRnBJdWdZVUdLTEF2R3drTmlqRmg0SExXbV9IRTlrVk8tY2ZmMGtYUklUblYySDR6b3lxT2I3cVFOaUZVeHA4OHNtM3JhbG5Zc2pHQ2hRZmZneGlJSkxPQ3VxQ25neTVuQ3UwVElMZUZyMm1CSU1TVnVhYVlBV0pkT2lsYUJGX0p4eGJVbVc2Rm4zVjF4XzhIMEVJVnltNA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-dab-i-tragedy-strikes-as-three-die-in-galamsey-pit-collapse-",
@@ -11860,7 +11980,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUs4ejA1ZERCczRPTFpwZEk1MG5VNFRQZm9RcTV2bUJoWHhiMFpNTDA2NEY5RUFmU0J0ZVpTd2E1VEFZN1JydXZJaDhMTnhXcFd1UlpXLWpsb3dPT2czTjlpcGFFc0llSlAyTjFKYnVMRGhxRnRVU1RScmJOS1o0Qm1KUVlCZFpwVFozRHRNN3hPT3pXREZwWmJpUHBjbDBm?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-goldbod-generated-10-8bn-in-forex-from-small-scale-gold-samm",
@@ -11919,8 +12039,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-bribe-taking-security-officials-undermining-galamsey-fight-m",
