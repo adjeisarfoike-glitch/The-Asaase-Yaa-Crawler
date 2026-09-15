@@ -1,13 +1,51 @@
 {
-  "updated": "2026-09-15T04:55:16.818Z",
+  "updated": "2026-09-15T11:45:03.036Z",
   "counts": {
-    "total": 791,
+    "total": 794,
     "verified": 28,
-    "automated": 763,
+    "automated": 766,
     "earliest": "2024-07-01",
-    "latest": "2026-09-14"
+    "latest": "2026-09-15"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
+      "date": "2026-09-15",
+      "category": "forest",
+      "title": "Mahama's Galamsey Fight Has Set an Unmatched Standard - Prof. Gyampo on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama's Galamsey Fight Has Set an Unmatched Standard - Prof. Gyampo on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSEYzZ0xrV3ZJcUNxLXZCdmhUR2tyUGJrQ21ickNJYmhqMkdaMk84aEFwTUZJemtJX1ZhSy1TNENPR1l0eldEeDljaS1OV2g3MTJrS1lyNVhzcVhMY3dJ0gFcQVVfeXFMTjR6TnF6SWw0S3d0ZVhwcER2Z094TWJka1NOSEhQVUhuVzk3RWVObjBxM18wZUxud1ZrYVRzNWgyWUhfZDdqX2pYMkk1ekQ2dVVfSktGZTB4b2p4bm8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSEYzZ0xrV3ZJcUNxLXZCdmhUR2tyUGJrQ21ickNJYmhqMkdaMk84aEFwTUZJemtJX1ZhSy1TNENPR1l0eldEeDljaS1OV2g3MTJrS1lyNVhzcVhMY3dJ0gFcQVVfeXFMTjR6TnF6SWw0S3d0ZVhwcER2Z094TWJka1NOSEhQVUhuVzk3RWVObjBxM18wZUxud1ZrYVRzNWgyWUhfZDdqX2pYMkk1ekQ2dVVfSktGZTB4b2p4bm8?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-15-share-information-on-emerging-security-threats",
+      "date": "2026-09-15",
+      "category": "policy",
+      "title": "Share information on emerging security threats",
+      "place": "Koforidua",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "A Stakeholder meeting to solicit practical and evidence-based inputs on Ghana’s 2020 National Security Strategy has been held at Koforidua, the Eastern Regional capital. The meeting which was organised by the National Security Council Secretariat (NSCS) forms part of the review process of emerging security threats. The meeting brought together representatives from the various security agencies in the region, heads of",
+      "metrics": {},
+      "source": {
+        "name": "Dr Mohammed to stakeholders",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-share-information-on-emerging-security-threats-dr-mohammed-to-stakeholders.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-share-information-on-emerging-security-threats-dr-mohammed-to-stakeholders.html",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
       "date": "2026-09-14",
@@ -319,6 +357,25 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHQ3UE41SUJ1YnlhaXM4ZUxGU3BLdHBQMVVGbFJ3Z0pYaXg1aGNxeWVFSDlrWUN1c1lZbk1NeDBhZ1RXQnN6d1dzcEhMNHV4MFlrUE1DQTRkNndrVG9HZFBZQ1FwaGJJcGUtLXpub2c0dnpZbzF5X29EQmRRUmlYakZpOUxqQUcxbXk1T0dabTk5dnJraXFnMV9EMFFDUUt2d19KWnhyTlpwOFhhSVgtRTdxUzhqVU1ydklKSWNSTC00SDNpX2pUUko1ZktXb3cyRmltNVpZUWlGdw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHQ3UE41SUJ1YnlhaXM4ZUxGU3BLdHBQMVVGbFJ3Z0pYaXg1aGNxeWVFSDlrWUN1c1lZbk1NeDBhZ1RXQnN6d1dzcEhMNHV4MFlrUE1DQTRkNndrVG9HZFBZQ1FwaGJJcGUtLXpub2c0dnpZbzF5X29EQmRRUmlYakZpOUxqQUcxbXk1T0dabTk5dnJraXFnMV9EMFFDUUt2d19KWnhyTlpwOFhhSVgtRTdxUzhqVU1ydklKSWNSTC00SDNpX2pUUko1ZktXb3cyRmltNVpZUWlGdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-14-re-galamsey-does-not-need-a-new-intelligence-architecture",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "RE: Galamsey does not need a new intelligence architecture",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "RE: Galamsey does not need a new intelligence architecture GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzBETmotNzVhRTJncFdFMm5ma2VKbVp3UEZLdS00S0l5MlV2cUltQUN5U3Q2WjVvQUxwaFd0ZXdza2UyZU9zTEVScmtUV1VGdjIxaEluZ2VIeFItczk2SmhveEltbE1TcnVMblhIZlUxWF9PS0o5NVlFeENXV2VNc0hMUEM2U2RPTW8zTHp3am15NVF0Qng4U0FEVTVySGZjdzM2OVo3NkFBY0lYMWJxaXUtaw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzBETmotNzVhRTJncFdFMm5ma2VKbVp3UEZLdS00S0l5MlV2cUltQUN5U3Q2WjVvQUxwaFd0ZXdza2UyZU9zTEVScmtUV1VGdjIxaEluZ2VIeFItczk2SmhveEltbE1TcnVMblhIZlUxWF9PS0o5NVlFeENXV2VNc0hMUEM2U2RPTW8zTHp3am15NVF0Qng4U0FEVTVySGZjdzM2OVo3NkFBY0lYMWJxaXUtaw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1616,22 +1673,20 @@
       "id": "auto-2026-09-07-52-year-old-anti-galamsey-campaigner-found-dead-in-suspected",
       "date": "2026-09-07",
       "category": "forest",
-      "title": "52-year-old anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng",
+      "title": "52-year-old anti-galamsey campaigner found dead in suspected suicide - Report",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "52-year-old anti-galamsey campaigner found dead in suspected suicide at Assin Amoabeng Asaase Radio",
+      "summary": "52-year-old anti-galamsey campaigner found dead in suspected suicide - Report GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "Asaase Radio",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekxGNEVRSTlZZ1dIVXRtVGtQQkxmUnBIdHg5NVl6S3hYNVA2WGZmVzQ1TXJnTXUtV0c2OE1MMjJoOXpBUHJMU0xRUVpQWXJpRGk0S2hKakVnVXFPSmF1czVnMFMyZkl1clFWam1LY2ZleVJkVWFPTGtyTmpPR0E4c2FPOUJhTk5kM2lEUjZEMWwyOU81RkF5ZU8wQUVLV3AtSUVtQ3JBREQ0c0xYeVhDVQ?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQXFqaWZPZkVUZG80ek9MLWpkZ2ZvcURBVno5Um1BeEZsYmU5VS1LZW9sNm4yTW1pajNsbmJ3RkJmWElJTk1FdVdwYk5oMFQ2bW9XY0pWa0RXRlpVQk5RUDVXZGd2alZYWjNsMVU5cEZIc0V2WjVQVlFUQzJaWXF4elhWQUVDdFFPUjVwMUV5ODFidExkSFhQZXFFRXZvenpOWDloNGxqNmZYLWZHTF85QUJrZ1R4N1lCNFVNSXFZQ3F5a291LW1pamdvNE4ySFU?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNekxGNEVRSTlZZ1dIVXRtVGtQQkxmUnBIdHg5NVl6S3hYNVA2WGZmVzQ1TXJnTXUtV0c2OE1MMjJoOXpBUHJMU0xRUVpQWXJpRGk0S2hKakVnVXFPSmF1czVnMFMyZkl1clFWam1LY2ZleVJkVWFPTGtyTmpPR0E4c2FPOUJhTk5kM2lEUjZEMWwyOU81RkF5ZU8wQUVLV3AtSUVtQ3JBREQ0c0xYeVhDVQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxOQXFqaWZPZkVUZG80ek9MLWpkZ2ZvcURBVno5Um1BeEZsYmU5VS1LZW9sNm4yTW1pajNsbmJ3RkJmWElJTk1FdVdwYk5oMFQ2bW9XY0pWa0RXRlpVQk5RUDVXZGd2alZYWjNsMVU5cEZIc0V2WjVQVlFUQzJaWXF4elhWQUVDdFFPUjVwMUV5ODFidExkSFhQZXFFRXZvenpOWDloNGxqNmZYLWZHTF85QUJrZ1R4N1lCNFVNSXFZQ3F5a291LW1pamdvNE4ySFU?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-09-09T16:41:22.668Z",
-      "thread": "t-auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol"
+      "verified": false
     },
     {
       "id": "auto-2026-09-07-the-telecom-industry-is-one-of-the-worst-hit-sam-george-on-g",
