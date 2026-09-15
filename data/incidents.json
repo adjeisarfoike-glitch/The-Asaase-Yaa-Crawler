@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-15T17:00:28.345Z",
+  "updated": "2026-09-15T21:22:01.888Z",
   "counts": {
-    "total": 806,
+    "total": 809,
     "verified": 28,
-    "automated": 778,
+    "automated": 781,
     "earliest": "2024-07-01",
     "latest": "2026-09-15"
   },
@@ -110,21 +110,21 @@
       "id": "auto-2026-09-15-naimos-collaborating-with-state-agencies-to-act-on-reported-",
       "date": "2026-09-15",
       "category": "forest",
-      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest",
+      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has said it is collaborating with relevant security and state agencies to take decisive action over reported illegal mining and encroachment activities within the Atewa Range Forest Reserve.",
+      "summary": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson 3News",
       "metrics": {},
       "source": {
-        "name": "Spokesperson",
-        "url": "https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-14-atewa-forest-ghana-s-butterfly-haven-and-a-global-biodiversi"
+      "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
       "id": "auto-2026-09-15-atewa-forest-under-unprecedented-attack-from-illegal-mining-",
@@ -264,6 +264,63 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-14-atewa-forest-ghana-s-butterfly-haven-and-a-global-biodiversi"
+    },
+    {
+      "id": "auto-2026-09-15-naimos-assures-public-of-decisive-action-against-galamsey-in",
+      "date": "2026-09-15",
+      "category": "forest",
+      "title": "NAIMOS assures public of decisive action against galamsey in Atewa Forest",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "NAIMOS assures public of decisive action against galamsey in Atewa Forest GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjhJSWxEdXZmT3pzM3c4blBIVWItTEc5bWJlcjRQaUNDbU1JWnBtWXlNQ1lQcGNaSHdwRGZkSGp3aFFPcURZYUswZ013VTBtWjAtVDcwNzhvRjVFS3k2dWY0N3ZBRGM2cnNtaDh0aTExRGE5b2lUT29wTDBrODFHbXZMeEhQbVd3SDlpazc3Y1BjYnk0LXE3bm1pOGZiWDJ3OV9PbWlOWXVBSFpoQi1TWTA2T2lFd3ZNUV9HQzB3WU9qUl84ZThTR2xjWmE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjhJSWxEdXZmT3pzM3c4blBIVWItTEc5bWJlcjRQaUNDbU1JWnBtWXlNQ1lQcGNaSHdwRGZkSGp3aFFPcURZYUswZ013VTBtWjAtVDcwNzhvRjVFS3k2dWY0N3ZBRGM2cnNtaDh0aTExRGE5b2lUT29wTDBrODFHbXZMeEhQbVd3SDlpazc3Y1BjYnk0LXE3bm1pOGZiWDJ3OV9PbWlOWXVBSFpoQi1TWTA2T2lFd3ZNUV9HQzB3WU9qUl84ZThTR2xjWmE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-15-12-suspects-in-illegal-mining-arrested-in-ghana-forest-reser",
+      "date": "2026-09-15",
+      "category": "arrest",
+      "title": "12 suspects in illegal mining arrested in Ghana forest reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "12 suspects in illegal mining arrested in Ghana forest reserve UA.NEWS",
+      "metrics": {},
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVnanBFelVyRC1VYmVuNjhiZzltR1UzNXVIOUtLVC0xaWQwMUd4SU1nMkVadVJJeU1rc3BxZ01DQWNFRWF3VUVaYm1jVkVJaFJYZklVQnlZT3pmOXlrNDhLMlBJZkJFMFpIeVZWalVDb2ZNSXFsR2QtVDhjZGQzbk51TV9QMWxLSG1IRzlYQlVZRm5pdnpMNkRHRFpHWGtiRU01eEZ6T3Zidw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVnanBFelVyRC1VYmVuNjhiZzltR1UzNXVIOUtLVC0xaWQwMUd4SU1nMkVadVJJeU1rc3BxZ01DQWNFRWF3VUVaYm1jVkVJaFJYZklVQnlZT3pmOXlrNDhLMlBJZkJFMFpIeVZWalVDb2ZNSXFsR2QtVDhjZGQzbk51TV9QMWxLSG1IRzlYQlVZRm5pdnpMNkRHRFpHWGtiRU01eEZ6T3Zidw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-15-forestry-commission-arrests-12-illegal-miners-impounds-three",
+      "date": "2026-09-15",
+      "category": "arrest",
+      "title": "Forestry Commission arrests 12 illegal miners, impounds three excavators in South Formangso Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Forestry Commission arrests 12 illegal miners, impounds three excavators in South Formangso Forest Reserve MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWw5TkpXSGxkRGdtOE0yN3VjaTN3STB0ODVoLWJVSDFfM2VNZGRrMF9NYjJoZUR3U0pHekNzWlpnLW16MUI5UGpWMWJGeGdDaGVUMW5Xbk1tQlFrc1NKblFOUFFLSU0yREJQMUxJZFdpejhmRGFQVGlQanJCclNMTlI4eFpWZzFFTF9jQ1d0X0ZYaTBnczEwRGlYcy1sRDJSaHhNeDEwQUpxcG5fMUdtYmlNUTdHSVU4N1RXZ0hkbl96cEF6djhwU3BvRzFSaFU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWw5TkpXSGxkRGdtOE0yN3VjaTN3STB0ODVoLWJVSDFfM2VNZGRrMF9NYjJoZUR3U0pHekNzWlpnLW16MUI5UGpWMWJGeGdDaGVUMW5Xbk1tQlFrc1NKblFOUFFLSU0yREJQMUxJZFdpejhmRGFQVGlQanJCclNMTlI4eFpWZzFFTF9jQ1d0X0ZYaTBnczEwRGlYcy1sRDJSaHhNeDEwQUpxcG5fMUdtYmlNUTdHSVU4N1RXZ0hkbl96cEF6djhwU3BvRzFSaFU?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
@@ -3435,18 +3492,18 @@
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
       "date": "2026-09-02",
       "category": "forest",
-      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah",
+      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah Modern Ghana",
+      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah Ghana Business News",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5"
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5",
       "via": "rss",
       "verified": false
     },
