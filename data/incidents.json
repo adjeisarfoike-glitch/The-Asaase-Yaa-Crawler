@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-14T21:51:40.587Z",
+  "updated": "2026-09-15T04:55:16.818Z",
   "counts": {
-    "total": 789,
+    "total": 791,
     "verified": 28,
-    "automated": 761,
+    "automated": 763,
     "earliest": "2024-07-01",
     "latest": "2026-09-14"
   },
@@ -280,6 +280,45 @@
         "url": "https://3news.com/news/declare-atewa-forest-a-national-park-now-a-rocha-ghana-tells-government"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/declare-atewa-forest-a-national-park-now-a-rocha-ghana-tells-government",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-14-top-story-gba-and-government-clash-over-chief-justice-galams",
+      "date": "2026-09-14",
+      "category": "policy",
+      "title": "Top Story: GBA and Government Clash Over Chief Justice, Galamsey and Politics",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Top Story: GBA and Government Clash Over Chief Justice, Galamsey and Politics Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nTnR6X2MzWmtxenFfQXlEd0tkMzhGSVA0cTBFOGRRTWJHNXFCV1VrX20ydmVvX2V6WkFxZHgtWXNHRkZaOU9JTFlTcFJOWDBLUDZkNEpDOXJjczZ3bHRsWDV4clo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nTnR6X2MzWmtxenFfQXlEd0tkMzhGSVA0cTBFOGRRTWJHNXFCV1VrX20ydmVvX2V6WkFxZHgtWXNHRkZaOU9JTFlTcFJOWDBLUDZkNEpDOXJjczZ3bHRsWDV4clo?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-09-14-atewa-forest-at-edge-of-extinction-as-illegal-mining-intensi",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "Atewa forest at edge of extinction as illegal mining intensifies - Stakeholders warns",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Atewa forest at edge of extinction as illegal mining intensifies - Stakeholders warns GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHQ3UE41SUJ1YnlhaXM4ZUxGU3BLdHBQMVVGbFJ3Z0pYaXg1aGNxeWVFSDlrWUN1c1lZbk1NeDBhZ1RXQnN6d1dzcEhMNHV4MFlrUE1DQTRkNndrVG9HZFBZQ1FwaGJJcGUtLXpub2c0dnpZbzF5X29EQmRRUmlYakZpOUxqQUcxbXk1T0dabTk5dnJraXFnMV9EMFFDUUt2d19KWnhyTlpwOFhhSVgtRTdxUzhqVU1ydklKSWNSTC00SDNpX2pUUko1ZktXb3cyRmltNVpZUWlGdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHQ3UE41SUJ1YnlhaXM4ZUxGU3BLdHBQMVVGbFJ3Z0pYaXg1aGNxeWVFSDlrWUN1c1lZbk1NeDBhZ1RXQnN6d1dzcEhMNHV4MFlrUE1DQTRkNndrVG9HZFBZQ1FwaGJJcGUtLXpub2c0dnpZbzF5X29EQmRRUmlYakZpOUxqQUcxbXk1T0dabTk5dnJraXFnMV9EMFFDUUt2d19KWnhyTlpwOFhhSVgtRTdxUzhqVU1ydklKSWNSTC00SDNpX2pUUko1ZktXb3cyRmltNVpZUWlGdw?oc=5",
       "via": "rss",
       "verified": false
     },
