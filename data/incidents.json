@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-15T21:22:01.888Z",
+  "updated": "2026-09-16T04:50:15.121Z",
   "counts": {
-    "total": 809,
+    "total": 811,
     "verified": 28,
-    "automated": 781,
+    "automated": 783,
     "earliest": "2024-07-01",
-    "latest": "2026-09-15"
+    "latest": "2026-09-16"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-16-i-faced-those-who-openly-insisted-that-there-s-no-galamsey-g",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "'I faced those who openly insisted that there’s no galamsey going on' – Prof Gyampo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'I faced those who openly insisted that there’s no galamsey going on' – Prof Gyampo Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWcyVlBuTlFjZGtieHdfbWdVVExVZHpOY2tZS3U1T2FUMUVhajVNaEZ2SV9wZkl6UVNnX0xpdDN2VXJkX1ZOYnBLR0V3RHcxZzJQSV9CME5KQ0pDRFhBMUozQmhNcTNYV1J1VGZOSXlCZUhLVGt6eXVibEJFdzRxQjI1M2tNN3NVdm51MExYWWI4UlRU0gGUAUFVX3lxTFBVZzJWUG5OUWNka2J4d19tZ1VUTFVkek5ja1lLdTVPYVQxRWFqNU1oRnZJX3BmSXpRU2dfTGl0M3ZVcmRfVk5icEtHRXdEdzFnMlBJX0IwTkpDSkNEWEExSjNCaE1xM1hXUnVUZk5JeUJlSEtUa3p5dWJsQkV3NHFCMjUza003c1V2bnUwTFhZYjhSVFQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWcyVlBuTlFjZGtieHdfbWdVVExVZHpOY2tZS3U1T2FUMUVhajVNaEZ2SV9wZkl6UVNnX0xpdDN2VXJkX1ZOYnBLR0V3RHcxZzJQSV9CME5KQ0pDRFhBMUozQmhNcTNYV1J1VGZOSXlCZUhLVGt6eXVibEJFdzRxQjI1M2tNN3NVdm51MExYWWI4UlRU0gGUAUFVX3lxTFBVZzJWUG5OUWNka2J4d19tZ1VUTFVkek5ja1lLdTVPYVQxRWFqNU1oRnZJX3BmSXpRU2dfTGl0M3ZVcmRfVk5icEtHRXdEdzFnMlBJX0IwTkpDSkNEWEExSjNCaE1xM1hXUnVUZk5JeUJlSEtUa3p5dWJsQkV3NHFCMjUza003c1V2bnUwTFhZYjhSVFQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+    },
     {
       "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
       "date": "2026-09-15",
@@ -25,7 +45,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzSEYzZ0xrV3ZJcUNxLXZCdmhUR2tyUGJrQ21ickNJYmhqMkdaMk84aEFwTUZJemtJX1ZhSy1TNENPR1l0eldEeDljaS1OV2g3MTJrS1lyNVhzcVhMY3dJ0gFcQVVfeXFMTjR6TnF6SWw0S3d0ZVhwcER2Z094TWJka1NOSEhQVUhuVzk3RWVObjBxM18wZUxud1ZrYVRzNWgyWUhfZDdqX2pYMkk1ekQ2dVVfSktGZTB4b2p4bm8?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
     },
     {
       "id": "auto-2026-09-15-share-information-on-emerging-security-threats",
@@ -110,21 +131,21 @@
       "id": "auto-2026-09-15-naimos-collaborating-with-state-agencies-to-act-on-reported-",
       "date": "2026-09-15",
       "category": "forest",
-      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson",
+      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson 3News",
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has said it is collaborating with relevant security and state agencies to take decisive action over reported illegal mining and encroachment activities within the Atewa Range Forest Reserve.",
       "metrics": {},
       "source": {
-        "name": "3News",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5"
+        "name": "Spokesperson",
+        "url": "https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson",
       "via": "rss",
       "verified": false,
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "thread": "t-auto-2026-08-14-atewa-forest-ghana-s-butterfly-haven-and-a-global-biodiversi"
     },
     {
       "id": "auto-2026-09-15-atewa-forest-under-unprecedented-attack-from-illegal-mining-",
@@ -319,6 +340,25 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWw5TkpXSGxkRGdtOE0yN3VjaTN3STB0ODVoLWJVSDFfM2VNZGRrMF9NYjJoZUR3U0pHekNzWlpnLW16MUI5UGpWMWJGeGdDaGVUMW5Xbk1tQlFrc1NKblFOUFFLSU0yREJQMUxJZFdpejhmRGFQVGlQanJCclNMTlI4eFpWZzFFTF9jQ1d0X0ZYaTBnczEwRGlYcy1sRDJSaHhNeDEwQUpxcG5fMUdtYmlNUTdHSVU4N1RXZ0hkbl96cEF6djhwU3BvRzFSaFU?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWw5TkpXSGxkRGdtOE0yN3VjaTN3STB0ODVoLWJVSDFfM2VNZGRrMF9NYjJoZUR3U0pHekNzWlpnLW16MUI5UGpWMWJGeGdDaGVUMW5Xbk1tQlFrc1NKblFOUFFLSU0yREJQMUxJZFdpejhmRGFQVGlQanJCclNMTlI4eFpWZzFFTF9jQ1d0X0ZYaTBnczEwRGlYcy1sRDJSaHhNeDEwQUpxcG5fMUdtYmlNUTdHSVU4N1RXZ0hkbl96cEF6djhwU3BvRzFSaFU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-15-forestry-commission-to-collaborate-with-naimos-to-fight-ille",
+      "date": "2026-09-15",
+      "category": "forest",
+      "title": "Forestry Commission to collaborate with NAIMOS to fight illegal mining in forest reserves",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Forestry Commission to collaborate with NAIMOS to fight illegal mining in forest reserves 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHlmR1FKa1pfdkVhUU1ZT3dYTlVtOVdGclJNczNQWlFTTm5vUF9JYm9ZRXdMWkt4MHltXzliSG50LXRZMFBGNDRBM0pnQWZqNC11a05WLUFhZDEzMHhKZWswVTFIc1llX2x2OE9yRTlSSWlaTDZMZExjZW50RjhlaEtJOEN0RWd0anFSSlE5Y2tIdGZnTDRWZGRkdmg4dkxmQjVFcklVUTYxd0kzSmVUbkln?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHlmR1FKa1pfdkVhUU1ZT3dYTlVtOVdGclJNczNQWlFTTm5vUF9JYm9ZRXdMWkt4MHltXzliSG50LXRZMFBGNDRBM0pnQWZqNC11a05WLUFhZDEzMHhKZWswVTFIc1llX2x2OE9yRTlSSWlaTDZMZExjZW50RjhlaEtJOEN0RWd0anFSSlE5Y2tIdGZnTDRWZGRkdmg4dkxmQjVFcklVUTYxd0kzSmVUbkln?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3492,18 +3532,18 @@
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
       "date": "2026-09-02",
       "category": "forest",
-      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah",
+      "title": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Woanyah Ghana Business News",
+      "summary": "Human cost of galamsey now counted in bodies as lives are lost, more at risk – Makafui Woanyah Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "Ghana Business News",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVZzX0hTNmVsVV9iTDBWUzRyWHlkTGhKNEJTT1dtNFhKZ2M5OVUwN0daQ2JnNzRyY2xrSzdkVnRpczhYdFJBWkd0QTdFdnd0OFBOSU1jUkpQRXZWRHgweVU5VzJBRkJCZWl5Nkx5dFk2QmxXMXVHSm9sRnNzSHJuOUpkWjZudHR1WlpVR0ROZ0E2U1drRzlkcDZ0OWFqbUVhRmc1bzdURFRpS1dQSHRhb1MzRVFYSXJ1Nk5QS2NnWUpLNU1NanAyUQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3NnaEJ0UDdBVFZfU1BOUlFuWEVibE92N3BBSXRFVlA5SlgwcVgtUk5BWU1jQjg4QlFiS2dtak9kMmZ5S0EzVEs5YTFKVnFmNHBhdmM1WC1fSXNBM2gyZVBCU0dGbExjLVVHaFFGR3RscjFvZ2NwNW81c2JqVEdqWmxZZHhRYno4czA4SElveUh6Zzg5X25KaNIBlwFBVV95cUxNSGtBTnR6ZUktSW9EcnRXbHYyZmdlU01jYjNoM085cldUeDloNzF3V0FHQXVQOXFQV21rM0tBMXNtLUpUYW9SeWVzUURUUk5BdGNRZE5sVU5sbTBRVHNUOU9DZXFFNVluZnVrNnpzVDNSV09MaEpFakthYWpRbkJxcmFWZGVrbzRSUl91c090Wms4alNub0N3?oc=5",
       "via": "rss",
       "verified": false
     },
