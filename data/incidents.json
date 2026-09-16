@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-16T11:32:08.547Z",
+  "updated": "2026-09-16T16:55:41.768Z",
   "counts": {
-    "total": 815,
+    "total": 816,
     "verified": 28,
-    "automated": 787,
+    "automated": 788,
     "earliest": "2024-07-01",
     "latest": "2026-09-16"
   },
@@ -104,6 +104,25 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2doWFlLNFBVUzhZUFZjRmctY0V5WnVlLWI3WnNCV25SRGRNd3A5RThZYUJXeHJwNHpvX0Y1RWxYMkdhQktma2Q4WUdxSDV6UlJyTk5iOER6aEtScHYxbnFERmQxSWJRRDl5SlJYLU04LTZmcWZmVUdZbGtfM3otMERWWWpMSFJ3X3p6TFpRbktMbVMyNVNsLWdqZlVzOVQ0VWtEMlZHMW5SSDd2aENvMXJId3l0Sm4ydkZyc3pFbW8?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2doWFlLNFBVUzhZUFZjRmctY0V5WnVlLWI3WnNCV25SRGRNd3A5RThZYUJXeHJwNHpvX0Y1RWxYMkdhQktma2Q4WUdxSDV6UlJyTk5iOER6aEtScHYxbnFERmQxSWJRRDl5SlJYLU04LTZmcWZmVUdZbGtfM3otMERWWWpMSFJ3X3p6TFpRbktMbVMyNVNsLWdqZlVzOVQ0VWtEMlZHMW5SSDd2aENvMXJId3l0Sm4ydkZyc3pFbW8?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-16-gba-demands-action-on-court-alert-app-legal-education-board-",
+      "date": "2026-09-16",
+      "category": "prosecution",
+      "title": "GBA demands action on Court Alert App, Legal Education Board, galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GBA demands action on Court Alert App, Legal Education Board, galamsey fight Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlF4SGVieFlnSWw5d1JaNU1fMk95YmJvbjlpTlJWSkxMRkxvTmdXTUZwWjdVTHEzTFhVSE5LMGlsdkNBY3BOaGtxYjk2WUtVWHgyaHpPeTVySGIxZWtab1dQMTlBZjlYUzBwaUhGeVRYYldDNnhmWFdKZklUQmxDNlhPN0hHaW93cGZRM05BTHJJT0RibTgzaHlfVS15cVhi?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlF4SGVieFlnSWw5d1JaNU1fMk95YmJvbjlpTlJWSkxMRkxvTmdXTUZwWjdVTHEzTFhVSE5LMGlsdkNBY3BOaGtxYjk2WUtVWHgyaHpPeTVySGIxZWtab1dQMTlBZjlYUzBwaUhGeVRYYldDNnhmWFdKZklUQmxDNlhPN0hHaW93cGZRM05BTHJJT0RibTgzaHlfVS15cVhi?oc=5",
       "via": "rss",
       "verified": false
     },
