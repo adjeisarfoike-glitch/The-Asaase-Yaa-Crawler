@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-16T04:50:15.121Z",
+  "updated": "2026-09-16T11:32:08.547Z",
   "counts": {
-    "total": 811,
+    "total": 815,
     "verified": 28,
-    "automated": 783,
+    "automated": 787,
     "earliest": "2024-07-01",
     "latest": "2026-09-16"
   },
@@ -27,6 +27,85 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+    },
+    {
+      "id": "auto-2026-09-16-galamsey-suffocates-atewa-forest-reserve",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "Galamsey suffocates Atewa Forest Reserve",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Galamsey suffocates Atewa Forest Reserve Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakR6QlVUR0ZkTmlzWmFfYzBQQUN0YlJDbHA2LWhjVkxUMHB6SW41NUxDNEhsZkEyTmN5TklZOUFoUExvWFU0VnJMSkE0Mk54bERvQloxSHhKSTNiUDBmMTZyQ3NZMi1taVI0REJpdFdPek85VUdQNFpIVnRaR2I1UlZpemVVTGE0RGYwUGdreEZQUTV3el8ycmxTaTVkLUVjTENV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxPakR6QlVUR0ZkTmlzWmFfYzBQQUN0YlJDbHA2LWhjVkxUMHB6SW41NUxDNEhsZkEyTmN5TklZOUFoUExvWFU0VnJMSkE0Mk54bERvQloxSHhKSTNiUDBmMTZyQ3NZMi1taVI0REJpdFdPek85VUdQNFpIVnRaR2I1UlZpemVVTGE0RGYwUGdreEZQUTV3el8ycmxTaTVkLUVjTENV?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+    },
+    {
+      "id": "auto-2026-09-16-gyampo-denies-softening-stance-demands-tougher-galamsey-figh",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "Gyampo Denies Softening Stance, Demands Tougher Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Gyampo Denies Softening Stance, Demands Tougher Galamsey Fight News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjRYZFlNdkc4cW16MmZjUjVtbGJacVhlVHdzTGFNR2dKUzY3ZEpkcEVtb1pYeXpxMHpLeHZERW1UMEpOVUJwQkpndjlSLXBuajU4QWNRaEZNQVpvaUZZQXc2V1JiVXBLNU9UZVdROGxvcmRRMVJad0RIUUZnN3Z5cmVfNGpueDFZaXdCTFBhOTY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjRYZFlNdkc4cW16MmZjUjVtbGJacVhlVHdzTGFNR2dKUzY3ZEpkcEVtb1pYeXpxMHpLeHZERW1UMEpOVUJwQkpndjlSLXBuajU4QWNRaEZNQVpvaUZZQXc2V1JiVXBLNU9UZVdROGxvcmRRMVJad0RIUUZnN3Z5cmVfNGpueDFZaXdCTFBhOTY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-09-16-galamsey-forestry-commission-arrests-12-impounds-three-excav",
+      "date": "2026-09-16",
+      "category": "arrest",
+      "title": "Galamsey: Forestry Commission arrests 12, impounds three excavators in South Formangso Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Forestry Commission arrests 12, impounds three excavators in South Formangso Forest Reserve adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXpBU0FHTG5POVgyV2VLMnZVNUMySGdSZG00YjNWbkZBZ0NaM1JadHMxVHNLUkgtT19SZXNXSzczZEZlNV9tMHg5VHZFLThvQ3RYWnhXQU1xb3dUSC02VExMdGlVRXhPeFZTT0djZ0EwRzZHSUlOX0hrWV9rSVVYNVVKeEdHNnhEU3dpRmhVVzBhSkFmNlJqc3pGTzJRME53ZUI0dDVJanQ0TkdGdXBYbEVpUHJybU9iUHl3eUt4ZmUxVzRwMEE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXpBU0FHTG5POVgyV2VLMnZVNUMySGdSZG00YjNWbkZBZ0NaM1JadHMxVHNLUkgtT19SZXNXSzczZEZlNV9tMHg5VHZFLThvQ3RYWnhXQU1xb3dUSC02VExMdGlVRXhPeFZTT0djZ0EwRzZHSUlOX0hrWV9rSVVYNVVKeEdHNnhEU3dpRmhVVzBhSkFmNlJqc3pGTzJRME53ZUI0dDVJanQ0TkdGdXBYbEVpUHJybU9iUHl3eUt4ZmUxVzRwMEE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-forestry-commission-arrests-12-illegal-miners-impounds-three"
+    },
+    {
+      "id": "auto-2026-09-16-forest-reserve-security-catches-12-engaging-in-illegal-minin",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "“Forest reserve?”: Security catches 12 engaging in illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Forest reserve?”: Security catches 12 engaging in illegal mining Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2doWFlLNFBVUzhZUFZjRmctY0V5WnVlLWI3WnNCV25SRGRNd3A5RThZYUJXeHJwNHpvX0Y1RWxYMkdhQktma2Q4WUdxSDV6UlJyTk5iOER6aEtScHYxbnFERmQxSWJRRDl5SlJYLU04LTZmcWZmVUdZbGtfM3otMERWWWpMSFJ3X3p6TFpRbktMbVMyNVNsLWdqZlVzOVQ0VWtEMlZHMW5SSDd2aENvMXJId3l0Sm4ydkZyc3pFbW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM2doWFlLNFBVUzhZUFZjRmctY0V5WnVlLWI3WnNCV25SRGRNd3A5RThZYUJXeHJwNHpvX0Y1RWxYMkdhQktma2Q4WUdxSDV6UlJyTk5iOER6aEtScHYxbnFERmQxSWJRRDl5SlJYLU04LTZmcWZmVUdZbGtfM3otMERWWWpMSFJ3X3p6TFpRbktMbVMyNVNsLWdqZlVzOVQ0VWtEMlZHMW5SSDd2aENvMXJId3l0Sm4ydkZyc3pFbW8?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
@@ -131,21 +210,21 @@
       "id": "auto-2026-09-15-naimos-collaborating-with-state-agencies-to-act-on-reported-",
       "date": "2026-09-15",
       "category": "forest",
-      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest",
+      "title": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson",
       "place": "Atewa",
       "region": "Eastern",
       "lat": 6.23,
       "lon": -0.57,
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has said it is collaborating with relevant security and state agencies to take decisive action over reported illegal mining and encroachment activities within the Atewa Range Forest Reserve.",
+      "summary": "NAIMOS collaborating with state agencies to act on reported illegal mining in Atewa Forest - Spokesperson 3news.com",
       "metrics": {},
       "source": {
-        "name": "Spokesperson",
-        "url": "https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson"
+        "name": "3news.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-collaborating-with-state-agencies-to-act-on-reported-illegal-mining-in-atewa-forest-spokesperson",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-14-atewa-forest-ghana-s-butterfly-haven-and-a-global-biodiversi"
+      "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
       "id": "auto-2026-09-15-atewa-forest-under-unprecedented-attack-from-illegal-mining-",
@@ -341,7 +420,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWw5TkpXSGxkRGdtOE0yN3VjaTN3STB0ODVoLWJVSDFfM2VNZGRrMF9NYjJoZUR3U0pHekNzWlpnLW16MUI5UGpWMWJGeGdDaGVUMW5Xbk1tQlFrc1NKblFOUFFLSU0yREJQMUxJZFdpejhmRGFQVGlQanJCclNMTlI4eFpWZzFFTF9jQ1d0X0ZYaTBnczEwRGlYcy1sRDJSaHhNeDEwQUpxcG5fMUdtYmlNUTdHSVU4N1RXZ0hkbl96cEF6djhwU3BvRzFSaFU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-15-forestry-commission-arrests-12-illegal-miners-impounds-three"
     },
     {
       "id": "auto-2026-09-15-forestry-commission-to-collaborate-with-naimos-to-fight-ille",
