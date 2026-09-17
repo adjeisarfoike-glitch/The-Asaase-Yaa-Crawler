@@ -1,13 +1,93 @@
 {
-  "updated": "2026-09-17T04:53:14.988Z",
+  "updated": "2026-09-17T11:41:50.750Z",
   "counts": {
-    "total": 821,
+    "total": 826,
     "verified": 28,
-    "automated": 793,
+    "automated": 798,
     "earliest": "2024-07-01",
-    "latest": "2026-09-16"
+    "latest": "2026-09-17"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-17-both-npp-and-ndc-love-galamsey-they-have-no-moral-right-to-a",
+      "date": "2026-09-17",
+      "category": "forest",
+      "title": "Both NPP and NDC love galamsey; they have no moral right to accuse each other – Prof Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Both NPP and NDC love galamsey; they have no moral right to accuse each other – Prof Frimpong-Boateng Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzQ0SkRpRDFPUTdCY3RCOFhINUY5cERmdW9kYlJ3b1k0ejlFMmgwZENJYmZZQ3FUMjY2OElmN0cwZThVVzBaaDRrOC1ic1ZISWg0TFJFRU1JTmhENkFNbDhiTWJKWHhTNTBCRWRiYnpxOU10NHBVMHR6WGd1Vzg2MEs5Z2tpQTlBS3k5elp1LWlBakVsUmF6MEdhMNIBmgFBVV95cUxOblJUS09Xa2VTNEgyZktXX093OUtad2U4NE5hVWVxNjdMZWctSm5uaF9rdHl4eWwzRi1JQ2tHbERScjN2dDUxTTlDYzFhQm8wNlliTVFCdF90dUZoTjdkYnNjRUFKNjBpWVpENi1RZGdIRmJUbFZIUGc2WTJUMzJMVDNEZ3hvU2RDQnNFYkZ4WDI4VE9OZDRYVUNB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzQ0SkRpRDFPUTdCY3RCOFhINUY5cERmdW9kYlJ3b1k0ejlFMmgwZENJYmZZQ3FUMjY2OElmN0cwZThVVzBaaDRrOC1ic1ZISWg0TFJFRU1JTmhENkFNbDhiTWJKWHhTNTBCRWRiYnpxOU10NHBVMHR6WGd1Vzg2MEs5Z2tpQTlBS3k5elp1LWlBakVsUmF6MEdhMNIBmgFBVV95cUxOblJUS09Xa2VTNEgyZktXX093OUtad2U4NE5hVWVxNjdMZWctSm5uaF9rdHl4eWwzRi1JQ2tHbERScjN2dDUxTTlDYzFhQm8wNlliTVFCdF90dUZoTjdkYnNjRUFKNjBpWVpENi1RZGdIRmJUbFZIUGc2WTJUMzJMVDNEZ3hvU2RDQnNFYkZ4WDI4VE9OZDRYVUNB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-17-atwima-kwanwoma-assembly-reclaims-over-30-acres-of-land-degr",
+      "date": "2026-09-17",
+      "category": "reclamation",
+      "title": "Atwima Kwanwoma Assembly reclaims over 30 acres of land degraded by illegal mining",
+      "place": "Atwima",
+      "region": "Ashanti",
+      "lat": 6.6,
+      "lon": -2.05,
+      "summary": "Atwima Kwanwoma Assembly reclaims over 30 acres of land degraded by illegal mining MyJoyOnline",
+      "metrics": {
+        "acres": 30
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0E0YnZ1MFkzb2RESnk5bC1zOHowd1BjZ3ZpN1AxY0oyZUh0RHZPNVlHZUtHNklzVE1VbEpFeTZqbTBkLWloYzNjRU92VmxMVGYzQWFISFlOZDJVLUxHQy05cGVxb05xR1J1UE96ajFpR28zbGpic1RVMW1ZUUFEYzVlRjcwX0dQTXZBTllJcDlQandwM2JsN2FPdmo3bjc1cjlPVzRXUm9id0c5eUZqZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0E0YnZ1MFkzb2RESnk5bC1zOHowd1BjZ3ZpN1AxY0oyZUh0RHZPNVlHZUtHNklzVE1VbEpFeTZqbTBkLWloYzNjRU92VmxMVGYzQWFISFlOZDJVLUxHQy05cGVxb05xR1J1UE96ajFpR28zbGpic1RVMW1ZUUFEYzVlRjcwX0dQTXZBTllJcDlQandwM2JsN2FPdmo3bjc1cjlPVzRXUm9id0c5eUZqZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-atwima-kwanwoma-residents-demand-action-over-galamsey-pit-re"
+    },
+    {
+      "id": "auto-2026-09-17-professor-frimpong-boateng-details-alleged-allocation-of-40-",
+      "date": "2026-09-17",
+      "category": "forest",
+      "title": "Professor Frimpong Boateng details alleged allocation of 40 forest reserves for galamsey under NPP",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Professor Frimpong Boateng details alleged allocation of 40 forest reserves for galamsey under NPP GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0VFZWtDaE5qRXduRDNTSXNRbG5Oc1Fsbk1yeHZFWVdHUFJFVE5kN2pfU2pEOGR0S3hKQW9qb3JjcFUxSEVaUmhvYjlEN2tKYTdHZnFkWHJXQ1N4cUlQemE4SnhhaVc0WkdSeUNlTVROX1VxU1NjcDR0UGdOOGhycTBtLW1NU0JNcDY5a2tXaTJYOU9WVDRDT1Q5U3dGZ0pNemd1MjRONGhEeThlci05TFk1czRaOHllaXdiNmlUdEhZOGdRNlZObk44NTFWdThoR0E2c3V6RXIwNm9xRWJLU1RKUXhJUTlWN1ptRUlR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0VFZWtDaE5qRXduRDNTSXNRbG5Oc1Fsbk1yeHZFWVdHUFJFVE5kN2pfU2pEOGR0S3hKQW9qb3JjcFUxSEVaUmhvYjlEN2tKYTdHZnFkWHJXQ1N4cUlQemE4SnhhaVc0WkdSeUNlTVROX1VxU1NjcDR0UGdOOGhycTBtLW1NU0JNcDY5a2tXaTJYOU9WVDRDT1Q5U3dGZ0pNemd1MjRONGhEeThlci05TFk1czRaOHllaXdiNmlUdEhZOGdRNlZObk44NTFWdThoR0E2c3V6RXIwNm9xRWJLU1RKUXhJUTlWN1ptRUlR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-17-why-we-don-t-need-china-to-advise-us-frimpong-boateng-on-min",
+      "date": "2026-09-17",
+      "category": "policy",
+      "title": "‘Why we don’t need China to advise us’ – Frimpong-Boateng on mining cooperation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Environment, Science and Technology Minister, Prof. Kwabena Frimpong-Boateng, has questioned the government’s decision to seek deeper cooperation with China in addressing illegal mining, popularly known as galamsey. His concerns follow an agreement between Ghana’s Ministry of Lands and Natural Resources and China’s Ministry of Natural Resources to collaborate on tackling illegal mining, strengthening geologica",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/why-we-dont-need-china-to-advise-us-frimpong-boateng-on-mining-cooperation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/why-we-dont-need-china-to-advise-us-frimpong-boateng-on-mining-cooperation/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
+    },
     {
       "id": "auto-2026-09-16-i-faced-those-who-openly-insisted-that-there-s-no-galamsey-g",
       "date": "2026-09-16",
@@ -224,6 +304,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-16-galamsey-we-don-t-need-china-to-advise-us-frimpong-boateng",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "Galamsey: ‘We don’t need China to advise us’ – Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘We don’t need China to advise us’ – Frimpong-Boateng CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGRfRG9EdHdSOW5TQU11bklBRTJvQ2tHTVNRTjA4R2p6NFJQTS1mTTZadXR6UnY4RFoteUxkVGV5VThLRWk2MkRTYW5TRXdNVF84VmZ2VzRIUjVnc0ZOYW5iRl9PZlhRNlRpdElmckF5OEZKT3VQeVNaXy15WG8xTk9RT29mTlJuVU82d0pUaGdIV2p2TG0zTXR3VDlxdzJuRmgzeVc0dzBWeERy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGRfRG9EdHdSOW5TQU11bklBRTJvQ2tHTVNRTjA4R2p6NFJQTS1mTTZadXR6UnY4RFoteUxkVGV5VThLRWk2MkRTYW5TRXdNVF84VmZ2VzRIUjVnc0ZOYW5iRl9PZlhRNlRpdElmckF5OEZKT3VQeVNaXy15WG8xTk9RT29mTlJuVU82d0pUaGdIV2p2TG0zTXR3VDlxdzJuRmgzeVc0dzBWeERy?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
     },
     {
       "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
@@ -3326,7 +3426,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lcjloWlFQTWJkNW5COFF4UEtLQnYxT0ZmSEVva2V5SVZNR0lkbm1rR2NtRS1VUUxFTG9mM2lmS1VCNl9ZeGJ2YXE3cS1uSUd3aTVicmZ5Z2JRZXZKWHcyY3F0Z9IBXEFVX3lxTE0xU1hOZEZOSDZrRnpsM1pSZDF3YWlZNHBQZy1FVlROSWNCaDBIS0QyM0FyVURWemdRZlBxcmVfVXhtdDRldTFEYWtfR1BXcjJKakhuNEZ2V1ktR05M?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-04-galamsey-or-flood-prevention-military-burns-densu-river-dred"
     },
     {
       "id": "auto-2026-09-04-after-getting-the-gold-you-will-get-thirsty-kwaku-bonsam-exp",
@@ -3405,7 +3506,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2hEcGJpNzhlRFlkY0F6bFNBNWJTanlqRUx0T3Z4b1BDMHhFV3hIRnZHRVUwN2ZXUW5NQ0RqLXZ5WEFqSXNXdmJVYWZYUVBXQzZUVzBqVjQ5dmRzZUY2YlBSaG9RSURMeDZKazFRc3ZINGdRelZrWGZGT3YwTGhZVXlSbm82elpRWnBJd2ZaSjRkd0ZPRVdKWWN5YU1hYUhWb0hfbldTUm52X0dyanVYQWtBczNXOG9LVVo2UHQwUDN0LTNTdF9qY1Q2bFV4aGJwa2pXUENUaGV4Zw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
+      "thread": "t-auto-2026-09-04-galamsey-or-flood-prevention-military-burns-densu-river-dred"
     },
     {
       "id": "auto-2026-09-04-i-would-rather-die-fighting-galamsey-with-integrity-than-be-",
@@ -8508,7 +8609,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWU5MTk4Rk5DMzhhRVMzeEJLby1kaDhQR1Q2TFhIOUxKRlZEYlRjUHZ2S3puVVUzZGdRS1dqUEVoNFZ5bGw1cmdFNU5TX1NHTjBuUktaRVpCdFVrME5QNGQyTW16VjRMdVIxYnZBTUlWWTR6UXBxWnhqR3ZIc3A1OG9tc3RsN1RmVHU2SWY1UDVkMkR3Vm5ZODhuMG1QbGxOSndHS0NDVHNGZEJGVjRUa0VNd2lydDVNeGdUZmpndXBFcDY5NHdJMkpQdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-21-atwima-kwanwoma-residents-demand-action-over-galamsey-pit-re"
     },
     {
       "id": "auto-2026-08-21-galamsey-driving-the-profits-goldbod-is-making-dr-zaato-asse",
