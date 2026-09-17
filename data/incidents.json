@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-16T21:19:28.219Z",
+  "updated": "2026-09-17T04:53:14.988Z",
   "counts": {
-    "total": 816,
+    "total": 821,
     "verified": 28,
-    "automated": 788,
+    "automated": 793,
     "earliest": "2024-07-01",
     "latest": "2026-09-16"
   },
@@ -125,6 +125,105 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlF4SGVieFlnSWw5d1JaNU1fMk95YmJvbjlpTlJWSkxMRkxvTmdXTUZwWjdVTHEzTFhVSE5LMGlsdkNBY3BOaGtxYjk2WUtVWHgyaHpPeTVySGIxZWtab1dQMTlBZjlYUzBwaUhGeVRYYldDNnhmWFdKZklUQmxDNlhPN0hHaW93cGZRM05BTHJJT0RibTgzaHlfVS15cVhi?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-16-galamsey-remains-an-existential-threat-gyampo-demands-more-a",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "'Galamsey remains an existential threat' – Gyampo demands more action",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Galamsey remains an existential threat' – Gyampo demands more action modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFBQcTVMTTB1dDB5OVZDWVJ1QU1pcmpMRDE2ekN6dnFSWDY4ZzR0Nl9WRDhscndybndmUDZuNzNtLVdyanpFV0E5TlhxMk81MDBMX2UzbkItRzZ5a1ZmbGtVTWM0VWszbjJaeHlqcEVZTmlET25hQ0tHTnlDNnlxVlFaSHNHOUY5LWxpU1VJSGRrT3Y10gGUAUFVX3lxTE10UFBxNUxNMHV0MHk5VkNZUnVBTWlyakxEMTZ6Q3p2cVJYNjhnNHQ2X1ZEOGxyd3Jud2ZQNm43M20tV3JqekVXQTlOWHEyTzUwMExfZTNuQi1HNnlrVmZsa1VNYzRVazNuMlp4eWpwRVlOaURPbmFDS0dOeUM2eXFWUVpIc0c5RjktbGlTVUlIZGtPdjU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFBQcTVMTTB1dDB5OVZDWVJ1QU1pcmpMRDE2ekN6dnFSWDY4ZzR0Nl9WRDhscndybndmUDZuNzNtLVdyanpFV0E5TlhxMk81MDBMX2UzbkItRzZ5a1ZmbGtVTWM0VWszbjJaeHlqcEVZTmlET25hQ0tHTnlDNnlxVlFaSHNHOUY5LWxpU1VJSGRrT3Y10gGUAUFVX3lxTE10UFBxNUxNMHV0MHk5VkNZUnVBTWlyakxEMTZ6Q3p2cVJYNjhnNHQ2X1ZEOGxyd3Jud2ZQNm43M20tV3JqekVXQTlOWHEyTzUwMExfZTNuQi1HNnlrVmZsa1VNYzRVazNuMlp4eWpwRVlOaURPbmFDS0dOeUM2eXFWUVpIc0c5RjktbGlTVUlIZGtPdjU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-16-they-love-galamsey-frimpong-boateng-critiques-npp-and-ndc-po",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "“They Love Galamsey” – Frimpong-Boateng Critiques NPP and NDC | Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“They Love Galamsey” – Frimpong-Boateng Critiques NPP and NDC | Point of View modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3eDBYZGpJdWJPSnJndy0wMmd2aW5sX3VVbmYyMWdOVzRMY1RhcktsZk5zanZVRmpHTE4tMWwzMHhud0wyMkVSR3hwRWZ0WTU0NWU2bmxJUzQ3ZXlBd0NER2lLMNIBXEFVX3lxTFBlUjZUandJR2ZXRE9xTGxHQnBRcWFZdDdIYU9pY3RmNTVpSVh3YlNCNUx1cEpyMXIzcXpIc0I5X1JleGM4ZE5PcXFJaGVZZmdkWTR6WHV0V3djMVcz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3eDBYZGpJdWJPSnJndy0wMmd2aW5sX3VVbmYyMWdOVzRMY1RhcktsZk5zanZVRmpHTE4tMWwzMHhud0wyMkVSR3hwRWZ0WTU0NWU2bmxJUzQ3ZXlBd0NER2lLMNIBXEFVX3lxTFBlUjZUandJR2ZXRE9xTGxHQnBRcWFZdDdIYU9pY3RmNTVpSVh3YlNCNUx1cEpyMXIzcXpIc0I5X1JleGM4ZE5PcXFJaGVZZmdkWTR6WHV0V3djMVcz?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-16-live-the-point-of-view-politics-galamsey-ghana-at-a-roundabo",
+      "date": "2026-09-16",
+      "category": "policy",
+      "title": "LIVE: The Point of View | Politics, Galamsey & Ghana at a Roundabout with Prof. Frimpong-Boateng",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: The Point of View | Politics, Galamsey & Ghana at a Roundabout with Prof. Frimpong-Boateng modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2N0tHT3VqdkEyU0JjN21nQ1JISEkzSm5iNnFBZ3dZaHlVaVdvUm5EZVpER1VxU2hXZTRfRXFzd0V0NTNKZ0ZMd2NFV2tGRGc1YXptZlhIR215R3lf0gFcQVVfeXFMUHY3S0dPdWp2QTJTQmM3bWdDUkhISTNKbmI2cUFnd1loeVVpV29SbkRlWkRHVXFTaFdlNF9FcXN3RXQ1M0pnRkx3Y0VXa0ZEZzVhem1mWEhHbXlHeV8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2N0tHT3VqdkEyU0JjN21nQ1JISEkzSm5iNnFBZ3dZaHlVaVdvUm5EZVpER1VxU2hXZTRfRXFzd0V0NTNKZ0ZMd2NFV2tGRGc1YXptZlhIR215R3lf0gFcQVVfeXFMUHY3S0dPdWp2QTJTQmM3bWdDUkhISTNKbmI2cUFnd1loeVVpV29SbkRlWkRHVXFTaFdlNF9FcXN3RXQ1M0pnRkx3Y0VXa0ZEZzVhem1mWEhHbXlHeV8?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-16-frimpong-boateng-explains-why-changfans-were-not-burnt-in-ga",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "Frimpong-Boateng Explains Why Changfans Were Not Burnt in Galamsey Fight | Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong-Boateng Explains Why Changfans Were Not Burnt in Galamsey Fight | Point of View modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzU0JkZWdXNVdsa3g5Wm5xUDV2VDdkZng0QldmVF9pbjA1Nmp4dFBja1VlZVFPUHotMWxYN1F1eFVoMGhxQlBQaDJ6X3hRUkwtdnNWWnZZNnJDLWls0gFcQVVfeXFMUHNTQmRlZ1c1V2xreDlabnFQNXZUN2RmeDRCV2ZUX2luMDU2anh0UGNrVWVlUU9Qei0xbFg3UXV4VWgwaHFCUFBoMnpfeFFSTC12c1Zadlk2ckMtaWw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzU0JkZWdXNVdsa3g5Wm5xUDV2VDdkZng0QldmVF9pbjA1Nmp4dFBja1VlZVFPUHotMWxYN1F1eFVoMGhxQlBQaDJ6X3hRUkwtdnNWWnZZNnJDLWls0gFcQVVfeXFMUHNTQmRlZ1c1V2xreDlabnFQNXZUN2RmeDRCV2ZUX2luMDU2anh0UGNrVWVlUU9Qei0xbFg3UXV4VWgwaHFCUFBoMnpfeFFSTC12c1Zadlk2ckMtaWw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-16-frimpong-boateng-breaks-silence-on-galamsey-changfans-and-gh",
+      "date": "2026-09-16",
+      "category": "forest",
+      "title": "Frimpong-Boateng Breaks Silence on Galamsey, Changfans and Ghana’s Fight Against Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong-Boateng Breaks Silence on Galamsey, Changfans and Ghana’s Fight Against Illegal Mining modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VTDBmOHRQeVhnVFBwaDlfOUxJT1NmNFk4NEJJa0poOTh0cDRZa3R0dDVoaGdLWTF4SmtWT25rNFZVR3ZvM0Y3eW1pRHdfUE1PNjRUVFdSQ3lWSGdD0gFcQVVfeXFMTlVMMGY4dFB5WGdUUHBoOV85TElPU2Y0WTg0QklrSmg5OHRwNFlrdHR0NWhoZ0tZMXhKa1ZPbms0VlVHdm8zRjd5bWlEd19QTU82NFRUV1JDeVZIZ0M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VTDBmOHRQeVhnVFBwaDlfOUxJT1NmNFk4NEJJa0poOTh0cDRZa3R0dDVoaGdLWTF4SmtWT25rNFZVR3ZvM0Y3eW1pRHdfUE1PNjRUVFdSQ3lWSGdD0gFcQVVfeXFMTlVMMGY4dFB5WGdUUHBoOV85TElPU2Y0WTg0QklrSmg5OHRwNFlrdHR0NWhoZ0tZMXhKa1ZPbms0VlVHdm8zRjd5bWlEd19QTU82NFRUV1JDeVZIZ0M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
       "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
@@ -2360,8 +2459,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2p2T0UzNWE1Y01DcW0yZ2ZwX3lGVDlMdjMyM0lLc0VTWVdmZDFQa1dXZ3RVcmpHOEZvYnVpNld5V3F0WTlwQTl4Y1J6UWFBa0p3VzNtOWJVWGxycnpPMndkQU5HbUl2ZWRtZk80WklxclRfd3FVeW04cFVjekk0VFM2ajZILXJXTjFmSG42X3hna3htUElsa0NqN082eHI1SHdQajRoYUo?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-06T15:27:32.578Z",
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "archivedAt": "2026-09-06T15:27:32.578Z"
     },
     {
       "id": "auto-2026-09-06-forestry-commission-arrests-12-illegal-miners-in-atewa-fores",
@@ -2403,8 +2501,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxPTC1KUjVSN3dSaVFBbXdYWWk2TGpFS2NVc2R3Mm9xYW1ldlVqR0YxeXdyQWhVQnRrRGM3T2FCTk5wYWM0VWtXWUotSzdlMUY5aTZuN3VIMWNieE1GeDA5Mjd6V1JXMEVGbC1xdk9vLXJoR242NGR0SVhtQVZaVkpHUDI0Ti1zb18xeG85cXBwT0pZNE51QVB0T2N5eTRGZHBqbzNSbWlRTE9hS1RFd2NNVjhhV3puNHFtQkpYRw?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-08T04:37:48.434Z",
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "archivedAt": "2026-09-08T04:37:48.434Z"
     },
     {
       "id": "auto-2026-09-06-no-illegal-mining-operation-will-find-refuge-on-akyem-essase",
@@ -2482,8 +2579,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVVPNlRkQlJlWWItRVo5bVEyNUo5UzZoTTNLWFZzQkZsZm1adklpNDBtU2NRd2lVd0hlNm1ERkxQLXF2U095cW9Ra3VIanVNcjMzb1JVTmpFcDdDREVlMWVBdUN4RG1CM1RiQW9OVG5NVUpwWHJyUzJRQ2JFSnJiMDRBZ0pMX0Z2VndIVndCR29HOHA4TlhoSmVOOHhNelotR2pCVG52LVFaY0JuR1hrWmY1elAxejJrZk1vb2Uxb3kxUQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
+      "verified": false
     },
     {
       "id": "auto-2026-09-06-baffour-sikabede-ghana-galamsey-chiefs-must-protect-environm",
@@ -2544,8 +2640,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDB0cy1uemNYUjNHc1QwaG55cFJDMmd4cGExV2pSYmVtY2NJY25aNUc1VEFJQXd0U3NmaHF5YXpzQ2lySTJXR3daUUZQRzJyV0NrVDVxa3NNb01WekVFei1jWGE4M25DM1FQY0ZPN0QtZlpKZFpqXzJuR3NpMjR3c2lnZGZkejBsZm9pS0M1aGs0NlZTZGNWNmtOLTQ5S2lCcndkNUdBZVZlbGc0M25nZHBXOGVfUlp3ZlNvVjVuX1FWU2RpcWZNUHBR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
+      "verified": false
     },
     {
       "id": "auto-2026-09-06-frimpong-boateng-ghana-illegal-mining-concessions-easier-tha",
@@ -2564,8 +2659,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjV6Z2FIa3NnUmVObnVIYTVYeGNWb25EYzJ6eTRqMzNRN2FIQy01X0VRNHY3emp6YjJnaDc1MjZtbDczdnZrRTd0VnJFcXJDV1pJeEVRWk1VQXd6OVVJUlh3eDVxTU1HdE9RblhodnU2bDluU3V2WnYxV1o3MHlMTGlUYXRFSmV0RU9zbDFIelBkVW1scFVUdmMwRV9GNmp3TWpja2xFZHlkSUREbVhtMXBQbVlDZFpGQ1ZScHRLeldxRHhOWktn?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
+      "verified": false
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -3624,8 +3718,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNNEJXZG1vTVZsdktvLVhLdi1MN1J3bjBLcWx0bXZjNEpOd190bUxRakp3aWduUm1YOGE1eTdkX1ZoZTloUnRxT3h4aG1zT3lZR1ZrbjBRVVpBdy1hVlRxcTRnSDNqWnJ3S3kxbHhrdEZreWxkZ0NiVnhxNnFjdWRhdDZOYm1yVXNvcDhBNWstQW56RGhGNS1CanpOVlNFZTlfb1JmdnJzaGFwZTZxRmVTbXZOZUhNVE40Y0JZMVduOEZpcHlB?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "verified": false
     },
     {
       "id": "auto-2026-09-02-human-cost-of-galamsey-now-counted-in-bodies-as-lives-are-lo",
