@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18T11:14:22.714Z",
+  "updated": "2026-09-18T16:25:49.527Z",
   "counts": {
-    "total": 832,
+    "total": 836,
     "verified": 28,
-    "automated": 804,
+    "automated": 808,
     "earliest": "2024-07-01",
     "latest": "2026-09-18"
   },
@@ -81,6 +81,64 @@
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemfSAWNBVV95cUxOZW1ocWpuV2pEN0xDSnUzbDJBbXJnUXdLdWItSW9GMzZGb2MxMWd3eXl2SnZ0TjZZRkhOWWo5ams3ZXJsRVoycDVBZ3JnUk9SYjlrUUM1MXJzclRvMHRVVjUyZVU?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemfSAWNBVV95cUxOZW1ocWpuV2pEN0xDSnUzbDJBbXJnUXdLdWItSW9GMzZGb2MxMWd3eXl2SnZ0TjZZRkhOWWo5ams3ZXJsRVoycDVBZ3JnUk9SYjlrUUM1MXJzclRvMHRVVjUyZVU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-frimpong-boateng-criticises-government-s-decision-to-seek-ch",
+      "date": "2026-09-18",
+      "category": "policy",
+      "title": "Frimpong-Boateng Criticises Government’s Decision to Seek China’s Help on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong-Boateng Criticises Government’s Decision to Seek China’s Help on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kRVFpdVJ3ZHhZd0lyMWhIOEVCWmJUVTVLMjB3aUUxOS1na1NMSElldDlGTm5GOHlNUnJfdkQ1QklmQ0ZHSm1SMS1xc2E1Tm9vcVNkSzRuOERzQW5pdVdTbUtiMNIBXEFVX3lxTFBvYnJ3ckdEUndGMWVmS2dSU2dYaGVMcnZqTFRjZWxjT3Y1azE5VHpOYWpsVmNwN0JySjdOQWwxZE5NeUNpcTV5ZVFKTWd3b0tfX2lNNW1sTGhBZzN0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kRVFpdVJ3ZHhZd0lyMWhIOEVCWmJUVTVLMjB3aUUxOS1na1NMSElldDlGTm5GOHlNUnJfdkQ1QklmQ0ZHSm1SMS1xc2E1Tm9vcVNkSzRuOERzQW5pdVdTbUtiMNIBXEFVX3lxTFBvYnJ3ckdEUndGMWVmS2dSU2dYaGVMcnZqTFRjZWxjT3Y1azE5VHpOYWpsVmNwN0JySjdOQWwxZE5NeUNpcTV5ZVFKTWd3b0tfX2lNNW1sTGhBZzN0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "20 killed in Taraba illegal mining pit collapse, police probe deaths in Niger NSCDC cell",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "20 killed in Taraba illegal mining pit collapse, police probe deaths in Niger NSCDC cell Blueprint Newspapers",
+      "metrics": {},
+      "source": {
+        "name": "Blueprint Newspapers",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNejVsQXNGLXBqUGVVOVNFaEl1eW1nckVSMXB4SjhrQmZublZGTThsWnFkVHl6X25OWVJOc0hPY2otQ19jUE1Pekc5emdQVnBnY2tkUC0zdkJzY3ZLMmx5alp2c2FKWDJzaEQ0Qm54Wjd0MmVwZG1FbkVaY1pyaWM2R1JGQnozRWVWN0h4WVZpdEFLRGhMSU5Kcm9oSjcyVUtGeE52cUZ4Z3V5NC0teXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNejVsQXNGLXBqUGVVOVNFaEl1eW1nckVSMXB4SjhrQmZublZGTThsWnFkVHl6X25OWVJOc0hPY2otQ19jUE1Pekc5emdQVnBnY2tkUC0zdkJzY3ZLMmx5alp2c2FKWDJzaEQ0Qm54Wjd0MmVwZG1FbkVaY1pyaWM2R1JGQnozRWVWN0h4WVZpdEFLRGhMSU5Kcm9oSjcyVUtGeE52cUZ4Z3V5NC0teXc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-nigerian-police-probe-deaths-of-37-suspected-illegal-miners-",
+      "date": "2026-09-18",
+      "category": "prosecution",
+      "title": "Nigerian Police probe deaths of 37 suspected illegal miners in custody",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A total of 37 people accused of illegal mining in northwestern Nigeria have died in custody, local officials said. Police have set up an investigation into the deaths, which the Nigerian Security and Civil Defence Corps (NSCDC) blamed on an apparent disease outbreak. However, an intelligence report shared with the AFP news agency suggested the […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/nigerian-police-probe-deaths-of-37-suspected-illegal-miners-in-custody/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/nigerian-police-probe-deaths-of-37-suspected-illegal-miners-in-custody/",
       "via": "rss",
       "verified": false
     },
@@ -417,8 +475,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGRfRG9EdHdSOW5TQU11bklBRTJvQ2tHTVNRTjA4R2p6NFJQTS1mTTZadXR6UnY4RFoteUxkVGV5VThLRWk2MkRTYW5TRXdNVF84VmZ2VzRIUjVnc0ZOYW5iRl9PZlhRNlRpdElmckF5OEZKT3VQeVNaXy15WG8xTk9RT29mTlJuVU82d0pUaGdIV2p2TG0zTXR3VDlxdzJuRmgzeVc0dzBWeERy?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
+      "verified": false
     },
     {
       "id": "auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g",
@@ -792,8 +849,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmxxbEZEWlpkbGx0THdrbXAycmVFX3g2blh6VmhzSUhxLVV0b21ZMVhqZ2Izckc0ZG5VMDhhbTJjS1ZRdkVtSXVXSFdqa2hXYmR2c2Q1RTg5SVlWRDVnX0FGQkM3ME1zTDVzUFlOZXY4WHZ6R251U1NJMFhYUUZTWWYzT2lLRHd4UC1DdHpobmo2eTJ4OHEwNFR5RjZDXzNa?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
+      "verified": false
     },
     {
       "id": "auto-2026-09-14-xi-jinping-assigns-chinese-official-to-help-ghana-fight-gala",
@@ -1539,8 +1595,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTJLMHF5MExvU1hRTS05NG9YME5yaHRYb3lBZlpMcmp0aW1rRE4xYXJhb1lHV1plZnp3WkkxQzVZeUxnNUlhTDRic3NONDVhNTRzVU1NcHZUUUZZNGZKVUs4T1M1VjZ3YlI2aG0yLUZkeU5ySnFnY3ZjQkR3LXJJS09odTBZbFdDbWdjbDQxSTc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-china-agree-new-strategy-to-tackle-galamsey"
+      "verified": false
     },
     {
       "id": "auto-2026-09-11-govt-pledges-to-complete-gh-4-12bn-bono-road-projects",
@@ -1868,6 +1923,26 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-10T16:23:07.498Z"
+    },
+    {
+      "id": "auto-2026-09-10-ghana-unveils-naimos-and-rcomsdep-to-fight-galamsey-lands-mi",
+      "date": "2026-09-10",
+      "category": "policy",
+      "title": "Ghana unveils NAIMOS and rCOMSDEP to fight galamsey — Lands Minister tells global Ministers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana unveils NAIMOS and rCOMSDEP to fight galamsey — Lands Minister tells global Ministers GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakY3YzQ3NGJyck9ubk1ZVFlFbEJteE1uTmJ3YkJocVhHbG1TSHdOU0o3cUUtdUZ0Rk1VMmVYOHFzSFhnQ3VlRUVYT1FWSDJudG1BUGFaVHBkaGxSbFpwRjhVZTZEV1Y0TWVhSGRuMTlNMFZEVUNzSTl4dHRqeVlNYzMwUVBkNWZ1X29VN2tqa3g1R1Ztd0lGNXA1S0tQZVJ6NUlWY3RYcGw2MXZZM0RDYjUxc2RkQnJwQ1RDTlU1MzRVb3JxV3FsZXR3OWhoMEdta0dR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakY3YzQ3NGJyck9ubk1ZVFlFbEJteE1uTmJ3YkJocVhHbG1TSHdOU0o3cUUtdUZ0Rk1VMmVYOHFzSFhnQ3VlRUVYT1FWSDJudG1BUGFaVHBkaGxSbFpwRjhVZTZEV1Y0TWVhSGRuMTlNMFZEVUNzSTl4dHRqeVlNYzMwUVBkNWZ1X29VN2tqa3g1R1Ztd0lGNXA1S0tQZVJ6NUlWY3RYcGw2MXZZM0RDYjUxc2RkQnJwQ1RDTlU1MzRVb3JxV3FsZXR3OWhoMEdta0dR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
     },
     {
       "id": "auto-2026-09-09-galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jail",
