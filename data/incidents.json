@@ -1,13 +1,32 @@
 {
-  "updated": "2026-09-17T21:23:27.929Z",
+  "updated": "2026-09-18T04:44:16.168Z",
   "counts": {
-    "total": 826,
+    "total": 828,
     "verified": 28,
-    "automated": 798,
+    "automated": 800,
     "earliest": "2024-07-01",
-    "latest": "2026-09-17"
+    "latest": "2026-09-18"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-18-nigeria-37-suspects-of-illegal-mining-die-in-custody",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "Nigeria: 37 suspects of illegal mining die in custody",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nigeria: 37 suspects of illegal mining die in custody beninwebtv.com",
+      "metrics": {},
+      "source": {
+        "name": "beninwebtv.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHUzLUFkeE1jWEhTbkVOVXhYeHkxMjFSbWYzTUxWb0dGTmlyNk8tOGZmNWxpZno4eXJQbEo4QmJjZUdvYlljdTR2ZGJOOFZPLVcybkRZalFvZ3d6MldHOUtrRmpxc3AxcGk2aWo0eDZiZDRMMk9mLWd3YTNoc1NXZ2VzbmRoZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHUzLUFkeE1jWEhTbkVOVXhYeHkxMjFSbWYzTUxWb0dGTmlyNk8tOGZmNWxpZno4eXJQbEo4QmJjZUdvYlljdTR2ZGJOOFZPLVcybkRZalFvZ3d6MldHOUtrRmpxc3AxcGk2aWo0eDZiZDRMMk9mLWd3YTNoc1NXZ2VzbmRoZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-17-both-npp-and-ndc-love-galamsey-they-have-no-moral-right-to-a",
       "date": "2026-09-17",
@@ -87,6 +106,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-09-17-at-least-37-illegal-mining-suspects-found-dead-in-nigerian-c",
+      "date": "2026-09-17",
+      "category": "forest",
+      "title": "At least 37 illegal mining suspects found dead in Nigerian custody with officials blaming disease",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "At least 37 illegal mining suspects found dead in Nigerian custody with officials blaming disease The Sun Chronicle",
+      "metrics": {},
+      "source": {
+        "name": "The Sun Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNM3J6ck1kU194NE5fUDQyS1FPVVBwekJUbXFfTVVsQUd2QWItT3Q2N0JkZkYydTdNOXlaS0hSTjg2dW9NQTBwdER3NllzcWpkRGo4SjAtRHY1bTFSc0FTSWxJMjBLd215WjRUc1F0T1BUc0tsYUU1X3FIRm44T1V4OHdmSHNMOEYwY2NEeEJGd0c3ZHUxTnBrb2JuaFZCNGtGdWQtYnI4VlFLaVFBcnJOR04zbUFxTUVSa096dGhpTjNnc05HRU9yeGwtN2F1RzdXOXdBQmFtUUNRbFItdl9vQkpsbFQtWDc3Q245emt4aWhpV3FCaFVkTU5rZzRLZ0pLR2VROGRBN2lnZXYtSFdUTGJaQ2h4eExlaVRYaGV6c2JJQnM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowJBVV95cUxNM3J6ck1kU194NE5fUDQyS1FPVVBwekJUbXFfTVVsQUd2QWItT3Q2N0JkZkYydTdNOXlaS0hSTjg2dW9NQTBwdER3NllzcWpkRGo4SjAtRHY1bTFSc0FTSWxJMjBLd215WjRUc1F0T1BUc0tsYUU1X3FIRm44T1V4OHdmSHNMOEYwY2NEeEJGd0c3ZHUxTnBrb2JuaFZCNGtGdWQtYnI4VlFLaVFBcnJOR04zbUFxTUVSa096dGhpTjNnc05HRU9yeGwtN2F1RzdXOXdBQmFtUUNRbFItdl9vQkpsbFQtWDc3Q245emt4aWhpV3FCaFVkTU5rZzRLZ0pLR2VROGRBN2lnZXYtSFdUTGJaQ2h4eExlaVRYaGV6c2JJQnM?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-16-i-faced-those-who-openly-insisted-that-there-s-no-galamsey-g",
