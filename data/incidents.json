@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18T16:25:49.527Z",
+  "updated": "2026-09-18T20:56:32.943Z",
   "counts": {
-    "total": 836,
+    "total": 839,
     "verified": 28,
-    "automated": 808,
+    "automated": 811,
     "earliest": "2024-07-01",
     "latest": "2026-09-18"
   },
@@ -139,6 +139,44 @@
         "url": "https://www.adomonline.com/nigerian-police-probe-deaths-of-37-suspected-illegal-miners-in-custody/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/nigerian-police-probe-deaths-of-37-suspected-illegal-miners-in-custody/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-we-cannot-afford-to-normalise-this-sammi-awuku-sounds-alarm-",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "\"We cannot afford to normalise this\" –Sammi Awuku sounds alarm over galamsey, drug trafficking and fuel prices",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"We cannot afford to normalise this\" –Sammi Awuku sounds alarm over galamsey, drug trafficking and fuel prices Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeXBHeG1adjhKeXA0UTNTaTFOVTZqTnd1LXdLTmIwelA0SjZ6Yy14REZER2k1cVdlR3cwc0dCekJkQlJtc0NHOVlrNXVkenNRcExEQzBoMzZtOURjdlVEM3g1d0tmbXVReW12ZjVGUk5jZmNfTVNvU3g2VWUyRm01Y0VkRXhRV09hd1Bua2Q1TENGOF9BSTJ1ZC1SYzlnZnotLW1YaUg3Skx0TkF2UGZTMURpM3lzX3cwQl9tbGpnWU1EX2NPbFNqRDRMbw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxNeXBHeG1adjhKeXA0UTNTaTFOVTZqTnd1LXdLTmIwelA0SjZ6Yy14REZER2k1cVdlR3cwc0dCekJkQlJtc0NHOVlrNXVkenNRcExEQzBoMzZtOURjdlVEM3g1d0tmbXVReW12ZjVGUk5jZmNfTVNvU3g2VWUyRm01Y0VkRXhRV09hd1Bua2Q1TENGOF9BSTJ1ZC1SYzlnZnotLW1YaUg3Skx0TkF2UGZTMURpM3lzX3cwQl9tbGpnWU1EX2NPbFNqRDRMbw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-at-least-17-killed-after-vehicle-loaded-with-explosives-rams",
+      "date": "2026-09-18",
+      "category": "prosecution",
+      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Thirty-seven people accused of illegal mining in north-central Nigeria have died in custody, official say.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/dozens-of-suspected-illegal-miners-die-in-nigerian-custody/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/dozens-of-suspected-illegal-miners-die-in-nigerian-custody/",
       "via": "rss",
       "verified": false
     },
@@ -3032,6 +3070,25 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-06T15:27:58.055Z"
+    },
+    {
+      "id": "auto-2026-09-05-forestry-commission-arrests-12-illegal-miners-in-atewa-fores",
+      "date": "2026-09-05",
+      "category": "arrest",
+      "title": "Forestry Commission arrests 12 illegal miners in Atewa Forest Reserve dawn swoop",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Forestry Commission arrests 12 illegal miners in Atewa Forest Reserve dawn swoop Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1FsdkwzeVh6blQ2RzlFcTNRcjRlS244WXpZa0czclpLNmIxVVRsNGNiZ0FSQ2FibHZfRlduTWt2MXk0R3Zvdk1rWWt1SzJtaFhHS094aU56bVptZnh6LTZQc0VubWF5WFQxenBiZUEwbU1fLWFNcnJEcldhQjQwRERJT0liZXhsR0t4eVlOeC1hU0J4THE4RThn0gGYAUFVX3lxTE9qYXYxRlJ2UldxYXZVMDQ1U0FySnIxdWxzYlRLZXQzTm51cE9KQTRNZ0xVU0NTUWhISUIyNVphVkNYaG9jbzdvcDFrODRjNjVwMXRzRG1UZTRKRzM4ZWlaVUdVdW5SXzNWVFBEbzRtZkVwUEFob2xYSXF1czQxZzB2TW0tT1U3QmZZOWFaWEFRb1l2YlktU2Qy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1FsdkwzeVh6blQ2RzlFcTNRcjRlS244WXpZa0czclpLNmIxVVRsNGNiZ0FSQ2FibHZfRlduTWt2MXk0R3Zvdk1rWWt1SzJtaFhHS094aU56bVptZnh6LTZQc0VubWF5WFQxenBiZUEwbU1fLWFNcnJEcldhQjQwRERJT0liZXhsR0t4eVlOeC1hU0J4THE4RThn0gGYAUFVX3lxTE9qYXYxRlJ2UldxYXZVMDQ1U0FySnIxdWxzYlRLZXQzTm51cE9KQTRNZ0xVU0NTUWhISUIyNVphVkNYaG9jbzdvcDFrODRjNjVwMXRzRG1UZTRKRzM4ZWlaVUdVdW5SXzNWVFBEbzRtZkVwUEFob2xYSXF1czQxZzB2TW0tT1U3QmZZOWFaWEFRb1l2YlktU2Qy?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-04-police-forestry-commission-team-arrest-16-armed-thugs-in-the",
