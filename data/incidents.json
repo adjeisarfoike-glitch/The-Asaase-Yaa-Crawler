@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18T04:44:16.168Z",
+  "updated": "2026-09-18T11:14:22.714Z",
   "counts": {
-    "total": 828,
+    "total": 832,
     "verified": 28,
-    "automated": 800,
+    "automated": 804,
     "earliest": "2024-07-01",
     "latest": "2026-09-18"
   },
@@ -24,6 +24,63 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHUzLUFkeE1jWEhTbkVOVXhYeHkxMjFSbWYzTUxWb0dGTmlyNk8tOGZmNWxpZno4eXJQbEo4QmJjZUdvYlljdTR2ZGJOOFZPLVcybkRZalFvZ3d6MldHOUtrRmpxc3AxcGk2aWo0eDZiZDRMMk9mLWd3YTNoc1NXZ2VzbmRoZw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHUzLUFkeE1jWEhTbkVOVXhYeHkxMjFSbWYzTUxWb0dGTmlyNk8tOGZmNWxpZno4eXJQbEo4QmJjZUdvYlljdTR2ZGJOOFZPLVcybkRZalFvZ3d6MldHOUtrRmpxc3AxcGk2aWo0eDZiZDRMMk9mLWd3YTNoc1NXZ2VzbmRoZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-sam-george-and-galamsey-the-comments-that-tell-a-different-s",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "Sam George and Galamsey: The comments that tell a different story",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sam George and Galamsey: The comments that tell a different story GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmNXUlMzbzNhSzZUWDduRWFEd2d2QTZETEpBUzJmVXVWdjVESXc5MFpLSTBObmZCUV8zWjlGb1h2ZV9oMmdoMUk0NzJ3WWpZQWw0cFVBWjk1VWYzV0RXYjB2ZlJqQTBkOGRHejE3VEFTcU1ZRGJFNk1kRk9TWEwxZ0pVQk9PSnFEVjBiQ2EzNHF3RFd6OU5PeGJCVWVEVTJvd0dvdVY1bnNYRXZCMDNLdmpyZFNnbEpxTXlNTHVidUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmNXUlMzbzNhSzZUWDduRWFEd2d2QTZETEpBUzJmVXVWdjVESXc5MFpLSTBObmZCUV8zWjlGb1h2ZV9oMmdoMUk0NzJ3WWpZQWw0cFVBWjk1VWYzV0RXYjB2ZlJqQTBkOGRHejE3VEFTcU1ZRGJFNk1kRk9TWEwxZ0pVQk9PSnFEVjBiQ2EzNHF3RFd6OU5PeGJCVWVEVTJvd0dvdVY1bnNYRXZCMDNLdmpyZFNnbEpxTXlNTHVidUE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-nigerian-police-probe-death-in-custody-of-37-illegal-mining-",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "Nigerian police probe death in custody of 37 illegal mining suspects",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nigerian police probe death in custody of 37 illegal mining suspects Al Jazeera",
+      "metrics": {},
+      "source": {
+        "name": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0dUbXFKRi1McjBYdUY2eTBDMDdmRmFfM1hjOXhYZ3o3anpMX0dUS1dEUXo4YjM2LUs2WlJOcTh3ZEtlODNyUzFSZ3hIMUx6eEV2RmJSQlhVYkhSTUxuZ1NSbXJOc2VNN2VZcnVyaTgyX3RBQURGZnRMTmhmaHBIcTdkVEpjOUJJblJVaWsyMTNCbjRjQ2lHbmxyV2xjaF84djJoNy1zT0poQ1RUUGfSAbMBQVVfeXFMT3ZsRGNUTFV5OVhGeGg3UlA1ZjVQeWFEbkJiOThmcjRaRG5FRW1YMFpmXy00RFN3TEwzRjFQSXdmbllwM1l1R3E2UWl2RC1Mc0ZzRkdYcmZOMzFfcWxfOUR3S085NURRX1BUZjZXcGFSN1RTal9MOUdUYy10cWt3MmJQcGJyLTRLNEdNMmh5TmVwZVBwc0lnWEpsYU5TZHpKTmxnM0FxeHhNNUlLd1FTZTczekU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0dUbXFKRi1McjBYdUY2eTBDMDdmRmFfM1hjOXhYZ3o3anpMX0dUS1dEUXo4YjM2LUs2WlJOcTh3ZEtlODNyUzFSZ3hIMUx6eEV2RmJSQlhVYkhSTUxuZ1NSbXJOc2VNN2VZcnVyaTgyX3RBQURGZnRMTmhmaHBIcTdkVEpjOUJJblJVaWsyMTNCbjRjQ2lHbmxyV2xjaF84djJoNy1zT0poQ1RUUGfSAbMBQVVfeXFMT3ZsRGNUTFV5OVhGeGg3UlA1ZjVQeWFEbkJiOThmcjRaRG5FRW1YMFpmXy00RFN3TEwzRjFQSXdmbllwM1l1R3E2UWl2RC1Mc0ZzRkdYcmZOMzFfcWxfOUR3S085NURRX1BUZjZXcGFSN1RTal9MOUdUYy10cWt3MmJQcGJyLTRLNEdNMmh5TmVwZVBwc0lnWEpsYU5TZHpKTmxnM0FxeHhNNUlLd1FTZTczekU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-illegal-miners-death-in-niger-state-wat-we-know-about-suspec",
+      "date": "2026-09-18",
+      "category": "prosecution",
+      "title": "illegal miners death in Niger state: Wat we know about suspected illegal mining pipo wey kpai for civil defence detention facility for Niger",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "illegal miners death in Niger state: Wat we know about suspected illegal mining pipo wey kpai for civil defence detention facility for Niger BBC",
+      "metrics": {},
+      "source": {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemfSAWNBVV95cUxOZW1ocWpuV2pEN0xDSnUzbDJBbXJnUXdLdWItSW9GMzZGb2MxMWd3eXl2SnZ0TjZZRkhOWWo5ams3ZXJsRVoycDVBZ3JnUk9SYjlrUUM1MXJzclRvMHRVVjUyZVU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXkFVX3lxTE91MzVNTjdqX3pVVzUyMjB0Q2V4ZTNyREIwZ2Z3Z09JUUV3cER1YS1GZUlJODVOSzhJN1hMSlZvcnJRd0pJSFVDM2pRUFVtcFVGdmZhVUFpRlMyTG1wemfSAWNBVV95cUxOZW1ocWpuV2pEN0xDSnUzbDJBbXJnUXdLdWItSW9GMzZGb2MxMWd3eXl2SnZ0TjZZRkhOWWo5ams3ZXJsRVoycDVBZ3JnUk9SYjlrUUM1MXJzclRvMHRVVjUyZVU?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -697,6 +754,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHlmR1FKa1pfdkVhUU1ZT3dYTlVtOVdGclJNczNQWlFTTm5vUF9JYm9ZRXdMWkt4MHltXzliSG50LXRZMFBGNDRBM0pnQWZqNC11a05WLUFhZDEzMHhKZWswVTFIc1llX2x2OE9yRTlSSWlaTDZMZExjZW50RjhlaEtJOEN0RWd0anFSSlE5Y2tIdGZnTDRWZGRkdmg4dkxmQjVFcklVUTYxd0kzSmVUbkln?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-15-jaga-watch-committee-gets-six-new-members-to-fight-galamsey",
+      "date": "2026-09-15",
+      "category": "policy",
+      "title": "JAGA Watch Committee gets six new members to fight galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "JAGA Watch Committee gets six new members to fight galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFJBSFVTVWZ6bnROakhVbGFvQTd4VDAyb2VFenVyUkFuX0JsU0JDUmVuVTdTZlItVXY0SGdWMHlmdEFndk9qTmo4cUc5a3V6ZTFHY2FqdC1iNDE3cktmbEMyeWViblNScFhmckJZYWdQUVkwQjluSkZqZUN3S1U1QkgwX1A2TFh5Q2NIYURlc3NkSWs1UjlpcU9FQjRvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPSFJBSFVTVWZ6bnROakhVbGFvQTd4VDAyb2VFenVyUkFuX0JsU0JDUmVuVTdTZlItVXY0SGdWMHlmdEFndk9qTmo4cUc5a3V6ZTFHY2FqdC1iNDE3cktmbEMyeWViblNScFhmckJZYWdQUVkwQjluSkZqZUN3S1U1QkgwX1A2TFh5Q2NIYURlc3NkSWs1UjlpcU9FQjRvZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
     },
     {
       "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
