@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-19T15:55:23.284Z",
+  "updated": "2026-09-19T20:40:59.994Z",
   "counts": {
-    "total": 844,
+    "total": 845,
     "verified": 28,
-    "automated": 816,
+    "automated": 817,
     "earliest": "2024-07-01",
     "latest": "2026-09-19"
   },
@@ -141,7 +141,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNejVsQXNGLXBqUGVVOVNFaEl1eW1nckVSMXB4SjhrQmZublZGTThsWnFkVHl6X25OWVJOc0hPY2otQ19jUE1Pekc5emdQVnBnY2tkUC0zdkJzY3ZLMmx5alp2c2FKWDJzaEQ0Qm54Wjd0MmVwZG1FbkVaY1pyaWM2R1JGQnozRWVWN0h4WVZpdEFLRGhMSU5Kcm9oSjcyVUtGeE52cUZ4Z3V5NC0teXc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe"
     },
     {
       "id": "auto-2026-09-18-nigerian-police-probe-deaths-of-37-suspected-illegal-miners-",
@@ -199,6 +200,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/dozens-of-suspected-illegal-miners-die-in-nigerian-custody/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-18-niger-illegal-mining-deaths-interior-minister-suspends-nscdc",
+      "date": "2026-09-18",
+      "category": "policy",
+      "title": "Niger Illegal Mining Deaths: Interior Minister Suspends NSCDC Commandant, Orders Investigation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Niger Illegal Mining Deaths: Interior Minister Suspends NSCDC Commandant, Orders Investigation Sahara Reporters",
+      "metrics": {},
+      "source": {
+        "name": "Sahara Reporters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSURDTUtEcUFLOWZUZ3R6UC1jVThDLTRMSlFHYWwzMFAyMjRKSDNUMEdfQWZqby1zdHJxUUJFMjZ5RGVYaC1GalMyTkJLSlBZNDFTdFNOV2VxYW43MUNRV1Fic2cyRm5NR3JTbXprZ0pmeXZwQ24zbW9PeE1QYTRBVW5mTUJ2eGFOT19FMmZEMTZJMTEtQWFGclRETGFzTGNxcWRCNnFRcURGU3U4d3pDS09TbmNGLXQw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSURDTUtEcUFLOWZUZ3R6UC1jVThDLTRMSlFHYWwzMFAyMjRKSDNUMEdfQWZqby1zdHJxUUJFMjZ5RGVYaC1GalMyTkJLSlBZNDFTdFNOV2VxYW43MUNRV1Fic2cyRm5NR3JTbXprZ0pmeXZwQ24zbW9PeE1QYTRBVW5mTUJ2eGFOT19FMmZEMTZJMTEtQWFGclRETGFzTGNxcWRCNnFRcURGU3U4d3pDS09TbmNGLXQw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe"
     },
     {
       "id": "auto-2026-09-17-both-npp-and-ndc-love-galamsey-they-have-no-moral-right-to-a",
