@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-18T20:56:32.943Z",
+  "updated": "2026-09-19T04:38:31.331Z",
   "counts": {
-    "total": 839,
+    "total": 840,
     "verified": 28,
-    "automated": 811,
+    "automated": 812,
     "earliest": "2024-07-01",
     "latest": "2026-09-18"
   },
@@ -2366,6 +2366,25 @@
         "url": "https://www.myjoyonline.com/galamsey-operator-who-posed-as-pastor-to-defile-student-jailed-15-years/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-operator-who-posed-as-pastor-to-defile-student-jailed-15-years/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-08-target-bigwigs-importing-excavators-for-galamsey-ken-ashigbe",
+      "date": "2026-09-08",
+      "category": "forest",
+      "title": "Target 'bigwigs' importing excavators for galamsey – Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Target 'bigwigs' importing excavators for galamsey – Ken Ashigbey ghanaweb.com",
+      "metrics": {},
+      "source": {
+        "name": "ghanaweb.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHpuYzRTVlBVZUhCb1VCWVE5WGtOMnpTdURfSWtyMlRETmszaGRXeWZPNzZXUkF5cjFEZl9EbXRKQ2xOSGVaSGJuenFRRV83TFd2N2c1WXBsVFltOU1SVjV2NkxPUUVsNmZKZkdCX1pkcmlyd29CdVQ2dlZ0cjhNOGdtdnZCLUw5ZWhFenZncU9ISE45YlBraXdYUnNSNUNtVTZYTGhCd3pNLTlIYmxraWp4am4yR2Jm?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHpuYzRTVlBVZUhCb1VCWVE5WGtOMnpTdURfSWtyMlRETmszaGRXeWZPNzZXUkF5cjFEZl9EbXRKQ2xOSGVaSGJuenFRRV83TFd2N2c1WXBsVFltOU1SVjV2NkxPUUVsNmZKZkdCX1pkcmlyd29CdVQ2dlZ0cjhNOGdtdnZCLUw5ZWhFenZncU9ISE45YlBraXdYUnNSNUNtVTZYTGhCd3pNLTlIYmxraWp4am4yR2Jm?oc=5",
       "via": "rss",
       "verified": false
     },
