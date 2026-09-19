@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-19T04:38:31.331Z",
+  "updated": "2026-09-19T10:59:14.004Z",
   "counts": {
-    "total": 840,
+    "total": 841,
     "verified": 28,
-    "automated": 812,
+    "automated": 813,
     "earliest": "2024-07-01",
-    "latest": "2026-09-18"
+    "latest": "2026-09-19"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-19-an-urgent-call-to-action-safeguarding-ghana-s-future-against",
+      "date": "2026-09-19",
+      "category": "forest",
+      "title": "An Urgent Call to Action: Safeguarding Ghana’s Future Against the Galamsey Menace",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "An Urgent Call to Action: Safeguarding Ghana’s Future Against the Galamsey Menace Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXdpbm9aMVMwdjJKM3dOSnUyY0JHV21jNjFKMDJSTlBRaWJFclQ3Z1ZXT1Q2aVhOaHp1bjNrN3RxYUw4eVNOOGhla25rUmZDOXNVTkRSXzV4WGhfYVVoR1lyT2pDRTJNWVJxRkxybktpaFRzbWw3TXJXOFdubWRKUGZpYkVhU21yYkltODVpLUtubTZa0gGTAUFVX3lxTE05NjRKcy02aHdZNUlFaHhnczI1WVloVGhMd2FVNWNadldpd2gwNFFZcjFPM0M3Ui1Sb1JTcVI5a0JqWFZDNU5mUmxnRjZaVWJncTlhdlJqNVU2cXgtTWhTakd4Uk93MDdraVdGT3dFU05aWUg2elY5bG02Szl4MnhnUWZvSXB0VDNNWFd2LTBHSktHdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXdpbm9aMVMwdjJKM3dOSnUyY0JHV21jNjFKMDJSTlBRaWJFclQ3Z1ZXT1Q2aVhOaHp1bjNrN3RxYUw4eVNOOGhla25rUmZDOXNVTkRSXzV4WGhfYVVoR1lyT2pDRTJNWVJxRkxybktpaFRzbWw3TXJXOFdubWRKUGZpYkVhU21yYkltODVpLUtubTZa0gGTAUFVX3lxTE05NjRKcy02aHdZNUlFaHhnczI1WVloVGhMd2FVNWNadldpd2gwNFFZcjFPM0M3Ui1Sb1JTcVI5a0JqWFZDNU5mUmxnRjZaVWJncTlhdlJqNVU2cXgtTWhTakd4Uk93MDdraVdGT3dFU05aWUg2elY5bG02Szl4MnhnUWZvSXB0VDNNWFd2LTBHSktHdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
     {
       "id": "auto-2026-09-18-nigeria-37-suspects-of-illegal-mining-die-in-custody",
       "date": "2026-09-18",
