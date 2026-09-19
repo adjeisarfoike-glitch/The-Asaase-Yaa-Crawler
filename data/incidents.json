@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-19T10:59:14.004Z",
+  "updated": "2026-09-19T15:55:23.284Z",
   "counts": {
-    "total": 841,
+    "total": 844,
     "verified": 28,
-    "automated": 813,
+    "automated": 816,
     "earliest": "2024-07-01",
     "latest": "2026-09-19"
   },
@@ -907,7 +907,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmxxbEZEWlpkbGx0THdrbXAycmVFX3g2blh6VmhzSUhxLVV0b21ZMVhqZ2Izckc0ZG5VMDhhbTJjS1ZRdkVtSXVXSFdqa2hXYmR2c2Q1RTg5SVlWRDVnX0FGQkM3ME1zTDVzUFlOZXY4WHZ6R251U1NJMFhYUUZTWWYzT2lLRHd4UC1DdHpobmo2eTJ4OHEwNFR5RjZDXzNa?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons"
     },
     {
       "id": "auto-2026-09-14-xi-jinping-assigns-chinese-official-to-help-ghana-fight-gala",
@@ -1242,6 +1243,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-09-14-china-unhappy-with-nationals-involved-in-galamsey-in-ghana-k",
+      "date": "2026-09-14",
+      "category": "forest",
+      "title": "China unhappy with nationals involved in galamsey in Ghana – Kojo Bonsu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "China unhappy with nationals involved in galamsey in Ghana – Kojo Bonsu GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDhJd1laWl9kUlhiQWxlX281ZVl4UHRvV0lOVEZuaHFZUkRndm9OdmZZWUZFWTFyaWxxcnBHY1U4N1JVVjMtdDhfMWQzallYdU1NZTRjb2hUT0pxdzNVV3BvSzgwdGQ0YmJ4OXhUeTRPcURGT1B6aGwweG5NWDZyQ2t4VEgxZk53VnpEU2JYR1JBT1J5VTlFdlYxaldUWTNHbURBeFhURGI1THpwaGNTLVZhOVdCQWduZVFQeFJTOWdtVDg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUDhJd1laWl9kUlhiQWxlX281ZVl4UHRvV0lOVEZuaHFZUkRndm9OdmZZWUZFWTFyaWxxcnBHY1U4N1JVVjMtdDhfMWQzallYdU1NZTRjb2hUT0pxdzNVV3BvSzgwdGQ0YmJ4OXhUeTRPcURGT1B6aGwweG5NWDZyQ2t4VEgxZk53VnpEU2JYR1JBT1J5VTlFdlYxaldUWTNHbURBeFhURGI1THpwaGNTLVZhOVdCQWduZVFQeFJTOWdtVDg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons"
+    },
+    {
       "id": "auto-2026-09-13-watch-as-naimos-task-force-raids-galamsey-sites-seizes-excav",
       "date": "2026-09-13",
       "category": "arrest",
@@ -1322,12 +1343,12 @@
       "id": "auto-2026-09-13-ghana-china-sign-illegal-mining-cooperation-agreement-to-fig",
       "date": "2026-09-13",
       "category": "forest",
-      "title": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey",
+      "title": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey | Briefly",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey Wansom AI",
+      "summary": "Ghana, China: Sign Illegal Mining Cooperation Agreement to Fight Galamsey | Briefly Wansom AI",
       "metrics": {},
       "source": {
         "name": "Wansom AI",
@@ -1904,6 +1925,25 @@
       "thread": "t-arr-2025-04-18-samreboi"
     },
     {
+      "id": "auto-2026-09-11-galamsey-kids",
+      "date": "2026-09-11",
+      "category": "forest",
+      "title": "galamsey kids",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "galamsey kids dailyguidenetwork.com",
+      "metrics": {},
+      "source": {
+        "name": "dailyguidenetwork.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbHItUUVUQjM3Q2NXX0M1OHBvU1IySmNHVjRDUUJMNy14eTlpNFhOVEh1VC10M0paajNtdFFLSXlNR2FHTG1rVWxXUW80eHlQbmRmaTR0TmVVWHh2U2d6MWwzenkxdXBMOGluaTNsajJIQUdBZmFOYS1rdFdQQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifkFVX3lxTE5NbHItUUVUQjM3Q2NXX0M1OHBvU1IySmNHVjRDUUJMNy14eTlpNFhOVEh1VC10M0paajNtdFFLSXlNR2FHTG1rVWxXUW80eHlQbmRmaTR0TmVVWHh2U2d6MWwzenkxdXBMOGluaTNsajJIQUdBZmFOYS1rdFdQQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-09-10-cocoa-lands-now-security-zones-as-farmers-step-up-anti-galam",
       "date": "2026-09-10",
       "category": "forest",
@@ -2405,6 +2445,25 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHpuYzRTVlBVZUhCb1VCWVE5WGtOMnpTdURfSWtyMlRETmszaGRXeWZPNzZXUkF5cjFEZl9EbXRKQ2xOSGVaSGJuenFRRV83TFd2N2c1WXBsVFltOU1SVjV2NkxPUUVsNmZKZkdCX1pkcmlyd29CdVQ2dlZ0cjhNOGdtdnZCLUw5ZWhFenZncU9ISE45YlBraXdYUnNSNUNtVTZYTGhCd3pNLTlIYmxraWp4am4yR2Jm?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHpuYzRTVlBVZUhCb1VCWVE5WGtOMnpTdURfSWtyMlRETmszaGRXeWZPNzZXUkF5cjFEZl9EbXRKQ2xOSGVaSGJuenFRRV83TFd2N2c1WXBsVFltOU1SVjV2NkxPUUVsNmZKZkdCX1pkcmlyd29CdVQ2dlZ0cjhNOGdtdnZCLUw5ZWhFenZncU9ISE45YlBraXdYUnNSNUNtVTZYTGhCd3pNLTlIYmxraWp4am4yR2Jm?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-08-galamsey-power-outages-worsening-poor-telecom-network-qualit",
+      "date": "2026-09-08",
+      "category": "forest",
+      "title": "Galamsey, power outages worsening poor telecom network quality – Sam George",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey, power outages worsening poor telecom network quality – Sam George GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1JhaVFVcDVsdkZnNkxmRXdYaGlJLW5aNk9WU3QwWk4zSlNBNUI0ekhqUTUtQkpkUG8yc2hocFp4T1pKNnRyaHZVcmlLYTFpVW4tVlNfT1NXNXZ0eXlWT19Rc2VUTVZYQjd1d2hjWGkwbkQxcEdrazhUdjdYRnJGRTlWV1Ffa1FyUUFfZ1U3ZjBYWUp2ZzlrOFJLNTRGUVRsSDQyUTJMZTR0dkFvQThsZDJtaTllVldSV1ZlaEdVS1FRTWM0OFFfbnY4MA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1JhaVFVcDVsdkZnNkxmRXdYaGlJLW5aNk9WU3QwWk4zSlNBNUI0ekhqUTUtQkpkUG8yc2hocFp4T1pKNnRyaHZVcmlLYTFpVW4tVlNfT1NXNXZ0eXlWT19Rc2VUTVZYQjd1d2hjWGkwbkQxcEdrazhUdjdYRnJGRTlWV1Ffa1FyUUFfZ1U3ZjBYWUp2ZzlrOFJLNTRGUVRsSDQyUTJMZTR0dkFvQThsZDJtaTllVldSV1ZlaEdVS1FRTWM0OFFfbnY4MA?oc=5",
       "via": "rss",
       "verified": false
     },
