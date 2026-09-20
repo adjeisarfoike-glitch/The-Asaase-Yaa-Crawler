@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-20T16:06:48.890Z",
+  "updated": "2026-09-20T20:50:35.604Z",
   "counts": {
-    "total": 850,
+    "total": 852,
     "verified": 28,
-    "automated": 822,
+    "automated": 824,
     "earliest": "2024-07-01",
     "latest": "2026-09-19"
   },
@@ -44,6 +44,27 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGh4ckkyekRhZUlvdnVMQkNTWmxQUkpSZFBKOGFxMS1wUnE4OXNPd1d6azJPZm93Tzk3SHNlNkN5LThqQ1hDM2JudFpRRHgxX2cyU25aaFNrdFNQVUlVRkdXOEJSZGt2VXltX1Q4dUlaYlg4T0JLQzd3UkY5bGczWWxzLVBnc081YTctUEhNSjNnYmw4YjNvamNyZkpwMjFCQW5mUXZLQXlIWHNPeTVNV1IwQkVQamVONEt5YnQxcTdHblNOYV85NzZyRTRJUQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGh4ckkyekRhZUlvdnVMQkNTWmxQUkpSZFBKOGFxMS1wUnE4OXNPd1d6azJPZm93Tzk3SHNlNkN5LThqQ1hDM2JudFpRRHgxX2cyU25aaFNrdFNQVUlVRkdXOEJSZGt2VXltX1Q4dUlaYlg4T0JLQzd3UkY5bGczWWxzLVBnc081YTctUEhNSjNnYmw4YjNvamNyZkpwMjFCQW5mUXZLQXlIWHNPeTVNV1IwQkVQamVONEt5YnQxcTdHblNOYV85NzZyRTRJUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-19-unless-you-burn-us-we-ll-continue-to-repair-chang-fans-galam",
+      "date": "2026-09-19",
+      "category": "forest",
+      "title": "‘Unless you burn us, we’ll continue to repair Chang fans’ - Galamseyer ‘dares’ NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Unless you burn us, we’ll continue to repair Chang fans’ - Galamseyer ‘dares’ NAIMOS GhanaWeb",
+      "metrics": {
+        "ntu": 9
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2ZOLXpKTlB0bDRiUE5lR3Uyc3VGYV9FYnJ4NUw5eURpanFGSldHMlVWbHJyNjMwX3BCdWNQaTNWUG5HVjNQdTgtQnUxaGhVdjhqQU9EZUlnbVBHZzdhU2dKQjIxNmlZRU5pcExlSVVUSVRJZmF4a2RIdTNYQ3ViR0ZhMkVvbkFHUnFpdERmSGVEVGlOOWVXV05DRURvTXlSNGZveFk2NjlDbnk3endyQWFXSGQyaDNXOXNiOE4tZG9NTUx4bWFuYnk2dG9uc1JyS2RN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2ZOLXpKTlB0bDRiUE5lR3Uyc3VGYV9FYnJ4NUw5eURpanFGSldHMlVWbHJyNjMwX3BCdWNQaTNWUG5HVjNQdTgtQnUxaGhVdjhqQU9EZUlnbVBHZzdhU2dKQjIxNmlZRU5pcExlSVVUSVRJZmF4a2RIdTNYQ3ViR0ZhMkVvbkFHUnFpdERmSGVEVGlOOWVXV05DRURvTXlSNGZveFk2NjlDbnk3endyQWFXSGQyaDNXOXNiOE4tZG9NTUx4bWFuYnk2dG9uc1JyS2RN?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -199,7 +220,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxNeXBHeG1adjhKeXA0UTNTaTFOVTZqTnd1LXdLTmIwelA0SjZ6Yy14REZER2k1cVdlR3cwc0dCekJkQlJtc0NHOVlrNXVkenNRcExEQzBoMzZtOURjdlVEM3g1d0tmbXVReW12ZjVGUk5jZmNfTVNvU3g2VWUyRm01Y0VkRXhRV09hd1Bua2Q1TENGOF9BSTJ1ZC1SYzlnZnotLW1YaUg3Skx0TkF2UGZTMURpM3lzX3cwQl9tbGpnWU1EX2NPbFNqRDRMbw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-18-we-cannot-afford-to-normalise-this-sammi-awuku-sounds-alarm-"
     },
     {
       "id": "auto-2026-09-18-at-least-17-killed-after-vehicle-loaded-with-explosives-rams",
@@ -239,6 +261,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe"
+    },
+    {
+      "id": "auto-2026-09-18-ghana-cannot-afford-to-normalise-this-sammi-awuku-on-salomey",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "Ghana Cannot Afford to Normalise This - Sammi Awuku on Salomey Awiti, Galamsey and Cost of Living",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Cannot Afford to Normalise This - Sammi Awuku on Salomey Awiti, Galamsey and Cost of Living MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDdPY0stUm9hTG5mc0VNSDRCY0FpM0ozYURvWVlwSmItNGZCZU5ZNmNvNjFIN1ZGSFc1eW9mQ01naDJZbVlhbkVLQ1l1VTdYQ1BfZFJENjV3Zm5Sa1BVSFVsaWxwam5ndU1leGhIYURhTE9mUWJ2ODY0TzkzNVBqMWRDckExcTBXbU1qa0JUVmhocW82ZDZEbXVSN2pJRldkSGF6TVp3Z2xQTGNaNUdoVFZ0d19zN3Q0ZVpWWA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDdPY0stUm9hTG5mc0VNSDRCY0FpM0ozYURvWVlwSmItNGZCZU5ZNmNvNjFIN1ZGSFc1eW9mQ01naDJZbVlhbkVLQ1l1VTdYQ1BfZFJENjV3Zm5Sa1BVSFVsaWxwam5ndU1leGhIYURhTE9mUWJ2ODY0TzkzNVBqMWRDckExcTBXbU1qa0JUVmhocW82ZDZEbXVSN2pJRldkSGF6TVp3Z2xQTGNaNUdoVFZ0d19zN3Q0ZVpWWA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-18-we-cannot-afford-to-normalise-this-sammi-awuku-sounds-alarm-"
     },
     {
       "id": "auto-2026-09-17-both-npp-and-ndc-love-galamsey-they-have-no-moral-right-to-a",
