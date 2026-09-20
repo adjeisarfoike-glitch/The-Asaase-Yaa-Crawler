@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-20T04:54:56.589Z",
+  "updated": "2026-09-20T11:23:07.913Z",
   "counts": {
-    "total": 848,
+    "total": 850,
     "verified": 28,
-    "automated": 820,
+    "automated": 822,
     "earliest": "2024-07-01",
     "latest": "2026-09-19"
   },
@@ -931,6 +931,26 @@
       "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
     },
     {
+      "id": "auto-2026-09-15-the-fight-is-on-prof-gyampo-lists-government-s-measures-agai",
+      "date": "2026-09-15",
+      "category": "policy",
+      "title": "The fight is on – Prof Gyampo lists government’s measures against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The fight is on – Prof Gyampo lists government’s measures against galamsey MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2pfcDgtUGgySG02cTc0aDNHbDM0US1JVGdHbHBFZm9HN0tPM3JJSnpDODFOVWlSU3JLWkNoczlfUjBkQ1hhU3lramJ1MHhCd1QzS3FDbFM0WjBUN0c5T252YnNETVdBSDR4QXJKeXB5eW1CS2QzSHBkeHltLUN0YmV4bmhGU3ZlbFdQajZfaWgtclQ1RGZQWVp1Q1BRdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOR2pfcDgtUGgySG02cTc0aDNHbDM0US1JVGdHbHBFZm9HN0tPM3JJSnpDODFOVWlSU3JLWkNoczlfUjBkQ1hhU3lramJ1MHhCd1QzS3FDbFM0WjBUN0c5T252YnNETVdBSDR4QXJKeXB5eW1CS2QzSHBkeHltLUN0YmV4bmhGU3ZlbFdQajZfaWgtclQ1RGZQWVp1Q1BRdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+    },
+    {
       "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
       "date": "2026-09-14",
       "category": "forest",
@@ -1339,7 +1359,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX1pTM0JkLU5Uam1oMllkQ24ydW9Vd0U5YVNoWC0zNEJSQTUzdVRkNEoyZlBDQWJRSUFWWExuUFRlQlpEaHBibVI2SEM4UU53bUtlRERpem9rTlFSSExHQVJlTkwzdmpfWkhPdlphRFdMUnlSQURLRXFfNFVtZi1hZGRsSGdrN0dGbG9ZYmdHa3FUM0xCb1NLS2xad0pJOGFDOWZ4VEZSQ19uSm1qU3ZaWmFqN0E4aE5GbWdMMWI0NzE1bk13Wk9tRHFIVzdlTXZpTmtXUUdjZ29oUDVVX1E?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-09-13-naimos-launches-operation-water-shield-to-protect-river-bodi",
@@ -2865,6 +2886,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1hleG9tc21ENy0tSHpDTDM0SExDMF95eWlfMmNsdTFHdGdIWTZrZ1hSWTJxNGZab09JNFpUWWJTb1Y2ZFYyMGk2RWpKYl9IMDJfb045VmFuSU9FZDVkSnN3NGp4aTVUQ1lrSUtwbV9PY3Y5aThZcTl2NkVYUGduMGMwWE5sM2xjZUl0MzVQeEpXRlRTNl9YbllUMUEyanFIRmplYWNBVDMxQkNsazhTRnpFcmR5ZGtt?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e",
+      "date": "2026-09-07",
+      "category": "water",
+      "title": "Watch as fetish priest storms illegal mining site, destroys equipment over polluted river",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Watch as fetish priest storms illegal mining site, destroys equipment over polluted river GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdVp2SElWaU9hMWJBUDR0VEtwclZKRW5rMXl3Z1ppZnNvUWZWVkNtWmtub2lsd2VqOHBqQnF4MU1iSHpYZkpSWWlUSmVxSkFzZHdOWEZ4bW5DMUJMSlJWTU9MbmxIRjN5ZTN6T09rZXNGaGg3R0hGYWtyUTctU01uTllaaGxWUTg0eDdFZ2NoXzJ3Y0VlTFpXSmRpbWMtR3JNSThoM1NHUkZndWNnSUMwNXo4RnRFMUU1SlF4S3RBM0l4WXNYQTNXUFo3Vng1d0JVR1hTVzdwMUNNVl9pLVU1Sw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdVp2SElWaU9hMWJBUDR0VEtwclZKRW5rMXl3Z1ppZnNvUWZWVkNtWmtub2lsd2VqOHBqQnF4MU1iSHpYZkpSWWlUSmVxSkFzZHdOWEZ4bW5DMUJMSlJWTU9MbmxIRjN5ZTN6T09rZXNGaGg3R0hGYWtyUTctU01uTllaaGxWUTg0eDdFZ2NoXzJ3Y0VlTFpXSmRpbWMtR3JNSThoM1NHUkZndWNnSUMwNXo4RnRFMUU1SlF4S3RBM0l4WXNYQTNXUFo3Vng1d0JVR1hTVzdwMUNNVl9pLVU1Sw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-09-06-forestry-commission-nabs-12-illegal-miners-in-atewa-forest-r",
@@ -4646,8 +4687,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-naimos-clears-galamsey-sites-the-people-return-after-operati",
@@ -4667,7 +4707,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXBiNVZtb09sWG5PY3M1MFBTcC10LXJVdDI1MVJNS1RjUElfM2ZLTDV1aUFacWQ5UlpFbF9kcjgxaXBEZlFidlZOZENDSXo1QXlTTnpjbnFmdzd4TW9hQzlBaFEyZk9zXzNQWHFmVTk5dGI1ckNyZEZlUmM3WkJCTHdKWS1tUTRtdVZYejdRYmt6RF9NRDJBcWNqTjJuNUVBT2tvSTd3WnZmYkR2d3MyNFhUejRGT2VN?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-09-01-ndc-npp-must-admit-their-role-in-politicising-galamsey-schan",
@@ -4686,8 +4726,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-state-of-emergency-is-no-magic-wand-for-galamsey-lands-minis",
@@ -14530,7 +14569,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTA5cVlvOG45bHZrRjl4WERRSV9rM1Ftd3dSbHZsQzhBUkxNLUYtRTRZa3M2ck9TdUJhSGw5UVg5NHB6RHJ4dHdySVVCOFpGWlFtdVFYZFpfZWF6VzMzX21qYVd1NndLWU9aQUw5RzlrckU4Rk41TWJIMzlYNWJfTU9jaHlCR09BZmlaTXMyVDlvTWhlbEN2T3hSZFVVZ1lVQy1lMTM3UTNPOE1YRmpXRjBqMkhlMWVzNVdfM3FjUWt5dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-06-bono-regional-minister-vows-not-to-relent-on-galamsey-crackd",
