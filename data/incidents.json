@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-19T20:40:59.994Z",
+  "updated": "2026-09-20T04:54:56.589Z",
   "counts": {
-    "total": 845,
+    "total": 848,
     "verified": 28,
-    "automated": 817,
+    "automated": 820,
     "earliest": "2024-07-01",
     "latest": "2026-09-19"
   },
@@ -27,6 +27,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
+    {
+      "id": "auto-2026-09-19-nkrumahfest-fight-galamsey-to-honour-nkrumah-s-legacy-buah-t",
+      "date": "2026-09-19",
+      "category": "forest",
+      "title": "NkrumahFest: Fight galamsey to honour Nkrumah's legacy - Buah tells Ghanaians",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NkrumahFest: Fight galamsey to honour Nkrumah's legacy - Buah tells Ghanaians ghanaweb.com",
+      "metrics": {},
+      "source": {
+        "name": "ghanaweb.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGh4ckkyekRhZUlvdnVMQkNTWmxQUkpSZFBKOGFxMS1wUnE4OXNPd1d6azJPZm93Tzk3SHNlNkN5LThqQ1hDM2JudFpRRHgxX2cyU25aaFNrdFNQVUlVRkdXOEJSZGt2VXltX1Q4dUlaYlg4T0JLQzd3UkY5bGczWWxzLVBnc081YTctUEhNSjNnYmw4YjNvamNyZkpwMjFCQW5mUXZLQXlIWHNPeTVNV1IwQkVQamVONEt5YnQxcTdHblNOYV85NzZyRTRJUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGh4ckkyekRhZUlvdnVMQkNTWmxQUkpSZFBKOGFxMS1wUnE4OXNPd1d6azJPZm93Tzk3SHNlNkN5LThqQ1hDM2JudFpRRHgxX2cyU25aaFNrdFNQVUlVRkdXOEJSZGt2VXltX1Q4dUlaYlg4T0JLQzd3UkY5bGczWWxzLVBnc081YTctUEhNSjNnYmw4YjNvamNyZkpwMjFCQW5mUXZLQXlIWHNPeTVNV1IwQkVQamVONEt5YnQxcTdHblNOYV85NzZyRTRJUQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-18-nigeria-37-suspects-of-illegal-mining-die-in-custody",
@@ -1282,6 +1301,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons"
+    },
+    {
+      "id": "auto-2026-09-14-ghana-gba-president-galamsey-enforcement-needs-impartiality",
+      "date": "2026-09-14",
+      "category": "policy",
+      "title": "Ghana GBA President: Galamsey Enforcement Needs Impartiality",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana GBA President: Galamsey Enforcement Needs Impartiality Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1dvT0tuSDNGUW42enlGdm5MWjdsV25XY3JOelVPemVXUERzSEQ0OFA0Vm1JTWNvWXpSVGVfX0VlZXEwTW9wNlU5MDFhMHdYYldyNDFaQjhSUGZjRjRTeHFhV0Q4MjF1YTJNWkJrYV9DNl9IaVhfdV96bkpxaUViVmV6SlJDWVdVM3l5MXBKSk5DTm1POFVLbHlhMm1HVEFkb1VaXzRqMmtsMTdTR1NvUUxzMHFNSzBBYXJzNEhrLU5MSzQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1dvT0tuSDNGUW42enlGdm5MWjdsV25XY3JOelVPemVXUERzSEQ0OFA0Vm1JTWNvWXpSVGVfX0VlZXEwTW9wNlU5MDFhMHdYYldyNDFaQjhSUGZjRjRTeHFhV0Q4MjF1YTJNWkJrYV9DNl9IaVhfdV96bkpxaUViVmV6SlJDWVdVM3l5MXBKSk5DTm1POFVLbHlhMm1HVEFkb1VaXzRqMmtsMTdTR1NvUUxzMHFNSzBBYXJzNEhrLU5MSzQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-political-cost-undermines-en"
     },
     {
       "id": "auto-2026-09-13-watch-as-naimos-task-force-raids-galamsey-sites-seizes-excav",
@@ -3087,7 +3126,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDB0cy1uemNYUjNHc1QwaG55cFJDMmd4cGExV2pSYmVtY2NJY25aNUc1VEFJQXd0U3NmaHF5YXpzQ2lySTJXR3daUUZQRzJyV0NrVDVxa3NNb01WekVFei1jWGE4M25DM1FQY0ZPN0QtZlpKZFpqXzJuR3NpMjR3c2lnZGZkejBsZm9pS0M1aGs0NlZTZGNWNmtOLTQ5S2lCcndkNUdBZVZlbGc0M25nZHBXOGVfUlp3ZlNvVjVuX1FWU2RpcWZNUHBR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-political-cost-undermines-en"
     },
     {
       "id": "auto-2026-09-06-frimpong-boateng-ghana-illegal-mining-concessions-easier-tha",
@@ -3631,7 +3671,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-05T15:16:03.728Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
     },
     {
       "id": "auto-2026-09-04-major-concern-as-changfan-found-on-water-body-in-greater-acc",
@@ -7528,6 +7568,28 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-08-25-naimos-destroys-86-chanfang-machines-on-ankobra-river",
+      "date": "2026-08-25",
+      "category": "water",
+      "title": "NAIMOS Destroys 86 Chanfang Machines on Ankobra River",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "NAIMOS Destroys 86 Chanfang Machines on Ankobra River Wansom AI",
+      "metrics": {
+        "changfan": 86
+      },
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakZLWHAwNUdFaV9yR2lMcTBrZ21MbE84Z28teXItVzJmeVY4Y1ZkZzdVcndTM2xhM3dnOTRyU2QzclFhRnBmRmptOFRWYUtWQUlOQ2I3X0RwWnRHUUs3OGlIdjI5UVlYbmZaY2daWFNrN2FjbjhOTXR3WDlkaDBGNU1hX1NkQ3BGNW45eENCUGFDM2JmUFg5UUIzbTV3QzN3NWc3LUlZYXVLWEhIMlBUZFJIZXptb1RBWlhNLVZFc1R3RWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakZLWHAwNUdFaV9yR2lMcTBrZ21MbE84Z28teXItVzJmeVY4Y1ZkZzdVcndTM2xhM3dnOTRyU2QzclFhRnBmRmptOFRWYUtWQUlOQ2I3X0RwWnRHUUs3OGlIdjI5UVlYbmZaY2daWFNrN2FjbjhOTXR3WDlkaDBGNU1hX1NkQ3BGNW45eENCUGFDM2JmUFg5UUIzbTV3QzN3NWc3LUlZYXVLWEhIMlBUZFJIZXptb1RBWlhNLVZFc1R3RWc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
     },
     {
       "id": "auto-2026-08-24-tanzania-s-tanzanite-model-offers-ghana-a-galamsey-blueprint",
