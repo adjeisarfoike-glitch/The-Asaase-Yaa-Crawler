@@ -1,13 +1,90 @@
 {
-  "updated": "2026-09-21T04:55:53.263Z",
+  "updated": "2026-09-21T12:47:28.033Z",
   "counts": {
-    "total": 852,
+    "total": 856,
     "verified": 28,
-    "automated": 824,
+    "automated": 828,
     "earliest": "2024-07-01",
-    "latest": "2026-09-19"
+    "latest": "2026-09-21"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-21-gov-t-must-intensify-galamsey-fight-to-save-lives-environmen",
+      "date": "2026-09-21",
+      "category": "forest",
+      "title": "Gov’t must intensify galamsey fight to save lives, environment – GEMA",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Gov’t must intensify galamsey fight to save lives, environment – GEMA CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2NESHNobDJ0aTBBeS0tQ3FVMk1pQVZPc2l0cXhreTNrUUtwbVZZV0VYWEtXZkx5T3p0OXlNY2lfcXhpRnQ5c3dyZktzYXRsX2xSRlpMVHVJQ0VWUjZTZ2c3cFNQSzd2ZnhiVU1XY09Hd1hVUUw5QTh3cS1NcVFTNkdNcElhTjVwQkUyb0pKamNvTEtwcGxfbnhBWjQ5ajkwZFM4YXl3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2NESHNobDJ0aTBBeS0tQ3FVMk1pQVZPc2l0cXhreTNrUUtwbVZZV0VYWEtXZkx5T3p0OXlNY2lfcXhpRnQ5c3dyZktzYXRsX2xSRlpMVHVJQ0VWUjZTZ2c3cFNQSzd2ZnhiVU1XY09Hd1hVUUw5QTh3cS1NcVFTNkdNcElhTjVwQkUyb0pKamNvTEtwcGxfbnhBWjQ5ajkwZFM4YXl3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-21-ghana-evangelical-missions-association-urges-christian-leade",
+      "date": "2026-09-21",
+      "category": "forest",
+      "title": "Ghana Evangelical Missions Association urges Christian leaders to preach against galamsey and intensify advocacy",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Evangelical Missions Association urges Christian leaders to preach against galamsey and intensify advocacy myjoyonline.com",
+      "metrics": {},
+      "source": {
+        "name": "myjoyonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQldwdHhPdXh0ZUFUS1VLR1c1UWxRRU9fNUxfdFNfWWU0SzI5STUybmhOelZod0ZTUkpLUlZnWWVuUmp2Z3gzOFZ5QVktbVRtTXJkbk5zYzcxYjVnTGlRQ1hHekRZUGRseHhnTnRVWlgwMmlxSGRXbUZ2dUswMXlyV3M3ZHJ5SHJvaGk2ZnF3UG15S0VSSTlGQlV0WHo2RVBrYUhKZGZzV3hlT09fU2FOVy01ZlJEUGkwaHBRQk5mNlRHUnV4Sl9ZcmNjek1jLUJOTXVPdURXclg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQldwdHhPdXh0ZUFUS1VLR1c1UWxRRU9fNUxfdFNfWWU0SzI5STUybmhOelZod0ZTUkpLUlZnWWVuUmp2Z3gzOFZ5QVktbVRtTXJkbk5zYzcxYjVnTGlRQ1hHekRZUGRseHhnTnRVWlgwMmlxSGRXbUZ2dUswMXlyV3M3ZHJ5SHJvaGk2ZnF3UG15S0VSSTlGQlV0WHo2RVBrYUhKZGZzV3hlT09fU2FOVy01ZlJEUGkwaHBRQk5mNlRHUnV4Sl9ZcmNjek1jLUJOTXVPdURXclg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-21-ghana-evangelical-body-urges-pulpits-to-preach-against-galam",
+      "date": "2026-09-21",
+      "category": "forest",
+      "title": "Ghana evangelical body urges pulpits to preach against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana evangelical body urges pulpits to preach against galamsey streamlinefeed.co.ke",
+      "metrics": {},
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWoxcWtmUGE1YlhyMFF5NnB5T0xPS0xQY19KMXp4aWthX1NNQmZJdFdzVXZUQW1BS3VyNUx3R05iRTAxeU1TNDdSazkwSUlJWVdnTkgyV1pFMHhUb3UtbXJ1eFpEV3BGVUt6YTAwaUc1SWVlU3MwaXZSNC1KV2ZwcjVwclpUX2RzRWxOV3RPb3hIM2dRQktoYXJLY1hXdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxORWoxcWtmUGE1YlhyMFF5NnB5T0xPS0xQY19KMXp4aWthX1NNQmZJdFdzVXZUQW1BS3VyNUx3R05iRTAxeU1TNDdSazkwSUlJWVdnTkgyV1pFMHhUb3UtbXJ1eFpEV3BGVUt6YTAwaUc1SWVlU3MwaXZSNC1KV2ZwcjVwclpUX2RzRWxOV3RPb3hIM2dRQktoYXJLY1hXdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-20-galamsey-cocaine-trafficking-stop-the-assurances-act-john-da",
+      "date": "2026-09-20",
+      "category": "forest",
+      "title": "Galamsey, cocaine trafficking: Stop the assurances, act – John Darko",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey, cocaine trafficking: Stop the assurances, act – John Darko CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3pBOWczZkk4dXkzOHBKQzRKRzZRcWFTaUlvcVQxY2Z4dVhNYTBobEpSRVdXTkdiS3hTc19iaVNoY0xzVDhSc1lWdXFZcFJ0OHBYX3JmTFhvMWZzdng4ZmFZUFJWR1hvMjJuMWItc2ZQYUhHVHdXZHlxdndkMEgyeThOemFLSUZCSlVNbW05YUF4bXhLTFlCTHFqdC1MdHVRa2FN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3pBOWczZkk4dXkzOHBKQzRKRzZRcWFTaUlvcVQxY2Z4dVhNYTBobEpSRVdXTkdiS3hTc19iaVNoY0xzVDhSc1lWdXFZcFJ0OHBYX3JmTFhvMWZzdng4ZmFZUFJWR1hvMjJuMWItc2ZQYUhHVHdXZHlxdndkMEgyeThOemFLSUZCSlVNbW05YUF4bXhLTFlCTHFqdC1MdHVRa2FN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+    },
     {
       "id": "auto-2026-09-19-an-urgent-call-to-action-safeguarding-ghana-s-future-against",
       "date": "2026-09-19",
