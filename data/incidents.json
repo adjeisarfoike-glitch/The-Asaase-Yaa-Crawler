@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-21T22:00:27.267Z",
+  "updated": "2026-09-22T04:55:25.573Z",
   "counts": {
-    "total": 856,
+    "total": 857,
     "verified": 28,
-    "automated": 828,
+    "automated": 829,
     "earliest": "2024-07-01",
     "latest": "2026-09-21"
   },
@@ -259,7 +259,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNejVsQXNGLXBqUGVVOVNFaEl1eW1nckVSMXB4SjhrQmZublZGTThsWnFkVHl6X25OWVJOc0hPY2otQ19jUE1Pekc5emdQVnBnY2tkUC0zdkJzY3ZLMmx5alp2c2FKWDJzaEQ0Qm54Wjd0MmVwZG1FbkVaY1pyaWM2R1JGQnozRWVWN0h4WVZpdEFLRGhMSU5Kcm9oSjcyVUtGeE52cUZ4Z3V5NC0teXc?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe"
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
     },
     {
       "id": "auto-2026-09-18-nigerian-police-probe-deaths-of-37-suspected-illegal-miners-",
@@ -337,7 +337,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSURDTUtEcUFLOWZUZ3R6UC1jVThDLTRMSlFHYWwzMFAyMjRKSDNUMEdfQWZqby1zdHJxUUJFMjZ5RGVYaC1GalMyTkJLSlBZNDFTdFNOV2VxYW43MUNRV1Fic2cyRm5NR3JTbXprZ0pmeXZwQ24zbW9PeE1QYTRBVW5mTUJ2eGFOT19FMmZEMTZJMTEtQWFGclRETGFzTGNxcWRCNnFRcURGU3U4d3pDS09TbmNGLXQw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-18-20-killed-in-taraba-illegal-mining-pit-collapse-police-probe"
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
     },
     {
       "id": "auto-2026-09-18-ghana-cannot-afford-to-normalise-this-sammi-awuku-on-salomey",
@@ -457,6 +457,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowJBVV95cUxNM3J6ck1kU194NE5fUDQyS1FPVVBwekJUbXFfTVVsQUd2QWItT3Q2N0JkZkYydTdNOXlaS0hSTjg2dW9NQTBwdER3NllzcWpkRGo4SjAtRHY1bTFSc0FTSWxJMjBLd215WjRUc1F0T1BUc0tsYUU1X3FIRm44T1V4OHdmSHNMOEYwY2NEeEJGd0c3ZHUxTnBrb2JuaFZCNGtGdWQtYnI4VlFLaVFBcnJOR04zbUFxTUVSa096dGhpTjNnc05HRU9yeGwtN2F1RzdXOXdBQmFtUUNRbFItdl9vQkpsbFQtWDc3Q245emt4aWhpV3FCaFVkTU5rZzRLZ0pLR2VROGRBN2lnZXYtSFdUTGJaQ2h4eExlaVRYaGV6c2JJQnM?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-17-illegal-mining-nscdc-confirms-deaths-of-suspects-in-custody-",
+      "date": "2026-09-17",
+      "category": "forest",
+      "title": "Illegal Mining: NSCDC Confirms Deaths Of Suspects In Custody, Attributes Them To Suspected Disease Outbreak As Families Protest In Niger State",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal Mining: NSCDC Confirms Deaths Of Suspects In Custody, Attributes Them To Suspected Disease Outbreak As Families Protest In Niger State AIT LIVE",
+      "metrics": {},
+      "source": {
+        "name": "AIT LIVE",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU2FreUF1R0ZDd2xHVzRmTWI4R2M3RHVRT1VaSFBfYS1XRnFNU3E1TUh4ZWhYY21pOFFyRXQ1ckpxSXRydndiX2hmRmVVMlZNaXNheXY1Y0YtVFZER2hOcnUxaGE3Tm02UU1sVEV3Sm1ONFQ1WVFFUHhqaXdBN2FZZUl6Z0Z1WklNYXB2bmtLanp0YkdVaU9LVmsyNzBiaXhhSFhPR2pwLURQMG1KS1hMZE5zMWtXYldINjBqakdDMkN3X1c1MC1BTE1nd1NUSTlwZDFjM1lzcVUxQzJKVU5ZNGNDakNoOFNTcElQdHF6NA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU2FreUF1R0ZDd2xHVzRmTWI4R2M3RHVRT1VaSFBfYS1XRnFNU3E1TUh4ZWhYY21pOFFyRXQ1ckpxSXRydndiX2hmRmVVMlZNaXNheXY1Y0YtVFZER2hOcnUxaGE3Tm02UU1sVEV3Sm1ONFQ1WVFFUHhqaXdBN2FZZUl6Z0Z1WklNYXB2bmtLanp0YkdVaU9LVmsyNzBiaXhhSFhPR2pwLURQMG1KS1hMZE5zMWtXYldINjBqakdDMkN3X1c1MC1BTE1nd1NUSTlwZDFjM1lzcVUxQzJKVU5ZNGNDakNoOFNTcElQdHF6NA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
     },
     {
       "id": "auto-2026-09-16-i-faced-those-who-openly-insisted-that-there-s-no-galamsey-g",
