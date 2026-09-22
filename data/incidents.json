@@ -1,13 +1,51 @@
 {
-  "updated": "2026-09-22T04:55:25.573Z",
+  "updated": "2026-09-22T11:38:06.552Z",
   "counts": {
-    "total": 857,
+    "total": 859,
     "verified": 28,
-    "automated": 829,
+    "automated": 831,
     "earliest": "2024-07-01",
-    "latest": "2026-09-21"
+    "latest": "2026-09-22"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-22-this-is-very-similar-to-galamsey-rev-matthew-gyamfi-on-drug-",
+      "date": "2026-09-22",
+      "category": "forest",
+      "title": "“This is very similar to galamsey” — Rev. Matthew Gyamfi on drug abuse",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“This is very similar to galamsey” — Rev. Matthew Gyamfi on drug abuse Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnQzTEUyUzRwZVJaVXNSYTRkN1hhbGZZdlZ5dFk1QWhzS041STN6QXQ0eUh3UHNoVUljNEE2NzRlVjR5alZhMl9LZnR2cWpMM1M2Z01qNUFnbHN0Z2w2SHlMRW1TMlU0WnAxMlZkM0gwaldYWG1jY0hnazlpZHZ3aFFPUHhwTnlWSHowcS1FN1BKUDNo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnQzTEUyUzRwZVJaVXNSYTRkN1hhbGZZdlZ5dFk1QWhzS041STN6QXQ0eUh3UHNoVUljNEE2NzRlVjR5alZhMl9LZnR2cWpMM1M2Z01qNUFnbHN0Z2w2SHlMRW1TMlU0WnAxMlZkM0gwaldYWG1jY0hnazlpZHZ3aFFPUHhwTnlWSHowcS1FN1BKUDNo?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-22-we-are-concerned-about-freedom-of-speech-new-york-protest-or",
+      "date": "2026-09-22",
+      "category": "forest",
+      "title": "“We are concerned about freedom of speech” — New York protest organiser",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Organisers of a planned demonstration by Ghanaians in New York say they will use the protest to draw international attention to illegal mining and what they describe as concerns over freedom of speech in Ghana. Kwasi Obeng-Ofosu, an organiser of the demonstration, said the group was particularly concerned about the... The post “We are concerned about freedom of speech” — New York protest organiser appeared first on A",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://asaaseradio.com/we-are-concerned-about-freedom-of-speech-new-york-protest-organiser/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/we-are-concerned-about-freedom-of-speech-new-york-protest-organiser/",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-21-gov-t-must-intensify-galamsey-fight-to-save-lives-environmen",
       "date": "2026-09-21",
