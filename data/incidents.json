@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-22T11:38:06.552Z",
+  "updated": "2026-09-22T16:59:16.706Z",
   "counts": {
-    "total": 859,
+    "total": 862,
     "verified": 28,
-    "automated": 831,
+    "automated": 834,
     "earliest": "2024-07-01",
     "latest": "2026-09-22"
   },
@@ -45,6 +45,66 @@
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/we-are-concerned-about-freedom-of-speech-new-york-protest-organiser/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-22-is-the-national-science-and-maths-quiz-fueling-intellectual-",
+      "date": "2026-09-22",
+      "category": "forest",
+      "title": "Is the National Science and Maths Quiz fueling 'intellectual galamsey'?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Is the National Science and Maths Quiz fueling 'intellectual galamsey'? Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYV9KWjZXRmRyNzRQV21yb0stMllsOHhWMVpjR1F1dllzQW5OY2Jta0FDZElHYjF3VGJVOWkzYWFjdGJRWk9BUkNxQ0dFNEl2U1hoZzNrRHpQcm5yUTJSb2t1Ym9fWVhWcHNHVVdKeFl4emwzek9aZjJGdElWN21fOFZySzFDbnlqekZGNEV6c21qTzZBWVI4SksxaFJ5WG13QXBz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxNYV9KWjZXRmRyNzRQV21yb0stMllsOHhWMVpjR1F1dllzQW5OY2Jta0FDZElHYjF3VGJVOWkzYWFjdGJRWk9BUkNxQ0dFNEl2U1hoZzNrRHpQcm5yUTJSb2t1Ym9fWVhWcHNHVVdKeFl4emwzek9aZjJGdElWN21fOFZySzFDbnlqekZGNEV6c21qTzZBWVI4SksxaFJ5WG13QXBz?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-minerals-commission-reaffirms-commitment-to-tackling-illegal"
+    },
+    {
+      "id": "auto-2026-09-22-families-are-going-hungry-horse-owners-jockeys-raise-alarm-o",
+      "date": "2026-09-22",
+      "category": "arrest",
+      "title": "‘Families are going hungry’ – Horse owners, jockeys raise alarm over Race Course demolition",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Race Course was demolished on August 22 in an exercise that the Association says involved about 200 armed men, nine bulldozers and an excavator. The facility was subsequently sealed off, preventing the Club, workers and the public from accessing the site.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/families-are-going-hungry-horse-owners-jockeys-raise-alarm-over-race-course-demolition/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/families-are-going-hungry-horse-owners-jockeys-raise-alarm-over-race-course-demolition/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-police-interdict-officer-over-borteyman-race-course-demoliti"
+    },
+    {
+      "id": "auto-2026-09-22-giisdec-naimos-confisticate-mining-equipment-in-akango-galam",
+      "date": "2026-09-22",
+      "category": "arrest",
+      "title": "GIISDEC, NAIMOS confisticate mining equipment in Akango galamsey crackdown",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "By: Benjamin Nii Nai Anyetei Illegal mining operators are reportedly moving into more remote parts of the Nzema East Municipality in the Western Region as authorities intensify efforts to clamp down on galamsey activities along the River Ankobra. The development has prompted a joint operation by the National Anti-Illegal Mining Operations Secretariat (NAIMOS) and the […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/general/giisdec-naimos-confisticate-mining-equipment-in-akango-galamsey-crackdown/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/giisdec-naimos-confisticate-mining-equipment-in-akango-galamsey-crackdown/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-03-25-naimos-quarterly"
     },
     {
       "id": "auto-2026-09-21-gov-t-must-intensify-galamsey-fight-to-save-lives-environmen",
@@ -6889,7 +6949,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/police-interdict-officer-over-borteyman-race-course-demolition.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-26-police-interdict-officer-over-borteyman-race-course-demoliti"
     },
     {
       "id": "auto-2026-08-26-we-are-not-angry-enough-to-deal-with-galamsey-presby-moderat",
@@ -16724,7 +16785,8 @@
         "name": "Rainbow Radio",
         "url": "https://rainbowradioonline.com/2026/03/25/galamsey-crackdown-naimos-seizes-94-excavators-and-arrests-237-in-nationwide-sweep/"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-arr-2026-03-25-naimos-quarterly"
     },
     {
       "id": "fc-2026-03-04-military-withdrawal",
