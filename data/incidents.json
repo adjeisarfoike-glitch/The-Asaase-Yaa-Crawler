@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-22T21:20:06.017Z",
+  "updated": "2026-09-23T04:46:35.326Z",
   "counts": {
-    "total": 862,
+    "total": 863,
     "verified": 28,
-    "automated": 834,
+    "automated": 835,
     "earliest": "2024-07-01",
     "latest": "2026-09-22"
   },
@@ -105,6 +105,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2026-03-25-naimos-quarterly"
+    },
+    {
+      "id": "auto-2026-09-22-niger-death-pyrates-confraternity-seeks-arrest-of-owners-of-",
+      "date": "2026-09-22",
+      "category": "arrest",
+      "title": "Niger death: Pyrates Confraternity seeks arrest of owners of illegal mining sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Niger death: Pyrates Confraternity seeks arrest of owners of illegal mining sites Business Hallmark",
+      "metrics": {},
+      "source": {
+        "name": "Business Hallmark",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2NXUzk2ZGk5V1N1MUIzVHRLZ2Fzd1phRXVlMzNEZ1k0NE9ZZ2c1U1V3Zzc3SnU2QmZ0TFJuRjJiTzdMTVo0RU9NWkotaWFSQ29OckFKT3J5dEQxU2tGQzRhRXJYX1BGZF9qLVR6bjhJQ0NsejN1MWZzZ3VhUllsOGhHRlpKS3VlcHB6OGxLVnRiWlBpeGpMblNKenAwSmtHb3J6OWpaV2FKUdIBsgFBVV95cUxORkZfLTJfOTYyb0dMVERNdHNZWmtvRjlqeFhEbVliTXp0VF9xbktVNkM0OUtuMzZzdjd1Y0xxYjdfOGk5X3R4Ul9vZWNWRVpEbGw0dkF3Rm9XajV5OXVqSWp6VzRNOG12dWZLVWtxQTZNeFZPZzc4ejdJZXFuMTAwaE5VbGVjc3hsTzA0MWRPNTBwU1g5YS1CWk5xellRdUYzWUNQaUp6NUhqeVd2SGF5eXJR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2NXUzk2ZGk5V1N1MUIzVHRLZ2Fzd1phRXVlMzNEZ1k0NE9ZZ2c1U1V3Zzc3SnU2QmZ0TFJuRjJiTzdMTVo0RU9NWkotaWFSQ29OckFKT3J5dEQxU2tGQzRhRXJYX1BGZF9qLVR6bjhJQ0NsejN1MWZzZ3VhUllsOGhHRlpKS3VlcHB6OGxLVnRiWlBpeGpMblNKenAwSmtHb3J6OWpaV2FKUdIBsgFBVV95cUxORkZfLTJfOTYyb0dMVERNdHNZWmtvRjlqeFhEbVliTXp0VF9xbktVNkM0OUtuMzZzdjd1Y0xxYjdfOGk5X3R4Ul9vZWNWRVpEbGw0dkF3Rm9XajV5OXVqSWp6VzRNOG12dWZLVWtxQTZNeFZPZzc4ejdJZXFuMTAwaE5VbGVjc3hsTzA0MWRPNTBwU1g5YS1CWk5xellRdUYzWUNQaUp6NUhqeVd2SGF5eXJR?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-21-gov-t-must-intensify-galamsey-fight-to-save-lives-environmen",
