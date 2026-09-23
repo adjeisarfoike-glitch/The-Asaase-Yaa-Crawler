@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-23T16:58:53.305Z",
+  "updated": "2026-09-23T21:32:10.398Z",
   "counts": {
-    "total": 869,
+    "total": 872,
     "verified": 28,
-    "automated": 841,
+    "automated": 844,
     "earliest": "2024-07-01",
     "latest": "2026-09-23"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHVIQWdMV1U1RlUzVUVhOGhORW5FaV8xTm43TWEtbHRxbXpNRVJsa2dlZURYN0d0WFZ1bHV1S0VQaE9ybEJYWjFyc0NiaDc2LTl5eHdBTHJCWUZCNm82UlJFTGtITjJrOVpiRnk4TUZLY1gzMFhiYV9ZWmphdEVFdzZ2QTZvTEFYUzVhM2NfTU1sUWNkWE9pZUhVOU9XOEdvVjhqQmVPSVpwZzBxX2VPU0trTzgwcTNXdnhxZVI3eW9rNXZneFA4R01pUUIzQzA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-"
     },
     {
       "id": "auto-2026-09-23-two-shot-in-violent-clash-at-galamsey-site-at-behenase",
@@ -125,6 +126,46 @@
       "verified": false
     },
     {
+      "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-assigned-to-a-mining-sit",
+      "date": "2026-09-23",
+      "category": "forest",
+      "title": "Galamsey: No police officer has been assigned to a mining site; report personnel extorting money – Supt. Godwin Ahianyo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: No police officer has been assigned to a mining site; report personnel extorting money – Supt. Godwin Ahianyo 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHVIQWdMV1U1RlUzVUVhOGhORW5FaV8xTm43TWEtbHRxbXpNRVJsa2dlZURYN0d0WFZ1bHV1S0VQaE9ybEJYWjFyc0NiaDc2LTl5eHdBTHJCWUZCNm82UlJFTGtITjJrOVpiRnk4TUZLY1gzMFhiYV9ZWmphdEVFdzZ2QTZvTEFYUzVhM2NfTU1sUWNkWE9pZUhVOU9XOEdvVjhqQmVPSVpwZzBxX2VPU0trTzgwcTNXdnhxZVI3eW9rNXZneFA4R01pUUIzQzA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHVIQWdMV1U1RlUzVUVhOGhORW5FaV8xTm43TWEtbHRxbXpNRVJsa2dlZURYN0d0WFZ1bHV1S0VQaE9ybEJYWjFyc0NiaDc2LTl5eHdBTHJCWUZCNm82UlJFTGtITjJrOVpiRnk4TUZLY1gzMFhiYV9ZWmphdEVFdzZ2QTZvTEFYUzVhM2NfTU1sUWNkWE9pZUhVOU9XOEdvVjhqQmVPSVpwZzBxX2VPU0trTzgwcTNXdnhxZVI3eW9rNXZneFA4R01pUUIzQzA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-"
+    },
+    {
+      "id": "auto-2026-09-23-giisdec-appeals-for-resources-to-clear-abandoned-galamsey-eq",
+      "date": "2026-09-23",
+      "category": "arrest",
+      "title": "GIISDEC Appeals for Resources to Clear Abandoned Galamsey Equipment",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GIISDEC Appeals for Resources to Clear Abandoned Galamsey Equipment Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZDdUSVRwZ1lwQTByWUsxZFpqTDdqaTlIYW9oRzMzWURNZ3ZKTTFXVTNKWm9RZDgxaHM2M09WZklidWp6WDZQVFhTUlBhRXFGRlUzamNydnhmT09EU25CcC0zWdIBXEFVX3lxTE44eklseWJmR21EY1h1QlhUdUxsZkJBYVo0SGlVRnM5WHluWGlxNExReFQ5SVlPWU96bzVvOGRNcEtOUzBIQnlsZWw5bW9mcXVhTVBVQkZzSUhZRDFR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZDdUSVRwZ1lwQTByWUsxZFpqTDdqaTlIYW9oRzMzWURNZ3ZKTTFXVTNKWm9RZDgxaHM2M09WZklidWp6WDZQVFhTUlBhRXFGRlUzamNydnhmT09EU25CcC0zWdIBXEFVX3lxTE44eklseWJmR21EY1h1QlhUdUxsZkJBYVo0SGlVRnM5WHluWGlxNExReFQ5SVlPWU96bzVvOGRNcEtOUzBIQnlsZWw5bW9mcXVhTVBVQkZzSUhZRDFR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
       "id": "auto-2026-09-22-this-is-very-similar-to-galamsey-rev-matthew-gyamfi-on-drug-",
       "date": "2026-09-22",
       "category": "forest",
@@ -220,7 +261,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/giisdec-naimos-confisticate-mining-equipment-in-akango-galamsey-crackdown/2026/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-09-22-niger-death-pyrates-confraternity-seeks-arrest-of-owners-of-",
@@ -238,6 +279,25 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2NXUzk2ZGk5V1N1MUIzVHRLZ2Fzd1phRXVlMzNEZ1k0NE9ZZ2c1U1V3Zzc3SnU2QmZ0TFJuRjJiTzdMTVo0RU9NWkotaWFSQ29OckFKT3J5dEQxU2tGQzRhRXJYX1BGZF9qLVR6bjhJQ0NsejN1MWZzZ3VhUllsOGhHRlpKS3VlcHB6OGxLVnRiWlBpeGpMblNKenAwSmtHb3J6OWpaV2FKUdIBsgFBVV95cUxORkZfLTJfOTYyb0dMVERNdHNZWmtvRjlqeFhEbVliTXp0VF9xbktVNkM0OUtuMzZzdjd1Y0xxYjdfOGk5X3R4Ul9vZWNWRVpEbGw0dkF3Rm9XajV5OXVqSWp6VzRNOG12dWZLVWtxQTZNeFZPZzc4ejdJZXFuMTAwaE5VbGVjc3hsTzA0MWRPNTBwU1g5YS1CWk5xellRdUYzWUNQaUp6NUhqeVd2SGF5eXJR?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2NXUzk2ZGk5V1N1MUIzVHRLZ2Fzd1phRXVlMzNEZ1k0NE9ZZ2c1U1V3Zzc3SnU2QmZ0TFJuRjJiTzdMTVo0RU9NWkotaWFSQ29OckFKT3J5dEQxU2tGQzRhRXJYX1BGZF9qLVR6bjhJQ0NsejN1MWZzZ3VhUllsOGhHRlpKS3VlcHB6OGxLVnRiWlBpeGpMblNKenAwSmtHb3J6OWpaV2FKUdIBsgFBVV95cUxORkZfLTJfOTYyb0dMVERNdHNZWmtvRjlqeFhEbVliTXp0VF9xbktVNkM0OUtuMzZzdjd1Y0xxYjdfOGk5X3R4Ul9vZWNWRVpEbGw0dkF3Rm9XajV5OXVqSWp6VzRNOG12dWZLVWtxQTZNeFZPZzc4ejdJZXFuMTAwaE5VbGVjc3hsTzA0MWRPNTBwU1g5YS1CWk5xellRdUYzWUNQaUp6NUhqeVd2SGF5eXJR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-22-minna-nas-demands-arrest-of-owners-of-illegal-mining-sites",
+      "date": "2026-09-22",
+      "category": "arrest",
+      "title": "Minna: NAS demands arrest of owners of illegal mining sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minna: NAS demands arrest of owners of illegal mining sites Vanguard News",
+      "metrics": {},
+      "source": {
+        "name": "Vanguard News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHM0bllEekJScTVqSHJpX296SlZoblBHQjF5VmdxVXliX0JzOXRhZWpEc2pYdnNLU1IwcW40cVJkdVU5QkZVZE1EYmNHZ3NTVFRxQU5ZZmF0WHliengteG5lOXVzVlV1UTNuLUZOSXZVUFRhY09UT040ekdWekFtM1kxdHNQUktfQkk0WUZXMGY4NDFQRVRzdHF3MNIBoAFBVV95cUxPeTUzVmM1NTdfbmxiQTZvUVlGQjRaZGpMLU9pNGxMRUdYdEdabl9iNEJMdTBpR2V6dlhPTmN4ZUFPNzU2SjUxY2FYUmtQNzBKTWFwMjZUMWtaZ1NNdWNrVGw4SkN1SzRjY3VQb2ttT2RVTjVHbU5zV2ZZLUxHMEYzM2liYXdXWEhndzhFTnMwcFQ0cHlKOEVJRjgxZ1Q2ZUN3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHM0bllEekJScTVqSHJpX296SlZoblBHQjF5VmdxVXliX0JzOXRhZWpEc2pYdnNLU1IwcW40cVJkdVU5QkZVZE1EYmNHZ3NTVFRxQU5ZZmF0WHliengteG5lOXVzVlV1UTNuLUZOSXZVUFRhY09UT040ekdWekFtM1kxdHNQUktfQkk0WUZXMGY4NDFQRVRzdHF3MNIBoAFBVV95cUxPeTUzVmM1NTdfbmxiQTZvUVlGQjRaZGpMLU9pNGxMRUdYdEdabl9iNEJMdTBpR2V6dlhPTmN4ZUFPNzU2SjUxY2FYUmtQNzBKTWFwMjZUMWtaZ1NNdWNrVGw4SkN1SzRjY3VQb2ttT2RVTjVHbU5zV2ZZLUxHMEYzM2liYXdXWEhndzhFTnMwcFQ0cHlKOEVJRjgxZ1Q2ZUN3?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1563,18 +1623,18 @@
       "id": "auto-2026-09-14-government-must-not-perpetrate-galamsey-it-campaigned-agains",
       "date": "2026-09-14",
       "category": "policy",
-      "title": "Government must not perpetrate galamsey, it campaigned against – GBA President",
+      "title": "Government must not perpetrate galamsey, it campaigned against it – GBA President",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "President of the Ghana Bar Association, Efua Ghartey, has urged the government to show political will in the fight against galamsey, warning that words must be matched with impartial enforcement.",
+      "summary": "Government must not perpetrate galamsey, it campaigned against it – GBA President MyJoyOnline",
       "metrics": {},
       "source": {
         "name": "MyJoyOnline",
-        "url": "https://www.myjoyonline.com/government-must-not-perpetrate-galamsey-it-campaigned-against-gba-president/"
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/government-must-not-perpetrate-galamsey-it-campaigned-against-gba-president/",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -16921,8 +16981,7 @@
         "name": "Rainbow Radio",
         "url": "https://rainbowradioonline.com/2026/03/25/galamsey-crackdown-naimos-seizes-94-excavators-and-arrests-237-in-nationwide-sweep/"
       },
-      "verified": true,
-      "thread": "t-arr-2026-03-25-naimos-quarterly"
+      "verified": true
     },
     {
       "id": "fc-2026-03-04-military-withdrawal",
