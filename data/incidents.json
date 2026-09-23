@@ -1,13 +1,129 @@
 {
-  "updated": "2026-09-23T11:35:16.860Z",
+  "updated": "2026-09-23T16:58:53.305Z",
   "counts": {
-    "total": 863,
+    "total": 869,
     "verified": 28,
-    "automated": 835,
+    "automated": 841,
     "earliest": "2024-07-01",
-    "latest": "2026-09-22"
+    "latest": "2026-09-23"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-",
+      "date": "2026-09-23",
+      "category": "forest",
+      "title": "Galamsey: No police officer has been tasked to a mining site; report personnel extorting money – Supt. Godwin Ahianyo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: No police officer has been tasked to a mining site; report personnel extorting money – Supt. Godwin Ahianyo 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHVIQWdMV1U1RlUzVUVhOGhORW5FaV8xTm43TWEtbHRxbXpNRVJsa2dlZURYN0d0WFZ1bHV1S0VQaE9ybEJYWjFyc0NiaDc2LTl5eHdBTHJCWUZCNm82UlJFTGtITjJrOVpiRnk4TUZLY1gzMFhiYV9ZWmphdEVFdzZ2QTZvTEFYUzVhM2NfTU1sUWNkWE9pZUhVOU9XOEdvVjhqQmVPSVpwZzBxX2VPU0trTzgwcTNXdnhxZVI3eW9rNXZneFA4R01pUUIzQzA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHVIQWdMV1U1RlUzVUVhOGhORW5FaV8xTm43TWEtbHRxbXpNRVJsa2dlZURYN0d0WFZ1bHV1S0VQaE9ybEJYWjFyc0NiaDc2LTl5eHdBTHJCWUZCNm82UlJFTGtITjJrOVpiRnk4TUZLY1gzMFhiYV9ZWmphdEVFdzZ2QTZvTEFYUzVhM2NfTU1sUWNkWE9pZUhVOU9XOEdvVjhqQmVPSVpwZzBxX2VPU0trTzgwcTNXdnhxZVI3eW9rNXZneFA4R01pUUIzQzA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-23-two-shot-in-violent-clash-at-galamsey-site-at-behenase",
+      "date": "2026-09-23",
+      "category": "forest",
+      "title": "Two shot in violent clash at galamsey site at Behenase",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two shot in violent clash at galamsey site at Behenase Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTJ2c3B6SlZWYW1BMS1EUmtxRzZVa2pwVXpUbVFzeHdVUlhvR29WeEJqWjV4NTROTzZ0blNTem8ydWFkTV9HZUtoMkUtSDFuQ1Z5QVNxVUVuS2dNYmNPSURHa3VRSkV3eDUwZ3BUam9odEswbE5fY1dRaXA4bzIxMk9LUFozellGMkE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxQSTJ2c3B6SlZWYW1BMS1EUmtxRzZVa2pwVXpUbVFzeHdVUlhvR29WeEJqWjV4NTROTzZ0blNTem8ydWFkTV9HZUtoMkUtSDFuQ1Z5QVNxVUVuS2dNYmNPSURHa3VRSkV3eDUwZ3BUam9odEswbE5fY1dRaXA4bzIxMk9LUFozellGMkE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-23-galamsey-threatens-west-africa-s-environmental-security-bagb",
+      "date": "2026-09-23",
+      "category": "forest",
+      "title": "Galamsey Threatens West Africa’s Environmental Security – Bagbin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Threatens West Africa’s Environmental Security – Bagbin DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkRZVTdwRGx4SlZsajk2SV9WNWJVZWt6ZF83QUVEU0NZX1NVbDJ5UEM2eDVXRFphNXZTaXQtQm1fTV9PelBDSUwtWnVIQjVmNTRKT1ZpTXRlcm01TDlIby1vcTFVM0VkY0tBQktHQnZoMEVXUmZ1cjB1LUt6ckVLOEUwOWV0amxDb2xKZmhKWjlhRnVKTGNF?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkRZVTdwRGx4SlZsajk2SV9WNWJVZWt6ZF83QUVEU0NZX1NVbDJ5UEM2eDVXRFphNXZTaXQtQm1fTV9PelBDSUwtWnVIQjVmNTRKT1ZpTXRlcm01TDlIby1vcTFVM0VkY0tBQktHQnZoMEVXUmZ1cjB1LUt6ckVLOEUwOWV0amxDb2xKZmhKWjlhRnVKTGNF?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-09-23-chiefs-can-help-stop-galamsey-where-government-enforcement-s",
+      "date": "2026-09-23",
+      "category": "policy",
+      "title": "Chiefs can help stop galamsey where government enforcement struggles – KNUST Professor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Chiefs can help stop galamsey where government enforcement struggles – KNUST Professor MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTURYZWx6MjZCTmZpdzU3MXBPQVBqeWFnRnFmbTVjYlFWekZTQW1TeE5mZkhLdXNYeDZGR092NGdub3pLa1NtcFowY0RCV1dNVWQtUzJySHZWNnlFMUFscmZpR0Jvdl9UZXkwcFhvZ05lS3VBVFhLcThDR2J0dldKTEZqX29zRWNMMEU5YnhKTFpTWFZ1a0pRWF9fbDMtSGlaNzVtWERJem1Wb1hiTlc2Mnd2cw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxQTURYZWx6MjZCTmZpdzU3MXBPQVBqeWFnRnFmbTVjYlFWekZTQW1TeE5mZkhLdXNYeDZGR092NGdub3pLa1NtcFowY0RCV1dNVWQtUzJySHZWNnlFMUFscmZpR0Jvdl9UZXkwcFhvZ05lS3VBVFhLcThDR2J0dldKTEZqX29zRWNMMEU5YnhKTFpTWFZ1a0pRWF9fbDMtSGlaNzVtWERJem1Wb1hiTlc2Mnd2cw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-23-galamsey-ashanti-small-scale-miners-association-alleges-poli",
+      "date": "2026-09-23",
+      "category": "arrest",
+      "title": "Galamsey: Ashanti Small-Scale Miners Association alleges police, district taskforces extort money from miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ashanti Regional Secretary of the Ghana National Association of Small-Scale Miners, Michael Adu Gyamfi, has alleged that some police officers and mining enforcement taskforces extort money from miners during operations against illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/galamsey-ashanti-small-scale-miners-association-alleges-police-district-taskforces-extort-miners"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-ashanti-small-scale-miners-association-alleges-police-district-taskforces-extort-miners",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-bawumia-discusses-reforms-to-promote-responsible-mining-with"
+    },
+    {
+      "id": "auto-2026-09-23-climate-talks-2026-1-million-people-estimated-to-work-in-art",
+      "date": "2026-09-23",
+      "category": "forest",
+      "title": "Climate Talks 2026: 1 million people estimated to work in artisanal mining should make us think",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "German Ambassador to Ghana, Frederik Landshöft, has urged stakeholders to consider the livelihoods of people engaged in artisanal and small-scale mining when addressing illegal mining in Ghana.",
+      "metrics": {},
+      "source": {
+        "name": "German Ambassador",
+        "url": "https://3news.com/news/climate-talks-2026-1m-people-estimated-to-work-in-artisanal-mining-should-make-us-think-german-ambassador"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/climate-talks-2026-1m-people-estimated-to-work-in-artisanal-mining-should-make-us-think-german-ambassador",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-22-this-is-very-similar-to-galamsey-rev-matthew-gyamfi-on-drug-",
       "date": "2026-09-22",
@@ -5893,7 +6009,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/bawumia-discusses-reforms-to-promote-responsible-mining-with-national-association-of-small-scale-miners",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-28-bawumia-discusses-reforms-to-promote-responsible-mining-with"
     },
     {
       "id": "auto-2026-08-28-we-are-going-around-in-circles-sekou-nkrumah-renews-call-for",
