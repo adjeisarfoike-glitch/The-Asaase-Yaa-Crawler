@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-24T11:45:25.714Z",
+  "updated": "2026-09-24T17:11:32.898Z",
   "counts": {
-    "total": 877,
+    "total": 880,
     "verified": 28,
-    "automated": 849,
+    "automated": 852,
     "earliest": "2024-07-01",
     "latest": "2026-09-24"
   },
@@ -104,6 +104,65 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
+    },
+    {
+      "id": "auto-2026-09-24-two-injured-in-gunfire-during-illegal-mining-clash-at-behena",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Two injured in gunfire during illegal mining clash at Behenase",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two injured in gunfire during illegal mining clash at Behenase Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1lmWlRVMXJrQlgyZnRlTWQ2ckoxUnljMnYwb3VXcXFURW1fRk15YUl5MHRPMzQzOXhudUZvYnhUYjdlV3pxRlhGLUZxYzNwZjEtQXBpMWV4RUdwVUMwNDZKQWhXT0toVjRqaWtqb2g2MjlWTVMxLVUyU0xxQkpZM0hHWEViUHcxcUdaSU5mVkJ3UWtOX28wTlItdUfSAZsBQVVfeXFMUHdGQnV2TDVMaUx5a1NRaTJqYnMzWEhVRFQ5ZGNwYWY3SDhYZW5COUxmOVBtTDZwZDlwQTAyemt3WVNTbWdFYWVUTkUzTXM3Q1dsODdsalB2ZnNiSVQ3Nk9EQVl6X0Z0VDhvbmpuWmdVUVlxRFk1d1VtWVY2YVdVWEFBcUFzVXNiVzRmdHBTMk9fQmxzYkJWUEl4X2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1lmWlRVMXJrQlgyZnRlTWQ2ckoxUnljMnYwb3VXcXFURW1fRk15YUl5MHRPMzQzOXhudUZvYnhUYjdlV3pxRlhGLUZxYzNwZjEtQXBpMWV4RUdwVUMwNDZKQWhXT0toVjRqaWtqb2g2MjlWTVMxLVUyU0xxQkpZM0hHWEViUHcxcUdaSU5mVkJ3UWtOX28wTlItdUfSAZsBQVVfeXFMUHdGQnV2TDVMaUx5a1NRaTJqYnMzWEhVRFQ5ZGNwYWY3SDhYZW5COUxmOVBtTDZwZDlwQTAyemt3WVNTbWdFYWVUTkUzTXM3Q1dsODdsalB2ZnNiSVQ3Nk9EQVl6X0Z0VDhvbmpuWmdVUVlxRFk1d1VtWVY2YVdVWEFBcUFzVXNiVzRmdHBTMk9fQmxzYkJWUEl4X2M?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-24-two-shot-in-behenase-galamsey-clash",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Two Shot In Behenase Galamsey Clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two Shot In Behenase Galamsey Clash DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zOXhZNTZyYi1SdkkwV2xQX2xBUU9ucHFha0FuQWl0V1A1cnhjbTF4NXNGdzNtUi1ETHJwUUdtN09ESmxYRGVzb0plWVB0OGxDWHIyVUJDZTJHcklBR0xJZzhNOGgxLTJ4d1JDczBlaDZ1bXF6?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMidEFVX3lxTE9zOXhZNTZyYi1SdkkwV2xQX2xBUU9ucHFha0FuQWl0V1A1cnhjbTF4NXNGdzNtUi1ETHJwUUdtN09ESmxYRGVzb0plWVB0OGxDWHIyVUJDZTJHcklBR0xJZzhNOGgxLTJ4d1JDczBlaDZ1bXF6?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-09-24-ndf-engages-ahafo-stakeholders-to-strengthen-fight-against-i",
+      "date": "2026-09-24",
+      "category": "water",
+      "title": "NDF engages Ahafo stakeholders to strengthen fight against illegal mining and protect forests, water bodies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDF engages Ahafo stakeholders to strengthen fight against illegal mining and protect forests, water bodies Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONE9POG5XaExoSDNpNmtNeWZhSUxkNGdKTXM5V2hjUmVZWUlSOWEzYXNIYW1mNGk5T2RhRWJmbzctTXg1MHVoeG8zSHNNUjI5RTBqRUtwMzhHUG9sSjZnNGtGYTd1QWVybFMwbWlfdjBLUEZZWkVfcTR5eDBzS0s4b3NZS0hQLS05SUdVSFlBOUpIdTNFZDE4bEFXd3BTNE9obGNpSWxhWDBNbHdkbWtLcUR5SUNLRkdnZnFZVG1nbzlLMk5wU2JCZDZFZjFyZ00?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxONE9POG5XaExoSDNpNmtNeWZhSUxkNGdKTXM5V2hjUmVZWUlSOWEzYXNIYW1mNGk5T2RhRWJmbzctTXg1MHVoeG8zSHNNUjI5RTBqRUtwMzhHUG9sSjZnNGtGYTd1QWVybFMwbWlfdjBLUEZZWkVfcTR5eDBzS0s4b3NZS0hQLS05SUdVSFlBOUpIdTNFZDE4bEFXd3BTNE9obGNpSWxhWDBNbHdkbWtLcUR5SUNLRkdnZnFZVG1nbzlLMk5wU2JCZDZFZjFyZ00?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-ndf-sensitises-chiefs-on-galamsey-fight-in-ahafo-ano-south-w"
     },
     {
       "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-",
@@ -12443,7 +12502,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGo0eTZFb2h0OVVETE41TG93RG9HYUlXZWZCd2NvZE93ZEV4WWpGcTRSdzFDZURGajU0dEtxQmgxT04tclVLMm1QUW9lNW1VUUI3bWtXZXg3bW4wU01EVHhkLWdFQjdDM040MEoyLTVJbTZEZWxGMktyOGV2YzAzcTY4YkhKMmkyZzhyOV94ZXlkQnZhbUE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-13T02:46:26.497Z"
+      "archivedAt": "2026-08-13T02:46:26.497Z",
+      "thread": "t-auto-2026-08-12-ndf-sensitises-chiefs-on-galamsey-fight-in-ahafo-ano-south-w"
     },
     {
       "id": "auto-2026-08-12-illegal-mining-threatens-ghana-s-first-marine-protected-area",
