@@ -1,13 +1,32 @@
 {
-  "updated": "2026-09-23T21:32:10.398Z",
+  "updated": "2026-09-24T04:49:41.641Z",
   "counts": {
-    "total": 872,
+    "total": 873,
     "verified": 28,
-    "automated": 844,
+    "automated": 845,
     "earliest": "2024-07-01",
-    "latest": "2026-09-23"
+    "latest": "2026-09-24"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-24-two-shot-in-galamsey-clash-at-behenase-in-eastern-region",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Two shot in galamsey clash at Behenase in Eastern Region",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Two shot in galamsey clash at Behenase in Eastern Region GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTJhTllndXpkR1ZpOUR6eGtqTkhiWTdKM2VxMGU3bU1EeHFaS19ubmlZR21GclBRYXZWTUhxZnlEQ0ZhNk1WbFY4TXJPSjdpY1N0b1JtLU1uTFN4TDI4akV3VXpMd1hTOVd3MHZuTGdZX0hoaW9UdWM3TlZoWmcyRlZ0aXlYaUNHRlV2SUNfSG5tY3ZOZExwd3hFdEt3QVRmckRVWDI5UXIya2dNZEhCa0t4YXBvdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTJhTllndXpkR1ZpOUR6eGtqTkhiWTdKM2VxMGU3bU1EeHFaS19ubmlZR21GclBRYXZWTUhxZnlEQ0ZhNk1WbFY4TXJPSjdpY1N0b1JtLU1uTFN4TDI4akV3VXpMd1hTOVd3MHZuTGdZX0hoaW9UdWM3TlZoWmcyRlZ0aXlYaUNHRlV2SUNfSG5tY3ZOZExwd3hFdEt3QVRmckRVWDI5UXIya2dNZEhCa0t4YXBvdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-",
       "date": "2026-09-23",
@@ -1623,18 +1642,18 @@
       "id": "auto-2026-09-14-government-must-not-perpetrate-galamsey-it-campaigned-agains",
       "date": "2026-09-14",
       "category": "policy",
-      "title": "Government must not perpetrate galamsey, it campaigned against it – GBA President",
+      "title": "Government must not perpetrate galamsey, it campaigned against – GBA President",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Government must not perpetrate galamsey, it campaigned against it – GBA President MyJoyOnline",
+      "summary": "Government must not perpetrate galamsey, it campaigned against – GBA President MyJoyOnline",
       "metrics": {},
       "source": {
         "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUdWNTU3RmRqTkcxMjd0WGhaMXVzalF4cUtEdkVWbzB0TTdOaVRPTnVwS3FMOXFKUHM5MGJSbzZNU1BsV0ZRamc2cy1XNmN6dW05bUhNV2lSalhTbUR0YjJDOUt5VUJaODJNWHVGLUdSaEJTNTNwY2lvNXppNC1nblF6YVBLZE43X2c1RDY2Zjl0cWVIZUtaQTA2cXZFRFltU0dCQnJZYw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUdWNTU3RmRqTkcxMjd0WGhaMXVzalF4cUtEdkVWbzB0TTdOaVRPTnVwS3FMOXFKUHM5MGJSbzZNU1BsV0ZRamc2cy1XNmN6dW05bUhNV2lSalhTbUR0YjJDOUt5VUJaODJNWHVGLUdSaEJTNTNwY2lvNXppNC1nblF6YVBLZE43X2c1RDY2Zjl0cWVIZUtaQTA2cXZFRFltU0dCQnJZYw?oc=5",
       "via": "rss",
       "verified": false
     },
