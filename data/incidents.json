@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-24T04:49:41.641Z",
+  "updated": "2026-09-24T11:45:25.714Z",
   "counts": {
-    "total": 873,
+    "total": 877,
     "verified": 28,
-    "automated": 845,
+    "automated": 849,
     "earliest": "2024-07-01",
     "latest": "2026-09-24"
   },
@@ -26,6 +26,84 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQSTJhTllndXpkR1ZpOUR6eGtqTkhiWTdKM2VxMGU3bU1EeHFaS19ubmlZR21GclBRYXZWTUhxZnlEQ0ZhNk1WbFY4TXJPSjdpY1N0b1JtLU1uTFN4TDI4akV3VXpMd1hTOVd3MHZuTGdZX0hoaW9UdWM3TlZoWmcyRlZ0aXlYaUNHRlV2SUNfSG5tY3ZOZExwd3hFdEt3QVRmckRVWDI5UXIya2dNZEhCa0t4YXBvdw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-24-klottey-s-anti-galamsey-walk-reaches-northern-region",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Klottey’s anti-galamsey walk reaches Northern Region",
+      "place": "Northern Region",
+      "region": "Northern",
+      "lat": 9.4,
+      "lon": -0.84,
+      "summary": "Klottey’s anti-galamsey walk reaches Northern Region Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVM4ajZ6WGhlMXU2UGx3TlpQSERYMzhVSmlzVlA3Qi0zc1lHWTJyeEd6QXpRdnppSlVrYmhtRGVmREMyZm4xZVpQaHY5S1lMaU50TkhtNzNOMHl1bnVJODRINUNKNWMxVlZXRXVfOWF2WHBYbWItOERNSmgyM1V0RHJBeEtPRF9vbm1RWjBjUXRkOGlicl9kcWlSNDc5VTdyeTFrRg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVM4ajZ6WGhlMXU2UGx3TlpQSERYMzhVSmlzVlA3Qi0zc1lHWTJyeEd6QXpRdnppSlVrYmhtRGVmREMyZm4xZVpQaHY5S1lMaU50TkhtNzNOMHl1bnVJODRINUNKNWMxVlZXRXVfOWF2WHBYbWItOERNSmgyM1V0RHJBeEtPRF9vbm1RWjBjUXRkOGlicl9kcWlSNDc5VTdyeTFrRg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-24-the-damang-precedent-sovereign-extractive-wealth-vs-the-para",
+      "date": "2026-09-24",
+      "category": "policy",
+      "title": "The Damang Precedent: Sovereign Extractive Wealth vs. The Paradox of Political Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Damang Precedent: Sovereign Extractive Wealth vs. The Paradox of Political Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSW1obkRQbWdfZDduRkY3djFfbzZyUjRIRDN3cE5TQ3huOTh0NzRPTTM5dmRlR2JaRkhqVHpfV3puQ1IzdVFBSFFPbDQzb2hsM3BVOFpqR2x5aTZwcWxoQVZIWEk4OUxPNVk0U1EtcjJMbnZDMEdlRE82N3VLX29FZmNmSW13TnlJdS1QdVQzUEFWazdEenlFWFJn0gGYAUFVX3lxTE1OT0Y0Tl9zaFRSUkJCVEV0b3I2bk9mV3NxR3lWQUhJU0VIN0lVNllMX0xxTlF1R2tYS3N5R1JrV292T2dDZllXdzBQVkZWR21YRk55ZmxnTTlaeFZMcXhzN2lpS00ya1dMcmM4aF9zWUZWWTZwbFh4ZDVBZWs3RUc0RGJyNXJ5OFU3NHNGTmRBWVNyYUtvUk5X?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPSW1obkRQbWdfZDduRkY3djFfbzZyUjRIRDN3cE5TQ3huOTh0NzRPTTM5dmRlR2JaRkhqVHpfV3puQ1IzdVFBSFFPbDQzb2hsM3BVOFpqR2x5aTZwcWxoQVZIWEk4OUxPNVk0U1EtcjJMbnZDMEdlRE82N3VLX29FZmNmSW13TnlJdS1QdVQzUEFWazdEenlFWFJn0gGYAUFVX3lxTE1OT0Y0Tl9zaFRSUkJCVEV0b3I2bk9mV3NxR3lWQUhJU0VIN0lVNllMX0xxTlF1R2tYS3N5R1JrV292T2dDZllXdzBQVkZWR21YRk55ZmxnTTlaeFZMcXhzN2lpS00ya1dMcmM4aF9zWUZWWTZwbFh4ZDVBZWs3RUc0RGJyNXJ5OFU3NHNGTmRBWVNyYUtvUk5X?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-when-the-shovel-meets-the-cheque-galamsey-and-the-paradox-of"
+    },
+    {
+      "id": "auto-2026-09-24-pharmaceutical-society-demands-tougher-action-against-galams",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Pharmaceutical Society demands tougher action against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Pharmaceutical Society demands tougher action against galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXlXNXNzTTlEcExoR2JVNzlWU3ctOWdNUXE4NmYzTjg4dXNvMUpCY2o1OHRLQTFMaTJEandzbFZxSFVkb0VGMy16T3JDTzh0QWtGS21FZzRPOEZTdjdzWUdNQjJ0MzZQamhrZ2F2cWR3VmtFMmZHN2lSN0tpb2tRd1JSYmdTYldoVi1TdFpyS2hNQVZGdGczY3VraDNnbWcyeGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXlXNXNzTTlEcExoR2JVNzlWU3ctOWdNUXE4NmYzTjg4dXNvMUpCY2o1OHRLQTFMaTJEandzbFZxSFVkb0VGMy16T3JDTzh0QWtGS21FZzRPOEZTdjdzWUdNQjJ0MzZQamhrZ2F2cWR3VmtFMmZHN2lSN0tpb2tRd1JSYmdTYldoVi1TdFpyS2hNQVZGdGczY3VraDNnbWcyeGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-24-volta-region-will-become-a-mining-hub-but-no-galamsey-togbe-",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Volta Region will become a mining hub but no galamsey – Togbe Afede",
+      "place": "Volta Region",
+      "region": "Volta",
+      "lat": 6.6,
+      "lon": 0.47,
+      "summary": "Volta Region will become a mining hub but no galamsey – Togbe Afede MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXVmOWFPVGh1ZFNNS1hKdVd1blQ0ZkxSZmxTYWZXa3dUaVBaUWhreHdoUmp5SHZqYVp3cnRaVDczQ2Nmek1Xbk55eXM3YW8ySEhmc19QZUNfOS1Gb3hwRGxDd1ByR2ZicHp3ZWhTOFVWN1A5V2NvejNnYnM2VF9rY29vVFYyN09wLVJjNXVBeHp1YTZsU1haZDV3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXVmOWFPVGh1ZFNNS1hKdVd1blQ0ZkxSZmxTYWZXa3dUaVBaUWhreHdoUmp5SHZqYVp3cnRaVDczQ2Nmek1Xbk55eXM3YW8ySEhmc19QZUNfOS1Gb3hwRGxDd1ByR2ZicHp3ZWhTOFVWN1A5V2NvejNnYnM2VF9rY29vVFYyN09wLVJjNXVBeHp1YTZsU1haZDV3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
     },
     {
       "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-",
@@ -827,8 +905,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxPakR6QlVUR0ZkTmlzWmFfYzBQQUN0YlJDbHA2LWhjVkxUMHB6SW41NUxDNEhsZkEyTmN5TklZOUFoUExvWFU0VnJMSkE0Mk54bERvQloxSHhKSTNiUDBmMTZyQ3NZMi1taVI0REJpdFdPek85VUdQNFpIVnRaR2I1UlZpemVVTGE0RGYwUGdreEZQUTV3el8ycmxTaTVkLUVjTENV?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "verified": false
     },
     {
       "id": "auto-2026-09-16-gyampo-denies-softening-stance-demands-tougher-galamsey-figh",
@@ -1642,18 +1719,18 @@
       "id": "auto-2026-09-14-government-must-not-perpetrate-galamsey-it-campaigned-agains",
       "date": "2026-09-14",
       "category": "policy",
-      "title": "Government must not perpetrate galamsey, it campaigned against – GBA President",
+      "title": "Government must not perpetrate galamsey, it campaigned against it – GBA President",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Government must not perpetrate galamsey, it campaigned against – GBA President MyJoyOnline",
+      "summary": "Government must not perpetrate galamsey, it campaigned against it – GBA President MyJoyOnline",
       "metrics": {},
       "source": {
         "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUdWNTU3RmRqTkcxMjd0WGhaMXVzalF4cUtEdkVWbzB0TTdOaVRPTnVwS3FMOXFKUHM5MGJSbzZNU1BsV0ZRamc2cy1XNmN6dW05bUhNV2lSalhTbUR0YjJDOUt5VUJaODJNWHVGLUdSaEJTNTNwY2lvNXppNC1nblF6YVBLZE43X2c1RDY2Zjl0cWVIZUtaQTA2cXZFRFltU0dCQnJZYw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUdWNTU3RmRqTkcxMjd0WGhaMXVzalF4cUtEdkVWbzB0TTdOaVRPTnVwS3FMOXFKUHM5MGJSbzZNU1BsV0ZRamc2cy1XNmN6dW05bUhNV2lSalhTbUR0YjJDOUt5VUJaODJNWHVGLUdSaEJTNTNwY2lvNXppNC1nblF6YVBLZE43X2c1RDY2Zjl0cWVIZUtaQTA2cXZFRFltU0dCQnJZYw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmt2dmxOdHJDeV93eklUd2pFM1FDb2JXLUNFUlFNUDc4Tm0wY2RHeFRZdmtQNjRqc2dpZTRSWDAzQ1BwVmNEOV9GSzNycUhKX2xCS2h5aHVVcS1fRW5WZS1yRlc5SUd3X3R1bXBWYjNVSHROSnFmV0hJUkZaZTEwYTZLTnVQUjNMMHRnb0ZRcWRicVVMMFFtSy1iNVU2S3FYOTI4TXUyUmt4Qkk?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2716,8 +2793,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNhc201UDZxeXNZLXBTbGJwd0lsNnZzc2dhWGdXZVdUMDh2TXpacmh0cWtXN1VjVnNwX2ljQlZJSVlrQ1R2enI2MFJDY2RaTFVubGRId053azd4c243MmJqdGpwVGQ1QmlROXRSbTBoSmVkSTFYN1hDYWQtaVdKT0FVNy1LT2d3Q19LSzlTQjZkQ3ZkTGJGVVlPZVY3ZkE5MnU0SkhMOTRKNWFnTnc?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-09T11:20:22.213Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-09-09T11:20:22.213Z"
     },
     {
       "id": "auto-2026-09-08-galamsey-causes-1-in-4-fibre-cuts-in-ghana-sam-george",
@@ -3017,8 +3093,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2l5S2d1MHpUSVlHM2hrMXlZTTRldmRidXFVVUg4Ukt1bnRyYk8zN0xlcUs1V2dTY0pUT3NDMjg1QlMycjFLbmRRc2Q0QW15ZE1YV3VlTlhMd0MwRDBKSlVrQ1h6QlVWV0pBNVg2ekxwdE84U0dBVHdlVkNhVVR6bmN1UmllUEtKM2x1c3g3bHhqc2swWDZ2Um9Fdko3V3ZDZWMtZE01a2VfRk1Sa2lnLTNDLTRWQkp4dEhselpfTHFhQ2xzZ3lwQi10bkRocU0?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-07T12:27:47.671Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-09-07T12:27:47.671Z"
     },
     {
       "id": "auto-2026-09-07-galamsey-didn-t-have-to-get-here-it-will-worsen-without-the-",
@@ -6129,8 +6204,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxORU1qUUswU0UwWi05RkMyeGYtMXd5THozU3RydXdzblBIZklhaGh5NVF3X09VREhsV2I0T19YVF9jWmpjeWZfX1c3dzFHUnI0LUNCQk13MnA4d2FPaXlWWGlVN3JlaDIwU0tsYS1DQjdWdVRHVzVHS09zS0l0YnpieVNxRTZjZlk3Wm9UX1A4bFhVRkZBT0w5QXo0TVE2TXhGdFBSTUwzb2xTTm91TlU5QklrYVQ1SkplVlEyTw?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-30T11:57:29.014Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-08-30T11:57:29.014Z"
     },
     {
       "id": "auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni",
@@ -8159,7 +8233,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0NBbWZ4SlNROGpNcDR5d2FqLUQxWUFVdXRfVGg4dUFiYTJ3RWtOTWczekJMTHpvSGZSVjFiVmZfalJLbmdYd1g1LXhaQXp2NV9xRXIzRlZQYkZsUG9VcGdwVzFkT1I2OS1fdGs2R2Z6MURDelhjTG80ay1IMjVzQXpMUFRROWNhMWZHLWxLZXhUSjdFcHfSAZQBQVVfeXFMTjdJN3lUTEQ2ZXlwYXYwZVpmNW80UC16RG5ZR2E3V2l3OFoycGZhYXVHNVpqLVRBZFJBUzc5dW5ZaHBEZ2hib3gtVUZERzlFeG5ESE9tRkZHYW9BUGZ1a3kydDlwMG85bjNqZzJSTzQ5WGpNVDI4SWx1emVhbVkzOFJmcFhoUnRyaldtR2pkSTJidDJUcg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-24-when-the-shovel-meets-the-cheque-galamsey-and-the-paradox-of"
     },
     {
       "id": "auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines",
@@ -9674,8 +9749,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxONF9QNHdHRUthdXRSbUFKT2M0UHphTjJrdHRWcFZrVDQzMi1rMmltdWF2YU5seTZFZVhOeVZFTVZYZ2lUczF4LVdMdDdzd2J1Nk9IUnpQQ200VzR2UlRuQnN4d1hLU3pPbGsyWVZJRXZhNFFQUHJFSTBBQ2FFM0MxbnFrRHBpZFdZVkdSeEFqUnA5S3N6c3k2Wmk4U2RQajQzWFd3UExkUElMUmIwZVZ2dE9kLXMzU1lPOTROX3FPNU01WVdiU2tJalU0ck02Tl92OFdTa0dTMGMzNU5Y?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-22T07:03:38.292Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-08-22T07:03:38.292Z"
     },
     {
       "id": "auto-2026-08-20-npp-must-reconsider-chairman-wontumi-s-candidature-due-to-hi",
@@ -12309,8 +12383,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxNcmhob19qdTYzdlgwa1RVYmM2dWV5TFd3T0pBWng5ZkQ4Y1dNNS1DNFlFYVFGSnlwWHVfSm5FMWtBb1BvUzFZbFlsTWsxcmpRWGVwSHR2ZElFM2ZfbXpscDAybHBtMWNjUE01dzBlOHpXODRiTV9aLTdENzNRSDJyVk5qV1hVQVJreHhYWkY0TDlRZWpnNlhucFBuRGQ4YmZZRW5sTzFnQXVOYWwxUnVrVy1HQTR1RHRLcGlnOHh5aTh6LXRQajNERmRPVTQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-12T13:46:06.562Z",
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "archivedAt": "2026-08-12T13:46:06.562Z"
     },
     {
       "id": "auto-2026-08-12-practically-impossible-to-naturally-restore-galamsey-pollute",
@@ -15240,7 +15313,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDVrb2c5N1Y3d3BYREZYOWVHNjFfVFhKT2JFR1psd2MwNkVpd01idkVWZWpZNEhHc2V4cjRQbXlQeHdIV3E5Yk1QRlowWW9INzFTZXVIOW5ITVNra3c1c0s1YTQzUzRzNkFvRHM1dE13S0tTdTRTbDhVR3d2cGY2VWdNanpfN2o1SHkwOFJfWmJ2NHFRV1RKaElQUDZjZURJVU9sOGVudTFwRVZMOF9zQ3NNZ004bHJtOHZUVVY0bVFFTHpsVEk5WTl4ZXVUYXpuWFFRMQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-04-women-girls-exploited-in-illegal-mining-communities-report",
@@ -15434,7 +15507,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTNBVnpWSUFZUC1lQ19CTDRBcXE3enFkMUh4SGFXcGxNSl96aFlvZVZXX2pjS1hxSnlYMlBpanM3NzR4eTRrM3U0T0Zkbm1uTjdUU0FqRlZxcnhLSjExU1lIdUt1bWNVQVpVY1l4a203QzJzYjUzckVoV0pBS0U5SUxxOEpRRS1EVUlWTkYyVkFUeUl6MHUydXhIdGY1QUhQOGFkQi1VeGJSMms5NkZHWE53RkZ1bVNYQU40bHZMLVQxc2M?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "thread": "t-auto-2026-08-03-galamsey-games-and-the-fury-of-mother-earth-occasional-kwatr"
     },
     {
       "id": "auto-2026-08-03-young-positivist-writes-how-galamsey-is-affecting-ghana-s-pr",
@@ -16313,7 +16386,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdUJtdzdncTI5WHBpc2ptTzh1WEZGQzlVRjd5Njd1OE1Xd2VwWkg5Q21VcmJDSjQzV0VHQWFTOWZUN01TbTQ0ZFJNd0J6YTdzRU1aYjI0R3M1VktPVEtvdllLNXZYRzhjRmJ5R3VyTXlLdUdicHEyanp2YjF2SWZ3ZDdGR2o2eDBPQUlKc3dKRHpZTmxRcVZoOHptSlJFZ3RxelhrUENzbnIyT2tEb3hUMmwwVFNUbW81SnlBbVFTOFA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
     },
     {
       "id": "auto-2026-07-28-ghana-cannot-arrest-its-way-out-of-galamsey-a-case-for-mediu",
@@ -16584,8 +16658,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxON29fUDd5LWdzTTJybjV2QWc0VUFDbVdoZFRucmlIaDhpVmQ1eFpMelhNNVhxM0Y1Q05LcENhVUh5SEZpOTkwS2dpUk5PZGFCVHQzRkdxSnpLbFJzN1M5M19XMGVyR2dMa01sR0hCNkxVWEV6X1YzWUpaQ044RDFvcHFEQ3R4VmNQOTJLcWJ2SVVHRG1ua01uQVhBQ0tUVlBwTXRVYzlocHd4WnhYYkh3RDc0UGs0dHQ4Q20zeTJaYnBwd2hYbEM0OUlSR01VRUwyZ3paVzZiOXIwU29ubGRZbzZVVUs?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-era-of-impunity-in-galamsey-fight-far-from-over-coalition-ch"
+      "verified": false
     },
     {
       "id": "auto-2026-07-20-galamsey-impunity-is-not-over-cagg-challenges-govt",
