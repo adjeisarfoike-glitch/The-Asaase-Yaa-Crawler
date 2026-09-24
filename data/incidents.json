@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-24T17:11:32.898Z",
+  "updated": "2026-09-24T21:33:02.022Z",
   "counts": {
-    "total": 880,
+    "total": 883,
     "verified": 28,
-    "automated": 852,
+    "automated": 855,
     "earliest": "2024-07-01",
     "latest": "2026-09-24"
   },
@@ -163,6 +163,65 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-12-ndf-sensitises-chiefs-on-galamsey-fight-in-ahafo-ano-south-w"
+    },
+    {
+      "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMQVBiWjFWWElRUUVwQ1JFeENnLUdRZlhqRmliZGJnYURtQ1UzQWxDcTA4V3NVMTlvcUFqcC1RQ3dhLWItVmRaTS1SSzlIeE9UaGxpenVFQjI2Z2d6aU5oNlBsN0PSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMQVBiWjFWWElRUUVwQ1JFeENnLUdRZlhqRmliZGJnYURtQ1UzQWxDcTA4V3NVMTlvcUFqcC1RQ3dhLWItVmRaTS1SSzlIeE9UaGxpenVFQjI2Z2d6aU5oNlBsN0PSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
+      "date": "2026-09-24",
+      "category": "water",
+      "title": "100% results or nothing! - Schandorf on Operation Water Shield galamsey fight on the Birim river",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "100% results or nothing! - Schandorf on Operation Water Shield galamsey fight on the Birim river modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Vb256dWNPV25xLUZwS2ZaVHBCcEhsblZHRHA0LWhEQ2VsY0JxNjBXQk81UXpHLXEzXzhxbVY2bWRTSlYzaUpRUmRDcnc2ZXhkeEdvbTF0WHE2SThsdnZIaHhfSzPSAVxBVV95cUxQaHpRNGk5LXlEOXJOYzZmVmgxcUwxM0ZBejdvQ005Nl84OGx4SjFDTHYySzJGcjctWFJacVZjYWRGUUs1NTlzQkw3S2JtcTYxLU5LdzVGRzc1eFdBOQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Vb256dWNPV25xLUZwS2ZaVHBCcEhsblZHRHA0LWhEQ2VsY0JxNjBXQk81UXpHLXEzXzhxbVY2bWRTSlYzaUpRUmRDcnc2ZXhkeEdvbTF0WHE2SThsdnZIaHhfSzPSAVxBVV95cUxQaHpRNGk5LXlEOXJOYzZmVmgxcUwxM0ZBejdvQ005Nl84OGx4SjFDTHYySzJGcjctWFJacVZjYWRGUUs1NTlzQkw3S2JtcTYxLU5LdzVGRzc1eFdBOQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-09-24-asanko-gold-supports-80-farmers-with-agricultural-inputs",
+      "date": "2026-09-24",
+      "category": "forest",
+      "title": "Asanko Gold supports 80 farmers with agricultural inputs",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "Asanko Gold Ghana Limited has extended support to 80 smallholder farmers across 12 communities in the Amansie West and Amansie South districts in the Ashanti Region. The intervention formed part of the implementation of the mining company's Community Agricultural Support Programme. The second phase of the programme is intended to improve agricultural productivity, strengthen food security and help farmers address cha",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
     },
     {
       "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-tasked-to-a-mining-site-",
