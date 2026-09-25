@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-25T17:13:24.475Z",
+  "updated": "2026-09-25T21:38:12.121Z",
   "counts": {
-    "total": 898,
+    "total": 899,
     "verified": 28,
-    "automated": 870,
+    "automated": 871,
     "earliest": "2024-07-01",
     "latest": "2026-09-25"
   },
@@ -106,7 +106,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XTWlLU1JITUFPZGxPWGVjUC1Kbm1ZZUExeXhScXJNSENaNG91bkRNWC1nV0tQS2F5Rkw5dmdwVmdCUDBLbkRhZkJia1VyWXF6Z2NRNE0xektrd3FpVWN1QlNEd3TSAVxBVV95cUxQZlc3MHcwbnNDb1h2Z2NxOWRWSUh5VmFZeWcxYzVXVDI2XzYwSVNHZ1lBX3JyRWl6cVI5Znd4aVB1WVBFN2tvc21LdGJENlpjd0VIdzBDSEtsV09DTA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-25T21:32:58.275Z"
     },
     {
       "id": "auto-2026-09-25-giisdec-naimos-retrieve-abandoned-galamsey-equipment-from-an",
@@ -146,7 +147,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXBSRnBzc1JuVER5Vl8xM1ZZLVZjb2tVNEdQUlNBOENxaTl5VHl0dm84V0hZbW9hRWxiREYzekR3alN4U0ZlanM4aDdfaGtDZ0paYktzYXlUdlYtZDNhS1IxVGszMUFyYXRSVkJVWDVKQTY4WGFHTW9neEVsTUN0RTVCWmVfYm1HMnZBN1BqRkdoZ3VxV1pvWldoTnJDdVluMnZmMQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-25T21:33:34.816Z"
     },
     {
       "id": "auto-2026-09-25-we-will-not-allow-galamsey-in-volta-region-togbe-afede-xiv-w",
@@ -311,6 +313,26 @@
       "thread": "t-auto-2026-09-25-naimos-arrests-12-illegal-miners-in-osino-destroy-mining-equ"
     },
     {
+      "id": "auto-2026-09-25-youth-abandon-farming-for-galamsey-raising-labour-shortage-f",
+      "date": "2026-09-25",
+      "category": "arrest",
+      "title": "Youth Abandon Farming for Galamsey, Raising Labour Shortage Fears in Amansie South",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "Youth Abandon Farming for Galamsey, Raising Labour Shortage Fears in Amansie South Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldGt3M3V2dy13alJVYjBMeGpFbXJBMmYzZU5lVTFiYXBGaklESm9VbXZxb1Q1RzJ2WVR0cVd4dHZrOHFyZkFXLWh6R29iakhEbHZqYVBjVG9CY0JodjRaNmpwONIBXEFVX3lxTE5qbThBVmY2ZWw3d3FjTmNHMi0zYnRSeEt3VG1kNzZZY0RORjF2UXVmRW4tb2VhQ1FlRnhVcFQxSnNBTWp6bnRoZGRLNHV2SnJGcExpQnJ4aEdFclc0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBldGt3M3V2dy13alJVYjBMeGpFbXJBMmYzZU5lVTFiYXBGaklESm9VbXZxb1Q1RzJ2WVR0cVd4dHZrOHFyZkFXLWh6R29iakhEbHZqYVBjVG9CY0JodjRaNmpwONIBXEFVX3lxTE5qbThBVmY2ZWw3d3FjTmNHMi0zYnRSeEt3VG1kNzZZY0RORjF2UXVmRW4tb2VhQ1FlRnhVcFQxSnNBTWp6bnRoZGRLNHV2SnJGcExpQnJ4aEdFclc0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
       "id": "auto-2026-09-24-two-shot-in-galamsey-clash-at-behenase-in-eastern-region",
       "date": "2026-09-24",
       "category": "forest",
@@ -406,6 +428,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXVmOWFPVGh1ZFNNS1hKdVd1blQ0ZkxSZmxTYWZXa3dUaVBaUWhreHdoUmp5SHZqYVp3cnRaVDczQ2Nmek1Xbk55eXM3YW8ySEhmc19QZUNfOS1Gb3hwRGxDd1ByR2ZicHp3ZWhTOFVWN1A5V2NvejNnYnM2VF9rY29vVFYyN09wLVJjNXVBeHp1YTZsU1haZDV3?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-25T21:38:05.768Z",
       "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
     },
     {
@@ -471,18 +494,18 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtQ19lWHZEYnVmSU1aekJTaGozT0RrWTl0QlZtZkw4bEVzTWhqTTFWRWUyUGdLdjJ5Q3pwcmpRYkM5M2RXakxIYWplVFpOQXA3aXZVQ01DMmhEU2VJUVBSaDBBNk3SAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCSDRxX2tYUVFXM01ZM1AxTzl5S2RvZGtJU095WVA0MzhnUW9Tc1Z1R2FyX0Q0TmlQZnN0b2JGVFR0ZXIySkVjTExXazBTNkR6ZTZrNXVrTzdBdXpkNXZMSUNlSVDSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtQ19lWHZEYnVmSU1aekJTaGozT0RrWTl0QlZtZkw4bEVzTWhqTTFWRWUyUGdLdjJ5Q3pwcmpRYkM5M2RXakxIYWplVFpOQXA3aXZVQ01DMmhEU2VJUVBSaDBBNk3SAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCSDRxX2tYUVFXM01ZM1AxTzl5S2RvZGtJU095WVA0MzhnUW9Tc1Z1R2FyX0Q0TmlQZnN0b2JGVFR0ZXIySkVjTExXazBTNkR6ZTZrNXVrTzdBdXpkNXZMSUNlSVDSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
       "verified": false
     },
