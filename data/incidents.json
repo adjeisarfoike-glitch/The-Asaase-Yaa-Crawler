@@ -1,13 +1,74 @@
 {
-  "updated": "2026-09-25T04:57:59.727Z",
+  "updated": "2026-09-25T11:53:59.048Z",
   "counts": {
-    "total": 883,
+    "total": 886,
     "verified": 28,
-    "automated": 855,
+    "automated": 858,
     "earliest": "2024-07-01",
-    "latest": "2026-09-24"
+    "latest": "2026-09-25"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-25-galamsey-threatens-country-s-coastal-economy-ucc-prof",
+      "date": "2026-09-25",
+      "category": "forest",
+      "title": "Galamsey threatens country’s coastal economy – UCC Prof",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey threatens country’s coastal economy – UCC Prof Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDZJYWtTM21idUNTOFItdlVzeFV5VmJGNENSSGdhR0FwaUJHN1Q4MEJLSkUxczhqMEM2WVNMVFMyT1gtYXowWk4xNGN3Y093d1ExdlVTOG9ESG04V0dHWDZVTElMRzJ1ZE5iU2Z4M0ZpWDdSeXFJNFNDa3A5SEtfNHphNVBZOEtEZFE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxPaDZJYWtTM21idUNTOFItdlVzeFV5VmJGNENSSGdhR0FwaUJHN1Q4MEJLSkUxczhqMEM2WVNMVFMyT1gtYXowWk4xNGN3Y093d1ExdlVTOG9ESG04V0dHWDZVTElMRzJ1ZE5iU2Z4M0ZpWDdSeXFJNFNDa3A5SEtfNHphNVBZOEtEZFE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-25T11:48:08.762Z"
+    },
+    {
+      "id": "auto-2026-09-25-fight-against-illegal-mining-kyebi-water-crisis-deepens-as-g",
+      "date": "2026-09-25",
+      "category": "water",
+      "title": "Fight Against Illegal Mining: Kyebi water crisis deepens as galamsey drives extreme siltation",
+      "place": "Kyebi",
+      "region": "Eastern",
+      "lat": 6.17,
+      "lon": -0.55,
+      "summary": "Fight Against Illegal Mining: Kyebi water crisis deepens as galamsey drives extreme siltation Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaU1pdlNSanhPSGdNZ2Vmc3F0SWJwQjhVenJVbWFEYjBBV3VHRkhkTmRpdmFkOEcxUzJFVHVSc3B3NHlsUldMYWxpSEJUb3liUjd1NURZQTNHWUFhcTN6cHg4S1rSAVxBVV95cUxPam1ZSElZTzFFUUxrT0F6clJIc0ZxOGNyeHExZlJ3d0hsajFCbFpVY05iOWl4dVVjeWVaY1FTZTJRcEJ3cTg3V0tzN25teF9feC1Hei0tZTVVZGVOSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OaU1pdlNSanhPSGdNZ2Vmc3F0SWJwQjhVenJVbWFEYjBBV3VHRkhkTmRpdmFkOEcxUzJFVHVSc3B3NHlsUldMYWxpSEJUb3liUjd1NURZQTNHWUFhcTN6cHg4S1rSAVxBVV95cUxPam1ZSElZTzFFUUxrT0F6clJIc0ZxOGNyeHExZlJ3d0hsajFCbFpVY05iOWl4dVVjeWVaY1FTZTJRcEJ3cTg3V0tzN25teF9feC1Hei0tZTVVZGVOSQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-25T11:48:34.119Z",
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-09-25-police-hunt-for-suspects-after-shooting-at-mining-site-at-be",
+      "date": "2026-09-25",
+      "category": "forest",
+      "title": "Police hunt for suspects after shooting at mining site at Behenase",
+      "place": "Nkawkaw",
+      "region": "Eastern",
+      "lat": 6.55,
+      "lon": -0.77,
+      "summary": "The Nkawkaw Divisional Police Command has launched a manhunt for suspects following a violent clash at a mining site at Behenase near Awiregya in the Kwahu West Municipality. Two people sustained gunshot wounds during the confrontation between rival groups at the illegal mining site and are currently receiving treatment at the Holy Family Hospital in […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/police-hunt-for-suspects-after-shooting-at-mining-site-at-behenase/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/police-hunt-for-suspects-after-shooting-at-mining-site-at-behenase/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-25T11:49:11.125Z"
+    },
     {
       "id": "auto-2026-09-24-two-shot-in-galamsey-clash-at-behenase-in-eastern-region",
       "date": "2026-09-24",
@@ -168,18 +229,18 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtQ19lWHZEYnVmSU1aekJTaGozT0RrWTl0QlZtZkw4bEVzTWhqTTFWRWUyUGdLdjJ5Q3pwcmpRYkM5M2RXakxIYWplVFpOQXA3aXZVQ01DMmhEU2VJUVBSaDBBNk3SAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtQ19lWHZEYnVmSU1aekJTaGozT0RrWTl0QlZtZkw4bEVzTWhqTTFWRWUyUGdLdjJ5Q3pwcmpRYkM5M2RXakxIYWplVFpOQXA3aXZVQ01DMmhEU2VJUVBSaDBBNk3SAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -221,6 +282,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/asanko-gold-supports-80-farmers-with-agricultural-inputs.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-25T11:53:01.707Z",
       "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
     },
     {
