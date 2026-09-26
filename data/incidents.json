@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26T04:59:44.578Z",
+  "updated": "2026-09-26T11:27:36.276Z",
   "counts": {
-    "total": 902,
+    "total": 912,
     "verified": 28,
-    "automated": 874,
+    "automated": 884,
     "earliest": "2024-07-01",
     "latest": "2026-09-26"
   },
@@ -28,6 +28,165 @@
       "verified": false,
       "archivedAt": "2026-09-26T04:54:43.790Z",
       "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
+      "id": "auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Mahama's Excuse Against State Of Emergency On Galamsey Does Not Hold Water",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama's Excuse Against State Of Emergency On Galamsey Does Not Hold Water Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhVYzU5TzNrMjBqc0w1SGRRenVIWmxCU29uWWpDU21Wd2prbFZ4S0UwZmZEYUFCLUZuQ2ItQmgyanotUEdOX01QU0VyRjRhUHY3NzgtblRad21tTDZmc2k2NGdMV0NfT2tRQlJBY1NTR0FTU3FGR3N5Zldjdk1NS0NDeHNWVGdaSmJWLUlRamJLWFMyOTdPc3J1d9IBmgFBVV95cUxQUTBvRGM3b3V5aXlOOTZzc0xpWXlKa0VCai1jN01DQU1kR0oyRjJPNGhwLXZpVnJUUkFxRFh3LWh1ZDk4d1ZiTUJKMlkyUnNuMlJBNXItbW1VN01xRDZqeDdhMWNUcjU5Tk1rVTRVVUJuSFhMZmF1Um55aG5rLXdkUURxa0pHMEN3M1MxdDJsdHBNaXlmc3h4OW1n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxORDhVYzU5TzNrMjBqc0w1SGRRenVIWmxCU29uWWpDU21Wd2prbFZ4S0UwZmZEYUFCLUZuQ2ItQmgyanotUEdOX01QU0VyRjRhUHY3NzgtblRad21tTDZmc2k2NGdMV0NfT2tRQlJBY1NTR0FTU3FGR3N5Zldjdk1NS0NDeHNWVGdaSmJWLUlRamJLWFMyOTdPc3J1d9IBmgFBVV95cUxQUTBvRGM3b3V5aXlOOTZzc0xpWXlKa0VCai1jN01DQU1kR0oyRjJPNGhwLXZpVnJUUkFxRFh3LWh1ZDk4d1ZiTUJKMlkyUnNuMlJBNXItbW1VN01xRDZqeDdhMWNUcjU5Tk1rVTRVVUJuSFhMZmF1Um55aG5rLXdkUURxa0pHMEN3M1MxdDJsdHBNaXlmc3h4OW1n?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-26T11:21:44.536Z",
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "“I Never Said I Will Declare a State of Emergency” — Mahama on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“I Never Said I Will Declare a State of Emergency” — Mahama on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUlFZS2VSRFNxcWRvLXFVemVsUmdCbzZOZjNTVmFISmZkdnV4MUpIZHhvaGdWVDhuWl9kbS12ekNFQXV5WXhQZjlLXzhHcDJySEJXeWhEU2JZQ2Y1RTZteVRhWdIBXEFVX3lxTFBBc2pvQXNNbFFVN1BvbDA2aTFMVG5XMHprc3VnYnZudTVrbXpqZllDMEVJN0xtNklqUmZ4eDIydDYxYlcxWUNwZ3pkcm1BM0ZfWXhDODVjTGppVnN2?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUlFZS2VSRFNxcWRvLXFVemVsUmdCbzZOZjNTVmFISmZkdnV4MUpIZHhvaGdWVDhuWl9kbS12ekNFQXV5WXhQZjlLXzhHcDJySEJXeWhEU2JZQ2Y1RTZteVRhWdIBXEFVX3lxTFBBc2pvQXNNbFFVN1BvbDA2aTFMVG5XMHprc3VnYnZudTVrbXpqZllDMEVJN0xtNklqUmZ4eDIydDYxYlcxWUNwZ3pkcm1BM0ZfWXhDODVjTGppVnN2?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-26T11:22:08.950Z",
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Galamsey: ‘I never ever said I’ll declare a state of emergency’ — Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘I never ever said I’ll declare a state of emergency’ — Mahama Pulse Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmRXemdWTEhJYng2U2p4THB5LVBwZUNIV1pxWjhkMGc5S2dsNHFrSDRZRjNZbmszcG1obENwYmVPX1ZrcVloMUY3QzBBWG43OWwzN1l2aDI5bFB4T2FIZ19MQTI1dFptdnlZQURhc0hIRVk2N1N0T1RSZEhrb3pFWU5OS1hwVzRQWnZmamFKQTlEYTN4ZkNhb25EWUlzejdSZVd4eXc0bThibDd2LUo3a25Cb3ZhUHdJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmRXemdWTEhJYng2U2p4THB5LVBwZUNIV1pxWjhkMGc5S2dsNHFrSDRZRjNZbmszcG1obENwYmVPX1ZrcVloMUY3QzBBWG43OWwzN1l2aDI5bFB4T2FIZ19MQTI1dFptdnlZQURhc0hIRVk2N1N0T1RSZEhrb3pFWU5OS1hwVzRQWnZmamFKQTlEYTN4ZkNhb25EWUlzejdSZVd4eXc0bThibDd2LUo3a25Cb3ZhUHdJ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-26T11:22:33.608Z"
+    },
+    {
+      "id": "auto-2026-09-26-i-never-said-i-ll-declare-a-state-of-emergency-mahama-on-gal",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "‘I never said I’ll declare a state of emergency’ – Mahama on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘I never said I’ll declare a state of emergency’ – Mahama on galamsey Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmh5UFZ0eTFyX2hnUk9oeHZrSDZtdW1YN2pMU3R0Q0hvTlY1aHdEaGhDY1RIWEZXTW5MMEZxdjFPMjRDWHI5d21MLUNSTG5CX0swdTZNMHp2anRtblhINzM3dUo0MUpYMFFoWV9ldHdTUDFocGUxLWF5WC15MDQ3WU1aUjlUb0tZSHVNeGZMNHRUaEZvMldn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmh5UFZ0eTFyX2hnUk9oeHZrSDZtdW1YN2pMU3R0Q0hvTlY1aHdEaGhDY1RIWEZXTW5MMEZxdjFPMjRDWHI5d21MLUNSTG5CX0swdTZNMHp2anRtblhINzM3dUo0MUpYMFFoWV9ldHdTUDFocGUxLWF5WC15MDQ3WU1aUjlUb0tZSHVNeGZMNHRUaEZvMldn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-26T11:23:04.201Z"
+    },
+    {
+      "id": "auto-2026-09-26-i-never-said-i-would-declare-state-of-emergency-on-galamsey-",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "I never said I would declare state of emergency on galamsey – President Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "I never said I would declare state of emergency on galamsey – President Mahama GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzJwRmxwbHlkYzBmQ3ZNanpHSkotaUFmUnFnNFN2VWI5YVpscjRhMm5sczQwQXVWTUFZaHpwd0pkbGRyZHRoS054amFINGJsQ1dhSVYtMGxaeTVlM2RzbVFERUd2WGlxY0lBODlmcDU2RTNYS19kNG9OcU5uOUxKMDBzWVV3UWNtR2FxbHl5V1V1Nk1ITjQtVGRteGQ2Uk9wYUNPSFlKSHNSalFwaDFhX3NJOFdWMXJpeXJLZ1RQbXlNUDgxaG1Ta1ljTWlwTXdU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzJwRmxwbHlkYzBmQ3ZNanpHSkotaUFmUnFnNFN2VWI5YVpscjRhMm5sczQwQXVWTUFZaHpwd0pkbGRyZHRoS054amFINGJsQ1dhSVYtMGxaeTVlM2RzbVFERUd2WGlxY0lBODlmcDU2RTNYS19kNG9OcU5uOUxKMDBzWVV3UWNtR2FxbHl5V1V1Nk1ITjQtVGRteGQ2Uk9wYUNPSFlKSHNSalFwaDFhX3NJOFdWMXJpeXJLZ1RQbXlNUDgxaG1Ta1ljTWlwTXdU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-26-galamsey-fight-we-won-t-give-up-we-shall-win-the-fight-maham",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Galamsey Fight: We won’t give up; we shall win the fight—Mahama assures Ghanaians",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: We won’t give up; we shall win the fight—Mahama assures Ghanaians MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUF4LUV1dVZkTFNNb0hGMkFQN3BnOUJYaDMwTlJXUUMyLXRXMGU0ZEdpRmhXXzJ4RUZyM0N3YnVSQVlPWFVCTEJmNW11akJkQVhTYWZldDVTckJ0OURTWl9WWV81NzZKaXdQU2FkdTlzLW9SMjVsbmgtenZ3VFBtcm5xR2V2c1lZOTJzcVEyRzhfSmFWWGlUaHdzSGVMNnF6cnFCUmZMRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUF4LUV1dVZkTFNNb0hGMkFQN3BnOUJYaDMwTlJXUUMyLXRXMGU0ZEdpRmhXXzJ4RUZyM0N3YnVSQVlPWFVCTEJmNW11akJkQVhTYWZldDVTckJ0OURTWl9WWV81NzZKaXdQU2FkdTlzLW9SMjVsbmgtenZ3VFBtcm5xR2V2c1lZOTJzcVEyRzhfSmFWWGlUaHdzSGVMNnF6cnFCUmZMRQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-26-galamsey-fight-i-never-said-i-ll-declare-a-state-of-emergenc",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Galamsey Fight: I never said I’ll declare a state of emergency—Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: I never said I’ll declare a state of emergency—Mahama MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00yWHhPdGJsT3l4MWJnMlVRUlM0QXhGbkhwb0xnSW0xVFctazNZMmRaQkVfTU50QlMtM1JtNGxjQ3gtQmkyTEd1c3JKdkVETkNIQW1JZ3pfTEYtQ1FIc3NRMEJ1VkhHQnFDQWdNajZZd09BWGpDMEo1VGxQd3hiNVd4M2dvcUQ3cFFTSXdjYS1yb29kZktaYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00yWHhPdGJsT3l4MWJnMlVRUlM0QXhGbkhwb0xnSW0xVFctazNZMmRaQkVfTU50QlMtM1JtNGxjQ3gtQmkyTEd1c3JKdkVETkNIQW1JZ3pfTEYtQ1FIc3NRMEJ1VkhHQnFDQWdNajZZd09BWGpDMEo1VGxQd3hiNVd4M2dvcUQ3cFFTSXdjYS1yb29kZktaYQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-26-galamsey-fight-more-water-guards-to-be-employed-to-help-john",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Galamsey Fight: More Water Guards to be Employed to Help—John Mahama Hints",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: More Water Guards to be Employed to Help—John Mahama Hints MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFhlNjJkeHVadmVMRzNFNjd0bHpSZlItdlJvTm5rWnF5TXRqUTNmU1N5M0g4U2hsNHRuZjlsaHhkbFF1YVc5UHhVMTZCRFVDaGl2a3JkS0Y2N1I0OUdlT2gyQ0ZqMV8xOW1fRkxDVnpnYUJGU1NEVzUxMXQ0MThOaXNhV0xwbHpLMVExcmZVQnFEVVBDU1RsV2E5RzNGTGNX?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFhlNjJkeHVadmVMRzNFNjd0bHpSZlItdlJvTm5rWnF5TXRqUTNmU1N5M0g4U2hsNHRuZjlsaHhkbFF1YVc5UHhVMTZCRFVDaGl2a3JkS0Y2N1I0OUdlT2gyQ0ZqMV8xOW1fRkxDVnpnYUJGU1NEVzUxMXQ0MThOaXNhV0xwbHpLMVExcmZVQnFEVVBDU1RsV2E5RzNGTGNX?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
       "id": "auto-2026-09-25-galamsey-threatens-country-s-coastal-economy-ucc-prof",
@@ -249,6 +408,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VeU5SaUY0dHdzQlM3aHdYSlRvOEE2ZXpWU0xMbXdxeGZaRDhWM0s5Z0VLWVNZemdPU0VnR0xyZmsxT3lGZTBFVjNURm5LR2ZiYkVtY1VnelFURGs3a0UxTHVkYUHSAVxBVV95cUxQdjB1bXJBUHNqTGhIRDg3U3daQU52UGNiZ1JVR0lFUnR1b3A0N2pOOXRoM1AyODZCX2xTZnlxLUU4ZU1NM1J4aVVVX0FOdVgzeEhXTzJOclNzaGdVZg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-26T11:26:04.629Z",
       "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
@@ -271,6 +431,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wWnB0Q1FGVnNSaEJPeXVDbWhNbVc1N1hxUzdJMlVQN1BXZmtCTW1aV2FnTFlWQllBbFJLMUdhaDB1T25DRy1KaHdJN0lHY01wRGFGTXBYU1pqVTZnMXYzQm1mZ3LSAVxBVV95cUxQNnVPRHB3YjA5NjNCdFZkcnU2NnlYd3ZhZ2NGcjdEcDJMaXkxMUU5WmhhNzd5LUlubnJYZEltREdINmFMOEoxenlNZ3dkTVZlSWhwVEtPM1FoalRjOA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-26T11:26:29.038Z",
       "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
@@ -291,6 +452,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXQwLUZrTDVWR1lpSEZvUGpWT2VKcjY1b0lBZGthTzJVWXhvOTkxeUhVU09oZFlCS1B4aUhyR1lkNXR1VUxhZ1M5UERaRkFfMWZsR2M0UnJ5Rlc4UGpjMHNSeUdrY01qT25WNWZkVmtOaGp1QjgyZFBkcXRDekpSN0FiQkRCZWRzeWRSMTNaeVVZU0swams5MXVoWWEzNVFEdXc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-26T11:26:59.494Z",
       "thread": "t-auto-2026-09-25-naimos-arrests-12-illegal-miners-in-osino-destroy-mining-equ"
     },
     {
@@ -311,6 +473,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/shoot-to-maim-illegal-miners-if-shoot-to-kill-is-opposed-kwame-jantuah/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-26T11:27:29.925Z",
       "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
     },
     {
@@ -390,7 +553,46 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
+      "date": "2026-09-25",
+      "category": "forest",
+      "title": "Galamsey: ‘I never said I’ll declare a state of emergency’ – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘I never said I’ll declare a state of emergency’ – Mahama CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPak1rU2lrMnlHWTd2eGpaX0MtSnN4TmxRT1NSYThGSjd3ZlNscW5tdGFuMjgtTUVzeU0wN1RKWEdpSHN1dllCWlZIelphNDJMSDNjWnU3NzFEcEpUNFNpNXoyQThSZHAwNnEyc2dkUk1RbWs5cFBySEpxaC1LUG5JZUpoNWtEcTBXVnQ3bVZnM0VUZkxNOVh6bU05SHpSUGRv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPak1rU2lrMnlHWTd2eGpaX0MtSnN4TmxRT1NSYThGSjd3ZlNscW5tdGFuMjgtTUVzeU0wN1RKWEdpSHN1dllCWlZIelphNDJMSDNjWnU3NzFEcEpUNFNpNXoyQThSZHAwNnEyc2dkUk1RbWs5cFBySEpxaC1LUG5JZUpoNWtEcTBXVnQ3bVZnM0VUZkxNOVh6bU05SHpSUGRv?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-25-naimos-arrests-illegal-miners-osino-destroys-galamsey-equipm",
+      "date": "2026-09-25",
+      "category": "arrest",
+      "title": "NAIMOS Arrests Illegal Miners Osino, Destroys Galamsey Equipment",
+      "place": "Osino",
+      "region": "Eastern",
+      "lat": 6.28,
+      "lon": -0.45,
+      "summary": "NAIMOS Arrests Illegal Miners Osino, Destroys Galamsey Equipment Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXZmd0NUa2tGdy1VQkVzYU9FWVA0bGktMlJ4YmNMQVhoWlVsNEtocUZnSEtxb0prd3RUTkpMd284dkFrMndXLUxpQ0NJM09EUFZvZEZSTjZvNEZfenNSRnpkRWFmVGt2Y0xST29QTlBiYjhKYTh4TzQtRml3NUU4cG9sWWJjZHhPa1RzMl9ncFBkd1lmR1U2blI3UU9TQ0FZVFl5R01xMmhzVFVQVjlpWG1sOGtpcW82TjNsLXA1dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXZmd0NUa2tGdy1VQkVzYU9FWVA0bGktMlJ4YmNMQVhoWlVsNEtocUZnSEtxb0prd3RUTkpMd284dkFrMndXLUxpQ0NJM09EUFZvZEZSTjZvNEZfenNSRnpkRWFmVGt2Y0xST29QTlBiYjhKYTh4TzQtRml3NUU4cG9sWWJjZHhPa1RzMl9ncFBkd1lmR1U2blI3UU9TQ0FZVFl5R01xMmhzVFVQVjlpWG1sOGtpcW82TjNsLXA1dw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
       "id": "auto-2026-09-24-two-shot-in-galamsey-clash-at-behenase-in-eastern-region",
@@ -556,21 +758,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -768,7 +969,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZDdUSVRwZ1lwQTByWUsxZFpqTDdqaTlIYW9oRzMzWURNZ3ZKTTFXVTNKWm9RZDgxaHM2M09WZklidWp6WDZQVFhTUlBhRXFGRlUzamNydnhmT09EU25CcC0zWdIBXEFVX3lxTE44eklseWJmR21EY1h1QlhUdUxsZkJBYVo0SGlVRnM5WHluWGlxNExReFQ5SVlPWU96bzVvOGRNcEtOUzBIQnlsZWw5bW9mcXVhTVBVQkZzSUhZRDFR?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
     },
     {
       "id": "auto-2026-09-22-this-is-very-similar-to-galamsey-rev-matthew-gyamfi-on-drug-",
@@ -5606,7 +5807,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE01b016M21Hc0ZvS0NncXJrQzJjVG9saHpTVS1VdEVwazRYR2FJSGJ5Ukp5bS1DY0RGcVYyZFNpX0NWZTVCb1ZBREVLSXd3blBZeURyYXNyYlhUTmhTRGJWbzF3Z9IBXEFVX3lxTE1xZFFmbXE5RVhzR3JJZWRId0J2N3I0OWxkN2RCTXlNNVk1R0dXTm5oNTdjel9jWHBqNnB0cnhtWC1rRFVfVE5rZkFMSGhnUmJLOEtzcFBLTjFoVzZz?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
       "id": "auto-2026-09-01-galamsey-fight-failing-due-to-politics-official-warns",
