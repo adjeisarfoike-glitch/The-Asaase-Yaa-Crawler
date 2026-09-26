@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26T11:27:36.276Z",
+  "updated": "2026-09-26T16:26:08.636Z",
   "counts": {
-    "total": 912,
+    "total": 915,
     "verified": 28,
-    "automated": 884,
+    "automated": 887,
     "earliest": "2024-07-01",
     "latest": "2026-09-26"
   },
@@ -128,7 +128,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzJwRmxwbHlkYzBmQ3ZNanpHSkotaUFmUnFnNFN2VWI5YVpscjRhMm5sczQwQXVWTUFZaHpwd0pkbGRyZHRoS054amFINGJsQ1dhSVYtMGxaeTVlM2RzbVFERUd2WGlxY0lBODlmcDU2RTNYS19kNG9OcU5uOUxKMDBzWVV3UWNtR2FxbHl5V1V1Nk1ITjQtVGRteGQ2Uk9wYUNPSFlKSHNSalFwaDFhX3NJOFdWMXJpeXJLZ1RQbXlNUDgxaG1Ta1ljTWlwTXdU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-26T16:21:01.807Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-fight-we-won-t-give-up-we-shall-win-the-fight-maham",
@@ -147,7 +148,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUF4LUV1dVZkTFNNb0hGMkFQN3BnOUJYaDMwTlJXUUMyLXRXMGU0ZEdpRmhXXzJ4RUZyM0N3YnVSQVlPWFVCTEJmNW11akJkQVhTYWZldDVTckJ0OURTWl9WWV81NzZKaXdQU2FkdTlzLW9SMjVsbmgtenZ3VFBtcm5xR2V2c1lZOTJzcVEyRzhfSmFWWGlUaHdzSGVMNnF6cnFCUmZMRQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-26T16:21:32.702Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-fight-i-never-said-i-ll-declare-a-state-of-emergenc",
@@ -166,7 +168,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00yWHhPdGJsT3l4MWJnMlVRUlM0QXhGbkhwb0xnSW0xVFctazNZMmRaQkVfTU50QlMtM1JtNGxjQ3gtQmkyTEd1c3JKdkVETkNIQW1JZ3pfTEYtQ1FIc3NRMEJ1VkhHQnFDQWdNajZZd09BWGpDMEo1VGxQd3hiNVd4M2dvcUQ3cFFTSXdjYS1yb29kZktaYQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-26T16:21:57.369Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-fight-more-water-guards-to-be-employed-to-help-john",
@@ -186,7 +189,68 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFhlNjJkeHVadmVMRzNFNjd0bHpSZlItdlJvTm5rWnF5TXRqUTNmU1N5M0g4U2hsNHRuZjlsaHhkbFF1YVc5UHhVMTZCRFVDaGl2a3JkS0Y2N1I0OUdlT2gyQ0ZqMV8xOW1fRkxDVnpnYUJGU1NEVzUxMXQ0MThOaXNhV0xwbHpLMVExcmZVQnFEVVBDU1RsV2E5RzNGTGNX?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-26T16:22:22.123Z",
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-26-i-never-said-i-ll-declare-a-state-of-emergency-president-mah",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "‘I never said I’ll declare a state of emergency’ – President Mahama on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President John Dramani Mahama has dismissed reports that he plans to declare a state of emergency to tackle illegal mining, popularly known as galamsey. Speaking to Ghanaians in New York on Friday, September 25, President Mahama said he had never announced plans to invoke a state of emergency, stressing that such a measure should only […]",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/i-never-said-ill-declare-a-state-of-emergency-president-mahama-on-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/i-never-said-ill-declare-a-state-of-emergency-president-mahama-on-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-26T16:22:52.950Z",
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-09-26-illegal-miners-must-stay-away-from-volta-region",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Illegal miners must stay away from Volta Region",
+      "place": "Volta Region",
+      "region": "Volta",
+      "lat": 6.6,
+      "lon": 0.47,
+      "summary": "The Agbogbomefia of Asogli, Togbe Afede XIV, has warned that any unruly group of individuals who attempt to introduce illegal mining into the Volta Region will suffer swift and ruthless consequences. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Togbe Afede warns",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-illegal-miners-must-stay-away-from-volta-region-togbe-afede-warns.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-illegal-miners-must-stay-away-from-volta-region-togbe-afede-warns.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
+    },
+    {
+      "id": "auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-",
+      "date": "2026-09-26",
+      "category": "arrest",
+      "title": "Study by military calls for stronger coordination to tackle illegal mining in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "The delegation, comprising 61 Ghanaians and nine foreign nationals, made the call after conducting an environmental study tour of the region.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/study-by-military-calls-for-stronger-coordination-to-tackle-illegal-mining-in-western-region"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/study-by-military-calls-for-stronger-coordination-to-tackle-illegal-mining-in-western-region",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-threatens-country-s-coastal-economy-ucc-prof",
