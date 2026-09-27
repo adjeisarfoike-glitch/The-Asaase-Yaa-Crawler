@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-26T21:12:39.392Z",
+  "updated": "2026-09-27T05:20:01.106Z",
   "counts": {
-    "total": 921,
+    "total": 923,
     "verified": 28,
-    "automated": 893,
+    "automated": 895,
     "earliest": "2024-07-01",
     "latest": "2026-09-26"
   },
@@ -252,7 +252,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/study-by-military-calls-for-stronger-coordination-to-tackle-illegal-mining-in-western-region",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T21:07:57.905Z"
+      "archivedAt": "2026-09-26T21:07:57.905Z",
+      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
     },
     {
       "id": "auto-2026-09-26-prez-mahama-speaks-to-ghanaians-in-new-york-on-galamsey-tikt",
@@ -334,6 +335,46 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWJ4WVAzSXVVS2RjNXgzNVdOVkxsQm04Wmd4SGlMWXEwemNBbFN6eGFyVjVwdDg1czd2UmZFd2NUYXlpMzliMFlxVHJCYzFWaFdhRkdiN3dRWmFUdFZjUDJpajNyMy1yczE0QUdYUTJXOW5UTF80aG8zQi1TdDVHSnUydk1NcTMtRU1xU3FNTzN4aDNneEoyLVZaYUNva0J2eUx4Q0pzeHRKdw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-09-26-i-never-said-i-ll-declare-a-state-of-emergency-to-end-galams",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "‘I never said I’ll declare a state of emergency to end galamsey’ – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘I never said I’ll declare a state of emergency to end galamsey’ – Mahama Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMktKa1N3c1ozVEVYWXR2TnhrbWpvb0N1VktZRTdBelVoY0MxSjlDNnR4bUVkRFdwd2dEWnc0a0o4S2plUktRN05TdFhpOE5zLWl5MlJJV3VRVmJ4OXR6a2xXWHZncW44MDRnOHFuOGpOWXBqcmg4ZktFb0Vja3MzU09VcjF3VnJLbG9GdUlNbnZIWlZWOUHSAZQBQVVfeXFMTS1HTkpNLWlIQndoUzVjTXZOekR0ZnZQUkZmSE5Oc21QZWkzNXBzanRjZGhLOXRPSm5uMFl6MmpqWG5ka3RDa2RaeTcxWnZlQ2ZaVXNzeEJJVmZPYms4Skw1NDhUOG1Tdm5IQUhEeTlWTHhYa1dQMTFTUHRkWE9EcHZ2SFlLUDk1aHM3WGJJNzk0Q01EUg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOMktKa1N3c1ozVEVYWXR2TnhrbWpvb0N1VktZRTdBelVoY0MxSjlDNnR4bUVkRFdwd2dEWnc0a0o4S2plUktRN05TdFhpOE5zLWl5MlJJV3VRVmJ4OXR6a2xXWHZncW44MDRnOHFuOGpOWXBqcmg4ZktFb0Vja3MzU09VcjF3VnJLbG9GdUlNbnZIWlZWOUHSAZQBQVVfeXFMTS1HTkpNLWlIQndoUzVjTXZOekR0ZnZQUkZmSE5Oc21QZWkzNXBzanRjZGhLOXRPSm5uMFl6MmpqWG5ka3RDa2RaeTcxWnZlQ2ZaVXNzeEJJVmZPYms4Skw1NDhUOG1Tdm5IQUhEeTlWTHhYa1dQMTFTUHRkWE9EcHZ2SFlLUDk1aHM3WGJJNzk0Q01EUg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-27T05:16:18.560Z"
+    },
+    {
+      "id": "auto-2026-09-26-military-study-ties-western-region-galamsey-to-child-traffic",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Military Study Ties Western Region Galamsey to Child Trafficking",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "Military Study Ties Western Region Galamsey to Child Trafficking NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2I4S2ozejRURUxZT3k5SGJ5d1RibHN0aW0xR0R4bUtkb0ZoS2Z3N25hQTQ3SS1wWDVDZ0UyeW12YTVseHB5ZWVyNXVPU2lNQXdRVlNKd09VWllXa2NPTHVhYmFkM0RReHpkd2lwZFRuVl93aUdTYWU2aHNoNUtmdEtGTnRNNkVseUpaUVVKTG9QNW54?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2I4S2ozejRURUxZT3k5SGJ5d1RibHN0aW0xR0R4bUtkb0ZoS2Z3N25hQTQ3SS1wWDVDZ0UyeW12YTVseHB5ZWVyNXVPU2lNQXdRVlNKd09VWllXa2NPTHVhYmFkM0RReHpkd2lwZFRuVl93aUdTYWU2aHNoNUtmdEtGTnRNNkVseUpaUVVKTG9QNW54?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
     },
     {
       "id": "auto-2026-09-25-galamsey-threatens-country-s-coastal-economy-ucc-prof",
@@ -696,8 +737,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -945,21 +985,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Na1VGM3lORC1xeHVnQ3dybEpQQXBRVG5qRkZ0cl9SY1RZZ1c2bTA3bXo0T0hvazl0b3hfZHZIZDNTcmpqc0dhWjdCSmJ6WENiRjU1VjIwc0RrWXV20gFcQVVfeXFMTk1rVUYzeU5ELXF4dWdDd3JsSlBBcFFUbmpGRnRyX1JjVFlnVzZtMDdtejRPSG9rOXRveF9kdkhkM1NyampzR2FaN0JKYnpYQ2JGNTVWMjBzRGtZdXY?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Na1VGM3lORC1xeHVnQ3dybEpQQXBRVG5qRkZ0cl9SY1RZZ1c2bTA3bXo0T0hvazl0b3hfZHZIZDNTcmpqc0dhWjdCSmJ6WENiRjU1VjIwc0RrWXV20gFcQVVfeXFMTk1rVUYzeU5ELXF4dWdDd3JsSlBBcFFUbmpGRnRyX1JjVFlnVzZtMDdtejRPSG9rOXRveF9kdkhkM1NyampzR2FaN0JKYnpYQ2JGNTVWMjBzRGtZdXY?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -5299,8 +5338,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lcjloWlFQTWJkNW5COFF4UEtLQnYxT0ZmSEVva2V5SVZNR0lkbm1rR2NtRS1VUUxFTG9mM2lmS1VCNl9ZeGJ2YXE3cS1uSUd3aTVicmZ5Z2JRZXZKWHcyY3F0Z9IBXEFVX3lxTE0xU1hOZEZOSDZrRnpsM1pSZDF3YWlZNHBQZy1FVlROSWNCaDBIS0QyM0FyVURWemdRZlBxcmVfVXhtdDRldTFEYWtfR1BXcjJKakhuNEZ2V1ktR05M?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-04-galamsey-or-flood-prevention-military-burns-densu-river-dred"
+      "verified": false
     },
     {
       "id": "auto-2026-09-04-after-getting-the-gold-you-will-get-thirsty-kwaku-bonsam-exp",
@@ -5379,7 +5417,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2hEcGJpNzhlRFlkY0F6bFNBNWJTanlqRUx0T3Z4b1BDMHhFV3hIRnZHRVUwN2ZXUW5NQ0RqLXZ5WEFqSXNXdmJVYWZYUVBXQzZUVzBqVjQ5dmRzZUY2YlBSaG9RSURMeDZKazFRc3ZINGdRelZrWGZGT3YwTGhZVXlSbm82elpRWnBJd2ZaSjRkd0ZPRVdKWWN5YU1hYUhWb0hfbldTUm52X0dyanVYQWtBczNXOG9LVVo2UHQwUDN0LTNTdF9qY1Q2bFV4aGJwa2pXUENUaGV4Zw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-04-galamsey-or-flood-prevention-military-burns-densu-river-dred"
+      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
     },
     {
       "id": "auto-2026-09-04-i-would-rather-die-fighting-galamsey-with-integrity-than-be-",
