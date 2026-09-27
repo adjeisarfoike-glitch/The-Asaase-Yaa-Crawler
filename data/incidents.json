@@ -1,13 +1,32 @@
 {
-  "updated": "2026-09-27T05:20:01.106Z",
+  "updated": "2026-09-27T12:05:25.660Z",
   "counts": {
-    "total": 923,
+    "total": 924,
     "verified": 28,
-    "automated": 895,
+    "automated": 896,
     "earliest": "2024-07-01",
-    "latest": "2026-09-26"
+    "latest": "2026-09-27"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
+      "date": "2026-09-27",
+      "category": "prosecution",
+      "title": "‘No one involved in galamsey will escape prosecution’ – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘No one involved in galamsey will escape prosecution’ – Lands Ministry CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3B6eExraHhqQkdkbmM0bGMtNkJuVzRXXzNCUFE1VmVFUzdSeG8xOWhkaDFJbnlTTHgwaUptcGRXU3I5NUxLLTJRR0ZuODhGa243Um5hS1JvUkliRmR1V3hlOUt6TTZjODJQdGVoY1hQSVBIUnNDbkZTZFhHc1FoRWJBbi1xVWtsOWJVMmMwZ2hIWW5nNUo4MG1WREU4d2ZpMHdkYmFBOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3B6eExraHhqQkdkbmM0bGMtNkJuVzRXXzNCUFE1VmVFUzdSeG8xOWhkaDFJbnlTTHgwaUptcGRXU3I5NUxLLTJRR0ZuODhGa243Um5hS1JvUkliRmR1V3hlOUt6TTZjODJQdGVoY1hQSVBIUnNDbkZTZFhHc1FoRWJBbi1xVWtsOWJVMmMwZ2hIWW5nNUo4MG1WREU4d2ZpMHdkYmFBOA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-09-26-13-arrested-in-osino-for-engaging-in-illegal-mining-activiti",
       "date": "2026-09-26",
@@ -737,7 +756,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -985,20 +1005,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
