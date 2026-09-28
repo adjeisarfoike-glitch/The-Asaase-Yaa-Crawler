@@ -1,13 +1,114 @@
 {
-  "updated": "2026-09-28T05:25:00.491Z",
+  "updated": "2026-09-28T13:54:41.461Z",
   "counts": {
-    "total": 926,
+    "total": 932,
     "verified": 28,
-    "automated": 898,
+    "automated": 904,
     "earliest": "2024-07-01",
-    "latest": "2026-09-27"
+    "latest": "2026-09-28"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-28-galamsey-mahama-s-denial-on-state-of-emergency-insincere-ibr",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Galamsey: Mahama’s denial on state of emergency insincere – Ibrahim Adjei",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Mahama’s denial on state of emergency insincere – Ibrahim Adjei CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjJfUU5hWlI5NEhGV09scUN4WGhhRTE2TjBMcGU4dy1hSF9fenYzWWZSWXJOR3hxOEI1OHJlMF9DbWRTVDFDSWwyYVhIbU91bkRTdW1MbmdXcUpBT3o2TTJ6NjJwTjM4NS1fQmk0dmJ5QXVCTXUyVkJNV0xGYmVuUGxGWV9VQmhmRzJRRUVtX2lBQ0xZSXBQcWF5MzJqN1NCRUl0SmVYWjgyTEE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjJfUU5hWlI5NEhGV09scUN4WGhhRTE2TjBMcGU4dy1hSF9fenYzWWZSWXJOR3hxOEI1OHJlMF9DbWRTVDFDSWwyYVhIbU91bkRTdW1MbmdXcUpBT3o2TTJ6NjJwTjM4NS1fQmk0dmJ5QXVCTXUyVkJNV0xGYmVuUGxGWV9VQmhmRzJRRUVtX2lBQ0xZSXBQcWF5MzJqN1NCRUl0SmVYWjgyTEE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-28T13:49:31.109Z",
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-09-28-galamsey-either-mahama-is-lying-or-suffering-amnesia-for-den",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Galamsey: 'Either Mahama is lying or suffering amnesia for denying promise to declare state of emergency' – Ibrahim Adjei",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: 'Either Mahama is lying or suffering amnesia for denying promise to declare state of emergency' – Ibrahim Adjei Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUctZTVhMTBOb2JYTExzeTBWYllfXzltek1GRGx5STVKYTZRekxMcEd2TUIzOUVyc01xYUtUVWhlQXNOSEVQZDhnWG5IQW9ZZlluN3dnNTZhWkhNNzVtcTVsY1pVM0FQcmQ0LVNFNDU0Q0NlUWtybmNRX0NhS19kdjctZU5tYkNFQnlNSHBlSEVocU1a0gGTAUFVX3lxTE03X2RVZ2dwVENJUVlFYURveVp0S3pXa0NaanpjMExMUS1wSmFLWnhfc0pZMWY0ZmloOVJVNTBpcm9aX1Y0dU9pZUdMR0EzUUFkcTViTTJRX21IN05XRy11U1dqZWRuSHFYZU5ENzRZNTRlVUJsZ3V6Sy1kTVpYVFZ0cklDYThfMTBocU9EVEsyOUFvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUctZTVhMTBOb2JYTExzeTBWYllfXzltek1GRGx5STVKYTZRekxMcEd2TUIzOUVyc01xYUtUVWhlQXNOSEVQZDhnWG5IQW9ZZlluN3dnNTZhWkhNNzVtcTVsY1pVM0FQcmQ0LVNFNDU0Q0NlUWtybmNRX0NhS19kdjctZU5tYkNFQnlNSHBlSEVocU1a0gGTAUFVX3lxTE03X2RVZ2dwVENJUVlFYURveVp0S3pXa0NaanpjMExMUS1wSmFLWnhfc0pZMWY0ZmloOVJVNTBpcm9aX1Y0dU9pZUdMR0EzUUFkcTViTTJRX21IN05XRy11U1dqZWRuSHFYZU5ENzRZNTRlVUJsZ3V6Sy1kTVpYVFZ0cklDYThfMTBocU9EVEsyOUFvZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-09-28-the-galamsey-fight-is-moving-but-communities-need-results-no",
+      "date": "2026-09-28",
+      "category": "arrest",
+      "title": "The galamsey fight is moving - but communities need results, not raid counts",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The galamsey fight is moving - but communities need results, not raid counts Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2VBWTMwQjJNZ1JvVXZ1c3Fqc3FTNzBHQWdyVEJ6ZWFtQkZVaEpUejc4OEx2dFBhUF9heF9HLUR0TjBscXNpQmR4ZHB5X1I4UlB6MWw5d0dCMHZacjZySUc4WW85emU3UWtxc1JXMjRiSHptMmkwdlh5WENHTW4zNEg4b0Z0dDRkLUNQZEdheUVZbmJzUml0Mk1JQmhuZGM1dm5oY0JBOEk2QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2VBWTMwQjJNZ1JvVXZ1c3Fqc3FTNzBHQWdyVEJ6ZWFtQkZVaEpUejc4OEx2dFBhUF9heF9HLUR0TjBscXNpQmR4ZHB5X1I4UlB6MWw5d0dCMHZacjZySUc4WW85emU3UWtxc1JXMjRiSHptMmkwdlh5WENHTW4zNEg4b0Z0dDRkLUNQZEdheUVZbmJzUml0Mk1JQmhuZGM1dm5oY0JBOEk2QQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-28T13:50:08.219Z",
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Communities must help sustain gains in illegal mining fight – NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Communities must help sustain gains in illegal mining fight – NAIMOS Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
+      "date": "2026-09-28",
+      "category": "policy",
+      "title": "Demonstrate stronger integrity, accountability to achieve your mandate - Dr Agyeman-Rawlings urges EPA",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Minister of Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has urged the Environmental Protection Authority (EPA) to demonstrate stronger integrity, transparency and accountability in the discharge of its regulatory duties to restore public confidence in the institution. She said the credibility of the authority depended largely on ensuring that environmental laws were applied fairly and consis",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-demonstrate-stronger-integrity-accountability-to-achieve-your-mandate-dr-agyeman-rawlings-urges-epa.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-demonstrate-stronger-integrity-accountability-to-achieve-your-mandate-dr-agyeman-rawlings-urges-epa.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
       "date": "2026-09-27",
@@ -798,7 +899,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1050,20 +1152,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -2479,6 +2582,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+    },
+    {
+      "id": "auto-2026-09-15-12-suspected-illegal-miners-arrested-in-ghana-forest-reserve",
+      "date": "2026-09-15",
+      "category": "arrest",
+      "title": "12 suspected illegal miners arrested in Ghana forest reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "12 suspected illegal miners arrested in Ghana forest reserve UA.NEWS",
+      "metrics": {},
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVnanBFelVyRC1VYmVuNjhiZzltR1UzNXVIOUtLVC0xaWQwMUd4SU1nMkVadVJJeU1rc3BxZ01DQWNFRWF3VUVaYm1jVkVJaFJYZklVQnlZT3pmOXlrNDhLMlBJZkJFMFpIeVZWalVDb2ZNSXFsR2QtVDhjZGQzbk51TV9QMWxLSG1IRzlYQlVZRm5pdnpMNkRHRFpHWGtiRU01eEZ6T3Zidw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVnanBFelVyRC1VYmVuNjhiZzltR1UzNXVIOUtLVC0xaWQwMUd4SU1nMkVadVJJeU1rc3BxZ01DQWNFRWF3VUVaYm1jVkVJaFJYZklVQnlZT3pmOXlrNDhLMlBJZkJFMFpIeVZWalVDb2ZNSXFsR2QtVDhjZGQzbk51TV9QMWxLSG1IRzlYQlVZRm5pdnpMNkRHRFpHWGtiRU01eEZ6T3Zidw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-14-china-angry-over-nationals-involvement-in-galamsey-kojo-bons",
