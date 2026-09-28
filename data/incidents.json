@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-28T13:54:41.461Z",
+  "updated": "2026-09-28T23:19:52.318Z",
   "counts": {
-    "total": 932,
+    "total": 939,
     "verified": 28,
-    "automated": 904,
+    "automated": 911,
     "earliest": "2024-07-01",
     "latest": "2026-09-28"
   },
@@ -47,6 +47,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUctZTVhMTBOb2JYTExzeTBWYllfXzltek1GRGx5STVKYTZRekxMcEd2TUIzOUVyc01xYUtUVWhlQXNOSEVQZDhnWG5IQW9ZZlluN3dnNTZhWkhNNzVtcTVsY1pVM0FQcmQ0LVNFNDU0Q0NlUWtybmNRX0NhS19kdjctZU5tYkNFQnlNSHBlSEVocU1a0gGTAUFVX3lxTE03X2RVZ2dwVENJUVlFYURveVp0S3pXa0NaanpjMExMUS1wSmFLWnhfc0pZMWY0ZmloOVJVNTBpcm9aX1Y0dU9pZUdMR0EzUUFkcTViTTJRX21IN05XRy11U1dqZWRuSHFYZU5ENzRZNTRlVUJsZ3V6Sy1kTVpYVFZ0cklDYThfMTBocU9EVEsyOUFvZw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-28T23:14:51.839Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
@@ -108,6 +109,145 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-09-28-galamsey-and-state-of-emergency-debate-what-will-it-take-to-",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Galamsey and State of Emergency Debate: What Will It Take to End Illegal Mining?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey and State of Emergency Debate: What Will It Take to End Illegal Mining? Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fa0xZdVlzYTVkUHdhaWJ6Q0REamdiNmJPQl80anBkcHZXdVktXzFRMEhWU3Atc1JhTTM1LVBjcmFyemh1bndJdHkxZWJTTDd2M1VhcHJNanZMdEk0T2xB0gFcQVVfeXFMTmZ1OWUyX3RZMEcwbmwzZlYxNE5mSGoxVGNsbzBRTG1PbXZEcHhGa1VjVW9uVzRFRHZnZ0I5ZjdoRVlIemhsS25HUW9ibENhUzJ1d0dZOHhhVzF3bFY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Fa0xZdVlzYTVkUHdhaWJ6Q0REamdiNmJPQl80anBkcHZXdVktXzFRMEhWU3Atc1JhTTM1LVBjcmFyemh1bndJdHkxZWJTTDd2M1VhcHJNanZMdEk0T2xB0gFcQVVfeXFMTmZ1OWUyX3RZMEcwbmwzZlYxNE5mSGoxVGNsbzBRTG1PbXZEcHhGa1VjVW9uVzRFRHZnZ0I5ZjdoRVlIemhsS25HUW9ibENhUzJ1d0dZOHhhVzF3bFY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-28T23:15:53.535Z",
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-09-28-galamsey-crisis-elvis-darko-challenges-government-s-claim-th",
+      "date": "2026-09-28",
+      "category": "policy",
+      "title": "Galamsey Crisis: Elvis Darko Challenges Government’s Claim That Illegal Mining Is Under Control",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Crisis: Elvis Darko Challenges Government’s Claim That Illegal Mining Is Under Control Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YbDAya3QzcklFa1BlQkdCU1NYSGdKdUlLNVBRRXVWWVB4ZGlIbVBNN1piUXlGWDZnNWxSWkdGR1l4M3d4RGFOdl9nWTNzdEFkLUgtLUVOdnZWZFZDMDZzV1J1RdIBXEFVX3lxTFBLUjJ2a2xwb1htbzRicExWRlR3WVNJODBpNmQxdnBPSjZHc1VRWTlGUHMzRkNjenNjTEQ4clprOWlCWkFUUE9xN3JZSkdsa0pMeDFEdnptX2xXc3Nl?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YbDAya3QzcklFa1BlQkdCU1NYSGdKdUlLNVBRRXVWWVB4ZGlIbVBNN1piUXlGWDZnNWxSWkdGR1l4M3d4RGFOdl9nWTNzdEFkLUgtLUVOdnZWZFZDMDZzV1J1RdIBXEFVX3lxTFBLUjJ2a2xwb1htbzRicExWRlR3WVNJODBpNmQxdnBPSjZHc1VRWTlGUHMzRkNjenNjTEQ4clprOWlCWkFUUE9xN3JZSkdsa0pMeDFEdnptX2xXc3Nl?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-illegal-mining-has-escalated-under-the-ndc-governme"
+    },
+    {
+      "id": "auto-2026-09-28-the-key-points-galamsey-and-state-of-emergency-debate",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "The Key Points: Galamsey and State of Emergency Debate",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Key Points: Galamsey and State of Emergency Debate Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZZmJnNDZtWWQ4SjFiRkhBakR1V3ltMHBCY2JSQlNtTm1YblQ2djA2aGI4bUp4cnJFUnVDN3JvSUhrQlk0aE5xSHJvM3VVSjZ4NUdYXzZ0NUE4X0ZH0gFcQVVfeXFMTVlmYmc0Nm1ZZDhKMWJGSEFqRHVXeW0wcEJjYlJCU21ObVhuVDZ2MDZoYjhtSnhyckVSdUM3cm9JSGtCWTRoTnFIcm8zdVVKNng1R1hfNnQ1QThfRkc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZZmJnNDZtWWQ4SjFiRkhBakR1V3ltMHBCY2JSQlNtTm1YblQ2djA2aGI4bUp4cnJFUnVDN3JvSUhrQlk0aE5xSHJvM3VVSjZ4NUdYXzZ0NUE4X0ZH0gFcQVVfeXFMTVlmYmc0Nm1ZZDhKMWJGSEFqRHVXeW0wcEJjYlJCU21ObVhuVDZ2MDZoYjhtSnhyckVSdUM3cm9JSGtCWTRoTnFIcm8zdVVKNng1R1hfNnQ1QThfRkc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-09-28-galamsey-is-a-national-crisis-we-must-move-beyond-partisan-a",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Galamsey Is a National Crisis: “We Must Move Beyond Partisan Arguments” — Paa Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Is a National Crisis: “We Must Move Beyond Partisan Arguments” — Paa Kwesi Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWHNBZFQtRHVCREItSjcxODhKSlh4WExJZ01vV1hnbGlocXpkR2JNcko1RlB4NUtCa0RQU3lxTEY4Zkd5Y0lnd1QyMkJxTmE1VHlKZFRRVUwxMlN20gFcQVVfeXFMUEhYc0FkVC1EdUJEQi1KNzE4OEpKWHhYTElnTW9XWGdsaWhxemRHYk1ySjVGUHg1S0JrRFBTeXFMRjhmR3ljSWd3VDIyQnFOYTVUeUpkVFFVTDEyU3Y?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWHNBZFQtRHVCREItSjcxODhKSlh4WExJZ01vV1hnbGlocXpkR2JNcko1RlB4NUtCa0RQU3lxTEY4Zkd5Y0lnd1QyMkJxTmE1VHlKZFRRVUwxMlN20gFcQVVfeXFMUEhYc0FkVC1EdUJEQi1KNzE4OEpKWHhYTElnTW9XWGdsaWhxemRHYk1ySjVGUHg1S0JrRFBTeXFMRjhmR3ljSWd3VDIyQnFOYTVUeUpkVFFVTDEyU3Y?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-09-28-let-s-de-escalate-the-politics-naimos-on-tackling-galamsey",
+      "date": "2026-09-28",
+      "category": "policy",
+      "title": "'Let’s de-escalate the politics' - NAIMOS on tackling galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Let’s de-escalate the politics' - NAIMOS on tackling galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWduUFFlci13WGdQWUZ0YzdPX3ZMWGl2a2J3SXJ6ckZ2U0g2eEdsWWI5XzB5cnFuV0RGbWxXZjV2b3NLNi1RTGFRaENXbldSUkpBdzQ1N2FnbVhOd2hqRGEyd09Zd1pTSzgwWWRXX0lWcTUzTW9TNXJIdWxxcVBSMTQ5X29JM2NBZjRKRTFSTVVhbG4wYTlMeG1zUEFnTHZYeXNBUGVaM1FCQ1dFVUJkblJfbVJiTEQx?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWduUFFlci13WGdQWUZ0YzdPX3ZMWGl2a2J3SXJ6ckZ2U0g2eEdsWWI5XzB5cnFuV0RGbWxXZjV2b3NLNi1RTGFRaENXbldSUkpBdzQ1N2FnbVhOd2hqRGEyd09Zd1pTSzgwWWRXX0lWcTUzTW9TNXJIdWxxcVBSMTQ5X29JM2NBZjRKRTFSTVVhbG4wYTlMeG1zUEFnTHZYeXNBUGVaM1FCQ1dFVUJkblJfbVJiTEQx?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-28-tano-basin-secretariat-raises-alarm-over-galamsey-pollution-",
+      "date": "2026-09-28",
+      "category": "water",
+      "title": "Tano Basin Secretariat raises alarm over galamsey pollution in Ahafo Region",
+      "place": "Ahafo Region",
+      "region": "Ahafo",
+      "lat": 6.8,
+      "lon": -2.52,
+      "summary": "Tano Basin Secretariat raises alarm over galamsey pollution in Ahafo Region Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORU5iUmU5a0lfTjc3QzdrSVY4MUNteW5lU1NibUdxUmc1LW5mVnR3SGtQQWEzSjFFcXJaUWtCMkV2aWdvUGFRbFdjZFpKVVpldFpFSkdBb3NfSWJ1Si1LSjdOOXZNWlNNalRaLVZiWEx3M1FiTXh6cHNKR19JSTJvb1VqM1B6MEhaZFI0RFpreDdwVjVxVWpmQkstd1NYczMySVpaRlRn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxORU5iUmU5a0lfTjc3QzdrSVY4MUNteW5lU1NibUdxUmc1LW5mVnR3SGtQQWEzSjFFcXJaUWtCMkV2aWdvUGFRbFdjZFpKVVpldFpFSkdBb3NfSWJ1Si1LSjdOOXZNWlNNalRaLVZiWEx3M1FiTXh6cHNKR19JSTJvb1VqM1B6MEhaZFI0RFpreDdwVjVxVWpmQkstd1NYczMySVpaRlRn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
+    },
+    {
+      "id": "auto-2026-09-28-ghana-child-labour-monitoring-system-introduced-to-strengthe",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Ghana Child Labour Monitoring System introduced to strengthen fight against menace",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The system is particularly relevant to sectors including agriculture, artisanal and small-scale mining, domestic work and other areas of the informal economy where children may be exposed to hazardous working conditions.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/ghana-child-labour-monitoring-system-introduced-to-strengthen-fight-against-menace"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ghana-child-labour-monitoring-system-introduced-to-strengthen-fight-against-menace",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
@@ -737,7 +877,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGF4UU1ZM0pkYkhxRk9scW93dW9UV1NCV1I3NkJ6RWxZNjVFX2VQSGxjTzYtaEVNZFB4N2xpQ0lGdGt1d1J3MDdNZ2xSa2xPdDBZQlZvRzZTMFhQRkszcjQ5QUhGbnBxbVdDSzc1Wk1QQU5hMVAxRl9wVVZobjJocEpVSDZsX1Fwc211c1kwcldmcXZISlcwYW1wOA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-28T23:19:46.092Z"
     },
     {
       "id": "auto-2026-09-25-15-year-old-bernard-arrested-by-naimos-for-engaging-in-illeg",
@@ -899,8 +1040,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1152,21 +1292,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -3654,8 +3793,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaOUFBY3k3UjhKUm9Gb0JtOFlMazh0M3VyalBCQ2dBV1p0eW1abnQzYzMyYXgxNzFqcnl2bTQtMnd3VzRRUy1MSGFoU014dERlQmRReXhpSlcydGlIYWRpNnRUN1nSAVxBVV95cUxOTGppUzU4X0QwNU5wNldhM3pqUnFsaW4zOURUb0E3NFdSN1REd3JfelJtNGtCVHFWQU0wVU1qNGVlUXd6aEttamdWdmRla3BHcmJvUlRtbTVFclF1dQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "verified": false
     },
     {
       "id": "auto-2026-09-11-galamsey-kids",
@@ -10578,7 +10716,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFVxZkNBQ3gyNE40Zlp6U3dFQ0NDNG45MWZJWF8zVGF6NVlKNHZMSU1hdFN2SG5ITjJla3hWV0d2SmRfWEc0NFlybUNLMkcyaTFIZmVBRnVXN3ZsMzNkZnlEeC1IRzRTRVlwT3RMLVRUUXEwLUtfekdNOGdWZmpaeGlFVlVtNUZKZ1VLZjFhT2VrWFZ6dVHSAZYBQVVfeXFMT1BVcWZDQUN4MjRONGZaelN3RUNDQzRuOTFmSVhfM1RhejVZSjR2TElNYXRTdkhuSE4yZWt4VldHdkpkX1hHNDRZcm1DSzJHMmkxSGZlQUZ1Vzd2bDMzZGZ5RHgtSEc0U0VZcE90TC1UVFFxMC1LX3pHTThnVmZqWnhpRVZVbTVGSmdVS2YxYU9la1hWenVR?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-11-youth-must-shun-galamsey-to-protect-ghana-s-future-rev-sgt-b"
     },
     {
       "id": "auto-2026-08-21-panama-arrested-six-people-accused-of-diverting-a-stream-s-c",
@@ -14148,7 +14286,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-12T13:49:43.025Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-11-youth-must-shun-galamsey-to-protect-ghana-s-future-rev-sgt-b"
     },
     {
       "id": "auto-2026-08-11-berekum-residents-protest-galamsey-destruction-of-farmlands-",
