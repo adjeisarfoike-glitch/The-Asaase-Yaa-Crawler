@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-29T12:54:14.764Z",
+  "updated": "2026-09-29T22:17:34.409Z",
   "counts": {
-    "total": 947,
+    "total": 949,
     "verified": 28,
-    "automated": 919,
+    "automated": 921,
     "earliest": "2024-07-01",
     "latest": "2026-09-29"
   },
@@ -53,22 +53,21 @@
       "id": "auto-2026-09-29-from-pretence-and-raids-to-reform-a-new-strategy-for-galamse",
       "date": "2026-09-29",
       "category": "arrest",
-      "title": "From pretence and raids to reform; a new strategy for galamsey – Senyo Hosi writes",
+      "title": "From Pretence and Raids to Reform - A new strategy for galamsey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "From pretence and raids to reform; a new strategy for galamsey – Senyo Hosi writes CitiNewsroom.com",
+      "summary": "From Pretence and Raids to Reform - A new strategy for galamsey GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "CitiNewsroom.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkx5c2lCVnZDX09TcGhySVg5TmVHVnQyV2k2TXV3MGZ6MENhSEljVnQwdzNKcXpBYkk3NFNCZjV0MEdXOV9pNkpNelJDQmVMMFV2VGFsejczc2JKX194Q3M0Q3ZSWHNPY2w3Yng2Qy1tNnJWbnZFZF9UTHZ1eFdmaHNtQWp1RzgtZ1htV2dIeFQzSUluMWRqZHd2U2ZIQUFfdkxEZkZiOVgxQjlSamlxMUMyVm9aZGFE?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJiU3FNQ0Z2eG1NNF9SMURtc3VGSzNmYmdHNGxYZVdqeFZja3N3Z1diYWdYUDFEWkNTQS1CRFJjVlhVVHVBY25KeUxFcG4wZXFXdHVRQVY3cTl3c09iWTkzLWhoVzlaSm11WmdRaURyYzhzTmdlT0JCSmhJdkJwb0JpYVg1UEhnVEtCOHJhUDQxWWp0R05kejVYU3FQQVlRby1jMUJSeUdYVGZVTU1jNms2SktuSDNX?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTkx5c2lCVnZDX09TcGhySVg5TmVHVnQyV2k2TXV3MGZ6MENhSEljVnQwdzNKcXpBYkk3NFNCZjV0MEdXOV9pNkpNelJDQmVMMFV2VGFsejczc2JKX194Q3M0Q3ZSWHNPY2w3Yng2Qy1tNnJWbnZFZF9UTHZ1eFdmaHNtQWp1RzgtZ1htV2dIeFQzSUluMWRqZHd2U2ZIQUFfdkxEZkZiOVgxQjlSamlxMUMyVm9aZGFE?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJiU3FNQ0Z2eG1NNF9SMURtc3VGSzNmYmdHNGxYZVdqeFZja3N3Z1diYWdYUDFEWkNTQS1CRFJjVlhVVHVBY25KeUxFcG4wZXFXdHVRQVY3cTl3c09iWTkzLWhoVzlaSm11WmdRaURyYzhzTmdlT0JCSmhJdkJwb0JpYVg1UEhnVEtCOHJhUDQxWWp0R05kejVYU3FQQVlRby1jMUJSeUdYVGZVTU1jNms2SktuSDNX?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T12:49:15.607Z",
-      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+      "archivedAt": "2026-09-29T22:13:00.142Z"
     },
     {
       "id": "auto-2026-09-29-galamsey-naimos-faces-new-challenge-as-locals-shield-miners-",
@@ -129,6 +128,46 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+    },
+    {
+      "id": "auto-2026-09-29-beyond-galamsey-an-urgent-call-for-visionary-local-and-inter",
+      "date": "2026-09-29",
+      "category": "forest",
+      "title": "Beyond Galamsey: An Urgent Call For Visionary Local And International Capital To Unlock The Industrial Salt And Eco-Tourism Frontiers Of The Keta Lagoon Enclave",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Beyond Galamsey: An Urgent Call For Visionary Local And International Capital To Unlock The Industrial Salt And Eco-Tourism Frontiers Of The Keta Lagoon Enclave Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNek9SdWs2dVVBYkV0UWJXcG1UbWEydWdScXRITFNmbzlIM21pYlhBa3VFTklkZ0pIVU9NOE4xcE1lbkxDc2VTTjc1cjRPcDdnRWJjUnZJeG5VcllYcmNTMjRPTjg3YWVRb0RvUkpXcmpnWXYwdzVJNmlEU2hmTi1yaXIxX19YUERTRXJFdm0wNjFSY0xDdUNLX3VR0gGaAUFVX3lxTE16T1J1azZ1VUFiRXRRYldwbVRtYTJ1Z1JxdEhMU2ZvOUgzbWliWEFrdUVOSWRnSkhVT004TjFwTWVuTENzZVNONzVyNE9wN2dFYmNSdkl4blVyWVhyY1MyNE9OODdhZVFvRG9SSldyamdZdjB3NUk2aURTaGZOLXJpcjFfX1hQRFNFckV2bTA2MVJjTEN1Q0tfdVE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNek9SdWs2dVVBYkV0UWJXcG1UbWEydWdScXRITFNmbzlIM21pYlhBa3VFTklkZ0pIVU9NOE4xcE1lbkxDc2VTTjc1cjRPcDdnRWJjUnZJeG5VcllYcmNTMjRPTjg3YWVRb0RvUkpXcmpnWXYwdzVJNmlEU2hmTi1yaXIxX19YUERTRXJFdm0wNjFSY0xDdUNLX3VR0gGaAUFVX3lxTE16T1J1azZ1VUFiRXRRYldwbVRtYTJ1Z1JxdEhMU2ZvOUgzbWliWEFrdUVOSWRnSkhVT004TjFwTWVuTENzZVNONzVyNE9wN2dFYmNSdkl4blVyWVhyY1MyNE9OODdhZVFvRG9SSldyamdZdjB3NUk2aURTaGZOLXJpcjFfX1hQRFNFckV2bTA2MVJjTEN1Q0tfdVE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
+    {
+      "id": "auto-2026-09-29-psgh-marks-90th-anniversary-calls-for-urgent-action-on-medic",
+      "date": "2026-09-29",
+      "category": "forest",
+      "title": "PSGH Marks 90th Anniversary, Calls For Urgent Action On Medicines Security, Workforce And Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PSGH Marks 90th Anniversary, Calls For Urgent Action On Medicines Security, Workforce And Galamsey DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1ZPMnVTb3ZQTThIUWV5eGFKbmFYZXotYUUwaEVDR25ZSGlnNUljNUVKSkZPLVY0NHZzSGZRcFZWeGVURVNfVUQxcWc4RUJVWVMwYzBZRlh3OHpreV80THBLa1pSbmhCd1FzVU5Lb1JkTUxwY1ZsTi1jS1praF9QWkVsVldPSGFyVzY4dmlIdEE1ekJpV2RvQkNlc29QRzBUXzA3ZnNHZkFvMTd6cWdUTEdPSkpXbHc1RGZTdGYzMnl6TFpZMFE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1ZPMnVTb3ZQTThIUWV5eGFKbmFYZXotYUUwaEVDR25ZSGlnNUljNUVKSkZPLVY0NHZzSGZRcFZWeGVURVNfVUQxcWc4RUJVWVMwYzBZRlh3OHpreV80THBLa1pSbmhCd1FzVU5Lb1JkTUxwY1ZsTi1jS1praF9QWkVsVldPSGFyVzY4dmlIdEE1ekJpV2RvQkNlc29QRzBUXzA3ZnNHZkFvMTd6cWdUTEdPSkpXbHc1RGZTdGYzMnl6TFpZMFE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
     },
     {
       "id": "auto-2026-09-28-galamsey-mahama-s-denial-on-state-of-emergency-insincere-ibr",
@@ -1184,7 +1223,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1435,20 +1475,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
