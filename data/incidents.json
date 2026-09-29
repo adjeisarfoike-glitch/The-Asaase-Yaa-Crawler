@@ -1,13 +1,33 @@
 {
-  "updated": "2026-09-28T23:19:52.318Z",
+  "updated": "2026-09-29T05:46:02.274Z",
   "counts": {
-    "total": 939,
+    "total": 942,
     "verified": 28,
-    "automated": 911,
+    "automated": 914,
     "earliest": "2024-07-01",
-    "latest": "2026-09-28"
+    "latest": "2026-09-29"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
+      "date": "2026-09-29",
+      "category": "policy",
+      "title": "Galamsey fight requires collective national effort – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight requires collective national effort – Lands Ministry CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjh5ZWtxM1VYVDN1V1pkZ3dTMXpMUk5wSV9POExRNGlDY3NER2V2dkh2Sy1SZExXdHRpdXB1ZXhXbHRrWmExdHlIRjY1d0xrYkVRX2JoRVhiaVhOcUxpRWdlQ3ZqcjJyOGhKMTFoX0FFTGhIaU5wRU5hbks2eVg4SThlMVBEZjVXNEZEbDZqWVgtY3dFZTdBcGpaYzctU1NSUnJYRjh3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjh5ZWtxM1VYVDN1V1pkZ3dTMXpMUk5wSV9POExRNGlDY3NER2V2dkh2Sy1SZExXdHRpdXB1ZXhXbHRrWmExdHlIRjY1d0xrYkVRX2JoRVhiaVhOcUxpRWdlQ3ZqcjJyOGhKMTFoX0FFTGhIaU5wRU5hbks2eVg4SThlMVBEZjVXNEZEbDZqWVgtY3dFZTdBcGpaYzctU1NSUnJYRjh3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-29T05:41:07.369Z"
+    },
     {
       "id": "auto-2026-09-28-galamsey-mahama-s-denial-on-state-of-emergency-insincere-ibr",
       "date": "2026-09-28",
@@ -88,7 +108,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-29T05:41:31.699Z"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
@@ -108,6 +129,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-demonstrate-stronger-integrity-accountability-to-achieve-your-mandate-dr-agyeman-rawlings-urges-epa.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-29T05:42:02.885Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -250,6 +272,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-09-28-galamsey-state-of-emergency-ibrahim-adjei-questions-mahama-s",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Galamsey State of Emergency: Ibrahim Adjei Questions Mahama’s Change in Position | Breakfast Daily",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey State of Emergency: Ibrahim Adjei Questions Mahama’s Change in Position | Breakfast Daily Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwaHV6aGFyVjQyUTJ2ZzFNdURwcXNfSlp3WHVtazVuaVkxel94djBVekd5M0M1QWJ1S3BOOVlLSVBNU3huQ25SR0ZQVjlBTjB6c3RvR2tNTTdsMEpSOU9sTUhxWdIBXEFVX3lxTE1pUXAyVzVseEVkVU5JRnN3SGhOcE82UlhUMVVndk9jSXZpY1JEOGJPSWtnWEc5bl9GSUhwX1Y4aTZXUnpOSGdtV3JKeUlWUDRmYnFYMElJbFJjekds?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwaHV6aGFyVjQyUTJ2ZzFNdURwcXNfSlp3WHVtazVuaVkxel94djBVekd5M0M1QWJ1S3BOOVlLSVBNU3huQ25SR0ZQVjlBTjB6c3RvR2tNTTdsMEpSOU9sTUhxWdIBXEFVX3lxTE1pUXAyVzVseEVkVU5JRnN3SGhOcE82UlhUMVVndk9jSXZpY1JEOGJPSWtnWEc5bl9GSUhwX1Y4aTZXUnpOSGdtV3JKeUlWUDRmYnFYMElJbFJjekds?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
       "date": "2026-09-27",
       "category": "prosecution",
@@ -349,7 +391,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -369,8 +411,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUlFZS2VSRFNxcWRvLXFVemVsUmdCbzZOZjNTVmFISmZkdnV4MUpIZHhvaGdWVDhuWl9kbS12ekNFQXV5WXhQZjlLXzhHcDJySEJXeWhEU2JZQ2Y1RTZteVRhWdIBXEFVX3lxTFBBc2pvQXNNbFFVN1BvbDA2aTFMVG5XMHprc3VnYnZudTVrbXpqZllDMEVJN0xtNklqUmZ4eDIydDYxYlcxWUNwZ3pkcm1BM0ZfWXhDODVjTGppVnN2?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T11:22:08.950Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "archivedAt": "2026-09-26T11:22:08.950Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
@@ -615,8 +656,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEdKTEU3QVNzYXJBNGloeFNjcHVHNUVfcUFJa1JKem9scmY1Qml5dUh5N25IbmdoN18wd0prOXJ5Q1VpQkY3LWtRcXZsNXpobG9xRHo1YVRueFZzTkRVUE9RaDJxeWlXbUhGWlFpdy1rdzNBV1dBdi1QYkNCdDdVcVVERlpaSkFvcUg5Rl9feDlFR2hm?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "verified": false
     },
     {
       "id": "auto-2026-09-26-stakeholders-demand-action-against-foreign-led-illegal-minin",
@@ -858,6 +898,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1FxUjhjUHJQTmtxSkIyOVBPaVpPcDE0QkJld3hKMjdpSGY1R1dMTlhXMGtpYmZlVHFEVkllaHdDY2dGdVl4aUs5UWh1b1pPUkJTOGVQbVpYUC1xdkp3WnpOYTI5cV9EWjVDUkM5UU5YSWlxWGJYUFJ1OThzVkp3RFJERWJSM19POUNCbWpUQ1hFQWVGMnFVYVl1eWZUaTFlTFRndmNIUzBiYzNYVlBiQVgyY3oyNWdnNlhTbEVRdE9HdE9DYW9FeGs0Sjc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-09-29T05:45:43.717Z",
       "thread": "t-auto-2026-08-11-naimos-launches-major-operation-to-clear-illegal-mining-alon"
     },
     {
@@ -1040,7 +1081,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1292,20 +1334,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -1991,6 +2034,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-18-we-cannot-afford-to-normalise-this-sammi-awuku-sounds-alarm-"
+    },
+    {
+      "id": "auto-2026-09-18-40-forest-reserves-were-given-out-for-galamsey-under-npp-pro",
+      "date": "2026-09-18",
+      "category": "forest",
+      "title": "40 forest reserves were given out for galamsey under NPP - Prof Frimpong-Boateng alleges",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "40 forest reserves were given out for galamsey under NPP - Prof Frimpong-Boateng alleges GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdzZBWlJ2ZFhuOWtOdHNSbGFUZ1JtMVNmdXpZWERfOTdMbDR0dTFMOUowc1FOTFBvdlJKOW9rT0JjR1FDa05LVEpPWkhHY2RwM29Mb2NhQjYyaS1YTWh5eGF1Um5qQmQyZV9vZi1iYVVVa1o5SlR4eE1uanpPQXpReFh3VW5rQzcwVmxtRExPR19pWHB5bmlFYWY1WTRDUFlndUlJaGRzWUE1YmRad0EtVVVLSmh0eGU2OGRyZ2JSSmExNUQ4WUVTUDRsb0s4bGRHQmRjdWV4MEhzcEJkUFVpTkZZdXVMNkNfeWdBUE9EdUpDNGtXY1RxVHNKbw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdzZBWlJ2ZFhuOWtOdHNSbGFUZ1JtMVNmdXpZWERfOTdMbDR0dTFMOUowc1FOTFBvdlJKOW9rT0JjR1FDa05LVEpPWkhHY2RwM29Mb2NhQjYyaS1YTWh5eGF1Um5qQmQyZV9vZi1iYVVVa1o5SlR4eE1uanpPQXpReFh3VW5rQzcwVmxtRExPR19pWHB5bmlFYWY1WTRDUFlndUlJaGRzWUE1YmRad0EtVVVLSmh0eGU2OGRyZ2JSSmExNUQ4WUVTUDRsb0s4bGRHQmRjdWV4MEhzcEJkUFVpTkZZdXVMNkNfeWdBUE9EdUpDNGtXY1RxVHNKbw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-17-both-npp-and-ndc-love-galamsey-they-have-no-moral-right-to-a",
@@ -6214,7 +6276,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-01T21:00:50.520Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
@@ -6890,7 +6952,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
