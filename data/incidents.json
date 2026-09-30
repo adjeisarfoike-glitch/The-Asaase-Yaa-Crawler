@@ -1,13 +1,97 @@
 {
-  "updated": "2026-09-30T05:34:57.110Z",
+  "updated": "2026-09-30T12:36:20.876Z",
   "counts": {
-    "total": 951,
+    "total": 955,
     "verified": 28,
-    "automated": 923,
+    "automated": 927,
     "earliest": "2024-07-01",
-    "latest": "2026-09-29"
+    "latest": "2026-09-30"
   },
   "incidents": [
+    {
+      "id": "auto-2026-09-30-the-fate-of-galamsey-progress-on-paper-a-test-of-will-on-the",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "The Fate of Galamsey: Progress on Paper, a Test of Will on the Ground",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Fate of Galamsey: Progress on Paper, a Test of Will on the Ground Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2lwMWdPdGhGeDRfdUR4ZVZVcnVGWXVzUHQ3Mk10T3NjM2NZNHd4XzRYZ1RuaG5oTzg4THJRSHZ4LUU1ZnF0WXN6eUhCSGMxV2JBTGFiYTduOUZQcF9IbTA0UHc1QUwxQThyVEMxQVd1S0VDdFl3c0VFTTVaOXJUdW5KOXBzTVV2d0I1bmVkQm1tRWEyemc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2lwMWdPdGhGeDRfdUR4ZVZVcnVGWXVzUHQ3Mk10T3NjM2NZNHd4XzRYZ1RuaG5oTzg4THJRSHZ4LUU1ZnF0WXN6eUhCSGMxV2JBTGFiYTduOUZQcF9IbTA0UHc1QUwxQThyVEMxQVd1S0VDdFl3c0VFTTVaOXJUdW5KOXBzTVV2d0I1bmVkQm1tRWEyemc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T12:30:56.195Z",
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-09-30-frimpong-boateng-vows-galamsey-fight-not-over-yet",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "Frimpong Boateng vows Galamsey fight not over yet",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Frimpong Boateng vows Galamsey fight not over yet Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTFXd1lKUEpvQ1JDb3V4RlJ4X1JmMExvSEV1S1hxOUtPLVp5RG5maUpDRUZVSl9tb1lOMExvem9RNHhjWUtSTnlmOF9uU3RHT2lLa0p3OGJZUERTdUdCVW1idGxHSEQwMi1LYzVEWmJleGJ2RnBoWXZNM2xKemtjREhCdUxVcGNpbnAxZVM1Q0VrTUNVYWdvVmx3TUVkNXQtRFlUQ2E1MVpOUTAwYlJpTGhnS0Z1YXBUM29iR1d4aw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTFXd1lKUEpvQ1JDb3V4RlJ4X1JmMExvSEV1S1hxOUtPLVp5RG5maUpDRUZVSl9tb1lOMExvem9RNHhjWUtSTnlmOF9uU3RHT2lLa0p3OGJZUERTdUdCVW1idGxHSEQwMi1LYzVEWmJleGJ2RnBoWXZNM2xKemtjREhCdUxVcGNpbnAxZVM1Q0VrTUNVYWdvVmx3TUVkNXQtRFlUQ2E1MVpOUTAwYlJpTGhnS0Z1YXBUM29iR1d4aw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T12:31:20.994Z",
+      "thread": "t-auto-2026-09-17-professor-frimpong-boateng-details-alleged-allocation-of-40-"
+    },
+    {
+      "id": "auto-2026-09-30-akyem-hemang-residents-demand-justice-for-man-shot-and-kille",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "Akyem Hemang residents demand justice for man shot and killed at mining site by suspected military men",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "On August 26, 2026, Douglas Acheampong, a 29-year-old resident of Akyem Hemang near Osino in the Eastern Region was allegedly shot at an illegal mining site which led to his death.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/akyem-hemang-residents-demand-justice-for-man-shot-and-killed-at-mining-site-by-suspected-military-men/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/akyem-hemang-residents-demand-justice-for-man-shot-and-killed-at-mining-site-by-suspected-military-men/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T12:31:34.860Z",
+      "thread": "t-auto-2026-08-28-claims-that-naimos-taskforce-shot-and-killed-young-man-at-ak"
+    },
+    {
+      "id": "auto-2026-09-30-ghana-strengthens-child-labour-fight-with-new-digital-monito",
+      "date": "2026-09-30",
+      "category": "policy",
+      "title": "Ghana strengthens child labour fight with new digital monitoring system",
+      "place": "Bibiani",
+      "region": "Western North",
+      "lat": 6.46,
+      "lon": -2.33,
+      "summary": "Ghana has taken another step towards strengthening efforts to prevent and eliminate child labour with the rollout of the new Ghana Child Labour Monitoring System (GCLMS). The digital system is designed to help government institutions and other stakeholders identify, document, refer and follow up on child labour cases more effectively. The GCLMS is particularly expected to support monitoring in sectors such as agricul",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-strengthens-child-labour-fight-with-new-digital-monitoring-system.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-strengthens-child-labour-fight-with-new-digital-monitoring-system.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T12:32:06.331Z",
+      "thread": "t-auto-2026-09-28-ghana-child-labour-monitoring-system-introduced-to-strengthe"
+    },
     {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
       "date": "2026-09-29",
@@ -409,7 +493,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWduUFFlci13WGdQWUZ0YzdPX3ZMWGl2a2J3SXJ6ckZ2U0g2eEdsWWI5XzB5cnFuV0RGbWxXZjV2b3NLNi1RTGFRaENXbldSUkpBdzQ1N2FnbVhOd2hqRGEyd09Zd1pTSzgwWWRXX0lWcTUzTW9TNXJIdWxxcVBSMTQ5X29JM2NBZjRKRTFSTVVhbG4wYTlMeG1zUEFnTHZYeXNBUGVaM1FCQ1dFVUJkblJfbVJiTEQx?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-09-30T12:36:14.482Z"
     },
     {
       "id": "auto-2026-09-28-tano-basin-secretariat-raises-alarm-over-galamsey-pollution-",
@@ -449,7 +534,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ghana-child-labour-monitoring-system-introduced-to-strengthen-fight-against-menace",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-30T05:34:01.258Z"
+      "archivedAt": "2026-09-30T05:34:01.258Z",
+      "thread": "t-auto-2026-09-28-ghana-child-labour-monitoring-system-introduced-to-strengthe"
     },
     {
       "id": "auto-2026-09-28-galamsey-state-of-emergency-ibrahim-adjei-questions-mahama-s",
@@ -1263,7 +1349,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1514,20 +1601,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -2291,7 +2379,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT0VFZWtDaE5qRXduRDNTSXNRbG5Oc1Fsbk1yeHZFWVdHUFJFVE5kN2pfU2pEOGR0S3hKQW9qb3JjcFUxSEVaUmhvYjlEN2tKYTdHZnFkWHJXQ1N4cUlQemE4SnhhaVc0WkdSeUNlTVROX1VxU1NjcDR0UGdOOGhycTBtLW1NU0JNcDY5a2tXaTJYOU9WVDRDT1Q5U3dGZ0pNemd1MjRONGhEeThlci05TFk1czRaOHllaXdiNmlUdEhZOGdRNlZObk44NTFWdThoR0E2c3V6RXIwNm9xRWJLU1RKUXhJUTlWN1ptRUlR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-17-professor-frimpong-boateng-details-alleged-allocation-of-40-"
     },
     {
       "id": "auto-2026-09-17-why-we-don-t-need-china-to-advise-us-frimpong-boateng-on-min",
