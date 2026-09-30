@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-30T12:36:20.876Z",
+  "updated": "2026-09-30T22:18:54.152Z",
   "counts": {
-    "total": 955,
+    "total": 960,
     "verified": 28,
-    "automated": 927,
+    "automated": 932,
     "earliest": "2024-07-01",
     "latest": "2026-09-30"
   },
@@ -93,6 +93,105 @@
       "thread": "t-auto-2026-09-28-ghana-child-labour-monitoring-system-introduced-to-strengthe"
     },
     {
+      "id": "auto-2026-09-30-live-point-of-view-galamsey-fight-what-will-actually-work-se",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "LIVE: Point of View | Galamsey Fight — What Will Actually Work? | Senyo Hosi & Daryl Bosu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: Point of View | Galamsey Fight — What Will Actually Work? | Senyo Hosi & Daryl Bosu Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaGt3ZmN3ZkExYW5oMk01VUk1QXdHRHhQS0tYVTM5TWU4eDdBa2dfVUZhU3FuUzNtS1M3YzlkTm1Ccm5YMW5YVGVpTXBncTNBTnZ3ZTI3cUZhekpTb3dmeG1ad9IBXEFVX3lxTE4tMmFGcFlrV2RaQ1ltWkJvV3dadWl6RGxpM3dpbHBDLThYOG50bi1pR1pLOFM3RVNpVS1ySVdFb3RiQnJ1NkNoRm1zMDQ2OVdOOGt4Ml80VjRXVlJO?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMaGt3ZmN3ZkExYW5oMk01VUk1QXdHRHhQS0tYVTM5TWU4eDdBa2dfVUZhU3FuUzNtS1M3YzlkTm1Ccm5YMW5YVGVpTXBncTNBTnZ3ZTI3cUZhekpTb3dmeG1ad9IBXEFVX3lxTE4tMmFGcFlrV2RaQ1ltWkJvV3dadWl6RGxpM3dpbHBDLThYOG50bi1pR1pLOFM3RVNpVS1ySVdFb3RiQnJ1NkNoRm1zMDQ2OVdOOGt4Ml80VjRXVlJO?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T22:13:09.086Z",
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-09-30-tbsc-grand-finale-listen-to-the-contestants-presentation-on-",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "TBSC Grand Finale: Listen to the contestants presentation on how to curb (Galamsey) menace in Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "TBSC Grand Finale: Listen to the contestants presentation on how to curb (Galamsey) menace in Ghana Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVdiRF9CdUF6SjVuVTBLM3J1MEN1VlZULTZIMlZOSml5VmtFd2VxZmhCSG9HX1ZabWhEdE8zbXRMYU1CeGJ2Skd0OGxwQ19KTTRDWXVPQ0FlNjd4MWFnVmRVM04wQ3FENXY5bGV5UmxOa24zcURzV3Zjd0dGSjE3aEtWM3V1aFBWU042U2NxMlFMODZxa1BsWlBKQjBGMUpXcExGTUl4emNQaUV2emZ1Zm4tRzBmbkNYc25oSkw0V3ZOTUhCcDFrMVU3ZHpEd0k5VWRfa0k0eksxcmQ4QVVXaEpPZmcwakI1RGw5aVhFeGhFSnNrRjhEVFUyR1BkUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaVdiRF9CdUF6SjVuVTBLM3J1MEN1VlZULTZIMlZOSml5VmtFd2VxZmhCSG9HX1ZabWhEdE8zbXRMYU1CeGJ2Skd0OGxwQ19KTTRDWXVPQ0FlNjd4MWFnVmRVM04wQ3FENXY5bGV5UmxOa24zcURzV3Zjd0dGSjE3aEtWM3V1aFBWU042U2NxMlFMODZxa1BsWlBKQjBGMUpXcExGTUl4emNQaUV2emZ1Zm4tRzBmbkNYc25oSkw0V3ZOTUhCcDFrMVU3ZHpEd0k5VWRfa0k0eksxcmQ4QVVXaEpPZmcwakI1RGw5aVhFeGhFSnNrRjhEVFUyR1BkUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T22:13:33.804Z"
+    },
+    {
+      "id": "auto-2026-09-30-ndc-calls-for-public-inquiry-into-report-which-named-npp-off",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "NDC calls for public inquiry into report which named NPP officials allegedly involved in galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC calls for public inquiry into report which named NPP officials allegedly involved in galamsey Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPaWRNZ1pjbWkyWGVRZ1BoWlZweVd4RlA0clN3U2pBcEtjUTFYUThvdm80YkpDaWkxSm5wTEhfQzVqZjBMcm5uNTl4RFJIZFlSXzBoaVFXb19fQ01TY01tdHlCNVJFN1o2YmMyQlJsQkN0TF9LWm5iSkdkdkk3a09YR3A3RjN1TXI5NUN4aVdGWTZvSmtWcElXOVRuTDNtSUp1QWZyd1ZkUzVpUWY5Q1FadVFWTDVlNmlMN09HclBKNFZ0UkJlQVJuS3JRVlJXYTE3QlFfVkZtbzJGSmpUQVVROGkxb1Y1d002alNkTDlsOG1oQllwZE1CMm51YTQ4aFBIcGtjQWlkbjdpS2dtM1k5cmlXbEZOX1UwUWRoYV83a3N2MHpHaERYci1jQWRNVlNOanFF?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswJBVV95cUxPaWRNZ1pjbWkyWGVRZ1BoWlZweVd4RlA0clN3U2pBcEtjUTFYUThvdm80YkpDaWkxSm5wTEhfQzVqZjBMcm5uNTl4RFJIZFlSXzBoaVFXb19fQ01TY01tdHlCNVJFN1o2YmMyQlJsQkN0TF9LWm5iSkdkdkk3a09YR3A3RjN1TXI5NUN4aVdGWTZvSmtWcElXOVRuTDNtSUp1QWZyd1ZkUzVpUWY5Q1FadVFWTDVlNmlMN09HclBKNFZ0UkJlQVJuS3JRVlJXYTE3QlFfVkZtbzJGSmpUQVVROGkxb1Y1d002alNkTDlsOG1oQllwZE1CMm51YTQ4aFBIcGtjQWlkbjdpS2dtM1k5cmlXbEZOX1UwUWRoYV83a3N2MHpHaERYci1jQWRNVlNOanFF?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-09-30T22:13:58.803Z"
+    },
+    {
+      "id": "auto-2026-09-30-goldbod-generates-us-1-87bn-in-september-fx-operations-excee",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "GoldBod generates US$1.87bn in September FX operations, exceeding monthly target",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.871 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in September 2026, exceeding its monthly target of US$1.4 billion.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-generates-us1-87bn-in-september-fx-operations-exceeding-monthly-target/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-generates-us1-87bn-in-september-fx-operations-exceeding-monthly-target/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-30-goldbod-generates-1-87bn-for-september-fx-exceeds-target",
+      "date": "2026-09-30",
+      "category": "forest",
+      "title": "GoldBod generates $1.87bn for September FX; exceeds target",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) hs announced that it generated $1.871 billion in Foreign Exchange (FX) from its artisanal and small-scale mining (ASM) gold trade operations in September 2026.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/business/goldbod-generates-1-87bn-for-september-fx-exceeds-target"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/business/goldbod-generates-1-87bn-for-september-fx-exceeds-target",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
       "date": "2026-09-29",
       "category": "policy",
@@ -137,21 +236,20 @@
       "id": "auto-2026-09-29-from-pretence-and-raids-to-reform-a-new-strategy-for-galamse",
       "date": "2026-09-29",
       "category": "arrest",
-      "title": "From pretence and raids to reform; a new strategy for galamsey — Senyo Hosi writes",
+      "title": "From Pretence and Raids to Reform - A new strategy for galamsey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "From pretence and raids to reform; a new strategy for galamsey — Senyo Hosi writes Modern Ghana",
+      "summary": "From Pretence and Raids to Reform - A new strategy for galamsey GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2M3YnpCUDR6dDhhOEctUkY4M2RtLWNCek9Od2ZIWjFfSnI4Q1RxNHFTLXVHTlFHU3h6SDR4UGl3ZG4xeDYyT2hCYmxVcTBPVld1cU1HTjlDSTB1SXdWU1FrQnpjOUlpelhSWmpkMHBNcldiR2V4SXBGLWY0Z3N5MFlURW5iUk9GZjNEZG96bWVkTEZlZ292UdIBmAFBVV95cUxOT2M3YnpCUDR6dDhhOEctUkY4M2RtLWNCek9Od2ZIWjFfSnI4Q1RxNHFTLXVHTlFHU3h6SDR4UGl3ZG4xeDYyT2hCYmxVcTBPVld1cU1HTjlDSTB1SXdWU1FrQnpjOUlpelhSWmpkMHBNcldiR2V4SXBGLWY0Z3N5MFlURW5iUk9GZjNEZG96bWVkTEZlZ292UQ?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJiU3FNQ0Z2eG1NNF9SMURtc3VGSzNmYmdHNGxYZVdqeFZja3N3Z1diYWdYUDFEWkNTQS1CRFJjVlhVVHVBY25KeUxFcG4wZXFXdHVRQVY3cTl3c09iWTkzLWhoVzlaSm11WmdRaURyYzhzTmdlT0JCSmhJdkJwb0JpYVg1UEhnVEtCOHJhUDQxWWp0R05kejVYU3FQQVlRby1jMUJSeUdYVGZVTU1jNms2SktuSDNX?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2M3YnpCUDR6dDhhOEctUkY4M2RtLWNCek9Od2ZIWjFfSnI4Q1RxNHFTLXVHTlFHU3h6SDR4UGl3ZG4xeDYyT2hCYmxVcTBPVld1cU1HTjlDSTB1SXdWU1FrQnpjOUlpelhSWmpkMHBNcldiR2V4SXBGLWY0Z3N5MFlURW5iUk9GZjNEZG96bWVkTEZlZ292UdIBmAFBVV95cUxOT2M3YnpCUDR6dDhhOEctUkY4M2RtLWNCek9Od2ZIWjFfSnI4Q1RxNHFTLXVHTlFHU3h6SDR4UGl3ZG4xeDYyT2hCYmxVcTBPVld1cU1HTjlDSTB1SXdWU1FrQnpjOUlpelhSWmpkMHBNcldiR2V4SXBGLWY0Z3N5MFlURW5iUk9GZjNEZG96bWVkTEZlZ292UQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJiU3FNQ0Z2eG1NNF9SMURtc3VGSzNmYmdHNGxYZVdqeFZja3N3Z1diYWdYUDFEWkNTQS1CRFJjVlhVVHVBY25KeUxFcG4wZXFXdHVRQVY3cTl3c09iWTkzLWhoVzlaSm11WmdRaURyYzhzTmdlT0JCSmhJdkJwb0JpYVg1UEhnVEtCOHJhUDQxWWp0R05kejVYU3FQQVlRby1jMUJSeUdYVGZVTU1jNms2SktuSDNX?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-22-galamsey-fight-has-failed-water-quality-shows-we-re-retrogre"
+      "verified": false
     },
     {
       "id": "auto-2026-09-29-galamsey-naimos-faces-new-challenge-as-locals-shield-miners-",
@@ -1349,8 +1447,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -1601,21 +1698,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE01emsxdjZST0V3VzlOLWVkb2QxYk9ueTNtQ1hrYUNCVTFMbENnR0NtSm1leTZnclU3M3c5bGxWYTNyTVFwVDdyR1F4V2E3RE9LYTN6MElLMUVsc2NPRHdicTNHcTbSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
