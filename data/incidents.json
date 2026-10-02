@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-02T12:34:47.704Z",
+  "updated": "2026-10-02T22:18:11.359Z",
   "counts": {
-    "total": 984,
+    "total": 987,
     "verified": 28,
-    "automated": 956,
+    "automated": 959,
     "earliest": "2024-07-01",
     "latest": "2026-10-02"
   },
@@ -66,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2xtMklJQU40cnZZQmdlTGhzcHcyRS10LU5xTXZTMVJrdkV6cUh0UEswRTAwQzlhV21NaUNHUEFVZUVSTVUzalR0SUVlWFI5MmF0cTlEcmlpWnY5TEpfNEdiUXBObTFfZDY0bjdrR2dWWGpDc2lhTlc2Z19oYmFLZkJ3eC1tN3A5b2xiaVJBaktRVXE2UHlVSDhBclRpMnNoWDgwRWl0b2ZYbDdFV3BZVHNiSQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-02-schandorf-writes-is-the-galamsey-fight-lost-an-open-letter-t"
     },
     {
       "id": "auto-2026-10-02-ndc-and-npp-have-failed-ghanaians-in-fight-against-galamsey-",
@@ -152,6 +153,46 @@
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
+      "id": "auto-2026-10-02-the-fight-against-galamsey-has-not-been-lost-schandorf-respo",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "‘The fight against galamsey has not been lost’ – Schandorf responds to Barker-Vormawor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘The fight against galamsey has not been lost’ – Schandorf responds to Barker-Vormawor Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjVaendVLXlZWHdBZXZkS2J0ek5JUzZWTkFCckxJYzZCNGRORFQ1QXBrM3BLRllvLU5Qd2FXaXoyMXpWeENIMm5iTUpMR0YwWnFrRFBNR01sVHAtX1VKWFkwRWxyMU1lUXQ4VWlBS292ZDZoNEduZlc1SVgyRFFsZ1FKREUxSy1vTlpZdnpYSmhIdjli0gGTAUFVX3lxTE9mcmZrY0UyRnhxblEzd2p3UEVPeWxadjB5M2o0Z05PaS1CaFNjM0JZd0tZYTFKNmF1QUMyNTVhSEJXZDFKWUplcmdEXzFxQmM4MXRYc29VOGVfeWJMbjZLaDZVTk5qWExIX01NellPaDZ5cEt3Q3pRZllZdmtIbXBxb0kwZVp4SHFvZUd5OG9jUm9wSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjVaendVLXlZWHdBZXZkS2J0ek5JUzZWTkFCckxJYzZCNGRORFQ1QXBrM3BLRllvLU5Qd2FXaXoyMXpWeENIMm5iTUpMR0YwWnFrRFBNR01sVHAtX1VKWFkwRWxyMU1lUXQ4VWlBS292ZDZoNEduZlc1SVgyRFFsZ1FKREUxSy1vTlpZdnpYSmhIdjli0gGTAUFVX3lxTE9mcmZrY0UyRnhxblEzd2p3UEVPeWxadjB5M2o0Z05PaS1CaFNjM0JZd0tZYTFKNmF1QUMyNTVhSEJXZDFKWUplcmdEXzFxQmM4MXRYc29VOGVfeWJMbjZLaDZVTk5qWExIX01NellPaDZ5cEt3Q3pRZllZdmtIbXBxb0kwZVp4SHFvZUd5OG9jUm9wSQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-02-schandorf-writes-is-the-galamsey-fight-lost-an-open-letter-t"
+    },
+    {
+      "id": "auto-2026-10-02-replying-oliver-barker-vormawor-is-the-fight-against-galamse",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "Replying Oliver Barker Vormawor: Is the fight against galamsey lost?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Replying Oliver Barker Vormawor: Is the fight against galamsey lost? 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzBmRnNIaHZuTnpBenRXNjg0ckFMMlRkTVhQUXZpcll1RERHcVBVcm85bjNIQnJIcm9hYjVZbHBnYTA1aUVKOHhOS3BNWjN4cFpGcG82aVpmcFpDbHh5VVVmUWpTTmpaUXVwX1l6cmpOTENCcTNsaGx2QWdUYjJNSkQtcm1HWmtZN1psUG4yZjh3MHlZY19z?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzBmRnNIaHZuTnpBenRXNjg0ckFMMlRkTVhQUXZpcll1RERHcVBVcm85bjNIQnJIcm9hYjVZbHBnYTA1aUVKOHhOS3BNWjN4cFpGcG82aVpmcFpDbHh5VVVmUWpTTmpaUXVwX1l6cmpOTENCcTNsaGx2QWdUYjJNSkQtcm1HWmtZN1psUG4yZjh3MHlZY19z?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-01-why-barker-vormawor-believes-ghana-has-lost-the-fight-agains"
+    },
+    {
       "id": "auto-2026-10-01-mahama-faces-economic-political-constraints-in-galamsey-figh",
       "date": "2026-10-01",
       "category": "policy",
@@ -230,7 +271,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFY4ZE1qMnJ5ckpDNzN1bkZEMVVRN1VfNUVVclhWVXBoMXJDYXBzdm1VX2d6amxlWnM4ODkzVTFMVm5zeGM3dlIzaXpOamFoeEV2QU9BVzYxV3hlc3B3RE9tV3diY2xFbF9LRTNpTzFhblFQTUJKcEp4OVNVcHRYUGxXeERRQlhnZ3g3ME9tNXM3Uk53RktkZUpXR2NxQ0dfREZraGs0c1E1RnRYTUZzRjExVWQ1Zlk0QmV3MTMxS3hZMHdnaUlEZA?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-01T22:40:12.204Z"
+      "archivedAt": "2026-10-01T22:40:12.204Z",
+      "thread": "t-auto-2026-10-01-why-barker-vormawor-believes-ghana-has-lost-the-fight-agains"
     },
     {
       "id": "auto-2026-10-01-goldbod-generates-1-8bn-in-foreign-exchange-in-september",
@@ -295,23 +337,23 @@
       "id": "auto-2026-10-01-naimos-raid-10-excavators-seized-in-anti-illegal-mining-oper",
       "date": "2026-10-01",
       "category": "arrest",
-      "title": "NAIMOS raid: 10 excavators seized in anti-illegal mining operation on River Pra #JoyNews",
+      "title": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime",
       "place": "River Pra",
       "region": "Central",
       "lat": 5.6,
       "lon": -1.45,
-      "summary": "NAIMOS raid: 10 excavators seized in anti-illegal mining operation on River Pra #JoyNews Modern Ghana",
+      "summary": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime Modern Ghana",
       "metrics": {
         "excavators": 10
       },
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0SWFray1SOTVhZXVlaVRYQzlmdUlIUGtqdVYzZVRTVnBaWWtBRHhwSUtlTDFlV2d1SnAtSzVKUFJJTUlDc2R0aE5CbFE4TFlXUTczUVRRUTZDb1ZMMldUcm9kVXXSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0SWFray1SOTVhZXVlaVRYQzlmdUlIUGtqdVYzZVRTVnBaWWtBRHhwSUtlTDFlV2d1SnAtSzVKUFJJTUlDc2R0aE5CbFE4TFlXUTczUVRRUTZDb1ZMMldUcm9kVXXSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
     },
     {
       "id": "auto-2026-10-01-mahama-cites-nine-cleared-forests-as-galamsey-emergency-call",
@@ -331,6 +373,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWE5VUZKX3d2LXBWaE44dWdpT3hlMURRQmVWWjhleGhzQ2RnR1JPc1FEYlNNWkF0bnVlb3ZwZktZTjRKaWVvODhXWk1WdFpvMEo3eTJCQlprUmNlYm5lbWdFSlZEMnVtYlo3cHQ2aGRtOWJnMGVLdzJuT0kwd3JfQzNJRkVuTGZqTGVBOUFRcDFuV281U0lVNlJwQQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-01-from-pretence-and-raids-to-reform-a-new-strategy-for-galamse",
+      "date": "2026-10-01",
+      "category": "arrest",
+      "title": "From pretence and raids to reform; a new strategy for galamsey – Senyo Hosi writes",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "From pretence and raids to reform; a new strategy for galamsey – Senyo Hosi writes MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDVpcFBaemdQTTJpcW9Oelp5N1N0RmE3cFdtLWxWbDAyaUVJMEIwYXl1THowbDFoSWJkbk9adjFHQ0ZUYngyR3NLdmc4VkFCa0R6NHR5YUd4S19FblZoYmhMX2d1QnptNDZaWV90WXhyX1pwcFhKbDRjR3d3eE9VaHJTWlE3bF9EcHdXU2RMeW9wQ2FiLXVXQUNTRnNpaTRNYl9IYUVxOGRfQVZu?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDVpcFBaemdQTTJpcW9Oelp5N1N0RmE3cFdtLWxWbDAyaUVJMEIwYXl1THowbDFoSWJkbk9adjFHQ0ZUYngyR3NLdmc4VkFCa0R6NHR5YUd4S19FblZoYmhMX2d1QnptNDZaWV90WXhyX1pwcFhKbDRjR3d3eE9VaHJTWlE3bF9EcHdXU2RMeW9wQ2FiLXVXQUNTRnNpaTRNYl9IYUVxOGRfQVZu?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-02T22:16:33.084Z"
     },
     {
       "id": "auto-2026-09-30-the-fate-of-galamsey-progress-on-paper-a-test-of-will-on-the",
