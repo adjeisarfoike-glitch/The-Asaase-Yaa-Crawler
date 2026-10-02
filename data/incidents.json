@@ -1,13 +1,156 @@
 {
-  "updated": "2026-10-02T05:39:37.951Z",
+  "updated": "2026-10-02T12:34:47.704Z",
   "counts": {
-    "total": 977,
+    "total": 984,
     "verified": 28,
-    "automated": 949,
+    "automated": 956,
     "earliest": "2024-07-01",
-    "latest": "2026-10-01"
+    "latest": "2026-10-02"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-02-stop-massaging-galamsey-rrig-director-rallies-media-to-drive",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "'Stop massaging galamsey'- RRIG director rallies media to drive constitutional reforms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Stop massaging galamsey'- RRIG director rallies media to drive constitutional reforms ghanaweb.com",
+      "metrics": {},
+      "source": {
+        "name": "ghanaweb.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkZoTDRLN0NWeEdNOW51b1MySS0zakhJZTFRcGFqMFMtQnVCRGY2bFJiWklpSG1IcUJ6eFRsaVB4MExTQ3JZVHd3M2FoNjFjQWpnb1NWR1FubUdRbmNUT0hCSVZENzVZYzgzUU1mdk4yVk5uQnVQb0Ffb05ENDBtdVdwREFzcEMxQWVIa01EcF9yaThzblBocXk4cFpBU2o3SzdFenZLTE03VFEzRlg5SDRHUVIwaWJ6aFc1dXdwWmEwd2hucEpQUkZJYW5mN2tpcnh4Q093?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkZoTDRLN0NWeEdNOW51b1MySS0zakhJZTFRcGFqMFMtQnVCRGY2bFJiWklpSG1IcUJ6eFRsaVB4MExTQ3JZVHd3M2FoNjFjQWpnb1NWR1FubUdRbmNUT0hCSVZENzVZYzgzUU1mdk4yVk5uQnVQb0Ffb05ENDBtdVdwREFzcEMxQWVIa01EcF9yaThzblBocXk4cFpBU2o3SzdFenZLTE03VFEzRlg5SDRHUVIwaWJ6aFc1dXdwWmEwd2hucEpQUkZJYW5mN2tpcnh4Q093?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-02-galamsey-naimos-seizes-10-excavators-in-raid-on-sites-blocki",
+      "date": "2026-10-02",
+      "category": "arrest",
+      "title": "Galamsey: NAIMOS seizes 10 excavators in raid on sites blocking River Pra’s flow",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "Galamsey: NAIMOS seizes 10 excavators in raid on sites blocking River Pra’s flow Adomonline.com",
+      "metrics": {
+        "excavators": 10
+      },
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUp2Yi1ObG00S0t5ZDJNRlpTMEQyQzJ6NkZ2SHNReThuR2Faa280aTMtck5Lb2h0SzJnY3hJaWVLY01yZU52aEdtRkZxT0lRS19naGRlekdoc2xHS3VuemFnc2VlY2pTdlNCb1EwTzlKc3Y4Y0NPdXFrWGxhcHNXTDNQMUZRWktYVDlSSHBWTlBVOHpWREZzUlBMZ2NSa29ONXg1TU4yajUyUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUp2Yi1ObG00S0t5ZDJNRlpTMEQyQzJ6NkZ2SHNReThuR2Faa280aTMtck5Lb2h0SzJnY3hJaWVLY01yZU52aEdtRkZxT0lRS19naGRlekdoc2xHS3VuemFnc2VlY2pTdlNCb1EwTzlKc3Y4Y0NPdXFrWGxhcHNXTDNQMUZRWktYVDlSSHBWTlBVOHpWREZzUlBMZ2NSa29ONXg1TU4yajUyUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-02T12:30:29.572Z"
+    },
+    {
+      "id": "auto-2026-10-02-schandorf-writes-is-the-galamsey-fight-lost-an-open-letter-t",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "Schandorf Writes: Is the galamsey fight lost? An open letter to Oliver Barker-Vormawor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Schandorf Writes: Is the galamsey fight lost? An open letter to Oliver Barker-Vormawor MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2xtMklJQU40cnZZQmdlTGhzcHcyRS10LU5xTXZTMVJrdkV6cUh0UEswRTAwQzlhV21NaUNHUEFVZUVSTVUzalR0SUVlWFI5MmF0cTlEcmlpWnY5TEpfNEdiUXBObTFfZDY0bjdrR2dWWGpDc2lhTlc2Z19oYmFLZkJ3eC1tN3A5b2xiaVJBaktRVXE2UHlVSDhBclRpMnNoWDgwRWl0b2ZYbDdFV3BZVHNiSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2xtMklJQU40cnZZQmdlTGhzcHcyRS10LU5xTXZTMVJrdkV6cUh0UEswRTAwQzlhV21NaUNHUEFVZUVSTVUzalR0SUVlWFI5MmF0cTlEcmlpWnY5TEpfNEdiUXBObTFfZDY0bjdrR2dWWGpDc2lhTlc2Z19oYmFLZkJ3eC1tN3A5b2xiaVJBaktRVXE2UHlVSDhBclRpMnNoWDgwRWl0b2ZYbDdFV3BZVHNiSQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-02-ndc-and-npp-have-failed-ghanaians-in-fight-against-galamsey-",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "'NDC and NPP have failed Ghanaians in fight against galamsey' - Efia Odo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'NDC and NPP have failed Ghanaians in fight against galamsey' - Efia Odo ghanaweb.com",
+      "metrics": {},
+      "source": {
+        "name": "ghanaweb.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHotMmtMMnYxd05EblRtM3E0RG9xZ0NvR2ZDanZ1Vzlfemg2bkNvcDdZYlhlMW5LY01mUEVSM05hbWhRMlU3MVc5LXZyNXFYSk1qdlJTUVJCQ201ZFZPLXo2dEdJWV9hTWJ6NDFjQlZFN1BqS0VOVW54Z0JOb2kzVjFtNmFuYU1tWWdCZWE2TXhWbVBLemhQcF82SGJnSUZ0NmRlcS12VllYdW9nTk1jZ0NpdHYwR0xaYk95Nm0zOWNNUUpqOF9hXw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHotMmtMMnYxd05EblRtM3E0RG9xZ0NvR2ZDanZ1Vzlfemg2bkNvcDdZYlhlMW5LY01mUEVSM05hbWhRMlU3MVc5LXZyNXFYSk1qdlJTUVJCQ201ZFZPLXo2dEdJWV9hTWJ6NDFjQlZFN1BqS0VOVW54Z0JOb2kzVjFtNmFuYU1tWWdCZWE2TXhWbVBLemhQcF82SGJnSUZ0NmRlcS12VllYdW9nTk1jZ0NpdHYwR0xaYk95Nm0zOWNNUUpqOF9hXw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-02-naimos-seizes-10-excavators-in-raid-on-illegal-mining-sites-",
+      "date": "2026-10-02",
+      "category": "arrest",
+      "title": "NAIMOS seizes 10 excavators in raid on illegal mining sites blocking River Pra’s flow",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "NAIMOS seizes 10 excavators in raid on illegal mining sites blocking River Pra’s flow MyJoyOnline",
+      "metrics": {
+        "excavators": 10
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaThLQnlpNkJLa1pKRi0tcmJtcXZEeUJZMVMxZzVzbF9hVW5KeVBnQ3VPUDVxQ3ZGRVdSeUhMUmEwNVB5U2VXb0tkcndvcGlMY3NRcUFhR2J3aWtvQW9qYTZBQmVHNExJMFlaZUhRRWpPclNoMUJEWXZQdzkwdjd3UHZHMlpuR1N6M3N3a1hqM2laQldUQW9qbU1QR2VtTFhOZ2QtTENQbWJNY0dYQzc3QU0ySQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNaThLQnlpNkJLa1pKRi0tcmJtcXZEeUJZMVMxZzVzbF9hVW5KeVBnQ3VPUDVxQ3ZGRVdSeUhMUmEwNVB5U2VXb0tkcndvcGlMY3NRcUFhR2J3aWtvQW9qYTZBQmVHNExJMFlaZUhRRWpPclNoMUJEWXZQdzkwdjd3UHZHMlpuR1N6M3N3a1hqM2laQldUQW9qbU1QR2VtTFhOZ2QtTENQbWJNY0dYQzc3QU0ySQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-02-10-excavators-seized-in-ghana-during-illegal-mining-raid-myj",
+      "date": "2026-10-02",
+      "category": "arrest",
+      "title": "10 excavators seized in Ghana during illegal mining raid — MyJoyOnline",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "10 excavators seized in Ghana during illegal mining raid — MyJoyOnline UA.NEWS",
+      "metrics": {
+        "excavators": 10
+      },
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWU5UVQtd3V1UkV5ekxtdGdJNnFYOEVtdVc4LXRFWTNfY01oaWpxMnYwM0J1UVZ4b3hlcWw5WXVxejVURU9mZnU1U09tZlNqN0lXUV9CamtqWUhMMXRnc2pNWWFsa2t6bHJqTDBwRXRpb2hDdGtoQ3p2bzNkTkE0OGpSbUlMSE5xczlwWUJ3TW8tMUlOQjhxa0VQQk80WlVYdTBIX1BIV1VGVFVJSk1vWVJ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWU5UVQtd3V1UkV5ekxtdGdJNnFYOEVtdVc4LXRFWTNfY01oaWpxMnYwM0J1UVZ4b3hlcWw5WXVxejVURU9mZnU1U09tZlNqN0lXUV9CamtqWUhMMXRnc2pNWWFsa2t6bHJqTDBwRXRpb2hDdGtoQ3p2bzNkTkE0OGpSbUlMSE5xczlwWUJ3TW8tMUlOQjhxa0VQQk80WlVYdTBIX1BIV1VGVFVJSk1vWVJ3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-02-naimos-seizes-10-excavators-in-crackdown-on-illegal-mining-a",
+      "date": "2026-10-02",
+      "category": "arrest",
+      "title": "NAIMOS Seizes 10 Excavators in Crackdown on Illegal Mining Along River Pra",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "NAIMOS Seizes 10 Excavators in Crackdown on Illegal Mining Along River Pra streamlinefeed.co.ke",
+      "metrics": {
+        "excavators": 10
+      },
+      "source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjZGc0N4ZXNtS3gzWERQNXpwbUluWGdsa0ZkeHhQWklHWTRIcnZDdmJvRnBCWnNFNWxQRVlVUUhpS0pmbV9KcGxKbEgtS2FmRjJjTVYyQ2NPQ2QwbXRRRmZJUXlIZ0Q2R2lmRDJON1oxcUpUMVhGVVA4d2FLczJrNDZJWkVtc0JQRzd3VHZRSlFFZGFHaXFUN0RLUUlOQ0p3akR1U1RiQzB5T1py?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjZGc0N4ZXNtS3gzWERQNXpwbUluWGdsa0ZkeHhQWklHWTRIcnZDdmJvRnBCWnNFNWxQRVlVUUhpS0pmbV9KcGxKbEgtS2FmRjJjTVYyQ2NPQ2QwbXRRRmZJUXlIZ0Q2R2lmRDJON1oxcUpUMVhGVVA4d2FLczJrNDZJWkVtc0JQRzd3VHZRSlFFZGFHaXFUN0RLUUlOQ0p3akR1U1RiQzB5T1py?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
     {
       "id": "auto-2026-10-01-mahama-faces-economic-political-constraints-in-galamsey-figh",
       "date": "2026-10-01",
@@ -152,23 +295,23 @@
       "id": "auto-2026-10-01-naimos-raid-10-excavators-seized-in-anti-illegal-mining-oper",
       "date": "2026-10-01",
       "category": "arrest",
-      "title": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime",
+      "title": "NAIMOS raid: 10 excavators seized in anti-illegal mining operation on River Pra #JoyNews",
       "place": "River Pra",
       "region": "Central",
       "lat": 5.6,
       "lon": -1.45,
-      "summary": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime Modern Ghana",
+      "summary": "NAIMOS raid: 10 excavators seized in anti-illegal mining operation on River Pra #JoyNews Modern Ghana",
       "metrics": {
         "excavators": 10
       },
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xb29UUV9FUUhEbmdfYVV2X0sxS21mUjVPbDZVdElyWGRNdlptVHdsbG1naTg5M3BoSUo2R0VoekplanN3dnJhd2xQQlZjWUFFa1FtU3VpVHh3Ukl5cmRXSEZFVUfSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xb29UUV9FUUhEbmdfYVV2X0sxS21mUjVPbDZVdElyWGRNdlptVHdsbG1naTg5M3BoSUo2R0VoekplanN3dnJhd2xQQlZjWUFFa1FtU3VpVHh3Ukl5cmRXSEZFVUfSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-10-01-mahama-cites-nine-cleared-forests-as-galamsey-emergency-call",
@@ -389,7 +532,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEU5OHZESG1uZXZUUlRyYVNTM2gxSlNQcG9QSFFBSmlzT0VmZC1POEVaSUtjSlZraW9jc2FoT1Rvdllrb0RBMks3NHhSM2ZtUHJHbl9xYnhiWE85Rm9OWkE3eE5PMC1iQnhGOUNjdmN5MzFLV25KUFphb1dJb29mZ1NxaWJURE9WdWxVaG1n?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-02T12:34:28.946Z"
     },
     {
       "id": "auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen",
