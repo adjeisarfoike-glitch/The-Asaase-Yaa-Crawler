@@ -1,13 +1,73 @@
 {
-  "updated": "2026-10-03T05:20:20.436Z",
+  "updated": "2026-10-03T11:41:47.115Z",
   "counts": {
-    "total": 988,
+    "total": 993,
     "verified": 28,
-    "automated": 960,
+    "automated": 965,
     "earliest": "2024-07-01",
-    "latest": "2026-10-02"
+    "latest": "2026-10-03"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-03-live-baffour-awuah-vs-eoco-petrol-prices-galamsey-and-npp-de",
+      "date": "2026-10-03",
+      "category": "forest",
+      "title": "LIVE: Baffour Awuah vs EOCO, Petrol prices, Galamsey and NPP Delegates Conference",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: Baffour Awuah vs EOCO, Petrol prices, Galamsey and NPP Delegates Conference 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkdKNDljXzNLTWxxVHdrblU2ZWdVMjhDS2phQWFUZUQ4SkZ1b2QzSURSbmd4aXRwb0o0Tk5oLS1aUFgzXy1aVk42eXJPLUlKZVNVcTY1MVRkOGdLMXZ0MmRyb21sSkxaTjg4NWJranFxMi1FY0o4T1NuNFNuT3pEQTJGenRLWGh0V1FKbEozS29HM1l0dk9NLTJlTTlvOGdEX0lr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkdKNDljXzNLTWxxVHdrblU2ZWdVMjhDS2phQWFUZUQ4SkZ1b2QzSURSbmd4aXRwb0o0Tk5oLS1aUFgzXy1aVk42eXJPLUlKZVNVcTY1MVRkOGdLMXZ0MmRyb21sSkxaTjg4NWJranFxMi1FY0o4T1NuNFNuT3pEQTJGenRLWGh0V1FKbEozS29HM1l0dk9NLTJlTTlvOGdEX0lr?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-03T11:36:45.240Z"
+    },
+    {
+      "id": "auto-2026-10-03-taraba-task-force-arrests-two-over-alleged-illegal-mining",
+      "date": "2026-10-03",
+      "category": "arrest",
+      "title": "Taraba task force arrests two over alleged illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Taraba task force arrests two over alleged illegal mining Daily Post Nigeria",
+      "metrics": {},
+      "source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUd4aG5rd3hhR0dVbDVGMDlqZlQwaFg0VEVFV011M3Vsc1BGMXVxemJWMGUtUjdzd3dmQXB1RWIyeV9oUDBkbGNFUWNQVTdMeS1UQVd1M1YtX053a1NlTEh2R0h2S0R5UHdDVlJ2dDVFMjllTmZDVzFBSDJURDE4ejl5X3FKVzV3UTFka0g1c0RWZGti?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUd4aG5rd3hhR0dVbDVGMDlqZlQwaFg0VEVFV011M3Vsc1BGMXVxemJWMGUtUjdzd3dmQXB1RWIyeV9oUDBkbGNFUWNQVTdMeS1UQVd1M1YtX053a1NlTEh2R0h2S0R5UHdDVlJ2dDVFMjllTmZDVzFBSDJURDE4ejl5X3FKVzV3UTFka0g1c0RWZGti?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten"
+    },
+    {
+      "id": "auto-2026-10-03-whispers-from-tafi-atome-monkey-sanctuary",
+      "date": "2026-10-03",
+      "category": "forest",
+      "title": "Whispers from Tafi-Atome Monkey Sanctuary",
+      "place": "Volta Region",
+      "region": "Volta",
+      "lat": 6.6,
+      "lon": 0.47,
+      "summary": "Welcome to Tafi Atome Monkey Sanctuary and Cultural Village,” a metallic signpost embossed with the picture of the colourful Mona monkey gave an indication that we had reached our destination. It was on Wednesday, July 1, 2026. The atmosphere at Tafi-Atome, a farming community of about 1,500 people, was filled with the harmonious melody of chirping birds, humming insects and whooping monkeys. Tucked away in the lush,",
+      "metrics": {},
+      "source": {
+        "name": "Where loyalty is tied to the banana",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-whispers-from-tafi-atome-monkey-sanctuary-where-loyalty-is-tied-to-the-banana.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-whispers-from-tafi-atome-monkey-sanctuary-where-loyalty-is-tied-to-the-banana.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-03T11:37:22.431Z"
+    },
     {
       "id": "auto-2026-10-02-stop-massaging-galamsey-rrig-director-rallies-media-to-drive",
       "date": "2026-10-02",
@@ -195,6 +255,28 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-10-01-why-barker-vormawor-believes-ghana-has-lost-the-fight-agains"
+    },
+    {
+      "id": "auto-2026-10-02-naimos-raid-10-excavators-seized-in-anti-illegal-mining-oper",
+      "date": "2026-10-02",
+      "category": "arrest",
+      "title": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "NAIMOS RAID: 10 excavators seized in anti-illegal mining operation on River Pra | Joy News Prime Modern Ghana",
+      "metrics": {
+        "excavators": 10
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LYm1GVDVRZzgwaDRVNm0xWkZlTFZsMEFRZHc0WWc4b2hPY3RlYjZJVjhlbGhCZngxTnNMMHVLbWwtRGFqakRzcmdhUFFWZl85SjJ5SHlCVnBSZjZfV2J3dGZ2XzjSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LYm1GVDVRZzgwaDRVNm0xWkZlTFZsMEFRZHc0WWc4b2hPY3RlYjZJVjhlbGhCZngxTnNMMHVLbWwtRGFqakRzcmdhUFFWZl85SjJ5SHlCVnBSZjZfV2J3dGZ2XzjSAVxBVV95cUxOZmt5eWRxbUFlZ3FKQWhJbVlEYlNSMlJuY18xYS05dm8wSWtOcnlBOXhlMHhDUzAzY3J3M093eENqMkxOVjZUUDBoYWZhTTdVN1RESURDU1NQbjlpdQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
     },
     {
       "id": "auto-2026-10-01-mahama-faces-economic-political-constraints-in-galamsey-figh",
@@ -579,7 +661,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/business/goldbod-generates-1-87bn-for-september-fx-exceeds-target",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-03T11:41:15.942Z"
     },
     {
       "id": "auto-2026-09-30-we-treat-galamsey-with-kid-gloves-a-rocha-ghana",
@@ -619,6 +702,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGR6T2R5dGpUc3QyOUVHYk84d1Q1S0dDdWtVWTFRa1d1TFF0cV9MM05jSC1CdFF2Yjd4V2dYUFFXQ1hWSVFidkpVZ0ZaQmZMNTJLa1hpcFpJb3piUkZ1Y3VHZHBOUmJkRkdYYlZXejVPMWpfSDBlaXl6eE1GSHJNZ0lLUGtHQTN1azl3Q1hEemNxcVAzV19ZQUJEVzJENGhRaDFQTzdlSzI?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-03T11:41:40.673Z",
       "thread": "t-auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen"
     },
     {
@@ -6747,6 +6831,25 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHloUTNPcW43MjFUU1BXbXJRSEQ3WHpFUkotRWc3S1FlVkVDRmZTSFV3Um5ubm5WbGxrUzVyMnlrek9KbVJDSGZPNkJObUg2VGZSTFJFM3dxWDJXU01QUl9xamxTV3ZTdEc3UEpFNVVCNG9wdWZxcGZqTEw4bHU4WFpKbGY4dG9PMFg3b0JKZGcwZUFDdTBjNDlRMnVHSzFzbGsxNzBNTkhibnhLRmdqYXBqdWNSRUlfR3VyYl9TOFlYbHROSnJBVFp5U2p0U2FHQnRjeTViRWxGeUF4?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHloUTNPcW43MjFUU1BXbXJRSEQ3WHpFUkotRWc3S1FlVkVDRmZTSFV3Um5ubm5WbGxrUzVyMnlrek9KbVJDSGZPNkJObUg2VGZSTFJFM3dxWDJXU01QUl9xamxTV3ZTdEc3UEpFNVVCNG9wdWZxcGZqTEw4bHU4WFpKbGY4dG9PMFg3b0JKZGcwZUFDdTBjNDlRMnVHSzFzbGsxNzBNTkhibnhLRmdqYXBqdWNSRUlfR3VyYl9TOFlYbHROSnJBVFp5U2p0U2FHQnRjeTViRWxGeUF4?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-09-04-ghana-reports-seizure-of-over-3-000-illegal-mining-machines",
+      "date": "2026-09-04",
+      "category": "arrest",
+      "title": "Ghana reports seizure of over 3,000 illegal mining machines",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana reports seizure of over 3,000 illegal mining machines UA.NEWS",
+      "metrics": {},
+      "source": {
+        "name": "UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXM3OFFqc3RJUVlrUGZaSEdNNlB4NXBXVmpLbXlXcnVCWEx4akVYR0NzY0dHcVhhb2FPeW9HdlBOd2psbkE2RlNrM2tpVzZKejNXazJYcW1iWHVFZ0xoazloUk1xTHVuOF9GempuN1pUbTRzRnRITzd4WWlWOWZMejFPYU1lM2pnSWdZcFB5MEJ0Qk1YY0ZBX2pOUExiekstYTRGOHJicGlOdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXM3OFFqc3RJUVlrUGZaSEdNNlB4NXBXVmpLbXlXcnVCWEx4akVYR0NzY0dHcVhhb2FPeW9HdlBOd2psbkE2RlNrM2tpVzZKejNXazJYcW1iWHVFZ0xoazloUk1xTHVuOF9GempuN1pUbTRzRnRITzd4WWlWOWZMejFPYU1lM2pnSWdZcFB5MEJ0Qk1YY0ZBX2pOUExiekstYTRGOHJicGlOdw?oc=5",
       "via": "rss",
       "verified": false
     },
