@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-03T21:17:31.815Z",
+  "updated": "2026-10-04T05:53:02.509Z",
   "counts": {
-    "total": 994,
+    "total": 996,
     "verified": 28,
-    "automated": 966,
+    "automated": 968,
     "earliest": "2024-07-01",
     "latest": "2026-10-03"
   },
@@ -85,6 +85,45 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1VUYkNiYkNWR3RTaHJIQ0tQZFNJblZQSFZJVkpEUDdJYzJXdHZuR2pIQVgtUWhuUlBXQWNEMk9qaW1xdXVuU3pBYVJWRWsyYzIzT2NjdElnRE03STdWTjdGVVRkU0dPZ0I1RV9fUXd3ajdOd09zSEdDMjVfT21GN2ZqeW4zRXc0SC1DR09yNkU1R1BoRThRQkN0cElzRWNFMHJCbm44YXlqaXo5aF96Nm0wbHdidw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1VUYkNiYkNWR3RTaHJIQ0tQZFNJblZQSFZJVkpEUDdJYzJXdHZuR2pIQVgtUWhuUlBXQWNEMk9qaW1xdXVuU3pBYVJWRWsyYzIzT2NjdElnRE03STdWTjdGVVRkU0dPZ0I1RV9fUXd3ajdOd09zSEdDMjVfT21GN2ZqeW4zRXc0SC1DR09yNkU1R1BoRThRQkN0cElzRWNFMHJCbm44YXlqaXo5aF96Nm0wbHdidw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-03-galamsey-has-worsened-since-the-ndc-came-to-power-in-2025-af",
+      "date": "2026-10-03",
+      "category": "forest",
+      "title": "Galamsey has worsened since the NDC came to power in 2025 - Afenyo-Markin, Minority Leader.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey has worsened since the NDC came to power in 2025 - Afenyo-Markin, Minority Leader. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMWG1hdG9Cd0Zoa29MdzcxY0haeGRjdG0yUmhUTWI3Unk3ZUVNdEtfMkhLTVl5TFRfekdvX0s5d2hvYXpXZ3ZPc1JLR1RsVGhwU1BNN2hDQ3hsbjZucVhTQ2RiaWXSAVxBVV95cUxOQ3ZFSkRETFhJZEx5dnIwVHN2QXZ4Znh0N2h2SklQcVBkZ19seDBveE0xc2FCV1dqbkRXUkpBb0FFXzRBSjZGZ2VJeWZkNEY5V19GSEw0Zk55ZjhWYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMWG1hdG9Cd0Zoa29MdzcxY0haeGRjdG0yUmhUTWI3Unk3ZUVNdEtfMkhLTVl5TFRfekdvX0s5d2hvYXpXZ3ZPc1JLR1RsVGhwU1BNN2hDQ3hsbjZucVhTQ2RiaWXSAVxBVV95cUxOQ3ZFSkRETFhJZEx5dnIwVHN2QXZ4Znh0N2h2SklQcVBkZ19seDBveE0xc2FCV1dqbkRXUkpBb0FFXzRBSjZGZ2VJeWZkNEY5V19GSEw0Zk55ZjhWYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
+    },
+    {
+      "id": "auto-2026-10-03-civil-society-groups-demand-police-action-over-intimidation-",
+      "date": "2026-10-03",
+      "category": "forest",
+      "title": "Civil society groups demand police action over intimidation in galamsey-affected communities",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Civil society groups demand police action over intimidation in galamsey-affected communities GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS2VyU0FybFB1RE1sSVcyV2pxRVFub0s4d09zdFFQcUcwTlBYenZHRS1ldmxSS1F1ZVZlYmJKdXVaZ0tpYzcybU9mVURfN2pFdU9EVjFFQlVCOEpMT0wyOGN6TWtOYzBZUGlGRnYzTEdCWWxucldDRDhoNFp4QUh0d0E2NUZwY0hwb09rd0c1UXBWRHhzRFNLSExQNXJCTl82M1lpN3lYcDh6RzZIMS1PUVpURGNjckwzOXQtNld5b0dvUU52SV9rb1dnN28wNjRwWUFYbVlNM0pTclh2SS1zU04zNjJpUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS2VyU0FybFB1RE1sSVcyV2pxRVFub0s4d09zdFFQcUcwTlBYenZHRS1ldmxSS1F1ZVZlYmJKdXVaZ0tpYzcybU9mVURfN2pFdU9EVjFFQlVCOEpMT0wyOGN6TWtOYzBZUGlGRnYzTEdCWWxucldDRDhoNFp4QUh0d0E2NUZwY0hwb09rd0c1UXBWRHhzRFNLSExQNXJCTl82M1lpN3lYcDh6RzZIMS1PUVpURGNjckwzOXQtNld5b0dvUU52SV9rb1dnN28wNjRwWUFYbVlNM0pTclh2SS1zU04zNjJpUQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -10870,7 +10909,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/while-goldbod-cannot-account-for-gh%c2%a222bn-mining-communities-are-paying-with-their-kidneys-and-lungs-afenyo-markin/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
     },
     {
       "id": "auto-2026-08-24-23-people-including-11-children-killed-by-abandoned-mining-p",
