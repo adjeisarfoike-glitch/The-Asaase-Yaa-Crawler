@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-05T05:40:27.637Z",
+  "updated": "2026-10-05T14:38:22.066Z",
   "counts": {
-    "total": 997,
+    "total": 998,
     "verified": 28,
-    "automated": 969,
+    "automated": 970,
     "earliest": "2024-07-01",
     "latest": "2026-10-03"
   },
@@ -210,7 +210,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHotMmtMMnYxd05EblRtM3E0RG9xZ0NvR2ZDanZ1Vzlfemg2bkNvcDdZYlhlMW5LY01mUEVSM05hbWhRMlU3MVc5LXZyNXFYSk1qdlJTUVJCQ201ZFZPLXo2dEdJWV9hTWJ6NDFjQlZFN1BqS0VOVW54Z0JOb2kzVjFtNmFuYU1tWWdCZWE2TXhWbVBLemhQcF82SGJnSUZ0NmRlcS12VllYdW9nTk1jZ0NpdHYwR0xaYk95Nm0zOWNNUUpqOF9hXw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-05T14:32:21.057Z"
     },
     {
       "id": "auto-2026-10-02-naimos-seizes-10-excavators-in-raid-on-illegal-mining-sites-",
@@ -745,7 +746,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/business/goldbod-generates-1-87bn-for-september-fx-exceeds-target",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-03T11:41:15.942Z"
+      "archivedAt": "2026-10-03T11:41:15.942Z",
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-09-30-we-treat-galamsey-with-kid-gloves-a-rocha-ghana",
@@ -1799,6 +1801,26 @@
       "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
     },
     {
+      "id": "auto-2026-09-26-our-gold-their-value-illegal-mining-and-the-foreign-buyers-d",
+      "date": "2026-09-26",
+      "category": "forest",
+      "title": "Our Gold, Their Value: Illegal Mining and the Foreign Buyers Draining West Africa",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Our Gold, Their Value: Illegal Mining and the Foreign Buyers Draining West Africa modernghana.com",
+      "metrics": {},
+      "source": {
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDRCQmFsc2p6eDFtSFdCSml4aWxUeXc3QWdMVnlFd3dLLXl5Z0J2Z3R6dFhzd2RVa3ZPQVJMOWFUcUppT1l3X1M5aWd5QThjWG1heC1jb2duUURYaXlCMkpjMF91cWJMbkExZW5YTEs4LUs3WW1VRkVBYzFsbHZZSUJwTWZ3M2dDRk1mNWg2Q3RZcjNQaW0xRDh3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDRCQmFsc2p6eDFtSFdCSml4aWxUeXc3QWdMVnlFd3dLLXl5Z0J2Z3R6dFhzd2RVa3ZPQVJMOWFUcUppT1l3X1M5aWd5QThjWG1heC1jb2duUURYaXlCMkpjMF91cWJMbkExZW5YTEs4LUs3WW1VRkVBYzFsbHZZSUJwTWZ3M2dDRk1mNWg2Q3RZcjNQaW0xRDh3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
+    },
+    {
       "id": "auto-2026-09-25-galamsey-threatens-country-s-coastal-economy-ucc-prof",
       "date": "2026-09-25",
       "category": "forest",
@@ -2162,8 +2184,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -2434,21 +2455,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region modernghana.com",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TDZnZXp5VnBIZ3BCc1NUQ0JVZHY5djg5MF9lTWpHdS1nSm51ejVKY0t3d01FYWszVnVYamNMZFhrM2V0RGh5dXBTdEhKWEFGSU9Pa0phOF9ZdzUzU1VkOFNTYjnSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "name": "modernghana.com",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TDZnZXp5VnBIZ3BCc1NUQ0JVZHY5djg5MF9lTWpHdS1nSm51ejVKY0t3d01FYWszVnVYamNMZFhrM2V0RGh5dXBTdEhKWEFGSU9Pa0phOF9ZdzUzU1VkOFNTYjnSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
