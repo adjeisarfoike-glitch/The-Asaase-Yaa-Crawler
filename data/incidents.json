@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-04T21:26:28.958Z",
+  "updated": "2026-10-05T05:40:27.637Z",
   "counts": {
-    "total": 996,
+    "total": 997,
     "verified": 28,
-    "automated": 968,
+    "automated": 969,
     "earliest": "2024-07-01",
     "latest": "2026-10-03"
   },
@@ -107,6 +107,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMWG1hdG9Cd0Zoa29MdzcxY0haeGRjdG0yUmhUTWI3Unk3ZUVNdEtfMkhLTVl5TFRfekdvX0s5d2hvYXpXZ3ZPc1JLR1RsVGhwU1BNN2hDQ3hsbjZucVhTQ2RiaWXSAVxBVV95cUxOQ3ZFSkRETFhJZEx5dnIwVHN2QXZ4Znh0N2h2SklQcVBkZ19seDBveE0xc2FCV1dqbkRXUkpBb0FFXzRBSjZGZ2VJeWZkNEY5V19GSEw0Zk55ZjhWYw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-05T05:35:09.559Z",
       "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
     },
     {
@@ -126,7 +127,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS2VyU0FybFB1RE1sSVcyV2pxRVFub0s4d09zdFFQcUcwTlBYenZHRS1ldmxSS1F1ZVZlYmJKdXVaZ0tpYzcybU9mVURfN2pFdU9EVjFFQlVCOEpMT0wyOGN6TWtOYzBZUGlGRnYzTEdCWWxucldDRDhoNFp4QUh0d0E2NUZwY0hwb09rd0c1UXBWRHhzRFNLSExQNXJCTl82M1lpN3lYcDh6RzZIMS1PUVpURGNjckwzOXQtNld5b0dvUU52SV9rb1dnN28wNjRwWUFYbVlNM0pTclh2SS1zU04zNjJpUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-05T05:35:34.104Z"
     },
     {
       "id": "auto-2026-10-02-stop-massaging-galamsey-rrig-director-rallies-media-to-drive",
@@ -295,6 +297,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjVaendVLXlZWHdBZXZkS2J0ek5JUzZWTkFCckxJYzZCNGRORFQ1QXBrM3BLRllvLU5Qd2FXaXoyMXpWeENIMm5iTUpMR0YwWnFrRFBNR01sVHAtX1VKWFkwRWxyMU1lUXQ4VWlBS292ZDZoNEduZlc1SVgyRFFsZ1FKREUxSy1vTlpZdnpYSmhIdjli0gGTAUFVX3lxTE9mcmZrY0UyRnhxblEzd2p3UEVPeWxadjB5M2o0Z05PaS1CaFNjM0JZd0tZYTFKNmF1QUMyNTVhSEJXZDFKWUplcmdEXzFxQmM4MXRYc29VOGVfeWJMbjZLaDZVTk5qWExIX01NellPaDZ5cEt3Q3pRZllZdmtIbXBxb0kwZVp4SHFvZUd5OG9jUm9wSQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-05T05:36:10.926Z",
       "thread": "t-auto-2026-10-02-schandorf-writes-is-the-galamsey-fight-lost-an-open-letter-t"
     },
     {
@@ -540,6 +543,25 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-02T22:16:33.084Z"
+    },
+    {
+      "id": "auto-2026-10-01-we-treat-galamsey-with-kid-gloves-compared-to-other-situatio",
+      "date": "2026-10-01",
+      "category": "forest",
+      "title": "‘We treat galamsey with kid gloves compared to other situations’ – A Rocha Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘We treat galamsey with kid gloves compared to other situations’ – A Rocha Ghana Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckJsc3FlSnd5ZjdoMTZLVExQamFwSjNna3FiX0g1U3hZMHNMMW1BZmZqamhVTVZwMElIWk1aU3Uzd2p4YUtmTHBwY2plQXBabVRleGJBdkk4YUF2cnpFRkFfbndtVUppemtFNTRva1RlMkZiSUlIdmIyNjZsbW80WTJINS0zemJZWEpXS1lzeGFsVTRXU3fSAZQBQVVfeXFMT0lwWDlrbjkzQWVWaXRydFZsWC16S0s4SWt4YTNKYTVVQllrdjhWeVpIMk9FMDhxSFBiWXEyMzZGZGMxT2g3TlY4bFdTcUh3V2NmYmFOb1V0YmY0NXI2b25Za3NOcFFCbDl1QU5nYk5kaGxxTy1xM3ktMW9iUXZhR1ZTVmhQYW1DbEtVU1E5a3dkUkZONQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOckJsc3FlSnd5ZjdoMTZLVExQamFwSjNna3FiX0g1U3hZMHNMMW1BZmZqamhVTVZwMElIWk1aU3Uzd2p4YUtmTHBwY2plQXBabVRleGJBdkk4YUF2cnpFRkFfbndtVUppemtFNTRva1RlMkZiSUlIdmIyNjZsbW80WTJINS0zemJZWEpXS1lzeGFsVTRXU3fSAZQBQVVfeXFMT0lwWDlrbjkzQWVWaXRydFZsWC16S0s4SWt4YTNKYTVVQllrdjhWeVpIMk9FMDhxSFBiWXEyMzZGZGMxT2g3TlY4bFdTcUh3V2NmYmFOb1V0YmY0NXI2b25Za3NOcFFCbDl1QU5nYk5kaGxxTy1xM3ktMW9iUXZhR1ZTVmhQYW1DbEtVU1E5a3dkUkZONQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-09-30-the-fate-of-galamsey-progress-on-paper-a-test-of-will-on-the",
@@ -2140,7 +2162,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -2411,20 +2434,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TDZnZXp5VnBIZ3BCc1NUQ0JVZHY5djg5MF9lTWpHdS1nSm51ejVKY0t3d01FYWszVnVYamNMZFhrM2V0RGh5dXBTdEhKWEFGSU9Pa0phOF9ZdzUzU1VkOFNTYjnSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLNC1tX29hRHMzbzA4MlZkeFBiWEo5aEJrWU4xR2EtQVUwMzVSVVROaUpCUjRsZ0pLV3JyTFczQWdWVkVwX2ozSDdqLVJ0OXd5SjBlbktLVkR4NFpvakxxc0k1TVPSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TDZnZXp5VnBIZ3BCc1NUQ0JVZHY5djg5MF9lTWpHdS1nSm51ejVKY0t3d01FYWszVnVYamNMZFhrM2V0RGh5dXBTdEhKWEFGSU9Pa0phOF9ZdzUzU1VkOFNTYjnSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
