@@ -1,13 +1,111 @@
 {
-  "updated": "2026-10-06T06:21:38.715Z",
+  "updated": "2026-10-06T13:27:51.023Z",
   "counts": {
-    "total": 1001,
+    "total": 1006,
     "verified": 28,
-    "automated": 973,
+    "automated": 978,
     "earliest": "2024-07-01",
-    "latest": "2026-10-05"
+    "latest": "2026-10-06"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Galamsey fight: 'NDC and NPP have failed us' — Efia Odo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: 'NDC and NPP have failed us' — Efia Odo Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOW8xTzVQUmxxb0piR2Z4QV9aTmtwOXFlRHpNT2VZVTl6S3lJV3dkN0tIenhjX1hzajVSbTB2RC1NMTFvekFDT2UzQWw5YVNhQ0pETjdkRGpZczkyOEprVUlOcjFDV2hmVDRjckplV3BEQzlGak13c2NfaDhjMWZhZVdaYndXci1CTHcza00zSnVlNmZ0akpPQTZR0gGYAUFVX3lxTE5Gd3VneHpmc0RDeG93cEZLZ3k5ZlJqWmlUbEJYNjRzUkV0ckp2TkJ1WVM3YmZ2SElCeEx3d1VIMHZGTTZ6WHJMOW9CaGxhZy1zZVV3V05HY1JxVDRkWnFEdFg3UEJOaDB4TnBXdHNNR3VLOTFEcTNaTEtjUEpZYzdBZXJLM3ZRNUNEaUQ4S3JjN3ZOT1oxdFFv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNOW8xTzVQUmxxb0piR2Z4QV9aTmtwOXFlRHpNT2VZVTl6S3lJV3dkN0tIenhjX1hzajVSbTB2RC1NMTFvekFDT2UzQWw5YVNhQ0pETjdkRGpZczkyOEprVUlOcjFDV2hmVDRjckplV3BEQzlGak13c2NfaDhjMWZhZVdaYndXci1CTHcza00zSnVlNmZ0akpPQTZR0gGYAUFVX3lxTE5Gd3VneHpmc0RDeG93cEZLZ3k5ZlJqWmlUbEJYNjRzUkV0ckp2TkJ1WVM3YmZ2SElCeEx3d1VIMHZGTTZ6WHJMOW9CaGxhZy1zZVV3V05HY1JxVDRkWnFEdFg3UEJOaDB4TnBXdHNNR3VLOTFEcTNaTEtjUEpZYzdBZXJLM3ZRNUNEaUQ4S3JjN3ZOT1oxdFFv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-06T13:21:37.507Z"
+    },
+    {
+      "id": "auto-2026-10-06-if-you-re-not-cheating-take-this-egg-and-invoke-a-curse-gala",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "“If you’re not cheating, take this egg and invoke a curse” – Galamseyer confronts girlfriend",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“If you’re not cheating, take this egg and invoke a curse” – Galamseyer confronts girlfriend Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmxiTE04OXZxWVJKVG5rejlXTUVwdUZSNHpsQWNVNmJWa1JLdzBGYUVlRXNhenpmZ1N6Vk5VTmJOYUhtaEdTdDU0S2R3SXp0eldrZExReV9qMERxZDRUVWh4UjF5ZE42WF95NUFaM1BvYzdfd09zNnNkZG15MkJIUUZkMm1tOEQ1Mmp0b3JObk5maUpVeXYxSnAyeU9xV2VK0gGfAUFVX3lxTE1aTXg5cGE5OXVqcTBDLXU1WTRkQTZZMTFEVmpRcUZLWmNnWlg2WHVOTVBScmNUMi1KOG8tNFhOMERWTVI2SFFTLTdsN2hqdFA4M25OZ0NvMW5GZEdZdE1ETC1RVVpjSGhFTWNkUTk2WmdobE1mTi12MThaakI4Z1c3bWMySkZRZkVmX3AyZWNwQ2ZVLXJwZkZFdW9KQnZZdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxObmxiTE04OXZxWVJKVG5rejlXTUVwdUZSNHpsQWNVNmJWa1JLdzBGYUVlRXNhenpmZ1N6Vk5VTmJOYUhtaEdTdDU0S2R3SXp0eldrZExReV9qMERxZDRUVWh4UjF5ZE42WF95NUFaM1BvYzdfd09zNnNkZG15MkJIUUZkMm1tOEQ1Mmp0b3JObk5maUpVeXYxSnAyeU9xV2VK0gGfAUFVX3lxTE1aTXg5cGE5OXVqcTBDLXU1WTRkQTZZMTFEVmpRcUZLWmNnWlg2WHVOTVBScmNUMi1KOG8tNFhOMERWTVI2SFFTLTdsN2hqdFA4M25OZ0NvMW5GZEdZdE1ETC1RVVpjSGhFTWNkUTk2WmdobE1mTi12MThaakI4Z1c3bWMySkZRZkVmX3AyZWNwQ2ZVLXJwZkZFdW9KQnZZdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-06-galamsey-worker-confronts-girlfriend-over-alleged-infidelity",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Galamsey Worker Confronts Girlfriend Over Alleged Infidelity",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Worker Confronts Girlfriend Over Alleged Infidelity ghpage.com",
+      "metrics": {},
+      "source": {
+        "name": "ghpage.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGZ4Q0lHem5DU1NQMUpGZFRzSjhZa193ZHJoT2F1SjZEOW04SW92YTFwcEFBcGNaMnA2eWd0YVRPc2ZDSjJKTEtvMEpKbFcwWEFGODJiV2JrektXcDJvcEhSeUpRcDlucHZ2Q3ItdkpKaFpwMEhiS1RULWgxdGt6VnNmd005VENvdDhjS1ZCRWZMbTNJeEE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGZ4Q0lHem5DU1NQMUpGZFRzSjhZa193ZHJoT2F1SjZEOW04SW92YTFwcEFBcGNaMnA2eWd0YVRPc2ZDSjJKTEtvMEpKbFcwWEFGODJiV2JrektXcDJvcEhSeUpRcDlucHZ2Q3ItdkpKaFpwMEhiS1RULWgxdGt6VnNmd005VENvdDhjS1ZCRWZMbTNJeEE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-06-naimos-finds-illegal-miners-replacing-destroyed-changfan-mac",
+      "date": "2026-10-06",
+      "category": "water",
+      "title": "NAIMOS finds illegal miners replacing destroyed Changfan machines along Pra River",
+      "place": "Pra River",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "NAIMOS finds illegal miners replacing destroyed Changfan machines along Pra River Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWx2dzVucHlxZFF1Q3RxQTU3d3g5d244aWhZNUQ3Wk4zYWhJdEtXdkpWaDBCTUd0VTJYUmFSSHRJOVFGeVA0ZDFCVXA0S2NQbENGUVNfdlR6ejNseHVueG1YbGYta19CcWxBU3Q0cDMtYVZEejBIRVQwcm9OWFJmRTBVcHJUU0JLY25DWFU1cU9OTmNacDQ1YVV5anBQaDBoQlZLN2wyeTlLOVlyTUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWx2dzVucHlxZFF1Q3RxQTU3d3g5d244aWhZNUQ3Wk4zYWhJdEtXdkpWaDBCTUd0VTJYUmFSSHRJOVFGeVA0ZDFCVXA0S2NQbENGUVNfdlR6ejNseHVueG1YbGYta19CcWxBU3Q0cDMtYVZEejBIRVQwcm9OWFJmRTBVcHJUU0JLY25DWFU1cU9OTmNacDQ1YVV5anBQaDBoQlZLN2wyeTlLOVlyTUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
+    },
+    {
+      "id": "auto-2026-10-06-graphic-s-gilbert-azeem-tiroog-bags-2-awards-at-upper-east-g",
+      "date": "2026-10-06",
+      "category": "policy",
+      "title": "Graphic’s Gilbert Azeem Tiroog bags 2 awards at Upper East GJA Awards",
+      "place": "Upper East Region",
+      "region": "Upper East",
+      "lat": 10.79,
+      "lon": -0.85,
+      "summary": "The Upper East Regional Correspondent of the Daily Graphic, Gilbert Azeem Tiroog, won two awards at the 5th Upper East Regional Ghana Journalists Association (GJA) Awards held in Bolgatanga. Mr Tiroog was adjudged Best Peace and Conflict-Sensitive Reporter of the Year and Best Mining and Natural Resources Reporter of the Year for the 2025 year under review. The awards ceremony was held last Friday, in Bolgatanga, on ",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-graphics-gilbert-azeem-tiroog-bags-2-awards-at-upper-east-gja-awards.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-graphics-gilbert-azeem-tiroog-bags-2-awards-at-upper-east-gja-awards.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-upper-east"
+    },
     {
       "id": "auto-2026-10-05-both-ndc-and-npp-have-failed-us-efia-odo-on-galamsey",
       "date": "2026-10-05",
@@ -622,7 +720,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxOckJsc3FlSnd5ZjdoMTZLVExQamFwSjNna3FiX0g1U3hZMHNMMW1BZmZqamhVTVZwMElIWk1aU3Uzd2p4YUtmTHBwY2plQXBabVRleGJBdkk4YUF2cnpFRkFfbndtVUppemtFNTRva1RlMkZiSUlIdmIyNjZsbW80WTJINS0zemJZWEpXS1lzeGFsVTRXU3fSAZQBQVVfeXFMT0lwWDlrbjkzQWVWaXRydFZsWC16S0s4SWt4YTNKYTVVQllrdjhWeVpIMk9FMDhxSFBiWXEyMzZGZGMxT2g3TlY4bFdTcUh3V2NmYmFOb1V0YmY0NXI2b25Za3NOcFFCbDl1QU5nYk5kaGxxTy1xM3ktMW9iUXZhR1ZTVmhQYW1DbEtVU1E5a3dkUkZONQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-06T13:26:18.928Z"
     },
     {
       "id": "auto-2026-09-30-the-fate-of-galamsey-progress-on-paper-a-test-of-will-on-the",
@@ -2247,7 +2346,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -2518,20 +2618,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region modernghana.com",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "modernghana.com",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
