@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-07T13:23:36.299Z",
+  "updated": "2026-10-07T23:08:06.032Z",
   "counts": {
-    "total": 1026,
+    "total": 1033,
     "verified": 28,
-    "automated": 998,
+    "automated": 1005,
     "earliest": "2024-07-01",
     "latest": "2026-10-07"
   },
@@ -190,6 +190,123 @@
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
+      "id": "auto-2026-10-07-afenyo-markin-warns-galamsey-could-destroy-atewa-forest-and-",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "Afenyo-Markin Warns Galamsey Could Destroy Atewa Forest and Ghana’s Rivers",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Afenyo-Markin Warns Galamsey Could Destroy Atewa Forest and Ghana’s Rivers Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ta3JGUmxDcVBvb1NISGhXano3QllERjFnejNDMEtWVUNNOHNuLUNVdWw2Y0VnQU5ZX3RLX1BFZVMtRE15azNGZXB6UXFyendoWkpTQjlvRC1oZVdOdEE1cExpONIBXEFVX3lxTE5CNldmbmthWHowd0xyTmViMzdWaGFlVFFhaDJMNXVBSGdUTG4wbEpJMURVbXNNMVZBQjFIWW9JWlB2bUNmYzc2dGhTLWgyRGNXeXp2VTFCSjRibWZC?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ta3JGUmxDcVBvb1NISGhXano3QllERjFnejNDMEtWVUNNOHNuLUNVdWw2Y0VnQU5ZX3RLX1BFZVMtRE15azNGZXB6UXFyendoWkpTQjlvRC1oZVdOdEE1cExpONIBXEFVX3lxTE5CNldmbmthWHowd0xyTmViMzdWaGFlVFFhaDJMNXVBSGdUTG4wbEpJMURVbXNNMVZBQjFIWW9JWlB2bUNmYzc2dGhTLWgyRGNXeXp2VTFCSjRibWZC?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-07-galamsey-activities-redirect-the-mankron-stream-destroy-farm",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Galamsey activities redirect the Mankron stream, destroy farms & threaten flooding in Okroase",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey activities redirect the Mankron stream, destroy farms & threaten flooding in Okroase Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQdzRkVTIxMk81TTJvUFpXQjZtZmhVaVVpY0gzdW1rNlpXS21YWVdHdmMxSXh6ZU9iNUdLVnFKaWdQX05vejVfc3E5TV9ENFd1MDFXT003VjR1MFREaThzQllrczHSAVxBVV95cUxOZGhrUmlGLWoyb201Tk8xV1BaVEFLOFJkSnlwUFc5M25ZMGtJWXVibUYtZHFBR0NPaTJsZ04xajc2eTBDcElxbG51ZThJbmwtWFRmckpBcGhrb2NoUw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQdzRkVTIxMk81TTJvUFpXQjZtZmhVaVVpY0gzdW1rNlpXS21YWVdHdmMxSXh6ZU9iNUdLVnFKaWdQX05vejVfc3E5TV9ENFd1MDFXT003VjR1MFREaThzQllrczHSAVxBVV95cUxOZGhrUmlGLWoyb201Tk8xV1BaVEFLOFJkSnlwUFc5M25ZMGtJWXVibUYtZHFBR0NPaTJsZ04xajc2eTBDcElxbG51ZThJbmwtWFRmckpBcGhrb2NoUw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-minority-calls-for-decisive-action-against-galamsey",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Minority calls for decisive action against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority calls for decisive action against galamsey GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wS1dlUERvYzFZMHdJalE4aW1zbHA3SmthT0xpYXdYNjR4VEFXX1BodGZaQXVfcGdLUWJUTUlLeUphUjVTTmZBWWc0eTk2TlJ0cHpMVnNOT1VsN2V0cjF4MEZLeTJ3V05BTVVwVThQeXhoSTMzaGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMidkFVX3lxTE5wS1dlUERvYzFZMHdJalE4aW1zbHA3SmthT0xpYXdYNjR4VEFXX1BodGZaQXVfcGdLUWJUTUlLeUphUjVTTmZBWWc0eTk2TlJ0cHpMVnNOT1VsN2V0cjF4MEZLeTJ3V05BTVVwVThQeXhoSTMzaGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-abanga-yakubu-explains-obiaa-bedidi-slogan-rejects-galamsey-",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Abanga Yakubu Explains “Obiaa Bedidi” Slogan, Rejects Galamsey Claims | Face to Face",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abanga Yakubu Explains “Obiaa Bedidi” Slogan, Rejects Galamsey Claims | Face to Face Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUUpIQjktajI0dExIM2FoV1ViMkg5dnlTRllHenRBX3Z2SU0zRWxPTkxaWkRIeWRldDliMTZFTU5yT2pWOU5oc1p3YjVpSnFVaUdzVU5CelQyc01ORTNSaGFwSdIBXEFVX3lxTFBiTmd2UTNYX1VtV0FIMExURFlLT1JTRGkxSGVZOGd3UzhuVldSYmcwYXM4RXNveERhMy12cndfd0oyVUU4c3JhVnZ0dE4yNTUybkFLUG54VGNWODhi?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IUUpIQjktajI0dExIM2FoV1ViMkg5dnlTRllHenRBX3Z2SU0zRWxPTkxaWkRIeWRldDliMTZFTU5yT2pWOU5oc1p3YjVpSnFVaUdzVU5CelQyc01ORTNSaGFwSdIBXEFVX3lxTFBiTmd2UTNYX1VtV0FIMExURFlLT1JTRGkxSGVZOGd3UzhuVldSYmcwYXM4RXNveERhMy12cndfd0oyVUU4c3JhVnZ0dE4yNTUybkFLUG54VGNWODhi?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
+    },
+    {
+      "id": "auto-2026-10-07-abuakwa-south-mp-leads-media-tour-of-galamsey-sites",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Abuakwa South MP leads media tour of galamsey sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abuakwa South MP leads media tour of galamsey sites GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzhTMjJvM1ppSUhoakl2UTdJNXQ2bmUzRHpZbTI5TUVIQW9YU1VKVVhPUmNXSGFsUlEtMC1WaUdCSnc1QlI1cGJ4V0ZXSHpUVDFKR2lrQWRvMnhQbVVqZ1NqMGN0UnlKT3VlazRlSzVqSENxSXU2OVpMdG45a0lKZXJmN1lyN3p4cXlhRGlCdkEwVldsM1FQREE1VnJKLWVOSm92Zkpuc2s2Tjg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzhTMjJvM1ppSUhoakl2UTdJNXQ2bmUzRHpZbTI5TUVIQW9YU1VKVVhPUmNXSGFsUlEtMC1WaUdCSnc1QlI1cGJ4V0ZXSHpUVDFKR2lrQWRvMnhQbVVqZ1NqMGN0UnlKT3VlazRlSzVqSENxSXU2OVpMdG45a0lKZXJmN1lyN3p4cXlhRGlCdkEwVldsM1FQREE1VnJKLWVOSm92Zkpuc2s2Tjg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-10-07-when-the-river-turns-brown-how-galamsey-is-changing-the-way-",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "When the River Turns Brown: How Galamsey Is Changing the Way Ghana Treats Its Water",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "When the River Turns Brown: How Galamsey Is Changing the Way Ghana Treats Its Water MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXBqV2d2cGRFUi1Jc3c3amFiTDJQV1RqUUNKQ2t5U3B3WVRZYmZuYmh0SDVNT0hoRDhVajlrOF93Smk1NHdOU2JNRVN0NHdrLXpGYXVBSEkwanNHbEFnYXJyX3h4bVZzUUhlRVZfOEl0ZGNjY21rWkluTndMU1VNU2NJUmJWRkpObUlTMVVBcjhtOXdzQWNoZEJoOWU0UjU0R2NZOFBGYXktai1f?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNNXBqV2d2cGRFUi1Jc3c3amFiTDJQV1RqUUNKQ2t5U3B3WVRZYmZuYmh0SDVNT0hoRDhVajlrOF93Smk1NHdOU2JNRVN0NHdrLXpGYXVBSEkwanNHbEFnYXJyX3h4bVZzUUhlRVZfOEl0ZGNjY21rWkluTndMU1VNU2NJUmJWRkpObUlTMVVBcjhtOXdzQWNoZEJoOWU0UjU0R2NZOFBGYXktai1f?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
       "date": "2026-10-06",
       "category": "forest",
@@ -308,8 +425,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFJIVk5RNGVqelE3Vl84eE9VWXdjTWpHWkxRa1V0SnJ3bktkTG1ZYWZkcmJVdzJ3TUc2clZ1Wnczc2lZckNxNnlFenl5YzRBbWoycmdwUHFBT2dLbjR0VDBGV3paR2dhenVtTmlJZ2VxampnTVNId20tWTdrOXJ2N09oR2FkdnRVdkxzRFhZektkaUZ4Tmc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-06-caucus-calls-on-council-to-intervene-in-arrests-goldbod-and-",
@@ -368,8 +484,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxOZW1URHZNdkhfMEdxbzBRNEFBczR1V0Q0Qy1DR1pUWFZtbmdQRVA4LTROWVJxcy1SNjdTTTZ3ejFzbWRfekk3LWotRzNtdXg5ajBFRkNIV2Y4blBMTzZ2SDJROUN1UVpGX0toNnJfNW15eERwemRBUzBndFFwQnVvNzFOMGFpWFlJQk9faGpWX25kRUtQZkx0R0ZXa21pMzRGbTdLODU2X3Ntcm9MVGc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-06-galamsey-could-wipe-out-ghana-s-forest-reserves-put-atewa-fo",
@@ -389,8 +504,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkNMdHJhTXM3Nkc5ZWVoTDRpNG1YMnJ6SE5mRmtBZEZ4dnFQZ3BSNG43TU40ZlE1R3RJLXdRQ0MxVUJ6S2ZKaXU0Z09wejhjalVvNkQtMmFmZmotSzBNSzh0T0xQTkhmbno0djF3WDlRTXdEWlUxRlQ0dndIWDJFSXEzcnNzS3pNR3cyRmhwOXlCRXRSVS0xTXZOLS1LS3BPQS1BeHFGUnBnWnVaUkpQMXhkX1k?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-07T13:22:55.364Z",
-      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+      "archivedAt": "2026-10-07T13:22:55.364Z"
     },
     {
       "id": "auto-2026-10-06-afenyo-markin-raises-goldbod-losses-galamsey-and-rule-of-law",
@@ -449,8 +563,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0VVVUJzeDN1Tm1iMnZzUzVBcjlQTGFDUW9rd0FqZHgxaWd5dE1BSHFDLUcydWxOZ2RXelRsLURZM3JGejNkbThkY1RIcVZRQmdYN05Nem5RQS1LelY3NzNsQUdBclg1c0M2MjVwUUNXVFFqOHd5NXUxR3V0X2tHd3p0T1B5a3RMRW5KX3pET190VFJW?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-06-abanga-yakubu-unfiltered-ndc-twin-brother-npp-secrets-galams",
@@ -1130,6 +1243,26 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-06T13:26:18.928Z"
+    },
+    {
+      "id": "auto-2026-10-01-ghana-missed-the-boat-in-galamsey-fight-under-president-akuf",
+      "date": "2026-10-01",
+      "category": "forest",
+      "title": "Ghana ‘missed the boat’ in galamsey fight under President Akufo-Addo – Senyo Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana ‘missed the boat’ in galamsey fight under President Akufo-Addo – Senyo Hosi Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZER5T0VqSjZVMmlRR3FuWXRTMUNwQXdqZUUwV0pzRHdmcVVnMFd2elR6QTh3RkpzLThMb0ZyZ05oU0tZVVo4Z0g4a0c1Qm1UOE9NalcyZi04THJ3NUs2eDZzTWpua0VJc21ReUUxbW5wQlNCQTBBM0k4RXBsVWlpVnJBVE1wQkRUaHcxWG83UDdCdHJfd2fSAZQBQVVfeXFMUGo0Q3hKRDFLY0ZXdUhrM1l4VHhBNmprUks3N2FsQ25xYW93bWpBd0t4WEcxNjJOc0dRektWYWszTXBqRE9xYlFnczM0Z2wzZ1hHRklSTHdWc2RoZ1hlYzV3aWlOWlp5MHM3T0NoQXVmdHNVdU55aklFb0pZVjhnRDY1YWcxa3JSU3diSEN2VEllRFNIYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPZER5T0VqSjZVMmlRR3FuWXRTMUNwQXdqZUUwV0pzRHdmcVVnMFd2elR6QTh3RkpzLThMb0ZyZ05oU0tZVVo4Z0g4a0c1Qm1UOE9NalcyZi04THJ3NUs2eDZzTWpua0VJc21ReUUxbW5wQlNCQTBBM0k4RXBsVWlpVnJBVE1wQkRUaHcxWG83UDdCdHJfd2fSAZQBQVVfeXFMUGo0Q3hKRDFLY0ZXdUhrM1l4VHhBNmprUks3N2FsQ25xYW93bWpBd0t4WEcxNjJOc0dRektWYWszTXBqRE9xYlFnczM0Z2wzZ1hHRklSTHdWc2RoZ1hlYzV3aWlOWlp5MHM3T0NoQXVmdHNVdU55aklFb0pZVjhnRDY1YWcxa3JSU3diSEN2VEllRFNIYQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen"
     },
     {
       "id": "auto-2026-09-30-the-fate-of-galamsey-progress-on-paper-a-test-of-will-on-the",
@@ -2754,7 +2887,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -3025,20 +3159,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -4668,8 +4803,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxORV80YnNNek9OMGxtZHRwSHBZaVZHWGNaa3lHQmVDSFNKbml4bkdEZWJPVmd2aUUtckM2MENpLWVzdkw2UnprRnFHbE5RQzg1ODY1Y1dFSHdjM09iRERyYWtUZFpGTWsxNEhtaXY4SzYtM0lpR3U0UXJJQkNnSGdNY2l4QUY1ZzE1Q1YwQkhLeDQwVkhLcnJ5YU1BaG7SAZsBQVVfeXFMTXZ5dWJ6c0NaWEhJcmVlWVA0UEp1OWJKbzV2T1R1dmNtdTV4Q3k2aEdjaHY2SEdlcXY0Q0FKSzYwY3ZDR0xOTFUtU2daZVVhc1VZRnhjSDhKTmV6OWNYVzNEV2xaNm40Um9rN2ZDc0xDZFMzRjM0aHFZV2I3TGpOUFd5VlB0N1lZLTNhT0lxQ0VFa25xaVZsWmNXMDg?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
+      "verified": false
     },
     {
       "id": "auto-2026-09-14-atewa-forest-under-siege-inside-ghana-s-expanding-galamsey-c",
@@ -17343,8 +17477,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnlWcVpOVW1kRlBHRjktTkNUbnFsdDZhdDlmRGFpU2lSdUcwT0lpckJXWThlTFdGRlBRNWl1Q2VmRXFsdTNHNG5qRFdBMm1mcUN4aTlLeVhRR1ZfamlkSldLbjFvQW4wNHRXVkFRd21taUFISkdDbVVaZlh2XzA5YS1LT0FabGJqcWx1c1p5RjlNTFJC0gGTAUFVX3lxTE05WXdmbXoxcXF6OGZrd3ByVzByejg4Z082T01YU3lfQXVOSmNLeU42S3c3LVBMR0xfb2FDU0l3RGl4U3hJYUo0ZDJzUnJNUU5xRjBBbFBTV25zMnB4NFVNVkxQaU9feFZmZjBjbXlzVFR5WGpiRXowYzZZTUxXVTltOVg1VVEyaWtIbFBibkI2d09SWQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T15:42:12.979Z",
-      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
+      "archivedAt": "2026-08-09T15:42:12.979Z"
     },
     {
       "id": "auto-2026-08-07-galamsey-will-eventually-tarnish-our-performance-dadson-warn",
