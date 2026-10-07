@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-07T06:00:51.492Z",
+  "updated": "2026-10-07T13:23:36.299Z",
   "counts": {
-    "total": 1018,
+    "total": 1026,
     "verified": 28,
-    "automated": 990,
+    "automated": 998,
     "earliest": "2024-07-01",
     "latest": "2026-10-07"
   },
@@ -26,7 +26,168 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WVjZaZGVNWFdVN19Bd2p6TDR2RVdWTUtfZ21kS095MFZtMGpwY1RGWGNWeE1mWU9PMDRpVF96OThycUxmY0Q4Vm5aNG16QUNGOW11NHNzbHg0RlJ0QVVQdFlCQdIBXEFVX3lxTFBBazc3ODNkN3VsMzg4UVVhOW5GeE1wT0swbFFDTV9vczZZazZBRXZNeGJZZ0ZadWlWQ1ZJRHl1aGJTakczOUlNdGZHNENVaHZpdXV6WndhRVduZDli?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-07T13:18:26.936Z",
       "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-07-afenyo-markin-sounds-warning-over-goldbod-and-growing-galams",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Afenyo-Markin Sounds Warning Over GoldBod And Growing Galamsey Threat",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Afenyo-Markin Sounds Warning Over GoldBod And Growing Galamsey Threat Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT016UGdqcEJiMnViQ3NmdXlCUzk1Nk95M1RRMWF3Z2t5Tl8zOUc2Zl9fVW9SVkZnY3BMekN5RXZIU21aVFJkTmYtVjRGaW9odHhVb1N5V1FmREZDWFFxSXVPUzVyaU1oM0tFRXRzdGdiaWZhNGduUEZpTGFHSHJDUHVMUXdlMmRlZlN2cmZ2MDFWTHBxZUk0aUNObWkzcHEtdEE2aEhDOGJHVGEzQWhDX1lIXy0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQT016UGdqcEJiMnViQ3NmdXlCUzk1Nk95M1RRMWF3Z2t5Tl8zOUc2Zl9fVW9SVkZnY3BMekN5RXZIU21aVFJkTmYtVjRGaW9odHhVb1N5V1FmREZDWFFxSXVPUzVyaU1oM0tFRXRzdGdiaWZhNGduUEZpTGFHSHJDUHVMUXdlMmRlZlN2cmZ2MDFWTHBxZUk0aUNObWkzcHEtdEE2aEhDOGJHVGEzQWhDX1lIXy0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
+    },
+    {
+      "id": "auto-2026-10-07-abuakwa-south-mp-embarks-on-tour-to-expose-galamsey-destruct",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "Abuakwa South MP embarks on tour to expose galamsey destruction of Birim River",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Abuakwa South MP embarks on tour to expose galamsey destruction of Birim River Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObklPWVFKUVgwZmJJMmtNZDdFQ2tjZ1BjMXN2Um5STS1wOUtPRmVKOTMwcHhEdFc0aWduU2NlQkZHdFBPd0JEOVY4LXhNNFBFdTYwYVdBcGZ4cjhqVVRaaHRtOGxHWnQ4NTJDR2phZ3VtSzhZXzQtQ3ZtWUVLSmtjUDJxSG43clJGS1ljMHN4UGJzb1M0Tmo1ZGgwSHlUNkZvTEE2dXI2TTluQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxObklPWVFKUVgwZmJJMmtNZDdFQ2tjZ1BjMXN2Um5STS1wOUtPRmVKOTMwcHhEdFc0aWduU2NlQkZHdFBPd0JEOVY4LXhNNFBFdTYwYVdBcGZ4cjhqVVRaaHRtOGxHWnQ4NTJDR2phZ3VtSzhZXzQtQ3ZtWUVLSmtjUDJxSG43clJGS1ljMHN4UGJzb1M0Tmo1ZGgwSHlUNkZvTEE2dXI2TTluQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-07T13:19:16.223Z",
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-10-07-galamsey-threatens-clean-water-supply-from-birim-river-mp",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "Galamsey Threatens Clean Water Supply From Birim River – MP",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Galamsey Threatens Clean Water Supply From Birim River – MP News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmFQb0syUzEzSTJtRU5UM0NhMnk1ckI2QTNEWUFUSGVMQ2pvV1lpQ1VZNTMydTdrTS1zUmhWYVV1RzhFcldURWFPR0RldmZ1NWVvZ0szdUdRQWRzbmxJcmxoTENvX0ZXVllXUHlZa3V6UVozRWpEa09xcDItZlRFUENwWThobTR3bWZj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmFQb0syUzEzSTJtRU5UM0NhMnk1ckI2QTNEWUFUSGVMQ2pvV1lpQ1VZNTMydTdrTS1zUmhWYVV1RzhFcldURWFPR0RldmZ1NWVvZ0szdUdRQWRzbmxJcmxoTENvX0ZXVllXUHlZa3V6UVozRWpEa09xcDItZlRFUENwWThobTR3bWZj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-07-galamsey-activities-redirect-mankran-stream-destroy-farms-an",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Galamsey activities redirect Mankran Stream, destroy farms, and threaten flooding in Okroase",
+      "place": "Mankran",
+      "region": "Ashanti",
+      "lat": 6.8,
+      "lon": -2.02,
+      "summary": "Galamsey activities redirect Mankran Stream, destroy farms, and threaten flooding in Okroase MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1hjZEtsd1pFTnRRX1VfdWVnU0FKQjFSa2ZOUnBwNFF4VFhnRll3ZU81T3Nvd2VUd0pKbk5QOXhiNUI1dU04S0lBLTJYM1M1WkxCb1hCWjYwcTlqVHZVRnJ3NTdwbmlZb2xUcGZ0OUQtUTZFUVc3dWlXMGJLMXoxalNWRkJ2b0EtZ2Zid1Y2a0Vkck9SUGFCUXBjY0lyR09paU10SDkweW9ONE1YY3NfdHkwN1VGTVVOZkpJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1hjZEtsd1pFTnRRX1VfdWVnU0FKQjFSa2ZOUnBwNFF4VFhnRll3ZU81T3Nvd2VUd0pKbk5QOXhiNUI1dU04S0lBLTJYM1M1WkxCb1hCWjYwcTlqVHZVRnJ3NTdwbmlZb2xUcGZ0OUQtUTZFUVc3dWlXMGJLMXoxalNWRkJ2b0EtZ2Zid1Y2a0Vkck9SUGFCUXBjY0lyR09paU10SDkweW9ONE1YY3NfdHkwN1VGTVVOZkpJ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-interpol-crackdown-on-illegal-mining-logging-and-wildlife-tr",
+      "date": "2026-10-07",
+      "category": "arrest",
+      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests Toronto Star",
+      "metrics": {},
+      "source": {
+        "name": "Toronto Star",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNDVBOThhdFA4UnE5dXl3a0ZHM2RhUHAxaFlxWkllUENuV3VFN1AxdUFiaE1OMHRmblhyaDF0QjdkSEJNVEJRX2tTOWdaMV9iSnprLW1KbWNxZVl5cmhKOF9Hdld3RnJrdmdMd2w0eDBMQ0ZzakFKYzZYdzZiYnF2dlYyeWFMWHFMRE1TN21mb1dSd0M5V3pPYWVOV085am1uSElVVlRCcERMZkRLTDR4SnVXVHdDY1BCU1hJLWQ0SHpGdkk1VUJCU2ZHTGdDOVpiMmxnQ0V0TWNZZW9rVGdHeUYtajJKbnFSR1luZlF5N0w0S3NnUG4zdjVZLXpjcWJlelJ4UnZ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgJBVV95cUxNNDVBOThhdFA4UnE5dXl3a0ZHM2RhUHAxaFlxWkllUENuV3VFN1AxdUFiaE1OMHRmblhyaDF0QjdkSEJNVEJRX2tTOWdaMV9iSnprLW1KbWNxZVl5cmhKOF9Hdld3RnJrdmdMd2w0eDBMQ0ZzakFKYzZYdzZiYnF2dlYyeWFMWHFMRE1TN21mb1dSd0M5V3pPYWVOV085am1uSElVVlRCcERMZkRLTDR4SnVXVHdDY1BCU1hJLWQ0SHpGdkk1VUJCU2ZHTGdDOVpiMmxnQ0V0TWNZZW9rVGdHeUYtajJKbnFSR1luZlF5N0w0S3NnUG4zdjVZLXpjcWJlelJ4UnZ3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-illegal-mining-pushes-birim-river-turbidity-to-50-000-ntu-ab",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "Illegal mining pushes Birim River turbidity to 50,000 NTU – Abuakwa South MP",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Illegal mining pushes Birim River turbidity to 50,000 NTU – Abuakwa South MP MyJoyOnline",
+      "metrics": {
+        "ntu": 50000
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0ZCWTNQSlpPaGxYWUZfQTVvTVV2YlhzLUlONFRBS2pnTWQ1T3pBN09NY0dpeXg2OWxjSnhOSUVUWmJzb0VYeTBZRWhDa2xsRWRhczBEYWpEYl9DQlBHWGhSWEVsS3hXckUtbWdIaTZraGNXVzRPV1NyOWRoRUNUNW1Ubk1KR2JsNWdESE5zMFlEYUN0MHRFNGstTkN0SFpYVXpYUA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxON0ZCWTNQSlpPaGxYWUZfQTVvTVV2YlhzLUlONFRBS2pnTWQ1T3pBN09NY0dpeXg2OWxjSnhOSUVUWmJzb0VYeTBZRWhDa2xsRWRhczBEYWpEYl9DQlBHWGhSWEVsS3hXckUtbWdIaTZraGNXVzRPV1NyOWRoRUNUNW1Ubk1KR2JsNWdESE5zMFlEYUN0MHRFNGstTkN0SFpYVXpYUA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-10-07-nothing-disappears-what-jamestown-beach-reveals-about-ghana-",
+      "date": "2026-10-07",
+      "category": "policy",
+      "title": "Nothing Disappears: What Jamestown Beach reveals about Ghana’s styrofoam ban",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana is fighting several environmental battles at the same time. Illegal mining continues to pollute rivers, destroy farmlands and remove vegetation. Poorly planned settlements and construction on waterways have increased the country’s vulnerability to flooding. At the same time, inadequate waste collection has left plastic bags, bottles, sachets and takeaway containers scattered along streets, beaches, markets, gut",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/nothing-disappears-what-jamestown-beach-reveals-about-ghanas-styrofoam-ban/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/nothing-disappears-what-jamestown-beach-reveals-about-ghanas-styrofoam-ban/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-environment-minister-prioritises-space-based-technology-for-",
+      "date": "2026-10-07",
+      "category": "policy",
+      "title": "Environment Minister prioritises space-based technology for national development",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister of Environment, Science and Technology (MEST), Dr Zanetor Agyeman-Rawlings, has stated that her first 100 days in office will be focused on building a robust ecosystem as the foundation on which the country can ride to become a hub of space-based technologies. She said the vision was anchored on five strategic pillars – institutional transformation, development of space infrastructure and data, leveragin",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-prioritises-space-based-technology-for-national-development.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-prioritises-space-based-technology-for-national-development.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
@@ -228,6 +389,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkNMdHJhTXM3Nkc5ZWVoTDRpNG1YMnJ6SE5mRmtBZEZ4dnFQZ3BSNG43TU40ZlE1R3RJLXdRQ0MxVUJ6S2ZKaXU0Z09wejhjalVvNkQtMmFmZmotSzBNSzh0T0xQTkhmbno0djF3WDlRTXdEWlUxRlQ0dndIWDJFSXEzcnNzS3pNR3cyRmhwOXlCRXRSVS0xTXZOLS1LS3BPQS1BeHFGUnBnWnVaUkpQMXhkX1k?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-07T13:22:55.364Z",
       "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
     },
     {
@@ -2592,8 +2754,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -2864,21 +3025,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
