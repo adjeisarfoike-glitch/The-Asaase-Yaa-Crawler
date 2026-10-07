@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-06T22:44:49.903Z",
+  "updated": "2026-10-07T06:00:51.492Z",
   "counts": {
-    "total": 1013,
+    "total": 1018,
     "verified": 28,
-    "automated": 985,
+    "automated": 990,
     "earliest": "2024-07-01",
-    "latest": "2026-10-06"
+    "latest": "2026-10-07"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
+      "date": "2026-10-07",
+      "category": "water",
+      "title": "‘We Risk Losing Our Forests and Rivers’ – Afenyo-Markin on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘We Risk Losing Our Forests and Rivers’ – Afenyo-Markin on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WVjZaZGVNWFdVN19Bd2p6TDR2RVdWTUtfZ21kS095MFZtMGpwY1RGWGNWeE1mWU9PMDRpVF96OThycUxmY0Q4Vm5aNG16QUNGOW11NHNzbHg0RlJ0QVVQdFlCQdIBXEFVX3lxTFBBazc3ODNkN3VsMzg4UVVhOW5GeE1wT0swbFFDTV9vczZZazZBRXZNeGJZZ0ZadWlWQ1ZJRHl1aGJTakczOUlNdGZHNENVaHZpdXV6WndhRVduZDli?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WVjZaZGVNWFdVN19Bd2p6TDR2RVdWTUtfZ21kS095MFZtMGpwY1RGWGNWeE1mWU9PMDRpVF96OThycUxmY0Q4Vm5aNG16QUNGOW11NHNzbHg0RlJ0QVVQdFlCQdIBXEFVX3lxTFBBazc3ODNkN3VsMzg4UVVhOW5GeE1wT0swbFFDTV9vczZZazZBRXZNeGJZZ0ZadWlWQ1ZJRHl1aGJTakczOUlNdGZHNENVaHZpdXV6WndhRVduZDli?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
     {
       "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
       "date": "2026-10-06",
@@ -45,7 +65,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxObmxiTE04OXZxWVJKVG5rejlXTUVwdUZSNHpsQWNVNmJWa1JLdzBGYUVlRXNhenpmZ1N6Vk5VTmJOYUhtaEdTdDU0S2R3SXp0eldrZExReV9qMERxZDRUVWh4UjF5ZE42WF95NUFaM1BvYzdfd09zNnNkZG15MkJIUUZkMm1tOEQ1Mmp0b3JObk5maUpVeXYxSnAyeU9xV2VK0gGfAUFVX3lxTE1aTXg5cGE5OXVqcTBDLXU1WTRkQTZZMTFEVmpRcUZLWmNnWlg2WHVOTVBScmNUMi1KOG8tNFhOMERWTVI2SFFTLTdsN2hqdFA4M25OZ0NvMW5GZEdZdE1ETC1RVVpjSGhFTWNkUTk2WmdobE1mTi12MThaakI4Z1c3bWMySkZRZkVmX3AyZWNwQ2ZVLXJwZkZFdW9KQnZZdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-07T05:55:57.337Z"
     },
     {
       "id": "auto-2026-10-06-galamsey-worker-confronts-girlfriend-over-alleged-infidelity",
@@ -85,6 +106,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWx2dzVucHlxZFF1Q3RxQTU3d3g5d244aWhZNUQ3Wk4zYWhJdEtXdkpWaDBCTUd0VTJYUmFSSHRJOVFGeVA0ZDFCVXA0S2NQbENGUVNfdlR6ejNseHVueG1YbGYta19CcWxBU3Q0cDMtYVZEejBIRVQwcm9OWFJmRTBVcHJUU0JLY25DWFU1cU9OTmNacDQ1YVV5anBQaDBoQlZLN2wyeTlLOVlyTUE?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-07T05:56:28.391Z",
       "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
     },
     {
@@ -247,6 +269,87 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-10-06-goldbod-s-structure-encouraging-galamsey-buys-whatever-aggre",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "‘GoldBod’s structure encouraging galamsey, buys whatever aggregators bring’ – Afenyo-Markin",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘GoldBod’s structure encouraging galamsey, buys whatever aggregators bring’ – Afenyo-Markin Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0VVVUJzeDN1Tm1iMnZzUzVBcjlQTGFDUW9rd0FqZHgxaWd5dE1BSHFDLUcydWxOZ2RXelRsLURZM3JGejNkbThkY1RIcVZRQmdYN05Nem5RQS1LelY3NzNsQUdBclg1c0M2MjVwUUNXVFFqOHd5NXUxR3V0X2tHd3p0T1B5a3RMRW5KX3pET190VFJW?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0VVVUJzeDN1Tm1iMnZzUzVBcjlQTGFDUW9rd0FqZHgxaWd5dE1BSHFDLUcydWxOZ2RXelRsLURZM3JGejNkbThkY1RIcVZRQmdYN05Nem5RQS1LelY3NzNsQUdBclg1c0M2MjVwUUNXVFFqOHd5NXUxR3V0X2tHd3p0T1B5a3RMRW5KX3pET190VFJW?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
+    },
+    {
+      "id": "auto-2026-10-06-abanga-yakubu-unfiltered-ndc-twin-brother-npp-secrets-galams",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Abanga Yakubu Unfiltered: NDC Twin Brother, NPP Secrets, Galamsey Claims & 4M Youth Votes",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abanga Yakubu Unfiltered: NDC Twin Brother, NPP Secrets, Galamsey Claims & 4M Youth Votes Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQlliWVJpc1Y2Nk9MWDA1LWRPdHNqb0VxdVNIUjBKOVBjLTFqcl8xdVpyLXRDZldRVlQ5SU0ydWZ0YlhDNE9XLUM2dk4xbHlQb0J3anRaaWt4UmVJUGcxdGtCb9IBXEFVX3lxTFAwTWRUbnVraUp1TVhIWnYtazBaYjVLUVhBMjRvLWVRZUF4TG5QOVAweU5CeWtRSE9iNUdpRGROYlQtQjV2WVRSOGVLQzNFRXhoT28wRGhBNm9Vc3c2?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQlliWVJpc1Y2Nk9MWDA1LWRPdHNqb0VxdVNIUjBKOVBjLTFqcl8xdVpyLXRDZldRVlQ5SU0ydWZ0YlhDNE9XLUM2dk4xbHlQb0J3anRaaWt4UmVJUGcxdGtCb9IBXEFVX3lxTFAwTWRUbnVraUp1TVhIWnYtazBaYjVLUVhBMjRvLWVRZUF4TG5QOVAweU5CeWtRSE9iNUdpRGROYlQtQjV2WVRSOGVLQzNFRXhoT28wRGhBNm9Vc3c2?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ankobeahene-of-tanoso-arrested-by-youth-over-galamsey-claims"
+    },
+    {
+      "id": "auto-2026-10-06-afenyo-markin-leads-npp-mps-to-christian-council-over-us-1-7",
+      "date": "2026-10-06",
+      "category": "arrest",
+      "title": "Afenyo-Markin leads NPP MPs to Christian Council over US$1.7 billion GoldBod losses, galamsey and Baffour Awuah's arrest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Afenyo-Markin leads NPP MPs to Christian Council over US$1.7 billion GoldBod losses, galamsey and Baffour Awuah's arrest Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEFwbVNDQkJmUHFiM3JIeEQzUnA1ZXZ3bFNzR29qazgwcHZtVWk3aTFhV3RHQWpJLXlWNE5mMHdTem5GMERkTHJxQU1fM0hLWmlDejhXRHhGREpVSTE4SU5DWDMzejVQRWFiVU9PUjhFR2RkQldiaGk0SDg4LXVsZWt6YllRVVpiTEc4eEFLT0o2Q1ZrNGRsUGJ30gGYAUFVX3lxTE83VnVoYVhxU1pqMTNVd1dwbjlEakpmZ2FJTFY5ZjF4RjZIeEl4T3VwTE44NW1YUEJIYmhQek9Zbld6MEk2SUVyamNLUUlpVXMyZlJucTR1Z0lsSGpacXEzMW9YbEdJcHFVRmM2X3J4Vl9Bdk52RkNIcUhlV2l4SXdMd3FkVnJzcS1yTG9Uank1UWFMaHhSNERP?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEFwbVNDQkJmUHFiM3JIeEQzUnA1ZXZ3bFNzR29qazgwcHZtVWk3aTFhV3RHQWpJLXlWNE5mMHdTem5GMERkTHJxQU1fM0hLWmlDejhXRHhGREpVSTE4SU5DWDMzejVQRWFiVU9PUjhFR2RkQldiaGk0SDg4LXVsZWt6YllRVVpiTEc4eEFLT0o2Q1ZrNGRsUGJ30gGYAUFVX3lxTE83VnVoYVhxU1pqMTNVd1dwbjlEakpmZ2FJTFY5ZjF4RjZIeEl4T3VwTE44NW1YUEJIYmhQek9Zbld6MEk2SUVyamNLUUlpVXMyZlJucTR1Z0lsSGpacXEzMW9YbEdJcHFVRmM2X3J4Vl9Bdk52RkNIcUhlV2l4SXdMd3FkVnJzcS1yTG9Uank1UWFMaHhSNERP?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-07T06:00:04.101Z",
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-10-06-river-pra-other-critical-areas-to-be-considered-in-naimos-pe",
+      "date": "2026-10-06",
+      "category": "water",
+      "title": "River Pra & other critical areas to be considered in NAIMOS permanent deployment",
+      "place": "River Pra",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "River Pra & other critical areas to be considered in NAIMOS permanent deployment Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtYjljWFI0dHNyUnBmTzlfWDJuYmRwcFJ4R1dmNVhjMzVxVHdUUkduLVhVUkZ3VTFQdGhueHNwZjhUUlBrenMzc3lCY1ZSMGRtQ080SXF6bDNVM192aHdPelJWakrSAVxBVV95cUxQM29IejZUT1lMRnBaa1lORlRrY1o2aGZhQWRoakR5UWJ6eVM1eS1ja3NRRXdyVXlEOXVCSDVGZWduUlF5Zi1xdXlfVms0Vi1YLXJtNTE3eDZSRlRraw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtYjljWFI0dHNyUnBmTzlfWDJuYmRwcFJ4R1dmNVhjMzVxVHdUUkduLVhVUkZ3VTFQdGhueHNwZjhUUlBrenMzc3lCY1ZSMGRtQ080SXF6bDNVM192aHdPelJWakrSAVxBVV95cUxQM29IejZUT1lMRnBaa1lORlRrY1o2aGZhQWRoakR5UWJ6eVM1eS1ja3NRRXdyVXlEOXVCSDVGZWduUlF5Zi1xdXlfVms0Vi1YLXJtNTE3eDZSRlRraw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-07T06:00:28.728Z"
     },
     {
       "id": "auto-2026-10-05-both-ndc-and-npp-have-failed-us-efia-odo-on-galamsey",
@@ -1408,7 +1511,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-28T13:49:31.109Z",
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-09-28-galamsey-either-mahama-is-lying-or-suffering-amnesia-for-den",
@@ -1429,7 +1532,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-28T23:14:51.839Z",
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-09-28-the-galamsey-fight-is-moving-but-communities-need-results-no",
@@ -1654,7 +1757,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-30T05:34:26.106Z",
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
@@ -2489,7 +2592,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -2760,20 +2864,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
@@ -7922,7 +8027,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-02T16:36:30.224Z",
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-09-01-mahama-must-show-stronger-leadership-in-galamsey-fight-prof-",
@@ -8257,7 +8362,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JdVVDX1JGU0NON3JTY1RIV1VYMXdHZnRpaGZfeXplTTUzdG1ORThHc3VGOEV6dGZ0Mm1ieS05RG9DeXoyRVR6bS1Cb0Q4MTJKb0xteTVLVVR5NTdKbjN5S21BONIBXEFVX3lxTE1wcktVYzlOc1NFMEp1Um1qaGlBeUFBR2o2cktDTVNKbHd1dXExTjRfaHFaZ0lSUnNvcV8tRTdyV0EwV1R4UUxpUVA0VFlzMDFYZEQ4RGlEV2ctbXBK?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-08-31-galamsey-illegal-mining-has-escalated-under-the-ndc-governme",
