@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-07T23:08:06.032Z",
+  "updated": "2026-10-08T06:05:34.048Z",
   "counts": {
-    "total": 1033,
+    "total": 1034,
     "verified": 28,
-    "automated": 1005,
+    "automated": 1006,
     "earliest": "2024-07-01",
-    "latest": "2026-10-07"
+    "latest": "2026-10-08"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-08-galamsey-tops-ghana-s-most-negative-online-issues-in-septemb",
+      "date": "2026-10-08",
+      "category": "forest",
+      "title": "Galamsey tops Ghana’s most negative online issues in September – IMANI",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey tops Ghana’s most negative online issues in September – IMANI Pulse Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnVnUTc4NHI4TGNMd1BzOWdxaWxHZkU5VjlnQTQwMmIwWElOZ0FhZ3dDMmwyZHo4NmNwVHJTSHNqaHBhYWV3SlNuTzNULWJPclBkc1ZyQTJYY2dpYndYNTdrb0JDYjhDY05DSVFyOEJJZGR4cUZWb1NZbEdENWFjWk9Eb2l0aDdzUmxTWEJXb1h3TVRUT3AxUTdJZTNzZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxNRnVnUTc4NHI4TGNMd1BzOWdxaWxHZkU5VjlnQTQwMmIwWElOZ0FhZ3dDMmwyZHo4NmNwVHJTSHNqaHBhYWV3SlNuTzNULWJPclBkc1ZyQTJYY2dpYndYNTdrb0JDYjhDY05DSVFyOEJJZGR4cUZWb1NZbEdENWFjWk9Eb2l0aDdzUmxTWEJXb1h3TVRUT3AxUTdJZTNzZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-08T05:59:26.924Z"
+    },
     {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
       "date": "2026-10-07",
@@ -47,6 +67,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQT016UGdqcEJiMnViQ3NmdXlCUzk1Nk95M1RRMWF3Z2t5Tl8zOUc2Zl9fVW9SVkZnY3BMekN5RXZIU21aVFJkTmYtVjRGaW9odHhVb1N5V1FmREZDWFFxSXVPUzVyaU1oM0tFRXRzdGdiaWZhNGduUEZpTGFHSHJDUHVMUXdlMmRlZlN2cmZ2MDFWTHBxZUk0aUNObWkzcHEtdEE2aEhDOGJHVGEzQWhDX1lIXy0?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-08T06:00:09.605Z",
       "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
@@ -2887,8 +2908,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -3159,21 +3179,20 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
+      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
+      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
+      "verified": false
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
