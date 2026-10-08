@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-08T06:05:34.048Z",
+  "updated": "2026-10-08T13:30:47.133Z",
   "counts": {
-    "total": 1034,
+    "total": 1040,
     "verified": 28,
-    "automated": 1006,
+    "automated": 1012,
     "earliest": "2024-07-01",
     "latest": "2026-10-08"
   },
@@ -27,6 +27,126 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-08T05:59:26.924Z"
+    },
+    {
+      "id": "auto-2026-10-08-minority-demands-crackdown-on-galamsey-financiers-calls-for-",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Minority demands crackdown on galamsey financiers • Calls for action against politically connected interests",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority demands crackdown on galamsey financiers • Calls for action against politically connected interests Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPblA4VklxcWRVcjBycUcyclpaLTdXX0xtSXc2QTg4em5xc1VBVjQ1bVhZTXRGMHhteUpqY0NsbGJaQXdzcGUwLXY4WjZrdnBGd2VOVV9GN1BiUk9NeGVWaUR6YzREc3lLdU9NR2ZGMEdTYndWbUpYOEtXdlQ3MGlUUWRSN1pzWFpIcUs3cnZMcDhna21CWERpOVJrbVhfTlh1SG1fdjVLOEhfbF9pMkRGT3JJUFY0Z2xXbUxQZmQtMzViU09lYkl3VGJhWkxyTzZ5T3c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0gFBVV95cUxPblA4VklxcWRVcjBycUcyclpaLTdXX0xtSXc2QTg4em5xc1VBVjQ1bVhZTXRGMHhteUpqY0NsbGJaQXdzcGUwLXY4WjZrdnBGd2VOVV9GN1BiUk9NeGVWaUR6YzREc3lLdU9NR2ZGMEdTYndWbUpYOEtXdlQ3MGlUUWRSN1pzWFpIcUs3cnZMcDhna21CWERpOVJrbVhfTlh1SG1fdjVLOEhfbF9pMkRGT3JJUFY0Z2xXbUxQZmQtMzViU09lYkl3VGJhWkxyTzZ5T3c?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-08T13:24:44.639Z"
+    },
+    {
+      "id": "auto-2026-10-08-abuakwa-south-mp-to-embark-on-media-tour-of-galamsey-sites-o",
+      "date": "2026-10-08",
+      "category": "water",
+      "title": "Abuakwa South MP to embark on media tour of galamsey sites over Birim river pollution",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Abuakwa South MP to embark on media tour of galamsey sites over Birim river pollution Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREdUNDM2YnJURlJOYVFiak5oM2RKaHBTVy1MYlF1a3pmVlYzMHd6dk43STRrNG1EUFdtWXB4ajhJNXJyVWhsY3hxWHBIX2JVQWZiRFQxcHZqODB4aWZuUDlYdVZEUHhoVmxVOWZfTy1RTERCdGhONklLcDNENlZXMzhDbF9vc2dXcFdPcllXX2FBb3Y2R2dUTDZTYmRSM1Fwd29XNnBrVzFDQlJUVWY0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxPREdUNDM2YnJURlJOYVFiak5oM2RKaHBTVy1MYlF1a3pmVlYzMHd6dk43STRrNG1EUFdtWXB4ajhJNXJyVWhsY3hxWHBIX2JVQWZiRFQxcHZqODB4aWZuUDlYdVZEUHhoVmxVOWZfTy1RTERCdGhONklLcDNENlZXMzhDbF9vc2dXcFdPcllXX2FBb3Y2R2dUTDZTYmRSM1Fwd29XNnBrVzFDQlJUVWY0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-10-08-three-arrested-for-alleged-illegal-mining-in-tano-boin-fores",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Three arrested for alleged illegal mining in Tano-Boin Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Three arrested for alleged illegal mining in Tano-Boin Forest Reserve CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVZPZm1vbENWOWpPN3VaaDIwVUhid2RQakRhVC1JSW5ERUlrbXpyX2ZvTWQ5VW8xVk02QVVVTWlWTVJQZE5ORnRMY0ZFY0ExNDlXcjdPVTdPYkw5T3J4enR1RzdWLW5UWVFXZ0VHYkFGSFdfN2xHTUJxb0V2cWdMZm8xWjdQUV9WbTVsaXlpRWFuNVhRMkdSTDdab2syajlwZ2loa3k0eW1hV2c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVZPZm1vbENWOWpPN3VaaDIwVUhid2RQakRhVC1JSW5ERUlrbXpyX2ZvTWQ5VW8xVk02QVVVTWlWTVJQZE5ORnRMY0ZFY0ExNDlXcjdPVTdPYkw5T3J4enR1RzdWLW5UWVFXZ0VHYkFGSFdfN2xHTUJxb0V2cWdMZm8xWjdQUV9WbTVsaXlpRWFuNVhRMkdSTDdab2syajlwZ2loa3k0eW1hV2c?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-08-three-arrested-for-alleged-illegal-mining-in-tano-boin-fores"
+    },
+    {
+      "id": "auto-2026-10-08-three-suspected-illegal-miners-arrested-in-tano-boin-forest-",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Three suspected illegal miners arrested in Tano-Boin Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Three suspected illegal miners arrested in Tano-Boin Forest Reserve MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWZURGZFSkZqZUlSLUZTb2dRcVRabVUzaC1FcC04LUt5TFFtQkYtNV9MbTFTbEU0R3FoNWx3eE82bjZYdVp5Z2ZtZ1FSQnV6UmR4SjB3Uk1VQVYyLWhhUG9MNXE4ZjFFMGpScmh0Y015OTRreFcxNlNYUlRidTE1Rkh6dmtMbkYwMU45MXlFOXlGUEY4TkZNS0dHY2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWZURGZFSkZqZUlSLUZTb2dRcVRabVUzaC1FcC04LUt5TFFtQkYtNV9MbTFTbEU0R3FoNWx3eE82bjZYdVp5Z2ZtZ1FSQnV6UmR4SjB3Uk1VQVYyLWhhUG9MNXE4ZjFFMGpScmh0Y015OTRreFcxNlNYUlRidTE1Rkh6dmtMbkYwMU45MXlFOXlGUEY4TkZNS0dHY2M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-08-three-arrested-for-alleged-illegal-mining-in-tano-boin-fores"
+    },
+    {
+      "id": "auto-2026-10-08-community-watch-committee-arrest-three-illegal-miners-at-jem",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Community watch committee arrest three illegal miners at Jema in Aowin area of Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "A community watch committee has arrested three suspected of illegal miners at Jema in the Aowin area of the Western Region. The three men were seen entering the Tano-Boin Forest Reserve and engaging in illegal mining activities along the bank of the Tano River. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/community-watch-committee-arrest-three-illegal-miners-at-jema.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/community-watch-committee-arrest-three-illegal-miners-at-jema.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-08-community-watch-committee-arrests-three-illegal-miners-at-je",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Community watch committee arrests three illegal miners at Jema",
+      "place": "Jema",
+      "region": "Bono East",
+      "lat": 7.9,
+      "lon": -1.8,
+      "summary": "A community watch committee has arrested three suspected illegal miners at Jema in the Aowin area of the Western Region. The three men were seen entering the Tano-Boin Forest Reserve and engaging in illegal mining activities along the bank of the Tano River. The three were arrested on Friday, October 2, 2026, when members of […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/community-watch-committee-arrests-three-illegal-miners-at-jema/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/community-watch-committee-arrests-three-illegal-miners-at-jema/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
     },
     {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
@@ -169,6 +289,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxON0ZCWTNQSlpPaGxYWUZfQTVvTVV2YlhzLUlONFRBS2pnTWQ1T3pBN09NY0dpeXg2OWxjSnhOSUVUWmJzb0VYeTBZRWhDa2xsRWRhczBEYWpEYl9DQlBHWGhSWEVsS3hXckUtbWdIaTZraGNXVzRPV1NyOWRoRUNUNW1Ubk1KR2JsNWdESE5zMFlEYUN0MHRFNGstTkN0SFpYVXpYUA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-08T13:29:00.709Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
@@ -208,6 +329,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-prioritises-space-based-technology-for-national-development.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-08T13:29:51.267Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -2908,7 +3030,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZXpyYXVKYS1pb2VEMkVHczQ3RExSY0pkUXJUMFVtUnlKaWZtSFBrTmJJS29XS1paR1M3dWsxU2dUdGVITllPSF84YzVRandpdU9CRTRkR05wTkJBTW5pcGVtN0_SAVxBVV95cUxQV2ttZGVSV1ZWVklBLXlvNkpsNmJ5M2sxbHhacXNCRWQ5RFNxVmJKZ1B5My1kaFVkZUgzTUtBNWRJV240ajJfbWo5d2tMQVFWQkROaERWdGE3YTVXdA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-25-galamsey-i-never-said-i-ll-declare-a-state-of-emergency-maha",
@@ -3179,20 +3302,21 @@
       "id": "auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini",
       "date": "2026-09-24",
       "category": "forest",
-      "title": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region",
+      "title": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse",
       "place": "Eastern Region",
       "region": "Eastern",
       "lat": 6.09,
       "lon": -0.26,
-      "summary": "Galamsey fight: NAIMOS intensifies fight against illegal mining in Eastern Region Modern Ghana",
+      "summary": "Galamsey Fight: NAIMOS intensifies fight against illegal mining in Eastern Region | The Pulse Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUUluUzdZOWxGOHdZSlpIUEVJdFB2Zm0tRFlPY2Z5bXRkbThzTEJtdWk3MmlZLTdvbnNTWXpmazBXX1MtN3NJN0t0ZUFmck5jY3FnNFJIVXhmZVc1T3I5M2IxbnTSAVxBVV95cUxObEIycVVfN1BWbjJBaXg4eDBTS3FmbjdCM25QUXVaU0MzMHNhZmpmZ0NVUlJCTlBMRFBlMGFFOFBFY0s3T2NkcVRhMHRIRUFEcl9rSS1qV2Y1a2ljVw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xNF9fYkNSQ05SNFNJaGU3TTFXUXpvSGlZVTAwanlHN0lESWdfSEthYzZNT09oYXhWQTZabWtHeHl1RDdlbHpEdE01VU1NeFpSUG5QXzdnY1ZHU2JGalZ0QldnTUrSAVxBVV95cUxOTWtVRjN5TkQtcXh1Z0N3cmxKUEFwUVRuakZGdHJfUmNUWWdXNm0wN216NE9Ib2s5dG94X2R2SGQzU3JqanNHYVo3QkpielhDYkY1NVYyMHNEa1l1dg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-24-galamsey-fight-naimos-intensifies-fight-against-illegal-mini"
     },
     {
       "id": "auto-2026-09-24-100-results-or-nothing-schandorf-on-operation-water-shield-g",
