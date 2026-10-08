@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-08T13:30:47.133Z",
+  "updated": "2026-10-08T23:25:50.993Z",
   "counts": {
-    "total": 1040,
+    "total": 1041,
     "verified": 28,
-    "automated": 1012,
+    "automated": 1013,
     "earliest": "2024-07-01",
     "latest": "2026-10-08"
   },
@@ -147,6 +147,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-08-ghana-moves-to-establish-national-space-agency",
+      "date": "2026-10-08",
+      "category": "policy",
+      "title": "Ghana moves to establish National Space Agency",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The government is advancing plans to transform the Ghana Space Science and Technology Institute (GSSTI) into a fully fledged Ghana Space Agency, in a move aimed at strengthening the country's coordination of space activities and expanding its participation in the global space economy. The Minister of Environment, Science and Technology, Dr Zanetor Agyemang-Rawlings, disclosed at a press conference in Accra on Monday,",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-moves-to-establish-national-space-agency.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-moves-to-establish-national-space-agency.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
