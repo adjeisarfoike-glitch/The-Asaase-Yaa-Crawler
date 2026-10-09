@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-09T06:11:13.532Z",
+  "updated": "2026-10-09T13:19:01.942Z",
   "counts": {
-    "total": 1043,
+    "total": 1047,
     "verified": 28,
-    "automated": 1015,
+    "automated": 1019,
     "earliest": "2024-07-01",
     "latest": "2026-10-09"
   },
@@ -28,6 +28,88 @@
       "verified": false,
       "archivedAt": "2026-10-09T06:04:54.635Z",
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Galamsey: Declare state of emergency – Catholic Bishops to gov't",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Declare state of emergency – Catholic Bishops to gov't Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkpHMUJldWtSMktBOW5ZazZ5a2VoUkNUSC1GNS1rNjVtM053Q0RuT21CamdaZjd1VW43VzJfNjZuUjRwNEc2a2puZmt2STNIbzZDV1F2ZXZqM21Zc0lhQmRaby01RzU5bmZ1OUZKdnRGT1BiMF9YdzZrZGpERjNEZ2xWaGdSVjFhWVJCYllrZnphYUt60gGTAUFVX3lxTFBLRUFSaUR4WUQtYU8wa3k0WnRUN0VZdzBzT01yWHg3cUt4dkJBUjNmUlI2bU55aEY4VjFJSG1KN3hnc3g5TmFITlh1bDFkVHZZb01NZERWSGdFWVJXNlBucjFnX2xCWUgwWWlJblRhYXVOSTJ3YUpPQmpydjNaaV94aFJYQnRYUWxWY0piNnhZQ2xkMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkpHMUJldWtSMktBOW5ZazZ5a2VoUkNUSC1GNS1rNjVtM053Q0RuT21CamdaZjd1VW43VzJfNjZuUjRwNEc2a2puZmt2STNIbzZDV1F2ZXZqM21Zc0lhQmRaby01RzU5bmZ1OUZKdnRGT1BiMF9YdzZrZGpERjNEZ2xWaGdSVjFhWVJCYllrZnphYUt60gGTAUFVX3lxTFBLRUFSaUR4WUQtYU8wa3k0WnRUN0VZdzBzT01yWHg3cUt4dkJBUjNmUlI2bU55aEY4VjFJSG1KN3hnc3g5TmFITlh1bDFkVHZZb01NZERWSGdFWVJXNlBucjFnX2xCWUgwWWlJblRhYXVOSTJ3YUpPQmpydjNaaV94aFJYQnRYUWxWY0piNnhZQ2xkMA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-09T13:12:48.032Z",
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-09-catholic-bishops-renew-calls-for-state-of-emergency-over-gal",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Catholic Bishops renew calls for state of emergency over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Catholic Bishops renew calls for state of emergency over galamsey Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlBYRVBZdGhiNFVpVzV1OVJXOEZaQ2xjaEE5WmJueHkxem1QMmd1emtQalBPRzlNN0wxMG9kUkVOVVJETmlvSzZ6RmY4QWZaZzhONFZ4V29FR0x4NHBZNmcxS3dfTlZTaXRmTkVEYjBlQS1sM3dOWFA3eFZPdVVUUXdZbkJGU1pIUlRMWnpBVEhnQy02T3Z6Qg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlBYRVBZdGhiNFVpVzV1OVJXOEZaQ2xjaEE5WmJueHkxem1QMmd1emtQalBPRzlNN0wxMG9kUkVOVVJETmlvSzZ6RmY4QWZaZzhONFZ4V29FR0x4NHBZNmcxS3dfTlZTaXRmTkVEYjBlQS1sM3dOWFA3eFZPdVVUUXdZbkJGU1pIUlRMWnpBVEhnQy02T3Z6Qg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-09T13:13:12.718Z",
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-09-govt-has-handed-60-hectares-of-degraded-apamprama-forest-res",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Govt has handed 60 hectares of degraded Apamprama Forest Reserve to 3 contractors for reclamation",
+      "place": "Apamprama",
+      "region": "Ashanti",
+      "lat": 6.35,
+      "lon": -1.72,
+      "summary": "Govt has handed 60 hectares of degraded Apamprama Forest Reserve to 3 contractors for reclamation Modern Ghana",
+      "metrics": {
+        "hectares": 60
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRjRudF9FWDNwM2NsSHE1NWYyVW1jZ1B5cWRBNVQ3bDd4MFZzbktxNDI2YjBBeTBRRXFmYmpyZm1IN0ZoUTFWS3hoVUY0YVNyUkthcGdOWkt6dUQ0aURzUEV5SFrSAVxBVV95cUxOYU9WZ2Z0dThWSDY3bC12cVozd3dXOXVRY21KN3dhZUY4MFp5NXRnQ3JTVU1vMVh1Y0Z4LVF3d3RLUlkxMkVyVlBHQ3hjanVqbFpMS25nczBIamdJSA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRjRudF9FWDNwM2NsSHE1NWYyVW1jZ1B5cWRBNVQ3bDd4MFZzbktxNDI2YjBBeTBRRXFmYmpyZm1IN0ZoUTFWS3hoVUY0YVNyUkthcGdOWkt6dUQ0aURzUEV5SFrSAVxBVV95cUxOYU9WZ2Z0dThWSDY3bC12cVozd3dXOXVRY21KN3dhZUY4MFp5NXRnQ3JTVU1vMVh1Y0Z4LVF3d3RLUlkxMkVyVlBHQ3hjanVqbFpMS25nczBIamdJSA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-09-analysts-call-for-increased-public-vigilance-amid-new-securi",
+      "date": "2026-10-09",
+      "category": "policy",
+      "title": "Analysts call for increased public vigilance amid new security threats",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Security analysts have called for stronger public trust, community vigilance and collaboration between citizens and security institutions to safeguard the country against emerging threats, including violent extremism, transnational organised crime and the proliferation of small arms and light weapons. They said the country’s relative peace and stability should not breed complacency, particularly as developments in ne",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-analysts-call-for-increased-public-vigilance-amid-new-security-threats.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-analysts-call-for-increased-public-vigilance-amid-new-security-threats.html",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-08-galamsey-tops-ghana-s-most-negative-online-issues-in-septemb",
