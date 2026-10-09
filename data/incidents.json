@@ -1,13 +1,34 @@
 {
-  "updated": "2026-10-08T23:25:50.993Z",
+  "updated": "2026-10-09T06:11:13.532Z",
   "counts": {
-    "total": 1041,
+    "total": 1043,
     "verified": 28,
-    "automated": 1013,
+    "automated": 1015,
     "earliest": "2024-07-01",
-    "latest": "2026-10-08"
+    "latest": "2026-10-09"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-09-galamsey-crisis-worsening-declare-state-of-emergency-catholi",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Galamsey crisis worsening; declare state of emergency – Catholic Bishops to gov’t",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey crisis worsening; declare state of emergency – Catholic Bishops to gov’t CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGo3ck1sNWE0cDRUUlQ3b0VHbUNPekVzRDZSRWRqZURxLUMydkYtdl92UG40RGk2aVFWZXh5LXVwSUt6OS02cFYzSVlROWhvcDZUY0NVM3lmVTVPY3I4djEteUx3aTVDaXJxNXNaOHMybTNRQ3ZqRnVQdGlkcVNtWVBESExfdG4tNHBJekhISlFBUFJvNGVGNFdLMnVxMVVvakRLSGhRTjQ5ZHhOeE9YVW1CLXB2UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGo3ck1sNWE0cDRUUlQ3b0VHbUNPekVzRDZSRWRqZURxLUMydkYtdl92UG40RGk2aVFWZXh5LXVwSUt6OS02cFYzSVlROWhvcDZUY0NVM3lmVTVPY3I4djEteUx3aTVDaXJxNXNaOHMybTNRQ3ZqRnVQdGlkcVNtWVBESExfdG4tNHBJekhISlFBUFJvNGVGNFdLMnVxMVVvakRLSGhRTjQ5ZHhOeE9YVW1CLXB2UQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-09T06:04:54.635Z",
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
     {
       "id": "auto-2026-10-08-galamsey-tops-ghana-s-most-negative-online-issues-in-septemb",
       "date": "2026-10-08",
@@ -370,6 +391,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Ta3JGUmxDcVBvb1NISGhXano3QllERjFnejNDMEtWVUNNOHNuLUNVdWw2Y0VnQU5ZX3RLX1BFZVMtRE15azNGZXB6UXFyendoWkpTQjlvRC1oZVdOdEE1cExpONIBXEFVX3lxTE5CNldmbmthWHowd0xyTmViMzdWaGFlVFFhaDJMNXVBSGdUTG4wbEpJMURVbXNNMVZBQjFIWW9JWlB2bUNmYzc2dGhTLWgyRGNXeXp2VTFCSjRibWZC?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-09T06:09:50.345Z",
       "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
     },
     {
@@ -389,7 +411,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQdzRkVTIxMk81TTJvUFpXQjZtZmhVaVVpY0gzdW1rNlpXS21YWVdHdmMxSXh6ZU9iNUdLVnFKaWdQX05vejVfc3E5TV9ENFd1MDFXT003VjR1MFREaThzQllrczHSAVxBVV95cUxOZGhrUmlGLWoyb201Tk8xV1BaVEFLOFJkSnlwUFc5M25ZMGtJWXVibUYtZHFBR0NPaTJsZ04xajc2eTBDcElxbG51ZThJbmwtWFRmckpBcGhrb2NoUw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-09T06:10:17.168Z"
     },
     {
       "id": "auto-2026-10-07-minority-calls-for-decisive-action-against-galamsey",
@@ -408,7 +431,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMidkFVX3lxTE5wS1dlUERvYzFZMHdJalE4aW1zbHA3SmthT0xpYXdYNjR4VEFXX1BodGZaQXVfcGdLUWJUTUlLeUphUjVTTmZBWWc0eTk2TlJ0cHpMVnNOT1VsN2V0cjF4MEZLeTJ3V05BTVVwVThQeXhoSTMzaGc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-09T06:10:42.300Z"
     },
     {
       "id": "auto-2026-10-07-abanga-yakubu-explains-obiaa-bedidi-slogan-rejects-galamsey-",
@@ -829,6 +853,25 @@
       "verified": false,
       "archivedAt": "2026-10-06T00:02:03.801Z",
       "thread": "t-fr-upper-east"
+    },
+    {
+      "id": "auto-2026-10-05-minerals-commission-partners-umat-german-university-to-tackl",
+      "date": "2026-10-05",
+      "category": "forest",
+      "title": "Minerals Commission partners UMaT, German university to tackle illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minerals Commission partners UMaT, German university to tackle illegal mining Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenVldTlNS0pKY0p1S0J2VVhyX3BqQTlDRGpUYU9qNmxnMFRqdWdZQkdMaGFwMl9BeGhmMy0yZm5Jb2xxbGhyT0tDb2FOQW0yaER5VUdtZzhRZ0NZd1lnZk55NEM0dWNPLXhNODJjSVJNdFZoV3ZGQWUzWVIwaVd1S0tjUmY4WUFDcTNETGh2eTlIdmcyeGNxU040VmZnT21WNFMw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOenVldTlNS0pKY0p1S0J2VVhyX3BqQTlDRGpUYU9qNmxnMFRqdWdZQkdMaGFwMl9BeGhmMy0yZm5Jb2xxbGhyT0tDb2FOQW0yaER5VUdtZzhRZ0NZd1lnZk55NEM0dWNPLXhNODJjSVJNdFZoV3ZGQWUzWVIwaVd1S0tjUmY4WUFDcTNETGh2eTlIdmcyeGNxU040VmZnT21WNFMw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-03-live-baffour-awuah-vs-eoco-petrol-prices-galamsey-and-npp-de",
