@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-09T13:19:01.942Z",
+  "updated": "2026-10-09T22:42:31.736Z",
   "counts": {
-    "total": 1047,
+    "total": 1052,
     "verified": 28,
-    "automated": 1019,
+    "automated": 1024,
     "earliest": "2024-07-01",
     "latest": "2026-10-09"
   },
@@ -90,7 +90,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRjRudF9FWDNwM2NsSHE1NWYyVW1jZ1B5cWRBNVQ3bDd4MFZzbktxNDI2YjBBeTBRRXFmYmpyZm1IN0ZoUTFWS3hoVUY0YVNyUkthcGdOWkt6dUQ0aURzUEV5SFrSAVxBVV95cUxOYU9WZ2Z0dThWSDY3bC12cVozd3dXOXVRY21KN3dhZUY4MFp5NXRnQ3JTVU1vMVh1Y0Z4LVF3d3RLUlkxMkVyVlBHQ3hjanVqbFpMS25nczBIamdJSA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-09T22:36:09.661Z",
+      "thread": "t-auto-2026-10-09-govt-has-handed-60-hectares-of-degraded-apamprama-forest-res"
     },
     {
       "id": "auto-2026-10-09-analysts-call-for-increased-public-vigilance-amid-new-securi",
@@ -110,6 +112,107 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-analysts-call-for-increased-public-vigilance-amid-new-security-threats.html",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-09-galamsey-activities-redirect-mankran-stream-threatens-floodi",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Galamsey activities redirect Mankran stream, threatens flooding in Okroase after ruining farmlands.",
+      "place": "Mankran",
+      "region": "Ashanti",
+      "lat": 6.8,
+      "lon": -2.02,
+      "summary": "Galamsey activities redirect Mankran stream, threatens flooding in Okroase after ruining farmlands. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEVXVUbjc4LTlvcEFHTHZBQmYwZDRXaF9KT0NkWUJMX1lsMmQyNm9rdkNXSW9lZlBLUDRPc3YwQ0VfZThncktUelFrNTRNd1lHaTBqQmVaaHBuS1RCeHdoeHpic3rSAVxBVV95cUxQREdNTDVVQUtSeTJyTnBNTGJ0N0FKTXhmMm94VHVIMFR5UVM1YjY4LXhzTU5UZkhrVzEyZ0JaamJiOG0yRVI5aUZ6dGFabGg2eG5rQUxtT3Vmc0R6Uw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEVXVUbjc4LTlvcEFHTHZBQmYwZDRXaF9KT0NkWUJMX1lsMmQyNm9rdkNXSW9lZlBLUDRPc3YwQ0VfZThncktUelFrNTRNd1lHaTBqQmVaaHBuS1RCeHdoeHpic3rSAVxBVV95cUxQREdNTDVVQUtSeTJyTnBNTGJ0N0FKTXhmMm94VHVIMFR5UVM1YjY4LXhzTU5UZkhrVzEyZ0JaamJiOG0yRVI5aUZ6dGFabGg2eG5rQUxtT3Vmc0R6Uw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-07-galamsey-activities-redirect-mankran-stream-destroy-farms-an"
+    },
+    {
+      "id": "auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Catholic Bishops Renew Call for State of Emergency Over Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Catholic Bishops Renew Call for State of Emergency Over Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OZzJaa1dXdWk0VjFvd3lra1JLTW9NSld6OW5QVWVDTGRyM3I3LTRjZWR3eWI0MXFPSTVhbk53WEdGRnF0RlBZZGJldEZyYVh4N1NXV2NPSTc4bmdIaEVBQlZTNNIBXEFVX3lxTE1iUjRtWHlNVmFZaHg4dF9NXzkyNE1sTERTOGxwUEttLWtwUk1JdVEzRW1GUnA1M05xVDhEdnAzQkI2amJ6ci1BeU9WNWdiNnp6LWd3ak1YRDNmREl4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OZzJaa1dXdWk0VjFvd3lra1JLTW9NSld6OW5QVWVDTGRyM3I3LTRjZWR3eWI0MXFPSTVhbk53WEdGRnF0RlBZZGJldEZyYVh4N1NXV2NPSTc4bmdIaEVBQlZTNNIBXEFVX3lxTE1iUjRtWHlNVmFZaHg4dF9NXzkyNE1sTERTOGxwUEttLWtwUk1JdVEzRW1GUnA1M05xVDhEdnAzQkI2amJ6ci1BeU9WNWdiNnp6LWd3ak1YRDNmREl4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-09-any-police-officer-or-soldier-who-is-man-enough-should-come-",
+      "date": "2026-10-09",
+      "category": "arrest",
+      "title": "“Any Police Officer or Soldier who is man enough should come and arrest me” – Galamsey operator",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Any Police Officer or Soldier who is man enough should come and arrest me” – Galamsey operator Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmRXVTA0TEVfcl85NW5fUmdXNUFhVy12c3RXTXBrRFh4T2RvSTJOSUx6blVyUDI0YmVvRHlTN2JxdklDMlRrYVQ4WXZBUFNkZ1YyTGFtbjlVd3UwN0pRR2NqTG9FQVVZamFYZnVaeFFjRmZmanF0bmNDTHVEWGpZRV9QMHpOVTc2ZVRUaS1NM3hzMmIxQ3VHbtIBlwFBVV95cUxNdkNaM2JfbDJ4RE9KS2RqckJ2SXNaRTdOdlZQcEhLRmhhUDJ1UV9pcGMtWnVDZnlRbkFiOW41aVd5ckl5dW9MV2Z0czVNd1B1WFhzam9lZENEeWtUU0o3RnNHdVdXbDN3LUtlUXlNVXdscHRDMHVZUm9JR1hkV1BURWsyWEpaZU1od08zUmNyZHBibUlLVmRn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmRXVTA0TEVfcl85NW5fUmdXNUFhVy12c3RXTXBrRFh4T2RvSTJOSUx6blVyUDI0YmVvRHlTN2JxdklDMlRrYVQ4WXZBUFNkZ1YyTGFtbjlVd3UwN0pRR2NqTG9FQVVZamFYZnVaeFFjRmZmanF0bmNDTHVEWGpZRV9QMHpOVTc2ZVRUaS1NM3hzMmIxQ3VHbtIBlwFBVV95cUxNdkNaM2JfbDJ4RE9KS2RqckJ2SXNaRTdOdlZQcEhLRmhhUDJ1UV9pcGMtWnVDZnlRbkFiOW41aVd5ckl5dW9MV2Z0czVNd1B1WFhzam9lZENEeWtUU0o3RnNHdVdXbDN3LUtlUXlNVXdscHRDMHVZUm9JR1hkV1BURWsyWEpaZU1od08zUmNyZHBibUlLVmRn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-09-watch-as-galamseyer-dares-police-military-to-arrest-him",
+      "date": "2026-10-09",
+      "category": "arrest",
+      "title": "Watch as galamseyer dares police, military to arrest him",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Watch as galamseyer dares police, military to arrest him GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDE2a0pkOWQybm9GZ1RmalNheFNRTUsweGl5R01KeFB2bUMxWXEzbnY0c1BOdlhWNDQ3MllKZlppTjJ4a3VBTUhETDdyY2pORHB6c0N4SlVpbFJxRjYzRlIwMDNNY0RsSFRCekFvQnlSRGgtdWhaS252eDFnU1NrbDBXaTlUWWZPRGpJTGs0V1NVcUtIOGFuUUJ2dzViX3pjLTRRbUZYdEhOelRHNTdMcjhsQ3c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxORDE2a0pkOWQybm9GZ1RmalNheFNRTUsweGl5R01KeFB2bUMxWXEzbnY0c1BOdlhWNDQ3MllKZlppTjJ4a3VBTUhETDdyY2pORHB6c0N4SlVpbFJxRjYzRlIwMDNNY0RsSFRCekFvQnlSRGgtdWhaS252eDFnU1NrbDBXaTlUWWZPRGpJTGs0V1NVcUtIOGFuUUJ2dzViX3pjLTRRbUZYdEhOelRHNTdMcjhsQ3c?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
+    },
+    {
+      "id": "auto-2026-10-09-apamprama-forest-reserve-3-contractors-tasked-to-reclaim-60-",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "Apamprama Forest Reserve: 3 contractors tasked to reclaim 60 hectares of the forest reserve",
+      "place": "Apamprama",
+      "region": "Ashanti",
+      "lat": 6.35,
+      "lon": -1.72,
+      "summary": "Apamprama Forest Reserve: 3 contractors tasked to reclaim 60 hectares of the forest reserve Modern Ghana",
+      "metrics": {
+        "hectares": 60
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoMjhCWlZUaWxhSks0M0NDb0JJVWZHUUxGdHNCbENsWVJWTUxhRkxpaTg1MjRXc0d6ZWZ0TXVCNFFxZjdXNHZsVUZyclplOVY1SXROMW9YcVVWS1BEeDVzZWtkQWfSAVxBVV95cUxPekJKZDZGY01XSTc0eGp3NHdUV2ppTGtwU3JYcVNLV0ViMTZKelkwZy1NUGlUVVhYcmpQUy10aE1fX1ItYVFFRXNIVTJ6My1QWU5QU2tBUUlvdHdLdQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoMjhCWlZUaWxhSks0M0NDb0JJVWZHUUxGdHNCbENsWVJWTUxhRkxpaTg1MjRXc0d6ZWZ0TXVCNFFxZjdXNHZsVUZyclplOVY1SXROMW9YcVVWS1BEeDVzZWtkQWfSAVxBVV95cUxPekJKZDZGY01XSTc0eGp3NHdUV2ppTGtwU3JYcVNLV0ViMTZKelkwZy1NUGlUVVhYcmpQUy10aE1fX1ItYVFFRXNIVTJ6My1QWU5QU2tBUUlvdHdLdQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-09-govt-has-handed-60-hectares-of-degraded-apamprama-forest-res"
     },
     {
       "id": "auto-2026-10-08-galamsey-tops-ghana-s-most-negative-online-issues-in-septemb",
@@ -209,6 +312,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWZURGZFSkZqZUlSLUZTb2dRcVRabVUzaC1FcC04LUt5TFFtQkYtNV9MbTFTbEU0R3FoNWx3eE82bjZYdVp5Z2ZtZ1FSQnV6UmR4SjB3Uk1VQVYyLWhhUG9MNXE4ZjFFMGpScmh0Y015OTRreFcxNlNYUlRidTE1Rkh6dmtMbkYwMU45MXlFOXlGUEY4TkZNS0dHY2M?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-09T22:40:25.525Z",
       "thread": "t-auto-2026-10-08-three-arrested-for-alleged-illegal-mining-in-tano-boin-fores"
     },
     {
@@ -371,7 +475,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1hjZEtsd1pFTnRRX1VfdWVnU0FKQjFSa2ZOUnBwNFF4VFhnRll3ZU81T3Nvd2VUd0pKbk5QOXhiNUI1dU04S0lBLTJYM1M1WkxCb1hCWjYwcTlqVHZVRnJ3NTdwbmlZb2xUcGZ0OUQtUTZFUVc3dWlXMGJLMXoxalNWRkJ2b0EtZ2Zid1Y2a0Vkck9SUGFCUXBjY0lyR09paU10SDkweW9ONE1YY3NfdHkwN1VGTVVOZkpJ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-07-galamsey-activities-redirect-mankran-stream-destroy-farms-an"
     },
     {
       "id": "auto-2026-10-07-interpol-crackdown-on-illegal-mining-logging-and-wildlife-tr",
@@ -2461,7 +2566,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -2481,8 +2586,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUlFZS2VSRFNxcWRvLXFVemVsUmdCbzZOZjNTVmFISmZkdnV4MUpIZHhvaGdWVDhuWl9kbS12ekNFQXV5WXhQZjlLXzhHcDJySEJXeWhEU2JZQ2Y1RTZteVRhWdIBXEFVX3lxTFBBc2pvQXNNbFFVN1BvbDA2aTFMVG5XMHprc3VnYnZudTVrbXpqZllDMEVJN0xtNklqUmZ4eDIydDYxYlcxWUNwZ3pkcm1BM0ZfWXhDODVjTGppVnN2?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T11:22:08.950Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "archivedAt": "2026-09-26T11:22:08.950Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
@@ -2727,8 +2831,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEdKTEU3QVNzYXJBNGloeFNjcHVHNUVfcUFJa1JKem9scmY1Qml5dUh5N25IbmdoN18wd0prOXJ5Q1VpQkY3LWtRcXZsNXpobG9xRHo1YVRueFZzTkRVUE9RaDJxeWlXbUhGWlFpdy1rdzNBV1dBdi1QYkNCdDdVcVVERlpaSkFvcUg5Rl9feDlFR2hm?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "verified": false
     },
     {
       "id": "auto-2026-09-26-stakeholders-demand-action-against-foreign-led-illegal-minin",
@@ -8405,7 +8508,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-01T21:00:50.520Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
@@ -9081,7 +9184,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
