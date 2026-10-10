@@ -1,13 +1,54 @@
 {
-  "updated": "2026-10-10T05:55:07.605Z",
+  "updated": "2026-10-10T12:32:46.141Z",
   "counts": {
-    "total": 1052,
+    "total": 1054,
     "verified": 28,
-    "automated": 1024,
+    "automated": 1026,
     "earliest": "2024-07-01",
-    "latest": "2026-10-09"
+    "latest": "2026-10-10"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-10-world-cup-visa-scandal-senyo-hosi-says-issue-goes-beyond-cal",
+      "date": "2026-10-10",
+      "category": "policy",
+      "title": "World Cup visa scandal: Senyo Hosi says issue goes beyond calls for Sports Minister’s resignation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has called for the controversy surrounding Ghana’s visa arrangements for the 2026 FIFA World Cup to be addressed as a matter of constitutional compliance and accountability, rather than focusing solely on whether the Sports Minister should resign.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-says-issue-goes-beyond-calls-for-sports-ministers-resignation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-says-issue-goes-beyond-calls-for-sports-ministers-resignation/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-10T12:27:44.403Z",
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-10-world-cup-visa-scandal-senyo-hosi-urges-focus-on-constitutio",
+      "date": "2026-10-10",
+      "category": "policy",
+      "title": "World Cup visa scandal: Senyo Hosi urges focus on constitutional accountability",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, Senyo Hosi, has called for the controversy surrounding Ghana’s visa arrangements for the 2026 FIFA World Cup to be treated as a test of constitutional accountability, rather than a debate over whether the Sports Minister should resign.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-urges-focus-on-constitutional-accountability/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-urges-focus-on-constitutional-accountability/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
     {
       "id": "auto-2026-10-09-galamsey-crisis-worsening-declare-state-of-emergency-catholi",
       "date": "2026-10-09",
@@ -2954,7 +2995,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-25T11:48:34.119Z",
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-09-25-police-hunt-for-suspects-after-shooting-at-mining-site-at-be",
@@ -8450,7 +8491,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/mp-orders-alleged-illegal-miners-along-tutuka-akrofuom-road-to-vacate-sites/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-09-02-galamsey-fight-very-soon-mahama-will-become-a-lame-duck-ken-",
@@ -9604,7 +9645,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-31T13:48:43.932Z",
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-29-president-mahama-tasks-zanetor-agyeman-rawlings-to-provide-d",
@@ -9825,7 +9866,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-30T11:58:56.018Z",
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-28-implement-accepted-recommendations-human-rights-csos-to-govt",
@@ -10304,7 +10345,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/gold-refining-in-ghana-more-expensive-than-abroad-kenneth-ashigbey/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-27-zanetor-calls-for-coordinated-approach-to-galamsey-fight",
@@ -12231,7 +12272,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mces-collecting-fees-from-galamseyers-are-facilitating-illegality-ken-ashigbey/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-killed-by-suspected-poacher-at-kakum-forest-r",
@@ -12532,7 +12573,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-23T13:05:48.134Z",
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-22-ashanti-region-9-blue-water-guards-arrested-for-alleged-brib",
@@ -15643,7 +15684,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fight-a-year-after-helicopter-tragedy/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-13-how-dare-we-allow-this-ken-ashigbey-blasts-nation-s-failure-",
@@ -15663,7 +15704,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/how-dare-we-allow-this-ken-ashigbey-blasts-nations-failure-to-stop-galamsey/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-13-we-started-well-then-lost-track-a-rocha-ghana-on-galamsey-fi",
@@ -15702,7 +15743,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-crisis-kyebi-water-plant-shut-as-turbidity-makes-treatment-impossible/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-08-13-galamsey-crackdown-26-suspects-arrested-across-10-sites-in-m",
@@ -16125,8 +16166,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/civil-society-coalition-steps-up-fight-against-transnational-crime.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-volta-river-system-under-threat-as-galamsey-spreads-up-north",
@@ -20189,8 +20229,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ3BMQ3dsQl8xa3N3S2VBWmhvOE13YTlXaXNQSm5hbnl3MWxnMTFCTjJ1eTNVSWV4YkN4bVRweUM0X3FWTzNjOXI5X3Rlb2o4aGsyNHVkYWxtN05wN0V0RWhfTWJYcmZvUE51THg4Uk9DVUFTX19iTng2eEUtZ0dkcWIwRGtJekd5emZlcFFKbUotYno1aHdOSl9sajBKU2tOeGw2WmJyckRhZy16MTYwRGVESDZqa2ZSaWJYbHRR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-07-21-step-up-enforcement-to-curb-galamsey-coalition-tells-govt",
