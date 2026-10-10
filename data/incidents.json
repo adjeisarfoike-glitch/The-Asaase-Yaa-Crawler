@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-10T12:32:46.141Z",
+  "updated": "2026-10-10T21:45:17.725Z",
   "counts": {
-    "total": 1054,
+    "total": 1058,
     "verified": 28,
-    "automated": 1026,
+    "automated": 1030,
     "earliest": "2024-07-01",
     "latest": "2026-10-10"
   },
@@ -45,6 +45,85 @@
         "url": "https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-urges-focus-on-constitutional-accountability/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/world-cup-visa-scandal-senyo-hosi-urges-focus-on-constitutional-accountability/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-10T21:41:01.952Z",
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-10-galamsey-it-s-not-yet-time-to-trigger-state-of-emergency-ndc",
+      "date": "2026-10-10",
+      "category": "forest",
+      "title": "Galamsey: It's not yet time to trigger state of emergency - NDC’s Julius Fieve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: It's not yet time to trigger state of emergency - NDC’s Julius Fieve GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm83djFZR2x3cTJTNFlteG1xRTdDZ05HQTAyei1LU3hEeTctTGxLc1pIR2FjcEVtd0JLY28yeDlUaDltRnRtRzFnSXB5ZFE0dnFJNUt6TWdWSWg1UWswbWdIaEhVbWZ4ZUJycTVDVHB1WjFQQzZwN1QtTXBSS3RHM2tHRmJLNmpPYmdBOE5xNkhsWUhiRTl0S2tRc1ZPRmtIQmpqV0Q4MTQ5dm1VUF9nOGpmNHdzLTROV1Z4LS1RWTY2Z21RNUQ2dnpUOUIwdXM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm83djFZR2x3cTJTNFlteG1xRTdDZ05HQTAyei1LU3hEeTctTGxLc1pIR2FjcEVtd0JLY28yeDlUaDltRnRtRzFnSXB5ZFE0dnFJNUt6TWdWSWg1UWswbWdIaEhVbWZ4ZUJycTVDVHB1WjFQQzZwN1QtTXBSS3RHM2tHRmJLNmpPYmdBOE5xNkhsWUhiRTl0S2tRc1ZPRmtIQmpqV0Q4MTQ5dm1VUF9nOGpmNHdzLTROV1Z4LS1RWTY2Z21RNUQ2dnpUOUIwdXM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-10-we-re-concerned-about-criminals-livelihoods-not-farmers-awul",
+      "date": "2026-10-10",
+      "category": "forest",
+      "title": "‘We’re concerned about criminals’ livelihoods, not farmers’ - Awula Serwah on galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘We’re concerned about criminals’ livelihoods, not farmers’ - Awula Serwah on galamsey fight GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUFHbVY3NVl6Q0hiQW13VmtyZDlDNzZOUFZ3c2c1LVpQS29nekRxbVhMb25VU3V1bVM2endCOVR1R250eUVmd0RuazNHUmdzTVgyUFYwVGMtMEVRWEduSzZ2QlhPaTZNMGNvTHUzcWxDR094YUt6VlVzTkhMSndxaVdObE9tLUFkbVJ0VDJZYlNDSGpUazhOV3JuZ0ZFWkZoVDVWTUpxeDAtNDYwNDl5QjNCalJQMUJfVWFRQjQ0djk3Ylo3NDllb0FOSkRWU0NReWh2UVdWRER3ZXRrVWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUFHbVY3NVl6Q0hiQW13VmtyZDlDNzZOUFZ3c2c1LVpQS29nekRxbVhMb25VU3V1bVM2endCOVR1R250eUVmd0RuazNHUmdzTVgyUFYwVGMtMEVRWEduSzZ2QlhPaTZNMGNvTHUzcWxDR094YUt6VlVzTkhMSndxaVdObE9tLUFkbVJ0VDJZYlNDSGpUazhOV3JuZ0ZFWkZoVDVWTUpxeDAtNDYwNDl5QjNCalJQMUJfVWFRQjQ0djk3Ylo3NDllb0FOSkRWU0NReWh2UVdWRER3ZXRrVWc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
+    },
+    {
+      "id": "auto-2026-10-10-ndc-s-fieve-rejects-galamsey-emergency-call-activist-cites-w",
+      "date": "2026-10-10",
+      "category": "forest",
+      "title": "NDC’s Fieve rejects galamsey emergency call; activist cites water fears",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC’s Fieve rejects galamsey emergency call; activist cites water fears News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUktZOFgzSmxKX0RCelVGa2x5OFVrXzRxNVFVSG1JSDFNNjRvSkU2bGdXWnFTSXQxWUhTZVlhQzJqSzFLLWF6UThGelZOQm9yaVMyOHNPTXl0SEhwSEllUmxkYXJIeXk3bzEwM3ROakNmcDI1X1BSdGp5UGo3aU10eXRMMER6UkkzOFo0VE1raFVmTllqTjlab1NzVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPUktZOFgzSmxKX0RCelVGa2x5OFVrXzRxNVFVSG1JSDFNNjRvSkU2bGdXWnFTSXQxWUhTZVlhQzJqSzFLLWF6UThGelZOQm9yaVMyOHNPTXl0SEhwSEllUmxkYXJIeXk3bzEwM3ROakNmcDI1X1BSdGp5UGo3aU10eXRMMER6UkkzOFo0VE1raFVmTllqTjlab1NzVQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-10-world-cup-visa-scandal-people-have-leveraged-public-office-t",
+      "date": "2026-10-10",
+      "category": "prosecution",
+      "title": "World Cup visa scandal: People have leveraged public office to facilitate fraud – Senyo Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Convener of the OneGhana Movement and Trustee of the Ghana Coalition Against Galamsey, has accused individuals of exploiting public office to facilitate alleged fraud in the controversy surrounding visa applications linked to Ghana’s participation in the 2026 FIFA World Cup.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/world-cup-visa-scandal-people-have-leveraged-public-office-to-facilitate-fraud-senyo-hosi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/world-cup-visa-scandal-people-have-leveraged-public-office-to-facilitate-fraud-senyo-hosi/",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
