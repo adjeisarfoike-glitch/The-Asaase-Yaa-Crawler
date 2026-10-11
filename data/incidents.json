@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-11T12:52:05.025Z",
+  "updated": "2026-10-11T22:02:18.760Z",
   "counts": {
-    "total": 1059,
+    "total": 1060,
     "verified": 28,
-    "automated": 1031,
+    "automated": 1032,
     "earliest": "2024-07-01",
-    "latest": "2026-10-10"
+    "latest": "2026-10-11"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-11-burkina-faso-to-kasoa-on-foot-man-completes-22-day-anti-gala",
+      "date": "2026-10-11",
+      "category": "forest",
+      "title": "Burkina Faso to Kasoa on Foot: Man completes 22-day anti-galamsey march",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Burkina Faso to Kasoa on Foot: Man completes 22-day anti-galamsey march GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNG9rLXRpRmxDbkdUY1V2empWZHdXMEw0QlFqbXAzUHAyMXJKNlUzVDVaeWtvTkhKaWtDWHVVTDVTS3h3T0VUTExvemoyWUJqODVlZFp6N3ZQQmgxZ1JMTER4ZVVVN0ROb1BmOTFnV0ZIOV9sWUxXazh6TnJPcEpyckxOeTkzYWtRTVctbW5Na29XUUc4bDExZWhkdnVPSVZ2YkkxUjU2ZEI5RHpJeS0zUVpiRFVRN3p6Wi1US2R2T0xaUU9BUlltNg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNG9rLXRpRmxDbkdUY1V2empWZHdXMEw0QlFqbXAzUHAyMXJKNlUzVDVaeWtvTkhKaWtDWHVVTDVTS3h3T0VUTExvemoyWUJqODVlZFp6N3ZQQmgxZ1JMTER4ZVVVN0ROb1BmOTFnV0ZIOV9sWUxXazh6TnJPcEpyckxOeTkzYWtRTVctbW5Na29XUUc4bDExZWhkdnVPSVZ2YkkxUjU2ZEI5RHpJeS0zUVpiRFVRN3p6Wi1US2R2T0xaUU9BUlltNg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-11T21:55:33.170Z"
+    },
     {
       "id": "auto-2026-10-10-world-cup-visa-scandal-senyo-hosi-says-issue-goes-beyond-cal",
       "date": "2026-10-10",
@@ -275,6 +295,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OZzJaa1dXdWk0VjFvd3lra1JLTW9NSld6OW5QVWVDTGRyM3I3LTRjZWR3eWI0MXFPSTVhbk53WEdGRnF0RlBZZGJldEZyYVh4N1NXV2NPSTc4bmdIaEVBQlZTNNIBXEFVX3lxTE1iUjRtWHlNVmFZaHg4dF9NXzkyNE1sTERTOGxwUEttLWtwUk1JdVEzRW1GUnA1M05xVDhEdnAzQkI2amJ6ci1BeU9WNWdiNnp6LWd3ak1YRDNmREl4?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-11T21:57:13.632Z",
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
     },
     {
