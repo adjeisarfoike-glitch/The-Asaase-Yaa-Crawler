@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-11T05:49:46.862Z",
+  "updated": "2026-10-11T12:52:05.025Z",
   "counts": {
-    "total": 1058,
+    "total": 1059,
     "verified": 28,
-    "automated": 1030,
+    "automated": 1031,
     "earliest": "2024-07-01",
     "latest": "2026-10-10"
   },
@@ -233,7 +233,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-analysts-call-for-increased-public-vigilance-amid-new-security-threats.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-11T12:47:05.104Z"
     },
     {
       "id": "auto-2026-10-09-galamsey-activities-redirect-mankran-stream-threatens-floodi",
@@ -253,6 +254,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEVXVUbjc4LTlvcEFHTHZBQmYwZDRXaF9KT0NkWUJMX1lsMmQyNm9rdkNXSW9lZlBLUDRPc3YwQ0VfZThncktUelFrNTRNd1lHaTBqQmVaaHBuS1RCeHdoeHpic3rSAVxBVV95cUxQREdNTDVVQUtSeTJyTnBNTGJ0N0FKTXhmMm94VHVIMFR5UVM1YjY4LXhzTU5UZkhrVzEyZ0JaamJiOG0yRVI5aUZ6dGFabGg2eG5rQUxtT3Vmc0R6Uw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-11T12:47:29.770Z",
       "thread": "t-auto-2026-10-07-galamsey-activities-redirect-mankran-stream-destroy-farms-an"
     },
     {
@@ -1538,6 +1540,26 @@
       "verified": false,
       "archivedAt": "2026-10-06T22:43:52.472Z",
       "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+    },
+    {
+      "id": "auto-2026-10-02-is-the-galamsey-fight-lost-an-open-letter-to-oliver-barker-v",
+      "date": "2026-10-02",
+      "category": "forest",
+      "title": "Is the galamsey fight lost? An open letter to Oliver Barker-Vormawor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Is the galamsey fight lost? An open letter to Oliver Barker-Vormawor GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeDlzd3lEMDZIYTY1T3IzQW1YZElsWUdOaXUxc0VscGZDYkpJNTkzMzZoNTI4by10MW45YzA5NFhoZ2Y1NzdJVVFGQkhYODExUlVtbnZYSVZwazI4RWtSaFFFQXo2OUV0T2s3WVZqZzRlNEYySlRmLXZsaHY1Xy1fUHZLZkZqMjNEaTV5anhRRndhRV9nSm14c2YzRmsxaC1UZDVaSDNrQlB5aVlOd1h1Q21FMGJscEg0T0hkQkpyWFc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeDlzd3lEMDZIYTY1T3IzQW1YZElsWUdOaXUxc0VscGZDYkpJNTkzMzZoNTI4by10MW45YzA5NFhoZ2Y1NzdJVVFGQkhYODExUlVtbnZYSVZwazI4RWtSaFFFQXo2OUV0T2s3WVZqZzRlNEYySlRmLXZsaHY1Xy1fUHZLZkZqMjNEaTV5anhRRndhRV9nSm14c2YzRmsxaC1UZDVaSDNrQlB5aVlOd1h1Q21FMGJscEg0T0hkQkpyWFc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-02-schandorf-writes-is-the-galamsey-fight-lost-an-open-letter-t"
     },
     {
       "id": "auto-2026-10-01-mahama-faces-economic-political-constraints-in-galamsey-figh",
