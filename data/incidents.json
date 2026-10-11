@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:45:17.725Z",
+  "updated": "2026-10-11T05:49:46.862Z",
   "counts": {
     "total": 1058,
     "verified": 28,
@@ -67,7 +67,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm83djFZR2x3cTJTNFlteG1xRTdDZ05HQTAyei1LU3hEeTctTGxLc1pIR2FjcEVtd0JLY28yeDlUaDltRnRtRzFnSXB5ZFE0dnFJNUt6TWdWSWg1UWswbWdIaEhVbWZ4ZUJycTVDVHB1WjFQQzZwN1QtTXBSS3RHM2tHRmJLNmpPYmdBOE5xNkhsWUhiRTl0S2tRc1ZPRmtIQmpqV0Q4MTQ5dm1VUF9nOGpmNHdzLTROV1Z4LS1RWTY2Z21RNUQ2dnpUOUIwdXM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-11T05:42:42.330Z"
     },
     {
       "id": "auto-2026-10-10-we-re-concerned-about-criminals-livelihoods-not-farmers-awul",
@@ -87,6 +88,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMUFHbVY3NVl6Q0hiQW13VmtyZDlDNzZOUFZ3c2c1LVpQS29nekRxbVhMb25VU3V1bVM2endCOVR1R250eUVmd0RuazNHUmdzTVgyUFYwVGMtMEVRWEduSzZ2QlhPaTZNMGNvTHUzcWxDR094YUt6VlVzTkhMSndxaVdObE9tLUFkbVJ0VDJZYlNDSGpUazhOV3JuZ0ZFWkZoVDVWTUpxeDAtNDYwNDl5QjNCalJQMUJfVWFRQjQ0djk3Ylo3NDllb0FOSkRWU0NReWh2UVdWRER3ZXRrVWc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-11T05:43:07.016Z",
       "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
     },
     {
