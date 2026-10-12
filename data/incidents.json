@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-11T22:02:18.760Z",
+  "updated": "2026-10-12T05:59:22.617Z",
   "counts": {
-    "total": 1060,
+    "total": 1061,
     "verified": 28,
-    "automated": 1032,
+    "automated": 1033,
     "earliest": "2024-07-01",
     "latest": "2026-10-11"
   },
@@ -27,6 +27,26 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-11T21:55:33.170Z"
+    },
+    {
+      "id": "auto-2026-10-11-galamsey-fight-suspend-small-scale-mining-enforce-stricter-r",
+      "date": "2026-10-11",
+      "category": "policy",
+      "title": "Galamsey fight: suspend small-scale mining, enforce stricter regulations - Jantuah tells Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: suspend small-scale mining, enforce stricter regulations - Jantuah tells Mahama Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWG9YWkdHekIydFJYbkh5eDdwajA2WGdmUWVLbUZJU2ZxYTJweUpNOEpsVUdVLTcxcExWSGlHRWpMbm5XVXNGRVprdjdkT3N3U2Fva2I1NllEZFY5Y2U5bkJDdzhycE9JZFRlcVJ6NXgtTkM5bUtvbXRQYmtORFlfY3RlQ3ZUTUFfb0hja0stYk9ITDhZaGJFbGRPSTl5S0RWSW9NRFc1cTZlNVhWMnFENXF2WWNoaW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQWG9YWkdHekIydFJYbkh5eDdwajA2WGdmUWVLbUZJU2ZxYTJweUpNOEpsVUdVLTcxcExWSGlHRWpMbm5XVXNGRVprdjdkT3N3U2Fva2I1NllEZFY5Y2U5bkJDdzhycE9JZFRlcVJ6NXgtTkM5bUtvbXRQYmtORFlfY3RlQ3ZUTUFfb0hja0stYk9ITDhZaGJFbGRPSTl5S0RWSW9NRFc1cTZlNVhWMnFENXF2WWNoaW8?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
     },
     {
       "id": "auto-2026-10-10-world-cup-visa-scandal-senyo-hosi-says-issue-goes-beyond-cal",
@@ -18096,7 +18116,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFBqejQwNjhySV9NUjg0OHVUQ1VPM2JIa3A5dVhyVVNscFp3NFpsa3BsZzlXaVlqaGVLTTRtYWpUWUhCbFgtMXgxYmFVUE55UXVQNnhRcjJkV3RwTUVxdmdINkJ6a3NHQWhCdGhPRnRRd2RhLW9rN09EaFRrWXhUT2FRc0pZVWN1ZzZV?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T15:42:51.376Z"
+      "archivedAt": "2026-08-09T15:42:51.376Z",
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
     },
     {
       "id": "auto-2026-08-07-dadson-my-record-against-npp-gives-me-the-right-to-speak-on-",
