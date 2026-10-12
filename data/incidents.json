@@ -1,13 +1,54 @@
 {
-  "updated": "2026-10-12T05:59:22.617Z",
+  "updated": "2026-10-12T15:24:21.622Z",
   "counts": {
-    "total": 1061,
+    "total": 1063,
     "verified": 28,
-    "automated": 1033,
+    "automated": 1035,
     "earliest": "2024-07-01",
-    "latest": "2026-10-11"
+    "latest": "2026-10-12"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-12-minerals-dev-t-fund-backs-polluter-pays-approach-to-illegal-",
+      "date": "2026-10-12",
+      "category": "water",
+      "title": "Minerals Dev't Fund backs “Polluter Pays” approach to illegal mining; publishes first research in an international journal",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minerals Dev't Fund backs “Polluter Pays” approach to illegal mining; publishes first research in an international journal 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNk5mdGkwQi16WUhfeWVONy00MmxLNzdSSlVTU1NLZlN2WG1lbTFvWTI1UWo5WnNBaDFmNlFCWlYya1A3RTBMZ0tYTC10Yi1zZjctZnRXd0tvUl9PSGpYOXhMYTlLdFNNYW1DVjZrLW9fUkVsTTRHWnoxNFEzWXF0SGYxdkpnM1dXS0F2TWExbllSVDF1VUZkVlpqdkxqblc1MnFubnRySm8yal9HMU9KS2NrYlJmaVlDam5OTXc1N2I2Q3lEaDBaNFYwTnFQa0Z3ejk5QUNnQ0o?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNk5mdGkwQi16WUhfeWVONy00MmxLNzdSSlVTU1NLZlN2WG1lbTFvWTI1UWo5WnNBaDFmNlFCWlYya1A3RTBMZ0tYTC10Yi1zZjctZnRXd0tvUl9PSGpYOXhMYTlLdFNNYW1DVjZrLW9fUkVsTTRHWnoxNFEzWXF0SGYxdkpnM1dXS0F2TWExbllSVDF1VUZkVlpqdkxqblc1MnFubnRySm8yal9HMU9KS2NrYlJmaVlDam5OTXc1N2I2Q3lEaDBaNFYwTnFQa0Z3ejk5QUNnQ0o?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-12T15:18:00.080Z",
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-10-12-galamsey-silts-birim-river-as-kibi-water-treatment-plant-shu",
+      "date": "2026-10-12",
+      "category": "water",
+      "title": "Galamsey silts Birim River as Kibi water treatment plant shut down",
+      "place": "Birim",
+      "region": "Eastern",
+      "lat": 6.1,
+      "lon": -0.75,
+      "summary": "Galamsey silts Birim River as Kibi water treatment plant shut down GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWs3Q3dQaFFqWU11VmMtN2NJVmhNTG1IeGs1bHFpQUlKcWttT2dEYXdXY1pjeGNiMXFIcEJrUE56UjdadkszbVBPNllFcmc5Z1RFMFJXWnhPNDNUU2F2Q3lhclNSSlhzcHVTaW9IOUMxa1FRbFpmNmZxUUIycVdQR1RYTHBNc0NwcDAwN2g3TmdoYXk2blhHRXhva1ZjNTcweWxia3Q4bWU0NHItRWJyaGlLMTNRaFNoNFM1c3VlQUNoZGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWs3Q3dQaFFqWU11VmMtN2NJVmhNTG1IeGs1bHFpQUlKcWttT2dEYXdXY1pjeGNiMXFIcEJrUE56UjdadkszbVBPNllFcmc5Z1RFMFJXWnhPNDNUU2F2Q3lhclNSSlhzcHVTaW9IOUMxa1FRbFpmNmZxUUIycVdQR1RYTHBNc0NwcDAwN2g3TmdoYXk2blhHRXhva1ZjNTcweWxia3Q4bWU0NHItRWJyaGlLMTNRaFNoNFM1c3VlQUNoZGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-12T15:18:30.933Z"
+    },
     {
       "id": "auto-2026-10-11-burkina-faso-to-kasoa-on-foot-man-completes-22-day-anti-gala",
       "date": "2026-10-11",
