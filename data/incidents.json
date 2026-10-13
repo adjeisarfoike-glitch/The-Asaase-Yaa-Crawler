@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-12T15:24:21.622Z",
+  "updated": "2026-10-13T00:42:15.526Z",
   "counts": {
-    "total": 1063,
+    "total": 1065,
     "verified": 28,
-    "automated": 1035,
+    "automated": 1037,
     "earliest": "2024-07-01",
     "latest": "2026-10-12"
   },
@@ -48,6 +48,46 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-12T15:18:30.933Z"
+    },
+    {
+      "id": "auto-2026-10-12-kwahu-east-galamsey-arrests-yield-no-prosecutions-dce",
+      "date": "2026-10-12",
+      "category": "arrest",
+      "title": "Kwahu East: Galamsey arrests yield no prosecutions – DCE",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kwahu East: Galamsey arrests yield no prosecutions – DCE CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGhSU2xhMmhNTnFNeF9rY0NmWnJNX2E3c0VobzdlTTZOQ2JnVVBEZ0Q3b1daZGc1ZW9KWWFqV2xNcEdmMHBWS3gyRU03RmdVTnVMS1NJcEdhRTlRLUZ1LWJKZjgyN1U3ejlJOVpSdXJiQW9oeFJLQ3pXcDZoNmRDOXNwVGRiNl9qdzUyMG80Tk5mazBpX1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGhSU2xhMmhNTnFNeF9rY0NmWnJNX2E3c0VobzdlTTZOQ2JnVVBEZ0Q3b1daZGc1ZW9KWWFqV2xNcEdmMHBWS3gyRU03RmdVTnVMS1NJcEdhRTlRLUZ1LWJKZjgyN1U3ejlJOVpSdXJiQW9oeFJLQ3pXcDZoNmRDOXNwVGRiNl9qdzUyMG80Tk5mazBpX1E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-12-balancing-galamsey-fight-with-law-books-armah-buah-s-call-to",
+      "date": "2026-10-12",
+      "category": "policy",
+      "title": "Balancing Galamsey Fight With Law Books: Armah Buah’s Call to the Bar praised",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Balancing Galamsey Fight With Law Books: Armah Buah’s Call to the Bar praised GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2x6SWU1Ym1VamNWVGJ6cGRqT1dZR3YtLVNHZ1NMRklYcnpocktqcHE5UkxQSFktc1NoUmdFWG9PWHYxTkZRTDVqc2FXZ1BOSWljZlZKcnFwUHhialdOX0RsTDR0SlNMellXbmdmMjhTeTdGVFg3QVJPbDJEZjktOEg2WXVpWDA4VUZzaFI3VU9RdkFDWThzaXZ2QVdZWTdiY2FVeUMxVlRFczNGUkxJNmFPdWpDaVNsNVJUNmVLRk5BNHdmdXBXdHhLdWI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2x6SWU1Ym1VamNWVGJ6cGRqT1dZR3YtLVNHZ1NMRklYcnpocktqcHE5UkxQSFktc1NoUmdFWG9PWHYxTkZRTDVqc2FXZ1BOSWljZlZKcnFwUHhialdOX0RsTDR0SlNMellXbmdmMjhTeTdGVFg3QVJPbDJEZjktOEg2WXVpWDA4VUZzaFI3VU9RdkFDWThzaXZ2QVdZWTdiY2FVeUMxVlRFczNGUkxJNmFPdWpDaVNsNVJUNmVLRk5BNHdmdXBXdHhLdWI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-13T00:37:41.893Z",
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-11-burkina-faso-to-kasoa-on-foot-man-completes-22-day-anti-gala",
