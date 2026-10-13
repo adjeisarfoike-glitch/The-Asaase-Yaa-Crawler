@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-13T14:14:06.785Z",
+  "updated": "2026-10-13T22:49:08.858Z",
   "counts": {
-    "total": 1068,
+    "total": 1075,
     "verified": 28,
-    "automated": 1040,
+    "automated": 1047,
     "earliest": "2024-07-01",
     "latest": "2026-10-13"
   },
@@ -26,6 +26,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzc2VRWERDdERkN3oyeEloU1h5ZEhBa29QYlIweEVQd0xrM1NCZ1daMW9ldzNTcXN1bmhORUdzc3Zrdms5UkVJSXFDWkdhLW1XS2Y3SUdqbHdKZkpVT21vM0dpbnZvR0JIRUVkZkV6NDF2WTB4SnVEc3kzVXFPX1JUUExEeVZabHNET3BtR3VyTU1VM2NiQm05OHI2WUZDeVJmLXZ1U19HMk9WOG9PbkxfYTZCSDB3bHVxa0JlOWJoNWh6Z0dzYQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-13T22:42:20.369Z",
       "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
     },
     {
@@ -47,6 +48,145 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-13T14:08:42.875Z"
+    },
+    {
+      "id": "auto-2026-10-13-is-my-ministry-in-charge-of-galamsey-sam-george-fires-back-a",
+      "date": "2026-10-13",
+      "category": "policy",
+      "title": "‘Is my ministry in charge of galamsey?’ — Sam George fires back at critics",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Is my ministry in charge of galamsey?’ — Sam George fires back at critics Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnNzVW1ZQmJaSUJ5ckVxcWN0QTZxX2tKSzBVbERLYnFuLXlsdnRSRUJudzBZWTZrdl9PTW1mbXZUSV94dlNiV1RkMWNsM0dRemlGcnNaZ3Z3TmxOS010WDBGYmFJZTZIWjhlSFV6WUY2UTlrQVJnd2Y0QUpIZVhOY1hDUjEyN2ZubjhlZ3doMlNhMDZJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPZnNzVW1ZQmJaSUJ5ckVxcWN0QTZxX2tKSzBVbERLYnFuLXlsdnRSRUJudzBZWTZrdl9PTW1mbXZUSV94dlNiV1RkMWNsM0dRemlGcnNaZ3Z3TmxOS010WDBGYmFJZTZIWjhlSFV6WUY2UTlrQVJnd2Y0QUpIZVhOY1hDUjEyN2ZubjhlZ3doMlNhMDZJ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-13-galamsey-crisis-government-moves-to-tackle-economic-hardship",
+      "date": "2026-10-13",
+      "category": "policy",
+      "title": "Galamsey crisis: Government moves to tackle economic hardships driving youth into illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey crisis: Government moves to tackle economic hardships driving youth into illegal mining Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNko0WU9vU21pOGpEZkhRQmttbGVsX1RvQVdQWjRETF8zNjl0Z2NPNnBPdzhrTUJRckEwdFZzbjh5MzlNY01JSE43NFpma3dvaGxCbXVSQ2hRMnR4Z0oyZ2RkZnbSAVxBVV95cUxQbkthcVEyb252WUwwTGM5RDFueHJoQlhQQUJmRnNMUnhJVWtRdjc5VWN4Z1EzSkxwNFRBV3U1ZE45ajYwcW5xWExMazY1cnA0M0x0R3F3T3NZUTR1eQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNko0WU9vU21pOGpEZkhRQmttbGVsX1RvQVdQWjRETF8zNjl0Z2NPNnBPdzhrTUJRckEwdFZzbjh5MzlNY01JSE43NFpma3dvaGxCbXVSQ2hRMnR4Z0oyZ2RkZnbSAVxBVV95cUxQbkthcVEyb252WUwwTGM5RDFueHJoQlhQQUJmRnNMUnhJVWtRdjc5VWN4Z1EzSkxwNFRBV3U1ZE45ajYwcW5xWExMazY1cnA0M0x0R3F3T3NZUTR1eQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-13-mahama-condemns-attacks-on-naimos-during-anti-galamsey-opera",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "Mahama Condemns Attacks on NAIMOS During Anti-Galamsey Operations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama Condemns Attacks on NAIMOS During Anti-Galamsey Operations Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QczFxa3haRmxrNTEzc21yY1ZOZi1qQzV5QUxoLVVZUGtzZGh1SEJuWWNjdlNQR0ZuUVBzSUlEYTZ6VFoxNDdLazN0M25jc2JRUDltckpQX01rYmxKU2lYbFZ1QdIBXEFVX3lxTE9mc3lTZm9XM2lVejVZa1k5WmhJNm9UWFctWlYyQ0lEenUzZ2FFR2xOTmpfSWZDeWZmcF9aejllR2R5NHlWV1NXVG9lZG5mTkZjYlFLMHVDdFdMYmdj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QczFxa3haRmxrNTEzc21yY1ZOZi1qQzV5QUxoLVVZUGtzZGh1SEJuWWNjdlNQR0ZuUVBzSUlEYTZ6VFoxNDdLazN0M25jc2JRUDltckpQX01rYmxKU2lYbFZ1QdIBXEFVX3lxTE9mc3lTZm9XM2lVejVZa1k5WmhJNm9UWFctWlYyQ0lEenUzZ2FFR2xOTmpfSWZDeWZmcF9aejllR2R5NHlWV1NXVG9lZG5mTkZjYlFLMHVDdFdMYmdj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-13T22:44:09.587Z",
+      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
+    },
+    {
+      "id": "auto-2026-10-13-atta-akyea-denies-seeking-presidential-pardon-for-wontumi-in",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "Atta Akyea denies seeking presidential pardon for Wontumi in galamsey case",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Atta Akyea denies seeking presidential pardon for Wontumi in galamsey case MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEk3eXdUZnZ0Vy1JdjA0T1V1UjR5VFJ0Szd6d2lsMkc3SVFzRDlHemVGODJMSEVSRC1fWHpBUmhqUzl1THk5ZW90dDhIY1VWRHI5dVNzR0lhTVhYZ25kUl9fQkFHSzJQb0FfUTRLZHlhZjV5RUREVTh2ekFyMHRSM0dRNjRBc1ZtZy11VFpSR01wVkVpajExSXptNGNsOS1VZi1pNXhB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEk3eXdUZnZ0Vy1JdjA0T1V1UjR5VFJ0Szd6d2lsMkc3SVFzRDlHemVGODJMSEVSRC1fWHpBUmhqUzl1THk5ZW90dDhIY1VWRHI5dVNzR0lhTVhYZ25kUl9fQkFHSzJQb0FfUTRLZHlhZjV5RUREVTh2ekFyMHRSM0dRNjRBc1ZtZy11VFpSR01wVkVpajExSXptNGNsOS1VZi1pNXhB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-13-the-gold-behind-the-reset-how-galamsey-gold-unpaid-bills-and",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "The Gold Behind the Reset: How galamsey gold, unpaid bills and a record world gold price have been presented to Ghanaians as an economic miracle",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Gold Behind the Reset: How galamsey gold, unpaid bills and a record world gold price have been presented to Ghanaians as an economic miracle GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOMlFmWk5TdnNRRk1pOXZlS2FoLVRLVWpLbmFZLU1iSTRxWGFHc0ozRnFtbm5iZTQ4NDVwZVBYcWxzN2lVR1lLUm85WHpRZlNSeFBpbmRKbnRaY042bWJ1c25GMTNYQ3NNTkIwcXBzc0l3ZE9JdDRWVl9LVlJYUzUxMW5MdXRzMklVYi1HbVhGUEZQV0ZkTGlRMkQ2cENnSDY3dUJyMUFjNTlEMGFXVHYxUk1WOXJMOHB0elJUdkxYZWUzRS1GVmFFSW5uOVN6eFVpT3c5QUZsMTZ2aEs1SldtendDUjJBSm9Bc21RRFRGS1NFM2t1M2xmOHE0dEgyejl2dExzcmJJaDlCLWhabzM5dm1FNkFab0NsYnl2MUpfek1lSnJY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAJBVV95cUxOMlFmWk5TdnNRRk1pOXZlS2FoLVRLVWpLbmFZLU1iSTRxWGFHc0ozRnFtbm5iZTQ4NDVwZVBYcWxzN2lVR1lLUm85WHpRZlNSeFBpbmRKbnRaY042bWJ1c25GMTNYQ3NNTkIwcXBzc0l3ZE9JdDRWVl9LVlJYUzUxMW5MdXRzMklVYi1HbVhGUEZQV0ZkTGlRMkQ2cENnSDY3dUJyMUFjNTlEMGFXVHYxUk1WOXJMOHB0elJUdkxYZWUzRS1GVmFFSW5uOVN6eFVpT3c5QUZsMTZ2aEs1SldtendDUjJBSm9Bc21RRFRGS1NFM2t1M2xmOHE0dEgyejl2dExzcmJJaDlCLWhabzM5dm1FNkFab0NsYnl2MUpfek1lSnJY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-",
+      "date": "2026-10-13",
+      "category": "reclamation",
+      "title": "Land reclamation: Soldiers restore 50 hectares of Tano Nimri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Land reclamation: Soldiers restore 50 hectares of Tano Nimri Forest Reserve Modern Ghana",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMlZfV3VERFFiVmRkT0dlNUczbjRHNktOdW9IRldKVTZ3ODIxWHJtMzktODh3RE4ybFNTdHVtMm5XOEV2TENTNm9ES3BUNGZ6Vl84eWUyZ29Vb0JMQXdIdlQyRzHSAVxBVV95cUxQeXozb1k4YkMzQ3NJb1BJVVI5ek5nVEExbjRwTjVXN2FSVDNla2t6WFFjYlVheHhBTmtBMldXVTdtcEYtNmtEN2d0bzdiajRpME45SE9DLU5PbUU5Mg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMlZfV3VERFFiVmRkT0dlNUczbjRHNktOdW9IRldKVTZ3ODIxWHJtMzktODh3RE4ybFNTdHVtMm5XOEV2TENTNm9ES3BUNGZ6Vl84eWUyZ29Vb0JMQXdIdlQyRzHSAVxBVV95cUxQeXozb1k4YkMzQ3NJb1BJVVI5ek5nVEExbjRwTjVXN2FSVDNla2t6WFFjYlVheHhBTmtBMldXVTdtcEYtNmtEN2d0bzdiajRpME45SE9DLU5PbUU5Mg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-13-atta-akyea-denies-seeking-presidential-pardon-for-chairman-w",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "Atta Akyea denies seeking presidential pardon for Chairman Wontumi",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Private legal practitioner Samuel Atta Akyea has denied formally petitioning President John Dramani Mahama for a presidential pardon for his client, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, in a case related to illegal mining. Speaking on Accra-based Citi FM on Tuesday, October 13, 2026, Mr Atta Akyea dismissed suggestions that he had approached […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-12-minerals-dev-t-fund-backs-polluter-pays-approach-to-illegal-",
@@ -456,7 +596,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmRXVTA0TEVfcl85NW5fUmdXNUFhVy12c3RXTXBrRFh4T2RvSTJOSUx6blVyUDI0YmVvRHlTN2JxdklDMlRrYVQ4WXZBUFNkZ1YyTGFtbjlVd3UwN0pRR2NqTG9FQVVZamFYZnVaeFFjRmZmanF0bmNDTHVEWGpZRV9QMHpOVTc2ZVRUaS1NM3hzMmIxQ3VHbtIBlwFBVV95cUxNdkNaM2JfbDJ4RE9KS2RqckJ2SXNaRTdOdlZQcEhLRmhhUDJ1UV9pcGMtWnVDZnlRbkFiOW41aVd5ckl5dW9MV2Z0czVNd1B1WFhzam9lZENEeWtUU0o3RnNHdVdXbDN3LUtlUXlNVXdscHRDMHVZUm9JR1hkV1BURWsyWEpaZU1od08zUmNyZHBibUlLVmRn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-13T22:47:55.143Z"
     },
     {
       "id": "auto-2026-10-09-watch-as-galamseyer-dares-police-military-to-arrest-him",
@@ -17661,7 +17802,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
@@ -20358,8 +20500,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont"
+      "verified": false
     },
     {
       "id": "auto-2026-07-28-galamsey",
@@ -20455,8 +20596,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzhiUXZsYUg3NEtiYnVHVHk5NU1MOXZ1MlJ1WjE3RWVIVEdlT041YXVQNTQ5dW9yRl8tSGMtQW1fQ2sxWWlLS2t6VTF4eTZDeEpKU2xiN0RtMDFIUDFkV3U5c0ttd0YxcG5hS2tJajNWVHByX2dkR1oxUG1lR2NTMG5UMU5naHRXQUdIdjc0YlFhc3p5MGlNTUNUNjVkdmJQUFJGVU5acG5PS2ctX292TjlaQXRwa0NoQXU5M1Z2OA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont"
+      "verified": false
     },
     {
       "id": "pro-2026-07-21-wontumi-samreboi",
