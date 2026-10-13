@@ -1,13 +1,53 @@
 {
-  "updated": "2026-10-13T00:42:15.526Z",
+  "updated": "2026-10-13T14:14:06.785Z",
   "counts": {
-    "total": 1065,
+    "total": 1068,
     "verified": 28,
-    "automated": 1037,
+    "automated": 1040,
     "earliest": "2024-07-01",
-    "latest": "2026-10-12"
+    "latest": "2026-10-13"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-13-birth-defects-galamsey-a-threat-to-unborn-generations-cathol",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "Birth Defects: Galamsey a threat to unborn generations - Catholic Bishops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Birth Defects: Galamsey a threat to unborn generations - Catholic Bishops GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzc2VRWERDdERkN3oyeEloU1h5ZEhBa29QYlIweEVQd0xrM1NCZ1daMW9ldzNTcXN1bmhORUdzc3Zrdms5UkVJSXFDWkdhLW1XS2Y3SUdqbHdKZkpVT21vM0dpbnZvR0JIRUVkZkV6NDF2WTB4SnVEc3kzVXFPX1JUUExEeVZabHNET3BtR3VyTU1VM2NiQm05OHI2WUZDeVJmLXZ1U19HMk9WOG9PbkxfYTZCSDB3bHVxa0JlOWJoNWh6Z0dzYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzc2VRWERDdERkN3oyeEloU1h5ZEhBa29QYlIweEVQd0xrM1NCZ1daMW9ldzNTcXN1bmhORUdzc3Zrdms5UkVJSXFDWkdhLW1XS2Y3SUdqbHdKZkpVT21vM0dpbnZvR0JIRUVkZkV6NDF2WTB4SnVEc3kzVXFPX1JUUExEeVZabHNET3BtR3VyTU1VM2NiQm05OHI2WUZDeVJmLXZ1U19HMk9WOG9PbkxfYTZCSDB3bHVxa0JlOWJoNWh6Z0dzYQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-13-wealth-over-water-how-galamsey-is-threatening-ghana-s-water-",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "Wealth Over Water: How Galamsey Is Threatening Ghana’s Water Security",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wealth Over Water: How Galamsey Is Threatening Ghana’s Water Security MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDRxWXNZRkV1OE1MVUh4X1lSN2ZHd0t2UXVoME9QcmJ1U3NhakNIdldOVl9IRFltUEVSWjExVWR0MHN2ODdaclVmVi1VaDlndnVXc09WRW1oT24yQkhubVVKM2FpdnotRFgzVlhqVzFUdFpKeW16Q3RKUFYtU19uUGJDd3dtTTJDWnRUS3BPdlhYblU3TzJJbU9YQm4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOSDRxWXNZRkV1OE1MVUh4X1lSN2ZHd0t2UXVoME9QcmJ1U3NhakNIdldOVl9IRFltUEVSWjExVWR0MHN2ODdaclVmVi1VaDlndnVXc09WRW1oT24yQkhubVVKM2FpdnotRFgzVlhqVzFUdFpKeW16Q3RKUFYtU19uUGJDd3dtTTJDWnRUS3BPdlhYblU3TzJJbU9YQm4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-13T14:08:42.875Z"
+    },
     {
       "id": "auto-2026-10-12-minerals-dev-t-fund-backs-polluter-pays-approach-to-illegal-",
       "date": "2026-10-12",
@@ -2714,6 +2754,26 @@
       "verified": false,
       "archivedAt": "2026-09-30T05:34:26.106Z",
       "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
+    },
+    {
+      "id": "auto-2026-09-28-illegal-mining-mahama-explains-why-the-fight-goes-beyond-a-s",
+      "date": "2026-09-28",
+      "category": "forest",
+      "title": "Illegal Mining: Mahama Explains Why the Fight Goes Beyond a State of Emergency",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal Mining: Mahama Explains Why the Fight Goes Beyond a State of Emergency Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNXFiQkFkU2ZVZURMZlBONjJTY1FhNUhwVU9ydEFRRUNRWEZ5Sk5hUnBaeWRZX01VSlBDVkdtV2hSRDFUd1UtOEpoaFp3RHdGMF9IMHBWUVo4Q1BQaE53WDgxQUTSAVxBVV95cUxNdTFJT3NkN1hYUUR2ZEpoS0RUTFVRdm1OV0MxeXVVamUyZW1YZTQxb0ZmMUJMYkRKNmRERE13YXlGcEpMZXIzRFNxa2I3bEpLMXpvX0wwQUlXbllGRA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNXFiQkFkU2ZVZURMZlBONjJTY1FhNUhwVU9ydEFRRUNRWEZ5Sk5hUnBaeWRZX01VSlBDVkdtV2hSRDFUd1UtOEpoaFp3RHdGMF9IMHBWUVo4Q1BQaE53WDgxQUTSAVxBVV95cUxNdTFJT3NkN1hYUUR2ZEpoS0RUTFVRdm1OV0MxeXVVamUyZW1YZTQxb0ZmMUJMYkRKNmRERE13YXlGcEpMZXIzRFNxa2I3bEpLMXpvX0wwQUlXbllGRA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
