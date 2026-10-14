@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-14T11:55:40.134Z",
+  "updated": "2026-10-14T17:14:34.639Z",
   "counts": {
-    "total": 1088,
+    "total": 1098,
     "verified": 28,
-    "automated": 1060,
+    "automated": 1070,
     "earliest": "2024-07-01",
     "latest": "2026-10-14"
   },
@@ -267,6 +267,189 @@
       "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
     },
     {
+      "id": "auto-2026-10-14-mahama-links-galamsey-fight-to-job-creation-promises-alterna",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Mahama links galamsey fight to job creation, promises alternative livelihoods for youth",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama links galamsey fight to job creation, promises alternative livelihoods for youth Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVk4djNZUkVIQ1hKOUxIM08zOWpuTGpJRUFGal85TzRzOHZFVWdXUDh6Rm1ac3ZsMk9lcXdPYUlTbGZtSXI5LWMzOHN3c0k3Q3dnT2d2MUIwZDZHV1I2UXRxaGREMGt2RXFXMTNZM3VrYUpGSmZyV1dqY1N2MHh1T1liamZNMTlabFdFNjNCR3RvTlRaU3FKS3poZE5JT2gzcUEyMGpsSzdrSklZb2dCeGdWNzA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVk4djNZUkVIQ1hKOUxIM08zOWpuTGpJRUFGal85TzRzOHZFVWdXUDh6Rm1ac3ZsMk9lcXdPYUlTbGZtSXI5LWMzOHN3c0k3Q3dnT2d2MUIwZDZHV1I2UXRxaGREMGt2RXFXMTNZM3VrYUpGSmZyV1dqY1N2MHh1T1liamZNMTlabFdFNjNCR3RvTlRaU3FKS3poZE5JT2gzcUEyMGpsSzdrSklZb2dCeGdWNzA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-president-mahama-allocates-gh-400m-in-2027-budget-to-boost-f",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "President Mahama allocates GH¢400M in 2027 budget to boost fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama allocates GH¢400M in 2027 budget to boost fight against galamsey GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUERiX3I1UGNfZEFITjIyQnpreGR5WEMzanpoMkduOC1CWkhXZFhpLVlHc1E4MjUxWG81a2Y3Z241dzBZTnpqcjJKWjlTVEljWFR0VDBSbHZhOFJWZzByUEhPeGZCR2l2UUxuTFhLM3FsVllKZnpjOUtsOWxIREMtdGVTa2FiQk9HR0M3Vk1xa3FCLTBHZDFfazBPcDc5c1NfY045b0FYbjNWYmpzc1d3emNidENhTWU1Y0RIMkFRU1E5eVItTnYxY1MzMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxPUERiX3I1UGNfZEFITjIyQnpreGR5WEMzanpoMkduOC1CWkhXZFhpLVlHc1E4MjUxWG81a2Y3Z241dzBZTnpqcjJKWjlTVEljWFR0VDBSbHZhOFJWZzByUEhPeGZCR2l2UUxuTFhLM3FsVllKZnpjOUtsOWxIREMtdGVTa2FiQk9HR0M3Vk1xa3FCLTBHZDFfazBPcDc5c1NfY045b0FYbjNWYmpzc1d3emNidENhTWU1Y0RIMkFRU1E5eVItTnYxY1MzMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-military-engineers-to-lead-gh-35m-operation-to-reclaim-galam",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "Military engineers to lead GH¢35m operation to reclaim galamsey-damaged forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Military engineers to lead GH¢35m operation to reclaim galamsey-damaged forest GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGlVbGRxUVJUSHRHRmpfNTBIY2p5V2JQd2dPNmMtWVhwb0pHUE83QUhCTVBEX1lsaDN2R1BzZUtQOGxQdVQ1MC1KYm41UlV3blMtOE1SY1ZXRUFkMzFLb0ZsRmRNek1mQ1hiaS1fbHlzS3BISDYwSmd4cDVNN25lSTU1TW1wOFE3SXNzTlNpNDlCNllYMmhkOGpPQTVLV1RWUXJmZS1FUEl2Y1NiZ2JOczJrckl2OWRJMm9WYTRlNGtZYVBNRExqVzRtS2RrTy1uSktv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGlVbGRxUVJUSHRHRmpfNTBIY2p5V2JQd2dPNmMtWVhwb0pHUE83QUhCTVBEX1lsaDN2R1BzZUtQOGxQdVQ1MC1KYm41UlV3blMtOE1SY1ZXRUFkMzFLb0ZsRmRNek1mQ1hiaS1fbHlzS3BISDYwSmd4cDVNN25lSTU1TW1wOFE3SXNzTlNpNDlCNllYMmhkOGpPQTVLV1RWUXJmZS1FUEl2Y1NiZ2JOczJrckl2OWRJMm9WYTRlNGtZYVBNRExqVzRtS2RrTy1uSktv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
+    },
+    {
+      "id": "auto-2026-10-14-government-working-to-address-economic-challenges-driving-yo",
+      "date": "2026-10-14",
+      "category": "policy",
+      "title": "Government working to address economic challenges driving youth into galamsey - Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government working to address economic challenges driving youth into galamsey - Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXFhZy1paXpTRk5OdWhkY2g0bU1wTG1lbGVRUnpBdF9oSEl4b1FuMHY0SmUyTl9GYUhvcklXekh6LWZDUm5lUGE2ajBaYVhMSWQyVGhmeG9ZSmczV296dk1TdmR0aDZXU0pjT291Tk05Q1lZQzRrX1E3UER3ekVyaVF2aTFaeUhqUGxJNXQ2SHhyYmtyS2RMcllzbEo1VUJaenF6NVA3Qy1vNXpqd0VySVVuOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOWXFhZy1paXpTRk5OdWhkY2g0bU1wTG1lbGVRUnpBdF9oSEl4b1FuMHY0SmUyTl9GYUhvcklXekh6LWZDUm5lUGE2ajBaYVhMSWQyVGhmeG9ZSmczV296dk1TdmR0aDZXU0pjT291Tk05Q1lZQzRrX1E3UER3ekVyaVF2aTFaeUhqUGxJNXQ2SHhyYmtyS2RMcllzbEo1VUJaenF6NVA3Qy1vNXpqd0VySVVuOA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-commits-gh-35m-to-reclaim-galamsey-ravaged-tano-nimr",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "GoldBod commits GH¢35m to reclaim galamsey-ravaged Tano Nimri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod commits GH¢35m to reclaim galamsey-ravaged Tano Nimri Forest Reserve MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1k2TXlUZ054OGlaeWFXRXlFazFOWV9Bb183WkpzbHFleEhQWTE2M1lLa3c5dF9McTV4VU02RkpLcHplV3pxMThDRk9QVTRkVHhWTEx3WGdqZmFkYmg5VHJiUHR6aWpyN2ZENzJsdXdtLUNmdHFOQXM2bnpSMHBfUEIxNkZURHRsMl9KTHRkcHNoU2F0cHRjOHpqYVpmSGRDQ3RHaXBROFYxaWF1YW9n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1k2TXlUZ054OGlaeWFXRXlFazFOWV9Bb183WkpzbHFleEhQWTE2M1lLa3c5dF9McTV4VU02RkpLcHplV3pxMThDRk9QVTRkVHhWTEx3WGdqZmFkYmg5VHJiUHR6aWpyN2ZENzJsdXdtLUNmdHFOQXM2bnpSMHBfUEIxNkZURHRsMl9KTHRkcHNoU2F0cHRjOHpqYVpmSGRDQ3RHaXBROFYxaWF1YW9n?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-14-police-arrest-16-suspects-recover-209-live-cartridges-at-gba",
+      "date": "2026-10-14",
+      "category": "arrest",
+      "title": "Police arrest 16 suspects, recover 209 live cartridges at Gbane mining site",
+      "place": "Gbane",
+      "region": "Upper East",
+      "lat": 10.75,
+      "lon": -0.63,
+      "summary": "The Upper East Regional Police Command has arrested 16 suspects and recovered ammunition, action guns and suspected narcotic substances during a security operation at the Gbane mining site in the Talensi District of the Upper East Region. The operation, conducted on Tuesday, October 13, 2026, involved personnel from the National Police Intelligence Directorate, the Upper East Regional Police Intelligence Directorate,",
+      "metrics": {
+        "arrests": 16
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/police-arrest-16-suspects-recover-209-live-cartridges-at-gbane-mining-site.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/police-arrest-16-suspects-recover-209-live-cartridges-at-gbane-mining-site.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-upper-east"
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-invests-ghc35-million-in-tano-nimri-forest-reserve-r",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "GoldBod invests GHC35 million in Tano Nimri Forest Reserve reclamation",
+      "place": "Western North Region",
+      "region": "Western North",
+      "lat": 6.21,
+      "lon": -2.48,
+      "summary": "The Ghana Gold Board (GoldBod) is intensifying efforts to restore lands devastated by illegal mining, with a GH¢35 million reclamation project underway at the Tano Nimri Forest Reserve in the Western North Region.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/goldbod-commits-ghc35-million-to-tano-nimri-forest-reserve-reclamation"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/goldbod-commits-ghc35-million-to-tano-nimri-forest-reserve-reclamation",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-armed-forces-launch-gh-35m-project-to-reclaim-60-hec",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "GoldBod, Armed Forces launch GH¢35m project to reclaim 60 hectares of Tano Nimri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has partnered with the Ghana Armed Forces Engineer Regiment to undertake a GH¢35 million land reclamation project aimed at restoring portions of the Tano Nimri Forest Reserve devastated by illegal mining. The collaboration brings together GoldBod’s environmental restoration initiative and the military’s engineering expertise to address the extensive physical damage […]",
+      "metrics": {
+        "hectares": 60
+      },
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/goldbod-armed-forces-launch-gh%c2%a235m-project-to-reclaim-60-hectares-of-tano-nimri-forest-reserve/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-armed-forces-launch-gh%c2%a235m-project-to-reclaim-60-hectares-of-tano-nimri-forest-reserve/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-14-tano-river-protection-forest-recovery-drive-goldbod-s-gh-35m",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "Tano River Protection, Forest Recovery Drive GoldBod’s GH¢35m Reclamation Project",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "By Magdalene Andoh Protecting water resources, stabilising degraded land and restoring biodiversity are central priorities of a GH¢35 million reclamation project being undertaken by the Ghana Gold Board (GoldBod) at the Tano Nimri Forest Reserve. The initiative is targeting 50 hectares of severely degraded land in Compartment 161 of the reserve, where illegal mining activities […]",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/tano-river-protection-forest-recovery-drive-goldbods-gh%c2%a235m-reclamation-project/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/tano-river-protection-forest-recovery-drive-goldbods-gh%c2%a235m-reclamation-project/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
       "id": "auto-2026-10-13-birth-defects-galamsey-a-threat-to-unborn-generations-cathol",
       "date": "2026-10-13",
       "category": "forest",
@@ -403,7 +586,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAJBVV95cUxOMlFmWk5TdnNRRk1pOXZlS2FoLVRLVWpLbmFZLU1iSTRxWGFHc0ozRnFtbm5iZTQ4NDVwZVBYcWxzN2lVR1lLUm85WHpRZlNSeFBpbmRKbnRaY042bWJ1c25GMTNYQ3NNTkIwcXBzc0l3ZE9JdDRWVl9LVlJYUzUxMW5MdXRzMklVYi1HbVhGUEZQV0ZkTGlRMkQ2cENnSDY3dUJyMUFjNTlEMGFXVHYxUk1WOXJMOHB0elJUdkxYZWUzRS1GVmFFSW5uOVN6eFVpT3c5QUZsMTZ2aEs1SldtendDUjJBSm9Bc21RRFRGS1NFM2t1M2xmOHE0dEgyejl2dExzcmJJaDlCLWhabzM5dm1FNkFab0NsYnl2MUpfek1lSnJY?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-13-the-gold-behind-the-reset-how-galamsey-gold-unpaid-bills-and"
     },
     {
       "id": "auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-",
@@ -445,7 +629,27 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
+      "date": "2026-10-13",
+      "category": "forest",
+      "title": "The Gold Behind Ghana's Economic Reset: Galamsey, unpaid bills and record prices",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Gold Behind Ghana's Economic Reset: Galamsey, unpaid bills and record prices GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTBZaVhGODhST05jODY1Yy1zUXdOVFl2cnFvQTN6OGVHTTNzRFFuR2NLX2h3TjE0ZWZiZjR6b0hDaFJYSlZ0dHhuRGZINm9fWDlPVVBONm5OT2VGaEpTM21aTU12TWc1ZWhHZGsxRVkwQkwzV0gxRjczN3AyMkdUdHBYX2xDYkF6U2g5QmM5S3dra1hDeldtQ05nSFZaV0g3LXNlMzBNSXpaU0tmYm5tQk5FLWFNT2xCdTQzYkU5V3FldUg4d2RSVWVhaVlXM0k?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTBZaVhGODhST05jODY1Yy1zUXdOVFl2cnFvQTN6OGVHTTNzRFFuR2NLX2h3TjE0ZWZiZjR6b0hDaFJYSlZ0dHhuRGZINm9fWDlPVVBONm5OT2VGaEpTM21aTU12TWc1ZWhHZGsxRVkwQkwzV0gxRjczN3AyMkdUdHBYX2xDYkF6U2g5QmM5S3dra1hDeldtQ05nSFZaV0g3LXNlMzBNSXpaU0tmYm5tQk5FLWFNT2xCdTQzYkU5V3FldUg4d2RSVWVhaVlXM0k?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-the-gold-behind-the-reset-how-galamsey-gold-unpaid-bills-and"
     },
     {
       "id": "auto-2026-10-12-minerals-dev-t-fund-backs-polluter-pays-approach-to-illegal-",
