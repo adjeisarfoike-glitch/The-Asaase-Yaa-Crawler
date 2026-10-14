@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-14T04:56:13.610Z",
+  "updated": "2026-10-14T11:55:40.134Z",
   "counts": {
-    "total": 1077,
+    "total": 1088,
     "verified": 28,
-    "automated": 1049,
+    "automated": 1060,
     "earliest": "2024-07-01",
     "latest": "2026-10-14"
   },
@@ -48,6 +48,223 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-14T04:49:41.987Z"
+    },
+    {
+      "id": "auto-2026-10-14-mahama-urges-chiefs-to-support-fight-against-galamsey",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Mahama urges chiefs to support fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama urges chiefs to support fight against galamsey Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkU2M2llbkhUOGR1dWQ1dldENVZ3eHdLVlE2eVFwOUJjMzVxYjVzTWJnN1luVC1fZHUxN0V6cndYMkppN001WF9aaVkxUC1SNUlPbTVDMkp1eklnN2NIUkdBVGZKai1NNTcwYzk0VFU4dl9UQ2hnbUs4SjlNR0ZrYXhXUlg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkU2M2llbkhUOGR1dWQ1dldENVZ3eHdLVlE2eVFwOUJjMzVxYjVzTWJnN1luVC1fZHUxN0V6cndYMkppN001WF9aaVkxUC1SNUlPbTVDMkp1eklnN2NIUkdBVGZKai1NNTcwYzk0VFU4dl9UQ2hnbUs4SjlNR0ZrYXhXUlg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-military-engineers-partner-to-reclaim-galamsey-damag",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "GoldBod, Military Engineers partner to reclaim galamsey-damaged Tano Nimri Forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod, Military Engineers partner to reclaim galamsey-damaged Tano Nimri Forest 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEJLTVc0VmZXUmhWTzR5S0xqWjUyMFpORDZUV1UyRDZER0FHaTFuUmRmQUpJbU4xU0dRRkpFWFo1NnplVTNINW1aVy1zTU5pQkVWNmYxMDhudWpWQVhDUTdKMlRnbWZtdU9PcDBkT2VxbUcwM1pHUThwdXlIaE5NdGZSXzZvOXhqbFRfNjM3eU9vZTdBWTV3UENOcEN4b0ZFNkJFU0NB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEJLTVc0VmZXUmhWTzR5S0xqWjUyMFpORDZUV1UyRDZER0FHaTFuUmRmQUpJbU4xU0dRRkpFWFo1NnplVTNINW1aVy1zTU5pQkVWNmYxMDhudWpWQVhDUTdKMlRnbWZtdU9PcDBkT2VxbUcwM1pHUThwdXlIaE5NdGZSXzZvOXhqbFRfNjM3eU9vZTdBWTV3UENOcEN4b0ZFNkJFU0NB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-14-mahama-appeals-to-chiefs-to-support-galamsey-fight-warns-of-",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Mahama appeals to chiefs to support galamsey fight, warns of resistance to NAIMOS operations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama appeals to chiefs to support galamsey fight, warns of resistance to NAIMOS operations 3News",
+      "metrics": {
+        "ntu": 1
+      },
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUR5NUgyUkFweVgtV2otdGVub1dfaXZzYWRuZGt0S29HWG9USnJULVZmWnJMdGhtQkJ1a2pQT0VUSmx2RVdRVFVXMFViOHFGeHVkN01CVV8tYkhWUm5BeUFFUFpiaDY5NjAxSk91Q2JHaGtXTWhMbTlMdGdfMDUwT0RSWmEwc3pEdDVvdDlJUk9vQ0JnNDV1ZS1NTUtoTnVHS243UHJsNFo3Z3VjdUJpWVFQQWI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUR5NUgyUkFweVgtV2otdGVub1dfaXZzYWRuZGt0S29HWG9USnJULVZmWnJMdGhtQkJ1a2pQT0VUSmx2RVdRVFVXMFViOHFGeHVkN01CVV8tYkhWUm5BeUFFUFpiaDY5NjAxSk91Q2JHaGtXTWhMbTlMdGdfMDUwT0RSWmEwc3pEdDVvdDlJUk9vQ0JnNDV1ZS1NTUtoTnVHS243UHJsNFo3Z3VjdUJpWVFQQWI?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-galamsey-fight-mahama-promises-alternative-jobs-for-youth-un",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Galamsey Fight: Mahama Promises Alternative Jobs for Youth Under New Economy Agenda",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Mahama Promises Alternative Jobs for Youth Under New Economy Agenda Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QUXBxRXpZUGh3TzhONmZnMktjRVJGbFBQM0FUX3REYWZ6dHR5SlZGSXJWWGtSZDM5SlhodXZfeUpGVzVNVDdMX3pDaWJQdmxER2NhOTlsM0RRbUYzYkdn0gFcQVVfeXFMTVdXbW91WER2bkJ6ZU1UWDRtSTY4T1dPOS12MEtEQ05ucTlZdW1CMm85dmRnd2hzTU85OTJxX1JTdnpIX096SDZ6bUNjSTVLZmNZUVllY1o2RVVRek0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QUXBxRXpZUGh3TzhONmZnMktjRVJGbFBQM0FUX3REYWZ6dHR5SlZGSXJWWGtSZDM5SlhodXZfeUpGVzVNVDdMX3pDaWJQdmxER2NhOTlsM0RRbUYzYkdn0gFcQVVfeXFMTVdXbW91WER2bkJ6ZU1UWDRtSTY4T1dPOS12MEtEQ05ucTlZdW1CMm85dmRnd2hzTU85OTJxX1JTdnpIX096SDZ6bUNjSTVLZmNZUVllY1o2RVVRek0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-the-oda-mce-is-taxing-galamsey-aaron-asiedu-antwi"
+    },
+    {
+      "id": "auto-2026-10-14-is-galamsey-my-ministry-s-responsibility-sam-george-blasts-c",
+      "date": "2026-10-14",
+      "category": "policy",
+      "title": "‘Is galamsey my ministry’s responsibility?’ - Sam George blasts critics",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Is galamsey my ministry’s responsibility?’ - Sam George blasts critics GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHktNFR3Tld5ci1RcERURXlOcW9RSkcweGZmcG1pVGUwQmFQTGtybEdLd3NDZW9PQWpfc1FyZTdaZjdJZ0o1aUpOb1ZkdkdKdGZiWEp2Y1A2cC0waHRuN3VvaFFGSnlMcmFHbUpIS3czQnprZlZsc1QtOTgyZ0w4WUoxZ1pSeHFPYWcxcEFfMk1taTdwcnM0ckY3Y0pIU2wxS0VWcFZGdUY5VlE5Nk5JQVhPMGtfSTY5LW81WFRCWm9LcWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHktNFR3Tld5ci1RcERURXlOcW9RSkcweGZmcG1pVGUwQmFQTGtybEdLd3NDZW9PQWpfc1FyZTdaZjdJZ0o1aUpOb1ZkdkdKdGZiWEp2Y1A2cC0waHRuN3VvaFFGSnlMcmFHbUpIS3czQnprZlZsc1QtOTgyZ0w4WUoxZ1pSeHFPYWcxcEFfMk1taTdwcnM0ckY3Y0pIU2wxS0VWcFZGdUY5VlE5Nk5JQVhPMGtfSTY5LW81WFRCWm9LcWc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-galamsey-fight-illegal-miner-makes-damning-allegation-agains",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Galamsey Fight: Illegal miner makes damning allegation against NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Illegal miner makes damning allegation against NAIMOS GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzl1OUd6aFkwdy03VG9Nd3hlVzJKcUxGdGVyM21uY1VUVWdjeloyTGNFU0lVSnpwMVBFazhjaWdCRnIzZEFuVUtpdzJFZU5jbzNBWkZtMTZfU2NqQ0ZQR0E5QTlmZEpRVXJGYWVfREh4Z0pJaXV2WHRESlNpT0NJblBiRXQ0RFdxUGpWNmtqSWlqM05EMlpkTHRxalZabTJlQTRKYjRiQ293V3lBamlfOS1SZkN6WTdBWWlCc3F3Z2NwY20wQWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzl1OUd6aFkwdy03VG9Nd3hlVzJKcUxGdGVyM21uY1VUVWdjeloyTGNFU0lVSnpwMVBFazhjaWdCRnIzZEFuVUtpdzJFZU5jbzNBWkZtMTZfU2NqQ0ZQR0E5QTlmZEpRVXJGYWVfREh4Z0pJaXV2WHRESlNpT0NJblBiRXQ0RFdxUGpWNmtqSWlqM05EMlpkTHRxalZabTJlQTRKYjRiQ293V3lBamlfOS1SZkN6WTdBWWlCc3F3Z2NwY20wQWc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-mahama-urges-chiefs-to-help-tackle-galamsey-protect-water-bo",
+      "date": "2026-10-14",
+      "category": "water",
+      "title": "Mahama urges chiefs to help tackle galamsey, protect water bodies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama urges chiefs to help tackle galamsey, protect water bodies MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1NUQXd6cnVrSmJVUmRwbmx6ZnVZQVl1S3BZNXNNekd2Y2JTUmY0VUoyQTRKLUJrQUN5amNSRk5BUlViTEFTRVlOQzBlRjNxbG50TDRkYmR0dFgwa0cySUtoNjlGSnVqUnRpOEVaSzJsb0NUTnhneWY1dTl0MUdiUWladzdjNFVSMl90OUFMWkdPR3FHVFZxaA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1NUQXd6cnVrSmJVUmRwbmx6ZnVZQVl1S3BZNXNNekd2Y2JTUmY0VUoyQTRKLUJrQUN5amNSRk5BUlViTEFTRVlOQzBlRjNxbG50TDRkYmR0dFgwa0cySUtoNjlGSnVqUnRpOEVaSzJsb0NUTnhneWY1dTl0MUdiUWladzdjNFVSMl90OUFMWkdPR3FHVFZxaA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-commits-ghc35-million-to-tano-nimri-forest-reserve-r",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "GoldBod commits GHC35 million to Tano Nimri Forest Reserve reclamation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod commits GHC35 million to Tano Nimri Forest Reserve reclamation 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHN3WmFqVnJVMkFQS2w0UXJDeGhKM0NLbVFmT1l4VC1hZ0lZR2VWRDZoYkhyYWwtMkFpX3dBamJGLTg2b1oxTUlraDctVWV0VDdyc3NwalBmWUV6LVBHUzdxQkppV1FveTZlaFhBbmotWkxoTTd4MTNoWlFHdUh2d2hZMENNZE9fRVJ6TFRCSVJld0FuR0FCcQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHN3WmFqVnJVMkFQS2w0UXJDeGhKM0NLbVFmT1l4VC1hZ0lZR2VWRDZoYkhyYWwtMkFpX3dBamJGLTg2b1oxTUlraDctVWV0VDdyc3NwalBmWUV6LVBHUzdxQkppV1FveTZlaFhBbmotWkxoTTd4MTNoWlFHdUh2d2hZMENNZE9fRVJ6TFRCSVJld0FuR0FCcQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-14-goldbod-targets-150-hectares-of-forest-reclamation-in-2027",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "GoldBod targets 150 hectares of forest reclamation in 2027",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) is targeting the reclamation of an additional 150 hectares of degraded forest land in 2027 as part of efforts to restore areas damaged by illegal mining, popularly known as galamsey.",
+      "metrics": {
+        "hectares": 150
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-targets-150-hectares-of-forest-reclamation-in-2027/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-targets-150-hectares-of-forest-reclamation-in-2027/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-no-amount-of-foreign-exchange-is-worth-a-lost-forest-goldbod",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "No amount of foreign exchange is worth a lost forest – GoldBod",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has stressed that Ghana’s efforts to earn foreign exchange from gold exports must not come at the expense of the country’s forests, as it intensifies efforts to restore lands degraded by illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/no-amount-of-foreign-exchange-is-worth-a-lost-forest-goldbod/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/no-amount-of-foreign-exchange-is-worth-a-lost-forest-goldbod/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-htu-to-roll-out-circular-economy-courses",
+      "date": "2026-10-14",
+      "category": "policy",
+      "title": "HTU to roll out circular economy courses",
+      "place": "Volta Region",
+      "region": "Volta",
+      "lat": 6.6,
+      "lon": 0.47,
+      "summary": "The Technical University (HTU) has announced plans to roll out a number of short certificate and professional development courses in circular economy-related area. “Beyond the classroom, HTU is leveraging the Ghana Circular Economy Centre Project to strengthen its work in innovation, entrepreneurship, and technology development,” said the Vice Chancellor, Professor Ben Q. Honyenuga. He said this at the opening of the",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-htu-to-roll-out-circular-economy-courses.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-htu-to-roll-out-circular-economy-courses.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
     },
     {
       "id": "auto-2026-10-13-birth-defects-galamsey-a-threat-to-unborn-generations-cathol",
