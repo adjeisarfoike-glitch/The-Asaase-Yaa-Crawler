@@ -1,13 +1,54 @@
 {
-  "updated": "2026-10-13T22:49:08.858Z",
+  "updated": "2026-10-14T04:56:13.610Z",
   "counts": {
-    "total": 1075,
+    "total": 1077,
     "verified": 28,
-    "automated": 1047,
+    "automated": 1049,
     "earliest": "2024-07-01",
-    "latest": "2026-10-13"
+    "latest": "2026-10-14"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-14-help-us-fight-galamsey-mahama-appeals-to-chiefs",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Help us fight galamsey – Mahama appeals to Chiefs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Help us fight galamsey – Mahama appeals to Chiefs CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFd4SDFINm5UOEFPRGZlSFBDemR3RVFnSFJNcGRIajFFN2NfT1F3NEIxUVhYQWtFX1pHUnNYaWpqaVYwYjE4UTJPSExYa1BQY1I4RGt3U1h1NlVBVGlock16NDduYWlTODk0RjhhUFl2a0xuZWtEbEQyanlHSkl1QU0xalZ1UE1qWkloUE1B?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFd4SDFINm5UOEFPRGZlSFBDemR3RVFnSFJNcGRIajFFN2NfT1F3NEIxUVhYQWtFX1pHUnNYaWpqaVYwYjE4UTJPSExYa1BQY1I4RGt3U1h1NlVBVGlock16NDduYWlTODk0RjhhUFl2a0xuZWtEbEQyanlHSkl1QU0xalZ1UE1qWkloUE1B?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-14T04:49:17.673Z",
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-10-14-we-need-your-support-in-fight-against-illegal-mining-mahama-",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "We need your support in fight against illegal mining - Mahama appeals to chiefs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We need your support in fight against illegal mining - Mahama appeals to chiefs Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVVVVDVPU2ZGTzJhOER5YzdLYTdiQ1Z1NWhHLWU1Q0stYmJzbElHbnl1VzlpQ0NVa1YwVWxGdmZHempyZFVCY0tkLVVjLXpHcUpxU1hPQUdpeGFhVTVhWWQ2QU1YeFc5RG1jbVJiTGVyNUljbmRieTZvSU1JbHRwX1h4LWxINEV5d3lyYjhpaGtreGpfZ0NiUWlOV3nSAZsBQVVfeXFMTW9QLUZTODJYVVZCMENtd0ViZ0M3TWNlMWNoOWNIS1doUmxQTHlreVp2WXhTQlF3WTVqZ3UtaXFCbnVsUkVaaGozeTBHM2JzRm9iV0l3cWVvQmVXV2YwbFFzZGF5ZEJSaFFwWWtKdUVudTRVSERfUUxISDRVZkpvSXJpaGp1S2pONnFiQzJNeTZ5U3d1ZVdGMmlXdEE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVVVVDVPU2ZGTzJhOER5YzdLYTdiQ1Z1NWhHLWU1Q0stYmJzbElHbnl1VzlpQ0NVa1YwVWxGdmZHempyZFVCY0tkLVVjLXpHcUpxU1hPQUdpeGFhVTVhWWQ2QU1YeFc5RG1jbVJiTGVyNUljbmRieTZvSU1JbHRwX1h4LWxINEV5d3lyYjhpaGtreGpfZ0NiUWlOV3nSAZsBQVVfeXFMTW9QLUZTODJYVVZCMENtd0ViZ0M3TWNlMWNoOWNIS1doUmxQTHlreVp2WXhTQlF3WTVqZ3UtaXFCbnVsUkVaaGozeTBHM2JzRm9iV0l3cWVvQmVXV2YwbFFzZGF5ZEJSaFFwWWtKdUVudTRVSERfUUxISDRVZkpvSXJpaGp1S2pONnFiQzJNeTZ5U3d1ZVdGMmlXdEE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-14T04:49:41.987Z"
+    },
     {
       "id": "auto-2026-10-13-birth-defects-galamsey-a-threat-to-unborn-generations-cathol",
       "date": "2026-10-13",
@@ -85,7 +126,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNko0WU9vU21pOGpEZkhRQmttbGVsX1RvQVdQWjRETF8zNjl0Z2NPNnBPdzhrTUJRckEwdFZzbjh5MzlNY01JSE43NFpma3dvaGxCbXVSQ2hRMnR4Z0oyZ2RkZnbSAVxBVV95cUxQbkthcVEyb252WUwwTGM5RDFueHJoQlhQQUJmRnNMUnhJVWtRdjc5VWN4Z1EzSkxwNFRBV3U1ZE45ajYwcW5xWExMazY1cnA0M0x0R3F3T3NZUTR1eQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-14T04:50:31.595Z"
     },
     {
       "id": "auto-2026-10-13-mahama-condemns-attacks-on-naimos-during-anti-galamsey-opera",
