@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-14T21:44:59.086Z",
+  "updated": "2026-10-15T04:40:14.439Z",
   "counts": {
-    "total": 1101,
+    "total": 1104,
     "verified": 28,
-    "automated": 1073,
+    "automated": 1076,
     "earliest": "2024-07-01",
     "latest": "2026-10-14"
   },
@@ -452,6 +452,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/tano-river-protection-forest-recovery-drive-goldbods-gh%c2%a235m-reclamation-project/2026/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-15T04:40:08.126Z",
       "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
     },
     {
@@ -508,6 +509,63 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVFNdTlrTzlWNnQyMUlpb3VtelpxVzdWTnE0UVEyNzJPQWQxMkxCaVd2OUZ2STgzNHRoUGhuZUZ3cHFSR0Fwdy1ETmVodThMOWFSaFh6UUhzcFk5YnlGSm9qckplYmZvbVFJQ3ZkZHZ6OVNTS3RXSkZJelVrWDB0S1F4T1NRNW9mcGQ1R2J3VW92VHBGNHJDdlFiZTdzcEMzTDVySFhyMTRUMTluWlZJU05ZaHZiTVNEMEE?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVFNdTlrTzlWNnQyMUlpb3VtelpxVzdWTnE0UVEyNzJPQWQxMkxCaVd2OUZ2STgzNHRoUGhuZUZ3cHFSR0Fwdy1ETmVodThMOWFSaFh6UUhzcFk5YnlGSm9qckplYmZvbVFJQ3ZkZHZ6OVNTS3RXSkZJelVrWDB0S1F4T1NRNW9mcGQ1R2J3VW92VHBGNHJDdlFiZTdzcEMzTDVySFhyMTRUMTluWlZJU05ZaHZiTVNEMEE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-galamsey-we-risk-wiping-off-our-generation-otumfuo-warns",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Galamsey: ‘we risk wiping off our generation’ — Otumfuo warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘we risk wiping off our generation’ — Otumfuo warns Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzNOb0o4bWxMUEdySnFjbmdnX3RkT2lNa3AtdlZKcVBocTBzQ2xJRDRLV0FadmZaNFFDWVQ3V0w4VUk2R08tQlAxSTc0WDRLcFNUMG9JZGJnMGNPOFppOGJfMXhWNXR1VEFrN1QxVXBBVWVIckw4X2M2X1huMmxDV1IyVXIxcTVJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzNOb0o4bWxMUEdySnFjbmdnX3RkT2lNa3AtdlZKcVBocTBzQ2xJRDRLV0FadmZaNFFDWVQ3V0w4VUk2R08tQlAxSTc0WDRLcFNUMG9JZGJnMGNPOFppOGJfMXhWNXR1VEFrN1QxVXBBVWVIckw4X2M2X1huMmxDV1IyVXIxcTVJ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-asantehene-lands-minister-move-to-restore-galamsey-lands",
+      "date": "2026-10-14",
+      "category": "reclamation",
+      "title": "Asantehene, lands minister move to restore galamsey lands",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Asantehene, lands minister move to restore galamsey lands GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSE1NN2R2ZDV0UnhVYmlObEVyakxXZkFRZ1BHQUt3VmpuMUxqYTRZZVZlb1NiTWNoZWstRC1JVVZxMFRIa3NvaUl1WnktbzRVbTBtd0JPYlYxY0hCUlI2Vm5nZGVYLTZGRUxuQTlOZnpEQmp0amdUM2VlUEkxRXlPNzUtcHQwRTVnb1c0VEJ1YVZVZmktOVQ2bXdRTnZRN1FTaXgtcGhlMGlpYV82WVlmQnd3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNSE1NN2R2ZDV0UnhVYmlObEVyakxXZkFRZ1BHQUt3VmpuMUxqYTRZZVZlb1NiTWNoZWstRC1JVVZxMFRIa3NvaUl1WnktbzRVbTBtd0JPYlYxY0hCUlI2Vm5nZGVYLTZGRUxuQTlOZnpEQmp0amdUM2VlUEkxRXlPNzUtcHQwRTVnb1c0VEJ1YVZVZmktOVQ2bXdRTnZRN1FTaXgtcGhlMGlpYV82WVlmQnd3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-14-ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mi",
+      "date": "2026-10-14",
+      "category": "forest",
+      "title": "Ayanfuri-Diaso Highway on brink of closure due to illegal mining",
+      "place": "Ayanfuri",
+      "region": "Central",
+      "lat": 5.87,
+      "lon": -1.85,
+      "summary": "The General Manager of Perseus Mining Ghana’s Edikan Mine, Alexander Kofi Oduro, has warned that illegal mining activities along the Ayanfuri-Diaso highway could eventually cut off the route, disrupting transportation and affecting communities that depend on it.",
+      "metrics": {},
+      "source": {
+        "name": "Perseus Mining General Manager warns",
+        "url": "https://3news.com/news/ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mining-perseus-mining-general-manager-warns"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mining-perseus-mining-general-manager-warns",
       "via": "rss",
       "verified": false
     },
