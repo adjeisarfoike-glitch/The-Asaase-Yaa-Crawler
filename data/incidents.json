@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-15T17:03:36.748Z",
+  "updated": "2026-10-15T21:27:02.728Z",
   "counts": {
-    "total": 1126,
+    "total": 1127,
     "verified": 28,
-    "automated": 1098,
+    "automated": 1099,
     "earliest": "2024-07-01",
     "latest": "2026-10-15"
   },
@@ -85,7 +85,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0p0RDlmNUwweDdOeWpoYzZGb18ydEF4dm5HTE9ta2N0NlpXa2xvVkpzNXl3c0xMa2ZHLXkzTXVIakFYbkxCR0ZWVkNPYlh1LU5oZnFvbC0wdk1idm5ZTEo2LVV4eW41UXZxWi04MDJQMU5fNVpEbFBEMmNJR0Vrdm1HajBvNnlINi02ZlI4RC1HTm1RelNVaWY3SnBHOEJIbzdRVU4zbGJ2Q3dJVG45OC04TXFMY3RyS1E?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-15T21:20:20.855Z"
     },
     {
       "id": "auto-2026-10-15-high-court-sets-november-4-for-ruling-on-wontumi-s-bail-appl",
@@ -346,6 +347,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/court-to-rule-on-wontumis-bail-application-november-4.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-15T21:25:14.203Z",
       "thread": "t-arr-2025-04-18-samreboi"
     },
     {
@@ -448,6 +450,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-10-15-rivers-now-run-like-chocolate-milk-sir-sam-jonah-sounds-alar",
+      "date": "2026-10-15",
+      "category": "water",
+      "title": "‘Rivers now run like chocolate milk’ - Sir Sam Jonah sounds alarm on ‘galamsey’",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Rivers now run like chocolate milk’ - Sir Sam Jonah sounds alarm on ‘galamsey’ GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTV6b3hzdDZRdndMY2M4ZVdxeHZfSUZvck5VQlI5MWhwa2lja1Fjek1hWjJpQzR6Q0FUT09aZDhYOW9EMnJUTG5NaFRmYU1Lc0RETllqQ2hJVVRuRHpXem9iYjkyUnFZQ09vd3ZnNU9HZDc4STN6eU83SGpzN01OdmExR3ZpOUJOLWtUdXhLUnZhMG1OOXNxdnQ4TG55NVpDR2ZiZzJabmYxRFA4RE4tOE94akZMYnEzX2doNU5uUHlNZmJTZGtwLUFXUG0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTV6b3hzdDZRdndMY2M4ZVdxeHZfSUZvck5VQlI5MWhwa2lja1Fjek1hWjJpQzR6Q0FUT09aZDhYOW9EMnJUTG5NaFRmYU1Lc0RETllqQ2hJVVRuRHpXem9iYjkyUnFZQ09vd3ZnNU9HZDc4STN6eU83SGpzN01OdmExR3ZpOUJOLWtUdXhLUnZhMG1OOXNxdnQ4TG55NVpDR2ZiZzJabmYxRFA4RE4tOE94akZMYnEzX2doNU5uUHlNZmJTZGtwLUFXUG0?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-14-help-us-fight-galamsey-mahama-appeals-to-chiefs",
