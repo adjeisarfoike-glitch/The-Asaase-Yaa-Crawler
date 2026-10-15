@@ -1,13 +1,213 @@
 {
-  "updated": "2026-10-15T04:40:14.439Z",
+  "updated": "2026-10-15T11:31:17.528Z",
   "counts": {
-    "total": 1104,
+    "total": 1114,
     "verified": 28,
-    "automated": 1076,
+    "automated": 1086,
     "earliest": "2024-07-01",
-    "latest": "2026-10-14"
+    "latest": "2026-10-15"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-15-otumfuo-to-take-action-as-he-inspects-a-huge-dam-polluted-by",
+      "date": "2026-10-15",
+      "category": "water",
+      "title": "Otumfuo to take action as he inspects a huge dam polluted by galamsey in Obuasi",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Otumfuo to take action as he inspects a huge dam polluted by galamsey in Obuasi Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnNJazFxR2Zhd0dQZGstb2ZNZ2ItLTlXRHU1RUdwNm5ZdjgzREsxSGluUnR1Y285VGxDRkNaTkdIaGtfUkhoQTMyNTZKS3NmOHdkYXJBalRCZTRUYnJRb3FnNzE4cXlHcEE0NWY0N1VvSjRSOHhPVnc4N0RuOGJaSURYUkJvSHpKVVV0OS1sLVlBRVRyTXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNZnNJazFxR2Zhd0dQZGstb2ZNZ2ItLTlXRHU1RUdwNm5ZdjgzREsxSGluUnR1Y285VGxDRkNaTkdIaGtfUkhoQTMyNTZKS3NmOHdkYXJBalRCZTRUYnJRb3FnNzE4cXlHcEE0NWY0N1VvSjRSOHhPVnc4N0RuOGJaSURYUkJvSHpKVVV0OS1sLVlBRVRyTXc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-15T11:24:28.259Z"
+    },
+    {
+      "id": "auto-2026-10-15-pride-as-otumfuo-s-son-briefs-him-on-plan-to-reclaim-land-de",
+      "date": "2026-10-15",
+      "category": "reclamation",
+      "title": "Pride as Otumfuo’s son briefs him on plan to reclaim land destroyed by galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Pride as Otumfuo’s son briefs him on plan to reclaim land destroyed by galamsey Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVR1SWdIQjBxMUVfT3RRUmJTT2RfOWIyTi1oODRFc2dlLTkwRkJTaDNXLTFudkp6Y2hxWlgwcnl4VkhOdDF5LUJIOEtPYjhqUElSWFNiTFNEMjhPNEU4SHh5UENydHZhZUNFcjBjZVR5c2VSemZIcFl0azdkZnN5YWg0RzJsbUhrc1l6dElIUGE2a2RTUGxsV1pQNEpCaU5MaXZqUmxybnJJaVlURW1wSzJWT29iMkVTd1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxNdVR1SWdIQjBxMUVfT3RRUmJTT2RfOWIyTi1oODRFc2dlLTkwRkJTaDNXLTFudkp6Y2hxWlgwcnl4VkhOdDF5LUJIOEtPYjhqUElSWFNiTFNEMjhPNEU4SHh5UENydHZhZUNFcjBjZVR5c2VSemZIcFl0azdkZnN5YWg0RzJsbUhrc1l6dElIUGE2a2RTUGxsV1pQNEpCaU5MaXZqUmxybnJJaVlURW1wSzJWT29iMkVTd1E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-15T11:25:00.017Z"
+    },
+    {
+      "id": "auto-2026-10-15-galamsey-is-an-economic-health-and-moral-problem-sam-jonah",
+      "date": "2026-10-15",
+      "category": "forest",
+      "title": "Galamsey is an economic, health and moral problem – Sam Jonah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is an economic, health and moral problem – Sam Jonah MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0lIdU9USlYxZ0VFTjliYVROOUZOLVdKeUEzQWhzbnU2M2FIa18tblExcUxwZ0x6TC1wOHZkcnkwaktROGZ1S2wxbkJMcTRWWTB3VUFKVDY4S2Z1VUlJWFJITzZPZEtMNzlFdDhUQmF6V0swdGtIZGs2ZTcwRWdleEdxQmdQZDlJM1BpdHpNSUs?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0lIdU9USlYxZ0VFTjliYVROOUZOLVdKeUEzQWhzbnU2M2FIa18tblExcUxwZ0x6TC1wOHZkcnkwaktROGZ1S2wxbkJMcTRWWTB3VUFKVDY4S2Z1VUlJWFJITzZPZEtMNzlFdDhUQmF6V0swdGtIZGs2ZTcwRWdleEdxQmdQZDlJM1BpdHpNSUs?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-15T11:25:30.926Z"
+    },
+    {
+      "id": "auto-2026-10-15-ghana-launches-153-hectare-jimi-river-reclamation-project-to",
+      "date": "2026-10-15",
+      "category": "reclamation",
+      "title": "Ghana launches 153-hectare Jimi River reclamation project to reverse galamsey damage",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana launches 153-hectare Jimi River reclamation project to reverse galamsey damage https://streamlinefeed.co.ke/",
+      "metrics": {},
+      "source": {
+        "name": "https://streamlinefeed.co.ke/",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0p0RDlmNUwweDdOeWpoYzZGb18ydEF4dm5HTE9ta2N0NlpXa2xvVkpzNXl3c0xMa2ZHLXkzTXVIakFYbkxCR0ZWVkNPYlh1LU5oZnFvbC0wdk1idm5ZTEo2LVV4eW41UXZxWi04MDJQMU5fNVpEbFBEMmNJR0Vrdm1HajBvNnlINi02ZlI4RC1HTm1RelNVaWY3SnBHOEJIbzdRVU4zbGJ2Q3dJVG45OC04TXFMY3RyS1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0p0RDlmNUwweDdOeWpoYzZGb18ydEF4dm5HTE9ta2N0NlpXa2xvVkpzNXl3c0xMa2ZHLXkzTXVIakFYbkxCR0ZWVkNPYlh1LU5oZnFvbC0wdk1idm5ZTEo2LVV4eW41UXZxWi04MDJQMU5fNVpEbFBEMmNJR0Vrdm1HajBvNnlINi02ZlI4RC1HTm1RelNVaWY3SnBHOEJIbzdRVU4zbGJ2Q3dJVG45OC04TXFMY3RyS1E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-15-high-court-sets-november-4-for-ruling-on-wontumi-s-bail-appl",
+      "date": "2026-10-15",
+      "category": "prosecution",
+      "title": "High Court sets November 4 for ruling on Wontumi’s bail application",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Accra High Court has set November 4, 2026, to deliver its ruling on a bail application filed by former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi. The application seeks his release from custody pending an appeal against his conviction and 20-year prison sentence for illegal mining-related […]",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/high-court-sets-november-4-for-ruling-on-wontumis-bail-application/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/high-court-sets-november-4-for-ruling-on-wontumis-bail-application/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-15-government-launches-rcomsdep-to-promote-responsible-mining-i",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Government launches rCOMSDEP to promote responsible mining in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme (rCOMSDEP) in Ahanta West and Mpohor Fiase in the Western Region as part of efforts to formalise small-scale mining and strengthen environmental protection.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/government-launches-rcomsdep-to-promote-responsible-mining-in-western-region/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/government-launches-rcomsdep-to-promote-responsible-mining-in-western-region/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-15-interfaith-women-urged-to-champion-climate-action",
+      "date": "2026-10-15",
+      "category": "water",
+      "title": "Interfaith women urged to champion climate action",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Women from Christian, Muslim and traditional religious communities have been urged to take an active role in addressing climate change and protecting the environment. The Director of the Presbyterian Women’s Centre, Patricia Addy, who addressed the gathering, said climate change was no longer an abstract issue in Ghana, as its effects were already being experienced through changing weather patterns, drought, flooding",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-interfaith-women-urged-to-champion-climate-action.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-interfaith-women-urged-to-champion-climate-action.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
+    {
+      "id": "auto-2026-10-15-ghana-s-favourable-economic-outlook-excellent-trade-opportun",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Ghana’s favourable economic outlook excellent trade opportunity",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Spanish Ambassador to Ghana, Angel Lossada Torres-Quevedo, has said Ghana's favourable economic outlook offers an excellent opportunity to boost trade with Spain and share prosperity. He said this followed the conclusion of the IMF programme and a new investment law passed in July 2026 alongside the EU-Ghana agreement. Speaking in Accra at a reception to mark Spain's national day, Mr Torres-Quevedo told governmen",
+      "metrics": {},
+      "source": {
+        "name": "Spanish Ambassador",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-favourable-economic-outlook-excellent-trade-opportunity-spanish-ambassador.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghanas-favourable-economic-outlook-excellent-trade-opportunity-spanish-ambassador.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-15-talensi-police-nab-16-seize-guns-ammunition-at-gbane-mining-",
+      "date": "2026-10-15",
+      "category": "arrest",
+      "title": "Talensi: Police nab 16, seize guns, ammunition at Gbane mining site",
+      "place": "Gbane",
+      "region": "Upper East",
+      "lat": 10.75,
+      "lon": -0.63,
+      "summary": "The Upper East Regional Police Command has arrested 16 suspects and recovered ammunition, action guns and suspected narcotic substances and other items during a security operation at the Gbane mining site in the Talensi District in the Upper East Region. The operation, conducted last Tuesday, involved personnel from the National Police Intelligence Directorate, the Upper East Regional Police Intelligence Directorate,",
+      "metrics": {
+        "arrests": 10
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-talensi-police-nab-16-seize-guns-ammunition-at-gbane-mining-site.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-talensi-police-nab-16-seize-guns-ammunition-at-gbane-mining-site.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-upper-east"
+    },
+    {
+      "id": "auto-2026-10-15-court-to-hear-wontumi-s-bail-application-today",
+      "date": "2026-10-15",
+      "category": "prosecution",
+      "title": "Court to hear Wontumi’s bail application today",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Accra High Court is scheduled to hear a bail application filed by former New Patriotic Party (NPP) Ashanti Regional Chairman, Bernard Antwi Boasiako, popularly known as Chairman Wontumi, on today, October 15, 2026. The application seeks his release from custody while he appeals his conviction and 20-year prison sentence for illegal mining-related offences involving […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/court-to-hear-wontumis-bail-application-today/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/court-to-hear-wontumis-bail-application-today/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
     {
       "id": "auto-2026-10-14-help-us-fight-galamsey-mahama-appeals-to-chiefs",
       "date": "2026-10-14",
@@ -149,7 +349,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHktNFR3Tld5ci1RcERURXlOcW9RSkcweGZmcG1pVGUwQmFQTGtybEdLd3NDZW9PQWpfc1FyZTdaZjdJZ0o1aUpOb1ZkdkdKdGZiWEp2Y1A2cC0waHRuN3VvaFFGSnlMcmFHbUpIS3czQnprZlZsc1QtOTgyZ0w4WUoxZ1pSeHFPYWcxcEFfMk1taTdwcnM0ckY3Y0pIU2wxS0VWcFZGdUY5VlE5Nk5JQVhPMGtfSTY5LW81WFRCWm9LcWc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-15T11:29:57.301Z"
     },
     {
       "id": "auto-2026-10-14-galamsey-fight-illegal-miner-makes-damning-allegation-agains",
@@ -749,7 +950,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
@@ -21104,8 +21305,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont"
+      "verified": false
     },
     {
       "id": "auto-2026-07-28-galamsey",
@@ -21201,8 +21401,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzhiUXZsYUg3NEtiYnVHVHk5NU1MOXZ1MlJ1WjE3RWVIVEdlT041YXVQNTQ5dW9yRl8tSGMtQW1fQ2sxWWlLS2t6VTF4eTZDeEpKU2xiN0RtMDFIUDFkV3U5c0ttd0YxcG5hS2tJajNWVHByX2dkR1oxUG1lR2NTMG5UMU5naHRXQUdIdjc0YlFhc3p5MGlNTUNUNjVkdmJQUFJGVU5acG5PS2ctX292TjlaQXRwa0NoQXU5M1Z2OA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-22-from-buying-chelsea-fc-to-galamsey-the-sins-of-chairman-wont"
+      "verified": false
     },
     {
       "id": "pro-2026-07-21-wontumi-samreboi",
