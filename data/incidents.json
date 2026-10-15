@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-15T11:31:17.528Z",
+  "updated": "2026-10-15T17:03:36.748Z",
   "counts": {
-    "total": 1114,
+    "total": 1126,
     "verified": 28,
-    "automated": 1086,
+    "automated": 1098,
     "earliest": "2024-07-01",
     "latest": "2026-10-15"
   },
@@ -125,6 +125,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/government-launches-rcomsdep-to-promote-responsible-mining-in-western-region/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-15T16:59:07.908Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -207,6 +208,246 @@
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-15-goldbod-commits-gh-35m-to-reclaim-galamsey-damaged-forest-re",
+      "date": "2026-10-15",
+      "category": "reclamation",
+      "title": "GoldBod commits GH¢35m to reclaim galamsey-damaged forest reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod commits GH¢35m to reclaim galamsey-damaged forest reserve Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGhHTjNJZllSUlNnU2M1RXZKdGNFajhQb3otc0dTQldTZmhwaXZkQ3lpOWR2VExjMWJLd0c5ZWF1cUt6aG9oZEFsdkJzeUlSQ3dqR2RJTUVmT1N1RVhvS05STnR1Y21lUUNJNEVHVHk1OFB5UUJYYnNsUXVlVkYzR3pqY0YwU0NIMEpxZE9iWndqcjQ2WEtZaXRUb3FuVk0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGhHTjNJZllSUlNnU2M1RXZKdGNFajhQb3otc0dTQldTZmhwaXZkQ3lpOWR2VExjMWJLd0c5ZWF1cUt6aG9oZEFsdkJzeUlSQ3dqR2RJTUVmT1N1RVhvS05STnR1Y21lUUNJNEVHVHk1OFB5UUJYYnNsUXVlVkYzR3pqY0YwU0NIMEpxZE9iWndqcjQ2WEtZaXRUb3FuVk0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-15-jimi-river-restoration-asantehene-plants-trees-to-reclaim-la",
+      "date": "2026-10-15",
+      "category": "reclamation",
+      "title": "Jimi River Restoration: Asantehene plants trees to reclaim land degraded by galamsey near Obuasi",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Jimi River Restoration: Asantehene plants trees to reclaim land degraded by galamsey near Obuasi Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MTU54MkpYNkZiakhHMXZlOUU4TFNMT2g0TWZQcWIzbWRkM29FYkVXcHF4M202YVFONE1MeFk5UnIwUlpZWGwtV1ByMnlEck83Nmp3bGkzdkVDWXJFOTd2cXBwYnbSAVxBVV95cUxOV0xzQUU4NFFwTHBBRG1jeXJYUFRRUHVxeTJaOUxLWkdlMEhxaWlDeGhGbWlBeDZmYnFyOF9yV1l3Ty1QdVdYRllTcXIwREtuYXJYTFQzU3NpUW5ocQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MTU54MkpYNkZiakhHMXZlOUU4TFNMT2g0TWZQcWIzbWRkM29FYkVXcHF4M202YVFONE1MeFk5UnIwUlpZWGwtV1ByMnlEck83Nmp3bGkzdkVDWXJFOTd2cXBwYnbSAVxBVV95cUxOV0xzQUU4NFFwTHBBRG1jeXJYUFRRUHVxeTJaOUxLWkdlMEhxaWlDeGhGbWlBeDZmYnFyOF9yV1l3Ty1QdVdYRllTcXIwREtuYXJYTFQzU3NpUW5ocQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
+    },
+    {
+      "id": "auto-2026-10-15-tvet-must-help-ghana-fight-galamsey-flooding-nana-oye-bampoe",
+      "date": "2026-10-15",
+      "category": "forest",
+      "title": "'TVET must help Ghana fight galamsey, flooding' - Nana Oye Bampoe Addo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'TVET must help Ghana fight galamsey, flooding' - Nana Oye Bampoe Addo GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0JSZ3ctV245LWZsWWcxRnVKUG84X3FTdW1RZW96dHlGU3RwNDRfOUI5cmx1ZEFXNENJTDlRVVhseHAxWjVTSzVNY3U3U0V6c1BiR1FNNEE0UlY4YU1jQV90ZnBmX3F1UXprZGV4bWZuWWNhNEJvQnpERnl3Yk5OOWNoYnBDck1lUkh0SEl4SFFOYUtUR01UM3M5WGZnejJoQWVmREUwdGczRzdOa3lxZXdxNzR4aFdoc1UxUjRMbGhxUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0JSZ3ctV245LWZsWWcxRnVKUG84X3FTdW1RZW96dHlGU3RwNDRfOUI5cmx1ZEFXNENJTDlRVVhseHAxWjVTSzVNY3U3U0V6c1BiR1FNNEE0UlY4YU1jQV90ZnBmX3F1UXprZGV4bWZuWWNhNEJvQnpERnl3Yk5OOWNoYnBDck1lUkh0SEl4SFFOYUtUR01UM3M5WGZnejJoQWVmREUwdGczRzdOa3lxZXdxNzR4aFdoc1UxUjRMbGhxUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
+    },
+    {
+      "id": "auto-2026-10-15-stop-begging-chiefs-and-fix-galamsey-menace-dr-solomon-owusu",
+      "date": "2026-10-15",
+      "category": "forest",
+      "title": "Stop Begging Chiefs and Fix Galamsey Menace- Dr. Solomon Owusu Tells Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Stop Begging Chiefs and Fix Galamsey Menace- Dr. Solomon Owusu Tells Mahama GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWZpQ21RakpKYlRPOTU5S1Jxa25xQVNlZFV0MGloOC1peXZ0QVRzZThrc0FKVGVRRnV1cldJVXRSWHM1Z3A4U21WdlpmYzV4VDE2UlhSUHlhZWZvS2lvbHF6RFFDS2Ywb0FsLTcyMjhlbHVfSFFYM1E3S1F2bzJxTFlkeUlmdWVsVVBOLWRSTTA5RE14dm5SQjhTUFltb2phaUNQLWVGN1hCQ2RQc1IwN2RvbndmZVZrRm85VDFicw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWZpQ21RakpKYlRPOTU5S1Jxa25xQVNlZFV0MGloOC1peXZ0QVRzZThrc0FKVGVRRnV1cldJVXRSWHM1Z3A4U21WdlpmYzV4VDE2UlhSUHlhZWZvS2lvbHF6RFFDS2Ywb0FsLTcyMjhlbHVfSFFYM1E3S1F2bzJxTFlkeUlmdWVsVVBOLWRSTTA5RE14dm5SQjhTUFltb2phaUNQLWVGN1hCQ2RQc1IwN2RvbndmZVZrRm85VDFicw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-10-15-leave-the-chiefs-and-fix-the-galamsey-problem-dr-solomon-owu",
+      "date": "2026-10-15",
+      "category": "forest",
+      "title": "Leave the Chiefs and fix the Galamsey Problem: Dr Solomon Owusu Advises President Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Leave the Chiefs and fix the Galamsey Problem: Dr Solomon Owusu Advises President Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlo1Ql9ETnJXbkgzM1R3VUpRbHV0UzhEX1FMY0ljb1J6WDNUN0VRTjh6NnU3VkpYcXFlZ3pBMnFxaUM5SkFqeFFJOGlqdjBKQ3VUcTZmNnRtMlRDZmxrcnpuNjZWSGp6WTFSMFdSZ0R1R0Z5V3NqdGdrYWhRdzBlbUE2a3RlbkpKWk1Sd211c21ndGM5SkZ1dmhvbDJDVzI2SzhnY3ZVanlfbHpyYkU5SFVFbVdIV0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlo1Ql9ETnJXbkgzM1R3VUpRbHV0UzhEX1FMY0ljb1J6WDNUN0VRTjh6NnU3VkpYcXFlZ3pBMnFxaUM5SkFqeFFJOGlqdjBKQ3VUcTZmNnRtMlRDZmxrcnpuNjZWSGp6WTFSMFdSZ0R1R0Z5V3NqdGdrYWhRdzBlbUE2a3RlbkpKWk1Sd211c21ndGM5SkZ1dmhvbDJDVzI2SzhnY3ZVanlfbHpyYkU5SFVFbVdIV0E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-10-15-gov-t-launches-rcomsdep-in-ahanta-west-mpohor-fiase-to-promo",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Gov’t launches rCOMSDEP in Ahanta West, Mpohor Fiase to promote responsible community mining",
+      "place": "Ahanta West",
+      "region": "Western",
+      "lat": 4.75,
+      "lon": -2.08,
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme (rCOMSDEP) in the Ahanta West and Mpohor Fiase areas of the Western Region, as part of efforts to formalise small-scale mining, protect the environment and ensure that mining communities benefit directly from the country’s mineral resources. Addressing stakeholders at the launch, the Deputy […]",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/govt-launches-rcomsdep-in-ahanta-west-mpohor-fiase-to-promote-responsible-community-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/govt-launches-rcomsdep-in-ahanta-west-mpohor-fiase-to-promote-responsible-community-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-15-court-to-rule-on-wontumi-s-bail-application-pending-appeal-o",
+      "date": "2026-10-15",
+      "category": "prosecution",
+      "title": "Court to rule on Wontumi’s bail application pending appeal of 20-year jail sentence on November 4",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The High Court in Accra will on November 4, 2026, rule on an application by the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, alias Chairman Wontumi, for bail pending appeal against his 20-year jail term in the Samreboi illegal mining case. Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/court-to-rule-on-wontumis-bail-application-november-4.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/court-to-rule-on-wontumis-bail-application-november-4.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-15-gov-t-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Gov't launches rCOMSDEP in Ahanta West and Mpohor Fiase",
+      "place": "Ahanta West",
+      "region": "Western",
+      "lat": 4.75,
+      "lon": -2.08,
+      "summary": "Government has launched the Responsible Cooperative Mining and Skills Development Programme (rCOMSDEP) in the Ahanta West and Mpohor Fiase areas of the Western Region, as part of efforts to formalise small-scale mining.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/govt-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/govt-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-15T17:03:30.362Z",
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-15-government-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Government launches rCOMSDEP in Ahanta West and Mpohor Fiase to promote responsible small-scale mining",
+      "place": "Ahanta West",
+      "region": "Western",
+      "lat": 4.75,
+      "lon": -2.08,
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme (rCOMSDEP) in the Ahanta West and Mpohor Fiase areas of the Western Region, as part of efforts to formalise small-scale mining, protect the environment and ensure that mining communities benefit directly from the country’s mineral resources. Addressing stakeholders at the launch, the Deputy […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/government-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase-to-promote-responsible-small-scale-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/government-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase-to-promote-responsible-small-scale-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-15-small-scale-miners-to-set-aside-part-of-earnings-for-land-re",
+      "date": "2026-10-15",
+      "category": "reclamation",
+      "title": "Small-scale miners to set aside part of earnings for land reclamation",
+      "place": "Ahanta West",
+      "region": "Western",
+      "lat": 4.75,
+      "lon": -2.08,
+      "summary": "The Ministry of Lands and Natural Resources has directed small-scale mining operators to set aside a portion of their earnings to restore degraded lands once mining operations end. The Deputy Minister for Lands and Natural Resources, Dr. Yusif Sulemana, revealed this during the launch of the Ahanta West and Mpohor-Fiase Responsible Cooperative Mines at Awunakrom […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/small-scale-miners-to-set-aside-part-of-earnings-for-land-reclamation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/small-scale-miners-to-set-aside-part-of-earnings-for-land-reclamation/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-15-destroying-jimi-river-for-gold-could-cost-us-our-lives-asant",
+      "date": "2026-10-15",
+      "category": "water",
+      "title": "Destroying Jimi River for gold could cost us our lives – Asantehene",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Asantehene Otumfuo Osei Tutu II has warned that illegal mining driven by unemployment could cost communities their lives if rivers like the Jimi are destroyed. Speaking after inspecting the heavily degraded Jimi River and the Jimi Dam near Obuasi, the Asantehene said he understands why many young people turn to galamsey, but cautioned that irresponsible […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/destroying-jimi-river-for-gold-could-cost-us-our-lives-asantehene/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/destroying-jimi-river-for-gold-could-cost-us-our-lives-asantehene/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
+    },
+    {
+      "id": "auto-2026-10-15-open-letter-to-president-mahama-leave-the-chiefs-and-fix-gal",
+      "date": "2026-10-15",
+      "category": "policy",
+      "title": "Open letter to President Mahama: Leave the chiefs and fix galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Your Excellency, I write to respectfully inform you that I completely disagree with you on your appeal to the Chiefs in the mining areas concerning their support to the government’s fight against illegal mining, popularly known as galamsey. I can confidently tell you that these Chiefs will never take any action because they are already […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/open-letter-to-president-mahama-leave-the-chiefs-and-fix-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/open-letter-to-president-mahama-leave-the-chiefs-and-fix-galamsey/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-10-14-help-us-fight-galamsey-mahama-appeals-to-chiefs",
@@ -711,7 +952,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVFNdTlrTzlWNnQyMUlpb3VtelpxVzdWTnE0UVEyNzJPQWQxMkxCaVd2OUZ2STgzNHRoUGhuZUZ3cHFSR0Fwdy1ETmVodThMOWFSaFh6UUhzcFk5YnlGSm9qckplYmZvbVFJQ3ZkZHZ6OVNTS3RXSkZJelVrWDB0S1F4T1NRNW9mcGQ1R2J3VW92VHBGNHJDdlFiZTdzcEMzTDVySFhyMTRUMTluWlZJU05ZaHZiTVNEMEE?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
     },
     {
       "id": "auto-2026-10-14-galamsey-we-risk-wiping-off-our-generation-otumfuo-warns",
@@ -2813,7 +3055,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-10-01-mahama-cites-nine-cleared-forests-as-galamsey-emergency-call",
@@ -3602,7 +3844,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWHNBZFQtRHVCREItSjcxODhKSlh4WExJZ01vV1hnbGlocXpkR2JNcko1RlB4NUtCa0RQU3lxTEY4Zkd5Y0lnd1QyMkJxTmE1VHlKZFRRVUwxMlN20gFcQVVfeXFMUEhYc0FkVC1EdUJEQi1KNzE4OEpKWHhYTElnTW9XWGdsaWhxemRHYk1ySjVGUHg1S0JrRFBTeXFMRjhmR3ljSWd3VDIyQnFOYTVUeUpkVFFVTDEyU3Y?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-09-28-let-s-de-escalate-the-politics-naimos-on-tackling-galamsey",
@@ -4396,7 +4638,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:04.629Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-09-25-13-illegal-miners-arrested-at-osino-during-naimos-operation-",
@@ -4419,7 +4661,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:29.038Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-12-illegal-miners-at-osino",
@@ -4601,7 +4843,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:01:43.315Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-13-suspected-illegal-miners-during-an-operati",
@@ -4624,7 +4866,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:02:07.987Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-09-25-illegal-mining-naimos-destroys-eqipment-belonging-to-illegal",
@@ -9495,7 +9737,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4eFcwU2lpdGduY0VPQ0RoQ21oMUlqX1pocnVSUy1jcDFMQ1oxQXRRdmk0Vjc2NFRLcXh0UnBlNWFleHlRVml3d0dYck9iUktkYnljU1N3eWtDVkVlZkNfX285UdIBXEFVX3lxTE1yeG92cXFHekVZWUVQU2ZoQWhsZmlCZEtsZjNjXzNMLWlacnIzSUJYb1A1SC1OWUpRSTNidmh4NkxqX1lwUHVFT0lRN0hUZTZYS1pHN25iOVdMT3hO?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-09-03-year-long-naimos-patrols-clear-ankobra-river-of-galamsey-ope",
@@ -11228,7 +11470,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSjF1Ti1oTlk5VGMyamw2dkJKSWhlUHFJbUxydFZYazA2b3RxMVoyYTdwczlGMlRtWkRmQnJXSEw4Z3RBbmVSM1hMNXV1d0t1TUZkOE9XaTliMUdvZ0hRX25zc0TSAVxBVV95cUxPU0s4Tm0wM2VfYnhfazlzWnVtcDBFQTdPTzAzUmp5ZVBPSXFYQVR1T2xONmMtMllJQmk5Q3RHOHVENTJ5MGZ0eWFPTEdva2hKVHhYbWVVUHZxS2syMg?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-08-28-is-this-a-disaster-waiting-to-happen-galamsey-exposed",
@@ -16072,7 +16314,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-officials-quell-clash-of-illegal-miners-in-atiwa-forest-destroys-makeshift-structures-and-pumping-machines",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-08-17-naimos-intervenes-in-violent-clash-disrupts-illegal-mining-i",
@@ -19244,7 +19486,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UYmJ4d0FzRTFTdG5xRUYtUWVjZGpKb2RZbU9jX3AtV3ZfWnVWTWJkeHNtWnJwVldzN1ljYmlLQUJRQm5acmNvYWlqeHJxemtYQ3BVcjNGejNLQ1dPM2diRm15QW_SAVxBVV95cUxQV0p6OHVpSWo3d2hVeFRxamR1UlZsU2pxYlptZ09GcC05LXpRRGk2WnZwY1pfaWVUYUc4V1NTNjZLUjEzdDN6eWR0T29zdEljQ0pnSi1vcWpmM083cQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-07-fight-galamsey-to-honour-their-memory-families-of-helicopter",
@@ -20720,8 +20962,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQdl8tMlRHcGNZOHVhWW43YkJpSkVvTTFsb1VUWVJpQ3E5LXBfX2MtME96bV9KRFV2ZnNGZnA4TmFyc21oLVVmYTdDeThhWGxUcjNLNGg3V3g2UFFFT21yVWF4MEQ0WTlDYVZraUk1RDJuUEpsOWhiLTBsbTNFWnBDOXZOemlOOTFUeXNMSmtVaVRFSDFMcU5FZ9IBlwFBVV95cUxQOHluSlpqdXcxbkRqdFBEVkZHM0xwbEJRemtMamwxZVRTS0x5clE1Vk9WZFZhbzFkSGI3bFBuaDlCSXpmNXdQQ0FfZFJDNU1lNXNyeVhiRFJMZmItdDc0eE9MY2ZnSjBrRlZrNVJxenR2a09QWU9HZ1V4elBaNGoweWpfOFNQWTNMZUMyNTRTY2FYRk9MVVBZ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-for-people-to-be-boldly-doing-galamsey-means-authority-backs",
@@ -20801,7 +21042,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxNS3Jqa21YLWFzTWxJc3MyRjA3a1VaZjZodXlTN0FvdnRuQXcxYk1lSXBscnQ4U2dYNDNqYjNMUk5FeFRGNmpXdXRqSGNkTkVGYktVb2F5TE05NkdxVV9ESjN3TGktQlRkcU9xYmN1d0pvVXkzWlFxazV2NmNGM0FMY2lCZHl1MU1LdHdiVHpIMFVaNjI3d3o3WC1hZkEyZw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-07-30-regsec-impounds-nine-excavators-in-obuasi-anti-galamsey-crac",
@@ -20860,8 +21101,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQSndiOERyd0pERFFGRHJzOUJlV1RCVUYyOTFMalZrc2tfQ0x2WVlaelVyNzFCeFNXdDRBZHFxUjUyQndoRmNlZjlMVlpvbmd0MnhaQmczV2MzeFBITXkwY1VOcWNrWkNZQVhoZWVaVXpILU9UOFJRNjhDNngtWFZvQ0VQUkV6LThOWDdaalVYS2lHVHB1SFE?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-there-is-no-justification-for-the-galamsey-at-mpohor-police-",
@@ -20920,8 +21160,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRU02RF9EdTZ2SXZCVWZ3ZEk4OEFUSzgxaUVVMWdlR3hDRVcycmoxRktQNlo5V1g3NHZvU3ZFM0gzWTEwS21HdlJsNDdJR0FPUkRsNElVYXJRaEwzaEpjNzBiNk_SAVxBVV95cUxPWjNfcEdNVGZLdnZHWkhibFd2blg4R3lkZFBfbGFVMUV4RUxMb2JEZTQ2OUVGeUk0Vkp4MGhQanVGSE1UQ2UzUDhOTmRNYnB6S3B4bnNrSXNoTGtDbw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-galamseyers-in-mpohor-fiase-oper",
@@ -20942,8 +21181,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTdpTzczTUNXMXZiYURvRF9JV0tNX2F1d3hqX2d0cEVobGtRRWdPc1lSTXRvREMzU3JiNHdlY29jTXZjMW9jZlllRHg0aF92c2ctRmZDb2Jja1ZQcW9xelQzWU10V0hmQ2lwclJXVDR2M2YtN2pDSUZuSjZFajhfVlhWYXk0a28zWkZkYWJadXNNTG1vMWk0LUZYMlZHSEhhZU53akNn?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-illegal-miners-at-mpohor-fiase",
@@ -20964,8 +21202,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmJEcVdVRnFjSUp4ejhaNEZUc1Flc2dhZE5FUU5wYW91TFYzLVBFQkNmb1FoNnF6Y2dBWXhoRmJ5Ql91X0o4aFJUZGtZNFgwUE1Cc28tcFZPanJid0lndWZPUHU5VENiNEZ3RU5semg1MWgxTS1EenltR2EyQ1NLWnF3LWlBQVJjTklRR0NRal9DZw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "verified": false
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-illegal-miners-operating-near-mp",
@@ -20987,7 +21224,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOTVySEl4Q2FMQUczZktRNDJfU1Z4SXRxaExCeXlZUEZGUGNQNEpMVkJ3SExTZ1d2MFYzSnFvWTFlV19relRlaUFHMzNjaUQtbDRKYURyZ3E3bWZzN2hYenJpUDZPV2xjNFFoODRWZDFqWW5RanMxQVp2UDJ3blc5UWQ0eHpSejBfdUpRdGc1b0NIVy1DUkJiMGMzTEdXTThKWTFGb3pfUUVUZ2RJaGg5aWtvTFZjNkdiWnJwbnBKa0dTZzllRjRMSHpEaGloSjBCRFpUVGln?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspects-over-galamsey-activities-near-pol",
@@ -21305,7 +21542,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
     },
     {
       "id": "auto-2026-07-28-galamsey",
