@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-16T16:43:14.556Z",
+  "updated": "2026-10-16T21:10:41.716Z",
   "counts": {
-    "total": 1147,
+    "total": 1148,
     "verified": 28,
-    "automated": 1119,
+    "automated": 1120,
     "earliest": "2024-07-01",
     "latest": "2026-10-16"
   },
@@ -301,6 +301,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/no-mmdce-can-say-they-dont-see-galamsey-local-government-ministry/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-16T21:09:11.729Z",
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
@@ -364,6 +365,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "Fight against galamsey: Ayariga warns MMDCEs against ignoring illegal mining in their jurisdictions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fight against galamsey: Ayariga warns MMDCEs against ignoring illegal mining in their jurisdictions Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtTG0wZjlnZmVJZXJKaWFQcVdNcHhBbERid2tIODlsLThMSDd6anYyRnAwUTM1M0g3Vm52LVUybW52TzlEd3dKR0tQckx2bWtFN0wtLW9KeFVOVl9BZ1VYcjVPaFPSAVxBVV95cUxPV2xRZ01SWU8wbGlYYldVTWJqekU0cGRqQm8zOTQ2bC1vdzE0X3d5TEl4ckx5aG5rTUg5eDR5blBqb0ZwY3ZyMmo1eWFKdEREY3NEQi1vSUxtZFlIXw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtTG0wZjlnZmVJZXJKaWFQcVdNcHhBbERid2tIODlsLThMSDd6anYyRnAwUTM1M0g3Vm52LVUybW52TzlEd3dKR0tQckx2bWtFN0wtLW9KeFVOVl9BZ1VYcjVPaFPSAVxBVV95cUxPV2xRZ01SWU8wbGlYYldVTWJqekU0cGRqQm8zOTQ2bC1vdzE0X3d5TEl4ckx5aG5rTUg5eDR5blBqb0ZwY3ZyMmo1eWFKdEREY3NEQi1vSUxtZFlIXw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
       "id": "auto-2026-10-15-otumfuo-to-take-action-as-he-inspects-a-huge-dam-polluted-by",
