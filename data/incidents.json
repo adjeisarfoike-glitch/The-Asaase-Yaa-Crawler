@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-16T04:33:54.252Z",
+  "updated": "2026-10-16T11:26:10.284Z",
   "counts": {
-    "total": 1129,
+    "total": 1139,
     "verified": 28,
-    "automated": 1101,
+    "automated": 1111,
     "earliest": "2024-07-01",
     "latest": "2026-10-16"
   },
@@ -26,7 +26,184 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/court-sets-nov-4-for-wontumi-bail-ruling/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-16T11:18:47.062Z",
       "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-16-shs-students-involved-in-galamsey-president-mahama-worried-r",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "SHS students involved in galamsey: President Mahama worried - Rolls out $10bn jobs plan to lure youth",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "SHS students involved in galamsey: President Mahama worried - Rolls out $10bn jobs plan to lure youth Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeTNLa1VpRWVhOXlkNFlmdXFaaW43enk5WG5DMFRFMmEwRTJaeWIyZUEwTlF2V3Q0RWNwZEVGcV9wMTVhWGZ0a2IzMTV4VnpnMVVROU9CU0xGYzFVUHVUTDNleHN4ME85Smc4OS04TGkzNzRKYnNkdEtwa0RsbnRqeUFOQVF4bWZVN1UzazZidG9UMUsxQkZhMGNZM2dtMFRpaFVBMkc4UUVBenVQY2ZTcXhFdlBSYU9jOE5OaWY0eTBvMXFOTlNWRFliTVdQeG9wRUx1aEtUQi15cXhvVWJaelNaODBud0c3OEQ3UnQ4Yw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeTNLa1VpRWVhOXlkNFlmdXFaaW43enk5WG5DMFRFMmEwRTJaeWIyZUEwTlF2V3Q0RWNwZEVGcV9wMTVhWGZ0a2IzMTV4VnpnMVVROU9CU0xGYzFVUHVUTDNleHN4ME85Smc4OS04TGkzNzRKYnNkdEtwa0RsbnRqeUFOQVF4bWZVN1UzazZidG9UMUsxQkZhMGNZM2dtMFRpaFVBMkc4UUVBenVQY2ZTcXhFdlBSYU9jOE5OaWY0eTBvMXFOTlNWRFliTVdQeG9wRUx1aEtUQi15cXhvVWJaelNaODBud0c3OEQ3UnQ4Yw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-16T11:19:11.852Z"
+    },
+    {
+      "id": "auto-2026-10-16-ghana-s-rivers-now-run-the-colour-of-chocolate-milk-sam-jona",
+      "date": "2026-10-16",
+      "category": "water",
+      "title": "Ghana’s rivers now ‘run the colour of chocolate milk’ – Sam Jonah on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s rivers now ‘run the colour of chocolate milk’ – Sam Jonah on galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXdaSXphNUpyZElGSE4xVHpTejNQRU9VVG1EM3NmSWwtNE5mVElQUEd0bmI3LVU3cVFQcWFheHBXeDNnZWJLeVFvRkdFSExKUnpQYVdWNkVVM1cwQkc4M3ZxcGJreVlWNC1MV0x0ZnhkZ3ZaVEF6YVZ2akpyNzYxMTZ0b1ZCeEx3X3lfb2hOR2xXeFNSc2dtQzFtc2dUTzBlM1d0M2RiOHVsUzNoNXp3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXdaSXphNUpyZElGSE4xVHpTejNQRU9VVG1EM3NmSWwtNE5mVElQUEd0bmI3LVU3cVFQcWFheHBXeDNnZWJLeVFvRkdFSExKUnpQYVdWNkVVM1cwQkc4M3ZxcGJreVlWNC1MV0x0ZnhkZ3ZaVEF6YVZ2akpyNzYxMTZ0b1ZCeEx3X3lfb2hOR2xXeFNSc2dtQzFtc2dUTzBlM1d0M2RiOHVsUzNoNXp3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-16T11:19:36.672Z"
+    },
+    {
+      "id": "auto-2026-10-16-sam-jonah-warns-galamsey-threatens-ghana-s-economy-public-he",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "Sam Jonah warns galamsey threatens Ghana’s economy, public health and moral values",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sam Jonah warns galamsey threatens Ghana’s economy, public health and moral values Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWZOZ011N2JCajhfOWNONDNabHBPZlJaN0tMclJMSmZ4SWxkOXpVVVZsUThEMHA0WjJzS05YM3llQjdOeGVUaEplclp2NnJYZzRJczN6VkpXSGZRa1JwVkQ2RGNpZWZON3I0MWNhaW9RUi1zTjFlZ2RIZ0FUYjBPZkR6T3BpVC15RU5jMW05aV9YeXl4M04wWEdYM1lmLXdjb25aWFpYX0g?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWZOZ011N2JCajhfOWNONDNabHBPZlJaN0tMclJMSmZ4SWxkOXpVVVZsUThEMHA0WjJzS05YM3llQjdOeGVUaEplclp2NnJYZzRJczN6VkpXSGZRa1JwVkQ2RGNpZWZON3I0MWNhaW9RUi1zTjFlZ2RIZ0FUYjBPZkR6T3BpVC15RU5jMW05aV9YeXl4M04wWEdYM1lmLXdjb25aWFpYX0g?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-16-news-review-mahama-s-10-billion-jobs-plan-galamsey-drivers-w",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "News Review: Mahama’s $10 Billion Jobs Plan, Galamsey, Drivers Want Traders Cleared from Bus Stops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "News Review: Mahama’s $10 Billion Jobs Plan, Galamsey, Drivers Want Traders Cleared from Bus Stops Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1STk9RdldTaVNHRjRyaUUxSlowei10LTN6YUhBNlBNRDBSRTU1OUZxZ1Z3ZGdXNnZiX0lJOFM1RWFrYmJ6MlhBcTBkU3kwa0RDXy0yZFNtRkRFUVZMZjhSeHNrT0rSAVxBVV95cUxQTkpCTUVKZk9sZ1hXSm1LeTV2bUVNY29fSy1NOU9RZDl3LTV4cU0xb0tUa2xodGtyREJTRGI1cmhnN2tMQjdwY1daamwzTzVGblhtSUNFdnNPd1dvdQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1STk9RdldTaVNHRjRyaUUxSlowei10LTN6YUhBNlBNRDBSRTU1OUZxZ1Z3ZGdXNnZiX0lJOFM1RWFrYmJ6MlhBcTBkU3kwa0RDXy0yZFNtRkRFUVZMZjhSeHNrT0rSAVxBVV95cUxQTkpCTUVKZk9sZ1hXSm1LeTV2bUVNY29fSy1NOU9RZDl3LTV4cU0xb0tUa2xodGtyREJTRGI1cmhnN2tMQjdwY1daamwzTzVGblhtSUNFdnNPd1dvdQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-the-oda-mce-is-taxing-galamsey-aaron-asiedu-antwi"
+    },
+    {
+      "id": "auto-2026-10-16-galamsey-rivers-that-fed-our-grandparents-now-run-the-colour",
+      "date": "2026-10-16",
+      "category": "water",
+      "title": "Galamsey: Rivers that fed our grandparents now ‘run the colour of chocolate milk’ – Sam Jonah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Rivers that fed our grandparents now ‘run the colour of chocolate milk’ – Sam Jonah Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEk5VzFjN2Rna0NvRHlEWHJaT2FyTzJXdURBUFhnVmFfcjU3aGtZbWtobXlqTjI5Zno3aVc4Z1dGZ3R6cVk4b1ZqSHJueHpvVVA5NFhwTUViSVhxeDljZ0NuSVd4R0d2TkJ4ZFBwUmU5S0RLQkYzZG5KQ011bHZYaGtwUHZEMWlfZllEZWQ1LU5rN3JUNnpSNTJCSFRMbkFkdXJOZVZFOEdxb1JOTDVjVHljdGZha28?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQTEk5VzFjN2Rna0NvRHlEWHJaT2FyTzJXdURBUFhnVmFfcjU3aGtZbWtobXlqTjI5Zno3aVc4Z1dGZ3R6cVk4b1ZqSHJueHpvVVA5NFhwTUViSVhxeDljZ0NuSVd4R0d2TkJ4ZFBwUmU5S0RLQkYzZG5KQ011bHZYaGtwUHZEMWlfZllEZWQ1LU5rN3JUNnpSNTJCSFRMbkFkdXJOZVZFOEdxb1JOTDVjVHljdGZha28?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-16-goldbod-commits-gh-35m-to-reclaim-galamsey-damaged-tano-nimr",
+      "date": "2026-10-16",
+      "category": "reclamation",
+      "title": "GoldBod commits GH¢35m to reclaim galamsey-damaged Tano Nimri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod commits GH¢35m to reclaim galamsey-damaged Tano Nimri Forest Reserve MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVo3a185cW1NMFhzc3lWSlFZSTNCYjd4dDdnVTZ0Z2x4UjYyRmxWN29rcHhzTEpiOUJlV3RHS3NLeGdKMlRwSVFPalVIZS1RQlNPNEJhTGFvZDZUSDJsenhjZl80YzZwTHN3SEcwNE5LS21ndWlSUWpfWUlTcFkxOVE2S0JwSmw2SnZkTzhrMVpwZjVxdXQxNVpNb2p5T09Nb25fbnRtM1NGOWZDazhj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVo3a185cW1NMFhzc3lWSlFZSTNCYjd4dDdnVTZ0Z2x4UjYyRmxWN29rcHhzTEpiOUJlV3RHS3NLeGdKMlRwSVFPalVIZS1RQlNPNEJhTGFvZDZUSDJsenhjZl80YzZwTHN3SEcwNE5LS21ndWlSUWpfWUlTcFkxOVE2S0JwSmw2SnZkTzhrMVpwZjVxdXQxNVpNb2p5T09Nb25fbnRtM1NGOWZDazhj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-"
+    },
+    {
+      "id": "auto-2026-10-16-nzema-east-launches-responsible-cooperative-mining-programme",
+      "date": "2026-10-16",
+      "category": "policy",
+      "title": "Nzema East launches Responsible Cooperative Mining Programme to tackle environmental destruction",
+      "place": "Nzema",
+      "region": "Western",
+      "lat": 4.87,
+      "lon": -2.24,
+      "summary": "The government has launched the Responsible Cooperative Mining and Skills Development Programme in the Nzema East Municipality of the Western Region to promote safer, more organised, and environmentally responsible small-scale mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/nzema-east-launches-responsible-cooperative-mining-programme-to-tackle-environmental-destruction/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/nzema-east-launches-responsible-cooperative-mining-programme-to-tackle-environmental-destruction/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-16-shs-students-involved-in-galamsey-president-mahama-worried",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "SHS students involved in galamsey: President Mahama worried",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Rolls out $10bn jobs plan to lure youth",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-shs-students-involved-in-galamsey-president-mahama-worried-rolls-out-10bn-jobs-plan-to-lure-youth.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-shs-students-involved-in-galamsey-president-mahama-worried-rolls-out-10bn-jobs-plan-to-lure-youth.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-16-ghana-research-fund-targets-local-solutions-to-national-chal",
+      "date": "2026-10-16",
+      "category": "forest",
+      "title": "Ghana Research Fund targets local solutions to national challenges",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Ghana National Research Fund (GNRF) is to prioritise research into food security, environmental protection, health care and technological innovation to address the country’s development challenges and reduce its dependence on external research funding. The fund is expected to support researchers working on home-grown solutions, including climate-smart crop varieties, sustainable natural resource management, emerg",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-research-fund-targets-local-solutions-to-national-challenges.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-research-fund-targets-local-solutions-to-national-challenges.html",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-15-otumfuo-to-take-action-as-he-inspects-a-huge-dam-polluted-by",
@@ -488,6 +665,25 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTV6b3hzdDZRdndMY2M4ZVdxeHZfSUZvck5VQlI5MWhwa2lja1Fjek1hWjJpQzR6Q0FUT09aZDhYOW9EMnJUTG5NaFRmYU1Lc0RETllqQ2hJVVRuRHpXem9iYjkyUnFZQ09vd3ZnNU9HZDc4STN6eU83SGpzN01OdmExR3ZpOUJOLWtUdXhLUnZhMG1OOXNxdnQ4TG55NVpDR2ZiZzJabmYxRFA4RE4tOE94akZMYnEzX2doNU5uUHlNZmJTZGtwLUFXUG0?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTV6b3hzdDZRdndMY2M4ZVdxeHZfSUZvck5VQlI5MWhwa2lja1Fjek1hWjJpQzR6Q0FUT09aZDhYOW9EMnJUTG5NaFRmYU1Lc0RETllqQ2hJVVRuRHpXem9iYjkyUnFZQ09vd3ZnNU9HZDc4STN6eU83SGpzN01OdmExR3ZpOUJOLWtUdXhLUnZhMG1OOXNxdnQ4TG55NVpDR2ZiZzJabmYxRFA4RE4tOE94akZMYnEzX2doNU5uUHlNZmJTZGtwLUFXUG0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-15-ghana-gas-to-mark-buried-pipelines-to-prevent-galamsey-encro",
+      "date": "2026-10-15",
+      "category": "forest",
+      "title": "Ghana Gas to mark buried pipelines to prevent galamsey encroachment",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Gas to mark buried pipelines to prevent galamsey encroachment CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODYzRjF0blpCdmxlZFE5aTZ6T0JZc2F4Ykg2MW5ZUnAtcldLUVo2SHVPT0lVUVZZTlJPZVBLUDUwMk5YQy16RTgwSDMzVXFTek94RE9UbTJhMHN5VVJ3eUZYVHJrQk9LNlh3UGhNOEpkU1EtbEk3d3VET0NnczdIMktZX1hGR0ZOdUloR2xuWGpLdUlZYzFlVmRENVN2dldpSWhSMEJzNzQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODYzRjF0blpCdmxlZFE5aTZ6T0JZc2F4Ykg2MW5ZUnAtcldLUVo2SHVPT0lVUVZZTlJPZVBLUDUwMk5YQy16RTgwSDMzVXFTek94RE9UbTJhMHN5VVJ3eUZYVHJrQk9LNlh3UGhNOEpkU1EtbEk3d3VET0NnczdIMktZX1hGR0ZOdUloR2xuWGpLdUlZYzFlVmRENVN2dldpSWhSMEJzNzQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1998,21 +2194,20 @@
       "id": "auto-2026-10-07-interpol-crackdown-on-illegal-mining-logging-and-wildlife-tr",
       "date": "2026-10-07",
       "category": "arrest",
-      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests",
+      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests - News-Press NOW",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests Toronto Star",
+      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests News-Press NOW",
       "metrics": {},
       "source": {
-        "name": "Toronto Star",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNDVBOThhdFA4UnE5dXl3a0ZHM2RhUHAxaFlxWkllUENuV3VFN1AxdUFiaE1OMHRmblhyaDF0QjdkSEJNVEJRX2tTOWdaMV9iSnprLW1KbWNxZVl5cmhKOF9Hdld3RnJrdmdMd2w0eDBMQ0ZzakFKYzZYdzZiYnF2dlYyeWFMWHFMRE1TN21mb1dSd0M5V3pPYWVOV085am1uSElVVlRCcERMZkRLTDR4SnVXVHdDY1BCU1hJLWQ0SHpGdkk1VUJCU2ZHTGdDOVpiMmxnQ0V0TWNZZW9rVGdHeUYtajJKbnFSR1luZlF5N0w0S3NnUG4zdjVZLXpjcWJlelJ4UnZ3?oc=5"
+        "name": "News-Press NOW",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgJBVV95cUxNNDVBOThhdFA4UnE5dXl3a0ZHM2RhUHAxaFlxWkllUENuV3VFN1AxdUFiaE1OMHRmblhyaDF0QjdkSEJNVEJRX2tTOWdaMV9iSnprLW1KbWNxZVl5cmhKOF9Hdld3RnJrdmdMd2w0eDBMQ0ZzakFKYzZYdzZiYnF2dlYyeWFMWHFMRE1TN21mb1dSd0M5V3pPYWVOV085am1uSElVVlRCcERMZkRLTDR4SnVXVHdDY1BCU1hJLWQ0SHpGdkk1VUJCU2ZHTGdDOVpiMmxnQ0V0TWNZZW9rVGdHeUYtajJKbnFSR1luZlF5N0w0S3NnUG4zdjVZLXpjcWJlelJ4UnZ3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-10-10T05:54:10.350Z"
+      "verified": false
     },
     {
       "id": "auto-2026-10-07-illegal-mining-pushes-birim-river-turbidity-to-50-000-ntu-ab",
