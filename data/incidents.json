@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-15T21:27:02.728Z",
+  "updated": "2026-10-16T04:33:54.252Z",
   "counts": {
-    "total": 1127,
+    "total": 1129,
     "verified": 28,
-    "automated": 1099,
+    "automated": 1101,
     "earliest": "2024-07-01",
-    "latest": "2026-10-15"
+    "latest": "2026-10-16"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-16-court-sets-nov-4-for-wontumi-bail-ruling",
+      "date": "2026-10-16",
+      "category": "prosecution",
+      "title": "Court sets Nov. 4 for Wontumi bail ruling",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "THE High Court in Accra will on November 4, 2026, rule on an application for bail filed by former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi. Mr Antwi-Boasiako is seeking bail pending his appeal against the 20-year prison sentence imposed on him for illegal mining. His … The post Court sets Nov. 4 for Wontumi bail ruling appeared first on Gh",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/court-sets-nov-4-for-wontumi-bail-ruling/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/court-sets-nov-4-for-wontumi-bail-ruling/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
     {
       "id": "auto-2026-10-15-otumfuo-to-take-action-as-he-inspects-a-huge-dam-polluted-by",
       "date": "2026-10-15",
@@ -247,6 +267,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MTU54MkpYNkZiakhHMXZlOUU4TFNMT2g0TWZQcWIzbWRkM29FYkVXcHF4M202YVFONE1MeFk5UnIwUlpZWGwtV1ByMnlEck83Nmp3bGkzdkVDWXJFOTd2cXBwYnbSAVxBVV95cUxOV0xzQUU4NFFwTHBBRG1jeXJYUFRRUHVxeTJaOUxLWkdlMEhxaWlDeGhGbWlBeDZmYnFyOF9yV1l3Ty1QdVdYRllTcXIwREtuYXJYTFQzU3NpUW5ocQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-16T04:31:17.832Z",
       "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
     },
     {
@@ -1315,6 +1336,26 @@
       "verified": false,
       "archivedAt": "2026-10-13T00:37:41.893Z",
       "thread": "t-auto-2026-07-15-galamsey-fight-258-suspects-arrested-in-six-months-armah-kof"
+    },
+    {
+      "id": "auto-2026-10-12-the-fight-against-galamsey-and-it-s-affect-on-the-people-of-",
+      "date": "2026-10-12",
+      "category": "forest",
+      "title": "The Fight Against Galamsey And It's Affect On The People Of Nyanoa",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Fight Against Galamsey And It's Affect On The People Of Nyanoa YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QLW5heGw5UTdNcHptbi1pZ2xROHdGSC1ySlJ2X1ZWR2Z3cm5HbFVNQ1ZVdnNpNUZTV2dsSk5zZUk0V1k4TGZCTXpxNmhoZFIxQlh5Qzk1M251NTE0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QLW5heGw5UTdNcHptbi1pZ2xROHdGSC1ySlJ2X1ZWR2Z3cm5HbFVNQ1ZVdnNpNUZTV2dsSk5zZUk0V1k4TGZCTXpxNmhoZFIxQlh5Qzk1M251NTE0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
     },
     {
       "id": "auto-2026-10-11-burkina-faso-to-kasoa-on-foot-man-completes-22-day-anti-gala",
@@ -12105,7 +12146,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-chamber-of-mines-adamus-welcome-govt-efforts-to-revive-mine.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+      "thread": "t-auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines"
     },
     {
       "id": "auto-2026-08-26-justice-must-guide-africa-s-energy-transition-former-lands-m",
@@ -13338,7 +13379,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Rm9jTTY4aVJvVXZZTEdHT2FrOUh0TjNnTU4zbExETmxvbDZPMEtrdnRQQ2szRW9DVWpTNDItSUVWbEJSQi1GMlROVHRKM0dhMkhMSUNxaHhySTduZDBv0gFcQVVfeXFMUFI0VmxqNF9oNEN3eFdScUotT3hhQlNjSTlZNmxVQXQzWlZqOFZCV2x0ZmRJODlFNDBJN3NnYzhZTDhiQlVNUC1CcFk0UVN4LUxnQ1I3N2ZZN2hoaXo?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+      "thread": "t-auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines"
     },
     {
       "id": "auto-2026-08-24-former-lands-minister-proposes-independent-body-to-fight-gal",
@@ -13396,8 +13437,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xQ3VPRWtOVnFPNXRJN1g5MUR3bmlzcHM3bHo1SkhvM0hhbzUybUtGekxPQ3UzQlFtTGd2X3FTaVc1ZnpkcV9wZlpNRndNX3A0dEp2dll0Q0h3Nm1wS0Fv0gFcQVVfeXFMTnV6WjVkRTNRX0ZPTFVpZjN5TDMycmNzT0dkdWJOZG1zWlVJb29TM1NyR1YydFdjS3dCeFBKWEJycDVneEcwZFppYnJ2MEFtNUU5NG1kY3JnYmJSamg?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+      "verified": false
     },
     {
       "id": "auto-2026-08-24-npp-lost-2024-partly-because-of-galamsey-mike-oquaye-jnr",
