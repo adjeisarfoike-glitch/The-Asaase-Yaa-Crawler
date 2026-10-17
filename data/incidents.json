@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17T10:44:03.283Z",
+  "updated": "2026-10-17T15:37:34.258Z",
   "counts": {
-    "total": 1154,
+    "total": 1157,
     "verified": 28,
-    "automated": 1126,
+    "automated": 1129,
     "earliest": "2024-07-01",
     "latest": "2026-10-17"
   },
@@ -69,6 +69,68 @@
       "verified": false,
       "archivedAt": "2026-10-17T10:39:33.454Z",
       "thread": "t-auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme"
+    },
+    {
+      "id": "auto-2026-10-17-playback-the-keypoints-appointment-of-deputy-chairs-for-ec-a",
+      "date": "2026-10-17",
+      "category": "forest",
+      "title": "PLAYBACK: The KeyPoints- Appointment of Deputy Chairs for EC and Mahama's call for support from chief in galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PLAYBACK: The KeyPoints- Appointment of Deputy Chairs for EC and Mahama's call for support from chief in galamsey fight 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJ4RTlaWHN1b2lpYVhCMFRfODZpTndBWkxWa0Q4eHdNdkNHUHI3WmZuS1RXSU83eXA2b1huTWlWSUIzZVBKeUptZW9YN0ZtR3J1UUNlVHZqdlJSQzUzeUpPaEZnTXp0Q01TMEhlUjFhc3Yzek5MNVI0WHRMd2VoVEVtd25kWElBNndzTXdKcldvM3NQNF9aSzZTRjF0TW5iOThZV0otMFdseU82NnFYTWRZaDk0aV9mSlhadV9JbDNmelFBLU1OTTR0Z2c0cTc4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJ4RTlaWHN1b2lpYVhCMFRfODZpTndBWkxWa0Q4eHdNdkNHUHI3WmZuS1RXSU83eXA2b1huTWlWSUIzZVBKeUptZW9YN0ZtR3J1UUNlVHZqdlJSQzUzeUpPaEZnTXp0Q01TMEhlUjFhc3Yzek5MNVI0WHRMd2VoVEVtd25kWElBNndzTXdKcldvM3NQNF9aSzZTRjF0TW5iOThZV0otMFdseU82NnFYTWRZaDk0aV9mSlhadV9JbDNmelFBLU1OTTR0Z2c0cTc4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-17T15:30:58.778Z",
+      "thread": "t-auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme"
+    },
+    {
+      "id": "auto-2026-10-17-lands-minister-charges-mining-cooperatives-take-the-gold-but",
+      "date": "2026-10-17",
+      "category": "reclamation",
+      "title": "Lands Minister charges mining cooperatives: Take the gold, but restore the land",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "The Minister for Lands and Natural Resources, Honourable Emmanuel Armah-Kofi Buah, has charged five newly inaugurated mining cooperatives in the Western Region to pursue gold extraction responsibly, insisting that mining and environmental restoration must go hand in hand. The message was delivered at Nkroful in the Ellembelle District during the inauguration of five Responsible Cooperative Mining and Skills Developme",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-17-mine-gold-responsibly-and-restore-degraded-lands-lands-minis",
+      "date": "2026-10-17",
+      "category": "reclamation",
+      "title": "Mine gold responsibly and restore degraded lands – Lands Minister tells cooperatives",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Ashiadey Dotse The Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, has urged small-scale mining cooperatives to mine gold responsibly and restore lands degraded by their operations. He said mining should create economic opportunities without destroying the environment, polluting rivers or threatening the livelihoods of future generations. Mr Buah made the call at […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/general/mine-gold-responsibly/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/mine-gold-responsibly/2026/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-17T15:32:03.053Z",
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-16-court-sets-nov-4-for-wontumi-bail-ruling",
@@ -388,6 +450,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-asantehene-launch-jimi-land-reclamation-project.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-17T15:35:45.717Z",
       "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
     },
     {
@@ -1521,18 +1584,18 @@
       "id": "auto-2026-10-14-ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mi",
       "date": "2026-10-14",
       "category": "forest",
-      "title": "Ayanfuri-Diaso Highway on brink of closure due to illegal mining",
+      "title": "Ayanfuri-Diaso Highway on brink of closure due to illegal mining - Perseus Mining General Manager warns",
       "place": "Ayanfuri",
       "region": "Central",
       "lat": 5.87,
       "lon": -1.85,
-      "summary": "The General Manager of Perseus Mining Ghana’s Edikan Mine, Alexander Kofi Oduro, has warned that illegal mining activities along the Ayanfuri-Diaso highway could eventually cut off the route, disrupting transportation and affecting communities that depend on it.",
+      "summary": "Ayanfuri-Diaso Highway on brink of closure due to illegal mining - Perseus Mining General Manager warns 3News",
       "metrics": {},
       "source": {
-        "name": "Perseus Mining General Manager warns",
-        "url": "https://3news.com/news/ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mining-perseus-mining-general-manager-warns"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVAtOGxlUXRDc3J6N3VSa25oMGVsRnZIeTJfTkJWeXFXSDV1dHFCM1RZRXhvemJNUWx6bUphRy1JZjBfcDk1MER0UmJtSDBVSDdNY0Fnc0RXVTBXczR0X3Y3bU5sY3c0Y2I2T01XUEJsbGp2X2c5VXNKN1NJZ0ZaaXF6T2s4b0tqN2sweWtoOXBuN05sWDVJS0lQNllURTVhRkxaZUxZdEZ5SzdCVzBwZUthYnZZeV9pYnhxS0ZhTF9VUQ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ayanfuri-diaso-highway-on-brink-of-closure-due-to-illegal-mining-perseus-mining-general-manager-warns",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVAtOGxlUXRDc3J6N3VSa25oMGVsRnZIeTJfTkJWeXFXSDV1dHFCM1RZRXhvemJNUWx6bUphRy1JZjBfcDk1MER0UmJtSDBVSDdNY0Fnc0RXVTBXczR0X3Y3bU5sY3c0Y2I2T01XUEJsbGp2X2c5VXNKN1NJZ0ZaaXF6T2s4b0tqN2sweWtoOXBuN05sWDVJS0lQNllURTVhRkxaZUxZdEZ5SzdCVzBwZUthYnZZeV9pYnhxS0ZhTF9VUQ?oc=5",
       "via": "rss",
       "verified": false
     },
