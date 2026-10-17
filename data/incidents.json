@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17T04:26:44.940Z",
+  "updated": "2026-10-17T10:44:03.283Z",
   "counts": {
-    "total": 1152,
+    "total": 1154,
     "verified": 28,
-    "automated": 1124,
+    "automated": 1126,
     "earliest": "2024-07-01",
     "latest": "2026-10-17"
   },
@@ -48,6 +48,27 @@
       "verified": false,
       "archivedAt": "2026-10-17T04:22:17.213Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-10-17-live-the-keypoints-appointment-of-deputy-chairs-for-ec-and-m",
+      "date": "2026-10-17",
+      "category": "forest",
+      "title": "LIVE: The KeyPoints- Appointment of Deputy Chairs for EC and Mahama's call for support from chief in galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: The KeyPoints- Appointment of Deputy Chairs for EC and Mahama's call for support from chief in galamsey fight 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJ4RTlaWHN1b2lpYVhCMFRfODZpTndBWkxWa0Q4eHdNdkNHUHI3WmZuS1RXSU83eXA2b1huTWlWSUIzZVBKeUptZW9YN0ZtR3J1UUNlVHZqdlJSQzUzeUpPaEZnTXp0Q01TMEhlUjFhc3Yzek5MNVI0WHRMd2VoVEVtd25kWElBNndzTXdKcldvM3NQNF9aSzZTRjF0TW5iOThZV0otMFdseU82NnFYTWRZaDk0aV9mSlhadV9JbDNmelFBLU1OTTR0Z2c0cTc4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGJ4RTlaWHN1b2lpYVhCMFRfODZpTndBWkxWa0Q4eHdNdkNHUHI3WmZuS1RXSU83eXA2b1huTWlWSUIzZVBKeUptZW9YN0ZtR3J1UUNlVHZqdlJSQzUzeUpPaEZnTXp0Q01TMEhlUjFhc3Yzek5MNVI0WHRMd2VoVEVtd25kWElBNndzTXdKcldvM3NQNF9aSzZTRjF0TW5iOThZV0otMFdseU82NnFYTWRZaDk0aV9mSlhadV9JbDNmelFBLU1OTTR0Z2c0cTc4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-17T10:39:33.454Z",
+      "thread": "t-auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme"
     },
     {
       "id": "auto-2026-10-16-court-sets-nov-4-for-wontumi-bail-ruling",
@@ -284,7 +305,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxNNXo2WnE0cFB0ODd6Q0xjUHFGX0VzUDBicWEybGtORDJBM1ZjX2pOMzZpejBCeERCT3dmVU1aQXJqeGRUcm9ZUjhSZkJfUURNalBFNllITzR1SUJkQ19ZQzdYdXFBY0dUcDEtdmdXOFFhdVVoMGFWdjkyMVpqZUwxSjhxcEtIYUFlMnFtQUVLaFpnVzh1Z0R1MHJoZXR0SXA1?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-17T10:42:17.843Z"
     },
     {
       "id": "auto-2026-10-16-we-have-stopped-the-bleeding-lands-minister-on-ghana-s-galam",
@@ -2349,6 +2371,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-08-interpol-crackdown-on-illegal-mining-in-the-amazon",
+      "date": "2026-10-08",
+      "category": "arrest",
+      "title": "Interpol crackdown on illegal mining in the Amazon",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Interpol crackdown on illegal mining in the Amazon Mining.com.au",
+      "metrics": {},
+      "source": {
+        "name": "Mining.com.au",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VY1dEV2xYX1dqMmMyZjZaOEhaSnpicEdMQUhRVXFfLTVDYkJtTDlCeUI1eTJHczV2cV9QOFdzcGpmZkVueHh6MUxqQThKUngwTldwa0hEVEExMjU3eWU0bDhOYkdmenNSWkl2Tk1lYy1samdkUGxuSVluYXB3QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMifkFVX3lxTE5VY1dEV2xYX1dqMmMyZjZaOEhaSnpicEdMQUhRVXFfLTVDYkJtTDlCeUI1eTJHczV2cV9QOFdzcGpmZkVueHh6MUxqQThKUngwTldwa0hEVEExMjU3eWU0bDhOYkdmenNSWkl2Tk1lYy1samdkUGxuSVluYXB3QQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
