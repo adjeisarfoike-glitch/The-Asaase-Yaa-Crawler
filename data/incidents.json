@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17T15:37:34.258Z",
+  "updated": "2026-10-17T20:40:37.361Z",
   "counts": {
-    "total": 1157,
+    "total": 1159,
     "verified": 28,
-    "automated": 1129,
+    "automated": 1131,
     "earliest": "2024-07-01",
     "latest": "2026-10-17"
   },
@@ -131,6 +131,45 @@
       "verified": false,
       "archivedAt": "2026-10-17T15:32:03.053Z",
       "thread": "t-pol-2026-07-16-half-year"
+    },
+    {
+      "id": "auto-2026-10-17-live-news360-big-push-infrastructure-initiative-fight-agains",
+      "date": "2026-10-17",
+      "category": "forest",
+      "title": "LIVE: News360; Big Push Infrastructure Initiative || Fight Against Galamsey ||17-10-2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: News360; Big Push Infrastructure Initiative || Fight Against Galamsey ||17-10-2026 Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbUtMRkRDZDlMSUNrMzAwb0o0Y0FXVXNxTGlhX29QQjhBbGIxWVR0S3YyX2lQWjlOU3lFNm90bjdPWE1zQzVqNC1ZWERvNFVNX3RWM2d3eVZMR0x4LXFn0gFcQVVfeXFMT2wyWTd4cXRfQUwwLTgwVV8xTTBaa1VYMEN4TnZxT2VSclhBNGpQRWxrZGtDX1BWXzMwdzJTTzV5LXJlRlh6UlJzbFZoRlpUS3VTMUo3WUFSVEZuWnE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbUtMRkRDZDlMSUNrMzAwb0o0Y0FXVXNxTGlhX29QQjhBbGIxWVR0S3YyX2lQWjlOU3lFNm90bjdPWE1zQzVqNC1ZWERvNFVNX3RWM2d3eVZMR0x4LXFn0gFcQVVfeXFMT2wyWTd4cXRfQUwwLTgwVV8xTTBaa1VYMEN4TnZxT2VSclhBNGpQRWxrZGtDX1BWXzMwdzJTTzV5LXJlRlh6UlJzbFZoRlpUS3VTMUo3WUFSVEZuWnE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-channel-one-tv-live-the-fight-against-galamsey-a-closer-look"
+    },
+    {
+      "id": "auto-2026-10-17-ghana-risks-power-disruptions-if-galamsey-destroys-gas-pipel",
+      "date": "2026-10-17",
+      "category": "forest",
+      "title": "Ghana risks power disruptions if galamsey destroys gas pipelines – Ghana Gas Engineer warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana risks power disruptions if galamsey destroys gas pipelines – Ghana Gas Engineer warns Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0xrY3Q5Z0ZWMkJhS2pncTFPaHFRZ2JaME1xLXdBaUJranZ0VE5XY2p2dXRGcTdVNUJBVS1Hd3MyY2taRmRSRlJEOW44SkZLWElJLS1kZS1rS0FvRzIyZm1CSlFBeVYzby1HZlFyeHFOTDdyQTBjaERab2ZCYkpMeTRvSm53bG95M1N6RUhfcGdMakhpVTlaUjBORi04TFpFR1dUR3pwU21PQ1pWaVNpWlN4U20yRjl2?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0xrY3Q5Z0ZWMkJhS2pncTFPaHFRZ2JaME1xLXdBaUJranZ0VE5XY2p2dXRGcTdVNUJBVS1Hd3MyY2taRmRSRlJEOW44SkZLWElJLS1kZS1rS0FvRzIyZm1CSlFBeVYzby1HZlFyeHFOTDdyQTBjaERab2ZCYkpMeTRvSm53bG95M1N6RUhfcGdMakhpVTlaUjBORi04TFpFR1dUR3pwU21PQ1pWaVNpWlN4U20yRjl2?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-16-court-sets-nov-4-for-wontumi-bail-ruling",
@@ -11211,7 +11250,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qOXNKbUhrd1JfRnZ1ek55bVVMTDBDa0YxSV9IN1IzYVJqWmdFTW1McmQ0UklWUlNIZHR2UkM2QmwwbkNHYVo2TTU2Z3kySjdrZkpxMFpRNzV1TlhlbEs1Sl9yNNIBXEFVX3lxTE9MbUUwdmoxblpjUnJFNXdQZlNlR0c5WHR5aWdlQlpsVHpfTnJySjAyZGtxdzAyTVNPeVdCVU41VExmUFZMSDNBalFmYVAtTDU0YkJsUG5DVW84Um1S?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-31-channel-one-tv-live-the-fight-against-galamsey-a-closer-look"
     },
     {
       "id": "auto-2026-08-31-zanetor-agyeman-rawlings-pledges-decisive-action-on-climate-",
