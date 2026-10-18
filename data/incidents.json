@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-17T20:40:37.361Z",
+  "updated": "2026-10-18T04:34:02.019Z",
   "counts": {
-    "total": 1159,
+    "total": 1163,
     "verified": 28,
-    "automated": 1131,
+    "automated": 1135,
     "earliest": "2024-07-01",
     "latest": "2026-10-17"
   },
@@ -109,6 +109,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-charges-mining-cooperatives-take-the-gold-but-restore-the-land.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-18T04:27:31.716Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -150,6 +151,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vbUtMRkRDZDlMSUNrMzAwb0o0Y0FXVXNxTGlhX29QQjhBbGIxWVR0S3YyX2lQWjlOU3lFNm90bjdPWE1zQzVqNC1ZWERvNFVNX3RWM2d3eVZMR0x4LXFn0gFcQVVfeXFMT2wyWTd4cXRfQUwwLTgwVV8xTTBaa1VYMEN4TnZxT2VSclhBNGpQRWxrZGtDX1BWXzMwdzJTTzV5LXJlRlh6UlJzbFZoRlpUS3VTMUo3WUFSVEZuWnE?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-18T04:27:56.648Z",
       "thread": "t-auto-2026-08-31-channel-one-tv-live-the-fight-against-galamsey-a-closer-look"
     },
     {
@@ -169,7 +171,67 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0xrY3Q5Z0ZWMkJhS2pncTFPaHFRZ2JaME1xLXdBaUJranZ0VE5XY2p2dXRGcTdVNUJBVS1Hd3MyY2taRmRSRlJEOW44SkZLWElJLS1kZS1rS0FvRzIyZm1CSlFBeVYzby1HZlFyeHFOTDdyQTBjaERab2ZCYkpMeTRvSm53bG95M1N6RUhfcGdMakhpVTlaUjBORi04TFpFR1dUR3pwU21PQ1pWaVNpWlN4U20yRjl2?oc=5",
       "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-18T04:28:21.756Z"
+    },
+    {
+      "id": "auto-2026-10-17-lands-minister-challenges-cooperative-miners-to-prove-they-a",
+      "date": "2026-10-17",
+      "category": "policy",
+      "title": "Lands Minister Challenges Cooperative Miners to Prove They Are Not Engaged in Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Lands Minister Challenges Cooperative Miners to Prove They Are Not Engaged in Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdTJzZnZITUhfcnN5YW82QkVFZ2R3NkhYQzRiLUdXQVBBaW5XQ21waVpBck9mb1BzY3MtOXIya3BfTThHMF92amJhcGZDb3A2UmNmRnpLbXJjRmVYTVBoa2MwONIBXEFVX3lxTE41UVRFV25QeDVjTVVpb0JuUXhfbVR2NEJPcnpkaVNDeTJEZFZZZXR6WkstNlVObU1uOVlSeW93a1RkbnlJdmtEejlINlMtMDlKc2xvdWNQN2Zlc0FI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdTJzZnZITUhfcnN5YW82QkVFZ2R3NkhYQzRiLUdXQVBBaW5XQ21waVpBck9mb1BzY3MtOXIya3BfTThHMF92amJhcGZDb3A2UmNmRnpLbXJjRmVYTVBoa2MwONIBXEFVX3lxTE41UVRFV25QeDVjTVVpb0JuUXhfbVR2NEJPcnpkaVNDeTJEZFZZZXR6WkstNlVObU1uOVlSeW93a1RkbnlJdmtEejlINlMtMDlKc2xvdWNQN2Zlc0FI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-17-cooperative-mining-will-end-galamsey-destruction-regional-di",
+      "date": "2026-10-17",
+      "category": "forest",
+      "title": "Cooperative mining will end galamsey destruction – Regional Director",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Cooperative mining will end galamsey destruction – Regional Director GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEc5R0hWMmlhY2g0WlRxYmc3WldnYUVpT3JENUJMekhFZUVpNHNYR1hsb1dzRTl6Q3hKRDNKOFZzUDBIbV9URlh6NjJJZDhORzZYMFRZUmZ3ZndCNzdTcmxGakt6ZnZ0Xy1SN1k1dE1Hejd6SWhhVHNYWEM2MEtBSDZfbmRQdklZUGsxNzRVdTVodHBBT2RFQzZfWGNWZTVHRlpTWW51RmsyV2x2MTY3ODUwUDRHa0Z3WnE0a0ZlMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEc5R0hWMmlhY2g0WlRxYmc3WldnYUVpT3JENUJMekhFZUVpNHNYR1hsb1dzRTl6Q3hKRDNKOFZzUDBIbV9URlh6NjJJZDhORzZYMFRZUmZ3ZndCNzdTcmxGakt6ZnZ0Xy1SN1k1dE1Hejd6SWhhVHNYWEM2MEtBSDZfbmRQdklZUGsxNzRVdTVodHBBT2RFQzZfWGNWZTVHRlpTWW51RmsyV2x2MTY3ODUwUDRHa0Z3WnE0a0ZlMA?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-17-joynews-notogalamsey-campaign-wins-cimg-new-media-campaign-o",
+      "date": "2026-10-17",
+      "category": "water",
+      "title": "JoyNews’ #NoToGalamsey campaign wins CIMG New Media Campaign of the Year",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "JoyNews’ #NoToGalamsey campaign has been named New Media Campaign of the Year for 2025 at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of Marketing, Ghana (CIMG). The award was presented at the Labadi Beach Hotel in Accra on Saturday, October 17, 2026, in recognition of the campaign’s use of digital platforms to extend the reach of its reporting on illegal mining and its ",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/joynews-notogalamsey-campaign-wins-cimg-new-media-campaign-of-the-year/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/joynews-notogalamsey-campaign-wins-cimg-new-media-campaign-of-the-year/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-upper-east"
     },
     {
       "id": "auto-2026-10-16-court-sets-nov-4-for-wontumi-bail-ruling",
@@ -367,7 +429,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-research-fund-targets-local-solutions-to-national-challenges.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-18T04:32:07.984Z"
     },
     {
       "id": "auto-2026-10-16-state-failure-not-goldbod-driving-galamsey-daryl-bosu",
@@ -387,6 +450,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDFOM0hiRmVXZW54U05jeEhOSFVSVnhfb0hsby12d3phYXNLWjlOLXJIRHU4RDRvRWhFRDF0aWFMS2Y4SW9rM1Z2TFduM0U2UklNZnZiWnh0U3drTHd1SWlOODVrOThHV0ZaeDNnT0M4ektBNzlwSWptQ19yQVhSRDh3V2poYVNRbGdlQjR1dUdoUQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-18T04:32:33.105Z",
       "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
     },
     {
@@ -426,7 +490,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTZqb0VNWUZQcVZiZEJ0Rk5FWTBkS0k2RFJmMzVMa09sOW82ME1sOGZ0RXZteFNXVlFXb3hScEdHN1N2ZVZteUNEOHdKSjhEX0RUcmdnemdRRDAxajU3QnFxa2NIU2JHY0dzbUh0NVoxLVlpbzc1aHVCUGg0dUxEZTZDQnBlampmYTFlNlpjdHV3YzZrczRQUS1EQ1Z6aGlyazhHMW0tRUtyUEtkNHVyQmlKYWFWeUtmbjBXRk9qSjg5T1piQVpF?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-18T04:33:04.472Z"
     },
     {
       "id": "auto-2026-10-16-galamsey-turning-ghana-s-rivers-into-chocolate-milk-sir-sam-",
@@ -3180,6 +3245,25 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenVldTlNS0pKY0p1S0J2VVhyX3BqQTlDRGpUYU9qNmxnMFRqdWdZQkdMaGFwMl9BeGhmMy0yZm5Jb2xxbGhyT0tDb2FOQW0yaER5VUdtZzhRZ0NZd1lnZk55NEM0dWNPLXhNODJjSVJNdFZoV3ZGQWUzWVIwaVd1S0tjUmY4WUFDcTNETGh2eTlIdmcyeGNxU040VmZnT21WNFMw?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOenVldTlNS0pKY0p1S0J2VVhyX3BqQTlDRGpUYU9qNmxnMFRqdWdZQkdMaGFwMl9BeGhmMy0yZm5Jb2xxbGhyT0tDb2FOQW0yaER5VUdtZzhRZ0NZd1lnZk55NEM0dWNPLXhNODJjSVJNdFZoV3ZGQWUzWVIwaVd1S0tjUmY4WUFDcTNETGh2eTlIdmcyeGNxU040VmZnT21WNFMw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-05-galamsey-destroys-rivers-in-suaman-as-group-demands-urgent-a",
+      "date": "2026-10-05",
+      "category": "water",
+      "title": "Galamsey destroys rivers in Suaman as group demands urgent action",
+      "place": "Suaman",
+      "region": "Western North",
+      "lat": 5.87,
+      "lon": -3,
+      "summary": "Galamsey destroys rivers in Suaman as group demands urgent action Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJDVmh0TkNFVmM0eVVDNnpkX2pib0NjdW1YbGhLWUlPblZXMGpDbWlrZUxvUmx1MWw4cTE0aHJSTUQ0dTZTTlNZMU5RazJnaGx5TXZXdFFINmJ1V3NtTHh4NGlKMy1ReW5XOTNvdE9wY1hNTmlmaXZ6ZnVodUxSZU03N0NxdGlrSWZpdlI4a1pmNURr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJDVmh0TkNFVmM0eVVDNnpkX2pib0NjdW1YbGhLWUlPblZXMGpDbWlrZUxvUmx1MWw4cTE0aHJSTUQ0dTZTTlNZMU5RazJnaGx5TXZXdFFINmJ1V3NtTHh4NGlKMy1ReW5XOTNvdE9wY1hNTmlmaXZ6ZnVodUxSZU03N0NxdGlrSWZpdlI4a1pmNURr?oc=5",
       "via": "rss",
       "verified": false
     },
