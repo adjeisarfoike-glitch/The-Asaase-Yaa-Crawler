@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18T15:56:29.577Z",
+  "updated": "2026-10-18T20:46:03.475Z",
   "counts": {
-    "total": 1175,
+    "total": 1180,
     "verified": 28,
-    "automated": 1147,
+    "automated": 1152,
     "earliest": "2024-07-01",
     "latest": "2026-10-18"
   },
@@ -51,21 +51,21 @@
       "id": "auto-2026-10-18-soldiers-to-remain-in-nine-forest-reserves-cleared-of-galams",
       "date": "2026-10-18",
       "category": "forest",
-      "title": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama",
+      "title": "Soldiers to remain in nine forest reserves cleared of galamsey",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama 3News",
+      "summary": "President Mahama says all nine red-zone forest reserves are cleared of galamsey and soldiers will stay to prevent a return, as he urged chiefs to back NAIMOS.",
       "metrics": {},
       "source": {
-        "name": "3News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5"
+        "name": "Prez Mahama",
+        "url": "https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
     },
     {
       "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
@@ -145,6 +145,84 @@
       "via": "rss",
       "verified": false,
       "thread": "t-fr-western-north"
+    },
+    {
+      "id": "auto-2026-10-18-nana-attobrah-quaicoe-writes-playing-at-the-fringes-with-gal",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Nana Attobrah Quaicoe writes: Playing at the fringes with Galamsey; Why no carrot outbids g old",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nana Attobrah Quaicoe writes: Playing at the fringes with Galamsey; Why no carrot outbids g old Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBpRE1GN3BvMmtsRkFfRXRKMDVtTHBhNGVHNzdWTmFOaldfM1Z5dVpFc1BNSEpfVHVqNXN3aUhxbFVib01IVWlJeHJYVGxHTFFwVVM1QVRFN3dEMk5zU0UycVJLTW1pZHRCcjJrM0VZaUp1MUxHQlA0SXpZTlJIMWc5Z3hoOVZuWmkxS0M2UUhIU3Q0azYxMmF5WTMweXY4RDE1djBQYmF0eHFVSkpEdFd2cU01MDMyaFE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBpRE1GN3BvMmtsRkFfRXRKMDVtTHBhNGVHNzdWTmFOaldfM1Z5dVpFc1BNSEpfVHVqNXN3aUhxbFVib01IVWlJeHJYVGxHTFFwVVM1QVRFN3dEMk5zU0UycVJLTW1pZHRCcjJrM0VZaUp1MUxHQlA0SXpZTlJIMWc5Z3hoOVZuWmkxS0M2UUhIU3Q0azYxMmF5WTMweXY4RDE1djBQYmF0eHFVSkpEdFd2cU01MDMyaFE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-18-two-confirmed-dead-after-galamsey-pit-collapses-at-sefwi-dat",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Two confirmed dead after galamsey pit collapses at Sefwi Datano",
+      "place": "Sefwi",
+      "region": "Western North",
+      "lat": 6.21,
+      "lon": -2.48,
+      "summary": "Two confirmed dead after galamsey pit collapses at Sefwi Datano 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRURZSFRjelJOaVVNRDdUN3c3UnVaX1VUTzFVYzd5TGxUUkpraG94eEtQOENkTE1mQUZfT0xzZmoySmI3WmJsVjlOQUhsZDJURVljUUpwNWxwb3pZa242a2dNNjdjdmFJSGdpR21zelNGR3JKX19QMk9oeFE4X2FSaUZZYlpkeHVBYlV4TE1yaw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxNRURZSFRjelJOaVVNRDdUN3c3UnVaX1VUTzFVYzd5TGxUUkpraG94eEtQOENkTE1mQUZfT0xzZmoySmI3WmJsVjlOQUhsZDJURVljUUpwNWxwb3pZa242a2dNNjdjdmFJSGdpR21zelNGR3JKX19QMk9oeFE4X2FSaUZZYlpkeHVBYlV4TE1yaw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-western-north"
+    },
+    {
+      "id": "auto-2026-10-18-two-dead-one-missing-after-galamsey-pit-collapse",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Two dead, one missing after galamsey pit collapse",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two dead, one missing after galamsey pit collapse GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlByM2diTjA4VjFyZVBiaTNMQnFCekdHcXlIRHNWQ2pUTGhySGRXaU5meHZjdm1jT09nckMzWG96QXRGakd2akxIck03LTJDSGxZMHdvYnIzc09MMEZJOXlucDZpU1MzTXNHUUJNUGQxR2RHbDAzMUJSSFFYWlV3RUEtQmstb1Z3QVVybXVGM2hpTTVXc29GU21SemM4dFZ3MXNOSGQ4VHBMTzA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlByM2diTjA4VjFyZVBiaTNMQnFCekdHcXlIRHNWQ2pUTGhySGRXaU5meHZjdm1jT09nckMzWG96QXRGakd2akxIck03LTJDSGxZMHdvYnIzc09MMEZJOXlucDZpU1MzTXNHUUJNUGQxR2RHbDAzMUJSSFFYWlV3RUEtQmstb1Z3QVVybXVGM2hpTTVXc29GU21SemM4dFZ3MXNOSGQ4VHBMTzA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-18-small-scale-mining-must-not-leave-residue-of-death-prof-step",
+      "date": "2026-10-18",
+      "category": "water",
+      "title": "Small-scale mining must not leave ‘residue of death’ – Prof Stephen Adei",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Rector of the Ghana Institute of Management and Public Administration (GIMPA), Professor Stephen Adei, has urged the government to enforce responsible small-scale mining practices, warning that Ghana’s gold production must not come at the cost of poisoned rivers, destroyed farmlands and environmental damage.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
     },
     {
       "id": "auto-2026-10-17-galamsey-land-grabs-and-intimidation-a-rocha-ghana-demands-u",
@@ -3326,6 +3404,25 @@
       "archivedAt": "2026-10-07T06:00:28.728Z"
     },
     {
+      "id": "auto-2026-10-06-no-room-for-galamsey-under-my-administration-president-maham",
+      "date": "2026-10-06",
+      "category": "policy",
+      "title": "No room for ‘galamsey’ under my administration – President Mahama warns ministers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "No room for ‘galamsey’ under my administration – President Mahama warns ministers Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkloMjNybXVUdzh6c19aaWhFMXRXbFVmY09Rc3o2N1QyemZndjZtb1pRc3ZoTFdUU0M5RkhBZC1kR2tqbWpsazdaM0FhQlhmUS1MOHFyVGhwenRFVkNfNVdYN2ZRdGRJbEdTWXZuekwzQTVpN05QV1lxaUl2MGZfZTdrZWRQVXhfMjNSOV9xNXlVQmliMDNBZ0w3c0txSkV1cU41aw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkloMjNybXVUdzh6c19aaWhFMXRXbFVmY09Rc3o2N1QyemZndjZtb1pRc3ZoTFdUU0M5RkhBZC1kR2tqbWpsazdaM0FhQlhmUS1MOHFyVGhwenRFVkNfNVdYN2ZRdGRJbEdTWXZuekwzQTVpN05QV1lxaUl2MGZfZTdrZWRQVXhfMjNSOV9xNXlVQmliMDNBZ0w3c0txSkV1cU41aw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-05-both-ndc-and-npp-have-failed-us-efia-odo-on-galamsey",
       "date": "2026-10-05",
       "category": "forest",
@@ -5271,7 +5368,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T21:08:22.211Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-09-26-giisdec-appeals-for-funding-logistics-to-evacuate-abandoned-",
