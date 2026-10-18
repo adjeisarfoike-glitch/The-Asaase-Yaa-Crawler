@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18T11:05:30.983Z",
+  "updated": "2026-10-18T15:56:29.577Z",
   "counts": {
-    "total": 1172,
+    "total": 1175,
     "verified": 28,
-    "automated": 1144,
+    "automated": 1147,
     "earliest": "2024-07-01",
     "latest": "2026-10-18"
   },
@@ -51,22 +51,21 @@
       "id": "auto-2026-10-18-soldiers-to-remain-in-nine-forest-reserves-cleared-of-galams",
       "date": "2026-10-18",
       "category": "forest",
-      "title": "Soldiers to remain in nine forest reserves cleared of galamsey",
+      "title": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "President Mahama says all nine red-zone forest reserves are cleared of galamsey and soldiers will stay to prevent a return, as he urged chiefs to back NAIMOS.",
+      "summary": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama 3News",
       "metrics": {},
       "source": {
-        "name": "Prez Mahama",
-        "url": "https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-18T11:01:32.594Z",
-      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
@@ -126,6 +125,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Two dead after galamsey pit collapses at Sefwi Datano",
+      "place": "Sefwi",
+      "region": "Western North",
+      "lat": 6.21,
+      "lon": -2.48,
+      "summary": "Two people have died after a galamsey pit collapsed on them at Sefwi Datano in the Bodi District of the Western North Region.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/two-dead-after-galamsey-pit-collapses-at-sefwi-datano/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/two-dead-after-galamsey-pit-collapses-at-sefwi-datano/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-western-north"
     },
     {
       "id": "auto-2026-10-17-galamsey-land-grabs-and-intimidation-a-rocha-ghana-demands-u",
@@ -3444,6 +3463,44 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-05-obuasi-airstrip-under-siege-as-galamsey-returns-days-after-s",
+      "date": "2026-10-05",
+      "category": "arrest",
+      "title": "Obuasi airstrip under siege as galamsey returns days after security operation",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Obuasi airstrip under siege as galamsey returns days after security operation Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXlmM01EV2xMVU9tazJGQ3Vlcm5vRzdaN2ZmUU9iU2dFdWx0OEo2N2VVSm92SHk0LUtmY0JPQm15dmEzZy0zOTF0MjFKZW44VklXal9VWldrWE9Pdkh4ekJ2bE4tLVgzcGFNdmttXzZLV0gyeGJfNDliVTZOMkRaUzFyZG8xN3BzNTRfY2F5M19oLWtqTnJjRjIzcGVNWlFSdFRYMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXlmM01EV2xMVU9tazJGQ3Vlcm5vRzdaN2ZmUU9iU2dFdWx0OEo2N2VVSm92SHk0LUtmY0JPQm15dmEzZy0zOTF0MjFKZW44VklXal9VWldrWE9Pdkh4ekJ2bE4tLVgzcGFNdmttXzZLV0gyeGJfNDliVTZOMkRaUzFyZG8xN3BzNTRfY2F5M19oLWtqTnJjRjIzcGVNWlFSdFRYMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-05-how-do-you-award-failure-citizen-questions-ministers-honours",
+      "date": "2026-10-05",
+      "category": "policy",
+      "title": "“‘How do you award failure?”: Citizen questions ministers’ honours amid galamsey concerns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“‘How do you award failure?”: Citizen questions ministers’ honours amid galamsey concerns Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEhFNWJwRHo5UGNlVHdGOGhScndYZWs1OVNTYVU4cVJqMjhNel9RZzRnZUd3TV9CZDlYSDF6ZGpCRkI1aWpyelh3WW1DS0FOc3BvT0lsejU4MjF4VnBCdzhldDRmd2RNYlpWQ08wRWIzUENudldzV2UtRjFSSS1ObWpzcEdHQUZHTE1BZmhra2FQOEU0SGpmb05zZ2g5RTV3bWYzM1JiMXRiQUMz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEhFNWJwRHo5UGNlVHdGOGhScndYZWs1OVNTYVU4cVJqMjhNel9RZzRnZUd3TV9CZDlYSDF6ZGpCRkI1aWpyelh3WW1DS0FOc3BvT0lsejU4MjF4VnBCdzhldDRmd2RNYlpWQ08wRWIzUENudldzV2UtRjFSSS1ObWpzcEdHQUZHTE1BZmhra2FQOEU0SGpmb05zZ2g5RTV3bWYzM1JiMXRiQUMz?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-03-live-baffour-awuah-vs-eoco-petrol-prices-galamsey-and-npp-de",
       "date": "2026-10-03",
       "category": "forest",
@@ -5214,7 +5271,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T21:08:22.211Z",
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-09-26-giisdec-appeals-for-funding-logistics-to-evacuate-abandoned-",
@@ -21559,8 +21616,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXdFano5SmU5QVR1UDZSY0g0cmExeDJZbGF6dk1RM3N2YjZTV3dVdERZdEk2RlJHZzkybzRFR2pwVkJhUFJJT1V0QUZ6Q0FsaWN2bVlMNGh3QjMzV1pDSUFlQVlTVTQxVThVTTBPb2VNQjhYS3hfSWdiOW8zaXpoaVRxaU5DWldyR1RyRVprRUI0U0VSdnVYZlZYWkVpbzdfMlRj?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-28-illegal-mining-ashanti-regsec-impounds-nine-excavators-in-ob"
+      "verified": false
     },
     {
       "id": "auto-2026-08-03-chiefs-queens-who-engage-in-or-aid-galamsey-will-be-prosecut",
@@ -21600,8 +21656,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnNlUlgyMXhvWVFmRTYzSFdRaGl3d1lLMm43RnBxbUNhQ3liRFF0bFY3XzduemYzWnd3UTZpRE5RQWNVbmM2dVlEMVFsU2VVbDdHbTBNdTlyLXN1bFI5ZUJ0T2xrQy1uYUVTRmE4QjY3djRZMlJMV0EtWmtrY2ZiTG1TN2c2LUp3WS1PZHhXODRmckNldWs0YmJRRUdsYjRwVWNMUjhMaVY?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king",
@@ -22514,8 +22569,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtYbTBfTEFUNWxpYVBRVTZjVV9jSG1ybVE3d0R2c09zc1ZCcHZ0eTd0TXhwU1VjRWJDWGJtc1BXNzdmTTlXVWtRSXhnaFF0YkJNTXNidEdvQnQwLXluRy03N185SmZwV1dqT1EyTzVENDF1X19FRXhxYnV5c0VzOE5saG9yREhaU01oMk1xZThGWlVnWVNxcE80MGhiVi1DMlBROXVTMWwwRmM?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
+      "verified": false
     },
     {
       "id": "auto-2026-07-27-wontumi-s-20-year-jail-term-is-not-victory-in-fight-against-",
@@ -23200,7 +23254,8 @@
         "name": "Graphic Online",
         "url": "https://www.graphic.com.gh/news/general-news/ghana-news-galamsey-destroys-9-000-hectares-of-forest-reserves-forestry-commission-research.html"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-fr-western-north"
     },
     {
       "id": "fr-upper-east",
