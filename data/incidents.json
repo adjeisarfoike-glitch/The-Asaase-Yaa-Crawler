@@ -1,13 +1,132 @@
 {
-  "updated": "2026-10-18T04:34:02.019Z",
+  "updated": "2026-10-18T11:05:30.983Z",
   "counts": {
-    "total": 1163,
+    "total": 1172,
     "verified": 28,
-    "automated": 1135,
+    "automated": 1144,
     "earliest": "2024-07-01",
-    "latest": "2026-10-17"
+    "latest": "2026-10-18"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Galamsey: Soldiers to remain in nine cleared forest reserves – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Soldiers to remain in nine cleared forest reserves – Mahama CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamJHQzRscDdZUXdHZmh1RlJ3THloUlZFZGR0MTh2Wk5NWlJHQm1XZVlNeFY5SURSZW54eTN3TWtqX0lXRWNFVzZfREdGNnZRNlk0b1JMV3BwWXF4R1hYc05rbzFZUDlxbUZ4SlZ0VlFtYjZvWHlObGJxV3V2M29nLV9JOW1aUkxQX05Rc1dadUNPMXBteEc3Q0k2TG1OTHBhTkh0R2hBVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNamJHQzRscDdZUXdHZmh1RlJ3THloUlZFZGR0MTh2Wk5NWlJHQm1XZVlNeFY5SURSZW54eTN3TWtqX0lXRWNFVzZfREdGNnZRNlk0b1JMV3BwWXF4R1hYc05rbzFZUDlxbUZ4SlZ0VlFtYjZvWHlObGJxV3V2M29nLV9JOW1aUkxQX05Rc1dadUNPMXBteEc3Q0k2TG1OTHBhTkh0R2hBVQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+    },
+    {
+      "id": "auto-2026-10-18-ghana-s-galamsey-crisis-why-enforcement-alone-will-not-save-",
+      "date": "2026-10-18",
+      "category": "policy",
+      "title": "Ghana’s Galamsey Crisis: Why Enforcement Alone Will Not Save the Country’s Water and Land",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s Galamsey Crisis: Why Enforcement Alone Will Not Save the Country’s Water and Land Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1ZtVFFHZndKNjRiWHRqazFzRVZPVzBSQzZUcEhIcWU1SHdBdlBxQkVMZ3RhanJydjc3MUxUbG56bG81dEp2LUprMnZtMGo4NDBVVk9uM0wxSHFOSzJxN2loNDhLZElnY2YxNDhyeHpuaFVpYXRxN1JTeHRta19MaEVOaEEzeXRvdDBzR2pmSTl5TU5j0gGTAUFVX3lxTE1MM2YtemdGU0VMY2JrbWFSSHRielZiVmVSNzFjb2xWTmpDNXIxdWFUalJPbFpfcV9WUTFZbmxfdlZiZnlJNHI3cUdOd0NJWEVhWFgwdGhnVm92c0NiRWVhMUxaekFFZFQ2LVViWUhVMlREanpUR1p3T2Q1bFhsN2dqbkxCS2diMldDcnMzWVBLUDE2VQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1ZtVFFHZndKNjRiWHRqazFzRVZPVzBSQzZUcEhIcWU1SHdBdlBxQkVMZ3RhanJydjc3MUxUbG56bG81dEp2LUprMnZtMGo4NDBVVk9uM0wxSHFOSzJxN2loNDhLZElnY2YxNDhyeHpuaFVpYXRxN1JTeHRta19MaEVOaEEzeXRvdDBzR2pmSTl5TU5j0gGTAUFVX3lxTE1MM2YtemdGU0VMY2JrbWFSSHRielZiVmVSNzFjb2xWTmpDNXIxdWFUalJPbFpfcV9WUTFZbmxfdlZiZnlJNHI3cUdOd0NJWEVhWFgwdGhnVm92c0NiRWVhMUxaekFFZFQ2LVViWUhVMlREanpUR1p3T2Q1bFhsN2dqbkxCS2diMldDcnMzWVBLUDE2VQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-18-soldiers-to-remain-in-nine-forest-reserves-cleared-of-galams",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Soldiers to remain in nine forest reserves cleared of galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama says all nine red-zone forest reserves are cleared of galamsey and soldiers will stay to prevent a return, as he urged chiefs to back NAIMOS.",
+      "metrics": {},
+      "source": {
+        "name": "Prez Mahama",
+        "url": "https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-18T11:01:32.594Z",
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+    },
+    {
+      "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "President Mahama provides update on galamsey fight in forest reserves",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama provides update on galamsey fight in forest reserves GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnRWZnNxclJqQlk3bEd1YTBxZ1Vlb3ozZTU4a1ZoMFEyMWsxQ0kwbkxUY2pqRm1qNHhkMGR4ZUphMkt2ZGpTbTJmSG5qRC1wS3ZKTlh0NUJlSF81WHFxckpxRHdfVkxMQ2FReW5jczdTVGtHXzFoNkZXRDh2dzIta0Rtc09Dek9uOGg0RWN2VlF6eW1Lc1FNSTM1ZEdGZWxrOGdqN3VnYUNkYkdVS3hsT2xzSXc5NnZJNHE4bW54Rzc2dnd6eG9n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnRWZnNxclJqQlk3bEd1YTBxZ1Vlb3ozZTU4a1ZoMFEyMWsxQ0kwbkxUY2pqRm1qNHhkMGR4ZUphMkt2ZGpTbTJmSG5qRC1wS3ZKTlh0NUJlSF81WHFxckpxRHdfVkxMQ2FReW5jczdTVGtHXzFoNkZXRDh2dzIta0Rtc09Dek9uOGg0RWN2VlF6eW1Lc1FNSTM1ZEdGZWxrOGdqN3VnYUNkYkdVS3hsT2xzSXc5NnZJNHE4bW54Rzc2dnd6eG9n?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-18-soldiers-to-remain-in-nine-cleared-forest-reserves-to-preven",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Soldiers to remain in nine cleared forest reserves to prevent galamsey – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Soldiers to remain in nine cleared forest reserves to prevent galamsey – Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDN4Y0lQbWp4UUFVRFpYeHppT19TeFFka1lXSktGYkNvSkJ0WHhPdFU3ZXFXLTdlUEk1ZUlKdmItbWw2dWx6ek9aX05fSnRvNU12c2VwYXRJQ3BjSTN3dG5qVkJLOXlNQVY2TEx0bERZbnVoZWphMWZMa2M1eDFuSGF5XzJ5bVlvd2VZa2RPT3BremhsUExRNzNJWnhETjJSTEdETkxuOWdEQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZDN4Y0lQbWp4UUFVRFpYeHppT19TeFFka1lXSktGYkNvSkJ0WHhPdFU3ZXFXLTdlUEk1ZUlKdmItbWw2dWx6ek9aX05fSnRvNU12c2VwYXRJQ3BjSTN3dG5qVkJLOXlNQVY2TEx0bERZbnVoZWphMWZMa2M1eDFuSGF5XzJ5bVlvd2VZa2RPT3BremhsUExRNzNJWnhETjJSTEdETkxuOWdEQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+    },
+    {
+      "id": "auto-2026-10-18-bekwai-two-armed-robbers-jailed-40-years-with-hard-labour",
+      "date": "2026-10-18",
+      "category": "prosecution",
+      "title": "Bekwai: Two armed robbers jailed 40 years with hard labour",
+      "place": "Bekwai",
+      "region": "Ashanti",
+      "lat": 6.45,
+      "lon": -1.58,
+      "summary": "The Bekwai Circuit Court has sentenced two men to 20 years’ imprisonment each with hard labour for robbing a motorbike at Edwenase, near Jacobu, in the Amansie Central District of the Ashanti Region. The convicts, 23-year-old galamsey operator Emmanuel Adams and 22-year-old Okada rider Vincent Aidoo, alias Kakai, were sentenced by the court presided over […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
     {
       "id": "auto-2026-10-17-galamsey-land-grabs-and-intimidation-a-rocha-ghana-demands-u",
       "date": "2026-10-17",
@@ -130,8 +249,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/mine-gold-responsibly/2026/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-17T15:32:03.053Z",
-      "thread": "t-pol-2026-07-16-half-year"
+      "archivedAt": "2026-10-17T15:32:03.053Z"
     },
     {
       "id": "auto-2026-10-17-live-news360-big-push-infrastructure-initiative-fight-agains",
@@ -1984,7 +2102,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-13T00:37:41.893Z",
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-10-12-the-fight-against-galamsey-and-it-s-affect-on-the-people-of-",
@@ -3264,6 +3382,64 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJDVmh0TkNFVmM0eVVDNnpkX2pib0NjdW1YbGhLWUlPblZXMGpDbWlrZUxvUmx1MWw4cTE0aHJSTUQ0dTZTTlNZMU5RazJnaGx5TXZXdFFINmJ1V3NtTHh4NGlKMy1ReW5XOTNvdE9wY1hNTmlmaXZ6ZnVodUxSZU03N0NxdGlrSWZpdlI4a1pmNURr?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJDVmh0TkNFVmM0eVVDNnpkX2pib0NjdW1YbGhLWUlPblZXMGpDbWlrZUxvUmx1MWw4cTE0aHJSTUQ0dTZTTlNZMU5RazJnaGx5TXZXdFFINmJ1V3NtTHh4NGlKMy1ReW5XOTNvdE9wY1hNTmlmaXZ6ZnVodUxSZU03N0NxdGlrSWZpdlI4a1pmNURr?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-05-eu-signals-readiness-to-deepen-support-for-ghana-s-anti-gala",
+      "date": "2026-10-05",
+      "category": "forest",
+      "title": "EU signals readiness to deepen support for Ghana’s anti-galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "EU signals readiness to deepen support for Ghana’s anti-galamsey fight Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnhjSHFqbW1jVWc4b0lDNWY4QWVnNGw3cVZBUlBZN3hFM053bzl4QktGaHpmbExnUjhwWTV0cFBYQmFNcTdmbTJtY29pQmxZRk1WQkpqbUJvVmFleDBMdjRHLUNNOVFlZEliWXhxVF9ILVhzb3Y2UkRsZ25DMXUzZ1JyWmJvOGFGa01GSXZDaFpBSDNkSUlFa0dR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnhjSHFqbW1jVWc4b0lDNWY4QWVnNGw3cVZBUlBZN3hFM053bzl4QktGaHpmbExnUjhwWTV0cFBYQmFNcTdmbTJtY29pQmxZRk1WQkpqbUJvVmFleDBMdjRHLUNNOVFlZEliWXhxVF9ILVhzb3Y2UkRsZ25DMXUzZ1JyWmJvOGFGa01GSXZDaFpBSDNkSUlFa0dR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-05-ashanti-police-to-question-blogger-over-galamsey-claims-agai",
+      "date": "2026-10-05",
+      "category": "forest",
+      "title": "Ashanti police to question blogger over galamsey claims against Ahafo Ano South East MP and DCE",
+      "place": "Ahafo Ano",
+      "region": "Ashanti",
+      "lat": 6.85,
+      "lon": -2.1,
+      "summary": "Ashanti police to question blogger over galamsey claims against Ahafo Ano South East MP and DCE Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcU9keTByQ2c5WDVqTUV6dVBPUjRJMlVHVEJmSnNwUUpOZ2l1YWtzTnRjbkZmM0NWc2hOdmZEOUFUMVVzRDlxQkJKZmtBckEzNFNFNkFWcG1jcXZTQ0RaU25US0VnTTF2eVlmTk1OMkZWTERrZ1pORG1EZXJ0dVI3M1c5Zl83Yk5FN1hfYlYtR0oxelFmc0dvZkxQYl9PRFp0cXV3TWc4Zk5ZTTFyTWQ2UmdyOV9tb1FrdWFKWA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxNcU9keTByQ2c5WDVqTUV6dVBPUjRJMlVHVEJmSnNwUUpOZ2l1YWtzTnRjbkZmM0NWc2hOdmZEOUFUMVVzRDlxQkJKZmtBckEzNFNFNkFWcG1jcXZTQ0RaU25US0VnTTF2eVlmTk1OMkZWTERrZ1pORG1EZXJ0dVI3M1c5Zl83Yk5FN1hfYlYtR0oxelFmc0dvZkxQYl9PRFp0cXV3TWc4Zk5ZTTFyTWQ2UmdyOV9tb1FrdWFKWA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-ndf-sensitises-chiefs-on-galamsey-fight-in-ahafo-ano-south-w"
+    },
+    {
+      "id": "auto-2026-10-05-weapons-ghc60-000-seized-as-naimos-busts-chinese-illegal-min",
+      "date": "2026-10-05",
+      "category": "arrest",
+      "title": "Weapons, GHC60,000 seized as NAIMOS busts Chinese illegal mining camp",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Weapons, GHC60,000 seized as NAIMOS busts Chinese illegal mining camp Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0J5U2MzaEtoalJGWkZacGlReWJHRTdDVzh6cjhXaXlFYk00UTlIUEhPbkdRR25MTXlGYU1JTUZlOWNXUHNzcHdTRUwyQzBxMkZjWVJjVFItbHNDMjBuakl3N1ZIQUJ1bHZSS09SbGl2dTZsM05UakxMR3dGSjFiTGpOaURDTy01Z3VmWGZSRzl2WmpSb2tz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxON0J5U2MzaEtoalJGWkZacGlReWJHRTdDVzh6cjhXaXlFYk00UTlIUEhPbkdRR25MTXlGYU1JTUZlOWNXUHNzcHdTRUwyQzBxMkZjWVJjVFItbHNDMjBuakl3N1ZIQUJ1bHZSS09SbGl2dTZsM05UakxMR3dGSjFiTGpOaURDTy01Z3VmWGZSRzl2WmpSb2tz?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -6597,7 +6773,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/why-we-dont-need-china-to-advise-us-frimpong-boateng-on-mining-cooperation/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
     },
     {
       "id": "auto-2026-09-17-at-least-37-illegal-mining-suspects-found-dead-in-nigerian-c",
@@ -7753,7 +7929,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmRfQUxFOTItczg2OWFyQURpQkxzQ0gwdUVDVW1qeXM4Q05nRG5zTldTcnY1cXlBTk1ha3BPenpMeGx3aTA2el9TV0RLeU9QZDEwQnRJS05BZUFuMnNHdDMyREdVWVEya05Sby0yYWZnd1Zzb3pmbWt6dm5JZENWOU83QmRwOGhZRlRFcW1Fdm1yVllUMVBTdnNHYW9CZ05WUmoyT1lkdGYyRl9jZ2pmVDZRNm01UTM4aF9kMw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
     },
     {
       "id": "auto-2026-09-13-ghana-china-deepen-cooperation-to-tackle-illegal-mining",
@@ -7773,7 +7949,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/ghana-china-deepen-cooperation-to-tackle-illegal-mining/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
     },
     {
       "id": "auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of",
@@ -7895,7 +8071,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-woos-china-for-new-mining-partnerships.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
     },
     {
       "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today",
@@ -8740,8 +8916,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/media-must-continue-to-shine-light-on-illegal-mining-lands-minister/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-09-08-lands-ministry-engages-asutifi-north-stakeholders-on-respons",
@@ -17330,7 +17505,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-16-i-m-not-against-enforcing-the-law-duncan-williams-on-prayers",
@@ -17806,8 +17981,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": false
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -19428,7 +19602,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-murtala-mohammed-left-indelible-footprints-at-mest-armah-kofi-buah-eulogises.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
     },
     {
       "id": "auto-2026-08-10-illegal-mining-lures-ghanaian-children-out-of-school-and-int",
@@ -19545,7 +19719,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
@@ -22557,8 +22731,7 @@
         "name": "The Sikaman Times",
         "url": "https://sikamantimes.com/govt-reports-200-anti-galamsey-operations-207-arrests-in-first-half-of-2026/"
       },
-      "verified": true,
-      "thread": "t-pol-2026-07-16-half-year"
+      "verified": true
     },
     {
       "id": "auto-2026-07-16-some-reclamation-contractors-using-galamsey-to-fund-their-wo",
