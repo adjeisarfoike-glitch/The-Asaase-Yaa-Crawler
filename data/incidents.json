@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-18T20:46:03.475Z",
+  "updated": "2026-10-19T04:41:37.425Z",
   "counts": {
-    "total": 1180,
+    "total": 1183,
     "verified": 28,
-    "automated": 1152,
+    "automated": 1155,
     "earliest": "2024-07-01",
     "latest": "2026-10-18"
   },
@@ -45,27 +45,29 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ1ZtVFFHZndKNjRiWHRqazFzRVZPVzBSQzZUcEhIcWU1SHdBdlBxQkVMZ3RhanJydjc3MUxUbG56bG81dEp2LUprMnZtMGo4NDBVVk9uM0wxSHFOSzJxN2loNDhLZElnY2YxNDhyeHpuaFVpYXRxN1JTeHRta19MaEVOaEEzeXRvdDBzR2pmSTl5TU5j0gGTAUFVX3lxTE1MM2YtemdGU0VMY2JrbWFSSHRielZiVmVSNzFjb2xWTmpDNXIxdWFUalJPbFpfcV9WUTFZbmxfdlZiZnlJNHI3cUdOd0NJWEVhWFgwdGhnVm92c0NiRWVhMUxaekFFZFQ2LVViWUhVMlREanpUR1p3T2Q1bFhsN2dqbkxCS2diMldDcnMzWVBLUDE2VQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-19T04:37:09.998Z"
     },
     {
       "id": "auto-2026-10-18-soldiers-to-remain-in-nine-forest-reserves-cleared-of-galams",
       "date": "2026-10-18",
       "category": "forest",
-      "title": "Soldiers to remain in nine forest reserves cleared of galamsey",
+      "title": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "President Mahama says all nine red-zone forest reserves are cleared of galamsey and soldiers will stay to prevent a return, as he urged chiefs to back NAIMOS.",
+      "summary": "Soldiers to remain in nine forest reserves cleared of galamsey - Prez Mahama 3News",
       "metrics": {},
       "source": {
-        "name": "Prez Mahama",
-        "url": "https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/soldiers-to-remain-in-nine-forest-reserves-cleared-of-galamsey-prez-mahama",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNMZTFGWVlHSWFiQlV2alFKU0c4QjhtNlpnOGNFUko2a3RxZ3RaUEN2YjkzQnpqR1VDOEE3YTE3RjRURnhPTlVHTnlTU183dFRRd1k4T0NFZ1cxck9NMUsxX1VOWWNxRUExNlVocHJYMmRTblZKTThKQkQyVll2aktyRkE2NzVsc21fZGlMdXI0azhtOEUyOW8ybkRIdw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+      "archivedAt": "2026-10-19T04:37:39.121Z",
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
@@ -163,7 +165,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQOXBpRE1GN3BvMmtsRkFfRXRKMDVtTHBhNGVHNzdWTmFOaldfM1Z5dVpFc1BNSEpfVHVqNXN3aUhxbFVib01IVWlJeHJYVGxHTFFwVVM1QVRFN3dEMk5zU0UycVJLTW1pZHRCcjJrM0VZaUp1MUxHQlA0SXpZTlJIMWc5Z3hoOVZuWmkxS0M2UUhIU3Q0azYxMmF5WTMweXY4RDE1djBQYmF0eHFVSkpEdFd2cU01MDMyaFE?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-18-nana-attobrah-quaicoe-writes-playing-at-the-fringes-with-gal"
     },
     {
       "id": "auto-2026-10-18-two-confirmed-dead-after-galamsey-pit-collapses-at-sefwi-dat",
@@ -223,6 +226,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
+    },
+    {
+      "id": "auto-2026-10-18-playing-at-the-fringes-with-galamsey-why-no-carrot-outbids-g",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Playing at the Fringes with Galamsey: Why no Carrot outbids Gold - Nana Attobrah Quaicoe writes",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Playing at the Fringes with Galamsey: Why no Carrot outbids Gold - Nana Attobrah Quaicoe writes CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlVVdnY2d3JrcGxreTFJTEphbEdkYmhKeUV1bm8xeHNkakRBcFN5QnBGVVEwNHVXZHZpaHFjTl9UY1JkSE9qYVJ1UENIUmFSUS1RWVFCLXYwelhpN2xHbVpld1BGNlotZVMwZ2k4aTJHUVR5aFRGWmlRai1QYnZ0QW1ESkdDTnBld0QydWNFOUcyMkpDc1ZXcDE3c21vSmdNWjdnS1FoekU3cndUVGV2YVVVOFNSRS1RaGRLNnhzMkZDb1RBWk5VemJ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxNYlVVdnY2d3JrcGxreTFJTEphbEdkYmhKeUV1bm8xeHNkakRBcFN5QnBGVVEwNHVXZHZpaHFjTl9UY1JkSE9qYVJ1UENIUmFSUS1RWVFCLXYwelhpN2xHbVpld1BGNlotZVMwZ2k4aTJHUVR5aFRGWmlRai1QYnZ0QW1ESkdDTnBld0QydWNFOUcyMkpDc1ZXcDE3c21vSmdNWjdnS1FoekU3cndUVGV2YVVVOFNSRS1RaGRLNnhzMkZDb1RBWk5VemJ3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-18-nana-attobrah-quaicoe-writes-playing-at-the-fringes-with-gal"
+    },
+    {
+      "id": "auto-2026-10-18-small-scale-miners-blame-govt-for-galamsey-surge-over-three-",
+      "date": "2026-10-18",
+      "category": "forest",
+      "title": "Small scale miners blame govt for galamsey surge over three-year permit freeze",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Small scale miners blame govt for galamsey surge over three-year permit freeze 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ05RMHhuY0thdkRWOWpHLU9LNFJKTGdPX3ZuT3RRVUsybXdtXzRhUnpQUXh4LTBOUVI1azdHXzVxY0hZUG5mZ0tnMG8xdE9pSlJuWlV0TG00U3hQMGFka2cwU0hCMkNHWF8xNV94WVNiam9jQ3paSVpXSGNpWWh4WWk2Z3hSY3MwY3F4TlRLTUJKOVFHbG5VMkQzNmpIakZ0bGNn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ05RMHhuY0thdkRWOWpHLU9LNFJKTGdPX3ZuT3RRVUsybXdtXzRhUnpQUXh4LTBOUVI1azdHXzVxY0hZUG5mZ0tnMG8xdE9pSlJuWlV0TG00U3hQMGFka2cwU0hCMkNHWF8xNV94WVNiam9jQ3paSVpXSGNpWWh4WWk2Z3hSY3MwY3F4TlRLTUJKOVFHbG5VMkQzNmpIakZ0bGNn?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-17-galamsey-land-grabs-and-intimidation-a-rocha-ghana-demands-u",
@@ -1132,8 +1174,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0JSZ3ctV245LWZsWWcxRnVKUG84X3FTdW1RZW96dHlGU3RwNDRfOUI5cmx1ZEFXNENJTDlRVVhseHAxWjVTSzVNY3U3U0V6c1BiR1FNNEE0UlY4YU1jQV90ZnBmX3F1UXprZGV4bWZuWWNhNEJvQnpERnl3Yk5OOWNoYnBDck1lUkh0SEl4SFFOYUtUR01UM3M5WGZnejJoQWVmREUwdGczRzdOa3lxZXdxNzR4aFdoc1UxUjRMbGhxUQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
+      "verified": false
     },
     {
       "id": "auto-2026-10-15-stop-begging-chiefs-and-fix-galamsey-menace-dr-solomon-owusu",
@@ -3423,6 +3464,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-06-wilberforce-asare-mining-on-a-legally-acquired-concession-ca",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Wilberforce Asare: 'Mining on a legally acquired concession cannot be referred to as illegal mining'",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wilberforce Asare: 'Mining on a legally acquired concession cannot be referred to as illegal mining' Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUxhVVZrTGlXM3cxRXBkVzRzMmFsY1B0cEZFdkNrcDNKc0Y1cFNWdWdENTJUeC1TdFUwUmZDbkxEZlNEOWs0djJwbHdJTjgyWGYzdENMd2lwSS16SmJPUlZrTWFwZG1KTDQ2LVp6cHJMaWRKOURnU0dEejctMVR2Q00zVU0wVFFpZFNuS3MzQU1MUWlpT0R3ZGJfMUg1Y1B0eER4X1JIV3B3a1ZlS05DRGtNTVVETkFQWC1aQW5zVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUxhVVZrTGlXM3cxRXBkVzRzMmFsY1B0cEZFdkNrcDNKc0Y1cFNWdWdENTJUeC1TdFUwUmZDbkxEZlNEOWs0djJwbHdJTjgyWGYzdENMd2lwSS16SmJPUlZrTWFwZG1KTDQ2LVp6cHJMaWRKOURnU0dEejctMVR2Q00zVU0wVFFpZFNuS3MzQU1MUWlpT0R3ZGJfMUg1Y1B0eER4X1JIV3B3a1ZlS05DRGtNTVVETkFQWC1aQW5zVQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-05-both-ndc-and-npp-have-failed-us-efia-odo-on-galamsey",
       "date": "2026-10-05",
       "category": "forest",
@@ -5368,7 +5428,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T21:08:22.211Z",
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-09-26-giisdec-appeals-for-funding-logistics-to-evacuate-abandoned-",
@@ -22608,8 +22668,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
+      "verified": false
     },
     {
       "id": "auto-2026-07-28-galamsey",
