@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19T13:15:17.530Z",
+  "updated": "2026-10-19T22:23:44.827Z",
   "counts": {
-    "total": 1192,
+    "total": 1220,
     "verified": 28,
-    "automated": 1164,
+    "automated": 1192,
     "earliest": "2024-07-01",
     "latest": "2026-10-19"
   },
@@ -44,7 +44,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3l2ajBFNnhrR3BrZW5JV185SVZPWXJsaTdGZHNMTnluckpXX3VzT04tY0tlNEhGRDhIX1dPVmJYWXktOVctcHdFa0l1R3F2UDVHRGVUSkROTzJVYzVWWGdFWUh3SXZqbzM5RTUtd2hXUUZRTzhqc2VFWUxPSWt1eVU5elZHN1BpT2R2WjJhXzRydWJCbWl2bVVNRXl4S0VZSGJveXprdUVJUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-19T22:19:54.817Z"
     },
     {
       "id": "auto-2026-10-19-naimos-destroys-92-chanfang-machines-arrests-three-suspected",
@@ -65,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlhXb1JSX3BaV25KZW1CZ3RJUFRfdk16dGtpRFhlSnBHemZoQXUxQ0I2UHpHZW41eHNnSnZDLVRiY2N1WldjckhQSlE2YnQ3UTVYZU5WRm4xeExXTHJlZFhYNlJRbVdyWmhNWVdQZWlZZGpTMWhoLWVjWXdKOXQ4TlFxWGFnbDBmMjA2RHppY09PdVBvdGhSVXgwa9IBmgFBVV95cUxNR2VkYUYyYlNidmkyQXZaRTQwb0VyN3N0V0V6RzNZai1RSHdPYVZpaFpIMGpFZ3N6eVBsWVk3NFlGV0hzd0pWNU5nTE1CbzB6SjdoN3Z0QXBhbkZ5ZVRzOUxjZ1VXajBPNjVEeE9oX0E1bzV5am1LVEtPaDFOWlFzYnRHSmJhVFV0NHRfNDY1M2lIQVN4bkhLV3p3?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-19T22:20:20.221Z"
     },
     {
       "id": "auto-2026-10-19-when-they-mentioned-1-3-3-jobs-maybe-they-meant-galamsey-the",
@@ -168,6 +170,510 @@
       "thread": "t-auto-2026-08-28-bawumia-discusses-reforms-to-promote-responsible-mining-with"
     },
     {
+      "id": "auto-2026-10-19-gh-400million-to-be-allocated-for-reclamation-of-galamsey-de",
+      "date": "2026-10-19",
+      "category": "reclamation",
+      "title": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "President Mahama",
+        "url": "https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-19-mahama-says-135-excavators-nearly-200-firearms-seized-in-gal",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "Mahama says 135 excavators, nearly 200 firearms seized in galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama says 135 excavators, nearly 200 firearms seized in galamsey fight Asaase Radio",
+      "metrics": {
+        "excavators": 135
+      },
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzFjb1FfUl9yeHpUWnZEUEx0UkJWSHNPUUx6eDFKYUlYY2dpQmdrRnNCX2hjOHdIMGU5bENfMkFHeEppbmNPSjZzYWJYTExJNm45RHUyVFlNZnNPd0NORmhEWDRVX0hGMndHUXlVSTVlb3JYWjgtcUo3bENKTm53NFBjLUlvejlZQkctMHl5akFxZnpWNk9oNzJobjc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzFjb1FfUl9yeHpUWnZEUEx0UkJWSHNPUUx6eDFKYUlYY2dpQmdrRnNCX2hjOHdIMGU5bENfMkFHeEppbmNPSjZzYWJYTExJNm45RHUyVFlNZnNPd0NORmhEWDRVX0hGMndHUXlVSTVlb3JYWjgtcUo3bENKTm53NFBjLUlvejlZQkctMHl5akFxZnpWNk9oNzJobjc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-mahama-announces-gh-200m-for-reclamation-of-lands-destroyed-",
+      "date": "2026-10-19",
+      "category": "reclamation",
+      "title": "Mahama announces GH¢200m for reclamation of lands destroyed by galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama announces GH¢200m for reclamation of lands destroyed by galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzVZdFl1TVZVdVVfeDR2Y0J6UG5yamp1ZG1BRzd4aTlkS3JFSlRSb205ZjZHYmlPSjh0N0FsS3ExVHZHOWFydHpSQXNURTNYLUtuNHVVN0xuYlIydm8ybzhBT3B3TTcyQ1F0QnB6RUxCbHQ1SGhQajJ6QmwzZF9DZWU3RXg3S190V3VaVktCMzRVdkl1VEtWMnpB0gGYAUFVX3lxTE15MGYtLXEzdHRQcURhTmFjM2FyUjVwX282VzJ3MkE2UTlsSmx6TnByZkVsMG12U3ZNN0JreVJheXFKUkpHWmVyU0JYMXNaZFFDd1JHRFRjSGF6dGhRaWUydVVaUDlnWjdaRVBNTVdaU1BvRV9qZlNIUzFFb1hzNGNIdFZ4NkpTUmFMMk5NZUotc18xd0xsdndr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzVZdFl1TVZVdVVfeDR2Y0J6UG5yamp1ZG1BRzd4aTlkS3JFSlRSb205ZjZHYmlPSjh0N0FsS3ExVHZHOWFydHpSQXNURTNYLUtuNHVVN0xuYlIydm8ybzhBT3B3TTcyQ1F0QnB6RUxCbHQ1SGhQajJ6QmwzZF9DZWU3RXg3S190V3VaVktCMzRVdkl1VEtWMnpB0gGYAUFVX3lxTE15MGYtLXEzdHRQcURhTmFjM2FyUjVwX282VzJ3MkE2UTlsSmx6TnByZkVsMG12U3ZNN0JreVJheXFKUkpHWmVyU0JYMXNaZFFDd1JHRFRjSGF6dGhRaWUydVVaUDlnWjdaRVBNTVdaU1BvRV9qZlNIUzFFb1hzNGNIdFZ4NkpTUmFMMk5NZUotc18xd0xsdndr?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-mahama-135-excavators-nearly-200-firearms-seized-in-galamsey",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "Mahama: 135 excavators, nearly 200 firearms seized in galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama: 135 excavators, nearly 200 firearms seized in galamsey fight CitiNewsroom.com",
+      "metrics": {
+        "excavators": 135
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlJKSWhKd0VPMHNtaFlpcDdfX3praUp3ZWxNbVFNVWdLME80aUVkUm1tUGpDdUVIbFdtX3JEU0pWRDBrcWZMdDZUbzY2djdnMXg0SzZjTV9LYUxTdkFjU0F6ZzFRWFptQjJjamU4dm05OTlOX2FMak1KUC1xR3NfQmpqZUdxMTA0eFE2c2pGSVBJTUNFOUZyd2JXbHV3SmhFWjB3MFhuMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlJKSWhKd0VPMHNtaFlpcDdfX3praUp3ZWxNbVFNVWdLME80aUVkUm1tUGpDdUVIbFdtX3JEU0pWRDBrcWZMdDZUbzY2djdnMXg0SzZjTV9LYUxTdkFjU0F6ZzFRWFptQjJjamU4dm05OTlOX2FMak1KUC1xR3NfQmpqZUdxMTA0eFE2c2pGSVBJTUNFOUZyd2JXbHV3SmhFWjB3MFhuMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-western-region-36-galamsey-cases-pending-in-court-1-103-chan",
+      "date": "2026-10-19",
+      "category": "prosecution",
+      "title": "Western Region: 36 galamsey cases pending in court; 1,103 changfan machines burnt",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "Western Region: 36 galamsey cases pending in court; 1,103 changfan machines burnt CitiNewsroom.com",
+      "metrics": {
+        "changfan": 1103
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVFyLUh2VmZsaEVzdGM1dDdMeHBlVFlpRkp5cVRxOW16OUQyZVo1RVVVbkFTSUt5cUhXZlJMMVhVX2JhWkhFcGpNQWZwOTExX1pCcWFmNzVCNWhDSkRmc2lURVZSTVdDclVyQ0pfVWhheUJJSTA5WS1mQ3JMdXFYak1jcTVMYUVrY3NoaWJHTk5xdHBYTDhUWl82TWVnU0p2a0VrTV9YYzBpaGhRWVBUWTRMUlktUkE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVFyLUh2VmZsaEVzdGM1dDdMeHBlVFlpRkp5cVRxOW16OUQyZVo1RVVVbkFTSUt5cUhXZlJMMVhVX2JhWkhFcGpNQWZwOTExX1pCcWFmNzVCNWhDSkRmc2lURVZSTVdDclVyQ0pfVWhheUJJSTA5WS1mQ3JMdXFYak1jcTVMYUVrY3NoaWJHTk5xdHBYTDhUWl82TWVnU0p2a0VrTV9YYzBpaGhRWVBUWTRMUlktUkE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-government-retrieves-nearly-200-firearms-seizes-135-excavato",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "Government retrieves nearly 200 firearms, seizes 135 excavators in anti-galamsey fight.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government retrieves nearly 200 firearms, seizes 135 excavators in anti-galamsey fight. Modern Ghana",
+      "metrics": {
+        "excavators": 135
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uV0lWSHNKd3IwOUdTLW9QZlhQRjJpVHFDRHlvMHBvcEhRYVlwMm51LUFIdlR4dkhRUXF3N3ZYXzBFeHJadkg2UWRabmhKQWtvWl9WTW1lV0FwTkxFMFl6WlpuN0fSAVxBVV95cUxQMU5kYzdHTFotdkRGY2czSFAtOGx2Wm1qa0pSbERqd0I3R0lGTlJsb2ZpZXRGa1h3TW9lb2ltOVZJSUdGbTh2eXB3cjZzbGRLR2wtYWZIdzJVY3BJcg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uV0lWSHNKd3IwOUdTLW9QZlhQRjJpVHFDRHlvMHBvcEhRYVlwMm51LUFIdlR4dkhRUXF3N3ZYXzBFeHJadkg2UWRabmhKQWtvWl9WTW1lV0FwTkxFMFl6WlpuN0fSAVxBVV95cUxQMU5kYzdHTFotdkRGY2czSFAtOGx2Wm1qa0pSbERqd0I3R0lGTlJsb2ZpZXRGa1h3TW9lb2ltOVZJSUdGbTh2eXB3cjZzbGRLR2wtYWZIdzJVY3BJcg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-government-has-seized-8-200-items-in-anti-galamsey-fight-pre",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "Government Has Seized 8,200 Items in Anti-Galamsey Fight - Prez Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government Has Seized 8,200 Items in Anti-Galamsey Fight - Prez Mahama Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fMC01Qlh4QlRITmRsbjdwUl9QUHhhR1dmYV9kWWo5U01zZEJ3c0d1a0dxUEpYdVJfYXdaazc1NnpxMkEzNE9wOTFJT2pZNnpoR2lSbVBmRWtLMWZyOHBQREJWNNIBXEFVX3lxTE9yNWtSSGRtS0F6RVYxUC14YUotdDZEaTkyOUN4SUREbmdlNnZocmo3V3JxMWNQMjFicl9xWk90NzR0OFF3SktKVUFoZzJyNlJyNlBuY3ZfM3M3dEZq?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fMC01Qlh4QlRITmRsbjdwUl9QUHhhR1dmYV9kWWo5U01zZEJ3c0d1a0dxUEpYdVJfYXdaazc1NnpxMkEzNE9wOTFJT2pZNnpoR2lSbVBmRWtLMWZyOHBQREJWNNIBXEFVX3lxTE9yNWtSSGRtS0F6RVYxUC14YUotdDZEaTkyOUN4SUREbmdlNnZocmo3V3JxMWNQMjFicl9xWk90NzR0OFF3SktKVUFoZzJyNlJyNlBuY3ZfM3M3dEZq?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-19-maybe-when-they-mentioned-1-3-3-jobs-they-meant-galamsey-bec",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "‘Maybe When They Mentioned 1:3:3 Jobs, They Meant Galamsey Because The Menace Has Tripled’ - Bawumia Slams Govt",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘Maybe When They Mentioned 1:3:3 Jobs, They Meant Galamsey Because The Menace Has Tripled’ - Bawumia Slams Govt Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTBFaldRdlM3dDQ5UEdTbnZtZTMtc201LUIyZXg1YW9kSFF1UkcyaHhqaksyaFZuSXFINDQ2VFU3NTV5cGdRSlZlT0dDQnkyTS1NN2NXWWktRnlzN0FIN3Zldzhyai04SGJKZU1pbVEyaFV2Y3dOUFl0eGFaQmNrVmo1dUQtTkxmNk5RVGt4VHVNdXQweGczeVBiM2Jnb0JTMHlHTzRPaDRnMGJKbTVaMEh5MGt1UmI2NVlQbjZGQ0lpRWJxSXhPSUlLTTY1YXUxR3ZCbUJTZFpQV3g2UWQ4NzFKTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRTBFaldRdlM3dDQ5UEdTbnZtZTMtc201LUIyZXg1YW9kSFF1UkcyaHhqaksyaFZuSXFINDQ2VFU3NTV5cGdRSlZlT0dDQnkyTS1NN2NXWWktRnlzN0FIN3Zldzhyai04SGJKZU1pbVEyaFV2Y3dOUFl0eGFaQmNrVmo1dUQtTkxmNk5RVGt4VHVNdXQweGczeVBiM2Jnb0JTMHlHTzRPaDRnMGJKbTVaMEh5MGt1UmI2NVlQbjZGQ0lpRWJxSXhPSUlLTTY1YXUxR3ZCbUJTZFpQV3g2UWQ4NzFKTQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-the-oda-mce-is-taxing-galamsey-aaron-asiedu-antwi"
+    },
+    {
+      "id": "auto-2026-10-19-135-excavators-seized-in-galamsey-fight-ayilo-warning-headma",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "135 Excavators Seized in Galamsey Fight | Ayilo Warning, Headmaster Abuse Case & More |Joy NewsPrime",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "135 Excavators Seized in Galamsey Fight | Ayilo Warning, Headmaster Abuse Case & More |Joy NewsPrime Modern Ghana",
+      "metrics": {
+        "excavators": 135
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zZUlRREU5TFRGaFd0UGkxRFFSYmJKYzJTWHFFZk0zZ0NmQ0F6M3FiUWVyR0pIcmpJN1ZKMmFheWo3WW01ZEpPTFU0RTlCWjdiYVRJOGJHcFdsT0xqSktkWjE5SzDSAVxBVV95cUxNSVhrc2VvcTFoQ3h6SW5UNVNmT2s0M3BVaGVGVDhKakVDcGpOX3VUSTJGZ1BkaWVJa2t4WlhNR3dRc29nbVhMWURXeDc2SEZ5VUFTTW9PcWtBcm1iOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zZUlRREU5TFRGaFd0UGkxRFFSYmJKYzJTWHFFZk0zZ0NmQ0F6M3FiUWVyR0pIcmpJN1ZKMmFheWo3WW01ZEpPTFU0RTlCWjdiYVRJOGJHcFdsT0xqSktkWjE5SzDSAVxBVV95cUxNSVhrc2VvcTFoQ3h6SW5UNVNmT2s0M3BVaGVGVDhKakVDcGpOX3VUSTJGZ1BkaWVJa2t4WlhNR3dRc29nbVhMWURXeDc2SEZ5VUFTTW9PcWtBcm1iOA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-19-we-won-t-cede-even-1-square-metre-of-forest-reserves-to-gala",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "We won’t cede even 1 square metre of Forest Reserves to Galamsey — FSD Western Regional Manager",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "We won’t cede even 1 square metre of Forest Reserves to Galamsey — FSD Western Regional Manager 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb21qWEFxbVRueDBqNWNTeTBMcGVmbmMyWUNDQVJfT3RVX0Vxc09UczlBaEp5RXYyMHpGQW16M3NJZzVoWFcyeFpaTGV0cDdZYjd5Sk1YNkR2RlFBT0w2ajZnSW51X1NoMXB3aDRpcWpIM3A3ZkFBVXd1Wjg4QktSalVMSEtLeDhNb3M3RGt3Smc5V1dib3haSmt4NnB3Tkd3MmxpWkpVTDRUZFNHTWExMWdxMVdpQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxPb21qWEFxbVRueDBqNWNTeTBMcGVmbmMyWUNDQVJfT3RVX0Vxc09UczlBaEp5RXYyMHpGQW16M3NJZzVoWFcyeFpaTGV0cDdZYjd5Sk1YNkR2RlFBT0w2ajZnSW51X1NoMXB3aDRpcWpIM3A3ZkFBVXd1Wjg4QktSalVMSEtLeDhNb3M3RGt3Smc5V1dib3haSmt4NnB3Tkd3MmxpWkpVTDRUZFNHTWExMWdxMVdpQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ"
+    },
+    {
+      "id": "auto-2026-10-19-48-forest-reserves-affected-by-galamsey-nine-red-zones-clear",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "48 forest reserves affected by galamsey, nine red zones cleared – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "48 forest reserves affected by galamsey, nine red zones cleared – Mahama Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMEx4UllqVFNIZHhfemlGSjM0ODJUNTI5dkR0d0RVT2ppaW5OX2ozQmM5VHpjWlp5bl95Mnl0YU10Y2I1UjlwSDI1WThwcWRLQUpma2VoU2k1TEgwMFd5eTdtMU1yOGY5MW9LNXV2emdjTkVWdXFFbGV2YjRzcXFWbFRWY0lMejNEaVJvZTlXNHVZTHFRbkZ0TlZMdS1zZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOMEx4UllqVFNIZHhfemlGSjM0ODJUNTI5dkR0d0RVT2ppaW5OX2ozQmM5VHpjWlp5bl95Mnl0YU10Y2I1UjlwSDI1WThwcWRLQUpma2VoU2k1TEgwMFd5eTdtMU1yOGY5MW9LNXV2emdjTkVWdXFFbGV2YjRzcXFWbFRWY0lMejNEaVJvZTlXNHVZTHFRbkZ0TlZMdS1zZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-fight-against-galamsey-naimos-intensifies-operations-to-prot",
+      "date": "2026-10-19",
+      "category": "water",
+      "title": "Fight Against Galamsey: NAIMOS intensifies operations to protect Tano River from illegal mining",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Fight Against Galamsey: NAIMOS intensifies operations to protect Tano River from illegal mining Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnNjhBeUJ2TmwwalBscHZMWWZWeDNfYjVsQld4T0EzTmlOX1o0cVY3b09NVFFTb0lUZldkVEF6SmtYbGlhcWZHTl9QQmVCUHdfN3ZJOWFtd1dySTBHOENYbk1kSnrSAVxBVV95cUxNcDBQQ1dGUkxQdFU5TWY1cTdBaEIwLXk3UWVRZ3JCaEZXTjFiTXFSZkpnUEt3SVk2VlI5ZnN1UFBzSkRtMGZsVVVqbG1tbXNfQkRqNUxweUsydVRLTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnNjhBeUJ2TmwwalBscHZMWWZWeDNfYjVsQld4T0EzTmlOX1o0cVY3b09NVFFTb0lUZldkVEF6SmtYbGlhcWZHTl9QQmVCUHdfN3ZJOWFtd1dySTBHOENYbk1kSnrSAVxBVV95cUxNcDBQQ1dGUkxQdFU5TWY1cTdBaEIwLXk3UWVRZ3JCaEZXTjFiTXFSZkpnUEt3SVk2VlI5ZnN1UFBzSkRtMGZsVVVqbG1tbXNfQkRqNUxweUsydVRLTA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-the-fight-against-galamsey-who-is-deceiving-whom-the-governm",
+      "date": "2026-10-19",
+      "category": "policy",
+      "title": "The Fight Against Galamsey: Who is Deceiving Whom, the Government or the Public?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Fight Against Galamsey: Who is Deceiving Whom, the Government or the Public? GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zbUNyaXZOUUh4dXYyTTlGVExjblJRUHhTSUlxaHZMRFQ1UExsdkRfaEl1bHJFMW1ULWV2a2dqZm4xdHlQMGRuM0F4RVVlbTI4N19KZWEtUW05MnkxdGJSZWswczFDbzZFRUdkRUFB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMibkFVX3lxTE4zbUNyaXZOUUh4dXYyTTlGVExjblJRUHhTSUlxaHZMRFQ1UExsdkRfaEl1bHJFMW1ULWV2a2dqZm4xdHlQMGRuM0F4RVVlbTI4N19KZWEtUW05MnkxdGJSZWswczFDbzZFRUdkRUFB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-the-fight-against-galamsey-who-is-deceiving-whom-the-governm"
+    },
+    {
+      "id": "auto-2026-10-19-2026-mining-in-motion-conference-local-refining-sustainabili",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "2026 Mining in Motion Conference: Local Refining, Sustainability and the Fight Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "2026 Mining in Motion Conference: Local Refining, Sustainability and the Fight Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vVUtyTnN5dzBtR254dGt1QXZ5RkZfVU5wdXpNSElab0JqNTFkaEhrVUdMM0VsaFBVUUxYRUF3REJiZy0tZFFWRkFCU19LblRLcHUxNzdScW8yOFd2UlFQcGI3X3TSAVxBVV95cUxPbjNld1FvcnRXTzJSNVA1SDMzYUZMY1dLLTVLNWFRV2ZmckcxcnhBSTJnRjAzTTNycU1BZkxOQjM0UUxXelRLb20zRVlycHNfOWFISUR2UVlHYmppeg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vVUtyTnN5dzBtR254dGt1QXZ5RkZfVU5wdXpNSElab0JqNTFkaEhrVUdMM0VsaFBVUUxYRUF3REJiZy0tZFFWRkFCU19LblRLcHUxNzdScW8yOFd2UlFQcGI3X3TSAVxBVV95cUxPbjNld1FvcnRXTzJSNVA1SDMzYUZMY1dLLTVLNWFRV2ZmckcxcnhBSTJnRjAzTTNycU1BZkxOQjM0UUxXelRLb20zRVlycHNfOWFISUR2UVlHYmppeg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-10-19-wassa-esaman-forestry-commission-immobilizes-vehicles-and-mi",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "Wassa Esaman: Forestry Commission immobilizes vehicles and mining accessories in forest reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Wassa Esaman: Forestry Commission immobilizes vehicles and mining accessories in forest reserve GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFlLSlctdWwya3habXVOMWtYQ0lvNHRkT2EyVmJSdENOYXk4ZmZhcDZiMVM3Ujl3Njg1MzBYeklEdWZvdDJUWDdjNW50a3ctVkw0R2pXZDQxY3Fqb0VPbXpVWG16V0RRX2tqaWV6WTVfclBMb1Itd2tlN291aHFoZUVPSTQwdms3cUo1OXRWQnUtQ0ZBcXg0UVRrTmxuRkJKb2hHRDk3UEw2SkxQajc2TEloUHpsanpqc19LQWloVGt6YkRpeW5rbkhwR3cta0VDY0d3b3NyeUpMcjdX?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFlLSlctdWwya3habXVOMWtYQ0lvNHRkT2EyVmJSdENOYXk4ZmZhcDZiMVM3Ujl3Njg1MzBYeklEdWZvdDJUWDdjNW50a3ctVkw0R2pXZDQxY3Fqb0VPbXpVWG16V0RRX2tqaWV6WTVfclBMb1Itd2tlN291aHFoZUVPSTQwdms3cUo1OXRWQnUtQ0ZBcXg0UVRrTmxuRkJKb2hHRDk3UEw2SkxQajc2TEloUHpsanpqc19LQWloVGt6YkRpeW5rbkhwR3cta0VDY0d3b3NyeUpMcjdX?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-galamsey-crackdown-naimos-taskforce-destroys-cars-motorcycle",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "Galamsey crackdown: NAIMOS taskforce destroys cars, motorcycles at Essaman",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey crackdown: NAIMOS taskforce destroys cars, motorcycles at Essaman GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0MwS2tRb0tmMDY0YzdGZ0ZDX19RNEpJY1pVb0gzRmpndGRpNlpfWElVT1oxNjJhVlBJMF84cGVHT3pjTUp1SWx1S29CU0RVOGZiWjFYS1hYcXhJbXVGanJKWUlqamthRGVMOEdzWjZxTzdhcnRYaEdSM1Rhb2ttem5RWXdZZXlmUFdpUlI2Q3lfdlh4al9OMFJ4a1ZJZnNFR0duX2VwbEs3ckpyeG5QMVYyM0d3blJLaWdtYVZjU2ZuZFZrbG1V?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0MwS2tRb0tmMDY0YzdGZ0ZDX19RNEpJY1pVb0gzRmpndGRpNlpfWElVT1oxNjJhVlBJMF84cGVHT3pjTUp1SWx1S29CU0RVOGZiWjFYS1hYcXhJbXVGanJKWUlqamthRGVMOEdzWjZxTzdhcnRYaEdSM1Rhb2ttem5RWXdZZXlmUFdpUlI2Q3lfdlh4al9OMFJ4a1ZJZnNFR0duX2VwbEs3ckpyeG5QMVYyM0d3blJLaWdtYVZjU2ZuZFZrbG1V?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-48-of-ghana-s-288-forest-reserves-affected-by-galamsey-maham",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "48 of Ghana’s 288 forest reserves affected by galamsey – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "48 of Ghana’s 288 forest reserves affected by galamsey – Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdENaNWZjajl2dkk1VVZ3QmNBYVhSeVdGNlY2bzVMTzVQQUZsVWVrcU5uR25fdHZ4TVhaWDBZUEEyenRUamVGSE5WUDNLU1hRUHBtNzZNM3dkbDViM0JYeUktTmVMS211ZjVIMnlZLWdjZjA4aks3dm1oaDhCYThHZTlCZHNjdFdPbWhwYjA4VjRlOVE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOdENaNWZjajl2dkk1VVZ3QmNBYVhSeVdGNlY2bzVMTzVQQUZsVWVrcU5uR25fdHZ4TVhaWDBZUEEyenRUamVGSE5WUDNLU1hRUHBtNzZNM3dkbDViM0JYeUktTmVMS211ZjVIMnlZLWdjZjA4aks3dm1oaDhCYThHZTlCZHNjdFdPbWhwYjA4VjRlOVE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-mahama-reveals-scale-of-galamsey-encroachment-on-forest-rese",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "Mahama reveals scale of galamsey encroachment on forest reserves",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama reveals scale of galamsey encroachment on forest reserves GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGVnazNlZW1zVUxPR1ZwbUdOZ0RoU2kyMTVkaFdyZ3p1MDh3SGhLYXJrYXRQWS1ZUy04X0VuVFpKeWdCbFNxLTljTF9LYmROMTc4UG9FR0RnclRsT0ZVY3M5amlKZ0J6TGp2RVV6M2FJeTdubnhVczhSRG9PX0JLZkttVV9jQkZNVmxVSThjcXZvbUt6Ynhzb2FUU0R4ZXdwQmpOTVVKYUQ1ZkpzcFdHS2lIb0ZnMzk2MGlCTHMwYTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGVnazNlZW1zVUxPR1ZwbUdOZ0RoU2kyMTVkaFdyZ3p1MDh3SGhLYXJrYXRQWS1ZUy04X0VuVFpKeWdCbFNxLTljTF9LYmROMTc4UG9FR0RnclRsT0ZVY3M5amlKZ0J6TGp2RVV6M2FJeTdubnhVczhSRG9PX0JLZkttVV9jQkZNVmxVSThjcXZvbUt6Ynhzb2FUU0R4ZXdwQmpOTVVKYUQ1ZkpzcFdHS2lIb0ZnMzk2MGlCTHMwYTA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-gh-400m-to-be-allocated-for-reclamation-of-galamsey-destroye",
+      "date": "2026-10-19",
+      "category": "reclamation",
+      "title": "GH¢400m to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 Budget - Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GH¢400m to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 Budget - Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOThHMk5ZRFhiRF9TbXByWVRURW1XV0NZdUhVaDNxSXFkRkowZllmT3ZUUUttVFhpZ3E2NGUta3lHS2hBcGlSRndTekFGWi1JSWJrMVBraTM5bkp0a2kydkhKclR0RW13ZGJtNzc4MnNxZ3hWaTZFZ3ZPMGpabFhRSDMwR1RQYzJ2WHRHQmp4T0hka0o1OGJ1SFNvWDFtYk1xT3FfNnF3S0ZSaWN6NXJpd25WZmVGWnR4dEFZY3FxQnAtcERlMFYtbUpZY2g0Q1lIX1kweW1rTU51TXhXeGV4Xzd0OA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOThHMk5ZRFhiRF9TbXByWVRURW1XV0NZdUhVaDNxSXFkRkowZllmT3ZUUUttVFhpZ3E2NGUta3lHS2hBcGlSRndTekFGWi1JSWJrMVBraTM5bkp0a2kydkhKclR0RW13ZGJtNzc4MnNxZ3hWaTZFZ3ZPMGpabFhRSDMwR1RQYzJ2WHRHQmp4T0hka0o1OGJ1SFNvWDFtYk1xT3FfNnF3S0ZSaWN6NXJpd25WZmVGWnR4dEFZY3FxQnAtcERlMFYtbUpZY2g0Q1lIX1kweW1rTU51TXhXeGV4Xzd0OA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-19-12-000-acres-of-ghana-s-land-affected-by-galamsey-mahama",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "12,000 acres of Ghana’s land affected by galamsey – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "12,000 acres of Ghana’s land affected by galamsey – Mahama MyJoyOnline",
+      "metrics": {
+        "acres": 12000
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVy1pcFFkODJFYXliYzVtNVRpVnUwTU9aVzljTUN6WGpnYWZQTFQ3TG5FVlg1cS1HdVV2VWZfV1ZoamR3UktrN05pRWpvYmlCNzNfdnRiWnMxbGxIbEZmd3FWNHhpQ01yYllpZEhzaUhsY0tvUDc0d1VEcXFkc3Vwa1A5dG1TSVpzZm1j?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVy1pcFFkODJFYXliYzVtNVRpVnUwTU9aVzljTUN6WGpnYWZQTFQ3TG5FVlg1cS1HdVV2VWZfV1ZoamR3UktrN05pRWpvYmlCNzNfdnRiWnMxbGxIbEZmd3FWNHhpQ01yYllpZEhzaUhsY0tvUDc0d1VEcXFkc3Vwa1A5dG1TSVpzZm1j?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-galamsey-president-mahama-commends-newmont-for-reclaiming-80",
+      "date": "2026-10-19",
+      "category": "reclamation",
+      "title": "Galamsey: President Mahama commends Newmont for reclaiming 800 acres of degraded land",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: President Mahama commends Newmont for reclaiming 800 acres of degraded land MyJoyOnline",
+      "metrics": {
+        "acres": 800
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEZuVm4zcmxNLVV1TlZ6NHVtSEU0ODZyeVRpVURKcEU0YWFqTEo2d09EVjk0ZEE5ODJEd2pqWVBxbk16YkVkeVBTVXhqWXRVdmY2LWtJUzNLNFBaeDVycUMtdEowdXlLbFgzTkJHYTZTRUMxU3dNUEc5TzY3OUJCUkNocVU2RTc4ZG9TQWttSHZWTjY0U2ZXQ3JxY3gtNGtKTmtCUS1hSU5HYWltaDYyYjBrYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEZuVm4zcmxNLVV1TlZ6NHVtSEU0ODZyeVRpVURKcEU0YWFqTEo2d09EVjk0ZEE5ODJEd2pqWVBxbk16YkVkeVBTVXhqWXRVdmY2LWtJUzNLNFBaeDVycUMtdEowdXlLbFgzTkJHYTZTRUMxU3dNUEc5TzY3OUJCUkNocVU2RTc4ZG9TQWttSHZWTjY0U2ZXQ3JxY3gtNGtKTmtCUS1hSU5HYWltaDYyYjBrYw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-soldiers-to-stay-in-cleared-galamsey-red-zones-mahama-says",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "Soldiers to stay in cleared galamsey red zones, Mahama says",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Soldiers to stay in cleared galamsey red zones, Mahama says News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3M0SjNaRmt6LUJuYmlYOEY4RUVrTzlaRGl2V29GNno1NlVEZ18zMUxNQlcwNjV0MXNxdVJza09sSzZjdDFsR09RNWo5enZGZktoZW9EN1AzSXp1QnF3eC1FRGhnMm1jVm53LW1vTVRZdHpDRDRBdTk3ZjEzQnpkbHhBNFZCSmdaMVZoMQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3M0SjNaRmt6LUJuYmlYOEY4RUVrTzlaRGl2V29GNno1NlVEZ18zMUxNQlcwNjV0MXNxdVJza09sSzZjdDFsR09RNWo5enZGZktoZW9EN1AzSXp1QnF3eC1FRGhnMm1jVm53LW1vTVRZdHpDRDRBdTk3ZjEzQnpkbHhBNFZCSmdaMVZoMQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+    },
+    {
+      "id": "auto-2026-10-19-mamponghene-warns-against-galamsey-destructive-sand-winning-",
+      "date": "2026-10-19",
+      "category": "water",
+      "title": "Mamponghene warns against galamsey, destructive sand winning at Akrofonso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Paramount Chief of Asante Mampong, Daasebre Osei Bonsu III, has cautioned against illegal mining and improper sand winning at Mampong Akrofonso, warning that the community’s lands and water bodies must be protected for sustainable development.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/mamponghene-warns-against-galamsey-destructive-sand-winning-at-akrofonso/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mamponghene-warns-against-galamsey-destructive-sand-winning-at-akrofonso/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-19-prez-mahama-commends-goldbod-for-engaging-ghana-armed-forces",
+      "date": "2026-10-19",
+      "category": "reclamation",
+      "title": "Prez. Mahama commends GoldBod for engaging Ghana Armed Forces to reclaim 253 acres of Tano-Nimri Forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President John Dramani Mahama has commended the Ghana Gold Board (GoldBod) for awarding the Ghana Armed Forces a contract to reclaim 253 acres of land destroyed by illegal mining activities in the Tano-Nimri Forest.",
+      "metrics": {
+        "acres": 253
+      },
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/prez-mahama-commends-goldbod-for-engaging-ghana-armed-forces-to-reclaim-253-acres-of-tano-nimri-forest"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/prez-mahama-commends-goldbod-for-engaging-ghana-armed-forces-to-reclaim-253-acres-of-tano-nimri-forest",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-10-19-48-forest-reserves-have-been-breached-by-illegal-miners-maha",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "48 forest reserves have been breached by illegal miners- Mahama",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "By Owusu Emmanuella Akoto President John Dramani Mahama has revealed that illegal mining, popularly known as galamsey, has affected 48 of Ghana’s 288 forest reserves, with about 12,000 acres of land destroyed. Speaking on Monday, October 19, 2026, at the Mining in Motion Summit at the Destiny Arena in Haatso, Accra, the President said nine […]",
+      "metrics": {
+        "acres": 12000
+      },
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/general/48-forest-reserves-have-been-breached-by-illegal-miners-mahama/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/48-forest-reserves-have-been-breached-by-illegal-miners-mahama/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
       "id": "auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-",
       "date": "2026-10-18",
       "category": "forest",
@@ -226,7 +732,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-19T04:37:39.121Z",
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
     },
     {
       "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
@@ -285,7 +791,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -384,7 +890,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-18-playing-at-the-fringes-with-galamsey-why-no-carrot-outbids-g",
@@ -547,7 +1053,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/mine-gold-responsibly/2026/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-17T15:32:03.053Z"
+      "archivedAt": "2026-10-17T15:32:03.053Z",
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-17-live-news360-big-push-infrastructure-initiative-fight-agains",
@@ -1012,7 +1519,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -2217,7 +2724,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-13T22:44:09.587Z",
-      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-10-13-atta-akyea-denies-seeking-presidential-pardon-for-wontumi-in",
@@ -2298,7 +2805,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
@@ -2399,7 +2906,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-13T00:37:41.893Z",
-      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-12-the-fight-against-galamsey-and-it-s-affect-on-the-people-of-",
@@ -3280,6 +3787,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-07-the-real-galamsey-king-is-hidden-justice-martey-akita",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "\"The real galamsey king is hidden\" – Justice Martey Akita",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "\"The real galamsey king is hidden\" – Justice Martey Akita Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVB1NEd1dHFPZ2NZWDVFZzhZWGJ5dzBZcUItN1BtVHhxRVlJOExFcGhHLTJsX3B5RmZfRGtCTFV2eEwzZEJCejVWU2h6WUFNbWxGU0p1SGNDdUdVV2FIcEJzQzNEbE9UdVFkNkxyNUYyNFVLZFdQWVR3cmRCMzlFa0Y1bzY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVB1NEd1dHFPZ2NZWDVFZzhZWGJ5dzBZcUItN1BtVHhxRVlJOExFcGhHLTJsX3B5RmZfRGtCTFV2eEwzZEJCejVWU2h6WUFNbWxGU0p1SGNDdUdVV2FIcEJzQzNEbE9UdVFkNkxyNUYyNFVLZFdQWVR3cmRCMzlFa0Y1bzY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
       "date": "2026-10-06",
       "category": "forest",
@@ -3657,6 +4183,44 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTi1FUlVlUVpJMXZTdUtha09JTzZad1ZCak0zZWRDN0dlRkl2TEZGWlJhSFZSZEh1Vk5ZZkZwa28tb01TdGprWHhsdkFmQm5ZbGEycW44MUpiVTJUc3JyZFJ2NTAzQy0waGxWb0s2T0tXTXQ1TWF5WHFCUTRwMFJMY2ZsbU9JRnRNOVhzb3lZODVpckFkS3dPeXJLNHJNYUpmNHFmdXhXaXJ1RHh0bWZnM1FqekpnMGE1VWNVQ3JtWjYzaVlfcFVnd3Y2cDBhREQ0RDlfUGg3TQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTi1FUlVlUVpJMXZTdUtha09JTzZad1ZCak0zZWRDN0dlRkl2TEZGWlJhSFZSZEh1Vk5ZZkZwa28tb01TdGprWHhsdkFmQm5ZbGEycW44MUpiVTJUc3JyZFJ2NTAzQy0waGxWb0s2T0tXTXQ1TWF5WHFCUTRwMFJMY2ZsbU9JRnRNOVhzb3lZODVpckFkS3dPeXJLNHJNYUpmNHFmdXhXaXJ1RHh0bWZnM1FqekpnMGE1VWNVQ3JtWjYzaVlfcFVnd3Y2cDBhREQ0RDlfUGg3TQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-06-galamsey-npp-asks-eoco-to-disclose-progress-on-yamin-abanga-",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Galamsey: NPP asks EOCO to disclose progress on Yamin, Abanga petitions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: NPP asks EOCO to disclose progress on Yamin, Abanga petitions Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFp3aDJrNnRPYjNDTkdGSkdhNG9lb1lOeXV5NXQ4aHd3TFRHZUMydVZFRUFHS1NacUtaNXdxb3hoQkJncXpTd1QzelozZ2N6S3dvdnltc0tpQzE2c0FUYzBYMFc1TzM0UVpIU2ZlT3J3eTBNRzdyVE1hdVptei1PLUpfMUM4Y3VLNlotQmd3UzBZaHY3R2Y5TlJ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFp3aDJrNnRPYjNDTkdGSkdhNG9lb1lOeXV5NXQ4aHd3TFRHZUMydVZFRUFHS1NacUtaNXdxb3hoQkJncXpTd1QzelozZ2N6S3dvdnltc0tpQzE2c0FUYzBYMFc1TzM0UVpIU2ZlT3J3eTBNRzdyVE1hdVptei1PLUpfMUM4Y3VLNlotQmd3UzBZaHY3R2Y5TlJ3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-06-bono-region-chiefs-youth-lead-fierce-uprising-against-galams",
+      "date": "2026-10-06",
+      "category": "forest",
+      "title": "Bono Region: Chiefs, youth lead fierce uprising against galamsey threat in Amomaso and Benkasa",
+      "place": "Bono Region",
+      "region": "Bono",
+      "lat": 7.34,
+      "lon": -2.33,
+      "summary": "Bono Region: Chiefs, youth lead fierce uprising against galamsey threat in Amomaso and Benkasa Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc01KM3F2UnhrMEh2YkMxOGNtUWtmbGxNaUstLThqNGRRUkM1aElta3pFeDUyQTdwcnhwelA4c000MzllY3NDVEl3czhkcVRkR1FKVkV3U3MtNjN6ZmNyb2EwemJvRE1zdEQza1dPMElvT29tWmNVeThSVjRIb0ZVVl9hQXJPN1ZJRjE1cWl2bDZKN0RFeXRBY0xyd1BiMUEta3ZzelFBQnBIVE00ZHEwQjk0OWd3ajhJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc01KM3F2UnhrMEh2YkMxOGNtUWtmbGxNaUstLThqNGRRUkM1aElta3pFeDUyQTdwcnhwelA4c000MzllY3NDVEl3czhkcVRkR1FKVkV3U3MtNjN6ZmNyb2EwemJvRE1zdEQza1dPMElvT29tWmNVeThSVjRIb0ZVVl9hQXJPN1ZJRjE1cWl2bDZKN0RFeXRBY0xyd1BiMUEta3ZzelFBQnBIVE00ZHEwQjk0OWd3ajhJ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -4124,7 +4688,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-03T16:16:34.618Z",
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-10-02-the-fight-against-galamsey-has-not-been-lost-schandorf-respo",
@@ -4371,7 +4935,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-10-01-mahama-cites-nine-cleared-forests-as-galamsey-emergency-call",
@@ -4655,7 +5219,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEU5OHZESG1uZXZUUlRyYVNTM2gxSlNQcG9QSFFBSmlzT0VmZC1POEVaSUtjSlZraW9jc2FoT1Rvdllrb0RBMks3NHhSM2ZtUHJHbl9xYnhiWE85Rm9OWkE3eE5PMC1iQnhGOUNjdmN5MzFLV25KUFphb1dJb29mZ1NxaWJURE9WdWxVaG1n?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-02T12:34:28.946Z"
+      "archivedAt": "2026-10-02T12:34:28.946Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen",
@@ -4777,7 +5342,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQMktJODM0akJpVE1xSnNWeW1IMjZLdDlBdk5aYndkN1BQOUJuRG9vTlp4dy1kVW82cllvbjgyUnFnYXJLSDBoMjItQVVwek5TOVQyZ1RmSTJDNnlqWXd1MmNxOXFjVTlNa3k0T01BbnhjMDlLVlM1b0tyVWJwNnRzeHlqOWp4UzRhaGktX1BFdjRSTF9hNWJiSDg2RXhXdnFQVll3d05DX2JCYndDQlV5c0F5QXQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-01T13:14:30.276Z"
+      "archivedAt": "2026-10-01T13:14:30.276Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
@@ -5158,7 +5724,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIWHNBZFQtRHVCREItSjcxODhKSlh4WExJZ01vV1hnbGlocXpkR2JNcko1RlB4NUtCa0RQU3lxTEY4Zkd5Y0lnd1QyMkJxTmE1VHlKZFRRVUwxMlN20gFcQVVfeXFMUEhYc0FkVC1EdUJEQi1KNzE4OEpKWHhYTElnTW9XWGdsaWhxemRHYk1ySjVGUHg1S0JrRFBTeXFMRjhmR3ljSWd3VDIyQnFOYTVUeUpkVFFVTDEyU3Y?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-28-let-s-de-escalate-the-politics-naimos-on-tackling-galamsey",
@@ -5260,7 +5826,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNXFiQkFkU2ZVZURMZlBONjJTY1FhNUhwVU9ydEFRRUNRWEZ5Sk5hUnBaeWRZX01VSlBDVkdtV2hSRDFUd1UtOEpoaFp3RHdGMF9IMHBWUVo4Q1BQaE53WDgxQUTSAVxBVV95cUxNdTFJT3NkN1hYUUR2ZEpoS0RUTFVRdm1OV0MxeXVVamUyZW1YZTQxb0ZmMUJMYkRKNmRERE13YXlGcEpMZXIzRFNxa2I3bEpLMXpvX0wwQUlXbllGRA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
@@ -5381,7 +5947,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -5401,7 +5967,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUUlFZS2VSRFNxcWRvLXFVemVsUmdCbzZOZjNTVmFISmZkdnV4MUpIZHhvaGdWVDhuWl9kbS12ekNFQXV5WXhQZjlLXzhHcDJySEJXeWhEU2JZQ2Y1RTZteVRhWdIBXEFVX3lxTFBBc2pvQXNNbFFVN1BvbDA2aTFMVG5XMHprc3VnYnZudTVrbXpqZllDMEVJN0xtNklqUmZ4eDIydDYxYlcxWUNwZ3pkcm1BM0ZfWXhDODVjTGppVnN2?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T11:22:08.950Z"
+      "archivedAt": "2026-09-26T11:22:08.950Z",
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
@@ -5647,7 +6214,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOMEdKTEU3QVNzYXJBNGloeFNjcHVHNUVfcUFJa1JKem9scmY1Qml5dUh5N25IbmdoN18wd0prOXJ5Q1VpQkY3LWtRcXZsNXpobG9xRHo1YVRueFZzTkRVUE9RaDJxeWlXbUhGWlFpdy1rdzNBV1dBdi1QYkNCdDdVcVVERlpaSkFvcUg5Rl9feDlFR2hm?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-26-stakeholders-demand-action-against-foreign-led-illegal-minin",
@@ -5952,7 +6519,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:04.629Z",
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-25-13-illegal-miners-arrested-at-osino-during-naimos-operation-",
@@ -5975,7 +6542,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:29.038Z",
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-12-illegal-miners-at-osino",
@@ -6157,7 +6724,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:01:43.315Z",
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-13-suspected-illegal-miners-during-an-operati",
@@ -6180,7 +6747,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:02:07.987Z",
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-25-illegal-mining-naimos-destroys-eqipment-belonging-to-illegal",
@@ -7165,7 +7732,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/why-we-dont-need-china-to-advise-us-frimpong-boateng-on-mining-cooperation/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-09-17-at-least-37-illegal-mining-suspects-found-dead-in-nigerian-c",
@@ -7578,7 +8145,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0ZpYmFLcnowMFBJUV9aOG9CVm9lMFJ1dUhRS3M1cVhZRzFLaVpCLWIxTlNLQU1UUlZJbl9GSjNaLXhFNURkNjBQdkZQNEVrVHZ1YlhPSGN1a3ZKV0x2bVJWUVQ3X3Zta1hvQzhBTGE5eGh3bUFjb2IzMHZKX1lEVFBIOEpkc2Q3SEpvVE45WHFzN1Nv0gGTAUFVX3lxTE90b0tkSHVRZVYwRkk2WlhyenZaMFYzYi15Qzc5cXgybHEtRHh0ZTFjVG1HNHBCekJvZHNVQXBIanVWX2c5ajZqSWpncXRhYUFQSGhxcDlCbFRNV1A5OV9BUHZaSmdHaW5hQ1BKbU5uZHRjVkJ1dXd2MkFvMDh3N1VmLXE4ck9MU2hrOEliTS1fUHdWWQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
     },
     {
       "id": "auto-2026-09-15-illegal-mining-arocha-raises-alarm-over-encroachment-on-atew",
@@ -7893,7 +8461,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNMU1M4MUdHUUlMZkxvNlJCYjdRZU9JalZkRlJKTER2QXA0XzlrV3ltQVJtalBxaGdkYW1XZlE1X1dXZ2lUaEphU0gtTG9sVWdjeUlUSUNlZWxGSGlzOUNTM1EwOTBTdHgyVDB6TTFjaXg3TVNvUS1XeUJ2SldnZ0NpeGxiN3dFMExTekgtWjlKanhO?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-09-14-painful-scenes-as-obituary-poster-of-8-lost-in-galamsey-pit-",
@@ -7931,7 +8499,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmRuVkR3LWU0T0xIUFFpSWNjZWFQX285bjI3cTIzTHM0VGlmLVBPeGtjRkZMVE0za09kXzJvb2Z5MkRMVFB4U1Y2c3E3OHViRzFDMHZRLVhvd1Z3dWRlWGZtQUprb0hROFN5MkRjUG9ib3hPcEZualRDdnc4OEdxVXgxd0d4YktZZGJfODdOZVRFWTQtQ3J4aQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-traditional-leaders-enabling-galamsey-must-be-prosecuted-dar"
     },
     {
       "id": "auto-2026-09-14-central-region-17-excavators-seized-in-naimos-operation-at-s",
@@ -8321,7 +8890,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmRfQUxFOTItczg2OWFyQURpQkxzQ0gwdUVDVW1qeXM4Q05nRG5zTldTcnY1cXlBTk1ha3BPenpMeGx3aTA2el9TV0RLeU9QZDEwQnRJS05BZUFuMnNHdDMyREdVWVEya05Sby0yYWZnd1Zzb3pmbWt6dm5JZENWOU83QmRwOGhZRlRFcW1Fdm1yVllUMVBTdnNHYW9CZ05WUmoyT1lkdGYyRl9jZ2pmVDZRNm01UTM4aF9kMw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-09-13-ghana-china-deepen-cooperation-to-tackle-illegal-mining",
@@ -8341,7 +8910,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/ghana-china-deepen-cooperation-to-tackle-illegal-mining/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of",
@@ -8463,7 +9032,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-woos-china-for-new-mining-partnerships.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-12-ghana-woos-china-for-new-mining-partnerships"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-09-12-there-is-no-fight-against-galamsey-in-ghana-today",
@@ -8825,7 +9394,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-12T04:32:17.206Z",
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-09-11-naimos-launches-operation-water-shield-targets-galamsey-fina",
@@ -9064,7 +9633,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-10T20:51:50.901Z"
+      "archivedAt": "2026-09-10T20:51:50.901Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
@@ -9308,7 +9878,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/media-must-continue-to-shine-light-on-illegal-mining-lands-minister/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-09-08-lands-ministry-engages-asutifi-north-stakeholders-on-respons",
@@ -11046,7 +11617,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4eFcwU2lpdGduY0VPQ0RoQ21oMUlqX1pocnVSUy1jcDFMQ1oxQXRRdmk0Vjc2NFRLcXh0UnBlNWFleHlRVml3d0dYck9iUktkYnljU1N3eWtDVkVlZkNfX285UdIBXEFVX3lxTE1yeG92cXFHekVZWUVQU2ZoQWhsZmlCZEtsZjNjXzNMLWlacnIzSUJYb1A1SC1OWUpRSTNidmh4NkxqX1lwUHVFT0lRN0hUZTZYS1pHN25iOVdMT3hO?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-09-03-year-long-naimos-patrols-clear-ankobra-river-of-galamsey-ope",
@@ -11086,7 +11657,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNdDFCcE9raFAyQ2o4NzJYekhkZExlNzV2NEZ4RW5DQ3FpTUFVbTlaUlI5eEdLUFp0OE5jX0pWVVNWSmJJeTVtZ1FnS25FXzBpaHVOcmFBY2Ewdy1TSXQ5cm1JONIBXEFVX3lxTE5ucjBvM1AxbkFKQzhrNEJWaWtkODZTNDY0NmdXZ0pIVzJkRUpCZFdNZWlFZmZjSS02cVEtR09KaUhlSVdOT1B5YnVMd3BJdXlwVTAyNloyTWNwZnhM?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-09-03-i-will-die-with-integrity-than-be-corrupted-by-galamsey-land",
@@ -11323,7 +11894,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-01T21:00:50.520Z",
-      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
@@ -12000,7 +12571,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
@@ -12780,7 +13351,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSjF1Ti1oTlk5VGMyamw2dkJKSWhlUHFJbUxydFZYazA2b3RxMVoyYTdwczlGMlRtWkRmQnJXSEw4Z3RBbmVSM1hMNXV1d0t1TUZkOE9XaTliMUdvZ0hRX25zc0TSAVxBVV95cUxPU0s4Tm0wM2VfYnhfazlzWnVtcDBFQTdPTzAzUmp5ZVBPSXFYQVR1T2xONmMtMllJQmk5Q3RHOHVENTJ5MGZ0eWFPTEdva2hKVHhYbWVVUHZxS2syMg?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-08-28-is-this-a-disaster-waiting-to-happen-galamsey-exposed",
@@ -13474,7 +14045,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHEzZE1JNmRlMGQtLVF0Tm9USExOb1NXUFlVTTRqdzUxUzZDOEJ3aWJlS0h3eC14SjNBbkVnOTJGdlhoYUNKUURxVVlIa1V5OVlKME1lTUJsdzdlbkhsV1FENUNwa3hidHRGVjNVNVJyR3dLalZ2Q0lMVVFxdE1raFZPUVBTZjBBSEtCdUZIS3M4U0VHQkY4UdIBmAFBVV95cUxNcHEzZE1JNmRlMGQtLVF0Tm9USExOb1NXUFlVTTRqdzUxUzZDOEJ3aWJlS0h3eC14SjNBbkVnOTJGdlhoYUNKUURxVVlIa1V5OVlKME1lTUJsdzdlbkhsV1FENUNwa3hidHRGVjNVNVJyR3dLalZ2Q0lMVVFxdE1raFZPUVBTZjBBSEtCdUZIS3M4U0VHQkY4UQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-26-the-fight-against-galamsey-who-is-deceiving-whom-the-governm"
     },
     {
       "id": "auto-2026-08-26-betrayed-by-the-guardians-my-weeks-inside-ghana-s-galamsey-a",
@@ -17207,8 +17779,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+      "verified": false
     },
     {
       "id": "auto-2026-08-18-despite-high-costs-we-won-t-abandon-the-fight-against-galams",
@@ -17624,7 +18195,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-officials-quell-clash-of-illegal-miners-in-atiwa-forest-destroys-makeshift-structures-and-pumping-machines",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-08-17-naimos-intervenes-in-violent-clash-disrupts-illegal-mining-i",
@@ -17898,7 +18469,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/franklin-cudjoe-urges-lands-minister-to-reassess-revocation-of-adamus-resources-license/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-08-16-i-m-not-against-enforcing-the-law-duncan-williams-on-prayers",
@@ -18374,7 +18945,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/8900-hectares-of-forest-reserves-destroyed-by-galamsey-armah-kofi-buah/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-08-13-we-lost-leadership-in-the-galamsey-fight-a-rocha-ghana",
@@ -18919,7 +19491,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkdCbllKNFRVSkJWT0x4dnRhVzlZSEhnWEx4RnRCNmoxSGdUNkkxQU0zbXNWZmg2cmdFQnFraFpnS3lnOFd6TXhKZzc3dWNMYWR1TWdHSEFYSXJrS2E5bFFRR1I4bDQ5S3hQVWxrMm1lUUduTGk1Y0NxdkdMUTRNeW9xSEt4eUwzMXdyYVBiVllwbjlyRll2R29rNEhDSFZ5aHR2U2lnZzhwbS0zRW1vV1Fn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-12-civil-society-coalition-steps-up-fight-against-transnational",
@@ -19995,7 +20567,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-murtala-mohammed-left-indelible-footprints-at-mest-armah-kofi-buah-eulogises.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-murtala-mohammed-left-indelible-footprints-at-mest-armah-kof"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-08-10-illegal-mining-lures-ghanaian-children-out-of-school-and-int",
@@ -20072,7 +20644,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGx0VTFOd2hsZFFoWHhGWnRkOFFILXF1b2w4b0xCcUVxZVRfRU5zR0VWanZISnh5dVVmZVRoT1FlVDhwbXZSa19LaFQ5clh5RXJBdGt6dDNqUHUydHJYQndnZ2o4ZW9KZXhIUTJNVEY3NmczanhtNVhlaWxVejhQeXBxa240R2pUeXBwNEVCYm5xQQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-three-killed-after-illegal-mining-pit-collapse-at-odumase-sa",
@@ -20112,7 +20685,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/lands-minister-upholds-revocation-of-mining-lease-of-adamus-resources.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-lands-minister-upholds-revocation-of-three-mining-leases-of-"
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso",
@@ -20132,7 +20705,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMF9idVBVbEp6MTNMUTQ2YVphc1FJazNrX3VjWUZvQ3ZsbXZ6YWFnTFczamhidWxSdlo1aVNyRjBQcmVKWHpVcXFYNXY0aE91TGhEb0tMaFVoam5nR095S0FVNkJNLUJvTlNrQmIwUFRjNFZySHZaRG1fLV9Gc19DX192M3haQWpHWFg4?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o",
@@ -20152,7 +20725,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
@@ -20172,7 +20745,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-tano-crackdown-as-illegal-mining-op",
@@ -20192,7 +20765,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN3VFVfSUszRnBJdWdZVUdLTEF2R3drTmlqRmg0SExXbV9IRTlrVk8tY2ZmMGtYUklUblYySDR6b3lxT2I3cVFOaUZVeHA4OHNtM3JhbG5Zc2pHQ2hRZmZneGlJSkxPQ3VxQ25neTVuQ3UwVElMZUZyMm1CSU1TVnVhYVlBV0pkT2lsYUJGX0p4eGJVbVc2Rm4zVjF4XzhIMEVJVnltNA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-dab-i-tragedy-strikes-as-three-die-in-galamsey-pit-collapse-",
@@ -20250,7 +20823,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUs4ejA1ZERCczRPTFpwZEk1MG5VNFRQZm9RcTV2bUJoWHhiMFpNTDA2NEY5RUFmU0J0ZVpTd2E1VEFZN1JydXZJaDhMTnhXcFd1UlpXLWpsb3dPT2czTjlpcGFFc0llSlAyTjFKYnVMRGhxRnRVU1RScmJOS1o0Qm1KUVlCZFpwVFozRHRNN3hPT3pXREZwWmJpUHBjbDBm?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
     },
     {
       "id": "auto-2026-08-10-goldbod-generated-10-8bn-in-forex-from-small-scale-gold-samm",
@@ -20387,7 +20960,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/illegal-miners-have-returned-to-forest-reserves-with-new-machines-forestry-commission-on-why-raids-alone-cant-stop-galamsey.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T14:31:51.401Z"
+      "archivedAt": "2026-08-09T14:31:51.401Z",
+      "thread": "t-auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ"
     },
     {
       "id": "auto-2026-08-09-galamsey-becoming-a-pandemic-ghana-needs-united-front-to-fig",
@@ -20794,7 +21368,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UYmJ4d0FzRTFTdG5xRUYtUWVjZGpKb2RZbU9jX3AtV3ZfWnVWTWJkeHNtWnJwVldzN1ljYmlLQUJRQm5acmNvYWlqeHJxemtYQ3BVcjNGejNLQ1dPM2diRm15QW_SAVxBVV95cUxQV0p6OHVpSWo3d2hVeFRxamR1UlZsU2pxYlptZ09GcC05LXpRRGk2WnZwY1pfaWVUYUc4V1NTNjZLUjEzdDN6eWR0T29zdEljQ0pnSi1vcWpmM083cQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-08-07-fight-galamsey-to-honour-their-memory-families-of-helicopter",
@@ -21952,7 +22526,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXdFano5SmU5QVR1UDZSY0g0cmExeDJZbGF6dk1RM3N2YjZTV3dVdERZdEk2RlJHZzkybzRFR2pwVkJhUFJJT1V0QUZ6Q0FsaWN2bVlMNGh3QjMzV1pDSUFlQVlTVTQxVThVTTBPb2VNQjhYS3hfSWdiOW8zaXpoaVRxaU5DWldyR1RyRVprRUI0U0VSdnVYZlZYWkVpbzdfMlRj?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-illegal-mining-ashanti-regsec-impounds-nine-excavators-in-ob"
     },
     {
       "id": "auto-2026-08-03-chiefs-queens-who-engage-in-or-aid-galamsey-will-be-prosecut",
@@ -21992,7 +22567,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnNlUlgyMXhvWVFmRTYzSFdRaGl3d1lLMm43RnBxbUNhQ3liRFF0bFY3XzduemYzWnd3UTZpRE5RQWNVbmM2dVlEMVFsU2VVbDdHbTBNdTlyLXN1bFI5ZUJ0T2xrQy1uYUVTRmE4QjY3djRZMlJMV0EtWmtrY2ZiTG1TN2c2LUp3WS1PZHhXODRmckNldWs0YmJRRUdsYjRwVWNMUjhMaVY?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
     },
     {
       "id": "auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king",
@@ -22267,7 +22843,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQdl8tMlRHcGNZOHVhWW43YkJpSkVvTTFsb1VUWVJpQ3E5LXBfX2MtME96bV9KRFV2ZnNGZnA4TmFyc21oLVVmYTdDeThhWGxUcjNLNGg3V3g2UFFFT21yVWF4MEQ0WTlDYVZraUk1RDJuUEpsOWhiLTBsbTNFWnBDOXZOemlOOTFUeXNMSmtVaVRFSDFMcU5FZ9IBlwFBVV95cUxQOHluSlpqdXcxbkRqdFBEVkZHM0xwbEJRemtMamwxZVRTS0x5clE1Vk9WZFZhbzFkSGI3bFBuaDlCSXpmNXdQQ0FfZFJDNU1lNXNyeVhiRFJMZmItdDc0eE9MY2ZnSjBrRlZrNVJxenR2a09QWU9HZ1V4elBaNGoweWpfOFNQWTNMZUMyNTRTY2FYRk9MVVBZ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-for-people-to-be-boldly-doing-galamsey-means-authority-backs",
@@ -22347,7 +22924,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxNS3Jqa21YLWFzTWxJc3MyRjA3a1VaZjZodXlTN0FvdnRuQXcxYk1lSXBscnQ4U2dYNDNqYjNMUk5FeFRGNmpXdXRqSGNkTkVGYktVb2F5TE05NkdxVV9ESjN3TGktQlRkcU9xYmN1d0pvVXkzWlFxazV2NmNGM0FMY2lCZHl1MU1LdHdiVHpIMFVaNjI3d3o3WC1hZkEyZw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-regsec-impounds-nine-excavators-in-obuasi-anti-galamsey-crac",
@@ -22406,7 +22983,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQSndiOERyd0pERFFGRHJzOUJlV1RCVUYyOTFMalZrc2tfQ0x2WVlaelVyNzFCeFNXdDRBZHFxUjUyQndoRmNlZjlMVlpvbmd0MnhaQmczV2MzeFBITXkwY1VOcWNrWkNZQVhoZWVaVXpILU9UOFJRNjhDNngtWFZvQ0VQUkV6LThOWDdaalVYS2lHVHB1SFE?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-there-is-no-justification-for-the-galamsey-at-mpohor-police-",
@@ -22465,7 +23043,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CRU02RF9EdTZ2SXZCVWZ3ZEk4OEFUSzgxaUVVMWdlR3hDRVcycmoxRktQNlo5V1g3NHZvU3ZFM0gzWTEwS21HdlJsNDdJR0FPUkRsNElVYXJRaEwzaEpjNzBiNk_SAVxBVV95cUxPWjNfcEdNVGZLdnZHWkhibFd2blg4R3lkZFBfbGFVMUV4RUxMb2JEZTQ2OUVGeUk0Vkp4MGhQanVGSE1UQ2UzUDhOTmRNYnB6S3B4bnNrSXNoTGtDbw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-galamseyers-in-mpohor-fiase-oper",
@@ -22486,7 +23065,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTdpTzczTUNXMXZiYURvRF9JV0tNX2F1d3hqX2d0cEVobGtRRWdPc1lSTXRvREMzU3JiNHdlY29jTXZjMW9jZlllRHg0aF92c2ctRmZDb2Jja1ZQcW9xelQzWU10V0hmQ2lwclJXVDR2M2YtN2pDSUZuSjZFajhfVlhWYXk0a28zWkZkYWJadXNNTG1vMWk0LUZYMlZHSEhhZU53akNn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-illegal-miners-at-mpohor-fiase",
@@ -22507,7 +23087,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmJEcVdVRnFjSUp4ejhaNEZUc1Flc2dhZE5FUU5wYW91TFYzLVBFQkNmb1FoNnF6Y2dBWXhoRmJ5Ql91X0o4aFJUZGtZNFgwUE1Cc28tcFZPanJid0lndWZPUHU5VENiNEZ3RU5semg1MWgxTS1EenltR2EyQ1NLWnF3LWlBQVJjTklRR0NRal9DZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspected-illegal-miners-operating-near-mp",
@@ -22529,7 +23110,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOTVySEl4Q2FMQUczZktRNDJfU1Z4SXRxaExCeXlZUEZGUGNQNEpMVkJ3SExTZ1d2MFYzSnFvWTFlV19relRlaUFHMzNjaUQtbDRKYURyZ3E3bWZzN2hYenJpUDZPV2xjNFFoODRWZDFqWW5RanMxQVp2UDJ3blc5UWQ0eHpSejBfdUpRdGc1b0NIVy1DUkJiMGMzTEdXTThKWTFGb3pfUUVUZ2RJaGg5aWtvTFZjNkdiWnJwbnBKa0dTZzllRjRMSHpEaGloSjBCRFpUVGln?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-galamsey-naimos-arrests-19-operating-near-mpohor-fiase-polic"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-07-30-naimos-arrests-19-suspects-over-galamsey-activities-near-pol",
@@ -22904,7 +23485,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtYbTBfTEFUNWxpYVBRVTZjVV9jSG1ybVE3d0R2c09zc1ZCcHZ0eTd0TXhwU1VjRWJDWGJtc1BXNzdmTTlXVWtRSXhnaFF0YkJNTXNidEdvQnQwLXluRy03N185SmZwV1dqT1EyTzVENDF1X19FRXhxYnV5c0VzOE5saG9yREhaU01oMk1xZThGWlVnWVNxcE80MGhiVi1DMlBROXVTMWwwRmM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
     },
     {
       "id": "auto-2026-07-27-wontumi-s-20-year-jail-term-is-not-victory-in-fight-against-",
@@ -23120,7 +23702,8 @@
         "name": "The Sikaman Times",
         "url": "https://sikamantimes.com/govt-reports-200-anti-galamsey-operations-207-arrests-in-first-half-of-2026/"
       },
-      "verified": true
+      "verified": true,
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-07-16-some-reclamation-contractors-using-galamsey-to-fund-their-wo",
