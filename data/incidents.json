@@ -1,13 +1,98 @@
 {
-  "updated": "2026-10-20T04:50:45.162Z",
+  "updated": "2026-10-20T11:38:21.412Z",
   "counts": {
-    "total": 1221,
+    "total": 1226,
     "verified": 28,
-    "automated": 1193,
+    "automated": 1198,
     "earliest": "2024-07-01",
-    "latest": "2026-10-19"
+    "latest": "2026-10-20"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-20-christian-council-urges-govt-to-deploy-more-military-police-",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "Christian Council urges govt to deploy more military, police to fight galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Christian Council urges govt to deploy more military, police to fight galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGNVZnpYeldxQ2ZJUl83SlNia3NDWmRsZHNVZVhZSXdtRzRUNEltUlU4U2lJZXhPZG4yREhicnNfa3RLUDRJS1gtQ3VWakZVV1ItenVhM3FOMEZMWjFmNjAtVU5SYmkxWGZaREQ4X2ZCOTROSkFEZThQVXFpbHFndzFGenJyVkpyUGttNmg3NDJnN2JoYVZZbnE5dS3SAZsBQVVfeXFMT1Z4ekk4UkpVMFVnbTBhTFVhQ2taNHBoRXV3UHpTbjZ1Y1FNaGlPZTdvWkRZQWF5X2x6VF9vSGRZeW9oS1MzNkExNlFjdzQ4YVg0emR6N1VzeTlndHBHTHlfVmFUaUZzeW5qeTQycndwd1RQeXN2RGlPUlJrdTlSeU5wU3FSbjViM0dhTnJoTWhocXQ1QV9qbzdVNjQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxNWGNVZnpYeldxQ2ZJUl83SlNia3NDWmRsZHNVZVhZSXdtRzRUNEltUlU4U2lJZXhPZG4yREhicnNfa3RLUDRJS1gtQ3VWakZVV1ItenVhM3FOMEZMWjFmNjAtVU5SYmkxWGZaREQ4X2ZCOTROSkFEZThQVXFpbHFndzFGenJyVkpyUGttNmg3NDJnN2JoYVZZbnE5dS3SAZsBQVVfeXFMT1Z4ekk4UkpVMFVnbTBhTFVhQ2taNHBoRXV3UHpTbjZ1Y1FNaGlPZTdvWkRZQWF5X2x6VF9vSGRZeW9oS1MzNkExNlFjdzQ4YVg0emR6N1VzeTlndHBHTHlfVmFUaUZzeW5qeTQycndwd1RQeXN2RGlPUlJrdTlSeU5wU3FSbjViM0dhTnJoTWhocXQ1QV9qbzdVNjQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-20T11:31:43.875Z",
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-10-20-galamsey-crackdown-159-suspects-arrested-over-1-100-changfa-",
+      "date": "2026-10-20",
+      "category": "arrest",
+      "title": "Galamsey Crackdown: 159 Suspects Arrested, Over 1,100 Changfa Machines Burnt",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Crackdown: 159 Suspects Arrested, Over 1,100 Changfa Machines Burnt Modern Ghana",
+      "metrics": {
+        "arrests": 159
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RSTNPekhpUjVSdURCemNuVjJqTDlYZ3RFTGVFTHdLYWR1VzFTUVB3TnBTVkJ3RnUwWWxGQ25lX0Q0dDUwWnBRWjlzTlZZOC1XZVZyb2VsMFNUTHlHcWhr0gFcQVVfeXFMUDJHN1JWejRyR2FzVDdMLVI5SmlHbXRMN3lPdGtOM2ppV19fN2lKTUtsWUlQdDNDRU4zV0cySkxrTVBsWl9NRU5xU1BNWDVRbE85Z3dQMVAtdnlNXzg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RSTNPekhpUjVSdURCemNuVjJqTDlYZ3RFTGVFTHdLYWR1VzFTUVB3TnBTVkJ3RnUwWWxGQ25lX0Q0dDUwWnBRWjlzTlZZOC1XZVZyb2VsMFNUTHlHcWhr0gFcQVVfeXFMUDJHN1JWejRyR2FzVDdMLVI5SmlHbXRMN3lPdGtOM2ppV19fN2lKTUtsWUlQdDNDRU4zV0cySkxrTVBsWl9NRU5xU1BNWDVRbE85Z3dQMVAtdnlNXzg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
+    },
+    {
+      "id": "auto-2026-10-20-forestry-commission-arrests-20-in-wassa-esaman-galamsey-raid",
+      "date": "2026-10-20",
+      "category": "arrest",
+      "title": "Forestry Commission arrests 20 in Wassa Esaman galamsey raid",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Forestry Commission arrests 20 in Wassa Esaman galamsey raid News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEVLc1B3NjlCZ0JyLTItcTREWU9HRlhSYlV4NS02T2pjdFp2Z2NTN1J1UU02N1VRQnVCMWRnX0RWMTZWNC1qOUxycFpnWGkzRmRYTVozQjloNV9yZVktZnVJTkRhSGRHRFhIY0xmd0FIUWg4WnVZTEM2a3Y0c2RFS1ZCLUM0MjJCaUhIOHB4cw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEVLc1B3NjlCZ0JyLTItcTREWU9HRlhSYlV4NS02T2pjdFp2Z2NTN1J1UU02N1VRQnVCMWRnX0RWMTZWNC1qOUxycFpnWGkzRmRYTVozQjloNV9yZVktZnVJTkRhSGRHRFhIY0xmd0FIUWg4WnVZTEM2a3Y0c2RFS1ZCLUM0MjJCaUhIOHB4cw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-19-wassa-esaman-forestry-commission-immobilizes-vehicles-and-mi"
+    },
+    {
+      "id": "auto-2026-10-20-asantehene-launches-153-hectare-land-reclamation-project",
+      "date": "2026-10-20",
+      "category": "reclamation",
+      "title": "Asantehene launches 153-hectare land reclamation project",
+      "place": "Adansi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "The Asantehene, Otumfuo Osei Tutu II, has launched the Jimi Land Reclamation and River Watercourse Rehabilitation Project at Tasliman in the Adansi Asokwa district to reclaim land degraded by excessive illegal mining last Wednesday. He planted a tree to officially mark the commencement of the project. The project seeks to reclaim 153 hectares of land across the Obuasi East Municipality and the Adansi Akrofuom and Ada",
+      "metrics": {
+        "hectares": 153
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-asantehene-launches-153-hectare-land-reclamation-project.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-asantehene-launches-153-hectare-land-reclamation-project.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
+    },
     {
       "id": "auto-2026-10-19-mahama-says-soldiers-to-remain-in-nine-forest-reserves-clear",
       "date": "2026-10-19",
@@ -175,18 +260,18 @@
       "id": "auto-2026-10-19-gh-400million-to-be-allocated-for-reclamation-of-galamsey-de",
       "date": "2026-10-19",
       "category": "reclamation",
-      "title": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget",
+      "title": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget - President Mahama",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Read More &hellip;",
+      "summary": "GH¢400million to be allocated for reclamation of galamsey destroyed lands, EPA and Blue Water Guards in 2027 budget - President Mahama Graphic Online",
       "metrics": {},
       "source": {
-        "name": "President Mahama",
-        "url": "https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html"
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbTIyZG5pYkJZdndCb3VpYUR2d3NobHdUeVBscDlQTXUxSFlhc1M1Sm1rWF9KcXMxaUkxdDR4LXJKeGwyU1k3VUIzbVg5Mk16d1lTWDJ5QnozS1BvSDhDZWZYZnVMdlVXS1JqYTFyTk9uODBGT252S0RzTnFUWUFUN1NtcmNmeDZHejNUVUJ2SzJfUGxLQzdIVHM4YW52X1VvZXE5S2hXLXByX0NRRzV4dWZTbzJwQnhtYU5lLVpxNGt1QmZEcjE4dlp4M3JwclVMSzdoTnhfVVdPUXVyd28zb1hpYllObGlLTXFV?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghc400million-to-be-allocated-for-reclamation-of-galamsey-destroyed-lands-in-2027-budget-president-mahama.html",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbTIyZG5pYkJZdndCb3VpYUR2d3NobHdUeVBscDlQTXUxSFlhc1M1Sm1rWF9KcXMxaUkxdDR4LXJKeGwyU1k3VUIzbVg5Mk16d1lTWDJ5QnozS1BvSDhDZWZYZnVMdlVXS1JqYTFyTk9uODBGT252S0RzTnFUWUFUN1NtcmNmeDZHejNUVUJ2SzJfUGxLQzdIVHM4YW52X1VvZXE5S2hXLXByX0NRRzV4dWZTbzJwQnhtYU5lLVpxNGt1QmZEcjE4dlp4M3JwclVMSzdoTnhfVVdPUXVyd28zb1hpYllObGlLTXFV?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2026-04-30-mpatasie"
@@ -271,7 +356,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVFyLUh2VmZsaEVzdGM1dDdMeHBlVFlpRkp5cVRxOW16OUQyZVo1RVVVbkFTSUt5cUhXZlJMMVhVX2JhWkhFcGpNQWZwOTExX1pCcWFmNzVCNWhDSkRmc2lURVZSTVdDclVyQ0pfVWhheUJJSTA5WS1mQ3JMdXFYak1jcTVMYUVrY3NoaWJHTk5xdHBYTDhUWl82TWVnU0p2a0VrTV9YYzBpaGhRWVBUWTRMUlktUkE?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-20T11:36:49.197Z"
     },
     {
       "id": "auto-2026-10-19-government-retrieves-nearly-200-firearms-seizes-135-excavato",
@@ -471,7 +557,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFlLSlctdWwya3habXVOMWtYQ0lvNHRkT2EyVmJSdENOYXk4ZmZhcDZiMVM3Ujl3Njg1MzBYeklEdWZvdDJUWDdjNW50a3ctVkw0R2pXZDQxY3Fqb0VPbXpVWG16V0RRX2tqaWV6WTVfclBMb1Itd2tlN291aHFoZUVPSTQwdms3cUo1OXRWQnUtQ0ZBcXg0UVRrTmxuRkJKb2hHRDk3UEw2SkxQajc2TEloUHpsanpqc19LQWloVGt6YkRpeW5rbkhwR3cta0VDY0d3b3NyeUpMcjdX?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-19-wassa-esaman-forestry-commission-immobilizes-vehicles-and-mi"
     },
     {
       "id": "auto-2026-10-19-galamsey-crackdown-naimos-taskforce-destroys-cars-motorcycle",
@@ -674,6 +761,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-19-deploy-more-military-police-to-fight-galamsey-christian-coun",
+      "date": "2026-10-19",
+      "category": "forest",
+      "title": "Deploy more military, police to fight galamsey – Christian Council",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Deploy more military, police to fight galamsey – Christian Council CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEhybkdoVHdSSU5tanlWa09BYWduXzNsVWlJWGJ4cVZDekc5VjlIb0szOXFFMGNCLXVJNEIxSTlMbWdVaXk2YVhhVWxWSWtLYmh1eFpXcVloSDZsWnBQTU9ZQ21taWRZMWtxekZZeWNfdGkxdkVpeXVuWUFQT19UWWZIcFlHZ3gxckRYdHJLZFhVZjJsR2t2ODJTMzY1RjJLWncw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQMEhybkdoVHdSSU5tanlWa09BYWduXzNsVWlJWGJ4cVZDekc5VjlIb0szOXFFMGNCLXVJNEIxSTlMbWdVaXk2YVhhVWxWSWtLYmh1eFpXcVloSDZsWnBQTU9ZQ21taWRZMWtxekZZeWNfdGkxdkVpeXVuWUFQT19UWWZIcFlHZ3gxckRYdHJLZFhVZjJsR2t2ODJTMzY1RjJLWncw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
     },
     {
       "id": "auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-",
@@ -22547,8 +22654,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXdFano5SmU5QVR1UDZSY0g0cmExeDJZbGF6dk1RM3N2YjZTV3dVdERZdEk2RlJHZzkybzRFR2pwVkJhUFJJT1V0QUZ6Q0FsaWN2bVlMNGh3QjMzV1pDSUFlQVlTVTQxVThVTTBPb2VNQjhYS3hfSWdiOW8zaXpoaVRxaU5DWldyR1RyRVprRUI0U0VSdnVYZlZYWkVpbzdfMlRj?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-28-illegal-mining-ashanti-regsec-impounds-nine-excavators-in-ob"
+      "verified": false
     },
     {
       "id": "auto-2026-08-03-chiefs-queens-who-engage-in-or-aid-galamsey-will-be-prosecut",
@@ -22588,8 +22694,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnNlUlgyMXhvWVFmRTYzSFdRaGl3d1lLMm43RnBxbUNhQ3liRFF0bFY3XzduemYzWnd3UTZpRE5RQWNVbmM2dVlEMVFsU2VVbDdHbTBNdTlyLXN1bFI5ZUJ0T2xrQy1uYUVTRmE4QjY3djRZMlJMV0EtWmtrY2ZiTG1TN2c2LUp3WS1PZHhXODRmckNldWs0YmJRRUdsYjRwVWNMUjhMaVY?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king",
@@ -23506,8 +23611,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUtYbTBfTEFUNWxpYVBRVTZjVV9jSG1ybVE3d0R2c09zc1ZCcHZ0eTd0TXhwU1VjRWJDWGJtc1BXNzdmTTlXVWtRSXhnaFF0YkJNTXNidEdvQnQwLXluRy03N185SmZwV1dqT1EyTzVENDF1X19FRXhxYnV5c0VzOE5saG9yREhaU01oMk1xZThGWlVnWVNxcE80MGhiVi1DMlBROXVTMWwwRmM?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-27-illegal-mining-resumes-near-obuasi-airport-despite-security-"
+      "verified": false
     },
     {
       "id": "auto-2026-07-27-wontumi-s-20-year-jail-term-is-not-victory-in-fight-against-",
