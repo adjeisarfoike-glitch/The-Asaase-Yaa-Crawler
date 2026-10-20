@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-19T22:23:44.827Z",
+  "updated": "2026-10-20T04:50:45.162Z",
   "counts": {
-    "total": 1220,
+    "total": 1221,
     "verified": 28,
-    "automated": 1192,
+    "automated": 1193,
     "earliest": "2024-07-01",
     "latest": "2026-10-19"
   },
@@ -87,6 +87,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTFWaW5DaGVELUdxVUFoTW1UeFpQVkRESFZ4Mk5pdWRDWURkdVlLNWNFcVAzQ3IyWDE5REtUcHNJWkFvYXRiNDJXVEVHRmUyLWdQNTVtOXZGdlZPVk9yLS04aUlLcDEweGlZcTVYVW9LbnZVR21oTHdIQ0NBdG1KNEVQNHNXZnNYRU9WNlVPYVM1Q1ZDSGVDQVc3VzBJLThJbHRxQ3g0VzNMVTg1RWhFY2RCMmNIb0hrUFc3ZXNGLTRzVWQ0Qkt3M1I0RllXSEQ3eHFBUVJNVEZFT2tvTjlZ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-20T04:46:21.320Z",
       "thread": "t-auto-2026-08-28-scaling-up-small-scale-mining-key-to-tackling-galamsey-bawum"
     },
     {
@@ -108,7 +109,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGZScjY1ME53X3NTaE9QbEZWMC1ESEdBR3hQbkMwZWFQYlhFNEhuUGs2VC1BYXpONTZOREo3aDJzTlBVdlRocmtOVldjSlN4QUc0T1l1VHlQTzdMUkxPT1d2QTZGWlM1VkVla3hYcmVNalpCMW9iRVk4RDZ3TUN0RlAwM2pMTGk0RF8zenFtTndZeWN1QlA4WEhfTFdid0RuUk5j?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-20T04:46:52.455Z"
     },
     {
       "id": "auto-2026-10-19-about-200-firearms-seized-from-illegal-miners-mahama",
@@ -3802,6 +3804,25 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVB1NEd1dHFPZ2NZWDVFZzhZWGJ5dzBZcUItN1BtVHhxRVlJOExFcGhHLTJsX3B5RmZfRGtCTFV2eEwzZEJCejVWU2h6WUFNbWxGU0p1SGNDdUdVV2FIcEJzQzNEbE9UdVFkNkxyNUYyNFVLZFdQWVR3cmRCMzlFa0Y1bzY?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVB1NEd1dHFPZ2NZWDVFZzhZWGJ5dzBZcUItN1BtVHhxRVlJOExFcGhHLTJsX3B5RmZfRGtCTFV2eEwzZEJCejVWU2h6WUFNbWxGU0p1SGNDdUdVV2FIcEJzQzNEbE9UdVFkNkxyNUYyNFVLZFdQWVR3cmRCMzlFa0Y1bzY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-free-zones-ceo-rebukes-pentecost-chairman-over-galamsey-comm",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Free Zones CEO rebukes Pentecost Chairman over galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Free Zones CEO rebukes Pentecost Chairman over galamsey comments Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmRVSjAyRXA3MjkzMlZSRndyWllBdkVvR1VIaktKVXVjX21WTEtNeThzWkNSbl9hTkZjODVEaDRJVnlNZVpoTkREQUtmMEpUeFN4ZVZlSUNmX0xPWW9HOV9Yb1FZNHFKT19tYUZOdW94WGdkZVVxQldncE1UVTByeUNzRTZHS0pQVVlXQm50dFllMFE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmRVSjAyRXA3MjkzMlZSRndyWllBdkVvR1VIaktKVXVjX21WTEtNeThzWkNSbl9hTkZjODVEaDRJVnlNZVpoTkREQUtmMEpUeFN4ZVZlSUNmX0xPWW9HOV9Yb1FZNHFKT19tYUZOdW94WGdkZVVxQldncE1UVTByeUNzRTZHS0pQVVlXQm50dFllMFE?oc=5",
       "via": "rss",
       "verified": false
     },
