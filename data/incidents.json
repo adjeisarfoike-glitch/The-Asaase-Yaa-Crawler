@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-20T17:06:48.734Z",
+  "updated": "2026-10-20T21:41:37.996Z",
   "counts": {
-    "total": 1236,
+    "total": 1244,
     "verified": 28,
-    "automated": 1208,
+    "automated": 1216,
     "earliest": "2024-07-01",
     "latest": "2026-10-20"
   },
@@ -92,6 +92,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-asantehene-launches-153-hectare-land-reclamation-project.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-20T21:35:38.513Z",
       "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
     },
     {
@@ -296,6 +297,145 @@
       "verified": false,
       "archivedAt": "2026-10-20T17:05:34.659Z",
       "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-10-20-ashanti-green-initiative-launches-153-hectare-project-to-res",
+      "date": "2026-10-20",
+      "category": "reclamation",
+      "title": "Ashanti Green Initiative launches 153-hectare project to restore galamsey-damaged Lands and River",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ashanti Green Initiative launches 153-hectare project to restore galamsey-damaged Lands and River GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORU85aUdOV09rT3hrZW9VejhidTZHYThtVE1sZ0djY09QOWVXZEhMcXRRdVpKUFMwQzRhYWtkTTBydUJGQVh1b1h6Zk15ODlWRlQzNGU2bkNuSWczUkdGOW5hdTdIck9zcW12T3BzbjV6bHAwQUJMTk9EWkdFcFByajhUMTdBQ2hyelZ1XzlNUnZBR1kwVkpVdU5GSTAxRGdYbFByT0JrUWg3cHU3LWpEUEZYNXNhSjVuZ1JwOUpvekxzSU5tN3BRRjhESWtCRzhXMVFyRExn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxORU85aUdOV09rT3hrZW9VejhidTZHYThtVE1sZ0djY09QOWVXZEhMcXRRdVpKUFMwQzRhYWtkTTBydUJGQVh1b1h6Zk15ODlWRlQzNGU2bkNuSWczUkdGOW5hdTdIck9zcW12T3BzbjV6bHAwQUJMTk9EWkdFcFByajhUMTdBQ2hyelZ1XzlNUnZBR1kwVkpVdU5GSTAxRGdYbFByT0JrUWg3cHU3LWpEUEZYNXNhSjVuZ1JwOUpvekxzSU5tN3BRRjhESWtCRzhXMVFyRExn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-local-government-ministry-mmdces-are-responsible-for-stoppin",
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Local Government Ministry, MMDCEs are responsible for stopping \"galamsey\" - Mahama Ayariga",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Local Government Ministry, MMDCEs are responsible for stopping \"galamsey\" - Mahama Ayariga GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3RTSWxpQ3BqOGx3ZS1SbVNiRGttRFNyM2VrQk45MGpUUGZ1N0pFUjZZQ2RIVjVkbGFidlZwZ2JjQmJMQ1FQT21FQnpxUjJpbGFiZE10LUlyZ3ZjcjBLVU9DdDRzRHk1eXdJMlZBSjZHV3Bqa1hWWXZ0dUY3VnNtR1dhLVR2QkprQlYyT2FFODVuajQzdWtRRGhBU0hsdUxGcjRaSVJLdDVCR1ZIcTR0UWxjT3hLR1djb3E3bFJtaEpNMW44Tnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3RTSWxpQ3BqOGx3ZS1SbVNiRGttRFNyM2VrQk45MGpUUGZ1N0pFUjZZQ2RIVjVkbGFidlZwZ2JjQmJMQ1FQT21FQnpxUjJpbGFiZE10LUlyZ3ZjcjBLVU9DdDRzRHk1eXdJMlZBSjZHV3Bqa1hWWXZ0dUY3VnNtR1dhLVR2QkprQlYyT2FFODVuajQzdWtRRGhBU0hsdUxGcjRaSVJLdDVCR1ZIcTR0UWxjT3hLR1djb3E3bFJtaEpNMW44Tnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-20T21:39:49.282Z",
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-20-galamsey-operators-flee-at-sight-of-environment-minister-at-",
+      "date": "2026-10-20",
+      "category": "water",
+      "title": "Galamsey operators flee at sight of Environment Minister at Osino’s Birim River",
+      "place": "Osino",
+      "region": "Eastern",
+      "lat": 6.28,
+      "lon": -0.45,
+      "summary": "Galamsey operators flee at sight of Environment Minister at Osino’s Birim River Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjZscEo1aDEyMEktSWktZU9NQXFXNUIyYnBja0tIWWxqVGMtSldoSW10LUV3YlNVSlEzQ2hLdWhRaVBPbUhNSThyTFdGWWc4OVhTXzdBZzN5R01MUC11NVd6T2g0UlBBYmVBdUc2Q2R0MjM0VDFheGptWTlHZ25LbHk5SlRCeUkxQUsyd0lkcUJzVE05RVFySzRaY2xmNTM3RVVZZ240eGxBZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjZscEo1aDEyMEktSWktZU9NQXFXNUIyYnBja0tIWWxqVGMtSldoSW10LUV3YlNVSlEzQ2hLdWhRaVBPbUhNSThyTFdGWWc4OVhTXzdBZzN5R01MUC11NVd6T2g0UlBBYmVBdUc2Q2R0MjM0VDFheGptWTlHZ25LbHk5SlRCeUkxQUsyd0lkcUJzVE05RVFySzRaY2xmNTM3RVVZZ240eGxBZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-naimos-commander-visits-wassa-amenfi-paramount-chief-and-mce",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "NAIMOS Commander Visits Wassa Amenfi Paramount Chief And MCE, Seeks Collaboration To Fight Galamsey",
+      "place": "Wassa Amenfi",
+      "region": "Western",
+      "lat": 5.7,
+      "lon": -2.2,
+      "summary": "NAIMOS Commander Visits Wassa Amenfi Paramount Chief And MCE, Seeks Collaboration To Fight Galamsey Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFdGMlNzbzd4NnozSjNRQlJuOXhiMEVHTTY0OEdJM0kzZDFOMllULUQ5eC1vTW5YbXBlbWdtTktYS3RlV3oxM0xCLXpGUE5XNUJxRW0tWmVCRTd0ZEJOdnBJMlRtenJZMzdWVkZodUEyNVlEREY1MFAyMUNEelBPdFZMcXluem5IQWl4aDQyOWF3dS1WMndyMTlIUUthOWJHUzQ2VjVwN3p0LURHNWJFMW9wRHpCLUN4U1k3dXdaWm9EbF93NzZUUmxlVWtodFF6NUYteDlVVjF0Q0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFdGMlNzbzd4NnozSjNRQlJuOXhiMEVHTTY0OEdJM0kzZDFOMllULUQ5eC1vTW5YbXBlbWdtTktYS3RlV3oxM0xCLXpGUE5XNUJxRW0tWmVCRTd0ZEJOdnBJMlRtenJZMzdWVkZodUEyNVlEREY1MFAyMUNEelBPdFZMcXluem5IQWl4aDQyOWF3dS1WMndyMTlIUUthOWJHUzQ2VjVwN3p0LURHNWJFMW9wRHpCLUN4U1k3dXdaWm9EbF93NzZUUmxlVWtodFF6NUYteDlVVjF0Q0E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-10-20-naimos-steps-up-anti-galamsey-operations-in-wassa-amenfi-as-",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "NAIMOS steps up anti-galamsey operations in Wassa Amenfi as chiefs pledge support",
+      "place": "Wassa Amenfi",
+      "region": "Western",
+      "lat": 5.7,
+      "lon": -2.2,
+      "summary": "NAIMOS steps up anti-galamsey operations in Wassa Amenfi as chiefs pledge support MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3hseDVRUmY4dGRWQ1VnZkhqdUhZRGR6WUIxLTN0cE9ZWktVQWw5b2cybzhlNld3ZmJmT0lMV2ZoM1ZDOHpsdEJERVB2bi0yQmNQSjF0QzN2elZVWndJOXp4c1pLci1QYXpfaVRLUTR2MGU1d3Z0QlQtTm01NW9pZi0yUWNLSy04VmxXSFg0OWtzbHN1bUloblBIVXlMZFdPblljVGVWT1JYeGowV0t3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3hseDVRUmY4dGRWQ1VnZkhqdUhZRGR6WUIxLTN0cE9ZWktVQWw5b2cybzhlNld3ZmJmT0lMV2ZoM1ZDOHpsdEJERVB2bi0yQmNQSjF0QzN2elZVWndJOXp4c1pLci1QYXpfaVRLUTR2MGU1d3Z0QlQtTm01NW9pZi0yUWNLSy04VmxXSFg0OWtzbHN1bUloblBIVXlMZFdPblljVGVWT1JYeGowV0t3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-10-20-a-state-that-can-t-contain-galamsey-now-turning-full-aggress",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "A state that can’t contain galamsey, now turning full aggression on ‘hate speech’? – Yaw Nsarkoh",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has questioned the state’s approach to alleged speech offences, arguing that the apparent urgency in pursuing people over social media posts contrasts with its continued struggle to contain illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/a-state-which-cant-contain-galamsey-now-turning-full-aggression-on-hate-speech-yaw-nsarkoh/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/a-state-which-cant-contain-galamsey-now-turning-full-aggression-on-hate-speech-yaw-nsarkoh/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-20-galamsey-recurring-floods-expose-governance-failures-yaw-nsa",
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Galamsey, recurring floods expose governance failures – Yaw Nsarkoh",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former Executive Vice President of Unilever Ghana and Nigeria, Yaw Nsarkoh, has criticised successive governments for failing to adequately address illegal mining and recurring flooding.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-recurring-floods-expose-governance-failures-yaw-nsarkoh/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-recurring-floods-expose-governance-failures-yaw-nsarkoh/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-10-19-mahama-says-soldiers-to-remain-in-nine-forest-reserves-clear",
@@ -1203,7 +1343,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
     },
     {
       "id": "auto-2026-10-18-playing-at-the-fringes-with-galamsey-why-no-carrot-outbids-g",
@@ -3901,18 +4041,18 @@
       "id": "auto-2026-10-07-interpol-crackdown-on-illegal-mining-logging-and-wildlife-tr",
       "date": "2026-10-07",
       "category": "arrest",
-      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests",
+      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests - News-Press NOW",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests The Killeen Daily Herald",
+      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests News-Press NOW",
       "metrics": {},
       "source": {
-        "name": "The Killeen Daily Herald",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3FhUmNfNEhWc3Nzdm92T3RvT1EzTUNmX3UxczFXc18xVWNhMFpNMU8ya21sT2ZfTjU4aUdhaVhUdnNqak1IbnNHSU5iY1o0S3ZRaEVZRVhDdEtsN2x6VlRIUjlQTzJ2X3pSc04yRTRXQXhYQUdaOFVPZlhYeXAyV0xmUEthN25FTVo3YUQ0UDBUOGJEVTlEczl0ZUlKQVdfOXdINThhVnJmc0VVMzhIYWs4RG9xcDNzNkxPc1VWbWVJNzRtWktfTFVHdHFnRkFhQmVVNkkycG5MMUcxM28wejJPVy1wTnJ6UVJkSlhnT09IOHNaWk9fazl4dVM1U3hJ?oc=5"
+        "name": "News-Press NOW",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3FhUmNfNEhWc3Nzdm92T3RvT1EzTUNmX3UxczFXc18xVWNhMFpNMU8ya21sT2ZfTjU4aUdhaVhUdnNqak1IbnNHSU5iY1o0S3ZRaEVZRVhDdEtsN2x6VlRIUjlQTzJ2X3pSc04yRTRXQXhYQUdaOFVPZlhYeXAyV0xmUEthN25FTVo3YUQ0UDBUOGJEVTlEczl0ZUlKQVdfOXdINThhVnJmc0VVMzhIYWs4RG9xcDNzNkxPc1VWbWVJNzRtWktfTFVHdHFnRkFhQmVVNkkycG5MMUcxM28wejJPVy1wTnJ6UVJkSlhnT09IOHNaWk9fazl4dVM1U3hJ?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -4728,6 +4868,25 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEhFNWJwRHo5UGNlVHdGOGhScndYZWs1OVNTYVU4cVJqMjhNel9RZzRnZUd3TV9CZDlYSDF6ZGpCRkI1aWpyelh3WW1DS0FOc3BvT0lsejU4MjF4VnBCdzhldDRmd2RNYlpWQ08wRWIzUENudldzV2UtRjFSSS1ObWpzcEdHQUZHTE1BZmhra2FQOEU0SGpmb05zZ2g5RTV3bWYzM1JiMXRiQUMz?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEhFNWJwRHo5UGNlVHdGOGhScndYZWs1OVNTYVU4cVJqMjhNel9RZzRnZUd3TV9CZDlYSDF6ZGpCRkI1aWpyelh3WW1DS0FOc3BvT0lsejU4MjF4VnBCdzhldDRmd2RNYlpWQ08wRWIzUENudldzV2UtRjFSSS1ObWpzcEdHQUZHTE1BZmhra2FQOEU0SGpmb05zZ2g5RTV3bWYzM1JiMXRiQUMz?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-05-ghana-coalition-against-galamsey-rejects-claim-that-impunity",
+      "date": "2026-10-05",
+      "category": "forest",
+      "title": "Ghana Coalition Against Galamsey rejects claim that impunity in illegal mining has ended",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Coalition Against Galamsey rejects claim that impunity in illegal mining has ended Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDdCU2xiYmU4NFQ2NXAycW8wck1qbklsTi0wUkFpVDFNS203RDUzdzUxUkZFUlVKZThYY1BkUkVyRklIM00zd082VHJmZEhqLVNCVk9tMjliLTloZ2M5cjd0VHQ4aXNaelMzT2ZfVG1kZmxjYTdSbWNWQlJKcFdkcWp6QzFpbXotcnVYZ1lPWXlOV1NUNDZpMGFZMGJKS1k5a3F2QzBvUzd2ZEF1Q2o0WE0yVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDdCU2xiYmU4NFQ2NXAycW8wck1qbklsTi0wUkFpVDFNS203RDUzdzUxUkZFUlVKZThYY1BkUkVyRklIM00zd082VHJmZEhqLVNCVk9tMjliLTloZ2M5cjd0VHQ4aXNaelMzT2ZfVG1kZmxjYTdSbWNWQlJKcFdkcWp6QzFpbXotcnVYZ1lPWXlOV1NUNDZpMGFZMGJKS1k5a3F2QzBvUzd2ZEF1Q2o0WE0yVQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -14319,7 +14478,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-justice-must-guide-africas-energy-transition-former-lands-minister.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
     },
     {
       "id": "auto-2026-08-26-stay-away-from-galamsey-areas-ghaftram-advises-members",
@@ -14761,7 +14920,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
     },
     {
       "id": "auto-2026-08-25-ghana-must-reclaim-the-values-that-kept-our-communities-clea",
@@ -15831,8 +15991,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3BYdGo4Q05hOTlUV3l6WTc1TDBCaXM3aEFJNlpHczFvUzNvaVR6TXpKeEJWX3Uyb1d3ZGtsN21NQV9uUWVtX1hRSG9GMVUwR3dqSXhqeFAwYkRnOVRvTEVlZU1VczEtb1NMSUc1aHBRWTlKSlk4RDd4Snl5ZkVaNjlheVhkZ1VtRjhDSy1wQ3pQMkVYY1k3S3lETjIxVnlKRUo3TnFEWTcyVlhGbWc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
