@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-20T11:38:21.412Z",
+  "updated": "2026-10-20T17:06:48.734Z",
   "counts": {
-    "total": 1226,
+    "total": 1236,
     "verified": 28,
-    "automated": 1198,
+    "automated": 1208,
     "earliest": "2024-07-01",
     "latest": "2026-10-20"
   },
@@ -49,6 +49,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RSTNPekhpUjVSdURCemNuVjJqTDlYZ3RFTGVFTHdLYWR1VzFTUVB3TnBTVkJ3RnUwWWxGQ25lX0Q0dDUwWnBRWjlzTlZZOC1XZVZyb2VsMFNUTHlHcWhr0gFcQVVfeXFMUDJHN1JWejRyR2FzVDdMLVI5SmlHbXRMN3lPdGtOM2ppV19fN2lKTUtsWUlQdDNDRU4zV0cySkxrTVBsWl9NRU5xU1BNWDVRbE85Z3dQMVAtdnlNXzg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-20T17:00:05.705Z",
       "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
     },
     {
@@ -92,6 +93,209 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-10-14-asantehene-plants-trees-to-commence-jimi-watercourse-rehabil"
+    },
+    {
+      "id": "auto-2026-10-20-playing-at-the-fringes-with-galamsey-why-no-carrot-outbids-g",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "Playing At The Fringes With Galamsey: Why No Carrot Outbids Gold",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Playing At The Fringes With Galamsey: Why No Carrot Outbids Gold Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2ZELW14TDdHXzFVU1gwdi1tZ1JJOXoySVptNi05N2Q2anhuM0R5eUxzbFhOWS1oMXNDT1Ezd3ZoWDlZOTdndUFwUjh2cnJkeTJGd1duTVNuS1lkT3dwRTFrdTc5XzZQSUkwUFE1UzFVa3NxT29vQlZpRkhUWVBWNUR1UzRiVUVRalhyWXNGMWJOTWRObEpoRG5B0gGaAUFVX3lxTFBDZkQtbXhMN0dfMVVTWDB2LW1nUkk5ejJJWm02LTk3ZDZqeG4zRHl5THNsWE5ZLWgxc0NPUTN3dmhYOVk5N2d1QXBSOHZycmR5MkZ3V25NU25LWWRPd3BFMWt1NzlfNlBJSTBQUTVTMVVrc3FPb29CVmlGSFRZUFY1RHVTNGJVRVFqWHJZc0YxYk5NZE5sSmhEbkE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2ZELW14TDdHXzFVU1gwdi1tZ1JJOXoySVptNi05N2Q2anhuM0R5eUxzbFhOWS1oMXNDT1Ezd3ZoWDlZOTdndUFwUjh2cnJkeTJGd1duTVNuS1lkT3dwRTFrdTc5XzZQSUkwUFE1UzFVa3NxT29vQlZpRkhUWVBWNUR1UzRiVUVRalhyWXNGMWJOTWRObEpoRG5B0gGaAUFVX3lxTFBDZkQtbXhMN0dfMVVTWDB2LW1nUkk5ejJJWm02LTk3ZDZqeG4zRHl5THNsWE5ZLWgxc0NPUTN3dmhYOVk5N2d1QXBSOHZycmR5MkZ3V25NU25LWWRPd3BFMWt1NzlfNlBJSTBQUTVTMVVrc3FPb29CVmlGSFRZUFY1RHVTNGJVRVFqWHJZc0YxYk5NZE5sSmhEbkE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-18-nana-attobrah-quaicoe-writes-playing-at-the-fringes-with-gal"
+    },
+    {
+      "id": "auto-2026-10-20-gh-200m-allocated-to-reclaim-5-000-acres-of-galamsey-damaged",
+      "date": "2026-10-20",
+      "category": "reclamation",
+      "title": "GH¢200m allocated to reclaim 5,000 acres of galamsey-damaged land from 2027 – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GH¢200m allocated to reclaim 5,000 acres of galamsey-damaged land from 2027 – Mahama Pulse Ghana",
+      "metrics": {
+        "acres": 5000
+      },
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGN2U3h1YVZneENQeU14NW4tZ3gwcjFKZHJPM09Fc25CSUFWcGhfSW1IN1BLTHJrUG9ZRUUxQ3JiaUd2aHYwcDZnLXRjWU94bDd0bjhQVjBJUHZDdHNQV21CalNLM0t2ZUtJREIxclFoS3VxcUVPQ0QzZGM3OUhIRU9OcUhxa0RxNVZiWmhidGlQNWRSV3BJUlcwYUM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGN2U3h1YVZneENQeU14NW4tZ3gwcjFKZHJPM09Fc25CSUFWcGhfSW1IN1BLTHJrUG9ZRUUxQ3JiaUd2aHYwcDZnLXRjWU94bDd0bjhQVjBJUHZDdHNQV21CalNLM0t2ZUtJREIxclFoS3VxcUVPQ0QzZGM3OUhIRU9OcUhxa0RxNVZiWmhidGlQNWRSV3BJUlcwYUM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency"
+    },
+    {
+      "id": "auto-2026-10-20-illegal-mining-govt-retrieves-nearly-200-firearms-seizes-135",
+      "date": "2026-10-20",
+      "category": "arrest",
+      "title": "Illegal mining: Govt retrieves nearly 200 firearms, seizes 135 excavators in anti-galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining: Govt retrieves nearly 200 firearms, seizes 135 excavators in anti-galamsey fight Modern Ghana",
+      "metrics": {
+        "excavators": 135
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EZUdnUmtuUldoLVhUWUF2MDN3cVp3WTJDWThmN3lZSTdDSE9LUzNVZ3pZc0w5aWczSTNwLTVFTlhQYjVTMmRRdVRXbWl2NDRjckVzUGFzQ2UtSWM5YTZQcFhqWUTSAVxBVV95cUxPeC12cUloMGREdjZsVUZoR0JQY2xTcEVtV2htdVhua2ttNkFneGpEZ2hmSXZIVjVOVzRwT2c0S3F5eW1fMG85eHkwMGYzQjlWQnJJR2lVVEhuVGU5QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EZUdnUmtuUldoLVhUWUF2MDN3cVp3WTJDWThmN3lZSTdDSE9LUzNVZ3pZc0w5aWczSTNwLTVFTlhQYjVTMmRRdVRXbWl2NDRjckVzUGFzQ2UtSWM5YTZQcFhqWUTSAVxBVV95cUxPeC12cUloMGREdjZsVUZoR0JQY2xTcEVtV2htdVhua2ttNkFneGpEZ2hmSXZIVjVOVzRwT2c0S3F5eW1fMG85eHkwMGYzQjlWQnJJR2lVVEhuVGU5QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-goldbod-reforms-recover-gold-worth-11-4bn-previously-lost-th",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "GoldBod reforms recover gold worth $11.4bn previously lost through trade leakages – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has highlighted the scale of gold trade leakages Ghana faced before the introduction of reforms to formalise the artisanal and small-scale mining sector.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-reforms-recover-gold-worth-11-4bn-previously-lost-through-trade-leakages-sammy-gyamfi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-reforms-recover-gold-worth-11-4bn-previously-lost-through-trade-leakages-sammy-gyamfi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-10-20-goldbod-to-launch-financing-support-programme-for-small-scal",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "GoldBod to launch financing support programme for small-scale miners in 2027 – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) will introduce an Artisanal and Small-scale Mining Formalisation and Financing Support Programme in 2027 to improve productivity, create jobs and reduce the environmental impact of mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-to-launch-financing-support-programme-for-small-scale-miners-in-2027-sammy-gyamfi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-to-launch-financing-support-programme-for-small-scale-miners-in-2027-sammy-gyamfi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-10-20-mining-company-seeks-govt-s-intervention-over-destruction-of",
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Mining company seeks govt’s intervention over destruction of assets",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "An indigenous mining company, Narawa Company Limited, has appealed to the government to intervene and stop the destruction of the company’s assets and unlawful takeover of its mining concessions. The company said there was a High Court order in suit number GJ/CM/MISC/0216/26, restraining any form of interference with its operations pending the final determination of an arbitral dispute regarding the legality of the r",
+      "metrics": {},
+      "source": {
+        "name": "Due to pending court order",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-mining-company-seeks-govts-intervention-over-destruction-of-assets-due-to-pending-court-order.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-mining-company-seeks-govts-intervention-over-destruction-of-assets-due-to-pending-court-order.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-5-4-tonnes-of-5-7-tonnes-of-asm-gold-purchased-in-october-re",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "5.4 tonnes of 5.7 tonnes of ASM gold purchased in October refined locally – GoldBod CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) says it has refined 5.4 tonnes of artisanal and small-scale mining (ASM) gold locally so far in October 2026, representing 94.6% of the 5.7 tonnes purchased during the month.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/5-4-tonnes-of-5-7-tonnes-of-asm-gold-purchased-in-october-refined-locally-goldbod-ceo"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/5-4-tonnes-of-5-7-tonnes-of-asm-gold-purchased-in-october-refined-locally-goldbod-ceo",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-goldbod-reforms-target-11-4bn-gold-trade-gap-sammy-gyamfi",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "GoldBod reforms target $11.4bn gold trade gap – Sammy Gyamfi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, says reforms introduced to formalise the artisanal and small-scale mining sector are aimed at addressing significant leakages in Ghana’s gold trade. He cited a SWISSAID analysis of UN Comtrade mirror data, which identified a discrepancy of 229 tonnes, valued at approximately US$11.4 billion, […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/goldbod-reforms-target-11-4bn-gold-trade-gap-sammy-gyamfi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-reforms-target-11-4bn-gold-trade-gap-sammy-gyamfi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-10-20-goldbod-refinery-partnerships-push-local-gold-processing-to-",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "GoldBod Refinery Partnerships Push Local Gold Processing to 94.6% in October",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Magdalene Andoh The Ghana Gold Board (GoldBod) says it has locally refined 94.6 per cent of the artisanal and small-scale mining (ASM) gold it purchased in October, marking significant progress in Ghana’s drive to retain more value from its mineral resources. GoldBod Chief Executive Officer, Sammy Gyamfi, Esq., disclosed this in a keynote address […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/goldbod-refinery-partnerships-push-local-gold-processing-to-94-6-in-october/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-refinery-partnerships-push-local-gold-processing-to-94-6-in-october/2026/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-20T17:05:21.577Z",
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
+    },
+    {
+      "id": "auto-2026-10-20-goldbod-exports-85-4-tonnes-of-small-scale-gold-worth-us-11-",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "GoldBod Exports 85.4 Tonnes of Small-Scale Gold Worth US$11.6 Billion in 2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Magdalene Andoh The Ghana Gold Board has aggregated and exported 85.4 tonnes of artisanal and small-scale mining gold valued at US$11.6 billion between January 1 and October 20, 2026, according to its Chief Executive Officer, Sammy Gyamfi, Esq. The performance places the small-scale sector ahead of large-scale mining exports over the same period, with […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/goldbod-exports-85-4-tonnes-of-small-scale-gold-worth-us11-6-billion-in-2026/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-exports-85-4-tonnes-of-small-scale-gold-worth-us11-6-billion-in-2026/2026/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-20T17:05:34.659Z",
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-10-19-mahama-says-soldiers-to-remain-in-nine-forest-reserves-clear",
@@ -2955,7 +3159,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-12T15:18:00.080Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-10-12-galamsey-silts-birim-river-as-kibi-water-treatment-plant-shu",
@@ -6116,7 +6320,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMmRXemdWTEhJYng2U2p4THB5LVBwZUNIV1pxWjhkMGc5S2dsNHFrSDRZRjNZbmszcG1obENwYmVPX1ZrcVloMUY3QzBBWG43OWwzN1l2aDI5bFB4T2FIZ19MQTI1dFptdnlZQURhc0hIRVk2N1N0T1RSZEhrb3pFWU5OS1hwVzRQWnZmamFKQTlEYTN4ZkNhb25EWUlzejdSZVd4eXc0bThibDd2LUo3a25Cb3ZhUHdJ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T11:22:33.608Z"
+      "archivedAt": "2026-09-26T11:22:33.608Z",
+      "thread": "t-auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-ll-declare-a-state-of-emergency-mahama-on-gal",
@@ -11352,7 +11557,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-05T10:38:45.447Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-09-04-changfan-on-weija-dam-sparks-concerns-video",
@@ -12462,7 +12667,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-31T22:49:23.857Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-31-13-mining-blocks-secured-for-small-scale-miners-minerals-com",
@@ -17710,7 +17915,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-to-reclaim-50-hectares-of-degraded-land-in-tano-numri-forest/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-18-stop-chasing-excavator-operators-go-after-galamsey-financier",
@@ -20387,7 +20592,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-10T15:19:52.065Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-10-poor-formalisation-of-small-scale-mining-worsened-galamsey-c",
@@ -20408,7 +20613,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-10T15:20:05.039Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-10-a-time-may-come-when-the-land-cannot-yield-crops-duncan-will",
@@ -20470,8 +20675,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://asaaseradio.com/goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi/?utm_source=rss&utm_medium=rss&utm_campaign=goldbod-targets-three-forest-reserves-for-reclamation-in-2027-sammy-gyamfi",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T15:58:39.881Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "archivedAt": "2026-08-10T15:58:39.881Z"
     },
     {
       "id": "auto-2026-08-10-take-galamsey-fight-seriously-if-we-want-to-remain-in-power-",
@@ -20593,7 +20797,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-10T13:47:09.490Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-10-sammy-gyamfi-pushes-sustainable-mining-reforms-to-help-end-g",
@@ -20613,8 +20817,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGhIUTJBVS1fblcwWE95dTZPSWp0d1JBUnh1SmNxVTEwMTNSbVU3am16aXUtNWF5ZXNFM0hyc3k1czBiejdleGVOdmx6Z2o0NFRDM0N2alZVdEJ6UldTbmUzOFdHOWZ6a0ZSZTF3QWZPZlhZMFNkaVBHcmJ3ajFoNU1paDVjcXZXd25LWVhrMXl5QldPRmfSAZYBQVVfeXFMTXhoSFEyQVUtX25XMFhPeXU2T0lqdHdSQVJ4dUpjcVUxMDEzUm1VN2pteml1LTVheWVzRTNIcnN5NXMwYno3ZXhlTnZsemdqNDRUQzNDdmpWVXRCelJXU25lMzhXRzlmemtGUmUxd0FmT2ZYWTBTZGlQR3Jid2oxaDVNaWg1Y3F2V3duS1lYazF5eUJXT0Zn?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-10T16:23:46.651Z",
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "archivedAt": "2026-08-10T16:23:46.651Z"
     },
     {
       "id": "auto-2026-08-10-galamsey-fight-gomoa-assin-chief-proposes-shoot-on-sight-app",
@@ -20653,8 +20856,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnpLRFFIRVpXaC1jZGpCOUdsZmVBUTVIVjdTUG5neTBtbVNrV1dpa29iNU5vbmpVYlpIa2ZWRElqQVdkWHgwWUdvMk9rZERuY0RZQlJraHoyLVkzSDl2MlFZZmR5VTllcUNBNVlzalM4Qm9NWXNhTkd3RGYyMkRyZUF3?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-illegal-mining-pulling-ghana-s-school-children-out-of-classr",
@@ -20971,7 +21173,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-generated-10-8bn-in-forex-from-small-scale-gold-sammy-gyamfi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-08-10-atronie-chiefs-protest-galamsey-destruction-of-river-amoma",
@@ -21168,8 +21370,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0Y2RzhVVEhzNDNqVlZhM191M3kxaWtQd2FaWkFTeWNfVE9YZ0dERTlVVU9FbFVGUkFkeGlLRXlHYmh0RWptdjBtUFVaRzFGTTFYQ0dUR21odGp2bVBqTGw1eUFLdG4tQ0pJaFdhR2thNko0X0xaYkN4cTRPMjJ1MWMzODNxdFVseGF0ZkdEa0lDaW41WmNNTk1Fby11VFZTZEN2X191MjJYd2ZNUW9PbVlycFpNejkxNkJaa2pMclg?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-09-sammy-gyamfi-decades-of-poor-mining-regulation-worsened-gala",
@@ -21188,8 +21389,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxORENzWWlMcHpxdVZnbmI4bFpaN20xdXRtY3UyR1AwQnlybjRqa1JPa0Y4Y2sxOFNGeDFKUEtpdkxwYlVRX0VGLWhLNGJMdVQ2dHdCMVY5T0ZkTlJtdWhtcEJydXRlWHlrSVpzcU01RW54LXRaaERDZlczZFNOWV9nQnFYcjUycTE0bm03dDl5YkV2RFU3dTFlUlQ5a0JsZXR6M0k1a3dmcDZ5TEtJWGc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-06-stop-galamsey-to-honour-crash-victims-sammy-awuku-tells-gov-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-09-galamsey-atronie-residents-block-road-over-destruction-of-ri",
