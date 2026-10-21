@@ -1,13 +1,95 @@
 {
-  "updated": "2026-10-21T04:48:55.090Z",
+  "updated": "2026-10-21T11:51:34.311Z",
   "counts": {
-    "total": 1251,
+    "total": 1256,
     "verified": 28,
-    "automated": 1223,
+    "automated": 1228,
     "earliest": "2024-07-01",
-    "latest": "2026-10-20"
+    "latest": "2026-10-21"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-21-government-to-invest-10-billion-to-create-jobs-curb-galamsey",
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "Government to invest $10 billion to create jobs, curb galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government to invest $10 billion to create jobs, curb galamsey Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNU8xZ2xidGY4a25qLXNDOGVaMTUtc2k5bUw2WlRpdTQ4OXhFQk1nTDRFZlVLbWRsUy02cWZhbkM0a3I3R1g5cXZyRW9Wd2F2aXNPUHdlaFFsc3F0ejc1UW1VaFlrZm5xQk9oZnRvOFI4SHdidzlMd0N2M094cm5HNUZtTWM4cS1zZFp5cXgzdk84cldNQVZyb0czRWYycGhTWUdKUWtzWUltU2RJZ2pMWHk4T2xraVJzTko3TzNB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPNU8xZ2xidGY4a25qLXNDOGVaMTUtc2k5bUw2WlRpdTQ4OXhFQk1nTDRFZlVLbWRsUy02cWZhbkM0a3I3R1g5cXZyRW9Wd2F2aXNPUHdlaFFsc3F0ejc1UW1VaFlrZm5xQk9oZnRvOFI4SHdidzlMd0N2M094cm5HNUZtTWM4cS1zZFp5cXgzdk84cldNQVZyb0czRWYycGhTWUdKUWtzWUltU2RJZ2pMWHk4T2xraVJzTko3TzNB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-21T11:44:36.067Z"
+    },
+    {
+      "id": "auto-2026-10-21-mahama-ayariga-says-local-gov-t-ministry-mmdces-responsible-",
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "Mahama Ayariga says Local Gov’t Ministry, MMDCEs responsible for stopping galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama Ayariga says Local Gov’t Ministry, MMDCEs responsible for stopping galamsey GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BTGpyODVuWXpvZ0k0Vi14U1Vwckl0M3VYeW8ydTZGTEJkUDFrWGEyLWpSRTJsWXNsSVd4YUtRV1dGWlBqUlZiM0hqSExDTU5ZZWNWS1Uwa1pVUDZ6dE1kSk9IeGtVOU5MMGIzS25WZVpadw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMickFVX3lxTE5BTGpyODVuWXpvZ0k0Vi14U1Vwckl0M3VYeW8ydTZGTEJkUDFrWGEyLWpSRTJsWXNsSVd4YUtRV1dGWlBqUlZiM0hqSExDTU5ZZWNWS1Uwa1pVUDZ6dE1kSk9IeGtVOU5MMGIzS25WZVpadw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-21T11:45:06.019Z",
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-21-watch-as-anti-galamsey-task-force-storm-forest-to-dismantle-",
+      "date": "2026-10-21",
+      "category": "arrest",
+      "title": "Watch as anti-galamsey task force storm forest to dismantle illegal mining hideout",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Watch as anti-galamsey task force storm forest to dismantle illegal mining hideout GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYncxSHZVSW1RVTdSSS1JYnI5VUN3ak5mNGVoTXNDelVFRjJ1OE9yb1huUFE1WWJyQldyTTBvLXBTeV9vaGNNRDFWbGctNUIwbXgxN2phWl9ITVZzNnZnc3RPZnlUcHhSM1JMa0U3STBIUDNrYUpJX3NXYm11Nm5PaXlvcDhpTEZnVkZCNGY1Sm80UDBJX204V3k2WUVNZjZxcnlLUUdjcmNmblB0VFpra1EzNGswLVpGUncwQ1ZVRWFhNW55Z0ZyUmZFVW1sYjZPbU1iS2NjSnM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYncxSHZVSW1RVTdSSS1JYnI5VUN3ak5mNGVoTXNDelVFRjJ1OE9yb1huUFE1WWJyQldyTTBvLXBTeV9vaGNNRDFWbGctNUIwbXgxN2phWl9ITVZzNnZnc3RPZnlUcHhSM1JMa0U3STBIUDNrYUpJX3NXYm11Nm5PaXlvcDhpTEZnVkZCNGY1Sm80UDBJX204V3k2WUVNZjZxcnlLUUdjcmNmblB0VFpra1EzNGswLVpGUncwQ1ZVRWFhNW55Z0ZyUmZFVW1sYjZPbU1iS2NjSnM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
+    },
+    {
+      "id": "auto-2026-10-21-gold-alone-can-t-sustain-economic-gains-isser",
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "Gold alone can’t sustain economic gains — ISSER",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s $10 billion merchandise trade surplus in 2025 was driven largely by gold exports, exposing the economy’s vulnerability to volatile international commodity prices and underscoring the urgent need to diversify exports, the Director of the Institute of Statistical, Social and Economic Research (ISSER), Professor Robert Darko Osei, has warned. He said although Ghana recorded significant macroeconomic improvements",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-gold-alone-cant-sustain-economic-gains-isser.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-gold-alone-cant-sustain-economic-gains-isser.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-21T11:46:24.775Z",
+      "thread": "t-auto-2026-08-11-galamsey-has-polluted-60-of-ghana-s-water-bodies-csir-wri-sc"
+    },
     {
       "id": "auto-2026-10-20-christian-council-urges-govt-to-deploy-more-military-police-",
       "date": "2026-10-20",
@@ -522,6 +604,26 @@
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
+      "id": "auto-2026-10-20-anti-galamsey-taskforce-raids-wassa-esaman-mining-site-destr",
+      "date": "2026-10-20",
+      "category": "arrest",
+      "title": "Anti-galamsey taskforce raids Wassa Esaman mining site, destroys structures and vehicles",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Anti-galamsey taskforce raids Wassa Esaman mining site, destroys structures and vehicles GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlVMeE9zdWFnRXhCdVNZZVAzd3J0NE9YbUxuclRURGhpU2JzVTZaSUIxUkVWZVFPYXZ5MzVYZ3dWazZtaXR4dU8xYVM5VzdLSFZEOFlWX21tYUYzaTVMbFhpZmNpT0RrcUwxSVdoT2h4YU13S2tsVWxDX3RsTWtaWVppVlJRbU5va28yNS13VmRlMGVmNnZ5M2diby0tZExBYnBpLXN4ZzVGT2lveVhYVHdjVXRuSDdVSnN3dFlRUndQZ1Z3RTA4ZWY0YnZVV3J1VUlhT1NOajZzeU1LeFY0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlVMeE9zdWFnRXhCdVNZZVAzd3J0NE9YbUxuclRURGhpU2JzVTZaSUIxUkVWZVFPYXZ5MzVYZ3dWazZtaXR4dU8xYVM5VzdLSFZEOFlWX21tYUYzaTVMbFhpZmNpT0RrcUwxSVdoT2h4YU13S2tsVWxDX3RsTWtaWVppVlJRbU5va28yNS13VmRlMGVmNnZ5M2diby0tZExBYnBpLXN4ZzVGT2lveVhYVHdjVXRuSDdVSnN3dFlRUndQZ1Z3RTA4ZWY0YnZVV3J1VUlhT1NOajZzeU1LeFY0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-19-wassa-esaman-forestry-commission-immobilizes-vehicles-and-mi"
+    },
+    {
       "id": "auto-2026-10-19-mahama-says-soldiers-to-remain-in-nine-forest-reserves-clear",
       "date": "2026-10-19",
       "category": "forest",
@@ -564,23 +666,22 @@
       "id": "auto-2026-10-19-naimos-destroys-92-chanfang-machines-arrests-three-suspected",
       "date": "2026-10-19",
       "category": "arrest",
-      "title": "NAIMOS destroys 92 chanfang machines, arrests three suspected illegal miners on Tano River",
+      "title": "NAIMOS destroys 92 chanfang machines, arrests three suspected galamseyers on Tano River",
       "place": "Tano River",
       "region": "Western North",
       "lat": 6.3,
       "lon": -2.6,
-      "summary": "NAIMOS destroys 92 chanfang machines, arrests three suspected illegal miners on Tano River Modern Ghana",
+      "summary": "NAIMOS destroys 92 chanfang machines, arrests three suspected galamseyers on Tano River Ghana News Agency",
       "metrics": {
         "changfan": 92
       },
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlhXb1JSX3BaV25KZW1CZ3RJUFRfdk16dGtpRFhlSnBHemZoQXUxQ0I2UHpHZW41eHNnSnZDLVRiY2N1WldjckhQSlE2YnQ3UTVYZU5WRm4xeExXTHJlZFhYNlJRbVdyWmhNWVdQZWlZZGpTMWhoLWVjWXdKOXQ4TlFxWGFnbDBmMjA2RHppY09PdVBvdGhSVXgwa9IBmgFBVV95cUxNR2VkYUYyYlNidmkyQXZaRTQwb0VyN3N0V0V6RzNZai1RSHdPYVZpaFpIMGpFZ3N6eVBsWVk3NFlGV0hzd0pWNU5nTE1CbzB6SjdoN3Z0QXBhbkZ5ZVRzOUxjZ1VXajBPNjVEeE9oX0E1bzV5am1LVEtPaDFOWlFzYnRHSmJhVFV0NHRfNDY1M2lIQVN4bkhLV3p3?oc=5"
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVpzd0k2MkR1eHNzV08yRDVyX3JRYXVqbkJpTkVua3E4T1dUWXBSYThNZktrVGMxdUJnNzJUazNhS1RYdjA2MUVIQ29QV1VteEhKSExEeDdDZkgtb1gwTFBJekRUQ3FXU1BZN1gzZWhENzduVE9kZlluWDl0eWF6VlROb1V0aDlmaEVleTEwV3ZabmlJdmZDbURfWHBXM3RDSWJtUk5yMnVGbU9MRFY5WlV4bGE?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlhXb1JSX3BaV25KZW1CZ3RJUFRfdk16dGtpRFhlSnBHemZoQXUxQ0I2UHpHZW41eHNnSnZDLVRiY2N1WldjckhQSlE2YnQ3UTVYZU5WRm4xeExXTHJlZFhYNlJRbVdyWmhNWVdQZWlZZGpTMWhoLWVjWXdKOXQ4TlFxWGFnbDBmMjA2RHppY09PdVBvdGhSVXgwa9IBmgFBVV95cUxNR2VkYUYyYlNidmkyQXZaRTQwb0VyN3N0V0V6RzNZai1RSHdPYVZpaFpIMGpFZ3N6eVBsWVk3NFlGV0hzd0pWNU5nTE1CbzB6SjdoN3Z0QXBhbkZ5ZVRzOUxjZ1VXajBPNjVEeE9oX0E1bzV5am1LVEtPaDFOWlFzYnRHSmJhVFV0NHRfNDY1M2lIQVN4bkhLV3p3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVpzd0k2MkR1eHNzV08yRDVyX3JRYXVqbkJpTkVua3E4T1dUWXBSYThNZktrVGMxdUJnNzJUazNhS1RYdjA2MUVIQ29QV1VteEhKSExEeDdDZkgtb1gwTFBJekRUQ3FXU1BZN1gzZWhENzduVE9kZlluWDl0eWF6VlROb1V0aDlmaEVleTEwV3ZabmlJdmZDbURfWHBXM3RDSWJtUk5yMnVGbU9MRFY5WlV4bGE?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-10-19T22:20:20.221Z"
+      "verified": false
     },
     {
       "id": "auto-2026-10-19-when-they-mentioned-1-3-3-jobs-maybe-they-meant-galamsey-the",
