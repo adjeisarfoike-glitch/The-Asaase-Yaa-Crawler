@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-21T11:51:34.311Z",
+  "updated": "2026-10-21T17:16:25.540Z",
   "counts": {
-    "total": 1256,
+    "total": 1262,
     "verified": 28,
-    "automated": 1228,
+    "automated": 1234,
     "earliest": "2024-07-01",
     "latest": "2026-10-21"
   },
@@ -89,6 +89,108 @@
       "verified": false,
       "archivedAt": "2026-10-21T11:46:24.775Z",
       "thread": "t-auto-2026-08-11-galamsey-has-polluted-60-of-ghana-s-water-bodies-csir-wri-sc"
+    },
+    {
+      "id": "auto-2026-10-21-toxic-metals-from-galamsey-found-in-vegetables-across-mining",
+      "date": "2026-10-21",
+      "category": "forest",
+      "title": "Toxic metals from galamsey found in vegetables across mining districts",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Study",
+        "url": "https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-21-it-doesn-t-matter-whether-they-belong-to-ndc-or-npp-awula-se",
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "“It doesn't matter whether they belong to NDC or NPP” — Awula Serwah criticises successive governments over galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“It doesn't matter whether they belong to NDC or NPP” — Awula Serwah criticises successive governments over galamsey Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWNyNEMtMWVXMEhJeDRMUTQ5by1PZmVjcWt3X2l5ZFNUekNuaWhtSjRoQ0pGalRCVTNEUjcxMGllVzBma1lzbWI4emxlck9PVDFjLTVHc29nU0FMbXZLT051RjdkMVFWQ1VyMDgtWkZweEtRamQtV2U2YnphVmhNcHRvSTNLVjRweXRyenNzM3JROGVETHc2RTlwWTVCR1VJQTh5M01SeVpYY0U2aWt1eWEyd2lEWmc5N1V0X0dUVFlNelNiZXJBRFo0UEZ5al9OZnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWNyNEMtMWVXMEhJeDRMUTQ5by1PZmVjcWt3X2l5ZFNUekNuaWhtSjRoQ0pGalRCVTNEUjcxMGllVzBma1lzbWI4emxlck9PVDFjLTVHc29nU0FMbXZLT051RjdkMVFWQ1VyMDgtWkZweEtRamQtV2U2YnphVmhNcHRvSTNLVjRweXRyenNzM3JROGVETHc2RTlwWTVCR1VJQTh5M01SeVpYY0U2aWt1eWEyd2lEWmc5N1V0X0dUVFlNelNiZXJBRFo0UEZ5al9OZnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
+    },
+    {
+      "id": "auto-2026-10-21-naimos-destroys-92-chanfang-machines-in-four-days-on-tano-ri",
+      "date": "2026-10-21",
+      "category": "water",
+      "title": "NAIMOS destroys 92 chanfang machines in four days on Tano River",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "NAIMOS destroys 92 chanfang machines in four days on Tano River MyJoyOnline",
+      "metrics": {
+        "changfan": 92
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkpyUjJjSFp3Q1AyWHZUMzV2b2hOZVpfeHk0OG5qMDZYdTgxS0lHR2JSbXdmUWtSMVgtNlpjbFd5NlItLUk4NHVsR1pMaXoycmozeE5YRExFTTVhY1Q3anBqdXJzejNBaVJmcUdxaXI5ZThneW5lRFFuS1czQXJJNHhubzBoMUk1Wk1kZ0JpOUZvczNFaFRn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxObkpyUjJjSFp3Q1AyWHZUMzV2b2hOZVpfeHk0OG5qMDZYdTgxS0lHR2JSbXdmUWtSMVgtNlpjbFd5NlItLUk4NHVsR1pMaXoycmozeE5YRExFTTVhY1Q3anBqdXJzejNBaVJmcUdxaXI5ZThneW5lRFFuS1czQXJJNHhubzBoMUk1Wk1kZ0JpOUZvczNFaFRn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-21-naimos-destroys-92-chanfang-machines-in-four-days-of-anti-il",
+      "date": "2026-10-21",
+      "category": "water",
+      "title": "NAIMOS destroys 92 chanfang machines in four days of anti-illegal mining operations on Tano River",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says it has destroyed 92 chanfang machines in four days during operations against illegal mining on the Tano River at Asemkrom in the Aowin District of the Western North Region. The latest operation, conducted on October 18, followed an earlier exercise on October 15, when the task force […]",
+      "metrics": {
+        "changfan": 92
+      },
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-destroys-92-chanfang-machines-in-four-days-of-anti-illegal-mining-operations-on-tano-river/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-destroys-92-chanfang-machines-in-four-days-of-anti-illegal-mining-operations-on-tano-river/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-21-gis-arrests-34-year-old-foreigner-for-human-trafficking-othe",
+      "date": "2026-10-21",
+      "category": "arrest",
+      "title": "GIS arrests 34-year-old foreigner for human trafficking; others on the run",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "The Savannah Regional Command of the Ghana Immigration Service (GIS), led by Deputy Commissioner of Immigration, Lawrence Agyei Agyapong, has arrested a 34-year-old Nigerian national known as Prince James, a.k.a. Prince Odogunu, for alleged human trafficking in Clooth, an illegal mining community in the Bole District of the Savannah Region. According to some stakeholders, Clooth […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/gis-arrests-34-year-old-foreigner-for-human-trafficking-others-on-the-run/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/gis-arrests-34-year-old-foreigner-for-human-trafficking-others-on-the-run/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-namibia-high-commissioner-embarks-on-familiarisation-tour-of"
     },
     {
       "id": "auto-2026-10-20-christian-council-urges-govt-to-deploy-more-military-police-",
@@ -666,20 +768,20 @@
       "id": "auto-2026-10-19-naimos-destroys-92-chanfang-machines-arrests-three-suspected",
       "date": "2026-10-19",
       "category": "arrest",
-      "title": "NAIMOS destroys 92 chanfang machines, arrests three suspected galamseyers on Tano River",
+      "title": "NAIMOS destroys 92 chanfang machines, arrests three suspected illegal miners on Tano River",
       "place": "Tano River",
       "region": "Western North",
       "lat": 6.3,
       "lon": -2.6,
-      "summary": "NAIMOS destroys 92 chanfang machines, arrests three suspected galamseyers on Tano River Ghana News Agency",
+      "summary": "NAIMOS destroys 92 chanfang machines, arrests three suspected illegal miners on Tano River Modern Ghana",
       "metrics": {
         "changfan": 92
       },
       "source": {
-        "name": "Ghana News Agency",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVpzd0k2MkR1eHNzV08yRDVyX3JRYXVqbkJpTkVua3E4T1dUWXBSYThNZktrVGMxdUJnNzJUazNhS1RYdjA2MUVIQ29QV1VteEhKSExEeDdDZkgtb1gwTFBJekRUQ3FXU1BZN1gzZWhENzduVE9kZlluWDl0eWF6VlROb1V0aDlmaEVleTEwV3ZabmlJdmZDbURfWHBXM3RDSWJtUk5yMnVGbU9MRFY5WlV4bGE?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlhXb1JSX3BaV25KZW1CZ3RJUFRfdk16dGtpRFhlSnBHemZoQXUxQ0I2UHpHZW41eHNnSnZDLVRiY2N1WldjckhQSlE2YnQ3UTVYZU5WRm4xeExXTHJlZFhYNlJRbVdyWmhNWVdQZWlZZGpTMWhoLWVjWXdKOXQ4TlFxWGFnbDBmMjA2RHppY09PdVBvdGhSVXgwa9IBmgFBVV95cUxNR2VkYUYyYlNidmkyQXZaRTQwb0VyN3N0V0V6RzNZai1RSHdPYVZpaFpIMGpFZ3N6eVBsWVk3NFlGV0hzd0pWNU5nTE1CbzB6SjdoN3Z0QXBhbkZ5ZVRzOUxjZ1VXajBPNjVEeE9oX0E1bzV5am1LVEtPaDFOWlFzYnRHSmJhVFV0NHRfNDY1M2lIQVN4bkhLV3p3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVpzd0k2MkR1eHNzV08yRDVyX3JRYXVqbkJpTkVua3E4T1dUWXBSYThNZktrVGMxdUJnNzJUazNhS1RYdjA2MUVIQ29QV1VteEhKSExEeDdDZkgtb1gwTFBJekRUQ3FXU1BZN1gzZWhENzduVE9kZlluWDl0eWF6VlROb1V0aDlmaEVleTEwV3ZabmlJdmZDbURfWHBXM3RDSWJtUk5yMnVGbU9MRFY5WlV4bGE?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlhXb1JSX3BaV25KZW1CZ3RJUFRfdk16dGtpRFhlSnBHemZoQXUxQ0I2UHpHZW41eHNnSnZDLVRiY2N1WldjckhQSlE2YnQ3UTVYZU5WRm4xeExXTHJlZFhYNlJRbVdyWmhNWVdQZWlZZGpTMWhoLWVjWXdKOXQ4TlFxWGFnbDBmMjA2RHppY09PdVBvdGhSVXgwa9IBmgFBVV95cUxNR2VkYUYyYlNidmkyQXZaRTQwb0VyN3N0V0V6RzNZai1RSHdPYVZpaFpIMGpFZ3N6eVBsWVk3NFlGV0hzd0pWNU5nTE1CbzB6SjdoN3Z0QXBhbkZ5ZVRzOUxjZ1VXajBPNjVEeE9oX0E1bzV5am1LVEtPaDFOWlFzYnRHSmJhVFV0NHRfNDY1M2lIQVN4bkhLV3p3?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3361,8 +3463,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QczFxa3haRmxrNTEzc21yY1ZOZi1qQzV5QUxoLVVZUGtzZGh1SEJuWWNjdlNQR0ZuUVBzSUlEYTZ6VFoxNDdLazN0M25jc2JRUDltckpQX01rYmxKU2lYbFZ1QdIBXEFVX3lxTE9mc3lTZm9XM2lVejVZa1k5WmhJNm9UWFctWlYyQ0lEenUzZ2FFR2xOTmpfSWZDeWZmcF9aejllR2R5NHlWV1NXVG9lZG5mTkZjYlFLMHVDdFdMYmdj?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-13T22:44:09.587Z",
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "archivedAt": "2026-10-13T22:44:09.587Z"
     },
     {
       "id": "auto-2026-10-13-atta-akyea-denies-seeking-presidential-pardon-for-wontumi-in",
@@ -4157,6 +4258,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
+    },
+    {
+      "id": "auto-2026-10-08-illegal-mining-could-force-ghana-to-import-water-author-warn",
+      "date": "2026-10-08",
+      "category": "forest",
+      "title": "Illegal mining could force Ghana to import water, author warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal mining could force Ghana to import water, author warns Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0ptVjlMdVVkZGt6ZVpfMl9yMVRNMWpwY05iNlkyU19FZm1HTGtYNk54bXJEUW5ycFl1ZVFZM3RuMlJkejhYZ0xLd3cxcGJzMFdBdjZWdGtTM09lNkRDMHNRNjFZX1oxZVZ5cHpNZmlRNjBBWXpYLUpPTXMyUGZlYkRkWlJlbDJqdkQ0RXluUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0ptVjlMdVVkZGt6ZVpfMl9yMVRNMWpwY05iNlkyU19FZm1HTGtYNk54bXJEUW5ycFl1ZVFZM3RuMlJkejhYZ0xLd3cxcGJzMFdBdjZWdGtTM09lNkRDMHNRNjFZX1oxZVZ5cHpNZmlRNjBBWXpYLUpPTXMyUGZlYkRkWlJlbDJqdkQ0RXluUQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
@@ -5424,7 +5544,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-03T16:16:34.618Z",
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-10-02-the-fight-against-galamsey-has-not-been-lost-schandorf-respo",
@@ -9198,7 +9318,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNMU1M4MUdHUUlMZkxvNlJCYjdRZU9JalZkRlJKTER2QXA0XzlrV3ltQVJtalBxaGdkYW1XZlE1X1dXZ2lUaEphU0gtTG9sVWdjeUlUSUNlZWxGSGlzOUNTM1EwOTBTdHgyVDB6TTFjaXg3TVNvUS1XeUJ2SldnZ0NpeGxiN3dFMExTekgtWjlKanhO?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
     },
     {
       "id": "auto-2026-09-14-painful-scenes-as-obituary-poster-of-8-lost-in-galamsey-pit-",
@@ -10131,7 +10251,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-12T04:32:17.206Z",
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-09-11-naimos-launches-operation-water-shield-targets-galamsey-fina",
@@ -12394,7 +12514,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNdDFCcE9raFAyQ2o4NzJYekhkZExlNzV2NEZ4RW5DQ3FpTUFVbTlaUlI5eEdLUFp0OE5jX0pWVVNWSmJJeTVtZ1FnS25FXzBpaHVOcmFBY2Ewdy1TSXQ5cm1JONIBXEFVX3lxTE5ucjBvM1AxbkFKQzhrNEJWaWtkODZTNDY0NmdXZ0pIVzJkRUpCZFdNZWlFZmZjSS02cVEtR09KaUhlSVdOT1B5YnVMd3BJdXlwVTAyNloyTWNwZnhM?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-09-03-i-will-die-with-integrity-than-be-corrupted-by-galamsey-land",
@@ -17229,7 +17349,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-namibia-high-commissioner-embarks-on-familiarisation-tour-of-vr.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-21-namibia-high-commissioner-embarks-on-familiarisation-tour-of"
     },
     {
       "id": "auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater",
@@ -20229,7 +20350,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkdCbllKNFRVSkJWT0x4dnRhVzlZSEhnWEx4RnRCNmoxSGdUNkkxQU0zbXNWZmg2cmdFQnFraFpnS3lnOFd6TXhKZzc3dWNMYWR1TWdHSEFYSXJrS2E5bFFRR1I4bDQ5S3hQVWxrMm1lUUduTGk1Y0NxdkdMUTRNeW9xSEt4eUwzMXdyYVBiVllwbjlyRll2R29rNEhDSFZ5aHR2U2lnZzhwbS0zRW1vV1Fn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-12-civil-society-coalition-steps-up-fight-against-transnational",
@@ -21379,8 +21500,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGx0VTFOd2hsZFFoWHhGWnRkOFFILXF1b2w4b0xCcUVxZVRfRU5zR0VWanZISnh5dVVmZVRoT1FlVDhwbXZSa19LaFQ5clh5RXJBdGt6dDNqUHUydHJYQndnZ2o4ZW9KZXhIUTJNVEY3NmczanhtNVhlaWxVejhQeXBxa240R2pUeXBwNEVCYm5xQQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-three-killed-after-illegal-mining-pit-collapse-at-odumase-sa",
@@ -21440,7 +21560,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMF9idVBVbEp6MTNMUTQ2YVphc1FJazNrX3VjWUZvQ3ZsbXZ6YWFnTFczamhidWxSdlo1aVNyRjBQcmVKWHpVcXFYNXY0aE91TGhEb0tMaFVoam5nR095S0FVNkJNLUJvTlNrQmIwUFRjNFZySHZaRG1fLV9Gc19DX192M3haQWpHWFg4?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-13-arrested-in-intelligence-led-naimos-operation-at-sanso"
     },
     {
       "id": "auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o",
@@ -21459,8 +21579,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "verified": false
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
@@ -21480,7 +21599,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkFoSGN3b0FPWWZ1STFhb0ViNUo4OUViS1VfYW5lVVVJWGlzeC1TNEhYS3B4TVVQTTFjcDdFaFg3dzd4UVpiTFB4UjBKX3NRZDNMUEt4bEFQZjVQWFpUVm9mN1ZucTdXMkc1YkRvWkxJZXlqanJac0RNZXg0TVdlT2tiZlJGOUJ6bFpFYzlZdkR3T0pobzJiT19B?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-tano-crackdown-as-illegal-mining-op",
@@ -21500,7 +21619,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNakN3VFVfSUszRnBJdWdZVUdLTEF2R3drTmlqRmg0SExXbV9IRTlrVk8tY2ZmMGtYUklUblYySDR6b3lxT2I3cVFOaUZVeHA4OHNtM3JhbG5Zc2pHQ2hRZmZneGlJSkxPQ3VxQ25neTVuQ3UwVElMZUZyMm1CSU1TVnVhYVlBV0pkT2lsYUJGX0p4eGJVbVc2Rm4zVjF4XzhIMEVJVnltNA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-dab-i-tragedy-strikes-as-three-die-in-galamsey-pit-collapse-",
@@ -21558,7 +21677,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUs4ejA1ZERCczRPTFpwZEk1MG5VNFRQZm9RcTV2bUJoWHhiMFpNTDA2NEY5RUFmU0J0ZVpTd2E1VEFZN1JydXZJaDhMTnhXcFd1UlpXLWpsb3dPT2czTjlpcGFFc0llSlAyTjFKYnVMRGhxRnRVU1RScmJOS1o0Qm1KUVlCZFpwVFozRHRNN3hPT3pXREZwWmJpUHBjbDBm?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-08-10-goldbod-generated-10-8bn-in-forex-from-small-scale-gold-samm",
