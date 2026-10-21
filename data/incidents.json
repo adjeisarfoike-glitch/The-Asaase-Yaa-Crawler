@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-20T21:41:37.996Z",
+  "updated": "2026-10-21T04:48:55.090Z",
   "counts": {
-    "total": 1244,
+    "total": 1251,
     "verified": 28,
-    "automated": 1216,
+    "automated": 1223,
     "earliest": "2024-07-01",
     "latest": "2026-10-20"
   },
@@ -135,6 +135,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGN2U3h1YVZneENQeU14NW4tZ3gwcjFKZHJPM09Fc25CSUFWcGhfSW1IN1BLTHJrUG9ZRUUxQ3JiaUd2aHYwcDZnLXRjWU94bDd0bjhQVjBJUHZDdHNQV21CalNLM0t2ZUtJREIxclFoS3VxcUVPQ0QzZGM3OUhIRU9OcUhxa0RxNVZiWmhidGlQNWRSV3BJUlcwYUM?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-21T04:42:38.222Z",
       "thread": "t-auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency"
     },
     {
@@ -156,7 +157,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EZUdnUmtuUldoLVhUWUF2MDN3cVp3WTJDWThmN3lZSTdDSE9LUzNVZ3pZc0w5aWczSTNwLTVFTlhQYjVTMmRRdVRXbWl2NDRjckVzUGFzQ2UtSWM5YTZQcFhqWUTSAVxBVV95cUxPeC12cUloMGREdjZsVUZoR0JQY2xTcEVtV2htdVhua2ttNkFneGpEZ2hmSXZIVjVOVzRwT2c0S3F5eW1fMG85eHkwMGYzQjlWQnJJR2lVVEhuVGU5QQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-21T04:43:03.453Z"
     },
     {
       "id": "auto-2026-10-20-goldbod-reforms-recover-gold-worth-11-4bn-previously-lost-th",
@@ -176,6 +178,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-reforms-recover-gold-worth-11-4bn-previously-lost-through-trade-leakages-sammy-gyamfi/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-21T04:43:40.452Z",
       "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
@@ -375,6 +378,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFdGMlNzbzd4NnozSjNRQlJuOXhiMEVHTTY0OEdJM0kzZDFOMllULUQ5eC1vTW5YbXBlbWdtTktYS3RlV3oxM0xCLXpGUE5XNUJxRW0tWmVCRTd0ZEJOdnBJMlRtenJZMzdWVkZodUEyNVlEREY1MFAyMUNEelBPdFZMcXluem5IQWl4aDQyOWF3dS1WMndyMTlIUUthOWJHUzQ2VjVwN3p0LURHNWJFMW9wRHpCLUN4U1k3dXdaWm9EbF93NzZUUmxlVWtodFF6NUYteDlVVjF0Q0E?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-21T04:46:29.011Z",
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
@@ -395,6 +399,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3hseDVRUmY4dGRWQ1VnZkhqdUhZRGR6WUIxLTN0cE9ZWktVQWw5b2cybzhlNld3ZmJmT0lMV2ZoM1ZDOHpsdEJERVB2bi0yQmNQSjF0QzN2elZVWndJOXp4c1pLci1QYXpfaVRLUTR2MGU1d3Z0QlQtTm01NW9pZi0yUWNLSy04VmxXSFg0OWtzbHN1bUloblBIVXlMZFdPblljVGVWT1JYeGowV0t3?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-21T04:47:06.447Z",
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
@@ -436,6 +441,85 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-20-galamsey-is-chemical-warfare-against-ghanaians-zanetor",
+      "date": "2026-10-20",
+      "category": "forest",
+      "title": "Galamsey is ‘chemical warfare’ against Ghanaians – Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is ‘chemical warfare’ against Ghanaians – Zanetor CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG0zSG5JUFJKZzZvcERCVldDTHdmMG5ucmxGOEw3OFpqSll1N05ObWpsUkgyckRRQkVYOGl2cjJWMElfRDNiOWFDWEpKRHJJRTlOS3hpc3pocmJRc0s0ZEFua29LYjB3RzFCc2FiQVBTYWpjY3pOOC1IYVMxcG9wbDVLcnBDVVQ3MHV5c24wdF9UcVBFcjJ3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG0zSG5JUFJKZzZvcERCVldDTHdmMG5ucmxGOEw3OFpqSll1N05ObWpsUkgyckRRQkVYOGl2cjJWMElfRDNiOWFDWEpKRHJJRTlOS3hpc3pocmJRc0s0ZEFua29LYjB3RzFCc2FiQVBTYWpjY3pOOC1IYVMxcG9wbDVLcnBDVVQ3MHV5c24wdF9UcVBFcjJ3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-20-news-night-obuasi-shts-fallout-airport-drug-cartels-and-osin",
+      "date": "2026-10-20",
+      "category": "arrest",
+      "title": "News Night: Obuasi SHTS Fallout, Airport Drug Cartels and Osino Galamsey Raid",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "News Night: Obuasi SHTS Fallout, Airport Drug Cartels and Osino Galamsey Raid Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZFhPaVhxYkl1SVBaSEhzN0dmYnVTX09HSEVzOGNpaUpxNFczMUJiX3ZvNHlpSTdsZDFDVEZ0OEM2ZmlXbEhybFhjZV95MGNUMnpLLXByb2g3cnFqZk5UZFN5RnfSAVxBVV95cUxNTHdsM3hqeVdqbEJVUHFLMmtCaFo5MTdRejNLYkhtejJSVFRjU3JWRzRhc3kxVWMwcURjQ244d3NKWGxRVUpxSzIyR0xPeXg2REFlbWhDeUxtRWtiZg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VZFhPaVhxYkl1SVBaSEhzN0dmYnVTX09HSEVzOGNpaUpxNFczMUJiX3ZvNHlpSTdsZDFDVEZ0OEM2ZmlXbEhybFhjZV95MGNUMnpLLXByb2g3cnFqZk5UZFN5RnfSAVxBVV95cUxNTHdsM3hqeVdqbEJVUHFLMmtCaFo5MTdRejNLYkhtejJSVFRjU3JWRzRhc3kxVWMwcURjQ244d3NKWGxRVUpxSzIyR0xPeXg2REFlbWhDeUxtRWtiZg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-20-galamsey-fight-government-to-engage-traditional-leaders-and-",
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Galamsey Fight: Government to Engage Traditional Leaders and Local Assemblies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Government to Engage Traditional Leaders and Local Assemblies Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmOURjNXotMmh3ZkEyTDdMbVBzYVZaREtxRGhCUTNudmFDQlRVb1N5bXhMMURUWGhqb0pVZlN5XzhOdFVMS0U4b1FGQWJBdWN3Um5VSklJZ3RkWVVUb0HSAVxBVV95cUxQNUhMdkZfV2g4MGY5QmYwM053VkhuOUFxd09xNWtWanNaV1FrTW85TnRBVGRETFBoeFQyWFB2ZWEycmJOZm5lSUU0M25MSkpPdGIwckpsRXNlSVVnTw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmOURjNXotMmh3ZkEyTDdMbVBzYVZaREtxRGhCUTNudmFDQlRVb1N5bXhMMURUWGhqb0pVZlN5XzhOdFVMS0U4b1FGQWJBdWN3Um5VSklJZ3RkWVVUb0HSAVxBVV95cUxQNUhMdkZfV2g4MGY5QmYwM053VkhuOUFxd09xNWtWanNaV1FrTW85TnRBVGRETFBoeFQyWFB2ZWEycmJOZm5lSUU0M25MSkpPdGIwckpsRXNlSVVnTw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-20-environment-ministry-to-partner-lands-ministry-to-fight-ille",
+      "date": "2026-10-20",
+      "category": "policy",
+      "title": "Environment Ministry to partner Lands Ministry to fight illegal mining – Minister",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "The Minister for Environment, Science and Technology, Zanetor Agyeman-Rawlings, has assured that her Ministry will collaborate with the Ministry of Lands and Natural Resources to enforce laws against illegal mining activities threatening legitimate mining operations in the Eastern Region. She gave the assurance during a working visit to Zijin Golden Ridge Limited, operator of the […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/environment-ministry-to-partner-lands-ministry-to-fight-illegal-mining-minister/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/environment-ministry-to-partner-lands-ministry-to-fight-illegal-mining-minister/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-19-mahama-says-soldiers-to-remain-in-nine-forest-reserves-clear",
@@ -3934,6 +4018,46 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-08-ghana-expands-anti-galamsey-fight-with-452-new-blue-water-gu",
+      "date": "2026-10-08",
+      "category": "forest",
+      "title": "Ghana expands anti-galamsey fight with 452 new Blue Water Guards",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana expands anti-galamsey fight with 452 new Blue Water Guards Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjNDWTRuN2VNNVVhZVUyTVlCVUlFUUcxeXQyQzhwUVZic2NPcG93WjU2QlZyY3UxcVVHbVp1NWhxaGs3M1dLd0VwY0RPdlFZaU1yOUlWMFBPdmViMnZJcGVpeDZBcFJpUzZCU0I2VHJVaVZhSDcxRWgtZUN3ZTlOdDc5d0hTc0tkXzBya2lMWkNwN2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOYjNDWTRuN2VNNVVhZVUyTVlCVUlFUUcxeXQyQzhwUVZic2NPcG93WjU2QlZyY3UxcVVHbVp1NWhxaGs3M1dLd0VwY0RPdlFZaU1yOUlWMFBPdmViMnZJcGVpeDZBcFJpUzZCU0I2VHJVaVZhSDcxRWgtZUN3ZTlOdDc5d0hTc0tkXzBya2lMWkNwN2M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-08-tarbang-development-association-raises-alarm-over-surge-in-g",
+      "date": "2026-10-08",
+      "category": "water",
+      "title": "Tarbang Development Association raises alarm over surge in galamsey on Black Volta River",
+      "place": "Black Volta",
+      "region": "Savannah",
+      "lat": 9,
+      "lon": -2.4,
+      "summary": "Tarbang Development Association raises alarm over surge in galamsey on Black Volta River Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDZBMEllQjBPdEVVODZxRGdRQmJ0b2Jjc2t0SGJxWFdfejdOelpfNmdiQTNDUVZyVG5oek1LdFBPYXZpVUhlVGh2cmxrN3l6TS1QcW0tVTIwdThQZWc5NlJtRUZMYWVPSTV5T0hIbGplanM2a3RKanBfY0hNLUtXYVBmX21valdwcFdrQzdwZTVGTjlXUGp1T0dfYV9qNVNPRVBVNXRaUGdqVHBJamRVN2NIRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDZBMEllQjBPdEVVODZxRGdRQmJ0b2Jjc2t0SGJxWFdfejdOelpfNmdiQTNDUVZyVG5oek1LdFBPYXZpVUhlVGh2cmxrN3l6TS1QcW0tVTIwdThQZWc5NlJtRUZMYWVPSTV5T0hIbGplanM2a3RKanBfY0hNLUtXYVBmX21valdwcFdrQzdwZTVGTjlXUGp1T0dfYV9qNVNPRVBVNXRaUGdqVHBJamRVN2NIRQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
+    },
+    {
       "id": "auto-2026-10-07-we-risk-losing-our-forests-and-rivers-afenyo-markin-on-galam",
       "date": "2026-10-07",
       "category": "water",
@@ -4041,18 +4165,18 @@
       "id": "auto-2026-10-07-interpol-crackdown-on-illegal-mining-logging-and-wildlife-tr",
       "date": "2026-10-07",
       "category": "arrest",
-      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests - News-Press NOW",
+      "title": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests News-Press NOW",
+      "summary": "Interpol crackdown on illegal mining, logging and wildlife trafficking leads to 233 arrests The Killeen Daily Herald",
       "metrics": {},
       "source": {
-        "name": "News-Press NOW",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5"
+        "name": "The Killeen Daily Herald",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3FhUmNfNEhWc3Nzdm92T3RvT1EzTUNmX3UxczFXc18xVWNhMFpNMU8ya21sT2ZfTjU4aUdhaVhUdnNqak1IbnNHSU5iY1o0S3ZRaEVZRVhDdEtsN2x6VlRIUjlQTzJ2X3pSc04yRTRXQXhYQUdaOFVPZlhYeXAyV0xmUEthN25FTVo3YUQ0UDBUOGJEVTlEczl0ZUlKQVdfOXdINThhVnJmc0VVMzhIYWs4RG9xcDNzNkxPc1VWbWVJNzRtWktfTFVHdHFnRkFhQmVVNkkycG5MMUcxM28wejJPVy1wTnJ6UVJkSlhnT09IOHNaWk9fazl4dVM1U3hJ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwJBVV95cUxNa0Q0MjFyZXJjTy1OeldEc01nYVEtSElSdzhUN3lUXy1tYzlLOU10R3JzUUF6d0VFbXNBYmVpYk9pSW9hWkg5SEJUdk9KZFc2bjNNRDJmTGNqaXUxeDdhQXA1Q1ZKdVN6M0JVc0toYzFKRlpxYXIyS3FJWVdVUF9mWXNlam5WTkV4c1dEbzdUcUI5MmdPZkNpNjJfbUg3LVIwNHRoQVpNSlEzLTQyd2d4bi15RlU0WkVoOE5Tc3pNT3QtUHBLb3EzR2ZvSjF0RjNWS0dKLTBoOUpiQ05DdEU2TGFKUDRCd0syczBpYjJ2M1Y3T3N6dGIxUGYwUW9Kc2RRVzl3U0NOWThCWjFmM1VHeldPaw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigAJBVV95cUxOb3FhUmNfNEhWc3Nzdm92T3RvT1EzTUNmX3UxczFXc18xVWNhMFpNMU8ya21sT2ZfTjU4aUdhaVhUdnNqak1IbnNHSU5iY1o0S3ZRaEVZRVhDdEtsN2x6VlRIUjlQTzJ2X3pSc04yRTRXQXhYQUdaOFVPZlhYeXAyV0xmUEthN25FTVo3YUQ0UDBUOGJEVTlEczl0ZUlKQVdfOXdINThhVnJmc0VVMzhIYWs4RG9xcDNzNkxPc1VWbWVJNzRtWktfTFVHdHFnRkFhQmVVNkkycG5MMUcxM28wejJPVy1wTnJ6UVJkSlhnT09IOHNaWk9fazl4dVM1U3hJ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -4276,6 +4400,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmRVSjAyRXA3MjkzMlZSRndyWllBdkVvR1VIaktKVXVjX21WTEtNeThzWkNSbl9hTkZjODVEaDRJVnlNZVpoTkREQUtmMEpUeFN4ZVZlSUNmX0xPWW9HOV9Yb1FZNHFKT19tYUZOdW94WGdkZVVxQldncE1UVTByeUNzRTZHS0pQVVlXQm50dFllMFE?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-07-atronie-chiefs-reject-regsec-response-demand-immediate-halt-",
+      "date": "2026-10-07",
+      "category": "forest",
+      "title": "Atronie Chiefs reject REGSEC response, demand immediate halt to illegal mining",
+      "place": "Atronie",
+      "region": "Bono",
+      "lat": 7.3,
+      "lon": -2.28,
+      "summary": "Atronie Chiefs reject REGSEC response, demand immediate halt to illegal mining Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0lPQWF3blZpMFBqakVlNlVrY2k3aWtTMUtUT0FyclBudVpRN1ljaHFMclBZYkd1RWlzZzRZRGZJZDRwRlRUNmx1cm50TFVqTV9BM0lzYThEa0dJYTZsSzZYQjZQY3o3dDctTzRpWlBsM1ZIU0QwMFo1MmxlTUczMnU0UHBsYUJ2ak5JZG1rNlZWQXhmSjdVMk01WndVNmFMQWFPRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0lPQWF3blZpMFBqakVlNlVrY2k3aWtTMUtUT0FyclBudVpRN1ljaHFMclBZYkd1RWlzZzRZRGZJZDRwRlRUNmx1cm50TFVqTV9BM0lzYThEa0dJYTZsSzZYQjZQY3o3dDctTzRpWlBsM1ZIU0QwMFo1MmxlTUczMnU0UHBsYUJ2ak5JZG1rNlZWQXhmSjdVMk01WndVNmFMQWFPRQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-galamsey-atronie-residents-block-road-over-destruction-of-ri"
     },
     {
       "id": "auto-2026-10-06-galamsey-fight-ndc-and-npp-have-failed-us-efia-odo",
@@ -8224,7 +8368,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/why-we-dont-need-china-to-advise-us-frimpong-boateng-on-mining-cooperation/",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-09-17-at-least-37-illegal-mining-suspects-found-dead-in-nigerian-c",
@@ -12286,7 +12430,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-02T21:02:33.913Z"
+      "archivedAt": "2026-09-02T21:02:33.913Z",
+      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
     },
     {
       "id": "auto-2026-09-02-2-chinese-nationals-arrested-for-illegal-mining-in-sulawesi",
