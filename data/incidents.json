@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-22T17:13:50.764Z",
+  "updated": "2026-10-22T21:38:54.971Z",
   "counts": {
-    "total": 1289,
+    "total": 1296,
     "verified": 28,
-    "automated": 1261,
+    "automated": 1268,
     "earliest": "2024-07-01",
     "latest": "2026-10-22"
   },
@@ -68,6 +68,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJemIySFVIUTBDZmRkWGxLTG5KbkJNU2VzZmcxQl85ZGlpMlJUWjlmclhyWUdoZkpsRkU2bzctd0syN2lwazNfU1h3WVhyQVgwLTh6Szd4T21hQkJJZnp6clNYTW7SAVxBVV95cUxOSGd1RXFEQmZmN2hwQzh2cGotYXhtVTFValJCQnh4OXhhSmNKR2t0UFRqa0VqZ1JRRVFyZWlCSXJLVURvbkpsb19GSjNfcmFwcmZvLXU0LU9NdU1yVQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-22T21:32:57.558Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
@@ -343,7 +344,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDNVNnlOZnVXODk3MmVUZ193UktoSWJTSUNXbjhiOUpjRDlLOUozWmVQUTBySFY4ZTFPbFVnZkVOVk5SNWM3dU0xUWh2SlFaNlpQcmhkUExHQUZuT1VZVlRmLVhqNFJZdkZ3NlJJRldYSm0xcjN4RjlEQXU1SGg5RVVacEZpcGpYSi1nTmwtNG1BQQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-22T21:38:48.313Z"
     },
     {
       "id": "auto-2026-10-22-naimos-update-100-excavators-seized-1-000-changfang-machines",
@@ -483,6 +485,124 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-22-naimos-plans-two-major-anti-galamsey-operartions-in-the-next",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "NAIMOS plans two major anti-galamsey operartions in the next two months",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS plans two major anti-galamsey operartions in the next two months Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sN2lHR1RTTWxUaGJEMURxbkg2QTQ1cmRFcVE3WmI5dW95RmxaSnB0WUdhdmVmeWZRd3pMeTExU2FhblBCMzZwZTlpMVRSVVdfSnRrMFV3bjgwQllHaklhVG5lZlnSAVxBVV95cUxOT2NHZWEtcXFtYk1TTW01VGtlSUhxR2FWSWYyTmwtaGhhYTB3MDJGZWc5aXlFT1BNaWphNjBvdUg0ak9Ga1pKTFltV3l4V05NaW1PdkpWaTJiNG10Yw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sN2lHR1RTTWxUaGJEMURxbkg2QTQ1cmRFcVE3WmI5dW95RmxaSnB0WUdhdmVmeWZRd3pMeTExU2FhblBCMzZwZTlpMVRSVVdfSnRrMFV3bjgwQllHaklhVG5lZlnSAVxBVV95cUxOT2NHZWEtcXFtYk1TTW01VGtlSUhxR2FWSWYyTmwtaGhhYTB3MDJGZWc5aXlFT1BNaWphNjBvdUg0ak9Ga1pKTFltV3l4V05NaW1PdkpWaTJiNG10Yw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-some-communities-are-aiding-illegal-miners-making-galamsey-f",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "Some communities are aiding illegal miners, making galamsey fight tougher – Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Some communities are aiding illegal miners, making galamsey fight tougher – Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQkU5cHdXZ2JPQXpKOFJkeWd1aEIwV0Y4Uk1ydHFWWWFZcWR0aUppWUVpaG1pdEtKOWlCOW85SFVHbWFIQnFvUmtsZm1UWEp3UlhmQ1NkcWZDOVlvcGZHbUlZQXXSAVxBVV95cUxOM3NVVjJkZEo2ZEtWWmVMS0w1QzM2RnhLQUdidVpnYmdDVTlGUEJ1Q0pRWVM3WEptQmhfMGM2R1BKMjB1aDRlaE5UVUpnZDNQWUo3WnlCM2FxUi1ZaQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQkU5cHdXZ2JPQXpKOFJkeWd1aEIwV0Y4Uk1ydHFWWWFZcWR0aUppWUVpaG1pdEtKOWlCOW85SFVHbWFIQnFvUmtsZm1UWEp3UlhmQ1NkcWZDOVlvcGZHbUlZQXXSAVxBVV95cUxOM3NVVjJkZEo2ZEtWWmVMS0w1QzM2RnhLQUdidVpnYmdDVTlGUEJ1Q0pRWVM3WEptQmhfMGM2R1BKMjB1aDRlaE5UVUpnZDNQWUo3WnlCM2FxUi1ZaQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-destroys-1-970-changfans-863-illegal-mining-structure",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "NAIMOS destroys 1,970 changfans, 863 Illegal mining structures in three months — Colonel Appiah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS destroys 1,970 changfans, 863 Illegal mining structures in three months — Colonel Appiah Modern Ghana",
+      "metrics": {
+        "changfan": 1970
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzFGRDVDRW53ekRENENUZ3E3dzFwanc3WVhqQWp2ZTk4dXdkSXAtMDljYVltZjJLcTZySHdRa2JIOU1ORGhxUDRFTnc3dVB0ck9KQUk0OGNNNm9rTEdFWnVYVEktbzlndjNXb3J3V0NNMWkwaDBMMkE1UlB2NzJiZE5Pb2p1QnVSUEZVV0NqcFNzdlpVRmhicWt3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzFGRDVDRW53ekRENENUZ3E3dzFwanc3WVhqQWp2ZTk4dXdkSXAtMDljYVltZjJLcTZySHdRa2JIOU1ORGhxUDRFTnc3dVB0ck9KQUk0OGNNNm9rTEdFWnVYVEktbzlndjNXb3J3V0NNMWkwaDBMMkE1UlB2NzJiZE5Pb2p1QnVSUEZVV0NqcFNzdlpVRmhicWt3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-govt-has-seized-excavators-stationed-soldiers-at-rivers-to-f",
+      "date": "2026-10-22",
+      "category": "arrest",
+      "title": "Govt has seized excavators, stationed soldiers at rivers to fight galamsey – Deputy Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Govt has seized excavators, stationed soldiers at rivers to fight galamsey – Deputy Minister MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEJhWVRmMUtGbXhVVXFaMG9TVUlfX0lLZTB2OHl4ZzQzMTQ4OTlvd1Y0VWFvemZsZXd4Ry1aZnRVazQyenlSMWdoWHA0T3pqRlNUS2VKa201U0VZTVBYbklZb3JIUVQ1U2w0UUg1ZlVFY1R0NlMyQWR1ME1GQl9lWWEwcGczMkVUZmM5Q2tQNFJfcU9kOVotNkxVclVkc2VVbHZQRU5VZjcxNHZ2T1N4ODRsZy03UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEJhWVRmMUtGbXhVVXFaMG9TVUlfX0lLZTB2OHl4ZzQzMTQ4OTlvd1Y0VWFvemZsZXd4Ry1aZnRVazQyenlSMWdoWHA0T3pqRlNUS2VKa201U0VZTVBYbklZb3JIUVQ1U2w0UUg1ZlVFY1R0NlMyQWR1ME1GQl9lWWEwcGczMkVUZmM5Q2tQNFJfcU9kOVotNkxVclVkc2VVbHZQRU5VZjcxNHZ2T1N4ODRsZy03UQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-destroys-1-970-chanfangs-863-structures-in-anti-galam",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "NAIMOS destroys 1,970 chanfangs, 863 structures in anti-galamsey operations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS destroys 1,970 chanfangs, 863 structures in anti-galamsey operations MyJoyOnline",
+      "metrics": {
+        "changfan": 1970
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjVaTVplT3NxbVhvZDZPeHNhaUdNUDN4R1NQVFhZQ3pSeE5nYXNlY0NrdlRldVdaRTJfZngyMXpndmNocGVfV1ZSbGNWdkFTbzJiMjhESkdQUjhDRmRzSkRnWFY1YkxmT2NfREJVZ29RR2lBWjJPT1N6a1JOVEhPTURkcG9ibjktdzE0WHhNZjBMX0ZUNURVR3lhb3FPRWJvdW8zNQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjVaTVplT3NxbVhvZDZPeHNhaUdNUDN4R1NQVFhZQ3pSeE5nYXNlY0NrdlRldVdaRTJfZngyMXpndmNocGVfV1ZSbGNWdkFTbzJiMjhESkdQUjhDRmRzSkRnWFY1YkxmT2NfREJVZ29RR2lBWjJPT1N6a1JOVEhPTURkcG9ibjktdzE0WHhNZjBMX0ZUNURVR3lhb3FPRWJvdW8zNQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-to-extend-river-protection-operations-to-two-more-wat",
+      "date": "2026-10-22",
+      "category": "water",
+      "title": "NAIMOS to extend river protection operations to two more water bodies before year-end",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) plans to extend its fight against illegal mining to two more major river bodies before the end of the year, as it steps up efforts to protect Ghana's water resources and prevent illegal miners from returning to cleared areas.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-to-extend-river-protection-operations-to-two-more-water-bodies-before-year-end/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-to-extend-river-protection-operations-to-two-more-water-bodies-before-year-end/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-21-government-to-invest-10-billion-to-create-jobs-curb-galamsey",
@@ -4574,6 +4694,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-10-09-govt-has-handed-60-hectares-of-degraded-apamprama-forest-res"
+    },
+    {
+      "id": "auto-2026-10-09-psgh-chalks-90-intensifies-call-for-galamsey-to-be-declared-",
+      "date": "2026-10-09",
+      "category": "forest",
+      "title": "PSGH chalks 90, intensifies call for galamsey to be declared health emergency",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PSGH chalks 90, intensifies call for galamsey to be declared health emergency Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWxIUUdyMFVxM3VnaUk2MmJoalNjZXlHYnpPZWg1a0tma0ZXblVhYW8zUVBteGh4Vzk5WFNlWG1Qc05uYXNDYm1fbG9qaF9RSmhNcFVrWDAwMHl2VEJUV0RQWG5WTzZLcUQyYkRqRUhWcWkwTThZYTlDcVdFRHhTa25qUUdjbjhfb2VkNmRxMGVtdVNpQ0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWxIUUdyMFVxM3VnaUk2MmJoalNjZXlHYnpPZWg1a0tma0ZXblVhYW8zUVBteGh4Vzk5WFNlWG1Qc05uYXNDYm1fbG9qaF9RSmhNcFVrWDAwMHl2VEJUV0RQWG5WTzZLcUQyYkRqRUhWcWkwTThZYTlDcVdFRHhTa25qUUdjbjhfb2VkNmRxMGVtdVNpQ0E?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-08-galamsey-tops-ghana-s-most-negative-online-issues-in-septemb",
