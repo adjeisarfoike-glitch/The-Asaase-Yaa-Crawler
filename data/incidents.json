@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-22T04:46:34.084Z",
+  "updated": "2026-10-22T11:53:50.476Z",
   "counts": {
-    "total": 1266,
+    "total": 1276,
     "verified": 28,
-    "automated": 1238,
+    "automated": 1248,
     "earliest": "2024-07-01",
     "latest": "2026-10-22"
   },
@@ -27,6 +27,205 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-22T04:39:43.844Z"
+    },
+    {
+      "id": "auto-2026-10-22-1-970-chanfangs-destroyed-in-738-anti-galamsey-operations-in",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "1,970 chanfangs destroyed in 738 anti-galamsey operations in four months – NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "1,970 chanfangs destroyed in 738 anti-galamsey operations in four months – NAIMOS CitiNewsroom.com",
+      "metrics": {
+        "changfan": 1970
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSW54cjJjdnUtekkwNWJ5TW1HYzdwTFljM3ZoSkk5c0V6QkFNWGdmMzB4Ym5FWmRpa2RkQlNrazlYVW1aWDJHblhha1cxUWU4UjNqMUxoWXVjNzBuUUZrakVjNktvVk1HZVQ1aWJrSWxwdUJ1WEgtaC1qTXFmNFJVY1RfNk12S3RQUmw5RGZMTFdjNnhMXzRxVzhwWUZQbGtkMUNzZEpUdFVVMTJmbkl5dXk2STIxcnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxPSW54cjJjdnUtekkwNWJ5TW1HYzdwTFljM3ZoSkk5c0V6QkFNWGdmMzB4Ym5FWmRpa2RkQlNrazlYVW1aWDJHblhha1cxUWU4UjNqMUxoWXVjNzBuUUZrakVjNktvVk1HZVQ1aWJrSWxwdUJ1WEgtaC1qTXFmNFJVY1RfNk12S3RQUmw5RGZMTFdjNnhMXzRxVzhwWUZQbGtkMUNzZEpUdFVVMTJmbkl5dXk2STIxcnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-22T11:47:22.902Z"
+    },
+    {
+      "id": "auto-2026-10-22-news-review-galamsey-poisoning-ghana-s-vegetables-new-study-",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "News Review: Galamsey Poisoning Ghana’s Vegetables? New Study Raises Alarm",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "News Review: Galamsey Poisoning Ghana’s Vegetables? New Study Raises Alarm Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJemIySFVIUTBDZmRkWGxLTG5KbkJNU2VzZmcxQl85ZGlpMlJUWjlmclhyWUdoZkpsRkU2bzctd0syN2lwazNfU1h3WVhyQVgwLTh6Szd4T21hQkJJZnp6clNYTW7SAVxBVV95cUxOSGd1RXFEQmZmN2hwQzh2cGotYXhtVTFValJCQnh4OXhhSmNKR2t0UFRqa0VqZ1JRRVFyZWlCSXJLVURvbkpsb19GSjNfcmFwcmZvLXU0LU9NdU1yVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJemIySFVIUTBDZmRkWGxLTG5KbkJNU2VzZmcxQl85ZGlpMlJUWjlmclhyWUdoZkpsRkU2bzctd0syN2lwazNfU1h3WVhyQVgwLTh6Szd4T21hQkJJZnp6clNYTW7SAVxBVV95cUxOSGd1RXFEQmZmN2hwQzh2cGotYXhtVTFValJCQnh4OXhhSmNKR2t0UFRqa0VqZ1JRRVFyZWlCSXJLVURvbkpsb19GSjNfcmFwcmZvLXU0LU9NdU1yVQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-22-subri-forest-reserve-under-siege-20-suspected-illegal-miners",
+      "date": "2026-10-22",
+      "category": "arrest",
+      "title": "Subri Forest Reserve under siege • 20 suspected illegal miners arrested in FC crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Subri Forest Reserve under siege • 20 suspected illegal miners arrested in FC crackdown Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHBQVGFLT1cxeUJGbkdheDR0bDRzano5akw4TUlYOVdFbG40NVNGYlFNNk5pSnhZenpMbXZLbUo1RHEyMnhlckJLVlRrVjNrTUtzNmdySU5sbFh1bkJ4N015RGVHMnR0NktyOS0wUDNLSjlPcTd6Ml84ODJ1UDdsdlNwNEstSTduajFXbVpjUkpLTGRUYWxqbFdxNEp2aWtMSUxsZnpZSDlxZEVtQUI5T1FEcFo5QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHBQVGFLT1cxeUJGbkdheDR0bDRzano5akw4TUlYOVdFbG40NVNGYlFNNk5pSnhZenpMbXZLbUo1RHEyMnhlckJLVlRrVjNrTUtzNmdySU5sbFh1bkJ4N015RGVHMnR0NktyOS0wUDNLSjlPcTd6Ml84ODJ1UDdsdlNwNEstSTduajFXbVpjUkpLTGRUYWxqbFdxNEp2aWtMSUxsZnpZSDlxZEVtQUI5T1FEcFo5QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-arrests-14-suspected-illegal-miners-in-western-region",
+      "date": "2026-10-22",
+      "category": "arrest",
+      "title": "NAIMOS arrests 14 suspected illegal miners in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "NAIMOS arrests 14 suspected illegal miners in Western Region GhanaWeb",
+      "metrics": {
+        "arrests": 14
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjBHS3JaN1hwOVRQVnhseGNkcGRzWFhNbXhHM0ZxQ1ZFSXNDLW11S1k1QktlcUEzUndzVXhKaWZ3bUx6RW1OcDRBdGhNNkFITDNjN3lOd3BZdUJNSVZkSGpLM3lGc3I5OGluM2Zrbms3ZzE5VUJzR1g4YWJ0c1VQVG83VGRQVFdLeWc2VjhCNzMtZk9tSWJDWEYtLUNnOVN0TW5DR2RPMS1iZFdTMy1pb0xDVEJHbmM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxOYjBHS3JaN1hwOVRQVnhseGNkcGRzWFhNbXhHM0ZxQ1ZFSXNDLW11S1k1QktlcUEzUndzVXhKaWZ3bUx6RW1OcDRBdGhNNkFITDNjN3lOd3BZdUJNSVZkSGpLM3lGc3I5OGluM2Zrbms3ZzE5VUJzR1g4YWJ0c1VQVG83VGRQVFdLeWc2VjhCNzMtZk9tSWJDWEYtLUNnOVN0TW5DR2RPMS1iZFdTMy1pb0xDVEJHbmM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-destroys-1-970-chanfangs-863-makeshift-structures-in-",
+      "date": "2026-10-22",
+      "category": "arrest",
+      "title": "NAIMOS destroys 1,970 chanfangs, 863 makeshift structures in four-month crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS destroys 1,970 chanfangs, 863 makeshift structures in four-month crackdown Adomonline.com",
+      "metrics": {
+        "changfan": 1970
+      },
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVJ0RjltZWVqRkl3VWtCcldPQlh4amtDN0FfN0xTaVdSenJham1HZVZzaEo0YXdfNWdKV0JfVnVIVmxYTnhJNTdVLXUwUnJXcWhva1VXdkJqRTVWVVk0SzBSNk1iMUxENUJrd21xYlhfRHZaTjV6WTZTeTZER0J4c3p0N0lwR3dwNXFlTEZEY0FnS3dRTUN1M1hIdlc3S0JIaEE3UGxPd2NFaHM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVJ0RjltZWVqRkl3VWtCcldPQlh4amtDN0FfN0xTaVdSenJham1HZVZzaEo0YXdfNWdKV0JfVnVIVmxYTnhJNTdVLXUwUnJXcWhva1VXdkJqRTVWVVk0SzBSNk1iMUxENUJrd21xYlhfRHZaTjV6WTZTeTZER0J4c3p0N0lwR3dwNXFlTEZEY0FnS3dRTUN1M1hIdlc3S0JIaEE3UGxPd2NFaHM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-conducts-738-operations-against-illegal-mining-in-fou",
+      "date": "2026-10-22",
+      "category": "forest",
+      "title": "NAIMOS conducts 738 operations against illegal mining in four months",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS conducts 738 operations against illegal mining in four months MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjhsZ1ZjLVJSLU9FTDd6SVc5LUN3SDE0RFJWOERSYXVEU3lKYllpOFpRMlFZUEZwamJSZUxVRGU4LWdYaXcyb2FrT2lma2QyZk5xZDZSdGxqZjRBalVJTFF6WnQ3R0l3LU5BWDY2R2ZQMjFzS0dlZWFFWmZwMWxCMDdwbFh6alJtNEd5cG1XSGl1b2xKWU5FS2lUQ1lqdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPZjhsZ1ZjLVJSLU9FTDd6SVc5LUN3SDE0RFJWOERSYXVEU3lKYllpOFpRMlFZUEZwamJSZUxVRGU4LWdYaXcyb2FrT2lma2QyZk5xZDZSdGxqZjRBalVJTFF6WnQ3R0l3LU5BWDY2R2ZQMjFzS0dlZWFFWmZwMWxCMDdwbFh6alJtNEd5cG1XSGl1b2xKWU5FS2lUQ1lqdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-targets-galamsey-equipment-suppliers-facilitators-in-",
+      "date": "2026-10-22",
+      "category": "arrest",
+      "title": "NAIMOS targets galamsey equipment suppliers, facilitators in renewed crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says it will intensify efforts to target the equipment suppliers and facilitators who support illegal mining, as it seeks to sustain cleared areas and strengthen the prosecution of offenders.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-targets-galamsey-equipment-suppliers-facilitators-in-renewed-crackdown/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-targets-galamsey-equipment-suppliers-facilitators-in-renewed-crackdown/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-naimos-vows-to-sustain-crackdown-on-illegal-mining-in-rivers",
+      "date": "2026-10-22",
+      "category": "water",
+      "title": "NAIMOS vows to sustain crackdown on illegal mining in rivers, forests and farms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has reaffirmed its determination to halt illegal mining in Ghana’s rivers, forests, farms and plantations, declaring that operations against illegal miners and the networks supporting them will continue.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-vows-to-sustain-crackdown-on-illegal-mining-in-rivers-forests-and-farms/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-vows-to-sustain-crackdown-on-illegal-mining-in-rivers-forests-and-farms/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-minister-warns-gwl-managers-against-sabotage",
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "Minister warns GWL managers against sabotage",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister for Works, Housing and Water Resources, Ahmed Ibrahim, has warned the management and staff of Ghana Water Limited (GWL) against acts of sabotage, urging them to protect the company’s operations and work collectively to improve its performance. Mr Ibrahim gave the warning during a familiarisation visit to the Head Office of GWL last Tuesday to assess its operations, engage management and staff, and identi",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-minister-warns-gwl-managers-against-sabotage.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-minister-warns-gwl-managers-against-sabotage.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-mmdces-receive-128-operational-vehicles",
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "MMDCEs receive 128 operational vehicles",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The Ministry of Local Government, Chieftaincy and Religious Affairs has presented 128 vehicles to Metropolitan, Municipal and District Chief Executives (MMDCEs) across the country as part of its programme to retool local assemblies to enhance governance at the local level. The Haval H9 Sports Utility vehicles constitute the first batch of vehicles that have been purchased by the government to support MMDAs with tools",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-mmdces-receive-128-operational-vehicles.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-mmdces-receive-128-operational-vehicles.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-10-21-government-to-invest-10-billion-to-create-jobs-curb-galamsey",
@@ -115,21 +314,20 @@
       "id": "auto-2026-10-21-toxic-metals-from-galamsey-found-in-vegetables-across-mining",
       "date": "2026-10-21",
       "category": "forest",
-      "title": "Toxic metals from galamsey found in vegetables across mining districts",
+      "title": "Toxic metals from galamsey found in vegetables across mining districts - Study",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Read More &hellip;",
+      "summary": "Toxic metals from galamsey found in vegetables across mining districts - Study Graphic Online",
       "metrics": {},
       "source": {
-        "name": "Study",
-        "url": "https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html"
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjJQOWdQUnJmR3pULTJjMDNFT213Y2Q2dkZ2cnlseHowd3hRZTRkdWJ5X1duVzN0TGRtdC1tS01pdm1TeTgzYWQxS0pfU1lEZEp1bmQtVkRuT3RJUV9oWFZjdzBoak1ockM0V2xveUk5WnEtTFo4UzdhSjRray1ua3BjN3JFdjdMWlk0OGQ5cE5rZ0RYNFo4S0RxWDJwR1pndFo2a2RHcWZKMnRtczhjQW1TOWw4RDlaSUo4anpKOUpGMnQ5?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjJQOWdQUnJmR3pULTJjMDNFT213Y2Q2dkZ2cnlseHowd3hRZTRkdWJ5X1duVzN0TGRtdC1tS01pdm1TeTgzYWQxS0pfU1lEZEp1bmQtVkRuT3RJUV9oWFZjdzBoak1ockM0V2xveUk5WnEtTFo4UzdhSjRray1ua3BjN3JFdjdMWlk0OGQ5cE5rZ0RYNFo4S0RxWDJwR1pndFo2a2RHcWZKMnRtczhjQW1TOWw4RDlaSUo4anpKOUpGMnQ5?oc=5",
       "via": "rss",
-      "verified": false,
-      "archivedAt": "2026-10-22T04:40:47.495Z"
+      "verified": false
     },
     {
       "id": "auto-2026-10-21-it-doesn-t-matter-whether-they-belong-to-ndc-or-npp-awula-se",
@@ -2320,7 +2518,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-17T04:26:38.500Z",
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-16-galamsey-operator-jailed-14-years-for-defiling-8-year-old-gi",
@@ -7089,8 +7287,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/study-by-military-calls-for-stronger-coordination-to-tackle-illegal-mining-in-western-region",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T21:07:57.905Z",
-      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
+      "archivedAt": "2026-09-26T21:07:57.905Z"
     },
     {
       "id": "auto-2026-09-26-prez-mahama-speaks-to-ghanaians-in-new-york-on-galamsey-tikt",
@@ -7212,7 +7409,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2I4S2ozejRURUxZT3k5SGJ5d1RibHN0aW0xR0R4bUtkb0ZoS2Z3N25hQTQ3SS1wWDVDZ0UyeW12YTVseHB5ZWVyNXVPU2lNQXdRVlNKd09VWllXa2NPTHVhYmFkM0RReHpkd2lwZFRuVl93aUdTYWU2aHNoNUtmdEtGTnRNNkVseUpaUVVKTG9QNW54?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
+      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
     },
     {
       "id": "auto-2026-09-26-our-gold-their-value-illegal-mining-and-the-foreign-buyers-d",
@@ -7540,8 +7737,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-naimos-arrests-13-in-osino-destroys-equipment-photosvideo/",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "verified": false
     },
     {
       "id": "auto-2026-09-25-youth-abandon-farming-for-galamsey-raising-labour-shortage-f",
@@ -8181,7 +8377,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/giisdec-naimos-confisticate-mining-equipment-in-akango-galamsey-crackdown/2026/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-09-22-niger-death-pyrates-confraternity-seeks-arrest-of-owners-of-",
@@ -21659,7 +21855,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNdy05d2RjaVRkODNuaE1GM2dOMHpIRXdCUGNiVmdRc0VOWkstOGFyZGY4clg4UEpIeGI2MlJiTU16TGpST1AwcjlZRHhQQ3h0R05RWEpObHlhd2w1QjVqQWZyV2ZKZEs4TUVYcEdScTJYM2ptU3E5VUYwZ21LbFZtdGlmdjF1MWR4RHhNNUVhUzFybUxEdS1NZ0hR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
     },
     {
       "id": "auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b",
