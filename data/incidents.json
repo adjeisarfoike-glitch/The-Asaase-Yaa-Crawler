@@ -1,13 +1,33 @@
 {
-  "updated": "2026-10-21T21:45:25.154Z",
+  "updated": "2026-10-22T04:46:34.084Z",
   "counts": {
-    "total": 1262,
+    "total": 1266,
     "verified": 28,
-    "automated": 1234,
+    "automated": 1238,
     "earliest": "2024-07-01",
-    "latest": "2026-10-21"
+    "latest": "2026-10-22"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
+      "date": "2026-10-22",
+      "category": "policy",
+      "title": "NAIMOS steps up enforcement after community mining launch in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "NAIMOS steps up enforcement after community mining launch in Western Region GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR092TUFYUkpFLU50V2ZvS3JFTDlVemJUMnJYTmdkYnJoZXBDdnk4dG5oMy03WVVEU2gzcHpjOFlLWlF4a0ZzRVB6ZmF6UjhfRGVGR0NCdWhPNDZaVkswMk5vN0N4clNrZktvblFIckVPX19MMWlXUTNrdmk2OUhjcDhlUUxsWkNzekVNN2ZYTWoyRWo3eno1U3RrUGZidEtSS2lsNGhFY3lFQXo1V2NQZXVQbldPNm5sSkREejBTN0NGaGxfWHhTM2NZSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxOR092TUFYUkpFLU50V2ZvS3JFTDlVemJUMnJYTmdkYnJoZXBDdnk4dG5oMy03WVVEU2gzcHpjOFlLWlF4a0ZzRVB6ZmF6UjhfRGVGR0NCdWhPNDZaVkswMk5vN0N4clNrZktvblFIckVPX19MMWlXUTNrdmk2OUhjcDhlUUxsWkNzekVNN2ZYTWoyRWo3eno1U3RrUGZidEtSS2lsNGhFY3lFQXo1V2NQZXVQbldPNm5sSkREejBTN0NGaGxfWHhTM2NZSQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-22T04:39:43.844Z"
+    },
     {
       "id": "auto-2026-10-21-government-to-invest-10-billion-to-create-jobs-curb-galamsey",
       "date": "2026-10-21",
@@ -67,6 +87,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYncxSHZVSW1RVTdSSS1JYnI5VUN3ak5mNGVoTXNDelVFRjJ1OE9yb1huUFE1WWJyQldyTTBvLXBTeV9vaGNNRDFWbGctNUIwbXgxN2phWl9ITVZzNnZnc3RPZnlUcHhSM1JMa0U3STBIUDNrYUpJX3NXYm11Nm5PaXlvcDhpTEZnVkZCNGY1Sm80UDBJX204V3k2WUVNZjZxcnlLUUdjcmNmblB0VFpra1EzNGswLVpGUncwQ1ZVRWFhNW55Z0ZyUmZFVW1sYjZPbU1iS2NjSnM?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-22T04:40:15.019Z",
       "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
@@ -94,21 +115,21 @@
       "id": "auto-2026-10-21-toxic-metals-from-galamsey-found-in-vegetables-across-mining",
       "date": "2026-10-21",
       "category": "forest",
-      "title": "Toxic metals from galamsey found in vegetables across mining districts - Study",
+      "title": "Toxic metals from galamsey found in vegetables across mining districts",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Toxic metals from galamsey found in vegetables across mining districts - Study Graphic Online",
+      "summary": "Read More &hellip;",
       "metrics": {},
       "source": {
-        "name": "Graphic Online",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjJQOWdQUnJmR3pULTJjMDNFT213Y2Q2dkZ2cnlseHowd3hRZTRkdWJ5X1duVzN0TGRtdC1tS01pdm1TeTgzYWQxS0pfU1lEZEp1bmQtVkRuT3RJUV9oWFZjdzBoak1ockM0V2xveUk5WnEtTFo4UzdhSjRray1ua3BjN3JFdjdMWlk0OGQ5cE5rZ0RYNFo4S0RxWDJwR1pndFo2a2RHcWZKMnRtczhjQW1TOWw4RDlaSUo4anpKOUpGMnQ5?oc=5"
+        "name": "Study",
+        "url": "https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjJQOWdQUnJmR3pULTJjMDNFT213Y2Q2dkZ2cnlseHowd3hRZTRkdWJ5X1duVzN0TGRtdC1tS01pdm1TeTgzYWQxS0pfU1lEZEp1bmQtVkRuT3RJUV9oWFZjdzBoak1ockM0V2xveUk5WnEtTFo4UzdhSjRray1ua3BjN3JFdjdMWlk0OGQ5cE5rZ0RYNFo4S0RxWDJwR1pndFo2a2RHcWZKMnRtczhjQW1TOWw4RDlaSUo4anpKOUpGMnQ5?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/toxic-metals-from-galamsey-found-in-vegetables-across-mining-districts-study.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-21T21:40:57.311Z"
+      "archivedAt": "2026-10-22T04:40:47.495Z"
     },
     {
       "id": "auto-2026-10-21-it-doesn-t-matter-whether-they-belong-to-ndc-or-npp-awula-se",
@@ -149,7 +170,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxObkpyUjJjSFp3Q1AyWHZUMzV2b2hOZVpfeHk0OG5qMDZYdTgxS0lHR2JSbXdmUWtSMVgtNlpjbFd5NlItLUk4NHVsR1pMaXoycmozeE5YRExFTTVhY1Q3anBqdXJzejNBaVJmcUdxaXI5ZThneW5lRFFuS1czQXJJNHhubzBoMUk1Wk1kZ0JpOUZvczNFaFRn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-22T04:41:39.409Z"
     },
     {
       "id": "auto-2026-10-21-naimos-destroys-92-chanfang-machines-in-four-days-of-anti-il",
@@ -192,6 +214,63 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-21-namibia-high-commissioner-embarks-on-familiarisation-tour-of"
+    },
+    {
+      "id": "auto-2026-10-21-gov-t-to-establish-permanent-military-camps-along-rivers-to-",
+      "date": "2026-10-21",
+      "category": "water",
+      "title": "Gov’t to establish permanent military camps along rivers to fight galamsey – Deputy Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Gov’t to establish permanent military camps along rivers to fight galamsey – Deputy Lands Minister CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVkta19YYTh5STFwbHA0eFIxeVowaHJKUTQ2R0R6ZjN6UmZJWHg4NlhpTXhVTFZ5NzlsS0thdW43aHI3WFpERFZDTHVQRk1EYmVYS1Z3QTZhTW5ZT05YMVFJT0FOZ3F1NWk3RDliOXJsaDd6MWVITTRnWUFDc29uT3R5YUFRTjZXN0xnNDY4M0p4dzA3Y2M5Y2UtZko2ZVFMWGVnX3FlUkJlTHlUMWRUenBrZmJQQ1BxZ3lMcm05SkszSy1RUkRCblo3Vjdjdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVkta19YYTh5STFwbHA0eFIxeVowaHJKUTQ2R0R6ZjN6UmZJWHg4NlhpTXhVTFZ5NzlsS0thdW43aHI3WFpERFZDTHVQRk1EYmVYS1Z3QTZhTW5ZT05YMVFJT0FOZ3F1NWk3RDliOXJsaDd6MWVITTRnWUFDc29uT3R5YUFRTjZXN0xnNDY4M0p4dzA3Y2M5Y2UtZko2ZVFMWGVnX3FlUkJlTHlUMWRUenBrZmJQQ1BxZ3lMcm05SkszSy1RUkRCblo3Vjdjdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-21-galamsey-jihadist-expansion-threaten-ghana-s-security-raab",
+      "date": "2026-10-21",
+      "category": "forest",
+      "title": "Galamsey, jihadist expansion threaten Ghana’s security – Raab",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey, jihadist expansion threaten Ghana’s security – Raab CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0NWNk9UVS0waTlQeS1CNm5ZX2tIZ0tuTGxYZEk4VnpadlVHOUQ3b1ltTXhwMnRlRTlMMzFCX1BCNHUwanhUTkJKcUlFSWxCa3J6UUFVOVVCLWJ5THlsREl5ODJYbFljSnd0OXg2NGN6QVI5OHNIWE1PcFFFQVNqQm81Zk5lSEpvUENMZXZkTTRIa1NFWE04U0JZSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0NWNk9UVS0waTlQeS1CNm5ZX2tIZ0tuTGxYZEk4VnpadlVHOUQ3b1ltTXhwMnRlRTlMMzFCX1BCNHUwanhUTkJKcUlFSWxCa3J6UUFVOVVCLWJ5THlsREl5ODJYbFljSnd0OXg2NGN6QVI5OHNIWE1PcFFFQVNqQm81Zk5lSEpvUENMZXZkTTRIa1NFWE04U0JZSQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-21-galamsey-operators-flee-as-environment-minister-visits-minin",
+      "date": "2026-10-21",
+      "category": "policy",
+      "title": "Galamsey Operators Flee as Environment Minister Visits Mining Site | The Pulse (21-10-26)",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Operators Flee as Environment Minister Visits Mining Site | The Pulse (21-10-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WOGxEWDlBcTZ6WU5iYlNld01uVEo0c1RCVWdZRUpnbjZiRmUxQmRRSXR6LTVnMmVjYmw5Q3BnRXNJUHdURmdxNnBLRzA3UEhGUHlWb1htZlRPN2FrSmloaUJtd0zSAVxBVV95cUxPVUlxTlFwMFZyMEpiNXJXdWdvWFQ5eVFfazJnVHpuVW4wRW1RSDhqLTBoLWxxbXNCVkFEZkJfdXJvSzJHLXZGWGkxNjVLX1BjLUw2dmJSZ0FSenpZMg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WOGxEWDlBcTZ6WU5iYlNld01uVEo0c1RCVWdZRUpnbjZiRmUxQmRRSXR6LTVnMmVjYmw5Q3BnRXNJUHdURmdxNnBLRzA3UEhGUHlWb1htZlRPN2FrSmloaUJtd0zSAVxBVV95cUxPVUlxTlFwMFZyMEpiNXJXdWdvWFQ5eVFfazJnVHpuVW4wRW1RSDhqLTBoLWxxbXNCVkFEZkJfdXJvSzJHLXZGWGkxNjVLX1BjLUw2dmJSZ0FSenpZMg?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-20-christian-council-urges-govt-to-deploy-more-military-police-",
@@ -403,7 +482,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-mining-company-seeks-govts-intervention-over-destruction-of-assets-due-to-pending-court-order.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-22T04:45:36.696Z"
     },
     {
       "id": "auto-2026-10-20-5-4-tonnes-of-5-7-tonnes-of-asm-gold-purchased-in-october-re",
@@ -13647,8 +13727,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTJkVFNkSUlJZGx3WlVsQ1U3eDNvVjJWQ1JtaW1HZDQ0QklDWnM5cWpVa281Z3lGNHNkbW1qODQtN1JkZUdkd2pGWDlCekFrQTktWkdRYWVoWGJlNHJVV2wxby1qQkMzYlBRSWs0NHlwMVEtcXhTdjBabmVKeC1DeFc5WVcydXQzZkdNeTFGQ1pXNUVGQnBHa0h1bUtBdE5pV1pTdA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "verified": false
     },
     {
       "id": "auto-2026-08-30-10-arrested-in-illegal-mining-operation-at-kpali",
