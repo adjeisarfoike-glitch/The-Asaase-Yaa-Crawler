@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T04:51:27.222Z",
+  "updated": "2026-10-23T11:40:51.659Z",
   "counts": {
-    "total": 1300,
+    "total": 1310,
     "verified": 28,
-    "automated": 1272,
+    "automated": 1282,
     "earliest": "2024-07-01",
     "latest": "2026-10-23"
   },
@@ -26,6 +26,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQODdPeVJaZGpwZmZaeTF1Y05LejhuUW5nY09QSG5iVVFWX3EyR2JLQzIwcHloekpkb3M5ejV5XzhGZEFCOW1DTHowaVF1NjFCMmdmWW41dGhPdHA1MXBwamxPMF9SZTlYSjdZVmFUODdYbGpvVVA1UDh6UnRqaXVZSjFzcnV0ZXRTSUN2WTFzT2NYSjJ1WXpMTWx4b0stYTVDSkZz?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-23T11:34:21.496Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -69,6 +70,161 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3NseTJVT3psTW5HSHd4YVp5Q3dkX3k4TEhRZFJicWY4M21nWmNQZmJWZGgtbEdpMkxkQmZCOEUzZHBWeTZsSEVvSXhXYm53SF9kMHBhYWlJckVaR0lxcThVUlZ3d1QzYWpvSHk4UUJfeTlfazFyQjJ1SEltY0g5LU9DQmZuV0c4eml3MnprME9RVVh4eVpXUDRGaVdldElxU2ZQR1dFc3ZsN1UxZTFKQUdieWFOenBVeGc?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-naimos-winning-war-against-galamsey-director-of-operations",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "NAIMOS winning war against galamsey — Director of Operations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS winning war against galamsey — Director of Operations Ghanaian Times",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSklscGJRbC0tZ1FWX213TC1ENmR2LVB2SHo0LXZIRzZDOWVBQU5GNWJ3ZlpHOGhPbnlKSi16R0d6N2dac2Vkdjc3bmt0eUxqUUJyZy1HLTlvWWU2VEdXRnZKcDVwQnhVeHV6dW9SbUFKQk9lUkxiM0R0blBNTm91LWFEMWZFNUtfNXJuR05sWFM5QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxOSklscGJRbC0tZ1FWX213TC1ENmR2LVB2SHo0LXZIRzZDOWVBQU5GNWJ3ZlpHOGhPbnlKSi16R0d6N2dac2Vkdjc3bmt0eUxqUUJyZy1HLTlvWWU2VEdXRnZKcDVwQnhVeHV6dW9SbUFKQk9lUkxiM0R0blBNTm91LWFEMWZFNUtfNXJuR05sWFM5QQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-03-25-naimos-quarterly"
+    },
+    {
+      "id": "auto-2026-10-23-ghana-news-fight-against-galamsey-naimos-declares-war-on-ate",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "ghana news Fight against galamsey: NAIMOS declares war on Atewa Forest wreckers",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "ghana news Fight against galamsey: NAIMOS declares war on Atewa Forest wreckers Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNOYlNEbDVxSV9ONHFXZGJwZ0pzanZaUVEwWUpRUGcyV3RyZmlMd0tvaWdsN2NyRjhBcGhMNXVsYzZqVmN0b3I1RGxRMmxSWjNqTmQtMUJKa2pvWEtHUlZ3cHdLSzRoaHJXS0dxX2tLbHotRXpUNFk4Q3R4QjF4dGtWZ0dDSWYtRFp0bnA4alBpallrMUhabS1iaUZZeU9HdzlvRms2M09pWFpqNWhUQW1NUWs1d1ppMnJNX0JyWWNWOXBCcl9v?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNOYlNEbDVxSV9ONHFXZGJwZ0pzanZaUVEwWUpRUGcyV3RyZmlMd0tvaWdsN2NyRjhBcGhMNXVsYzZqVmN0b3I1RGxRMmxSWjNqTmQtMUJKa2pvWEtHUlZ3cHdLSzRoaHJXS0dxX2tLbHotRXpUNFk4Q3R4QjF4dGtWZ0dDSWYtRFp0bnA4alBpallrMUhabS1iaUZZeU9HdzlvRms2M09pWFpqNWhUQW1NUWs1d1ppMnJNX0JyWWNWOXBCcl9v?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-sammy-gyamfi-s-mine-without-licence-remark-raises-fresh-ques",
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "Sammy Gyamfi's 'mine without licence' remark raises fresh questions over Mahama’s galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi's 'mine without licence' remark raises fresh questions over Mahama’s galamsey fight Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHltZ3M1WFVwNFgzZ2Z5VHFqXzBRUUtjUnhZVnVxUHNjSmg5MHBSc21uRkdyVkdCS1M0Wm5qbUdsZllqalVYLUdodDhjT0pOYkZMeTZfTWl4QlRQd3JrV3JEcTU0eXhZOTdaR1JSUWxXdGpSMjI2Tnc4M2NpVzcyeTlWaW9DTWVwNlphZEhONDA4UkdiMXNDYllTTWl3X3lnam5LeGc2bGxzdmpBMjFHTWRvZUYtU3FP?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHltZ3M1WFVwNFgzZ2Z5VHFqXzBRUUtjUnhZVnVxUHNjSmg5MHBSc21uRkdyVkdCS1M0Wm5qbUdsZllqalVYLUdodDhjT0pOYkZMeTZfTWl4QlRQd3JrV3JEcTU0eXhZOTdaR1JSUWxXdGpSMjI2Tnc4M2NpVzcyeTlWaW9DTWVwNlphZEhONDA4UkdiMXNDYllTTWl3X3lnam5LeGc2bGxzdmpBMjFHTWRvZUYtU3FP?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-naimos-to-extend-river-protection-operations-to-two-more-wat",
+      "date": "2026-10-23",
+      "category": "water",
+      "title": "NAIMOS to extend river protection operations to two more water bodies by year-end",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS to extend river protection operations to two more water bodies by year-end MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1pPdXFBV3ljdEJqcXduNFRCd1pkcHpkdnBiVk53aUIwZXpJcUs4bThOM0kxT2EtLXpkYXNwbGhJMDk1dXpVbEYtZk1ubjk5NHhlbzdvNVhKdkdGc2JoRmQ2R0pzUVNGQ05Vd2N5Vkp1bkhLaU5xbVA2d2xUTkpJTjVXY1QxdGVia3NZam80M0dwSGhmM1ltSHZKWXJBWmZoeFNBUFlqdmVlSHY5Z2dN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1pPdXFBV3ljdEJqcXduNFRCd1pkcHpkdnBiVk53aUIwZXpJcUs4bThOM0kxT2EtLXpkYXNwbGhJMDk1dXpVbEYtZk1ubjk5NHhlbzdvNVhKdkdGc2JoRmQ2R0pzUVNGQ05Vd2N5Vkp1bkhLaU5xbVA2d2xUTkpJTjVXY1QxdGVia3NZam80M0dwSGhmM1ltSHZKWXJBWmZoeFNBUFlqdmVlSHY5Z2dN?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-naimos-intensifies-fight-against-galamsey-targets-two-more-r",
+      "date": "2026-10-23",
+      "category": "water",
+      "title": "NAIMOS intensifies fight against galamsey, targets two more rivers before year-end",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS intensifies fight against galamsey, targets two more rivers before year-end GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbDNsWnE0YlpRT2xITDVmX1d3eVB1aEtZdUxWeEp5VlptSVk5SVZkeF9EMVdkS2hSd3V3TlJJUXQ2aTl3bjI3MXJBeHc3bkM2LXp5YTJUZllqOEhrTl9JNmUyN09LeFdvdC13NTF6WlNJb3VUa1BISjE0NHlUaFBFeVZmTlN4eUFkMEFGd0lTeTJwWEZIOEVlMnJhcUNMTU1xdXQzZjc2b1FXeHNCcVI5ZjkwNUwyQzVackpGWjVFTDJFVGNzTjllVjdwSmdiSVJYaE9hNTFxZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbDNsWnE0YlpRT2xITDVmX1d3eVB1aEtZdUxWeEp5VlptSVk5SVZkeF9EMVdkS2hSd3V3TlJJUXQ2aTl3bjI3MXJBeHc3bkM2LXp5YTJUZllqOEhrTl9JNmUyN09LeFdvdC13NTF6WlNJb3VUa1BISjE0NHlUaFBFeVZmTlN4eUFkMEFGd0lTeTJwWEZIOEVlMnJhcUNMTU1xdXQzZjc2b1FXeHNCcVI5ZjkwNUwyQzVackpGWjVFTDJFVGNzTjllVjdwSmdiSVJYaE9hNTFxZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-fight-against-galamsey-naimos-declares-war-on-atewa-forest-w",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Fight against galamsey: NAIMOS declares war on Atewa Forest wreckers",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-naimos-declares-war-on-atewa-forest-wreckers.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-naimos-declares-war-on-atewa-forest-wreckers.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-2-organisations-promote-atewa-forest-protection"
+    },
+    {
+      "id": "auto-2026-10-23-environment-minister-demands-tougher-action-against-illegal-",
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "Environment Minister demands tougher action against illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-demands-tougher-action-against-illegal-mining.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-demands-tougher-action-against-illegal-mining.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-sammy-gyamfi-defends-formalisation-of-unlicensed-small-scale",
+      "date": "2026-10-23",
+      "category": "water",
+      "title": "Sammy Gyamfi defends formalisation of unlicensed small-scale mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has defended the government’s approach to formalising unlicensed artisanal and small-scale mining operations, arguing that eligible miners should be supported to operate legally rather than pursued with soldiers. He said miners whose operations do not affect water bodies, forest reserves or public health […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/sammy-gyamfi-defends-formalisation-of-unlicensed-small-scale-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/sammy-gyamfi-defends-formalisation-of-unlicensed-small-scale-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-goldbod-to-support-reclamation-of-three-devastated-forest-re"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -211,7 +367,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPZjhsZ1ZjLVJSLU9FTDd6SVc5LUN3SDE0RFJWOERSYXVEU3lKYllpOFpRMlFZUEZwamJSZUxVRGU4LWdYaXcyb2FrT2lma2QyZk5xZDZSdGxqZjRBalVJTFF6WnQ3R0l3LU5BWDY2R2ZQMjFzS0dlZWFFWmZwMWxCMDdwbFh6alJtNEd5cG1XSGl1b2xKWU5FS2lUQ1lqdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-23T11:39:53.964Z"
     },
     {
       "id": "auto-2026-10-22-naimos-targets-galamsey-equipment-suppliers-facilitators-in-",
@@ -4546,6 +4703,44 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-10-10-galamsey-a-slow-silent-assault-on-children-pediatric-society",
+      "date": "2026-10-10",
+      "category": "forest",
+      "title": "Galamsey a \"slow, silent assault\" on children – Pediatric Society warns, urges global action",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey a \"slow, silent assault\" on children – Pediatric Society warns, urges global action Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnI2X2w3TEFidlNqeGw5emNRckJxNkFzTndwRGI3eUFTOVo1TE10QmdjMWpZRGxRTHlWQ3Zod1BmMmo5RThVRUlHeHRjRGpWTC1CbWFuVkd6NDlXWVRoOFRhVnFXR0lCWVlKQkIxY2wwZVEwckJ1RWZIdFRUams3elU4SFRUSmtZcXFWc1NjQWdic3lRQ1Y5eTNoclR4WHNnSnE1Z3QtV19pa0lYZ0Mzag?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnI2X2w3TEFidlNqeGw5emNRckJxNkFzTndwRGI3eUFTOVo1TE10QmdjMWpZRGxRTHlWQ3Zod1BmMmo5RThVRUlHeHRjRGpWTC1CbWFuVkd6NDlXWVRoOFRhVnFXR0lCWVlKQkIxY2wwZVEwckJ1RWZIdFRUams3elU4SFRUSmtZcXFWc1NjQWdic3lRQ1Y5eTNoclR4WHNnSnE1Z3QtV19pa0lYZ0Mzag?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-10-258-suspects-in-six-month-crackdown-on-illegal-mining-in-for",
+      "date": "2026-10-10",
+      "category": "arrest",
+      "title": "258 suspects in six-month crackdown on illegal mining in forests – Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "258 suspects in six-month crackdown on illegal mining in forests – Lands Minister Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3QzRWdjR0o1R21xUlYwNlAtOUUxUHQzcUdOcUdJdGprYklGR2lONldXaVpKa2xMVEV0RUJreWtwVFNSdVNKTFZJVHNOdzVZOUJQUzNWNnhtZ3FlZmY2SFllZGFQc0o3MTV5YzFsMmZDNWU4Q0xsMDc4eG03ZGtHLUtieTc0dUJRNnFaNm1ZUHY3UnJjSzY1SUk1NlJVTlpqMS16UGdsTQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3QzRWdjR0o1R21xUlYwNlAtOUUxUHQzcUdOcUdJdGprYklGR2lONldXaVpKa2xMVEV0RUJreWtwVFNSdVNKTFZJVHNOdzVZOUJQUzNWNnhtZ3FlZmY2SFllZGFQc0o3MTV5YzFsMmZDNWU4Q0xsMDc4eG03ZGtHLUtieTc0dUJRNnFaNm1ZUHY3UnJjSzY1SUk1NlJVTlpqMS16UGdsTQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-09-galamsey-crisis-worsening-declare-state-of-emergency-catholi",
@@ -21356,7 +21551,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXY0Ti02WjhRbWV0WjFJZUtZemZPMmJ0eW5UcFpjZmlRdGV5LXh4bFBFVmVmbkRyMkJNeG52emhGTjh5QWkzY3BqWWJpS0M1RVhDNEdvcGNOcUh4YTlxbEU2S2VLNExVQ05nM3Z6NjZtS1p1QmlFLThselNDLUJfcUVnZ1dGNzlwekRDQ2tMVGVLMnpISE0ySWZVSUtQdXNnY2tXNDBETm9zbkI3Qk1sMnRKVnlzTnBOeWR3UVlOaDFhR2Q0QllYdDJOUGJwZmo0b2lXd3MxMEVDZUpfaVJV?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-08-12-26-illegal-miners-arrested-in-mpohor-fiase-anti-galamsey-ope",
