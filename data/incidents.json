@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T17:10:57.512Z",
+  "updated": "2026-10-23T21:27:58.871Z",
   "counts": {
-    "total": 1317,
+    "total": 1322,
     "verified": 28,
-    "automated": 1289,
+    "automated": 1294,
     "earliest": "2024-07-01",
     "latest": "2026-10-23"
   },
@@ -110,7 +110,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHNOYlNEbDVxSV9ONHFXZGJwZ0pzanZaUVEwWUpRUGcyV3RyZmlMd0tvaWdsN2NyRjhBcGhMNXVsYzZqVmN0b3I1RGxRMmxSWjNqTmQtMUJKa2pvWEtHUlZ3cHdLSzRoaHJXS0dxX2tLbHotRXpUNFk4Q3R4QjF4dGtWZ0dDSWYtRFp0bnA4alBpallrMUhabS1iaUZZeU9HdzlvRms2M09pWFpqNWhUQW1NUWs1d1ppMnJNX0JyWWNWOXBCcl9v?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-23T21:22:01.790Z"
     },
     {
       "id": "auto-2026-10-23-sammy-gyamfi-s-mine-without-licence-remark-raises-fresh-ques",
@@ -167,7 +168,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbDNsWnE0YlpRT2xITDVmX1d3eVB1aEtZdUxWeEp5VlptSVk5SVZkeF9EMVdkS2hSd3V3TlJJUXQ2aTl3bjI3MXJBeHc3bkM2LXp5YTJUZllqOEhrTl9JNmUyN09LeFdvdC13NTF6WlNJb3VUa1BISjE0NHlUaFBFeVZmTlN4eUFkMEFGd0lTeTJwWEZIOEVlMnJhcUNMTU1xdXQzZjc2b1FXeHNCcVI5ZjkwNUwyQzVackpGWjVFTDJFVGNzTjllVjdwSmdiSVJYaE9hNTFxZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-23T21:23:50.921Z"
     },
     {
       "id": "auto-2026-10-23-fight-against-galamsey-naimos-declares-war-on-atewa-forest-w",
@@ -187,6 +189,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-naimos-declares-war-on-atewa-forest-wreckers.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-23T21:24:03.384Z",
       "thread": "t-auto-2026-08-19-2-organisations-promote-atewa-forest-protection"
     },
     {
@@ -324,6 +327,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/small-scale-miners-association-defend-goldbod-ceo-says-viral-video-misrepresents-remarks-on-mining.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-23T21:26:39.980Z",
       "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
     },
     {
@@ -343,7 +347,87 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/goldbod-ceo-clarifies-formalisation-of-unlicensed-miners-says-video-was-misrepresented.html",
       "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-23T21:27:11.007Z"
+    },
+    {
+      "id": "auto-2026-10-23-naimos-has-a-strategy-to-tackle-local-complicity-in-galamsey",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "NAIMOS has a strategy to tackle local complicity in galamsey - Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS has a strategy to tackle local complicity in galamsey - Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15N1QxVW81aElrc2dhbnhyZGRmZFZ0TWpZYy1QS0NSME53V1RCVXBpcTNYb3RCTjJEM1djc21aR2JkRXRONXRHeWlrelpvcWVpdjhRckFtTjVEVmRHS0MteDl3VnTSAVxBVV95cUxNb25jZHJZb2x3eHlTOFhEbm45N1VpclBGZldpa3lvVDRjQkFrY0I5RjZvU1VxSmxiS01RQ3BhNG1RRlY1WTQ2NWFkLTZpZ1FLQ3hjUGJyZXJjdzB5bw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE15N1QxVW81aElrc2dhbnhyZGRmZFZ0TWpZYy1QS0NSME53V1RCVXBpcTNYb3RCTjJEM1djc21aR2JkRXRONXRHeWlrelpvcWVpdjhRckFtTjVEVmRHS0MteDl3VnTSAVxBVV95cUxNb25jZHJZb2x3eHlTOFhEbm45N1VpclBGZldpa3lvVDRjQkFrY0I5RjZvU1VxSmxiS01RQ3BhNG1RRlY1WTQ2NWFkLTZpZ1FLQ3hjUGJyZXJjdzB5bw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-23T21:27:35.963Z"
+    },
+    {
+      "id": "auto-2026-10-23-news-review-aseidu-nketia-eyes-bigger-role-damang-mine-galam",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "News Review: Aseidu Nketia Eyes Bigger Role?, Damang Mine & Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "News Review: Aseidu Nketia Eyes Bigger Role?, Damang Mine & Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50Z3Bqek5KNHpGZjVwZ002UjFlVVBDamFPVVZxR0x2X3Q4a1lwc2RfRjVDMjZSSzlKMXo5YjVjV2hwcHZsQno5UGhwYUdtTXVfMkJTc1JhUmRsOGQxeDN6cFVweG7SAVxBVV95cUxPNS1LWWhLRkg2c0FtM0NzTzl4Wlo2aHZuSHBIaHlyOUxGZEJ0aXdmaVFFQTFqNUFZWGkyTU5jbFNYalYzWGxxNjJXMzBpc2REakl0Rm9Ea2RHMjRqcQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE50Z3Bqek5KNHpGZjVwZ002UjFlVVBDamFPVVZxR0x2X3Q4a1lwc2RfRjVDMjZSSzlKMXo5YjVjV2hwcHZsQno5UGhwYUdtTXVfMkJTc1JhUmRsOGQxeDN6cFVweG7SAVxBVV95cUxPNS1LWWhLRkg2c0FtM0NzTzl4Wlo2aHZuSHBIaHlyOUxGZEJ0aXdmaVFFQTFqNUFZWGkyTU5jbFNYalYzWGxxNjJXMzBpc2REakl0Rm9Ea2RHMjRqcQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-10-23-fight-against-galamsey-galamsey-cuts-into-samartex-operation",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Fight against galamsey: Galamsey cuts into Samartex operations and livelihoods.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fight against galamsey: Galamsey cuts into Samartex operations and livelihoods. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdzFVT2JVemIyU0I5bTJ4RzUybVJ0MjVncUdlbkRCQ3BuakdnUGR3d1AtbzlSS2JSeE8xX2RPUGFXbllyalN4NFNNUHk4OVlaYXJLcWN0U2FTMGw30gFcQVVfeXFMTUd3MVVPYlV6YjJTQjltMnhHNTJtUnQyNWdxR2VuREJDcG5qR2dQZHd3UC1vOVJLYlJ4TzFfZE9QYVduWXJqU3g0U01QeTg5WVphcktxY3RTYVMwbDc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HdzFVT2JVemIyU0I5bTJ4RzUybVJ0MjVncUdlbkRCQ3BuakdnUGR3d1AtbzlSS2JSeE8xX2RPUGFXbllyalN4NFNNUHk4OVlaYXJLcWN0U2FTMGw30gFcQVVfeXFMTUd3MVVPYlV6YjJTQjltMnhHNTJtUnQyNWdxR2VuREJDcG5qR2dQZHd3UC1vOVJLYlJ4TzFfZE9QYVduWXJqU3g0U01QeTg5WVphcktxY3RTYVMwbDc?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-gnassm-clarifies-goldbod-ceo-s-remarks-rejects-claims-of-gal",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "GNASSM Clarifies GoldBod CEO's Remarks; Rejects Claims Of Galamsey Endorsement",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GNASSM Clarifies GoldBod CEO's Remarks; Rejects Claims Of Galamsey Endorsement Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpRcmlLaFlTUXRiU21RdkQ3NXFfblYwOFhyZ2ZKbWFDQlFRVG1RY2tKT2VENjJVVmZHTHplNzJaTnJMOEJQZlc1MV8zSjVMbmF1UVZRWWk2aE00MldrMUVmWTJjazBsdnZwdHRmSEp6ZlRFVkRHamNuRTM4aU5RdDkwRmNXSmljY1JwVGd2VUtSS1JCeHEyei1INDlJWHNkVUN0ZFpaUnRxeDB1dll2TExKb1c3bkpmQ1FISDNR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpRcmlLaFlTUXRiU21RdkQ3NXFfblYwOFhyZ2ZKbWFDQlFRVG1RY2tKT2VENjJVVmZHTHplNzJaTnJMOEJQZlc1MV8zSjVMbmF1UVZRWWk2aE00MldrMUVmWTJjazBsdnZwdHRmSEp6ZlRFVkRHamNuRTM4aU5RdDkwRmNXSmljY1JwVGd2VUtSS1JCeHEyei1INDlJWHNkVUN0ZFpaUnRxeDB1dll2TExKb1c3bkpmQ1FISDNR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -4875,6 +4959,25 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlJBeVY2NlBvRGhWNVA5b055WTRHMXFndlUxdXU4QTlEa1dkQ1lSMTRIWGZwTXlMRFdtbHZ1cHZqR3FwRks1aDNRb18tNlVua1lrQUhoMTIwNG1FOHF6UHQ5M0ZqcDhkUVp6MU43em9hLVRqQ1dTRGU5aXh0cUlqM0JnV08wRVZIRFdzOEpB?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlJBeVY2NlBvRGhWNVA5b055WTRHMXFndlUxdXU4QTlEa1dkQ1lSMTRIWGZwTXlMRFdtbHZ1cHZqR3FwRks1aDNRb18tNlVua1lrQUhoMTIwNG1FOHF6UHQ5M0ZqcDhkUVp6MU43em9hLVRqQ1dTRGU5aXh0cUlqM0JnV08wRVZIRFdzOEpB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-10-ashanti-region-four-killed-in-collapsed-galamsey-pit",
+      "date": "2026-10-10",
+      "category": "forest",
+      "title": "Ashanti Region: four killed in collapsed galamsey pit",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Ashanti Region: four killed in collapsed galamsey pit Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWkxeW1TZk5uSk91NWd0RDE0NloyYWpXYmtBdnRTUFBmaUl4QkQ0OGQyelhSTmFnMUpSSGRTV0VQZ01sbzZmcnNpeHBsVTM2ejNCMmgxR055a1VjMVpOMXZ3QXFQNjNhekVaTC1lOXpFdDJvNFo2bzFJSDdHaDkyNzR0cw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWkxeW1TZk5uSk91NWd0RDE0NloyYWpXYmtBdnRTUFBmaUl4QkQ0OGQyelhSTmFnMUpSSGRTV0VQZ01sbzZmcnNpeHBsVTM2ejNCMmgxR055a1VjMVpOMXZ3QXFQNjNhekVaTC1lOXpFdDJvNFo2bzFJSDdHaDkyNzR0cw?oc=5",
       "via": "rss",
       "verified": false
     },
