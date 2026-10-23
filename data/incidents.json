@@ -1,13 +1,75 @@
 {
-  "updated": "2026-10-22T21:38:54.971Z",
+  "updated": "2026-10-23T04:51:27.222Z",
   "counts": {
-    "total": 1296,
+    "total": 1300,
     "verified": 28,
-    "automated": 1268,
+    "automated": 1272,
     "earliest": "2024-07-01",
-    "latest": "2026-10-22"
+    "latest": "2026-10-23"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-23-mest-pushes-enforcement-against-galamsey-on-legal-mining-con",
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "MEST pushes enforcement against galamsey on legal mining concessions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "MEST pushes enforcement against galamsey on legal mining concessions Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODdPeVJaZGpwZmZaeTF1Y05LejhuUW5nY09QSG5iVVFWX3EyR2JLQzIwcHloekpkb3M5ejV5XzhGZEFCOW1DTHowaVF1NjFCMmdmWW41dGhPdHA1MXBwamxPMF9SZTlYSjdZVmFUODdYbGpvVVA1UDh6UnRqaXVZSjFzcnV0ZXRTSUN2WTFzT2NYSjJ1WXpMTWx4b0stYTVDSkZz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiowFBVV95cUxQODdPeVJaZGpwZmZaeTF1Y05LejhuUW5nY09QSG5iVVFWX3EyR2JLQzIwcHloekpkb3M5ejV5XzhGZEFCOW1DTHowaVF1NjFCMmdmWW41dGhPdHA1MXBwamxPMF9SZTlYSjdZVmFUODdYbGpvVVA1UDh6UnRqaXVZSjFzcnV0ZXRTSUN2WTFzT2NYSjJ1WXpMTWx4b0stYTVDSkZz?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-23-galamsey-ravages-lands-in-osino",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Galamsey ravages lands in Osino",
+      "place": "Osino",
+      "region": "Eastern",
+      "lat": 6.28,
+      "lon": -0.45,
+      "summary": "Galamsey ravages lands in Osino Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEZPY0c5RU9uVjBTUVJGaGFUTjVlOGFFWHRabGdJWUVtNGVITUxROVVHbW1jam5MRTN2OTNwanVvTE1qelJnc0hvbS1Sa0NmdzAzbDlndjZUdFBPVmE3Z1pxbjUwZHk1UDJOdFo5VmhRUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMickFVX3lxTFBtTEZPY0c5RU9uVjBTUVJGaGFUTjVlOGFFWHRabGdJWUVtNGVITUxROVVHbW1jam5MRTN2OTNwanVvTE1qelJnc0hvbS1Sa0NmdzAzbDlndjZUdFBPVmE3Z1pxbjUwZHk1UDJOdFo5VmhRUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-23T04:46:02.852Z",
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-23-naimos-steps-up-anti-galamsey-fight-over-100-excavators-seiz",
+      "date": "2026-10-23",
+      "category": "arrest",
+      "title": "NAIMOS steps up anti-galamsey fight, over 100 excavators seized",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS steps up anti-galamsey fight, over 100 excavators seized GhanaWeb",
+      "metrics": {
+        "excavators": 100
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3NseTJVT3psTW5HSHd4YVp5Q3dkX3k4TEhRZFJicWY4M21nWmNQZmJWZGgtbEdpMkxkQmZCOEUzZHBWeTZsSEVvSXhXYm53SF9kMHBhYWlJckVaR0lxcThVUlZ3d1QzYWpvSHk4UUJfeTlfazFyQjJ1SEltY0g5LU9DQmZuV0c4eml3MnprME9RVVh4eVpXUDRGaVdldElxU2ZQR1dFc3ZsN1UxZTFKQUdieWFOenBVeGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3NseTJVT3psTW5HSHd4YVp5Q3dkX3k4TEhRZFJicWY4M21nWmNQZmJWZGgtbEdpMkxkQmZCOEUzZHBWeTZsSEVvSXhXYm53SF9kMHBhYWlJckVaR0lxcThVUlZ3d1QzYWpvSHk4UUJfeTlfazFyQjJ1SEltY0g5LU9DQmZuV0c4eml3MnprME9RVVh4eVpXUDRGaVdldElxU2ZQR1dFc3ZsN1UxZTFKQUdieWFOenBVeGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
       "date": "2026-10-22",
@@ -4711,6 +4773,25 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWxIUUdyMFVxM3VnaUk2MmJoalNjZXlHYnpPZWg1a0tma0ZXblVhYW8zUVBteGh4Vzk5WFNlWG1Qc05uYXNDYm1fbG9qaF9RSmhNcFVrWDAwMHl2VEJUV0RQWG5WTzZLcUQyYkRqRUhWcWkwTThZYTlDcVdFRHhTa25qUUdjbjhfb2VkNmRxMGVtdVNpQ0E?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWxIUUdyMFVxM3VnaUk2MmJoalNjZXlHYnpPZWg1a0tma0ZXblVhYW8zUVBteGh4Vzk5WFNlWG1Qc05uYXNDYm1fbG9qaF9RSmhNcFVrWDAwMHl2VEJUV0RQWG5WTzZLcUQyYkRqRUhWcWkwTThZYTlDcVdFRHhTa25qUUdjbjhfb2VkNmRxMGVtdVNpQ0E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-09-opinion-ghana-cannot-arrest-its-way-out-of-galamsey-a-case-f",
+      "date": "2026-10-09",
+      "category": "arrest",
+      "title": "Opinion: Ghana cannot arrest its way out of galamsey - A case for medium-scale mining revolution",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Opinion: Ghana cannot arrest its way out of galamsey - A case for medium-scale mining revolution Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2RpTU5lZ3FBTU54NkY5VFAyRjlQUDZLcGhuWVJyM180djR0cVBhRkdub253a2kwQWMybGFmNlZPVV95ZW1mNnhCbFVrRGtSb21WNU0zRGRKazFhckhMeWU3WHZ3WXY0WHFjMVYtcm05RmdXaXJJMjNhZm9rOUVKc2NYMUt5V21ZWVJNSlo1SHlYcHh3R0U4VG5VbjVJRjR0NkJsZk04aF9WZVBmeWZiRXpNeDlMZHczSlE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2RpTU5lZ3FBTU54NkY5VFAyRjlQUDZLcGhuWVJyM180djR0cVBhRkdub253a2kwQWMybGFmNlZPVV95ZW1mNnhCbFVrRGtSb21WNU0zRGRKazFhckhMeWU3WHZ3WXY0WHFjMVYtcm05RmdXaXJJMjNhZm9rOUVKc2NYMUt5V21ZWVJNSlo1SHlYcHh3R0U4VG5VbjVJRjR0NkJsZk04aF9WZVBmeWZiRXpNeDlMZHczSlE?oc=5",
       "via": "rss",
       "verified": false
     },
