@@ -1,13 +1,74 @@
 {
-  "updated": "2026-10-24T04:39:00.674Z",
+  "updated": "2026-10-24T11:01:15.205Z",
   "counts": {
-    "total": 1326,
+    "total": 1329,
     "verified": 28,
-    "automated": 1298,
+    "automated": 1301,
     "earliest": "2024-07-01",
-    "latest": "2026-10-23"
+    "latest": "2026-10-24"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Galamsey: Sammy Gyamfi’s remarks contextual but oversimplified – EPA Deputy CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Sammy Gyamfi’s remarks contextual but oversimplified – EPA Deputy CEO CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGhoWFhTZ3ZZMWttR1FKMTVsNElNR3FYVlh1VHhQLW1RNkl1U0NOVmV6NUV6SS11TVR6czZrWkJ0TGRTTENfQ1IyRzExMlcxT0NsbVVSUmVkQlYxTFBMcExzME1WSHlCM2tPeU5rUzVhVTd2THJWeF9DVlZHNzFpOFJuMFYzOG5hU0lfeFQ4ME5SbzRpVDBCeVExLWhvUnc1MWJfUmI5b201bE9zdFkxUkhDYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGhoWFhTZ3ZZMWttR1FKMTVsNElNR3FYVlh1VHhQLW1RNkl1U0NOVmV6NUV6SS11TVR6czZrWkJ0TGRTTENfQ1IyRzExMlcxT0NsbVVSUmVkQlYxTFBMcExzME1WSHlCM2tPeU5rUzVhVTd2THJWeF9DVlZHNzFpOFJuMFYzOG5hU0lfeFQ4ME5SbzRpVDBCeVExLWhvUnc1MWJfUmI5b201bE9zdFkxUkhDYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-24T10:54:57.448Z"
+    },
+    {
+      "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-dangerous-and-troubling-form",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Galamsey: Sammy Gyamfi’s remarks ‘dangerous and troubling’ – Former EPA CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Sammy Gyamfi’s remarks ‘dangerous and troubling’ – Former EPA CEO CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0ZDakNZSExBRlVWWWEwMkluN052ejFJZlBCZVQ0X1ZmcTlwX09hVkdDRkU4UGtXdC1SOFdONzlzRFNrZ240cXVyLThqWWhVQy1ldVlXMTVxNlJkbmk2WUVQVWRhd1MxTTNqQjBlWktQQm5DT1ZCaGtkRXRiaGJqTXJUanUtQkgyQVFTNENOM3ozUFdUTGY4S3Fva1p6VEhkRWdjd1VMMWZpWU0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0ZDakNZSExBRlVWWWEwMkluN052ejFJZlBCZVQ0X1ZmcTlwX09hVkdDRkU4UGtXdC1SOFdONzlzRFNrZ240cXVyLThqWWhVQy1ldVlXMTVxNlJkbmk2WUVQVWRhd1MxTTNqQjBlWktQQm5DT1ZCaGtkRXRiaGJqTXJUanUtQkgyQVFTNENOM3ozUFdUTGY4S3Fva1p6VEhkRWdjd1VMMWZpWU0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-24T10:55:22.223Z"
+    },
+    {
+      "id": "auto-2026-10-24-experts-call-for-urgent-protection-of-cape-three-points-fore",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Experts call for urgent protection of Cape Three Points forest cover",
+      "place": "Cape Three Points",
+      "region": "Western",
+      "lat": 4.75,
+      "lon": -2.08,
+      "summary": "Deep inside the Cape Three Points Forest Reserve, where towering trees once shielded rivers that flow quietly into the Gulf of Guinea, the unmistakable scars of illegal mining are spreading across one of Ghana's richest biodiversity hotspots. The destruction would appear to be a forest problem, but conservation experts say it threatens something far bigger: the future of Ghana's fisheries and the success of the count",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-experts-call-for-urgent-protection-of-cape-three-points-forest-cover.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-experts-call-for-urgent-protection-of-cape-three-points-forest-cover.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-24T10:55:52.962Z",
+      "thread": "t-pol-2026-04-cape-three-points"
+    },
     {
       "id": "auto-2026-10-23-mest-pushes-enforcement-against-galamsey-on-legal-mining-con",
       "date": "2026-10-23",
@@ -210,7 +271,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-environment-minister-demands-tougher-action-against-illegal-mining.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-24T10:56:48.782Z"
     },
     {
       "id": "auto-2026-10-23-sammy-gyamfi-defends-formalisation-of-unlicensed-small-scale",
@@ -428,6 +490,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHpRcmlLaFlTUXRiU21RdkQ3NXFfblYwOFhyZ2ZKbWFDQlFRVG1RY2tKT2VENjJVVmZHTHplNzJaTnJMOEJQZlc1MV8zSjVMbmF1UVZRWWk2aE00MldrMUVmWTJjazBsdnZwdHRmSEp6ZlRFVkRHamNuRTM4aU5RdDkwRmNXSmljY1JwVGd2VUtSS1JCeHEyei1INDlJWHNkVUN0ZFpaUnRxeDB1dll2TExKb1c3bkpmQ1FISDNR?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-24T11:00:17.232Z",
       "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
