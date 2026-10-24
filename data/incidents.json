@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T11:01:15.205Z",
+  "updated": "2026-10-24T16:01:56.079Z",
   "counts": {
-    "total": 1329,
+    "total": 1338,
     "verified": 28,
-    "automated": 1301,
+    "automated": 1310,
     "earliest": "2024-07-01",
     "latest": "2026-10-24"
   },
@@ -68,6 +68,149 @@
       "verified": false,
       "archivedAt": "2026-10-24T10:55:52.962Z",
       "thread": "t-pol-2026-04-cape-three-points"
+    },
+    {
+      "id": "auto-2026-10-24-formalisation-not-amnesty-for-galamsey-goldbod",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Formalisation not amnesty for galamsey – GoldBod",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Formalisation not amnesty for galamsey – GoldBod CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNTFnRy1IZDdNTkZLd1JSWC1nQjNxdm1Sa2dya2JRXzBxTElFQmp4dk9Td1pKTEhTemNHM1JtUzkwMmJGVFJTZklTZGJ3S2dCLXZHX1pHdTBVemZBdHV0R0VhbDJBMEstSU92M0dvRnFZRkZqUWxRb0Z5V2ZqcXRoTXZwTW5nNVVLSE1qdHBhX3U?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxPNTFnRy1IZDdNTkZLd1JSWC1nQjNxdm1Sa2dya2JRXzBxTElFQmp4dk9Td1pKTEhTemNHM1JtUzkwMmJGVFJTZklTZGJ3S2dCLXZHX1pHdTBVemZBdHV0R0VhbDJBMEstSU92M0dvRnFZRkZqUWxRb0Z5V2ZqcXRoTXZwTW5nNVVLSE1qdHBhX3U?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-24T15:54:39.264Z",
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-10-24-minority-wants-sammy-gyamfi-sacked-over-reckless-galamsey-co",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Minority wants Sammy Gyamfi sacked over \"reckless\" galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority wants Sammy Gyamfi sacked over \"reckless\" galamsey comments Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjI2bjFQakY4QWVZMmdmUnpEWUYyU2tVakVSdUdCZ1BHUnRLUE9WbkUyWThoN3hZZWhNc2lucUVNcU1VMWRWRHZuZUZrVkJYak9sVWhoZnF6aDZmbF9FV0VpYUJyZWI2RjRERzN4QlBzY0NkcjhRSzRQTDdtdHZlWXBoOFZFUGpWNUxDcUxfai1jZDNLb3c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjI2bjFQakY4QWVZMmdmUnpEWUYyU2tVakVSdUdCZ1BHUnRLUE9WbkUyWThoN3hZZWhNc2lucUVNcU1VMWRWRHZuZUZrVkJYak9sVWhoZnF6aDZmbF9FV0VpYUJyZWI2RjRERzN4QlBzY0NkcjhRSzRQTDdtdHZlWXBoOFZFUGpWNUxDcUxfai1jZDNLb3c?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-24-nearly-800-of-12-000-acres-of-galamsey-damaged-land-reclaime",
+      "date": "2026-10-24",
+      "category": "reclamation",
+      "title": "Nearly 800 of 12,000 acres of galamsey-damaged land reclaimed – Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nearly 800 of 12,000 acres of galamsey-damaged land reclaimed – Mahama Pulse Ghana",
+      "metrics": {
+        "acres": 12000
+      },
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1FmTUwzbG9yN25TTVMwU2MwN0p5VWs1VFFLUk9hQjVJU1hkNmNrZTNaNW56WVNaUXVtZ1dGUTctMy1jYWxnUjJGdzV4MmZteTJHTHNLbk41VVNMWHVjQnpOaTNYMFBfTFJMSWJTZnduRG5DMkxLN0FWcWJXcDF1WnV0OVFoNzF6WDc4RURQcW5aS2R1dTVlNHplVQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1FmTUwzbG9yN25TTVMwU2MwN0p5VWs1VFFLUk9hQjVJU1hkNmNrZTNaNW56WVNaUXVtZ1dGUTctMy1jYWxnUjJGdzV4MmZteTJHTHNLbk41VVNMWHVjQnpOaTNYMFBfTFJMSWJTZnduRG5DMkxLN0FWcWJXcDF1WnV0OVFoNzF6WDc4RURQcW5aS2R1dTVlNHplVQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-24T15:55:38.947Z",
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
+    },
+    {
+      "id": "auto-2026-10-24-channel-one-tv-live-obuasi-shts-abuse-galamsey-controversy-n",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Channel One TV LIVE: Obuasi SHTS Abuse, Galamsey Controversy & NDC Elections | The Big Issue",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Channel One TV LIVE: Obuasi SHTS Abuse, Galamsey Controversy & NDC Elections | The Big Issue Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQVZtekFuUVhTeHg4bno4QkpUVGtvODBqNDBTdDUxcXp0VGo2bmdncjk0RGc3dEU4WFplMXBtQkhtaWpDNll3a3BFY2FTdEt2MDNTZzlaN3RHdTUyczVPQV8wQdIBXEFVX3lxTE9hR180c191QzE0eXAwMVd6RGZVQTJzS3o4OFdtVmpwQV9YNlVER0taNlBHbnZFcEpfSG1rSXM0LW0yQU0zeEVOMmxkQzB6c1JkR1ZCbDhxbFVGWFNu?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQVZtekFuUVhTeHg4bno4QkpUVGtvODBqNDBTdDUxcXp0VGo2bmdncjk0RGc3dEU4WFplMXBtQkhtaWpDNll3a3BFY2FTdEt2MDNTZzlaN3RHdTUyczVPQV8wQdIBXEFVX3lxTE9hR180c191QzE0eXAwMVd6RGZVQTJzS3o4OFdtVmpwQV9YNlVER0taNlBHbnZFcEpfSG1rSXM0LW0yQU0zeEVOMmxkQzB6c1JkR1ZCbDhxbFVGWFNu?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-24-naimos-targets-atewa-forest-under-operation-green-shield-aft",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "NAIMOS Targets Atewa Forest Under Operation Green Shield After Earlier Violent Mining Clash",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "NAIMOS Targets Atewa Forest Under Operation Green Shield After Earlier Violent Mining Clash Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnF5Y0lyakhKRDBDQlB6Zm1lSzBNOVZZSlgzN3VqOTJBdnA0Q0FIZkxDT2FnTFN6cVFVQkxQZzRXY2M0OW1xZGY5dmo5cmdLeWd2UTQ1YVB4bWZfNTc3bEZ6UmZuN1lkSDRYeXZGUGhPQlRWeHAzU054WHA1UmRxWUlqMi1CRTRtckJ0YkpFWjJfaDVLZkZpTlZnc9IBmgFBVV95cUxQWHRKd2VtRGZqMFQwdXdxdFBKcksxZVhSOXQ3ckMyQXUzYUNkYUxjMDc5UXpxNHhLQjZ3QWw3QmI3MEVfOHphcERFaXh0TWhyNWFSanVueVUzQVc5QlVfLU9DNFpjdjR6WGZ6NmFrWTVESjZZaVRIYVdMbjEtNG9NdlVXbVVtWVBmX2NOQ0ZVTi14S0ZZaXZ0amx3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnF5Y0lyakhKRDBDQlB6Zm1lSzBNOVZZSlgzN3VqOTJBdnA0Q0FIZkxDT2FnTFN6cVFVQkxQZzRXY2M0OW1xZGY5dmo5cmdLeWd2UTQ1YVB4bWZfNTc3bEZ6UmZuN1lkSDRYeXZGUGhPQlRWeHAzU054WHA1UmRxWUlqMi1CRTRtckJ0YkpFWjJfaDVLZkZpTlZnc9IBmgFBVV95cUxQWHRKd2VtRGZqMFQwdXdxdFBKcksxZVhSOXQ3ckMyQXUzYUNkYUxjMDc5UXpxNHhLQjZ3QWw3QmI3MEVfOHphcERFaXh0TWhyNWFSanVueVUzQVc5QlVfLU9DNFpjdjR6WGZ6NmFrWTVESjZZaVRIYVdMbjEtNG9NdlVXbVVtWVBmX2NOQ0ZVTi14S0ZZaXZ0amx3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-10-24-mahama-earmarks-gh-200m-for-naimos-blue-water-guards-in-2027",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Mahama earmarks GH¢200m for NAIMOS, Blue Water Guards in 2027 Budget",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama earmarks GH¢200m for NAIMOS, Blue Water Guards in 2027 Budget Pulse Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTk83cXJXYVZTZUFOVUR6aGZDQXN4VFp5OWoyeUNVOU9DSEVhcTY0MFdqNGl4V2diUnY5VDFkc19lcHoyLTBIZldhZThOOHBjSDlidGxmb1ExdlFsS1pwX2Nla3RhdzZ5SHhLX3dKMW9kWmJLTmxfQ3QxbDhqNDY3Q3BPcTVQWEJiVHE2RVRpcXBTRWxlczJIOWVabnNWWUN6bTN4UjNTSnE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTk83cXJXYVZTZUFOVUR6aGZDQXN4VFp5OWoyeUNVOU9DSEVhcTY0MFdqNGl4V2diUnY5VDFkc19lcHoyLTBIZldhZThOOHBjSDlidGxmb1ExdlFsS1pwX2Nla3RhdzZ5SHhLX3dKMW9kWmJLTmxfQ3QxbDhqNDY3Q3BPcTVQWEJiVHE2RVRpcXBTRWxlczJIOWVabnNWWUN6bTN4UjNTSnE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-10-24-minority-demands-sammy-gyamfi-s-resignation-as-goldbod-ceo-o",
+      "date": "2026-10-24",
+      "category": "policy",
+      "title": "Minority demands Sammy Gyamfi’s resignation as GoldBod CEO over comments on small-scale mining licences",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minority Caucus in Parliament has called for the resignation or dismissal of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over comments it says suggest that small-scale miners can operate without the requisite licences and permits.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
     },
     {
       "id": "auto-2026-10-23-mest-pushes-enforcement-against-galamsey-on-legal-mining-con",
@@ -571,6 +714,46 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-23-sammy-gyamfi-faces-backlash-over-remarks-on-galamsey",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Sammy Gyamfi Faces Backlash Over Remarks on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi Faces Backlash Over Remarks on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uT1dia2h2eklJTExzN3NZVUYtWmw3ZUZHU0QxUVVIVVNhTjM2amlpLXNvZmJYWkFIUmlsSFhTN2JxenRRdzZneWpjSndWREhoenNvT1E0aFAtX1UxNk1heWZLSdIBXEFVX3lxTE84UjVJN3NGN3ZuMFpYY0drVXQyMGZQU05OSGF4cldRcnJuemFnVVBnejFHT01tbzdxRGw0VnpPZm00WlBvdHVEM0stQ1N5ZVdhYi15OTRsRzlsRVpf?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uT1dia2h2eklJTExzN3NZVUYtWmw3ZUZHU0QxUVVIVVNhTjM2amlpLXNvZmJYWkFIUmlsSFhTN2JxenRRdzZneWpjSndWREhoenNvT1E0aFAtX1UxNk1heWZLSdIBXEFVX3lxTE84UjVJN3NGN3ZuMFpYY0drVXQyMGZQU05OSGF4cldRcnJuemFnVVBnejFHT01tbzdxRGw0VnpPZm00WlBvdHVEM0stQ1N5ZVdhYi15OTRsRzlsRVpf?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
+    },
+    {
+      "id": "auto-2026-10-23-fight-against-illegal-mining-operation-water-shield-naimos-a",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Fight against illegal mining: Operation Water Shield, NAIMOS activities and matters arising |AM Show",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fight against illegal mining: Operation Water Shield, NAIMOS activities and matters arising |AM Show Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qYjc3OUtaN3d3T0ZqTnpkXzlJd3FodWJlMjdkemlhSlQwVDBRYjBMRzNZM1FzdXFweEgwd0lmZ1FEYzZYV3QxbDlqcEpkQUQzUXdHdG5CSzdYWE1QUER2TGE5cTnSAVxBVV95cUxPc2E0OEpRSWp0WVp2QVZfSl83ZnZERVliZEUzNlBZTjdNVTVIZFNHbWRERTNwOUFBR0FfbzJ5ODNWWHlOMXZlM1ozUXNNdG1IN0x0V0g1SjNkYW5VZQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qYjc3OUtaN3d3T0ZqTnpkXzlJd3FodWJlMjdkemlhSlQwVDBRYjBMRzNZM1FzdXFweEgwd0lmZ1FEYzZYV3QxbDlqcEpkQUQzUXdHdG5CSzdYWE1QUER2TGE5cTnSAVxBVV95cUxPc2E0OEpRSWp0WVp2QVZfSl83ZnZERVliZEUzNlBZTjdNVTVIZFNHbWRERTNwOUFBR0FfbzJ5ODNWWHlOMXZlM1ozUXNNdG1IN0x0V0g1SjNkYW5VZQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -11496,8 +11679,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOZENQOXdwaDZzdGhBcE9YZXd0UFRjaTBXNFZlT1Q5WE5WVF9heTZ1MVdPQXNXanVkTTRCVzFDNm9LWlhMbTBxNmJvRGs4b3dVcmRjNElVOVdadFRYc1Fxc0FDNE1WUF9ONFFnQU5URFgxdmtWNFRSYkotcDRuYmw1S2djWGt1bnZkQ291bFM5eEpFcENJcVV6cXpxZ2dOM1Vj?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-11T20:56:22.533Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-09-11T20:56:22.533Z"
     },
     {
       "id": "auto-2026-09-11-naimos-launches-operation-water-shield-to-protect-birim-anko",
@@ -11600,8 +11782,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGNpR2JpdVVNamd1RFJOOHdHN0c4azRRcWdRMW0wQ2tVREpPSnNvcWdINFRRLVItRndfZkYzSXA4OXYtN2NlWTZ2YW9wWk1uRDd3VTlTc3JTOWhIZk93UWlWdW1FbHVDampneWYydy1rbGlienVIdElvRTFaQmtfZzlMTUtjVDdyQlp1VHV6VlY4QkdxaWlkSndjQmJucl9WX21fTzNta0Z5R3doV3U1U1VSRUZYR2Q0WUE?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-12T04:32:48.187Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-09-12T04:32:48.187Z"
     },
     {
       "id": "auto-2026-09-11-operation-water-shield-naimos-begins-fresh-crackdown-on-gala",
@@ -11621,8 +11802,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1V2cHBKWXRkcUYtMnRha1ZHSXdfTVVldHB2N1lSaUt1OHVtaFRBUGpnb0FUdVBqZWQtajJxdDFsUUE2ZWFFSk9ncUNpSXhiSXVVekstYXFRc091VmEyeVhwcDNsU2NyZFB2NUIwUFBnSVFTTFp1cHNNZzFzTk5rcHljeEpNckR1TlRoeVZ4YUNmMDdYWnBRcDVlYllhRzRjcm9kd0NsNlJzd2xOV2hoaGY2VmpfeXBlYXZHZm80Vk8?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-12T04:33:18.608Z",
-      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+      "archivedAt": "2026-09-12T04:33:18.608Z"
     },
     {
       "id": "auto-2026-09-11-galamsey-in-numbers-beyond-the-numbers",
@@ -19965,7 +20145,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPTktiNUJBV1JfOUlndzJDWXFuNm5mRUQyNWFvYmV5bTlmTDZqU1IyM2dSTl9Rc1R4b0kxdDJ5azM4c2NINmtrZTF5eTFQSDE3U3gxWlp5a1VsVzBCTWRVeTFBWVo1NEhlQ3pvWkpuRXNSaTdRaFBHRUZBd1BUUU42X0J2SUJCTFNHTWozVFZtelRtdUZEUWo4TUNOMi1iMTluOWxqM0ZqNnAtVXpNTFBnS01R?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-08-18-despite-high-costs-we-won-t-abandon-the-fight-against-galams",
