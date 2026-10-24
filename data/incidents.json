@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-24T16:01:56.079Z",
+  "updated": "2026-10-24T20:52:17.916Z",
   "counts": {
-    "total": 1338,
+    "total": 1346,
     "verified": 28,
-    "automated": 1310,
+    "automated": 1318,
     "earliest": "2024-07-01",
     "latest": "2026-10-24"
   },
@@ -107,7 +107,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjI2bjFQakY4QWVZMmdmUnpEWUYyU2tVakVSdUdCZ1BHUnRLUE9WbkUyWThoN3hZZWhNc2lucUVNcU1VMWRWRHZuZUZrVkJYak9sVWhoZnF6aDZmbF9FV0VpYUJyZWI2RjRERzN4QlBzY0NkcjhRSzRQTDdtdHZlWXBoOFZFUGpWNUxDcUxfai1jZDNLb3c?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-24-minority-wants-sammy-gyamfi-sacked-over-reckless-galamsey-co"
     },
     {
       "id": "auto-2026-10-24-nearly-800-of-12-000-acres-of-galamsey-damaged-land-reclaime",
@@ -150,6 +151,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQVZtekFuUVhTeHg4bno4QkpUVGtvODBqNDBTdDUxcXp0VGo2bmdncjk0RGc3dEU4WFplMXBtQkhtaWpDNll3a3BFY2FTdEt2MDNTZzlaN3RHdTUyczVPQV8wQdIBXEFVX3lxTE9hR180c191QzE0eXAwMVd6RGZVQTJzS3o4OFdtVmpwQV9YNlVER0taNlBHbnZFcEpfSG1rSXM0LW0yQU0zeEVOMmxkQzB6c1JkR1ZCbDhxbFVGWFNu?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-24T20:45:59.442Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
@@ -170,6 +172,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnF5Y0lyakhKRDBDQlB6Zm1lSzBNOVZZSlgzN3VqOTJBdnA0Q0FIZkxDT2FnTFN6cVFVQkxQZzRXY2M0OW1xZGY5dmo5cmdLeWd2UTQ1YVB4bWZfNTc3bEZ6UmZuN1lkSDRYeXZGUGhPQlRWeHAzU054WHA1UmRxWUlqMi1CRTRtckJ0YkpFWjJfaDVLZkZpTlZnc9IBmgFBVV95cUxQWHRKd2VtRGZqMFQwdXdxdFBKcksxZVhSOXQ3ckMyQXUzYUNkYUxjMDc5UXpxNHhLQjZ3QWw3QmI3MEVfOHphcERFaXh0TWhyNWFSanVueVUzQVc5QlVfLU9DNFpjdjR6WGZ6NmFrWTVESjZZaVRIYVdMbjEtNG9NdlVXbVVtWVBmX2NOQ0ZVTi14S0ZZaXZ0amx3?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-24T20:46:24.576Z",
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
@@ -190,6 +193,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTk83cXJXYVZTZUFOVUR6aGZDQXN4VFp5OWoyeUNVOU9DSEVhcTY0MFdqNGl4V2diUnY5VDFkc19lcHoyLTBIZldhZThOOHBjSDlidGxmb1ExdlFsS1pwX2Nla3RhdzZ5SHhLX3dKMW9kWmJLTmxfQ3QxbDhqNDY3Q3BPcTVQWEJiVHE2RVRpcXBTRWxlczJIOWVabnNWWUN6bTN4UjNTSnE?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-24T20:46:49.613Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -208,6 +212,162 @@
         "url": "https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/minority-demands-sammy-gyamfis-resignation-as-goldbod-ceo-over-comments-on-small-scale-mining-licences/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
+    },
+    {
+      "id": "auto-2026-10-24-minority-demands-sammy-gyamfi-s-removal-over-galamsey-commen",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Minority demands Sammy Gyamfi’s removal over galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority demands Sammy Gyamfi’s removal over galamsey comments CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlY5eWsyRHBvOGV1T2t2YWFnWC1WLW5iSEhTaFNJQTd4UEI4a1VVSzd0a0dSVmlQVzlPdXpfYklhaXgxSXZXejJlSi1FWV9iWUU2Wk4yVk9RYmN3WERHcTJpbUVabzlDQWhtVXlpYUhtS0MzZEFkM2Eyanh0RWxJLTBrRGdxZm4xNlUtTWVuV1E5REd5dXFUdVhqZ0lBQm9L?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlY5eWsyRHBvOGV1T2t2YWFnWC1WLW5iSEhTaFNJQTd4UEI4a1VVSzd0a0dSVmlQVzlPdXpfYklhaXgxSXZXejJlSi1FWV9iWUU2Wk4yVk9RYmN3WERHcTJpbUVabzlDQWhtVXlpYUhtS0MzZEFkM2Eyanh0RWxJLTBrRGdxZm4xNlUtTWVuV1E5REd5dXFUdVhqZ0lBQm9L?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-24-minority-wants-sammy-gyamfi-sacked-over-reckless-galamsey-co"
+    },
+    {
+      "id": "auto-2026-10-24-minority-wants-goldbod-ceo-sacked-over-reckless-galamsey-com",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Minority wants GOLDBOD CEO sacked over \"reckless\" galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority wants GOLDBOD CEO sacked over \"reckless\" galamsey comments Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjI2bjFQakY4QWVZMmdmUnpEWUYyU2tVakVSdUdCZ1BHUnRLUE9WbkUyWThoN3hZZWhNc2lucUVNcU1VMWRWRHZuZUZrVkJYak9sVWhoZnF6aDZmbF9FV0VpYUJyZWI2RjRERzN4QlBzY0NkcjhRSzRQTDdtdHZlWXBoOFZFUGpWNUxDcUxfai1jZDNLb3c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjI2bjFQakY4QWVZMmdmUnpEWUYyU2tVakVSdUdCZ1BHUnRLUE9WbkUyWThoN3hZZWhNc2lucUVNcU1VMWRWRHZuZUZrVkJYak9sVWhoZnF6aDZmbF9FV0VpYUJyZWI2RjRERzN4QlBzY0NkcjhRSzRQTDdtdHZlWXBoOFZFUGpWNUxDcUxfai1jZDNLb3c?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-24-minority-wants-sammy-gyamfi-sacked-over-reckless-galamsey-co"
+    },
+    {
+      "id": "auto-2026-10-24-he-goofed-big-time-asare-donkor-slams-goldbod-ceo-over-galam",
+      "date": "2026-10-24",
+      "category": "policy",
+      "title": "'He goofed big time' – Asare Donkor slams GOLDBOD CEO over 'galamsey without license' comment",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'He goofed big time' – Asare Donkor slams GOLDBOD CEO over 'galamsey without license' comment Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXVMMUpwZWs2VGxDdVEwOUtQc1Nyb3lxZFNhRnhVVWFUMVdnLUNnNzdMbElzdlE2ZXlwZnhfNExXTjNKMFpweGNqUkRzeE0zVFpFUDlUM0N5bXFrRWpkRTFvVEFpeHlkeWhicUZLZmhKeUZpcTl4T1lqcU1jdHhyY1kyRWJpZFpEeEJfZld0NjBNWHE1LXlrQ0Znbk5NTGg2YWJDNHVocGc5cDEwVTBpZ05R?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXVMMUpwZWs2VGxDdVEwOUtQc1Nyb3lxZFNhRnhVVWFUMVdnLUNnNzdMbElzdlE2ZXlwZnhfNExXTjNKMFpweGNqUkRzeE0zVFpFUDlUM0N5bXFrRWpkRTFvVEFpeHlkeWhicUZLZmhKeUZpcTl4T1lqcU1jdHhyY1kyRWJpZFpEeEJfZld0NjBNWHE1LXlrQ0Znbk5NTGg2YWJDNHVocGc5cDEwVTBpZ05R?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-wilberforce-asare-mining-on-a-legally-acquired-concession-ca"
+    },
+    {
+      "id": "auto-2026-10-24-sammy-gyamfi-s-galamsey-comments-expose-ndc-hypocrisy-ekua-a",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "Sammy Gyamfi’s galamsey comments expose NDC hypocrisy – Ekua Amoakoh",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi’s galamsey comments expose NDC hypocrisy – Ekua Amoakoh CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpsR1NzX2s2b0Q5cHZyTjB3TWl4QVd6ZDVMRXp1Qk5qTE44Y255SE1ZVm12QktqNk96cDZKbjdZVE1GUFRSMmhmdGJxVXNJXzEzVHUydmktcGRkb241ZC1BRHZRYVc3eUh5Q2lNUllXempiQ180R0k0N01xU3V3QTFlaURSMnhtNE5LOGxDOFV3czNsS1dUcXY4ZENXSE81WXRjTUFR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkpsR1NzX2s2b0Q5cHZyTjB3TWl4QVd6ZDVMRXp1Qk5qTE44Y255SE1ZVm12QktqNk96cDZKbjdZVE1GUFRSMmhmdGJxVXNJXzEzVHUydmktcGRkb241ZC1BRHZRYVc3eUh5Q2lNUllXempiQ180R0k0N01xU3V3QTFlaURSMnhtNE5LOGxDOFV3czNsS1dUcXY4ZENXSE81WXRjTUFR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-24-cagg-demands-retraction-apology-from-goldbod-ceo-over-allege",
+      "date": "2026-10-24",
+      "category": "water",
+      "title": "CAGG demands retraction, apology from GoldBod CEO over alleged illegal mining remarks",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Coalition Against Galamsey (CAGG) has called on the Office of the Attorney-General to investigate the Chief Executive Officer of the Ghana Gold Board (GoldBod) over statements it claims encouraged artisanal miners to operate without licences, provided they avoid forest reserves and river bodies.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/cagg-demands-retraction-apology-from-goldbod-ceo-over-alleged-illegal-mining-remarks/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/cagg-demands-retraction-apology-from-goldbod-ceo-over-alleged-illegal-mining-remarks/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-24-goldbod-rejects-claims-sammy-gyamfi-endorsed-illegal-mining-",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining, announces new support programme for miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has dismissed claims that its Chief Executive Officer, Sammy Gyamfi, endorsed illegal mining, describing a viral video circulating on social media as selectively edited and misleading.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-24-goldbod-rejects-claims-sammy-gyamfi-endorsed-galamsey",
+      "date": "2026-10-24",
+      "category": "forest",
+      "title": "GoldBod rejects claims Sammy Gyamfi endorsed galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has rejected allegations that its Chief Executive Officer, Sammy Gyamfi, supports illegal mining, describing a viral social media video featuring him as misleadingly edited. In a statement issued on Saturday, October 24, the Board said the footage was extracted from Mr Gyamfi’s engagement with artisanal and small-scale miners in March […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/goldbod-rejects-claims-sammy-gyamfi-endorsed-galamsey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-rejects-claims-sammy-gyamfi-endorsed-galamsey/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-24-minority-demands-sammy-gyamfi-s-resignation-over-comments-on",
+      "date": "2026-10-24",
+      "category": "policy",
+      "title": "Minority demands Sammy Gyamfi’s resignation over comments on small-scale mining licences",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minority Caucus in Parliament has called for the resignation or dismissal of Ghana Gold Board (GoldBod) Chief Executive Officer Sammy Gyamfi over comments it says suggest that small-scale miners could operate without the required licences and permits. The Caucus has also demanded an unqualified apology from Mr Gyamfi, government sanctions over the remarks and […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/minority-demands-sammy-gyamfis-resignation-over-comments-on-small-scale-mining-licences/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/minority-demands-sammy-gyamfis-resignation-over-comments-on-small-scale-mining-licences/",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-24-while-goldbod-cannot-account-for-gh-22bn-mining-communities-"
@@ -3982,7 +4142,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0JSZ3ctV245LWZsWWcxRnVKUG84X3FTdW1RZW96dHlGU3RwNDRfOUI5cmx1ZEFXNENJTDlRVVhseHAxWjVTSzVNY3U3U0V6c1BiR1FNNEE0UlY4YU1jQV90ZnBmX3F1UXprZGV4bWZuWWNhNEJvQnpERnl3Yk5OOWNoYnBDck1lUkh0SEl4SFFOYUtUR01UM3M5WGZnejJoQWVmREUwdGczRzdOa3lxZXdxNzR4aFdoc1UxUjRMbGhxUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
     },
     {
       "id": "auto-2026-10-15-stop-begging-chiefs-and-fix-galamsey-menace-dr-solomon-owusu",
@@ -6517,7 +6678,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUxhVVZrTGlXM3cxRXBkVzRzMmFsY1B0cEZFdkNrcDNKc0Y1cFNWdWdENTJUeC1TdFUwUmZDbkxEZlNEOWs0djJwbHdJTjgyWGYzdENMd2lwSS16SmJPUlZrTWFwZG1KTDQ2LVp6cHJMaWRKOURnU0dEejctMVR2Q00zVU0wVFFpZFNuS3MzQU1MUWlpT0R3ZGJfMUg1Y1B0eER4X1JIV3B3a1ZlS05DRGtNTVVETkFQWC1aQW5zVQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-06-wilberforce-asare-mining-on-a-legally-acquired-concession-ca"
     },
     {
       "id": "auto-2026-10-06-anti-galamsey-campaigner-urges-government-to-prosecute-all-p",
@@ -25786,7 +25948,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXNTU0o1V3RsMDJGYUFnZE5ka2N1UUJGN1l6OUhSRUhlcW1ZOHdCLWdvX2xfRjU2dGhnem9XYnMxZTRoV0V6bGpJRVRqVDRTcWl3UVFwXzBhNWc4VVlNRGFSQ2UtRkNzSkZvZ3FQdkFaeGltem9uVHNBVXJGN1pmdU5Wd1ZPamh5V3puOTZGbUxaZFhTOTFOaHdpLVFaVllTTFhkb0Q3WV83MzY4ajM2ZzhvUjFWcjlXd2Q5bVlaY2M2WEtYajZadm5aZHQxUGt4enY5UTh0THZadF9scXRRNnRDZEl1VlBURmc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-28-7-ndc-kingpins-cited-for-galamsey-nana-akomea-alleges-select"
     },
     {
       "id": "auto-2026-07-28-galamsey",
