@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-23T21:27:58.871Z",
+  "updated": "2026-10-24T04:39:00.674Z",
   "counts": {
-    "total": 1322,
+    "total": 1326,
     "verified": 28,
-    "automated": 1294,
+    "automated": 1298,
     "earliest": "2024-07-01",
     "latest": "2026-10-23"
   },
@@ -149,7 +149,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1pPdXFBV3ljdEJqcXduNFRCd1pkcHpkdnBiVk53aUIwZXpJcUs4bThOM0kxT2EtLXpkYXNwbGhJMDk1dXpVbEYtZk1ubjk5NHhlbzdvNVhKdkdGc2JoRmQ2R0pzUVNGQ05Vd2N5Vkp1bkhLaU5xbVA2d2xUTkpJTjVXY1QxdGVia3NZam80M0dwSGhmM1ltSHZKWXJBWmZoeFNBUFlqdmVlSHY5Z2dN?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-24T04:33:15.004Z"
     },
     {
       "id": "auto-2026-10-23-naimos-intensifies-fight-against-galamsey-targets-two-more-r",
@@ -428,6 +429,85 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
+    },
+    {
+      "id": "auto-2026-10-23-galamsey-sammy-gyamfi-s-comments-irresponsible-retrogressive",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Galamsey: ‘Sammy Gyamfi’s comments irresponsible, retrogressive’ – CSOs demand retraction",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: ‘Sammy Gyamfi’s comments irresponsible, retrogressive’ – CSOs demand retraction CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHVNZTlDRWJfX3gtMENxMGd5TG0wRWpHR2t1dkhlXy1pd28zbEFCTzJoUC1hTVdYMnJfTGtWV1VMMkNJMzFvU2pIemZPVHBVOU90cXFoVV9Kc18xTHlHeTlwY0pucVM5UkNoSTBaZlpWUWlkTmRMVVg0NlotVUJ6YXVIZ0h1RG5wWUlYX1ZSeTlQeExfZDNvTVkzV1RSNDRZZUdFS2pDUTZ2bDk3TldPQnB0YUdDRlk4X3ducQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHVNZTlDRWJfX3gtMENxMGd5TG0wRWpHR2t1dkhlXy1pd28zbEFCTzJoUC1hTVdYMnJfTGtWV1VMMkNJMzFvU2pIemZPVHBVOU90cXFoVV9Kc18xTHlHeTlwY0pucVM5UkNoSTBaZlpWUWlkTmRMVVg0NlotVUJ6YXVIZ0h1RG5wWUlYX1ZSeTlQeExfZDNvTVkzV1RSNDRZZUdFS2pDUTZ2bDk3TldPQnB0YUdDRlk4X3ducQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-23-ghana-s-cities-falling-short-housing-levy-galamsey-obuasi-sh",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Ghana's Cities Falling Short? Housing Levy, Galamsey & Obuasi SHTS Case | The Pulse",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Ghana's Cities Falling Short? Housing Levy, Galamsey & Obuasi SHTS Case | The Pulse Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHRTNZWGFzVTdUUEJsYW4zLW5nZU5GYmp3QktRc3IwTk5hWE9uNzh0YjYxN3h4N3dpV21RUG9OZTAyME16YldURDN1OGZmLUpYRGZjamc4YnNSbURsdXFEV3kxeFDSAVxBVV95cUxOcU5HT1dlc0VCTDhTcm1iNTMySk91REthaXAwQlNFXzdWOUduUndDVlJMWHNtQmxrbThYQWhoekdHMVNwWE5hY002dllLeV93Y21hRHkyd1IxRndXQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHRTNZWGFzVTdUUEJsYW4zLW5nZU5GYmp3QktRc3IwTk5hWE9uNzh0YjYxN3h4N3dpV21RUG9OZTAyME16YldURDN1OGZmLUpYRGZjamc4YnNSbURsdXFEV3kxeFDSAVxBVV95cUxOcU5HT1dlc0VCTDhTcm1iNTMySk91REthaXAwQlNFXzdWOUduUndDVlJMWHNtQmxrbThYQWhoekdHMVNwWE5hY002dllLeV93Y21hRHkyd1IxRndXQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-10-23-sammy-gyamfi-s-galamsey-remarks-spark-controversy-goldbod-cl",
+      "date": "2026-10-23",
+      "category": "forest",
+      "title": "Sammy Gyamfi’s Galamsey Remarks Spark Controversy, GoldBod Clarifies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi’s Galamsey Remarks Spark Controversy, GoldBod Clarifies Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSklPYU5pMFJROGpzeWxWeTdqVFZVR1lSZkVWRC1BdmEySm9xcFFKUWZrcTNTQmJaWDExRmVzRDNkdXllcDBqSUE0YURXZnVYYTkxNWJGd29POVJ6WTh4VkNsd9IBXEFVX3lxTE9TaUJzRjJ1Q3BMR1ViTW1qdjZnOGNHMy1VTUtqTWJxVTNuSjNwYjNqZFJCVGhaX2tCdjl0T1RqM3BPVS1UZVlORWk1Qk5femU1djliRXNPQmgtZ09C?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSklPYU5pMFJROGpzeWxWeTdqVFZVR1lSZkVWRC1BdmEySm9xcFFKUWZrcTNTQmJaWDExRmVzRDNkdXllcDBqSUE0YURXZnVYYTkxNWJGd29POVJ6WTh4VkNsd9IBXEFVX3lxTE9TaUJzRjJ1Q3BMR1ViTW1qdjZnOGNHMy1VTUtqTWJxVTNuSjNwYjNqZFJCVGhaX2tCdjl0T1RqM3BPVS1UZVlORWk1Qk5femU1djliRXNPQmgtZ09C?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
+    },
+    {
+      "id": "auto-2026-10-23-obuasi-rape-case-sammy-gyamfi-s-galamsey-response-nda-convic",
+      "date": "2026-10-23",
+      "category": "prosecution",
+      "title": "Obuasi Rape Case, Sammy Gyamfi's Galamsey Response & NDA Convictions | Joy News Prime",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "Obuasi Rape Case, Sammy Gyamfi's Galamsey Response & NDA Convictions | Joy News Prime Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QenhhMkxVYU9ITDhPay1BaDR3eFlyUXpjYlZIZ0FNRHhmdFpXMm5tLVZsTnBFM0dGQTBiWWFHSnRBUE5PeFJtZFNzZ1lteXNkcExVWUhXLW9UMVRNUksyUGlDOWrSAVxBVV95cUxOdkdyWUZ3cDAzaTNVelI1WWhJQmFUWjE4N2R5RGlxR280MDdudks2TXJBNHFycU56S0VrZEc1MWxmUHYzTkZRMFVIUU1jX1hMa3pwdWJSVTZEdGc2VQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QenhhMkxVYU9ITDhPay1BaDR3eFlyUXpjYlZIZ0FNRHhmdFpXMm5tLVZsTnBFM0dGQTBiWWFHSnRBUE5PeFJtZFNzZ1lteXNkcExVWUhXLW9UMVRNUksyUGlDOWrSAVxBVV95cUxOdkdyWUZ3cDAzaTNVelI1WWhJQmFUWjE4N2R5RGlxR280MDdudks2TXJBNHFycU56S0VrZEc1MWxmUHYzTkZRMFVIUU1jX1hMa3pwdWJSVTZEdGc2VQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -5971,8 +6051,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JeEVMbjZoX05RMzVxQ2I5bFpfZnhpYzdESmxCdlNpUkRvUldtcFVLb3pGX3BFNlpmM00zU2QzWThWS29vX3ZZZXI1aGFoWlh5RmtGZzM2NXphdnR6a1NHMkdHUU_SAVxBVV95cUxOaWN3anUyeC11MmhNLUNIUnpaaU5rRUV1Q09JbDc3WTlUYUYydFQxcHNYMXdiNkJ5NHBRRVBrVWJrNEhtYXRGUzBlNjNFN2RwMWJaeHRNcGhheVpPZQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "verified": false
     },
     {
       "id": "auto-2026-10-06-afenyo-markin-warns-ghana-risks-losing-water-land-and-atewa-",
@@ -7971,8 +8050,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xanQ3d19KLVBCSmViR09BSjU4NU1PT2JBQWJmZktKX3FMV3FqOUN2YzRMbHFvSFQ4dHpQUHczQjRRUXNLbmdIM0h5cXF1X2dxNTVmZjc3SDRpMzkwUW9XcC00YlnSAVxBVV95cUxQOEhiZXZuRlFZMkNhVWhqc2hZNG5kS1VVQVNXZGZmTDJMa1V1NVBRRXFEX1FhMjIzbnJmUkp1Nkx1WDVSWi1CNkN3SWpVZ2RKaW5qRnBaejRlaUw3QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T04:54:43.790Z",
-      "thread": "t-auto-2026-08-24-naimos-arrests-three-destroys-86-chanfang-machines-in-ablebo"
+      "archivedAt": "2026-09-26T04:54:43.790Z"
     },
     {
       "id": "auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-",
