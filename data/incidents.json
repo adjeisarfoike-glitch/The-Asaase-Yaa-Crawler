@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-25T16:16:51.074Z",
+  "updated": "2026-10-25T20:52:43.977Z",
   "counts": {
-    "total": 1354,
+    "total": 1357,
     "verified": 28,
-    "automated": 1326,
+    "automated": 1329,
     "earliest": "2024-07-01",
     "latest": "2026-10-25"
   },
@@ -107,6 +107,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU9LZzF3N0lma3ZvbUhtZFJzdnV5S1dzZjJrV1ZSSi11TzRrbXozRTVQQVg5WWduVlAxTXNkX2tVSGNaWUFwdWF0OThBQ3ZfMno4a2xUcUNDdVM0MnFfdDVqLURUb3NYT1kyXzR6Wk9ZMkpsUkpKcGNFajg0TE1fVXZLSFIwZmpvVTN6MVg1THY?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-25T20:48:19.774Z",
       "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
     },
     {
@@ -126,7 +127,68 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/all-changfangs-cleared-from-ankobra-river-naimos-spokesperson",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-25T20:48:44.910Z"
+    },
+    {
+      "id": "auto-2026-10-25-galamsey-fight-naimos-won-t-stop-arrests-schandorf-clarifies",
+      "date": "2026-10-25",
+      "category": "arrest",
+      "title": "Galamsey Fight: NAIMOS Won’t Stop Arrests - Schandorf Clarifies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: NAIMOS Won’t Stop Arrests - Schandorf Clarifies Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZ3JhTHJjRUthdV9OQmF6UTczRE1udkRrek9qLUZVYmN0RXdPMnJjOVZtTlZPLTM3Sl9JLVJmOVBPWU1sLXpIcmhlSUVJQnZuZlMtU3lFOHNqSFpVa0Z30gFcQVVfeXFMTXRTa3VXR3dVSVpnRS1MOTZNYkxhZkhrRnJBREdxM293TkV5dG02WkRqU3BrMVZLckQ4SG4xWGZ6ZVZ1Tk1qNHhzMHFoMnVyQVRfZnhUb3JGUWx3czU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZ3JhTHJjRUthdV9OQmF6UTczRE1udkRrek9qLUZVYmN0RXdPMnJjOVZtTlZPLTM3Sl9JLVJmOVBPWU1sLXpIcmhlSUVJQnZuZlMtU3lFOHNqSFpVa0Z30gFcQVVfeXFMTXRTa3VXR3dVSVpnRS1MOTZNYkxhZkhrRnJBREdxM293TkV5dG02WkRqU3BrMVZLckQ4SG4xWGZ6ZVZ1Tk1qNHhzMHFoMnVyQVRfZnhUb3JGUWx3czU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-23-galamsey-fight-how-do-you-convince-a-14-year-old-earning-gh-"
+    },
+    {
+      "id": "auto-2026-10-25-mahama-reveals-6-060-excavators-held-at-ports-2-059-fitted-w",
+      "date": "2026-10-25",
+      "category": "arrest",
+      "title": "Mahama reveals 6,060 excavators held at ports, 2,059 fitted with trackers to curb galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama reveals 6,060 excavators held at ports, 2,059 fitted with trackers to curb galamsey Pulse Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Pulse Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFJzOWpyNVMxTC1kdmg4eFpJVFRyNEo5Vk1Gdnp4Umc4T3diUXBRRUhlaE9UN0dYX0o5cWljNFZZMnplYm16X1QzU1J4bERoOWQ4ZzJTOUlOakZIV0lqendmSEtGN2RTcWZCZ0t4a1BrakJPdXYxS2ZLWGJTNmhsZ3R4YTlWQmZuMmlTZHM4T1BBUHF0RXFBVFlMVUVSOUU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFJzOWpyNVMxTC1kdmg4eFpJVFRyNEo5Vk1Gdnp4Umc4T3diUXBRRUhlaE9UN0dYX0o5cWljNFZZMnplYm16X1QzU1J4bERoOWQ4ZzJTOUlOakZIV0lqendmSEtGN2RTcWZCZ0t4a1BrakJPdXYxS2ZLWGJTNmhsZ3R4YTlWQmZuMmlTZHM4T1BBUHF0RXFBVFlMVUVSOUU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency"
+    },
+    {
+      "id": "auto-2026-10-25-green-t-defends-goldbod-ceo-s-cooperative-mining-remarks-urg",
+      "date": "2026-10-25",
+      "category": "policy",
+      "title": "Green T defends GoldBod CEO’s cooperative mining remarks, urges support for formalisation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Green Traceability Minds Foundation (Green T) has defended remarks by Ghana Gold Board (GoldBod) Chief Executive Officer, Sammy Gyamfi, on cooperative mining, arguing that his comments have been misinterpreted as support for illegal mining. The civil society organisation said Mr Gyamfi’s comments, contained in a video circulating on social media, referred to a regulated […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/green-t-defends-goldbod-ceos-cooperative-mining-remarks-urges-support-for-formalisation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/green-t-defends-goldbod-ceos-cooperative-mining-remarks-urges-support-for-formalisation/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
     },
     {
       "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
@@ -18385,7 +18447,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SeDRITERtWTR6VEFoZUtlNk9WaVZFUEQzejVJZy00RHpXTHhUelU0NzIzT3J6ekdnQm5LZ203ZWZFT1VoSFBtYUtZLUI3ZEZ2V1BuTkJsOU1kZEhZWmhB0gFcQVVfeXFMT3hXREI3VnFTUDdlU2lVZ1RCUFJYTzhMYk1sc3ctQ0NkOXJQMVFkYVdCTjM2Wk9GR256cEpDdXRHZ2wxS0hKTWJKZlVSMm1Da0tjT3E5QVRscFJpS1M?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-23-galamsey-fight-how-do-you-convince-a-14-year-old-earning-gh-"
     },
     {
       "id": "auto-2026-08-23-galamsey-destroys-over-100-acres-of-farmland-at-akyem-atobri",
