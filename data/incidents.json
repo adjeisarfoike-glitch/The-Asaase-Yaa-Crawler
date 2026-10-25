@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-25T11:27:41.310Z",
+  "updated": "2026-10-25T16:16:51.074Z",
   "counts": {
-    "total": 1352,
+    "total": 1354,
     "verified": 28,
-    "automated": 1324,
+    "automated": 1326,
     "earliest": "2024-07-01",
     "latest": "2026-10-25"
   },
@@ -46,6 +46,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-will-not-compromise-lbma-certification-for-galamsey-minkah/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-25T16:12:42.056Z",
       "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
     },
     {
@@ -65,7 +66,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-begins-stakeholder-consultations-ahead-of-2027-small-scale-mining-support-programme/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-25T16:13:10.328Z"
     },
     {
       "id": "auto-2026-10-25-goldbod-rejects-claim-ceo-sammy-gyamfi-endorsed-illegal-mini",
@@ -86,6 +88,45 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-25T11:23:31.912Z"
+    },
+    {
+      "id": "auto-2026-10-25-goldbod-insists-galamsey-will-not-affect-lbma-certification",
+      "date": "2026-10-25",
+      "category": "forest",
+      "title": "GoldBod insists galamsey will not affect LBMA certification",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod insists galamsey will not affect LBMA certification Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU9LZzF3N0lma3ZvbUhtZFJzdnV5S1dzZjJrV1ZSSi11TzRrbXozRTVQQVg5WWduVlAxTXNkX2tVSGNaWUFwdWF0OThBQ3ZfMno4a2xUcUNDdVM0MnFfdDVqLURUb3NYT1kyXzR6Wk9ZMkpsUkpKcGNFajg0TE1fVXZLSFIwZmpvVTN6MVg1THY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU9LZzF3N0lma3ZvbUhtZFJzdnV5S1dzZjJrV1ZSSi11TzRrbXozRTVQQVg5WWduVlAxTXNkX2tVSGNaWUFwdWF0OThBQ3ZfMno4a2xUcUNDdVM0MnFfdDVqLURUb3NYT1kyXzR6Wk9ZMkpsUkpKcGNFajg0TE1fVXZLSFIwZmpvVTN6MVg1THY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
+    },
+    {
+      "id": "auto-2026-10-25-all-changfangs-cleared-from-ankobra-river",
+      "date": "2026-10-25",
+      "category": "water",
+      "title": "All changfangs cleared from Ankobra river",
+      "place": "Ankobra",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -2.28,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says it has cleared all changfangs from the Ankobra River as part of efforts to halt illegal mining and allow the water body to recover.",
+      "metrics": {},
+      "source": {
+        "name": "NAIMOS Spokesperson",
+        "url": "https://3news.com/news/all-changfangs-cleared-from-ankobra-river-naimos-spokesperson"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/all-changfangs-cleared-from-ankobra-river-naimos-spokesperson",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
