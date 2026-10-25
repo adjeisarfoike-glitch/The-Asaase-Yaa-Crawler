@@ -1,13 +1,92 @@
 {
-  "updated": "2026-10-25T04:43:19.637Z",
+  "updated": "2026-10-25T11:27:41.310Z",
   "counts": {
-    "total": 1347,
+    "total": 1352,
     "verified": 28,
-    "automated": 1319,
+    "automated": 1324,
     "earliest": "2024-07-01",
-    "latest": "2026-10-24"
+    "latest": "2026-10-25"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-25-sammy-gyamfi-s-remarks-unlawful-reckless-anti-galamsey-coali",
+      "date": "2026-10-25",
+      "category": "forest",
+      "title": "Sammy Gyamfi’s remarks unlawful, reckless – Anti-Galamsey Coalition asks AG to probe GoldBod CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi’s remarks unlawful, reckless – Anti-Galamsey Coalition asks AG to probe GoldBod CEO 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNUdVBQLXEyU2JqUldHOV9yZE56c1haVl9ib192alBpcy1Fb3oyTlBIRVJmMldtQjFoOWx6Vl9DTGRFTE9XeGNMell5UzVObmo5RW1lUGgtU2J3NldhSkk1eXV0UVdHV09ybXF0WkVZMm9BWWxWSERzUVBKOEx1ZzlJb3RIWHVLN3lvX0ZnV25reE51X2pPUE1mRktWN1ljb0ViWi1pS0N6dWJEVWZqY3lHSV9qVzJpVTNn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVNUdVBQLXEyU2JqUldHOV9yZE56c1haVl9ib192alBpcy1Fb3oyTlBIRVJmMldtQjFoOWx6Vl9DTGRFTE9XeGNMell5UzVObmo5RW1lUGgtU2J3NldhSkk1eXV0UVdHV09ybXF0WkVZMm9BWWxWSERzUVBKOEx1ZzlJb3RIWHVLN3lvX0ZnV25reE51X2pPUE1mRktWN1ljb0ViWi1pS0N6dWJEVWZqY3lHSV9qVzJpVTNn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-25T11:21:36.686Z"
+    },
+    {
+      "id": "auto-2026-10-25-goldbod-will-not-compromise-lbma-certification-for-galamsey-",
+      "date": "2026-10-25",
+      "category": "forest",
+      "title": "GoldBod will not compromise LBMA certification for galamsey – Minkah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has rejected suggestions that it would support illegal mining, insisting that doing so would undermine its efforts to secure certification from the London Bullion Market Association (LBMA).",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-will-not-compromise-lbma-certification-for-galamsey-minkah/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-will-not-compromise-lbma-certification-for-galamsey-minkah/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
+    },
+    {
+      "id": "auto-2026-10-25-goldbod-begins-stakeholder-consultations-ahead-of-2027-small",
+      "date": "2026-10-25",
+      "category": "forest",
+      "title": "GoldBod begins stakeholder consultations ahead of 2027 small-scale mining support programme",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) has begun engaging industry stakeholders on a proposed programme to formalise artisanal and small-scale mining and provide financial support to eligible operators ahead of its planned launch in 2027.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/goldbod-begins-stakeholder-consultations-ahead-of-2027-small-scale-mining-support-programme/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-begins-stakeholder-consultations-ahead-of-2027-small-scale-mining-support-programme/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-25-goldbod-rejects-claim-ceo-sammy-gyamfi-endorsed-illegal-mini",
+      "date": "2026-10-25",
+      "category": "forest",
+      "title": "GoldBod rejects claim CEO Sammy Gyamfi endorsed illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod says a viral video misrepresents CEO Sammy Gyamfi’s remarks on illegal mining, as it begins consultations on a small-scale mining support programme.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/goldbod-rejects-claim-ceo-sammy-gyamfi-endorsed-illegal-mining"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/goldbod-rejects-claim-ceo-sammy-gyamfi-endorsed-illegal-mining",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-25T11:23:31.912Z"
+    },
     {
       "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
       "date": "2026-10-24",
@@ -1533,6 +1612,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-to-extend-river-protection-operations-to-two-more-water-bodies-before-year-end/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-22-ghana-deploys-permanent-military-camps-along-rivers-to-comba",
+      "date": "2026-10-22",
+      "category": "water",
+      "title": "Ghana Deploys Permanent Military Camps Along Rivers to Combat Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Deploys Permanent Military Camps Along Rivers to Combat Illegal Mining https://streamlinefeed.co.ke/",
+      "metrics": {},
+      "source": {
+        "name": "https://streamlinefeed.co.ke/",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGpuRHg3R2hCYXgxUTVyRS0zMElEVUJPeUFzT09lWGJmTTlOb1ZhZU94SEFlUmdSY29rUnZ4YWtUY3pYYldtMl9KMGoxTGhaYlJsdXY5azdFMlhOZlJoOHJCcGZrdGJIZUxmS1lSU3dSaWh1Q1RydlpXVXZnbHd4V2VrOTd1N3lGdTNteUpWS1J0NzFlc2lNdjFnX1RTOEdOQTZQMDBjWUpReXZnVUk4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxObGpuRHg3R2hCYXgxUTVyRS0zMElEVUJPeUFzT09lWGJmTTlOb1ZhZU94SEFlUmdSY29rUnZ4YWtUY3pYYldtMl9KMGoxTGhaYlJsdXY5azdFMlhOZlJoOHJCcGZrdGJIZUxmS1lSU3dSaWh1Q1RydlpXVXZnbHd4V2VrOTd1N3lGdTNteUpWS1J0NzFlc2lNdjFnX1RTOEdOQTZQMDBjWUpReXZnVUk4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-ghana-deploys-24-hour-camps-to-halt-resurgent-illegal-mining"
     },
     {
       "id": "auto-2026-10-21-government-to-invest-10-billion-to-create-jobs-curb-galamsey",
@@ -23173,7 +23272,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmpkaU13RHdNd0V0UmxiYUhTTjdUMXBVZzJ5bHRPVEdJRjdKSzc1ck05R3hRSGRlVzlEM3AyWHlzYnJxckp0ZUtnc1QyckdVNENCNUJLWEF1bGIzLTJyYTljWm1uNlpxR0JRYkpKeDJiaExMT1hWLWJGbGM3QXRCNC1wT2tSQTBVTHZBVXJvLTBzOUNhOUlNaGRB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-ghana-deploys-24-hour-camps-to-halt-resurgent-illegal-mining"
     },
     {
       "id": "auto-2026-08-10-naimos-moves-to-reclaim-birim-river-from-illegal-mining-thre",
