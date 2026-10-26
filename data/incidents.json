@@ -1,13 +1,130 @@
 {
-  "updated": "2026-10-26T04:49:39.935Z",
+  "updated": "2026-10-26T13:01:59.417Z",
   "counts": {
-    "total": 1359,
+    "total": 1366,
     "verified": 28,
-    "automated": 1331,
+    "automated": 1338,
     "earliest": "2024-07-01",
-    "latest": "2026-10-25"
+    "latest": "2026-10-26"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-26-minority-demands-sammy-gyamfi-s-resignation-over-galamsey-co",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "Minority demands Sammy Gyamfi’s resignation over galamsey comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Minority demands Sammy Gyamfi’s resignation over galamsey comments Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXJvb0Y3dGZITk5YWVJQN3lJbV9kRmFURWZ3OFNNQ2NIUnlWLVZFYXVtdWhVSVo1NDZ6RnViMVNFYlVLTk5ad3p1Z3Y3SHMzeHhPc0NTS0hSbThKQUVmTGJYc0Q4clVWdzRtcTVCejBjNXBXUzd6Q05rYW1Wd1B1bHRrblNxVjY4Q1lHeVAySW0wSU5pbWFnaNIBlwFBVV95cUxOeng0VWxOaUtDdUd3MGtFVzh1VjdmS3BhWGFZLXp2QmI0REZnWnhHSklycXpIR2lfS2ZMQTN0ak81ZXY4cV9HcEt4Z0JrUkt2U1BreEo2Q2pKekRmd2pHOXhrMHprUWJ0OFlpZEpEV0NacHlUUnZLLVRJNGlVRnVyWjBWc0FMZURaSW04Nk9ya3d3NGMtWEJr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXJvb0Y3dGZITk5YWVJQN3lJbV9kRmFURWZ3OFNNQ2NIUnlWLVZFYXVtdWhVSVo1NDZ6RnViMVNFYlVLTk5ad3p1Z3Y3SHMzeHhPc0NTS0hSbThKQUVmTGJYc0Q4clVWdzRtcTVCejBjNXBXUzd6Q05rYW1Wd1B1bHRrblNxVjY4Q1lHeVAySW0wSU5pbWFnaNIBlwFBVV95cUxOeng0VWxOaUtDdUd3MGtFVzh1VjdmS3BhWGFZLXp2QmI0REZnWnhHSklycXpIR2lfS2ZMQTN0ak81ZXY4cV9HcEt4Z0JrUkt2U1BreEo2Q2pKekRmd2pHOXhrMHprUWJ0OFlpZEpEV0NacHlUUnZLLVRJNGlVRnVyWjBWc0FMZURaSW04Nk9ya3d3NGMtWEJr?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-24-minority-wants-sammy-gyamfi-sacked-over-reckless-galamsey-co"
+    },
+    {
+      "id": "auto-2026-10-26-concerned-small-scale-miners-defend-goldbod-s-galamsey-forma",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "Concerned Small-Scale Miners defend GOLDBOD's galamsey formalisation, demand practical alternatives",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Concerned Small-Scale Miners defend GOLDBOD's galamsey formalisation, demand practical alternatives Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFEMHB4Z1BhZ0wtZm1Wd2J2Q2N3U2o5WlZTaU11QU1veUZQc0x2OVB0QTRpRFpCYjlzTHJ3LVdMUEIxZWoxVmZmRXN5RTFCOTkwaEdXS1JocmRNODNmQ2FILUhZeTVTbk1LVlZFMjhDcmhLY2VTRWFncW01bGR1eUFrZEUtaTRQZjVUQzg4R0t6UkN1UTZGQnY1andMRi1TeFR1a0p6OXc0QzIyWGQzbm9CdXJ3X2FNYkNna3ZPMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFEMHB4Z1BhZ0wtZm1Wd2J2Q2N3U2o5WlZTaU11QU1veUZQc0x2OVB0QTRpRFpCYjlzTHJ3LVdMUEIxZWoxVmZmRXN5RTFCOTkwaEdXS1JocmRNODNmQ2FILUhZeTVTbk1LVlZFMjhDcmhLY2VTRWFncW01bGR1eUFrZEUtaTRQZjVUQzg4R0t6UkN1UTZGQnY1andMRi1TeFR1a0p6OXc0QzIyWGQzbm9CdXJ3X2FNYkNna3ZPMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-26-why-goldbod-ceo-s-galamsey-comments-could-expose-officials-t",
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "Why GOLDBOD CEO’s galamsey comments could expose officials to abetment charges — Law Professor explains",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Why GOLDBOD CEO’s galamsey comments could expose officials to abetment charges — Law Professor explains Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWhGak5aWjZNRDdpVWRhZjhCS3lpVmFmSm1tT0V1cXVvUkNnQW9HSEZqdlh2enRITjI0dm41U1NYNVZZTDVSMzRMQW5TVVV5X2I4aHJpeDB4eWxxUm9QTE5EYVFHTW92RzM4RnlWRnRLWmJVM281cjdpTm91aFh3UXNqN2pkS1phNVF4ZHNBQ1MwS1YydloxS2lpdXo4cmxlbVJJM0tEU1Zrdk0wMjM4dERqTXBZMWRyZ3A4UWwtSXFyZ1k?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWhGak5aWjZNRDdpVWRhZjhCS3lpVmFmSm1tT0V1cXVvUkNnQW9HSEZqdlh2enRITjI0dm41U1NYNVZZTDVSMzRMQW5TVVV5X2I4aHJpeDB4eWxxUm9QTE5EYVFHTW92RzM4RnlWRnRLWmJVM281cjdpTm91aFh3UXNqN2pkS1phNVF4ZHNBQ1MwS1YydloxS2lpdXo4cmxlbVJJM0tEU1Zrdk0wMjM4dERqTXBZMWRyZ3A4UWwtSXFyZ1k?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-10-26-tell-everybody-to-cease-and-desist-a-rocha-ghana-on-galamsey",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "“Tell everybody to cease and desist” – A Rocha Ghana on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Tell everybody to cease and desist” – A Rocha Ghana on galamsey Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT052eVhNVFJxU3F1aXlfb0pONENIeGs0VlI3eFJ5UDNOcnY3R3llNWc0amN3eDhNTDBjSkpXQ2Z4QTFMVklVV0RiUUFWb2NWcGNCYXgtQmdJQWlfLV9BQVdhLWNuZzBEN2RUTWNHY0VvQi02U0hQd2JJemtfMDRGaDlxVnBkV2oxMXU3MDBR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxQT052eVhNVFJxU3F1aXlfb0pONENIeGs0VlI3eFJ5UDNOcnY3R3llNWc0amN3eDhNTDBjSkpXQ2Z4QTFMVklVV0RiUUFWb2NWcGNCYXgtQmdJQWlfLV9BQVdhLWNuZzBEN2RUTWNHY0VvQi02U0hQd2JJemtfMDRGaDlxVnBkV2oxMXU3MDBR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-26-we-might-end-up-in-a-much-more-sorry-state-konadu-warns-on-g",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "“We might end up in a much more sorry state” – Konadu warns on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“We might end up in a much more sorry state” – Konadu warns on galamsey Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1ZKTGlDYzFwLWVBR21XQjMwM0txOHRDVDZZZkpscER2dG1MWnZYeFhzaVI4OFBxZ2xmeGdfbWw2bnhJY3VfV1JsbzNIOTUwQUFlUzB0QnJPbXBhVE9oSm9SNzdiR0dYT2FGRHg3Mi1nZTc1dU5reF9HaFdFb3RQcUhOOHNuMlJIcHAzdWlNQVA1SVpXa1Ew?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1ZKTGlDYzFwLWVBR21XQjMwM0txOHRDVDZZZkpscER2dG1MWnZYeFhzaVI4OFBxZ2xmeGdfbWw2bnhJY3VfV1JsbzNIOTUwQUFlUzB0QnJPbXBhVE9oSm9SNzdiR0dYT2FGRHg3Mi1nZTc1dU5reF9HaFdFb3RQcUhOOHNuMlJIcHAzdWlNQVA1SVpXa1Ew?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u",
+      "date": "2026-10-26",
+      "category": "prosecution",
+      "title": "Northern Ashanti Mines files injunction against seizure of US$110m mine investment",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "The Northern Ashanti Mines Limited has filed an interlocutory injunction asking the High Court to stop the state from forcibly taking over its US$110 million mine at Konongo in the Ashanti Region. Named on the suit are the Minerals Commission, the Minister of Lands and Natural Resources, and the Attorney General in the court action filed on October 22, 2026, at the registry of the commercial division of the High Cour",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/northern-ashanti-mines-files-injunction-against-seizure-of-us-110m-mine-investment.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/northern-ashanti-mines-files-injunction-against-seizure-of-us-110m-mine-investment.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
     {
       "id": "auto-2026-10-25-sammy-gyamfi-s-remarks-unlawful-reckless-anti-galamsey-coali",
       "date": "2026-10-25",
@@ -1138,6 +1255,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-10-23-matters-arising-from-naimos-update-at-lands-ministry-s-progr",
+      "date": "2026-10-23",
+      "category": "policy",
+      "title": "Matters arising from NAIMOS update at Lands Ministry’s Progress Series with Paa Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Matters arising from NAIMOS update at Lands Ministry’s Progress Series with Paa Kwesi Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjaVUzSHFvOEM4TDJYNUEtMlFjdk9YRVp6bG9BMURIVGxjblBfazJhR2Fmbk44LU5IbU45T1dsMVNULTNsM3BWUmtPRjlPcXE4OHZZNVNBVXJ4bXFTaFZrakhCNHDSAVxBVV95cUxNT0xRQ3Fxc3U1MGF1NmxXMF9Zc0VVWk42dEVyVFZOa0J3QkNud3J5ZERCMDNXY2p0UFRuZE55VC11TlFwV3ZkbzNOUm9KMTBXX0ZaSUYxTW9ydVktdQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjaVUzSHFvOEM4TDJYNUEtMlFjdk9YRVp6bG9BMURIVGxjblBfazJhR2Fmbk44LU5IbU45T1dsMVNULTNsM3BWUmtPRjlPcXE4OHZZNVNBVXJ4bXFTaFZrakhCNHDSAVxBVV95cUxNT0xRQ3Fxc3U1MGF1NmxXMF9Zc0VVWk42dEVyVFZOa0J3QkNud3J5ZERCMDNXY2p0UFRuZE55VC11TlFwV3ZkbzNOUm9KMTBXX0ZaSUYxTW9ydVktdQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -8016,8 +8153,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEU5OHZESG1uZXZUUlRyYVNTM2gxSlNQcG9QSFFBSmlzT0VmZC1POEVaSUtjSlZraW9jc2FoT1Rvdllrb0RBMks3NHhSM2ZtUHJHbl9xYnhiWE85Rm9OWkE3eE5PMC1iQnhGOUNjdmN5MzFLV25KUFphb1dJb29mZ1NxaWJURE9WdWxVaG1n?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-02T12:34:28.946Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-10-02T12:34:28.946Z"
     },
     {
       "id": "auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen",
@@ -8139,8 +8275,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQMktJODM0akJpVE1xSnNWeW1IMjZLdDlBdk5aYndkN1BQOUJuRG9vTlp4dy1kVW82cllvbjgyUnFnYXJLSDBoMjItQVVwek5TOVQyZ1RmSTJDNnlqWXd1MmNxOXFjVTlNa3k0T01BbnhjMDlLVlM1b0tyVWJwNnRzeHlqOWp4UzRhaGktX1BFdjRSTF9hNWJiSDg2RXhXdnFQVll3d05DX2JCYndDQlV5c0F5QXQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-01T13:14:30.276Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-10-01T13:14:30.276Z"
     },
     {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
@@ -12425,8 +12560,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-10T20:51:50.901Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-09-10T20:51:50.901Z"
     },
     {
       "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
