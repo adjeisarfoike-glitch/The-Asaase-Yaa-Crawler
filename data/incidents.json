@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-25T20:52:43.977Z",
+  "updated": "2026-10-26T04:49:39.935Z",
   "counts": {
-    "total": 1357,
+    "total": 1359,
     "verified": 28,
-    "automated": 1329,
+    "automated": 1331,
     "earliest": "2024-07-01",
     "latest": "2026-10-25"
   },
@@ -148,6 +148,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIZ3JhTHJjRUthdV9OQmF6UTczRE1udkRrek9qLUZVYmN0RXdPMnJjOVZtTlZPLTM3Sl9JLVJmOVBPWU1sLXpIcmhlSUVJQnZuZlMtU3lFOHNqSFpVa0Z30gFcQVVfeXFMTXRTa3VXR3dVSVpnRS1MOTZNYkxhZkhrRnJBREdxM293TkV5dG02WkRqU3BrMVZLckQ4SG4xWGZ6ZVZ1Tk1qNHhzMHFoMnVyQVRfZnhUb3JGUWx3czU?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-26T04:42:15.279Z",
       "thread": "t-auto-2026-08-23-galamsey-fight-how-do-you-convince-a-14-year-old-earning-gh-"
     },
     {
@@ -189,6 +190,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
+    {
+      "id": "auto-2026-10-25-testing-new-goldbod-ceo-s-new-law-on-small-scale-mining-agai",
+      "date": "2026-10-25",
+      "category": "policy",
+      "title": "Testing new Goldbod CEO’s ‘new law’ on small-scale mining against the law",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“Once it’s not a water body; it’s not a forest reserve or… place like a roadside, whether the person has a licence or not; the government says we should allow the person to mine and register and regularise them” – CEO, GoldBod",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/testing-new-goldbod-ceos-new-law-on-small-scale-mining-against-the-law/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/testing-new-goldbod-ceos-new-law-on-small-scale-mining-against-the-law/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
@@ -3198,6 +3218,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-10-19-china-pulls-ahead-of-the-us-in-africa-s-copper-race-as-congo",
+      "date": "2026-10-19",
+      "category": "arrest",
+      "title": "China pulls ahead of the US in Africa’s copper race as Congo arrests 300 Chinese nationals over illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "China pulls ahead of the US in Africa’s copper race as Congo arrests 300 Chinese nationals over illegal mining Business Insider Africa",
+      "metrics": {},
+      "source": {
+        "name": "Business Insider Africa",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS05zb0kza0R1bmdhbmlsT0xocWRLM2oxSkV6SjdFT0NRUWhmaFYyUEtmeHAzdlZEd2pTcmZPWHltQmNxako3WWtEZEtJOXZlNWxOaTlUTHhvdmxpU0pYY1ZGOVlJT3RkVWhab0EtSkhWYUZha3RBWkNyeGNac21sdWh4NnVQNGRkM3lWcEhTSm02Ty0tUXV3SzU5QnVWWGhtNnl0V1dfRWF5YXJkTElGbllMaVI5VUQweWFoc3QxdkYwbUllVnlqQjNyRWRfUWhIVGNpTHlR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS05zb0kza0R1bmdhbmlsT0xocWRLM2oxSkV6SjdFT0NRUWhmaFYyUEtmeHAzdlZEd2pTcmZPWHltQmNxako3WWtEZEtJOXZlNWxOaTlUTHhvdmxpU0pYY1ZGOVlJT3RkVWhab0EtSkhWYUZha3RBWkNyeGNac21sdWh4NnVQNGRkM3lWcEhTSm02Ty0tUXV3SzU5QnVWWGhtNnl0V1dfRWF5YXJkTElGbllMaVI5VUQweWFoc3QxdkYwbUllVnlqQjNyRWRfUWhIVGNpTHlR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-07-16-half-year"
     },
     {
       "id": "auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-",
