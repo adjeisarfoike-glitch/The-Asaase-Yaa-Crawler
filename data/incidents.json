@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-27T12:11:27.871Z",
+  "updated": "2026-10-27T18:04:47.687Z",
   "counts": {
-    "total": 1403,
+    "total": 1415,
     "verified": 28,
-    "automated": 1375,
+    "automated": 1387,
     "earliest": "2024-07-01",
     "latest": "2026-10-27"
   },
@@ -68,6 +68,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2xDSTN2Tm5pN3NTUkZ4b2k3YnMyaFA3VXhXdldpUl9ZWTl4eHNtbGpfRHV2d2lBWkxoazVRNW1mRlY4SVY3S3B0QlFhZ1ZvWUppQlU5cERHMFB3MGZkZ0ZtVjRGc0lPeVhwcl9lZkYwLTJ4NFBUVjFfcmN0UnB3WFFxQS1abzVZdW1oSkdyOW05VHhDX1E?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-27T17:59:11.104Z",
       "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
     },
     {
@@ -114,18 +115,18 @@
       "id": "auto-2026-10-27-stop-advocating-for-persons-arrested-for-galamsey-to-be-free",
       "date": "2026-10-27",
       "category": "arrest",
-      "title": "Stop advocating for persons arrested for galamsey to be freed",
+      "title": "Stop advocating for persons arrested for galamsey to be freed - Zanetor",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "As government of Ghana, we have to make sure we account for every single dollar spent on this project reason why it was taken back to the table.",
+      "summary": "Stop advocating for persons arrested for galamsey to be freed - Zanetor 3News",
       "metrics": {},
       "source": {
-        "name": "Zanetor",
-        "url": "https://3news.com/news/stop-advocating-for-persons-arrested-for-galamsey-to-be-freed-zanetor"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDd5NUlVWXJNZV9HXzdvaEI4WS01dWJINGw2aHpaWmUwMDdJdmhfdDhLNHRfckNJaXAzNkwyd2RBTjNPTWZzR2JGUWhjWGxmVDkwMWFLLWdMOUZiQ0tHVm81b05SbzQ3ZmpLRGtia2JiT2RfM3RxTmJHVUtMamN6QnBfcUV4U2twbWx2RGJlQzVHTFhJaUtz?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/stop-advocating-for-persons-arrested-for-galamsey-to-be-freed-zanetor",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDd5NUlVWXJNZV9HXzdvaEI4WS01dWJINGw2aHpaWmUwMDdJdmhfdDhLNHRfckNJaXAzNkwyd2RBTjNPTWZzR2JGUWhjWGxmVDkwMWFLLWdMOUZiQ0tHVm81b05SbzQ3ZmpLRGtia2JiT2RfM3RxTmJHVUtMamN6QnBfcUV4U2twbWx2RGJlQzVHTFhJaUtz?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -208,6 +209,183 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ghana-needs-trust-laws-to-stop-the-theft-of-its-childrens-inheritance/",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-27-law-professor-calls-on-mahama-to-clarify-government-s-galams",
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "Law Professor Calls on Mahama to Clarify Government’s Galamsey Position",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Law Professor Calls on Mahama to Clarify Government’s Galamsey Position Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uR1JmdkxDN213TF94QWQ5ZkVFcjEzbU9JVDhqckVxeENnRDNoeVNmZ0hrbVV2T0M1NWo3a2Z4ck5uUEwzeV9FRXZ2cnNDQTd5U0NpUG5FaEJ0WlotemRkTnlyNNIBXEFVX3lxTE9xLUM3N1ZDYzJaaVUyQ3llS3NjRk1JWVctV3N4YTQ2emJnTFR3cU5oMlVzNVpvWnVXa1lNa0t2SWo4X29odFVhWDlIdVZFUFVMSHloWEUzZ25Ga3Rr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uR1JmdkxDN213TF94QWQ5ZkVFcjEzbU9JVDhqckVxeENnRDNoeVNmZ0hrbVV2T0M1NWo3a2Z4ck5uUEwzeV9FRXZ2cnNDQTd5U0NpUG5FaEJ0WlotemRkTnlyNNIBXEFVX3lxTE9xLUM3N1ZDYzJaaVUyQ3llS3NjRk1JWVctV3N4YTQ2emJnTFR3cU5oMlVzNVpvWnVXa1lNa0t2SWo4X29odFVhWDlIdVZFUFVMSHloWEUzZ25Ga3Rr?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
+    },
+    {
+      "id": "auto-2026-10-27-wontumi-tano-nimiri-galamsey-case-prosecution-closes-case-af",
+      "date": "2026-10-27",
+      "category": "prosecution",
+      "title": "Wontumi Tano Nimiri Galamsey Case: Prosecution Closes Case After Three Witnesses",
+      "place": "Tano Nimiri",
+      "region": "Western North",
+      "lat": 5.85,
+      "lon": -2.65,
+      "summary": "Wontumi Tano Nimiri Galamsey Case: Prosecution Closes Case After Three Witnesses Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxb1BDVUFCZUV2SjNqSVhhbklFMlV5TG5VcmliTE9wazJDWm0wQ29kUnB0czhXWFJaNjZza0hfRlBvalBTUUdOMHFjSlJ4RVJMWEU2OVl4WUtzSWNoR3JN0gFcQVVfeXFMTzFoZ0tEbnp1Z291UUxUcHFNdjJ6bGVJTGExeW5GbnVtbTBqa2FXVUpuWmhGWTZkdHRXSnVCTzRLQWloNlpCQVFiS3VES29Wb1k4NkNWUmlmald2c1Q?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxb1BDVUFCZUV2SjNqSVhhbklFMlV5TG5VcmliTE9wazJDWm0wQ29kUnB0czhXWFJaNjZza0hfRlBvalBTUUdOMHFjSlJ4RVJMWEU2OVl4WUtzSWNoR3JN0gFcQVVfeXFMTzFoZ0tEbnp1Z291UUxUcHFNdjJ6bGVJTGExeW5GbnVtbTBqa2FXVUpuWmhGWTZkdHRXSnVCTzRLQWloNlpCQVFiS3VES29Wb1k4NkNWUmlmald2c1Q?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-27-galamsey-will-persist-if-financiers-go-untouched-security-an",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "Galamsey will persist if financiers go untouched — Security Analyst",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey will persist if financiers go untouched — Security Analyst GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHl6eHl5VE03NmF0aVRIRmEya0hwQTA4aGg3UHlPRk5WU2dvd29kby1EZXdHWVZES3FFa2lBWDZPZEtrczVlMUlvY0Fxc1RiM2lHWVJvMkJSU3BOZHVlM1VaeG5VakhDS0VzT1c2Y1d4bWgxcWhUTjZkMFNsREFIRmpVT1o4dUpYd0cwekhLY3VRY3l6?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHl6eHl5VE03NmF0aVRIRmEya0hwQTA4aGg3UHlPRk5WU2dvd29kby1EZXdHWVZES3FFa2lBWDZPZEtrczVlMUlvY0Fxc1RiM2lHWVJvMkJSU3BOZHVlM1VaeG5VakhDS0VzT1c2Y1d4bWgxcWhUTjZkMFNsREFIRmpVT1o4dUpYd0cwekhLY3VRY3l6?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-27-trading-activities-halted-communities-cut-off-as-galamsey-de",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "Trading activities halted, communities cut off as galamsey destroys sole access road in Abesua",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Trading activities halted, communities cut off as galamsey destroys sole access road in Abesua Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFlNeXFKMXZadS10S2JLSXZ1ZTJHM3dGY1VTcE5vaWJlN1RjWDNNVExoNFVocnpxRng4X2tsLXlOc3JTMWF3NzVFb2JqWVBwai13bFVpN3hZU3ZHLUtYMGtQY3pZOHdQb1JwSXQ4Yk0xS2o1Y3lIWXR1bnd0dDkyeFp6UW1falJZM3otc2Y0dXM0aEoxMllrRjhPdEx6QmpONUdwd09GTC1ZSTA0WDJ5TXZaZ21STS1ERkZsN2F3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFlNeXFKMXZadS10S2JLSXZ1ZTJHM3dGY1VTcE5vaWJlN1RjWDNNVExoNFVocnpxRng4X2tsLXlOc3JTMWF3NzVFb2JqWVBwai13bFVpN3hZU3ZHLUtYMGtQY3pZOHdQb1JwSXQ4Yk0xS2o1Y3lIWXR1bnd0dDkyeFp6UW1falJZM3otc2Y0dXM0aEoxMllrRjhPdEx6QmpONUdwd09GTC1ZSTA0WDJ5TXZaZ21STS1ERkZsN2F3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-27-for-an-institution-keen-on-responsible-sourcing-there-s-no-w",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "'For an institution keen on responsible sourcing; there's no way our CEO will endorse galamsey' — GoldBod's Prince Minkah insists",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'For an institution keen on responsible sourcing; there's no way our CEO will endorse galamsey' — GoldBod's Prince Minkah insists Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkVBSlB0bVdtdkNEcV9JdVJhNlRhcUtYLTRTVGM1NjFVSkxzWjJtTnkzSmszQlZ3RjVTN2dzTUNudUFTT09mWEJHeUxnemlHOGFvUmFFMThUQmpGa0dHdnRxemI0U2RsdS1iT3ZhYi13UDdWdnRHX0l3Y1hhbzdaZ0xpc1RfTXBrWnhCTldwNWotUkVJbnoxY9IBlwFBVV95cUxPYWFya0NOWDJ2YmR2NkxQZWttdTRhRXVsdnNvNHdYTmpQZ050am9qVHBPdDU3STVtR2pWM2RRU1c5cWtOUkhSaTl4b05sa2x0eFNiVTd2UjdUN25WeHhnMlhadmxYaFZCdmtJM0dfcGgyd0EzeHFYSWhqVTV5RjNudHFYY2hzMzQxeEJieDdjbExwYTlyc1h3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkVBSlB0bVdtdkNEcV9JdVJhNlRhcUtYLTRTVGM1NjFVSkxzWjJtTnkzSmszQlZ3RjVTN2dzTUNudUFTT09mWEJHeUxnemlHOGFvUmFFMThUQmpGa0dHdnRxemI0U2RsdS1iT3ZhYi13UDdWdnRHX0l3Y1hhbzdaZ0xpc1RfTXBrWnhCTldwNWotUkVJbnoxY9IBlwFBVV95cUxPYWFya0NOWDJ2YmR2NkxQZWttdTRhRXVsdnNvNHdYTmpQZ050am9qVHBPdDU3STVtR2pWM2RRU1c5cWtOUkhSaTl4b05sa2x0eFNiVTd2UjdUN25WeHhnMlhadmxYaFZCdmtJM0dfcGgyd0EzeHFYSWhqVTV5RjNudHFYY2hzMzQxeEJieDdjbExwYTlyc1h3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-27-german-embassy-s-climate-talks-end-with-policy-brief-on-gala",
+      "date": "2026-10-27",
+      "category": "policy",
+      "title": "German Embassy’s Climate Talks end with policy brief on galamsey, coastal erosion and conflict",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "German Embassy’s Climate Talks end with policy brief on galamsey, coastal erosion and conflict Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU292Q2JrWjRudnhiWkZ5MGFNblVHbl9FTUxLNFJ3N0Z2ZlNFTy1BbF91QTFvTzdsQjJEMWRnNGdkeUZRQ05mR05fc2NtWjA4TU1wYlZHeGlNQVlNd01oc1FwREpZUFJXVEhzSVVlWW56SHZ0LUphMjVqQTJrVW9yVkpBMnpCOEF6Nkl6V3JVMWMxYlZuVTM1OVAwM05aWTBQS3JhQnJGaF9xd3ZvVV9vaHVFYnJIQW5jckswWA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivAFBVV95cUxPU292Q2JrWjRudnhiWkZ5MGFNblVHbl9FTUxLNFJ3N0Z2ZlNFTy1BbF91QTFvTzdsQjJEMWRnNGdkeUZRQ05mR05fc2NtWjA4TU1wYlZHeGlNQVlNd01oc1FwREpZUFJXVEhzSVVlWW56SHZ0LUphMjVqQTJrVW9yVkpBMnpCOEF6Nkl6V3JVMWMxYlZuVTM1OVAwM05aWTBQS3JhQnJGaF9xd3ZvVV9vaHVFYnJIQW5jckswWA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-23-climate-talks-2026-1-million-people-estimated-to-work-in-art"
+    },
+    {
+      "id": "auto-2026-10-27-the-big-issue-beyond-goldbod-ceo-s-remarks-what-will-it-take",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "The Big Issue: Beyond GoldBod CEO’s Remarks - What Will It Take To End Galamsey In Ghana?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Big Issue: Beyond GoldBod CEO’s Remarks - What Will It Take To End Galamsey In Ghana? Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JR2RwOEdVOTBlZEpuSmpITXgtZU5uWDc0TjFQenJWaHRSUUlSLUpFSGM3cWR5bklNdmtaTU1YU0JTXzBTYXBPZTlGNXkxVURZbW1kQ0N5bGp3d3V2V0RB0gFcQVVfeXFMTjM4NWo1dnA1QTNQLTA5WVFUXzZzcmdVUGVReGdBTXJmSVk3cG54dVFoR1F5bG1zMUo2a1FuSFJHSWxyM3NjaWdHS0hOYUNwU3ltbUE5c1BqOWVjWFM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JR2RwOEdVOTBlZEpuSmpITXgtZU5uWDc0TjFQenJWaHRSUUlSLUpFSGM3cWR5bklNdmtaTU1YU0JTXzBTYXBPZTlGNXkxVURZbW1kQ0N5bGp3d3V2V0RB0gFcQVVfeXFMTjM4NWo1dnA1QTNQLTA5WVFUXzZzcmdVUGVReGdBTXJmSVk3cG54dVFoR1F5bG1zMUo2a1FuSFJHSWxyM3NjaWdHS0hOYUNwU3ltbUE5c1BqOWVjWFM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-10-27-state-closes-case-against-wontumi-two-others-over-alleged-il",
+      "date": "2026-10-27",
+      "category": "prosecution",
+      "title": "State closes case against Wontumi, two others over alleged illegal mining in Tano-Nimire Forest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The prosecution has closed its case in the trial of former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi, and two others over alleged illegal mining activities in the Tano-Nimire Forest Reserve.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/state-closes-case-against-wontumi-two-others-over-alleged-illegal-mining-in-tano-nimire-forest/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/state-closes-case-against-wontumi-two-others-over-alleged-illegal-mining-in-tano-nimire-forest/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-10-27-prosecution-closes-case-against-wontumi-two-others-in-tano-n",
+      "date": "2026-10-27",
+      "category": "prosecution",
+      "title": "Prosecution closes case against Wontumi, two others in Tano-Nimire illegal mining trial",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The prosecution has closed its case in the trial of former Ashanti Regional NPP chairman, Bernard Antwi-Boasiako, and two others accused of illegal mining in the Tano-Nimire Forest Reserve. The State, according to a report by myjoyonline.com, rested its case at the Accra Criminal Court after calling three witnesses, two former employees of Akonta Mining […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/prosecution-closes-case-against-wontumi-two-others-in-tano-nimire-illegal-mining-trial/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/prosecution-closes-case-against-wontumi-two-others-in-tano-nimire-illegal-mining-trial/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-26-minority-demands-sammy-gyamfi-s-resignation-over-galamsey-co",
@@ -786,6 +964,46 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-26-ghana-cannot-build-sustainable-economy-on-gold-galamsey-cath",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "Ghana cannot build sustainable economy on gold, galamsey – Catholic Bishops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana cannot build sustainable economy on gold, galamsey – Catholic Bishops CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1xNm8zaG1tMW9YeE9pYUw1SVNHeFhsZTgzTllaRXptZ3hQSGp0NENyV1pJQTVub0tsSnRVWkNmT3JQbzhYc3pWSWNXWnZBZXNrNEdfT0puN1VVWFJqdFAwVVNZS0tXN2xWbnUzcEZRYXJlSUx2dks4cGd4T0xjLXhYV05NeklKMGFXOFNwbUVXdEdsWHdzX2xkeFQ2blk1bFdSZ3ExWjkxNkRlMnhj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1xNm8zaG1tMW9YeE9pYUw1SVNHeFhsZTgzTllaRXptZ3hQSGp0NENyV1pJQTVub0tsSnRVWkNmT3JQbzhYc3pWSWNXWnZBZXNrNEdfT0puN1VVWFJqdFAwVVNZS0tXN2xWbnUzcEZRYXJlSUx2dks4cGd4T0xjLXhYV05NeklKMGFXOFNwbUVXdEdsWHdzX2xkeFQ2blk1bFdSZ3ExWjkxNkRlMnhj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-10-26-testing-goldbod-ceo-s-new-law-on-small-scale-mining-against-",
+      "date": "2026-10-26",
+      "category": "policy",
+      "title": "Testing Goldbod CEO’s ‘new law’ on small-scale mining against the law",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Testing Goldbod CEO’s ‘new law’ on small-scale mining against the law MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnQwUVU5ck10NFRNM1JOa1kzMS1ORXR2SUY4T2Nua05GSE4tSE15T0JaeDBmV21VcDB6TUlHNmhqZEpZVno2Z1UtU1BMRi0xY2ZVamV6ZWVmb1REZjFGbmFvOXpPblJJRExwY3F5bThaUjU2azdPS1FSaWdjcEU0d21XajdySWc5YllVR0xrQ1ZFTmp1R1hJWWVvUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnQwUVU5ck10NFRNM1JOa1kzMS1ORXR2SUY4T2Nua05GSE4tSE15T0JaeDBmV21VcDB6TUlHNmhqZEpZVno2Z1UtU1BMRi0xY2ZVamV6ZWVmb1REZjFGbmFvOXpPblJJRExwY3F5bThaUjU2azdPS1FSaWdjcEU0d21XajdySWc5YllVR0xrQ1ZFTmp1R1hJWWVvUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-25-testing-new-goldbod-ceo-s-new-law-on-small-scale-mining-agai"
+    },
+    {
       "id": "auto-2026-10-25-sammy-gyamfi-s-remarks-unlawful-reckless-anti-galamsey-coali",
       "date": "2026-10-25",
       "category": "forest",
@@ -986,7 +1204,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/testing-new-goldbod-ceos-new-law-on-small-scale-mining-against-the-law/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-25-testing-new-goldbod-ceo-s-new-law-on-small-scale-mining-agai"
     },
     {
       "id": "auto-2026-10-24-galamsey-sammy-gyamfi-s-remarks-contextual-but-oversimplifie",
@@ -4231,7 +4450,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -4330,7 +4549,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/small-scale-mining-must-not-leave-residue-of-death-prof-stephen-adei/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-10-18-playing-at-the-fringes-with-galamsey-why-no-carrot-outbids-g",
@@ -4473,7 +4692,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-18T04:27:31.716Z",
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-17-mine-gold-responsibly-and-restore-degraded-lands-lands-minis",
@@ -4754,7 +4973,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/nzema-east-launches-responsible-cooperative-mining-programme-to-tackle-environmental-destruction/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-16-shs-students-involved-in-galamsey-president-mahama-worried",
@@ -4959,7 +5178,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -5020,6 +5239,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-30-the-oda-mce-is-taxing-galamsey-aaron-asiedu-antwi"
+    },
+    {
+      "id": "auto-2026-10-16-galamsey-ghana-s-rivers-now-run-chocolate-and-milk-colour-sa",
+      "date": "2026-10-16",
+      "category": "water",
+      "title": "Galamsey: Ghana’s rivers now run chocolate and milk colour — Sam Jonah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Ghana’s rivers now run chocolate and milk colour — Sam Jonah Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS01YV2tJSFA2ZXB6OGU0ajZUTmdBX2VRcUxrZVBGVnZmRXR6d0N2X3A0Qkc3eW1kLTJUa2tSVTZRanFwbDJyOURISG9nV3VqVm52dEpibTNKY3ZCd1VfNExwSVJETGpEcmxkNnNrTGdNaWNZdWliOXd0OHpLUEFRM2ZoNmU3R3BZQjB2bEFzSmlnVk9J0gGTAUFVX3lxTE83OWlXQ3E3Q1dTeUtzOXliYXZFT3NHMnVPdFRmaEtfajdoNUNqNzdpbjhTYTVPVTBpQ0M4d0JfeWxQaTlTeHF4VTNYV0xtcjkwV2hCMnlDS1Z5TWQ3NWI2SUhuMi1PSmR3Z0dqU3QwTzhtZUVDOVllTnVSaEQ5UG1ObWxnNkhqOUpoNFRHdHFRaF83SQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQS01YV2tJSFA2ZXB6OGU0ajZUTmdBX2VRcUxrZVBGVnZmRXR6d0N2X3A0Qkc3eW1kLTJUa2tSVTZRanFwbDJyOURISG9nV3VqVm52dEpibTNKY3ZCd1VfNExwSVJETGpEcmxkNnNrTGdNaWNZdWliOXd0OHpLUEFRM2ZoNmU3R3BZQjB2bEFzSmlnVk9J0gGTAUFVX3lxTE83OWlXQ3E3Q1dTeUtzOXliYXZFT3NHMnVPdFRmaEtfajdoNUNqNzdpbjhTYTVPVTBpQ0M4d0JfeWxQaTlTeHF4VTNYV0xtcjkwV2hCMnlDS1Z5TWQ3NWI2SUhuMi1PSmR3Z0dqU3QwTzhtZUVDOVllTnVSaEQ5UG1ObWxnNkhqOUpoNFRHdHFRaF83SQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-10-15-otumfuo-to-take-action-as-he-inspects-a-huge-dam-polluted-by",
@@ -5140,7 +5378,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-15T16:59:07.908Z",
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-15-interfaith-women-urged-to-champion-climate-action",
@@ -5340,7 +5578,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/govt-launches-rcomsdep-in-ahanta-west-mpohor-fiase-to-promote-responsible-community-mining/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-15-court-to-rule-on-wontumi-s-bail-application-pending-appeal-o",
@@ -5382,7 +5620,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-15T17:03:30.362Z",
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-15-government-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase",
@@ -5402,7 +5640,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/government-launches-rcomsdep-in-ahanta-west-and-mpohor-fiase-to-promote-responsible-small-scale-mining/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-15-small-scale-miners-to-set-aside-part-of-earnings-for-land-re",
@@ -5422,7 +5660,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/small-scale-miners-to-set-aside-part-of-earnings-for-land-reclamation/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-10-15-destroying-jimi-river-for-gold-could-cost-us-our-lives-asant",
@@ -6244,7 +6482,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
@@ -7071,7 +7309,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDZBMEllQjBPdEVVODZxRGdRQmJ0b2Jjc2t0SGJxWFdfejdOelpfNmdiQTNDUVZyVG5oek1LdFBPYXZpVUhlVGh2cmxrN3l6TS1QcW0tVTIwdThQZWc5NlJtRUZMYWVPSTV5T0hIbGplanM2a3RKanBfY0hNLUtXYVBmX21valdwcFdrQzdwZTVGTjlXUGp1T0dfYV9qNVNPRVBVNXRaUGdqVHBJamRVN2NIRQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
     },
     {
       "id": "auto-2026-10-08-illegal-mining-could-force-ghana-to-import-water-author-warn",
@@ -10369,7 +10607,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T21:12:33.023Z",
-      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-09-25-13-suspected-illegal-miners-arrested-by-naimos-are-escorted-",
@@ -10771,7 +11009,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/climate-talks-2026-1m-people-estimated-to-work-in-artisanal-mining-should-make-us-think-german-ambassador",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-23-climate-talks-2026-1-million-people-estimated-to-work-in-art"
     },
     {
       "id": "auto-2026-09-23-galamsey-no-police-officer-has-been-assigned-to-a-mining-sit",
@@ -13561,7 +13800,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-11T16:31:17.172Z",
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-09-08-galamsey-causing-25-of-fibre-cuts-in-ghana-sam-george-reveal",
@@ -14260,7 +14499,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2x6ak9TVEsyMHlYZUhMSmhjT2xET1huNHpDSDBzeE1taU9zYkxFUFpldmItVllzZXQ1ZF81WC02OFFCZFVkcVdrRTJUeFlqSjdEWVMtVDBCU1lac1g2LWZSSDExQ19wbVV5WERmV2JXR3NPRnpOVmVkOEtzVVU4Ny0yUWRIUUx2QnUtUGxNVlBJSHBoMnIyQ0VsWHB2SHJ5b3QtSVN6azlLUHREVjRTTWJ1UmtmOERndVRhYzBxWDFwNzNH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-09-06-frimpong-boateng-ghana-galamsey-political-cost-undermines-en",
@@ -15456,7 +15695,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-02T21:02:33.913Z"
+      "archivedAt": "2026-09-02T21:02:33.913Z",
+      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
     },
     {
       "id": "auto-2026-09-02-2-chinese-nationals-arrested-for-illegal-mining-in-sulawesi",
@@ -15659,7 +15899,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyiri/",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-02T04:29:56.013Z"
+      "archivedAt": "2026-09-02T04:29:56.013Z",
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-09-01-give-zanetor-free-hand-to-fight-galamsey-acheampong-christia",
@@ -16829,7 +17070,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-30T11:58:00.063Z",
-      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-28-water-crisis-looms-as-galamsey-rages-patrick-yaw-boamah-warn",
@@ -17090,7 +17331,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2ZhX0FjZ3VrSEw3WXU4RXhZdVkzMDkzX0hLWVF1T3k1b0FkRXlaampiM2VOaXlzd2FtbXNUQVo1QXZUYXl3OHF4bTJ2dk1sUFFPU3NsVjQzMHQ5bTRBZllKcVBNWlF2ejN3b3FfM3p3ZGJCOHF1a3BaZVlYdWF4NEVGMXJ3eFZVMnFzM0xQUjlWd05tMEl4dHlOX0p0WmRGakRfblpUNmlOUlhZQ3Z1SXd1Um9PdUI1aVE?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-28-betterland-denies-illegal-mining-in-draw-river-forest-reserv",
@@ -23726,7 +23967,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-40-illegal-miners-seizes-mining-equipment-across-six-regions",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-11-attorney-general-opposes-bail-application-by-wontumi-s-lawye",
@@ -24542,7 +24783,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdhRGEyMXdpSjlvaFhrZkJMczdoMXlkXzNxbmlNTFdpcktTSEs1TE9WckpEd3NiMnhCSWlFZ2VQUWdrYzQteTE4VzVrc0VucmJMUWhzQm9sVnFYcTVuanRoakZXaExnb2NJYV96T080eDV4czc5NVJPZGJLT2Rjd0ptTUFGLVVNcU5SdWFuc1p4ODJWWVdVZi1hSDhLQ0xvZkFOVHdESURBZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-day-naimos-operation-deals-heavy-blow-to-illegal-minin"
     },
     {
       "id": "auto-2026-08-10-bribe-taking-security-officials-undermining-galamsey-fight-m",
