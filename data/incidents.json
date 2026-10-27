@@ -1,13 +1,53 @@
 {
-  "updated": "2026-10-26T22:44:11.115Z",
+  "updated": "2026-10-27T05:06:36.714Z",
   "counts": {
-    "total": 1389,
+    "total": 1392,
     "verified": 28,
-    "automated": 1361,
+    "automated": 1364,
     "earliest": "2024-07-01",
-    "latest": "2026-10-26"
+    "latest": "2026-10-27"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-27-naimos-expands-fight-against-galamsey-to-equipment-supply-ch",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "NAIMOS expands fight against galamsey to equipment supply chain",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS expands fight against galamsey to equipment supply chain GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkl3c183a0dLenh0SkpMMGxsZVlSaUV6Y3gwWTdUcURxVHNvN2NvVWpFWnhGNWJuRURUZmRSQVFhLXJ3c0JYX29DWlNNMnZmNHEteVRzY0lvTlRBdkpkYkppNDhZUWp4elhMQlVCa1BORFNvQ3M0enpvVVB5UlcyOHVOMllibW9UR2JDTVZvVG9HSHJZbHNyVS1SWXY1b1MzZHU5OHUwc2lPd1doeVNiQ0QxOFZQRDJzOWVTYmFOOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkl3c183a0dLenh0SkpMMGxsZVlSaUV6Y3gwWTdUcURxVHNvN2NvVWpFWnhGNWJuRURUZmRSQVFhLXJ3c0JYX29DWlNNMnZmNHEteVRzY0lvTlRBdkpkYkppNDhZUWp4elhMQlVCa1BORFNvQ3M0enpvVVB5UlcyOHVOMllibW9UR2JDTVZvVG9HSHJZbHNyVS1SWXY1b1MzZHU5OHUwc2lPd1doeVNiQ0QxOFZQRDJzOWVTYmFOOA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-27T04:59:32.454Z"
+    },
+    {
+      "id": "auto-2026-10-27-mahama-must-demand-sammy-gyamfi-s-retraction-on-galamsey-pro",
+      "date": "2026-10-27",
+      "category": "forest",
+      "title": "Mahama must demand Sammy Gyamfi’s retraction on galamsey – Prof. Appiagyei-Atua",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President John Dramani Mahama has been urged to publicly clarify his administration’s position on illegal mining and ask the Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, to retract his controversial remarks on the practice.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/mahama-must-demand-sammy-gyamfis-retraction-on-galamsey-prof-appiagyei-atua/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mahama-must-demand-sammy-gyamfis-retraction-on-galamsey-prof-appiagyei-atua/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
     {
       "id": "auto-2026-10-26-minority-demands-sammy-gyamfi-s-resignation-over-galamsey-co",
       "date": "2026-10-26",
@@ -25,7 +65,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXJvb0Y3dGZITk5YWVJQN3lJbV9kRmFURWZ3OFNNQ2NIUnlWLVZFYXVtdWhVSVo1NDZ6RnViMVNFYlVLTk5ad3p1Z3Y3SHMzeHhPc0NTS0hSbThKQUVmTGJYc0Q4clVWdzRtcTVCejBjNXBXUzd6Q05rYW1Wd1B1bHRrblNxVjY4Q1lHeVAySW0wSU5pbWFnaNIBlwFBVV95cUxOeng0VWxOaUtDdUd3MGtFVzh1VjdmS3BhWGFZLXp2QmI0REZnWnhHSklycXpIR2lfS2ZMQTN0ak81ZXY4cV9HcEt4Z0JrUkt2U1BreEo2Q2pKekRmd2pHOXhrMHprUWJ0OFlpZEpEV0NacHlUUnZLLVRJNGlVRnVyWjBWc0FMZURaSW04Nk9ya3d3NGMtWEJr?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-27T05:00:48.574Z"
     },
     {
       "id": "auto-2026-10-26-concerned-small-scale-miners-defend-goldbod-s-galamsey-forma",
@@ -201,6 +242,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jU29UUzRINmZodkdBMzRZUE5BeUMyR2ZyTDNXaW9FSUZzZFpHQTJ3aU1FWkpVc3l5QTI5RGktQW5xOEo3TElrNjNLY3NVaHMtNENkRW1DY1NGemFIenYzeVNiSmnSAVxBVV95cUxNZU5tYlBJWVhsR3BMMUxuUG1mblFfNDExSHBHMEF2YnBCcUxCZDQtcjY1eDR0M0pRd3Q1NXNCZEpPYVI5UHFYYjIyYXY2YmxQS3hKMnRrVDUwYnpmRg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-27T05:04:39.606Z",
       "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
@@ -221,6 +263,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lV1VRa0pmdDFhb2dISHA5YUNiZEJUOTVseXptN2pneGlXZjR1Z1NXSk04a0dfY0NhM3ZzN0RNdzZGYjczU1RLQ0wzMFd5eWpUOGJ0TFlQQUpmUFhhdmE3NGJiY9IBXEFVX3lxTFBZU3BtMEE0WVY5VXZZSjFFQ2dnT3NRS3lpLU1nbVM3aFJQdFJQMS1DWEVhWmNhLXhnalRqMFlvZVlzNzdQY2xyNEZ0MEYybnlubzhKTy11Ti1OZkE2?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-27T05:05:04.346Z",
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
@@ -501,6 +544,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
+    {
+      "id": "auto-2026-10-26-galamsey-remarks-minority-demands-sammy-gyamfi-resigns-goldb",
+      "date": "2026-10-26",
+      "category": "forest",
+      "title": "Galamsey Remarks: Minority Demands Sammy Gyamfi Resigns, GoldBod Backs CEO",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Remarks: Minority Demands Sammy Gyamfi Resigns, GoldBod Backs CEO DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2tNN3ZBRlVRelVVUWRXQTVVOTNRRS05RHlwc1NrejRLZmxLdHRvWkQ4Q2hRcFZyQnh5clk1Z2hfMzhaVUFmdDZHZHREWUlCVXhPRXlPV29pZE5WZnBTeTc1M1BMdTFla3JYcmw4bkpHSGlIRC0yanRaMzM3RGpxMV9Jd2d4QXB2cmp1NDROYkhJX1Fqc3ZXYkFFTUpNN011ZVQtZWxB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQd2tNN3ZBRlVRelVVUWRXQTVVOTNRRS05RHlwc1NrejRLZmxLdHRvWkQ4Q2hRcFZyQnh5clk1Z2hfMzhaVUFmdDZHZHREWUlCVXhPRXlPV29pZE5WZnBTeTc1M1BMdTFla3JYcmw4bkpHSGlIRC0yanRaMzM3RGpxMV9Jd2d4QXB2cmp1NDROYkhJX1Fqc3ZXYkFFTUpNN011ZVQtZWxB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-galamsey-ibrahim-adjei-rejects-claims-that-goldbod-has-worse"
     },
     {
       "id": "auto-2026-10-25-sammy-gyamfi-s-remarks-unlawful-reckless-anti-galamsey-coali",
@@ -3947,7 +4010,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -4675,7 +4738,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -5960,7 +6023,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
