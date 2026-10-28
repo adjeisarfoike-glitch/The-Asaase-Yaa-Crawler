@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-28T12:55:00.469Z",
+  "updated": "2026-10-28T22:38:55.461Z",
   "counts": {
-    "total": 1436,
+    "total": 1444,
     "verified": 28,
-    "automated": 1408,
+    "automated": 1416,
     "earliest": "2024-07-01",
     "latest": "2026-10-28"
   },
@@ -152,6 +152,167 @@
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
+      "id": "auto-2026-10-28-we-cannot-eat-gold-dr-zanetor-warns-against-sacrificing-envi",
+      "date": "2026-10-28",
+      "category": "forest",
+      "title": "“We Cannot Eat Gold”: Dr. Zanetor Warns Against Sacrificing Environment for Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "“We Cannot Eat Gold”: Dr. Zanetor Warns Against Sacrificing Environment for Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYUNNNU9acTItNWJ1Z3E3dW9zeVlQSldfN1RhT1pVbHU3OW9oRzhlMDJNSXM3c0t3ZnNuUk53aGs0Mm1KUVEzQmFrZ0M4bEtlTjBCMHVtLXVLMkx5X2ww0gFcQVVfeXFMTjYwT0ZMSEQyUm1ITGF5QUIwSVRjcm11aGdVTXdoXzRsVnc0ZGl6c0x1cFdxOTkwVm9oM2JDZzhKT0NRV3d4anJ2LUNyWVRjYnowaWdSamluRk5kV2Y?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYUNNNU9acTItNWJ1Z3E3dW9zeVlQSldfN1RhT1pVbHU3OW9oRzhlMDJNSXM3c0t3ZnNuUk53aGs0Mm1KUVEzQmFrZ0M4bEtlTjBCMHVtLXVLMkx5X2ww0gFcQVVfeXFMTjYwT0ZMSEQyUm1ITGF5QUIwSVRjcm11aGdVTXdoXzRsVnc0ZGl6c0x1cFdxOTkwVm9oM2JDZzhKT0NRV3d4anJ2LUNyWVRjYnowaWdSamluRk5kV2Y?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-10-28-galamsey-invasion-of-atewa-forest-lands-minister-leads-milit",
+      "date": "2026-10-28",
+      "category": "arrest",
+      "title": "Galamsey Invasion of Atewa Forest: Lands Minister leads military crackdown; 3 foreigners arrested",
+      "place": "Atewa",
+      "region": "Eastern",
+      "lat": 6.23,
+      "lon": -0.57,
+      "summary": "Galamsey Invasion of Atewa Forest: Lands Minister leads military crackdown; 3 foreigners arrested Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVmFDcDB1UW5GeE1UeVFiVndGT3hINjdEWUs4R09ISmFja0FKbUNsaWNqMDNIb2l6Y056TERrLW8tWkdEMzVJeklneUpYNDRVR2xKZW5sYW5MdGZvOFRuTXNfWWbSAVxBVV95cUxOQVZQMEZFa3JfcEk5d2FMTHlqd3VaWHZaUFRhdzJDbDVRVkdDQ19UOWJjdWRodGx4V3AwNm5udFBwd3podl9sYm92Z2dJMjJvZExtdmtlSjM1WUFLNg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVmFDcDB1UW5GeE1UeVFiVndGT3hINjdEWUs4R09ISmFja0FKbUNsaWNqMDNIb2l6Y056TERrLW8tWkdEMzVJeklneUpYNDRVR2xKZW5sYW5MdGZvOFRuTXNfWWbSAVxBVV95cUxOQVZQMEZFa3JfcEk5d2FMTHlqd3VaWHZaUFRhdzJDbDVRVkdDQ19UOWJjdWRodGx4V3AwNm5udFBwd3podl9sYm92Z2dJMjJvZExtdmtlSjM1WUFLNg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-28-abesua-under-siege-galamsey-cuts-off-main-road-and-bridge-cr",
+      "date": "2026-10-28",
+      "category": "forest",
+      "title": "Abesua Under Siege: Galamsey Cuts Off Main Road and Bridge, Cripples Trade",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abesua Under Siege: Galamsey Cuts Off Main Road and Bridge, Cripples Trade Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nWExNYkZxOXU4TWtTdFkxZ3hERjBlU1M2cGxfbFVfSlpKUENSOTdTMm40UlUzYzdPc3hwTzFZZXJ4d0ZuY2ZRS21FczAwR0RtUV9DU1pDMFowMVVEZHNuVUQ1eGzSAVxBVV95cUxOUGduYTBHdmpaQ1Z2MldEM2MyTG1hcnF2UnZrNUt3M3Zhdk9sdW5PX1QyMVJYMWx6dHhQRlBnZjIwb3RtTDd5Zk93UTAxRkYtUTlmdU9XZU4yUVNCbw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nWExNYkZxOXU4TWtTdFkxZ3hERjBlU1M2cGxfbFVfSlpKUENSOTdTMm40UlUzYzdPc3hwTzFZZXJ4d0ZuY2ZRS21FczAwR0RtUV9DU1pDMFowMVVEZHNuVUQ1eGzSAVxBVV95cUxOUGduYTBHdmpaQ1Z2MldEM2MyTG1hcnF2UnZrNUt3M3Zhdk9sdW5PX1QyMVJYMWx6dHhQRlBnZjIwb3RtTDd5Zk93UTAxRkYtUTlmdU9XZU4yUVNCbw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-28-abesua-under-siege-galamsey-cuts-off-main-road-and-bridge-cr"
+    },
+    {
+      "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
+      "date": "2026-10-28",
+      "category": "water",
+      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHNmNGgwSWxQVzBHNC1aQUZMMXVjUjYwZUx5UmJjb3pIV05MXzkweHB6d016YWZNV2FmUHQ2ckFEOGFILXFpRWNTVXNkdG9mbjBWYjZ2YXZzajVRRy1Wa0ZNbjHSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE50eHNmNGgwSWxQVzBHNC1aQUZMMXVjUjYwZUx5UmJjb3pIV05MXzkweHB6d016YWZNV2FmUHQ2ckFEOGFILXFpRWNTVXNkdG9mbjBWYjZ2YXZzajVRRy1Wa0ZNbjHSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-28T22:35:44.145Z",
+      "thread": "t-auto-2026-10-28-abesua-under-siege-galamsey-cuts-off-main-road-and-bridge-cr"
+    },
+    {
+      "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
+      "date": "2026-10-28",
+      "category": "arrest",
+      "title": "Galamsey Fight: NAIMOS arrests two, intercepts truck with 43 changfan machines",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: NAIMOS arrests two, intercepts truck with 43 changfan machines GhanaWeb",
+      "metrics": {
+        "changfan": 43
+      },
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGNhNTI2c21FN3dIYlVsR0pvWGoyX2FIYUFTYUlKNmhZckpZc082ZzVxNjR5Vy14czQ3Zmt6Qjl3di1WaEg3ZXlWaG5rbTRXdS1MR2xOMGp2bGdRZjF3WnpiR3RJcEFKUmpoSGFiZXFPTFh2SXJtczZzUkNINUo4cHl5Y2s1ci1kQUc3VHhKWVVmZk5NLUN4aFFuV1B2dmlYZW1IVDBrLTBhRGllOFRMck8xR3ZmOHlOOWg5b1prSlUtTElIQTFmZHQxSVJnU19r?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGNhNTI2c21FN3dIYlVsR0pvWGoyX2FIYUFTYUlKNmhZckpZc082ZzVxNjR5Vy14czQ3Zmt6Qjl3di1WaEg3ZXlWaG5rbTRXdS1MR2xOMGp2bGdRZjF3WnpiR3RJcEFKUmpoSGFiZXFPTFh2SXJtczZzUkNINUo4cHl5Y2s1ci1kQUc3VHhKWVVmZk5NLUN4aFFuV1B2dmlYZW1IVDBrLTBhRGllOFRMck8xR3ZmOHlOOWg5b1prSlUtTElIQTFmZHQxSVJnU19r?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-28-galamsey-fight-forestry-commission-tests-new-security-strate",
+      "date": "2026-10-28",
+      "category": "forest",
+      "title": "Galamsey Fight: Forestry Commission Tests New Security Strategy in Western Region",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "Galamsey Fight: Forestry Commission Tests New Security Strategy in Western Region Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xWXM0REczSVZndnprT0lhaUQ4eTdzWWwxZkRGS1RjT29BUzVkWkNGZ0VtUkNadUFzRTFrVG9aYTk2UF84VEQxYnVoR1VHRTVua29UdENXYzJ2WTdBSnhJ0gFcQVVfeXFMTXpWRHY0YUFIR0x1UFVlaGpNQWx0TmdkQkFQdnQ1UXJOTmxJR0lYcE0zUUZHaU1fVFBQQmIxT2UtMUxGZWVFbkdQYXlUSWl2QUUwWmRxYWFWRUl6dHY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xWXM0REczSVZndnprT0lhaUQ4eTdzWWwxZkRGS1RjT29BUzVkWkNGZ0VtUkNadUFzRTFrVG9aYTk2UF84VEQxYnVoR1VHRTVua29UdENXYzJ2WTdBSnhJ0gFcQVVfeXFMTXpWRHY0YUFIR0x1UFVlaGpNQWx0TmdkQkFQdnQ1UXJOTmxJR0lYcE0zUUZHaU1fVFBQQmIxT2UtMUxGZWVFbkdQYXlUSWl2QUUwWmRxYWFWRUl6dHY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+    },
+    {
+      "id": "auto-2026-10-28-galamsey-dr-zanetor-calls-for-accountability-over-destructio",
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "Galamsey: Dr Zanetor calls for accountability over destruction of natural resources",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister for Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has called for collective responsibility and accountability in protecting Ghana’s natural resources against environmental destruction caused by illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/galamsey-dr-zanetor-calls-for-accountability-over-destruction-of-natural-resources/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-dr-zanetor-calls-for-accountability-over-destruction-of-natural-resources/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-28-we-cannot-eat-or-drink-gold-dr-zanetor-agyeman-rawlings-warn",
+      "date": "2026-10-28",
+      "category": "policy",
+      "title": "We cannot eat or drink gold – Dr Zanetor Agyeman-Rawlings warns against environmental destruction.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister for Science, Technology and Innovation, Dr Zanetor Agyeman-Rawlings, has warned against the destruction of Ghana’s natural resources through illegal mining, saying the pursuit of gold must not come at the expense of the environment and human survival.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/we-cannot-eat-or-drink-gold-dr-zanetor-agyeman-rawlings-warns-against-environmental-destruction/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/we-cannot-eat-or-drink-gold-dr-zanetor-agyeman-rawlings-warns-against-environmental-destruction/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
       "id": "auto-2026-10-27-naimos-expands-fight-against-galamsey-to-equipment-supply-ch",
       "date": "2026-10-27",
       "category": "forest",
@@ -258,18 +419,18 @@
       "id": "auto-2026-10-27-stop-advocating-for-persons-arrested-for-galamsey-to-be-free",
       "date": "2026-10-27",
       "category": "arrest",
-      "title": "Stop advocating for persons arrested for galamsey to be freed",
+      "title": "Stop advocating for persons arrested for galamsey to be freed - Zanetor",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "As government of Ghana, we have to make sure we account for every single dollar spent on this project reason why it was taken back to the table.",
+      "summary": "Stop advocating for persons arrested for galamsey to be freed - Zanetor 3News",
       "metrics": {},
       "source": {
-        "name": "Zanetor",
-        "url": "https://3news.com/news/stop-advocating-for-persons-arrested-for-galamsey-to-be-freed-zanetor"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDd5NUlVWXJNZV9HXzdvaEI4WS01dWJINGw2aHpaWmUwMDdJdmhfdDhLNHRfckNJaXAzNkwyd2RBTjNPTWZzR2JGUWhjWGxmVDkwMWFLLWdMOUZiQ0tHVm81b05SbzQ3ZmpLRGtia2JiT2RfM3RxTmJHVUtMamN6QnBfcUV4U2twbWx2RGJlQzVHTFhJaUtz?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/stop-advocating-for-persons-arrested-for-galamsey-to-be-freed-zanetor",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDd5NUlVWXJNZV9HXzdvaEI4WS01dWJINGw2aHpaWmUwMDdJdmhfdDhLNHRfckNJaXAzNkwyd2RBTjNPTWZzR2JGUWhjWGxmVDkwMWFLLWdMOUZiQ0tHVm81b05SbzQ3ZmpLRGtia2JiT2RfM3RxTmJHVUtMamN6QnBfcUV4U2twbWx2RGJlQzVHTFhJaUtz?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -431,8 +592,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFlNeXFKMXZadS10S2JLSXZ1ZTJHM3dGY1VTcE5vaWJlN1RjWDNNVExoNFVocnpxRng4X2tsLXlOc3JTMWF3NzVFb2JqWVBwai13bFVpN3hZU3ZHLUtYMGtQY3pZOHdQb1JwSXQ4Yk0xS2o1Y3lIWXR1bnd0dDkyeFp6UW1falJZM3otc2Y0dXM0aEoxMllrRjhPdEx6QmpONUdwd09GTC1ZSTA0WDJ5TXZaZ21STS1ERkZsN2F3?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-10-27-trading-activities-halted-communities-cut-off-as-galamsey-de"
+      "verified": false
     },
     {
       "id": "auto-2026-10-27-for-an-institution-keen-on-responsible-sourcing-there-s-no-w",
@@ -689,7 +849,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/trading-activities-halted-pupils-drop-out-as-galamsey-destroys-road-access-in-abesua-community/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-10-27-trading-activities-halted-communities-cut-off-as-galamsey-de"
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
     },
     {
       "id": "auto-2026-10-27-3-illegal-miners-arrested-in-atewa-forest-as-naimos-launches",
@@ -3513,8 +3673,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnRubjBiR3pDdVFPeVdKbXJfdXFtU3pPS0NiSVpleDFyR3FEQzk4YmtNZGI2cTd6SVA4LVFJS0drRGdna0FZNWF5bnpZamU4TXE3YVRrWkFORWRCWmVENzVWNUZjZjM2aTJVM082UlJaeHExa3RwUEpaaXY2N3YxQTVteHNnQUNxel9wazI3OHcwZW9kSmVvMlNDU20xSmFSRVpybDVST2ZMdkRwUmdJVmE2RnlZNUFRVVB4UlBiYzJhcGZhd1pKTFpqWlJ3cEJK?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-10-20-christian-council-urges-govt-to-deploy-more-military-police-",
@@ -10276,7 +10435,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -16363,7 +16522,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE01b016M21Hc0ZvS0NncXJrQzJjVG9saHpTVS1VdEVwazRYR2FJSGJ5Ukp5bS1DY0RGcVYyZFNpX0NWZTVCb1ZBREVLSXd3blBZeURyYXNyYlhUTmhTRGJWbzF3Z9IBXEFVX3lxTE1xZFFmbXE5RVhzR3JJZWRId0J2N3I0OWxkN2RCTXlNNVk1R0dXTm5oNTdjel9jWHBqNnB0cnhtWC1rRFVfVE5rZkFMSGhnUmJLOEtzcFBLTjFoVzZz?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
     },
     {
       "id": "auto-2026-09-01-galamsey-fight-failing-due-to-politics-official-warns",
@@ -17372,8 +17531,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGljSjZYdW42alJ6SGI0bUtGbHRBUUMwN256Sk9GUUNXWkRqUzEzZ1duRFZpOWJydnduU2Q3UGVrcEZsdHJyUHhFNVZXLVJYMXA4UGRfU1QtdU5qWlFjclhrLVZnZkVncTZtRTJ0MEJ2My1Ja1FmdXM2ZTJ1MlpWR0dCMmNJbFlqMEd5SDhETmxLTEVJMnYyRzB5aTJaYWZYaWp5eVo1bTM2eU1tdDVoTV8wbWZ5bGxPZWtiWGpuMA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-28-galamsey-fight-requires-an-all-of-government-approach-zaneto",
@@ -17993,8 +18151,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/zanetor-agyeman-rawlings-pledges-inter-ministerial-coordination-on-illegal-mining-backs-styrofoam-ban",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-27-gold-refining-in-ghana-more-expensive-than-abroad-kenneth-as",
@@ -18131,8 +18288,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVNjUkFBTnpwREtWQmpYWHRscmpIUkEzdGNwRkc0U0ttcC1NYnMwQldLNGQ3aUs3YVYwbzJDU0I1dmFRcHUySmpRdkJIMnJhQzBxVXl1M2l2THAwbWdIX2h2a21yWjd6QlBxMG1zZDJ1bHFiSEVVN2Y3N213MVYtX1JhalVacmN4My1ZTlFGemJ4RXBxX0V4ZEFCbm9rbTN6Q2JHeXNTOG1HcXdMaHJkUHV5eGJmSTJMY2ZLSVp5M3NWQQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-27-zanetor-agyeman-rawlings-pledges-inter-ministerial-coordinat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-26-three-arrested-as-naimos-targets-galamsey-sites-along-river-",
