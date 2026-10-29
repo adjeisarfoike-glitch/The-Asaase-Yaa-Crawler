@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-29T13:02:49.989Z",
+  "updated": "2026-10-29T22:50:25.963Z",
   "counts": {
-    "total": 1461,
+    "total": 1472,
     "verified": 28,
-    "automated": 1433,
+    "automated": 1444,
     "earliest": "2024-07-01",
     "latest": "2026-10-29"
   },
@@ -267,6 +267,221 @@
       "thread": "t-auto-2026-08-18-declare-state-of-emergency-in-galamsey-areas-eco-conscious-c"
     },
     {
+      "id": "auto-2026-10-29-naimos-begins-community-engagements-with-small-scale-miners-",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "NAIMOS begins community engagements with small scale miners in galamsey prone areas",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS begins community engagements with small scale miners in galamsey prone areas Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVE1uYUc3em94dGpqaWQwWWRGTEMtSmRSaVpNbFN5bG1TSmZzeUdXNS01UzVwQmZaaG1uVXZXckFyOWkwNUViYUdfTTF1bXV2ZjNKdVJVZnVqaWFPZ2g1LWRlYTDSAVxBVV95cUxNYTF4VlNJZ1hWSmZXZkVGbEFMN2h2NnNueUx6ZVNzcWRPSDRVS0FUajEzZWZOYl9WZEF2MUR3amd2YWtxRUdhN3VaZlRHbEpzOWFoMTZBQTZac0ZvMQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UVE1uYUc3em94dGpqaWQwWWRGTEMtSmRSaVpNbFN5bG1TSmZzeUdXNS01UzVwQmZaaG1uVXZXckFyOWkwNUViYUdfTTF1bXV2ZjNKdVJVZnVqaWFPZ2g1LWRlYTDSAVxBVV95cUxNYTF4VlNJZ1hWSmZXZkVGbEFMN2h2NnNueUx6ZVNzcWRPSDRVS0FUajEzZWZOYl9WZEF2MUR3amd2YWtxRUdhN3VaZlRHbEpzOWFoMTZBQTZac0ZvMQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-abesua-galamsey-crisis-standard-farmers-accuse-community-lea",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "Abesua galamsey crisis: Standard farmers accuse community leaders of complicity.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abesua galamsey crisis: Standard farmers accuse community leaders of complicity. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5keDQ4SUgtamVBTUFvblBkd0lVQ1c4TXdvdHJxUzVQaFRja2RmWS1nSnphcS1rN3dTQi01QThQOHVNSGZMMVBiOTVnMTNhU0xzX1dmem1nWk9BY3F4WWdHZ2JhaHXSAVxBVV95cUxPTi02NkJuc3ZMVFlCb2Z6SjZHdkdlVE1fTEdQSjdoZUtaS3U3NkE3VnpDT3c3ODJHUktPeEROTHhzak81MnhDa0FhTWZyOTlxY1pBOEJxOGYwNWtiYg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5keDQ4SUgtamVBTUFvblBkd0lVQ1c4TXdvdHJxUzVQaFRja2RmWS1nSnphcS1rN3dTQi01QThQOHVNSGZMMVBiOTVnMTNhU0xzX1dmem1nWk9BY3F4WWdHZ2JhaHXSAVxBVV95cUxPTi02NkJuc3ZMVFlCb2Z6SjZHdkdlVE1fTEdQSjdoZUtaS3U3NkE3VnpDT3c3ODJHUktPeEROTHhzak81MnhDa0FhTWZyOTlxY1pBOEJxOGYwNWtiYg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-mahama-s-galamsey-fight-has-set-an-unmatched-standard-prof-g"
+    },
+    {
+      "id": "auto-2026-10-29-while-akufo-addo-ignored-it-mahama-looks-away-from-declaring",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "While Akufo-Addo Ignored It, Mahama Looks Away from Declaring a State of Emergency on Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "While Akufo-Addo Ignored It, Mahama Looks Away from Declaring a State of Emergency on Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1Rld08zVWJfUngzeFRncmtSQjZYZlFVSE1TZDFSMmt5Yi1hM2U4X3picjhVNl9iOEM4YXJlWFVpRmNqRmpuc0c0T1h1ekhfUlZacXpscXdDUWpTZk5ibkJ2WkotWUJLMlA1Vmtmd2xLRm1nWC1BM1pDSnVMLXAzXzhxNDJBLUlEMGFjaTh4OTJoeUoyMUHSAZQBQVVfeXFMTXBSRk1PVlZaSWpCdWdmUnMyaE1oSTJndlRTTC04c3FOSVRLUzJMYWJ2WnVjM1hmTm9veXJxd3FQdXBuX0pJM0VCSEF0T1JGOXJXaTFrNVlOS1E0VnBnbWpuczNxdTY3d3hWUlEycXYycXJYelZoTUNkUEdRa0FYeXJlaWFSaVF0dC1iVlRDMGllWlZ2YQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1Rld08zVWJfUngzeFRncmtSQjZYZlFVSE1TZDFSMmt5Yi1hM2U4X3picjhVNl9iOEM4YXJlWFVpRmNqRmpuc0c0T1h1ekhfUlZacXpscXdDUWpTZk5ibkJ2WkotWUJLMlA1Vmtmd2xLRm1nWC1BM1pDSnVMLXAzXzhxNDJBLUlEMGFjaTh4OTJoeUoyMUHSAZQBQVVfeXFMTXBSRk1PVlZaSWpCdWdmUnMyaE1oSTJndlRTTC04c3FOSVRLUzJMYWJ2WnVjM1hmTm9veXJxd3FQdXBuX0pJM0VCSEF0T1JGOXJXaTFrNVlOS1E0VnBnbWpuczNxdTY3d3hWUlEycXYycXJYelZoTUNkUEdRa0FYeXJlaWFSaVF0dC1iVlRDMGllWlZ2YQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-10-29-fight-against-illegal-mining-naimos-engages-small-scale-mine",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "Fight against illegal mining: NAIMOS engages small-scale miners in galamsey-prone areas.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fight against illegal mining: NAIMOS engages small-scale miners in galamsey-prone areas. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZFhBYUtyMW91Yk15bk5sT2h5X1BfVklGb3FueFE3akZoVUJGYzZHXzFiNVFVSkZDWXcwcndkX2lhUnl0RFJNNzNDWFR2aEZyb0h0VVFhWXVyVURZU2JIQlFtQy3SAVxBVV95cUxPZ1AxeE9XVWw3SEVxamlrT1JOS1Zab0V5STNJRDhMbGEwanlzelUxbFhfb0lDdkVxbzBTLTRfTm9HTzRHREpjTHFyVHVPZnFIV3pEOWcyaC05Mm5ORA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiZFhBYUtyMW91Yk15bk5sT2h5X1BfVklGb3FueFE3akZoVUJGYzZHXzFiNVFVSkZDWXcwcndkX2lhUnl0RFJNNzNDWFR2aEZyb0h0VVFhWXVyVURZU2JIQlFtQy3SAVxBVV95cUxPZ1AxeE9XVWw3SEVxamlrT1JOS1Zab0V5STNJRDhMbGEwanlzelUxbFhfb0lDdkVxbzBTLTRfTm9HTzRHREpjTHFyVHVPZnFIV3pEOWcyaC05Mm5ORA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-naimos-begins-community-engagement-in-galamsey-prone-areas",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "NAIMOS begins community engagement in galamsey-prone areas",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS begins community engagement in galamsey-prone areas Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1FXd3pZX1JSZ0lrYkxOVGZMc0Y3TWlkX2RXNUUyaVNaSEJzZXZ6MjAwOXM4anFZa1o3M2p4SmNMTVpaQTRQY1NiN0NSWHZpeEUxc1lvUUZaTlNxZHBqSFY1T3M2RXhYNFJESlJuRzRfU3JsN0tTYWhTR24tQTR1dW56WTFTSDBWSUhCTjhQMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1FXd3pZX1JSZ0lrYkxOVGZMc0Y3TWlkX2RXNUUyaVNaSEJzZXZ6MjAwOXM4anFZa1o3M2p4SmNMTVpaQTRQY1NiN0NSWHZpeEUxc1lvUUZaTlNxZHBqSFY1T3M2RXhYNFJESlJuRzRfU3JsN0tTYWhTR24tQTR1dW56WTFTSDBWSUhCTjhQMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-suaman-chiefs-seek-jobs-for-youth-warning-joblessness-is-pus",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "Suaman chiefs seek jobs for youth, warning joblessness is pushing them into galamsey.",
+      "place": "Suaman",
+      "region": "Western North",
+      "lat": 5.87,
+      "lon": -3,
+      "summary": "Suaman chiefs seek jobs for youth, warning joblessness is pushing them into galamsey. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdEs3WXpuUFVSZFlFR0FTdi1ycGFyRjFON1lLanpjNmRxUFZyU3ZDdmk1d190amFKamFzdEVjeU52X2I4RDU5SUJ3eXBzTXFqeEdGbEdkZzZlbEdLMVp6LTFWSTHSAVxBVV95cUxPeXRCRi1XaVk3TlR4MDBfQzFTbDM3VG5mOHFFWHNRX1pNdlF6NzJzS2tPNGMzYmNnNHNRQ3lwVTJ3RTMxcWdhRHBXaEVwWi01RG5aUU1sTV9YYTZ4Tg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdEs3WXpuUFVSZFlFR0FTdi1ycGFyRjFON1lLanpjNmRxUFZyU3ZDdmk1d190amFKamFzdEVjeU52X2I4RDU5SUJ3eXBzTXFqeEdGbEdkZzZlbEdLMVp6LTFWSTHSAVxBVV95cUxPeXRCRi1XaVk3TlR4MDBfQzFTbDM3VG5mOHFFWHNRX1pNdlF6NzJzS2tPNGMzYmNnNHNRQ3lwVTJ3RTMxcWdhRHBXaEVwWi01RG5aUU1sTV9YYTZ4Tg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-time-to-declare-state-of-emergency-awula-serwah-tells-govern",
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "'Time to declare state of emergency' - Awula Serwah tells government over galamsey crisis",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Time to declare state of emergency' - Awula Serwah tells government over galamsey crisis GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM203NE1wMnZRRVpwYWp1UXVNVE1qT1hoVGZwU3lMSnduMmt4VlEzdGN3SkJqRkdVWVY4QlRHcXlLc1VxWnZlQlZYS2xsbHVHLTRCWmJhdVV1ZWNFQWh4Q0xBOEhFRWVWWmhHM0MyYXFzbEhGRVBCVmhqQUFvU3VjM1pGV1h3WERLMHY2blFRMzAzYzhka1JuWlkzZHhnNHdYMmFtNmJselBldG5JWFl5eTIxbXA3aVJOY2xtNVhnQ2d1NVdITVplVmsyU1JTMWlWak1UeVFoUmZxemxk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM203NE1wMnZRRVpwYWp1UXVNVE1qT1hoVGZwU3lMSnduMmt4VlEzdGN3SkJqRkdVWVY4QlRHcXlLc1VxWnZlQlZYS2xsbHVHLTRCWmJhdVV1ZWNFQWh4Q0xBOEhFRWVWWmhHM0MyYXFzbEhGRVBCVmhqQUFvU3VjM1pGV1h3WERLMHY2blFRMzAzYzhka1JuWlkzZHhnNHdYMmFtNmJselBldG5JWFl5eTIxbXA3aVJOY2xtNVhnQ2d1NVdITVplVmsyU1JTMWlWak1UeVFoUmZxemxk?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-declare-state-of-emergency-in-galamsey-areas-eco-conscious-c"
+    },
+    {
+      "id": "auto-2026-10-29-fighting-galamsey-naimos-warns-traditional-leaders-against-p",
+      "date": "2026-10-29",
+      "category": "arrest",
+      "title": "Fighting Galamsey: NAIMOS warns traditional leaders against pleading for arrested illegal miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fighting Galamsey: NAIMOS warns traditional leaders against pleading for arrested illegal miners Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVnpTazRMVzFwMmtoejd6TkVpM3Y4TVhlV29tblpndC1uMWRMemp6WjI0RnlGeksyRllNQm5LWkRGQVVBTzlKbHBvcnZoaTVRbGRBZ3djV2hFcDgw0gFcQVVfeXFMUFJWelNrNExXMXAya2h6N3pORWkzdjhNWGVXb21uWmd0LW4xZEx6anpaMjRGeUZ6SzJGWU1CbktaREZBVUFPOUpscG9ydmhpNVFsZEFnd2NXaEVwODA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVnpTazRMVzFwMmtoejd6TkVpM3Y4TVhlV29tblpndC1uMWRMemp6WjI0RnlGeksyRllNQm5LWkRGQVVBTzlKbHBvcnZoaTVRbGRBZ3djV2hFcDgw0gFcQVVfeXFMUFJWelNrNExXMXAya2h6N3pORWkzdjhNWGVXb21uWmd0LW4xZEx6anpaMjRGeUZ6SzJGWU1CbktaREZBVUFPOUpscG9ydmhpNVFsZEFnd2NXaEVwODA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+    },
+    {
+      "id": "auto-2026-10-29-aowin-mce-commends-naimos-for-securing-forest-reserves-inclu",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "Aowin MCE commends NAIMOS for securing forest reserves, including Tano Nimiri",
+      "place": "Aowin",
+      "region": "Western North",
+      "lat": 5.9,
+      "lon": -2.75,
+      "summary": "Aowin MCE commends NAIMOS for securing forest reserves, including Tano Nimiri Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFA4eTU0RWp2VHJtbVJCanJyQ0lNOW5WOHVXYklCY3VYMEk1LWVrQnB4TGhfNTlRRVNCR2ZiakJBNDdZX2ZDSTRaang1LUFHaFZuNmFYRHQ2eHdUcjBHRkpDZFJKOFd0cDVUOGFKY0k3TWxhdVZyRUstMEZqbGdNZFhrS1NERWZBVDhIOGZnblNKcHR6NW5IUGNiZXYzc2dEV24yOHBjQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFA4eTU0RWp2VHJtbVJCanJyQ0lNOW5WOHVXYklCY3VYMEk1LWVrQnB4TGhfNTlRRVNCR2ZiakJBNDdZX2ZDSTRaang1LUFHaFZuNmFYRHQ2eHdUcjBHRkpDZFJKOFd0cDVUOGFKY0k3TWxhdVZyRUstMEZqbGdNZFhrS1NERWZBVDhIOGZnblNKcHR6NW5IUGNiZXYzc2dEV24yOHBjQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-29-naimos-targets-suppliers-of-equipment-used-in-illegal-mining",
+      "date": "2026-10-29",
+      "category": "policy",
+      "title": "NAIMOS targets suppliers of equipment used in illegal mining in Aowin and Enchi",
+      "place": "Aowin",
+      "region": "Western North",
+      "lat": 5.9,
+      "lon": -2.75,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has announced plans to target individuals and businesses manufacturing or selling equipment used in illegal mining as part of efforts to curb galamsey in Aowin and Enchi in the Western North Region. Director of Operations at NAIMOS, Colonel S. K. Appiah, said the taskforce would focus on the supply chain supporting illegal mining activities in addition ",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-targets-suppliers-of-equipment-used-in-illegal-mining-in-aowin-and-enchi/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-targets-suppliers-of-equipment-used-in-illegal-mining-in-aowin-and-enchi/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-29-court-dismisses-charles-bissue-s-bid-to-quash-corruption-cha",
+      "date": "2026-10-29",
+      "category": "prosecution",
+      "title": "Court dismisses Charles Bissue's bid to quash corruption charges against him",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The former Secretary of the defunct Inter-Ministerial Committee on Illegal Mining (IMCIM), Charles Bissue has suffered a setback in his bid to have corruption charges against him and two others dismissed after a court rejected his grounds for challenging the prosecution.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/court-dismisses-charles-bissues-bid-to-quash-corruption-charges-against-him"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/court-dismisses-charles-bissues-bid-to-quash-corruption-charges-against-him",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-28-forestry-commission-plans-armed-camps-to-protect-subri-fores",
       "date": "2026-10-28",
       "category": "forest",
@@ -471,21 +686,20 @@
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
       "date": "2026-10-28",
       "category": "water",
-      "title": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities",
+      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities Modern Ghana",
+      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQ2MyT3J1ektlanN0eU1XMGViUEJCUDZoZjVTVnYtRnJaV0J0U2d2Vy0yUWNUT2Flemp5eFZqRnlheFI0aWxSQkpyMV9IQ1NtbF93SDF0eHNnSVFCNnY1TTRrN2_SAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQ2MyT3J1ektlanN0eU1XMGViUEJCUDZoZjVTVnYtRnJaV0J0U2d2Vy0yUWNUT2Flemp5eFZqRnlheFI0aWxSQkpyMV9IQ1NtbF93SDF0eHNnSVFCNnY1TTRrN2_SAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -10044,7 +10258,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEU5OHZESG1uZXZUUlRyYVNTM2gxSlNQcG9QSFFBSmlzT0VmZC1POEVaSUtjSlZraW9jc2FoT1Rvdllrb0RBMks3NHhSM2ZtUHJHbl9xYnhiWE85Rm9OWkE3eE5PMC1iQnhGOUNjdmN5MzFLV25KUFphb1dJb29mZ1NxaWJURE9WdWxVaG1n?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-02T12:34:28.946Z"
+      "archivedAt": "2026-10-02T12:34:28.946Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen",
@@ -10166,7 +10381,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQMktJODM0akJpVE1xSnNWeW1IMjZLdDlBdk5aYndkN1BQOUJuRG9vTlp4dy1kVW82cllvbjgyUnFnYXJLSDBoMjItQVVwek5TOVQyZ1RmSTJDNnlqWXd1MmNxOXFjVTlNa3k0T01BbnhjMDlLVlM1b0tyVWJwNnRzeHlqOWp4UzRhaGktX1BFdjRSTF9hNWJiSDg2RXhXdnFQVll3d05DX2JCYndDQlV5c0F5QXQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-01T13:14:30.276Z"
+      "archivedAt": "2026-10-01T13:14:30.276Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
@@ -10445,8 +10661,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z",
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "archivedAt": "2026-09-29T05:41:31.699Z"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
@@ -10770,7 +10985,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -14452,7 +14667,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-10T20:51:50.901Z"
+      "archivedAt": "2026-09-10T20:51:50.901Z",
+      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
     },
     {
       "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
@@ -16857,7 +17073,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE01b016M21Hc0ZvS0NncXJrQzJjVG9saHpTVS1VdEVwazRYR2FJSGJ5Ukp5bS1DY0RGcVYyZFNpX0NWZTVCb1ZBREVLSXd3blBZeURyYXNyYlhUTmhTRGJWbzF3Z9IBXEFVX3lxTE1xZFFmbXE5RVhzR3JJZWRId0J2N3I0OWxkN2RCTXlNNVk1R0dXTm5oNTdjel9jWHBqNnB0cnhtWC1rRFVfVE5rZkFMSGhnUmJLOEtzcFBLTjFoVzZz?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
     },
     {
       "id": "auto-2026-09-01-galamsey-fight-failing-due-to-politics-official-warns",
@@ -18127,7 +18343,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uREktcThpbzNrbnllRUkxbjF0XzAtYWNjS3VnVkplSjJkUTRmRkR5aVVCR3RVWWNEdFZtSGRwcU1RdDFJT1QtdXgwczh1UG9vcEhHVWhYck9sVTVlU0lYUWJRWFnSAVxBVV95cUxPX18wd1lPNWJOeS1pTFY0WFV0cTJiZXQ3cGp6V0Z2VmlEMU9TVktrZWQ2T3Y1UDUwdnJvWVNTb2pMaThfamk1dmdyZkJQV2hLWGVUQnozSTlPdWktbQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
     },
     {
       "id": "auto-2026-08-28-illegal-mining-10-illegal-miners-arrested-equipment-and-fire",
