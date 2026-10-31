@@ -1,13 +1,54 @@
 {
-  "updated": "2026-10-30T22:22:48.082Z",
+  "updated": "2026-10-31T05:40:58.274Z",
   "counts": {
-    "total": 1502,
+    "total": 1509,
     "verified": 28,
-    "automated": 1474,
+    "automated": 1481,
     "earliest": "2024-07-01",
-    "latest": "2026-10-30"
+    "latest": "2026-10-31"
   },
   "incidents": [
+    {
+      "id": "auto-2026-10-31-galamsey-fight-operation-water-shield-has-reduced-changfans-",
+      "date": "2026-10-31",
+      "category": "water",
+      "title": "Galamsey fight: Operation Water Shield has reduced changfans on Tano River",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "The number of changfans operating on the Tano River has significantly reduced following sustained anti-illegal mining operations by the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Spokesperson for NAIMOS, Paa Kwesi Schandorf has disclosed.",
+      "metrics": {},
+      "source": {
+        "name": "NAIMOS Spokesperson",
+        "url": "https://3news.com/news/galamsey-fight-operation-water-shield-has-reduced-changfans-on-tano-river-naimos-spokesperson"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-operation-water-shield-has-reduced-changfans-on-tano-river-naimos-spokesperson",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-10-31T05:35:30.156Z",
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-10-31-adom-news-gets-results-abesua-galamsey-damaged-bridge-underg",
+      "date": "2026-10-31",
+      "category": "arrest",
+      "title": "Adom News gets results: Abesua galamsey-damaged bridge undergoes repairs",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Four people have been arrested and are in police custody following Adom and Adom News’ exclusive report on the destruction of the only access bridge linking several communities in the Abesua Electoral Area of the Atwima Mponua District in the Ashanti Region. The development follows the intervention of President John Mahama and the Ashanti Regional […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/adom-news-gets-results-abesua-galamsey-damaged-bridge-undergoes-repairs/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/adom-news-gets-results-abesua-galamsey-damaged-bridge-undergoes-repairs/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
+    },
     {
       "id": "auto-2026-10-30-galamsey-naimos-arrests-11-suspected-illegal-miners-in-weste",
       "date": "2026-10-30",
@@ -111,6 +152,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oQV90aVJ5QUkySkYwVk54TzNrSXhpTmhfTjVtLVhDUkh3ak5iOHJZbFNjS3d6WHA3NlY4clpubl92TmZVbFlIRXVFVUNpSy1kMUpjelU5MV94MVZPWFpmczRQWWfSAVxBVV95cUxPVVE1SUFWVjYtTS1sNmtMQmZCdzB2MWlib2ctZEEteE44UXdYeThDVThEU1hrb0dVNFpvSUNLcG9vb3hpMXlGZzJoc1M3RkFvX0NxQU5VRklob05KTw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-10-31T05:36:47.750Z",
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
@@ -132,7 +174,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMic0FVX3lxTE1Vd2R0WUtHS3hjVFhRZkxoM0lMYm51enJUY09qNUNXMXBYVTB2X0xBTGI2UkNEYU1tdGc1X1Raa3N4cVAyRl81dFJQbUNENUlrWHpZVU5aYUljR3VfdXAtREUxMlZnZThQUkppamRfd2JmZ3M?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-31T05:37:01.253Z"
     },
     {
       "id": "auto-2026-10-30-akufo-addo-government-fought-anti-galamsey-campaigners-not-i",
@@ -333,7 +376,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSVBsaXY2WFdwdklaZ0lJUXVmaTgxeENfT05jN3cyRmhnZ1FrMjQyZmVrQUs1MjBoOEJXOVJxcktVLXJoSmJNdG9hWHZMS3N1T1pKWFE3VWs3SXMxVUl1RGp2WUNBQUdvVmNjZEZKRUVEcndJS1VtenJORG4tbkpPZHRRbHE0ZVRqOHl2RWtjX21tSUplbUJuOWNCOF8wcG0tSGV6NWFWcnZKRExxRUpRdUtCSXR0a3FWNzVJ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-10-31T05:40:00.340Z"
     },
     {
       "id": "auto-2026-10-30-naimos-raids-illegal-mining-site-at-enchi-arrests-three-susp",
@@ -510,6 +554,85 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-10-30-joynews-gets-results-mahama-intervenes-four-arrested-as-abes",
+      "date": "2026-10-30",
+      "category": "arrest",
+      "title": "JoyNews gets results: Mahama intervenes, four arrested as Abesua galamsey-damaged bridge undergoes repairs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "JoyNews gets results: Mahama intervenes, four arrested as Abesua galamsey-damaged bridge undergoes repairs MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmpNY0ZYYWRNTm9sOXZCWEV5VWJBZDcxT3laekFZTVBDMWg0UmRZRU5JNHRGMnY0TjMteDhHdFAzVjB5VGhIUFNqb1N4SnQwY29NZTBiU2dERWZmOHEzaFFSS21hUjdXRGJmTDNXQjdRYU9qbktLUjdnY2tMQ2ZFN1RjN1hhc2ZSdlByR0t2RGhUZWJmUmJ3VDYwSWtqcXduS0NsS210YlZEazFxTlBSaG5QS1JTTWlkcnpkcW1oYjFtcG90Y0tDTmp2N2ZRZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmpNY0ZYYWRNTm9sOXZCWEV5VWJBZDcxT3laekFZTVBDMWg0UmRZRU5JNHRGMnY0TjMteDhHdFAzVjB5VGhIUFNqb1N4SnQwY29NZTBiU2dERWZmOHEzaFFSS21hUjdXRGJmTDNXQjdRYU9qbktLUjdnY2tMQ2ZFN1RjN1hhc2ZSdlByR0t2RGhUZWJmUmJ3VDYwSWtqcXduS0NsS210YlZEazFxTlBSaG5QS1JTTWlkcnpkcW1oYjFtcG90Y0tDTmp2N2ZRZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+    },
+    {
+      "id": "auto-2026-10-30-this-saturday-on-prime-insight-npp-restructuring-galamsey-fi",
+      "date": "2026-10-30",
+      "category": "policy",
+      "title": "This Saturday on Prime Insight: NPP restructuring, galamsey fight and presidential tenure",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Political party restructuring, the fight against illegal mining and the legal challenge over presidential tenure are expected to dominate discussions on Joy Prime’s Prime Insight programme on Saturday, October 31.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/this-saturday-on-prime-insight-npp-restructuring-galamsey-fight-and-presidential-tenure/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/this-saturday-on-prime-insight-npp-restructuring-galamsey-fight-and-presidential-tenure/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-30-changfans-on-river-tano-have-reduced-thanks-to-naimos-naimos",
+      "date": "2026-10-30",
+      "category": "water",
+      "title": "Changfans on River Tano have reduced thanks to NAIMOS – NAIMOS Spokesperson",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) says the number of changfan machines operating on the River Tano has reduced significantly following sustained enforcement under its Operation Water Shield campaign against illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/changfans-on-river-tano-have-reduced-thanks-to-naimos-naimos-spokesperson/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/changfans-on-river-tano-have-reduced-thanks-to-naimos-naimos-spokesperson/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-10-30-four-including-two-unit-committee-members-arrested-for-leasi",
+      "date": "2026-10-30",
+      "category": "arrest",
+      "title": "Four, including two Unit Committee members arrested for leasing land to galamsey operators at Abesua",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Four persons, including two unit committee members are among arrested in connection with illegal mining activities that led to the collapse of the bridge over River Kukubu in the Abesua community of the Atwima Mponua District in the Ashanti Region. The other two suspects are illegal miners who were operating along the riverbanks. The bridge, […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/four-including-two-unit-committee-members-arrested-for-leasing-land-to-galamsey-operators-at-abesua/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/four-including-two-unit-committee-members-arrested-for-leasing-land-to-galamsey-operators-at-abesua/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
     },
     {
       "id": "auto-2026-10-29-galamsey-fight-naimos-commences-community-engagement-to-comp",
@@ -1062,6 +1185,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE52U3ZiQkxHS1FkQlV4cmdhMzl2bTByZFRxaXU1cENUVUd4VXJzTmNMUmp4Ymp6UXlwOUhiRTBaYzFKRy1PdkxJNkhzQnVyclZCOXZLcjlvRDZFY1lrUzRhclJfN2vSAVxBVV95cUxNejAwYTJYSDFuR2ZzMG9MT1lseXh1emIyVGpFcmZlSnNCRFozMEFCSXQ0Wk5TNVZlZHk0cWprNmp0TkY0dW1aZl93dENCYlV4M0ZGV3NKSjRXaGE4Vw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-live-news-central-fight-against-illegal-mining-29-10-2026",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "LIVE: News Central; Fight Against Illegal Mining || 29-10-2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: News Central; Fight Against Illegal Mining || 29-10-2026 Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOX2VPSTNrbWVsczFhWXZVMHlINW9DZEpSUDBXU2lyWWV6cnlCNWtuX3Ywei1HdGZwaV83RlFBUGxyc3Y2S0VEUkdYZWY2bWZ3Z01sUF9nMmxXMFhFYnh30gFcQVVfeXFMT1ZlZnFUbmpDZHNWTGFYYzJWWXNkeFRnU2NUakxXcE5tM2Zpc0F3MTNrZEZLRlR2d2JfLURnSlBpXzBsYlRmMDA5czBqbWdsWEMyYlJldFlubG9pajQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOX2VPSTNrbWVsczFhWXZVMHlINW9DZEpSUDBXU2lyWWV6cnlCNWtuX3Ywei1HdGZwaV83RlFBUGxyc3Y2S0VEUkdYZWY2bWZ3Z01sUF9nMmxXMFhFYnh30gFcQVVfeXFMT1ZlZnFUbmpDZHNWTGFYYzJWWXNkeFRnU2NUakxXcE5tM2Zpc0F3MTNrZEZLRlR2d2JfLURnSlBpXzBsYlRmMDA5czBqbWdsWEMyYlJldFlubG9pajQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-31-channel-one-tv-live-the-fight-against-galamsey-a-closer-look"
     },
     {
       "id": "auto-2026-10-28-forestry-commission-plans-armed-camps-to-protect-subri-fores",
@@ -10577,7 +10720,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oRFo5U09BTmdaeTloekJ1S3oxZ2RldkNTLWZwU0FabFVMYTQzazF0TnJGcWpDRUVlQTNXdUY5WU15ZWlNOXBpSWxicjQwb0FpX25KZEFjM1Q3RDc1cFg4TGUzZDjSAVxBVV95cUxPQW1FbWJtSHowbVlUbGdHZzE0TzFXVW50cC02UzFBMGdjakJ3SDlzS0hfckRZU05BclNBMXB0aTVITURVSVB2Y0d1RmZhalVzS29HNDBmYTBIRWFBcQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-10-01-mahama-cites-nine-cleared-forests-as-galamsey-emergency-call",
@@ -12162,7 +12305,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:04.629Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-09-25-13-illegal-miners-arrested-at-osino-during-naimos-operation-",
@@ -12185,7 +12328,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:26:29.038Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-12-illegal-miners-at-osino",
@@ -12366,7 +12509,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:01:43.315Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-09-25-naimos-arrests-13-suspected-illegal-miners-during-an-operati",
@@ -12389,7 +12532,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-27T17:02:07.987Z",
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-09-25-illegal-mining-naimos-destroys-eqipment-belonging-to-illegal",
@@ -19001,7 +19144,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kSjF1Ti1oTlk5VGMyamw2dkJKSWhlUHFJbUxydFZYazA2b3RxMVoyYTdwczlGMlRtWkRmQnJXSEw4Z3RBbmVSM1hMNXV1d0t1TUZkOE9XaTliMUdvZ0hRX25zc0TSAVxBVV95cUxPU0s4Tm0wM2VfYnhfazlzWnVtcDBFQTdPTzAzUmp5ZVBPSXFYQVR1T2xONmMtMllJQmk5Q3RHOHVENTJ5MGZ0eWFPTEdva2hKVHhYbWVVUHZxS2syMg?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
     },
     {
       "id": "auto-2026-08-28-is-this-a-disaster-waiting-to-happen-galamsey-exposed",
