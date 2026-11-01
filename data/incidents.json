@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-01T06:02:18.474Z",
+  "updated": "2026-11-01T13:22:42.898Z",
   "counts": {
-    "total": 1559,
+    "total": 1561,
     "verified": 28,
-    "automated": 1531,
+    "automated": 1533,
     "earliest": "2024-07-01",
     "latest": "2026-11-01"
   },
@@ -30,6 +30,48 @@
       "verified": false,
       "archivedAt": "2026-11-01T05:57:58.689Z",
       "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-01-naimos-amenfi-west-mp-agree-to-strengthen-collaboration-agai",
+      "date": "2026-11-01",
+      "category": "arrest",
+      "title": "NAIMOS, Amenfi West MP agree to strengthen collaboration against illegal mining",
+      "place": "Amenfi West",
+      "region": "Western",
+      "lat": 5.7,
+      "lon": -2.2,
+      "summary": "The Director of Operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Colonel K. S. Appiah, has held discussions with the Member of Parliament for Amenfi West, Hon. Dr Eric Afful, on measures to strengthen stakeholder collaboration in the fight against illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-amenfi-west-mp-agree-to-strengthen-collaboration-against-illegal-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-amenfi-west-mp-agree-to-strengthen-collaboration-against-illegal-mining/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-01T13:16:40.701Z",
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-11-01-galamsey-fight-naimos-boss-holds-talks-with-amenfi-west-mp-t",
+      "date": "2026-11-01",
+      "category": "arrest",
+      "title": "Galamsey fight: NAIMOS boss holds talks with Amenfi West MP to deepen collaboration in tackling illegal mining",
+      "place": "Amenfi West",
+      "region": "Western",
+      "lat": 5.7,
+      "lon": -2.2,
+      "summary": "The Director of Operations of the National Anti-Illegal Mining Operations Secretariat (NAIMOS), Colonel K. S. Appiah, has held talks with the Member of Parliament for Amenfi West, Dr Eric Afful, to deepen stakeholder collaboration in the fight against illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/galamsey-fight-naimos-boss-holds-talks-with-amenfi-west-mp-to-deepen-collaboration-in-tackling-illegal-mining"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-boss-holds-talks-with-amenfi-west-mp-to-deepen-collaboration-in-tackling-illegal-mining",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-01T13:16:53.513Z",
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
     },
     {
       "id": "auto-2026-10-31-galamsey-fight-operation-water-shield-has-reduced-changfans-",
@@ -172,7 +214,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXdWX05FSVFxbjBZazNfVlYwdmR6VEI5UTZTZTNfZUsxaDVjZ3JUNjJadU9DTTNNRlJ3QWRnc1pPZVZzbmtBOThxbU5MOWdVTk5SUG0tXzFVd2hwdzFGdW1RSEJNZmFJLWpaM3p0NFBNQWRsQlI3ZFI5Z0hPeEoyb21oVi1Fd3lYLU5aanFINW04amhGZWFBZEZR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-01T13:17:06.478Z"
     },
     {
       "id": "auto-2026-10-31-naimos-not-adequately-equipped-to-fight-galamsey-awula-serwa",
@@ -191,7 +234,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQMHZTSTJFalFjZnpTaU5MNnhOYktSQlUyUUJYcHBhcGk0Tmdna0NMYkYtT21fT2RFdEJiV3ZXV1AtbVhISjdpaUxTVzlZSXptUmtKbktkV0VCUE5aWWtSWUVjdUhvS0FPMmpYSXFUWUJqMDItWnMyeFZYajdWWU5wZC1tSmlIcG1ldFVyNHJlcWplTlhV?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-01T13:17:43.689Z"
     },
     {
       "id": "auto-2026-10-31-galamsey-has-gotten-out-of-hand-sulemana-braimah",
@@ -391,6 +435,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/live-the-keypoints-unlicenced-small-scale-mining-presidential-term-and-minerals-commission-vs-northern-ashanti-mine",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-01T13:20:53.913Z",
       "thread": "t-arr-2025-04-18-samreboi"
     },
     {
