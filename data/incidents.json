@@ -1,13 +1,36 @@
 {
-  "updated": "2026-10-31T21:35:13.955Z",
+  "updated": "2026-11-01T06:02:18.474Z",
   "counts": {
-    "total": 1555,
+    "total": 1559,
     "verified": 28,
-    "automated": 1527,
+    "automated": 1531,
     "earliest": "2024-07-01",
-    "latest": "2026-10-31"
+    "latest": "2026-11-01"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
+      "date": "2026-11-01",
+      "category": "arrest",
+      "title": "River Offin: NAIMOS raids 6 galamsey sites, destroys 4 chanfang platforms",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "River Offin: NAIMOS raids 6 galamsey sites, destroys 4 chanfang platforms CitiNewsroom.com",
+      "metrics": {
+        "changfan": 4
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1ZPMFRCRVc3bTczZTBUaWllMkVEWm1FVmdwcHc2a1pvaDlpSXItTXBHNFhVenJFYXVNYkZoeVloSHFZOWdfNzFsbGhQTmwtXzNUSW1tNnJvOUNFZlhpYlJsd2lwSmNfTC1vZzNPcG1EQnM1WVBTTDI2RTFic1R4blFtbEpxUTBNSEJJY3RyMDh1OWE0ekRqVktXLUtPVzFzalB4SE5ST1BBOXZtOHc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ1ZPMFRCRVc3bTczZTBUaWllMkVEWm1FVmdwcHc2a1pvaDlpSXItTXBHNFhVenJFYXVNYkZoeVloSHFZOWdfNzFsbGhQTmwtXzNUSW1tNnJvOUNFZlhpYlJsd2lwSmNfTC1vZzNPcG1EQnM1WVBTTDI2RTFic1R4blFtbEpxUTBNSEJJY3RyMDh1OWE0ekRqVktXLUtPVzFzalB4SE5ST1BBOXZtOHc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-01T05:57:58.689Z",
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
     {
       "id": "auto-2026-10-31-galamsey-fight-operation-water-shield-has-reduced-changfans-",
       "date": "2026-10-31",
@@ -109,7 +132,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisgFBVV95cUxPZHpWdURoUHJzTGw1TTFHdHlXbV82aUJmdzFEMlFvNEVmMHpFemRfNEx6OEpfOTdscTVZQWZSRDAxcVJ5QnFzbzFYWWVkNU1XUFVaSW9kNEhMSmpOcGRCQWZEZzFEZ2tqWWVZVGRVNHQ2ZlR6Q2ZJa1E2TmJEX05sSVRvQ2RYUTd0ekczSWxzRlVaSl9ueEZBSXYwNmwxM09YUWpwUFRrM2lfMS02ekstRldR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-01T05:58:11.447Z"
     },
     {
       "id": "auto-2026-10-31-galamsey-ghana-still-faces-national-emergency-says-awula-ser",
@@ -128,7 +152,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFB6LTNhTUZjZXR1N0xHYVI1MTNnc1lONjh5elRJUmlCb2V2X095bExVSmJIYldab3lZdEJfeHg4N0pubVJDUUpwdEYtbXBsdTRRYWVORkczRFhUbmM1T0EyT0NPYVVHaGpNR0lxQWdueXFYVHdkODZRMEtOTXUtZ0dCc1pUNmoxVHpXX21EelVLdFR0YXRF?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-01T05:58:24.196Z"
     },
     {
       "id": "auto-2026-10-31-naimos-needs-to-be-better-equipped-for-galamsey-fight-awula-",
@@ -922,6 +947,68 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-10-31-galamsey-fight-naimos-intensifies-crackdown-on-illegal-minin",
+      "date": "2026-10-31",
+      "category": "arrest",
+      "title": "Galamsey fight: NAIMOS intensifies crackdown on illegal mining in Wassa Akropong.",
+      "place": "Wassa Akropong",
+      "region": "Western",
+      "lat": 5.77,
+      "lon": -2,
+      "summary": "Galamsey fight: NAIMOS intensifies crackdown on illegal mining in Wassa Akropong. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Q1BqMzh2eEtyd1BLZlBfWDd3M3dOZ2M1LTZKQkNseURENUk0VWhudENLbjVRUDllT2tRbUpCLWR3dnFiU19wQXFGUUhFTmdPdEU0V1RjVS1CbUVEcEloWEZjdkHSAVxBVV95cUxPSlJnQzNUcU8xUHQtLXR5bDByZDNjSTlPcWIyLUVhYjcwSlp5RWhkZC0xMlc4VVdIeTA1bDNDLUhOOUFFS0lrc1ZrTWtHVDYwU0htcFRPZnVKRkZtVA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Q1BqMzh2eEtyd1BLZlBfWDd3M3dOZ2M1LTZKQkNseURENUk0VWhudENLbjVRUDllT2tRbUpCLWR3dnFiU19wQXFGUUhFTmdPdEU0V1RjVS1CbUVEcEloWEZjdkHSAVxBVV95cUxPSlJnQzNUcU8xUHQtLXR5bDByZDNjSTlPcWIyLUVhYjcwSlp5RWhkZC0xMlc4VVdIeTA1bDNDLUhOOUFFS0lrc1ZrTWtHVDYwU0htcFRPZnVKRkZtVA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+    },
+    {
+      "id": "auto-2026-10-31-galamsey-fight-under-mahama-where-is-the-progress-newsfile",
+      "date": "2026-10-31",
+      "category": "forest",
+      "title": "Galamsey fight under Mahama: Where is the progress? | Newsfile",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight under Mahama: Where is the progress? | Newsfile Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMUVwQ21nUnBaM0pabFFfc1JsVjk4emY4eFd1MUtzWlV0QV9iNkhLT3lHclpJNk1Pbm9ELVlkRmctSDF4VEllVEVGb1B6allHSnJwYjh1dVZhUFc3X09IWi0wVzXSAVxBVV95cUxNNm01RGlMcVduV2p6WFludlc0c05rQk14d1ZRLXMxV0dnLVg1NzdoSkJmaXZpUTdwSmdFMktmdFV1Z2dpQThzTzVkMUZVNm5FUHNRS0FyV2hkWV82Nw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMUVwQ21nUnBaM0pabFFfc1JsVjk4emY4eFd1MUtzWlV0QV9iNkhLT3lHclpJNk1Pbm9ELVlkRmctSDF4VEllVEVGb1B6allHSnJwYjh1dVZhUFc3X09IWi0wVzXSAVxBVV95cUxNNm01RGlMcVduV2p6WFludlc0c05rQk14d1ZRLXMxV0dnLVg1NzdoSkJmaXZpUTdwSmdFMktmdFV1Z2dpQThzTzVkMUZVNm5FUHNRS0FyV2hkWV82Nw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-10-31-miif-leads-50-hectare-forest-restoration-project-in-sekyere-",
+      "date": "2026-10-31",
+      "category": "forest",
+      "title": "MIIF leads 50-hectare forest restoration project in Sekyere Krobo",
+      "place": "Subri River Forest Reserve",
+      "region": "Western",
+      "lat": 5.35,
+      "lon": -1.75,
+      "summary": "The Minerals Income Investment Fund (MIIF), in partnership with the Forestry Commission and supported by Zijin Golden Ridge Ghana and other partners has commissioned a five-year project to restore 50 hectares of degraded forest at the Subri River Forest Reserve in Sekyere Krobo, Western Region. The project, commissioned on October 29, 2026, forms part of […]",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/miif-leads-50-hectare-forest-restoration-project-in-sekyere-krobo/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/miif-leads-50-hectare-forest-restoration-project-in-sekyere-krobo/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
     },
     {
       "id": "auto-2026-10-30-galamsey-naimos-arrests-11-suspected-illegal-miners-in-weste",
@@ -2324,20 +2411,21 @@
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
       "date": "2026-10-28",
       "category": "water",
-      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
+      "title": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
+      "summary": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQ2MyT3J1ektlanN0eU1XMGViUEJCUDZoZjVTVnYtRnJaV0J0U2d2Vy0yUWNUT2Flemp5eFZqRnlheFI0aWxSQkpyMV9IQ1NtbF93SDF0eHNnSVFCNnY1TTRrN2_SAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQ2MyT3J1ektlanN0eU1XMGViUEJCUDZoZjVTVnYtRnJaV0J0U2d2Vy0yUWNUT2Flemp5eFZqRnlheFI0aWxSQkpyMV9IQ1NtbF93SDF0eHNnSVFCNnY1TTRrN2_SAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -12312,7 +12400,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z"
+      "archivedAt": "2026-09-29T05:41:31.699Z",
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
