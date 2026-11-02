@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-02T06:01:48.358Z",
+  "updated": "2026-11-02T15:49:58.374Z",
   "counts": {
-    "total": 1575,
+    "total": 1591,
     "verified": 28,
-    "automated": 1547,
+    "automated": 1563,
     "earliest": "2024-07-01",
     "latest": "2026-11-02"
   },
@@ -47,6 +47,328 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
+    },
+    {
+      "id": "auto-2026-11-02-galamsey-and-the-failure-of-those-entrusted-with-local-power",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "Galamsey and the Failure of Those Entrusted with Local Power.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey and the Failure of Those Entrusted with Local Power. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzhIS1F1OENBQmxBd1psOG9JVzNQUjNiMkFPdWtHMy1xMVZjZ3NLVnlxeklCRVoxTWVEYnlYamVZUDBFSm00SnM3VklLN09aSkQ4Y19UZTdPMGJrbTlRT3B2ZjFnTHh0UzRmMVVKYVhFRjRnMHk0cEZqdE8xMXhQSEhKSF95Y000LW01RVdXS2ZEeF9zdEVhaEpR0gGYAUFVX3lxTE5QZlpIb3RDaFZIY1VUMHlMamJLczRxU0pRUGM1RUM5MzB5cFZZVUJyZkJGblplREFZU3Q2eDhwZ1dxaUpvN2RqbWtpeG9pRXdzUHB5WXlhUl9FOFpRZ241NTlCRFFPU2t1c09iWXZyTU81Q2EwTGVGUi1CdUs1OXFaOG4wU19JWHdELUpXVUFUQ0FEWDdIU2JN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzhIS1F1OENBQmxBd1psOG9JVzNQUjNiMkFPdWtHMy1xMVZjZ3NLVnlxeklCRVoxTWVEYnlYamVZUDBFSm00SnM3VklLN09aSkQ4Y19UZTdPMGJrbTlRT3B2ZjFnTHh0UzRmMVVKYVhFRjRnMHk0cEZqdE8xMXhQSEhKSF95Y000LW01RVdXS2ZEeF9zdEVhaEpR0gGYAUFVX3lxTE5QZlpIb3RDaFZIY1VUMHlMamJLczRxU0pRUGM1RUM5MzB5cFZZVUJyZkJGblplREFZU3Q2eDhwZ1dxaUpvN2RqbWtpeG9pRXdzUHB5WXlhUl9FOFpRZ241NTlCRFFPU2t1c09iWXZyTU81Q2EwTGVGUi1CdUs1OXFaOG4wU19JWHdELUpXVUFUQ0FEWDdIU2JN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
+    },
+    {
+      "id": "auto-2026-11-02-fight-against-galamsey-13-arrested-for-illegal-mining-on-the",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "Fight against galamsey: 13 arrested for illegal mining on the Offin River",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "Fight against galamsey: 13 arrested for illegal mining on the Offin River Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DVURKZEZxNmZMWVhpVEtZMG80cmVzc1dmMEU5Vy1NQkxNeUlTaWUxa0dSeUhJZGlWZC16bU9KNGdpQTA1MEYxWmpZbUR5R3RiWW1DNlIyMzdoLXF5bk84X2l2U0fSAVxBVV95cUxOOFdkQ0M4UVVCRFhhclQxMTROS3d5cGYyelZCb291WDlpaTJkOXViTFlMU3hLOXBtZVB2ZmJPYnpiVUYzeDhUbWlXdUc0UHp4Ny1XMHdDNHlFU0hSYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DVURKZEZxNmZMWVhpVEtZMG80cmVzc1dmMEU5Vy1NQkxNeUlTaWUxa0dSeUhJZGlWZC16bU9KNGdpQTA1MEYxWmpZbUR5R3RiWW1DNlIyMzdoLXF5bk84X2l2U0fSAVxBVV95cUxOOFdkQ0M4UVVCRFhhclQxMTROS3d5cGYyelZCb291WDlpaTJkOXViTFlMU3hLOXBtZVB2ZmJPYnpiVUYzeDhUbWlXdUc0UHp4Ny1XMHdDNHlFU0hSYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-02T15:44:59.312Z"
+    },
+    {
+      "id": "auto-2026-11-02-naimos-vows-to-intensify-anti-galamsey-operations-13-arreste",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "NAIMOS vows to intensify anti-galamsey operations: 13 arrested following River Offin operations.",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "NAIMOS vows to intensify anti-galamsey operations: 13 arrested following River Offin operations. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JYUpSU1JxWVVJdHdGUTlDUU9LTlJpdkg2MTdIQk5CX0RyTlk1dGhCdWNmYnlFLVh3TXNJeFVGR24tQTRpMzMwV0pYbXltU1BEcDY5Zl9tX280Nmdrb3RPUnozNmPSAVxBVV95cUxNOXNvQnRha1EtckNMX0k1WVhqQjJZSnBnQk1wRVZIWlZ5RG54bUNtWlcwem1fVGhHVkx0WVRVSjFNWU1Ca3J2ZU53eFA0aFFGREEyQ0VFcThpdWUxMg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JYUpSU1JxWVVJdHdGUTlDUU9LTlJpdkg2MTdIQk5CX0RyTlk1dGhCdWNmYnlFLVh3TXNJeFVGR24tQTRpMzMwV0pYbXltU1BEcDY5Zl9tX280Nmdrb3RPUnozNmPSAVxBVV95cUxNOXNvQnRha1EtckNMX0k1WVhqQjJZSnBnQk1wRVZIWlZ5RG54bUNtWlcwem1fVGhHVkx0WVRVSjFNWU1Ca3J2ZU53eFA0aFFGREEyQ0VFcThpdWUxMg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-02T15:45:24.503Z",
+      "thread": "t-auto-2026-10-26-offin-river-galamsey-crackdown-galamseyers-defy-naimos-soldi"
+    },
+    {
+      "id": "auto-2026-11-02-2-unit-ctte-members-arrested-for-leasing-land-to-galamsey-op",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "2 Unit Ctte Members arrested for leasing land to Galamsey operators after Abesua bridge collapse",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "2 Unit Ctte Members arrested for leasing land to Galamsey operators after Abesua bridge collapse Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UldvU0tfR2tRTldqMmpTak15eUJndlJhQ0Rzd3lsVjdsZEdoZElFT1RVQ25IeHFWVXhRQVlsbkt4cGxVVm0yZ1FsQ1gta0FUbWU5RTJkUEYxR1JZRmF2ek5rRDfSAVxBVV95cUxOUDhxazRCeFU5QlltbHp6OVlrTlF2LXdITGZ2Y1R4TFB6RGZQdFlvbHV1ZXFRUC02NEc2UWRyR3p2Y0gwYS13X3Q2bEtFZ1pXZnF2VVpXc3RpTDRhUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UldvU0tfR2tRTldqMmpTak15eUJndlJhQ0Rzd3lsVjdsZEdoZElFT1RVQ25IeHFWVXhRQVlsbkt4cGxVVm0yZ1FsQ1gta0FUbWU5RTJkUEYxR1JZRmF2ek5rRDfSAVxBVV95cUxOUDhxazRCeFU5QlltbHp6OVlrTlF2LXdITGZ2Y1R4TFB6RGZQdFlvbHV1ZXFRUC02NEc2UWRyR3p2Y0gwYS13X3Q2bEtFZ1pXZnF2VVpXc3RpTDRhUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-30-two-unit-committee-members-among-4-arrested-for-leasing-land"
+    },
+    {
+      "id": "auto-2026-11-02-naimos-arrests-suspected-illegal-miners-at-subin-akwaboaso",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "NAIMOS arrests suspected illegal miners at Subin Akwaboaso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests suspected illegal miners at Subin Akwaboaso MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmF0VHJRN0tRUml6YXFVQXlfSG96WVhWT0xjZ0dhLWUtSGZYa0dkZy1sT0IyRDZZUVlzRzhqQ0lqQm9SbGlUUmI5UU82Ri1ocGtkekNZWXRCT3ZhYkdvRk9KT2hsUFE4dDJkMndWRGtHU2w5R09URzNXLThqR19fb0RkeUVnNW5NN0NIQnlXaXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmF0VHJRN0tRUml6YXFVQXlfSG96WVhWT0xjZ0dhLWUtSGZYa0dkZy1sT0IyRDZZUVlzRzhqQ0lqQm9SbGlUUmI5UU82Ri1ocGtkekNZWXRCT3ZhYkdvRk9KT2hsUFE4dDJkMndWRGtHU2w5R09URzNXLThqR19fb0RkeUVnNW5NN0NIQnlXaXc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-02-naimos-arrests-suspected-illegal-miners-at-subin-akwaboaso"
+    },
+    {
+      "id": "auto-2026-11-02-gold-mining-formalisation-must-not-legitimise-environmental-",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "Gold mining formalisation must not legitimise environmental destruction – CLGB",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has urged the government to adopt a conditional and evidence-based approach to formalising Ghana’s artisanal and small-scale mining (ASM) sector, warning against granting legitimacy to operations that cause environmental destruction. The Chamber says the GoldBod-led formalisation programme presents an opportunity to address longstanding challenges in the sector through an ac",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/gold-mining-formalisation-must-not-legitimise-environmental-destruction-clgb/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/gold-mining-formalisation-must-not-legitimise-environmental-destruction-clgb/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-26-our-gold-their-value-illegal-mining-and-the-foreign-buyers-d"
+    },
+    {
+      "id": "auto-2026-11-02-naimos-warns-against-attacks-on-officers-after-resistance-at",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "NAIMOS warns against attacks on officers after resistance at Central Region operation",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has warned that individuals who obstruct its enforcement activities or attack its personnel will be referred to the appropriate authorities for further action.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-warns-against-attacks-on-officers-after-resistance-at-central-region-operation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-warns-against-attacks-on-officers-after-resistance-at-central-region-operation/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-02-miif-commissions-5-year-project-to-restore-50-hectares-of-de",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "MIIF commissions 5-year project to restore 50-hectares of degraded forest",
+      "place": "Subri River Forest Reserve",
+      "region": "Western",
+      "lat": 5.35,
+      "lon": -1.75,
+      "summary": "The Minerals Income Investment Fund (MIIF) has commissioned a five-year forest rehabilitation project to restore 50 hectares of degraded forest at the Subri River Forest Reserve. The move formed part of efforts to promote environmental sustainability and responsible management of the country’s mineral wealth. Speaking at the commissioning ceremony at Sekyere Krobo last Thursday, the Chief Executive Officer of MIIF, M",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-commissions-5-year-project-to-restore-50-hectares-of-degraded-forest.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-miif-commissions-5-year-project-to-restore-50-hectares-of-degraded-forest.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
+    },
+    {
+      "id": "auto-2026-11-02-goldbod-pumps-us-1-011bn-into-banks-targets-us-1-2bn-in-nove",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "GoldBod pumps US$1.011bn into banks, targets US$1.2bn in November",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) sold US$1.011 billion in foreign exchange to authorised commercial banks in October 2026 from its artisanal and small-scale mining (ASM) gold trading operations, as it targets US$1.2 billion in foreign exchange generation for November. In an announcement issued on Monday, November 2, 2026, the Board said the proceeds from its October gold trade operations were sold through its GoldBod G",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/goldbod-generates-1-011bn-in-forex-from-small-scale-gold-trade-in-october.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/goldbod-generates-1-011bn-in-forex-from-small-scale-gold-trade-in-october.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-02-nscs-engages-western-north-stakeholders-on-review-of-nationa",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "NSCS engages Western North stakeholders on review of National Security Strategy",
+      "place": "Western North Region",
+      "region": "Western North",
+      "lat": 6.21,
+      "lon": -2.48,
+      "summary": "The National Security Council Secretariat (NSCS) has engaged stakeholders in the Western North Region as part of consultations towards reviewing Ghana’s 2020 National Security Strategy (NSS). The engagement, held at Sefwi Wiawso, the regional capital, sought to solicit practical views and evidence-based inputs on security threats, risks and challenges peculiar to the region, particularly those relating to border secu",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-nscs-engages-western-north-stakeholders-on-review-of-national-security-strategy.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-nscs-engages-western-north-stakeholders-on-review-of-national-security-strategy.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-share-information-on-emerging-security-threats"
+    },
+    {
+      "id": "auto-2026-11-02-naimos-arrests-suspected-illegal-miners-at-subin-personnel-c",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "NAIMOS arrests suspected illegal miners at Subin; personnel confronted with guns, cutlasses",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The arrests were made on Sunday afternoon, November 1, 2026, during an enforcement operation involving NAIMOS personnel and members of the Special Boat Squadron (SBS).",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/naimos-arrests-suspected-illegal-miners-at-subin-personnel-confronted-personnel-with-guns-cutlasses-at-subin"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-arrests-suspected-illegal-miners-at-subin-personnel-confronted-personnel-with-guns-cutlasses-at-subin",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-02T15:48:09.373Z",
+      "thread": "t-auto-2026-11-02-naimos-arrests-suspected-illegal-miners-at-subin-akwaboaso"
+    },
+    {
+      "id": "auto-2026-11-02-naimos-arrests-suspected-illegal-miners-after-resistance-at-",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "NAIMOS arrests suspected illegal miners after resistance at Subin Akwaaboso",
+      "place": "Central Region",
+      "region": "Central",
+      "lat": 5.11,
+      "lon": -1.25,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has arrested some suspected illegal miners at Subin Akwaaboso in the Central Region following an enforcement operation on Sunday, November 1, 2026. The operation, conducted by NAIMOS personnel and members of the Special Boat Squadron (SBS), reportedly encountered resistance from a group of individuals, some of whom were […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-arrests-suspected-illegal-miners-after-resistance-at-subin-akwaaboso/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-suspected-illegal-miners-after-resistance-at-subin-akwaaboso/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-02-naimos-arrests-suspected-illegal-miners-at-subin-akwaboaso"
+    },
+    {
+      "id": "auto-2026-11-02-goldbod-generates-1-011bn-from-gold-trade-in-october-project",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "GoldBod generates $1.011bn from gold trade in October, projects $1.2bn for November",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.011 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in October 2026. According to the GoldBod, the entire amount was sold to authorised commercial banks through its GoldBod GoFX platform to support stability in the foreign exchange market. In an announcement, […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/goldbod-generates-1-011bn-from-gold-trade-in-october-projects-1-2bn-for-november/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/goldbod-generates-1-011bn-from-gold-trade-in-october-projects-1-2bn-for-november/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-11-02-goldbod-generates-us-1-011-billion-in-october-projects-us-1-",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "GoldBod Generates US$1.011 Billion in October, Projects US$1.2 Billion for November",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Magdalene Andoh The Ghana Gold Board (GoldBod) has announced that it generated US$1.011 billion in foreign exchange from its Artisanal and Small-Scale Mining (ASM) gold trade operations in October 2026. According to a statement issued by its Finance and Trade Directorate on November 2, 2026, the entire US$1.011 billion generated was sold to authorised […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/goldbod-generates-us1-011-billion-in-october-projects-us1-2-billion-for-november/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-generates-us1-011-billion-in-october-projects-us1-2-billion-for-november/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-02-goldbod-generates-us-1-011-billion-in-forex-from-gold-trade-",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "GoldBod generates US$1.011 billion in forex from Gold trade in October",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ghana Gold Board (GoldBod) says it generated US$1.011 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in October 2026. According to the GoldBod, the entire amount was sold to authorised commercial banks through its GoldBod GoFX platform to support stability in the foreign exchange market. In an announcement … The post GoldBod generates US$1.011 billion in forex fr",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/goldbod-generates-us1-011-billion-in-forex-from-gold-trade-in-october/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/goldbod-generates-us1-011-billion-in-forex-from-gold-trade-in-october/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
+    },
+    {
+      "id": "auto-2026-11-02-subri-forest-restoration-miif-targets-30-000-trees-in-5-year",
+      "date": "2026-11-02",
+      "category": "reclamation",
+      "title": "Subri Forest restoration: MIIF targets 30,000 trees in 5 years",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "THE Minerals Income Investment Fund (MIIF), in partnership with the Forestry Commission (FC), has launched a reforestation programme at the Subri River National Forest Reserve at Sekyere Krobo in the Western Region, targeting the planting of 30,000 trees over five years. The initiative forms part of MIIF’s Environment, Social and Governance (ESG) programme and seeks … The post Subri Forest restoration: MIIF targets 3",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/subri-forest-restoration-miif-targets-30000-trees-in-5-years/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/subri-forest-restoration-miif-targets-30000-trees-in-5-years/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
     },
     {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
@@ -233,7 +555,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/chinese-nationals-introduced-to-our-concession-after-naimos-takeover-northern-ashanti-mines/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
       "id": "auto-2026-11-01-northern-ashanti-mines-warns-naimos-against-disconnecting-cc",
@@ -253,7 +575,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/northern-ashanti-mines-warns-naimos-against-disconnecting-cctv-cameras-at-konongo-mine/",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
       "id": "auto-2026-10-31-galamsey-fight-operation-water-shield-has-reduced-changfans-",
@@ -578,7 +900,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-challenges-ghanaians-to-make-courageous-domestic-investment.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-10-31-kas-marks-60-years",
@@ -618,7 +940,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-01T13:20:53.913Z",
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
       "id": "auto-2026-10-31-arrests-and-seized-equipment-not-enough-to-judge-galamsey-fi",
@@ -678,7 +1000,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TNEZjclZFazdhWmE1azJWQzN5TEt3ME1qaTZ1eXY5OG9GNlA2MzJVMEl5Q25kYXFWclFoQ0tjUHh1ZE5ZT25uNklmMkNJMjVNTVBNbEg5enBwMWJJZ3Qw0gFcQVVfeXFMT1ZMcTFJUkhXdWtpUERtMUVLdFE2YkNGb2VQVS0yRDljTGNxTTFCNVFvT2dKZXI5alRZOVR6YzFhbV8wcXk3RTA0cUVDUHYyRDZhNVNYa0F1aThZem8?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-10-29-live-news-central-fight-against-illegal-mining-29-10-2026"
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
       "id": "auto-2026-10-31-fight-against-galamsey-small-scale-miners-blame-licensing-de",
@@ -1802,7 +2124,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmpNY0ZYYWRNTm9sOXZCWEV5VWJBZDcxT3laekFZTVBDMWg0UmRZRU5JNHRGMnY0TjMteDhHdFAzVjB5VGhIUFNqb1N4SnQwY29NZTBiU2dERWZmOHEzaFFSS21hUjdXRGJmTDNXQjdRYU9qbktLUjdnY2tMQ2ZFN1RjN1hhc2ZSdlByR0t2RGhUZWJmUmJ3VDYwSWtqcXduS0NsS210YlZEazFxTlBSaG5QS1JTTWlkcnpkcW1oYjFtcG90Y0tDTmp2N2ZRZw?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-10-30-two-unit-committee-members-among-4-arrested-for-leasing-land"
+      "thread": "t-auto-2026-07-30-no-hiding-place-why-the-mpohor-fiase-galamsey-case-must-be-t"
     },
     {
       "id": "auto-2026-10-30-this-saturday-on-prime-insight-npp-restructuring-galamsey-fi",
@@ -2509,8 +2831,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOX2VPSTNrbWVsczFhWXZVMHlINW9DZEpSUDBXU2lyWWV6cnlCNWtuX3Ywei1HdGZwaV83RlFBUGxyc3Y2S0VEUkdYZWY2bWZ3Z01sUF9nMmxXMFhFYnh30gFcQVVfeXFMT1ZlZnFUbmpDZHNWTGFYYzJWWXNkeFRnU2NUakxXcE5tM2Zpc0F3MTNrZEZLRlR2d2JfLURnSlBpXzBsYlRmMDA5czBqbWdsWEMyYlJldFlubG9pajQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-10-29-live-news-central-fight-against-illegal-mining-29-10-2026"
+      "verified": false
     },
     {
       "id": "auto-2026-10-29-naimos-arrests-over-30-suspected-illegal-sand-winners-in-vol",
@@ -2736,21 +3057,20 @@
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
       "date": "2026-10-28",
       "category": "water",
-      "title": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities",
+      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities Modern Ghana",
+      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -3646,7 +3966,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-27T12:10:30.074Z",
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
       "id": "auto-2026-10-26-galamsey-has-over-the-years-been-dominated-by-ruling-party-m",
@@ -4163,7 +4483,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkV1hnMDQtZW45Tk01ajFJakdBUENucVRfTWFnQWI2cXFQdzh4R3VHRVl3cTdnRmNSNFRSVE5fa3FFZjM2R1hYUG1kMHc2Z1piY18wQXFHNWJvMkpUeEFpLWVDRknSAVxBVV95cUxNLUwwTzBPTUxxLXVma3RFbW1SS3lGSG9MTGljQUxkTUJCNV9PaElTMFBJbVN0MUFhcjJHenFJM1k4TEZpRVpiMnllRWhtT3ltOWtZaWJKWFo3Ql9ITA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-arr-2025-04-18-samreboi"
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
       "id": "auto-2026-10-26-sammy-gyamfi-under-fire-over-galamsey-regularization-proposa",
@@ -6898,7 +7218,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbTFWaW5DaGVELUdxVUFoTW1UeFpQVkRESFZ4Mk5pdWRDWURkdVlLNWNFcVAzQ3IyWDE5REtUcHNJWkFvYXRiNDJXVEVHRmUyLWdQNTVtOXZGdlZPVk9yLS04aUlLcDEweGlZcTVYVW9LbnZVR21oTHdIQ0NBdG1KNEVQNHNXZnNYRU9WNlVPYVM1Q1ZDSGVDQVc3VzBJLThJbHRxQ3g0VzNMVTg1RWhFY2RCMmNIb0hrUFc3ZXNGLTRzVWQ0Qkt3M1I0RllXSEQ3eHFBUVJNVEZFT2tvTjlZ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-20T04:46:21.320Z"
+      "archivedAt": "2026-10-20T04:46:21.320Z",
+      "thread": "t-auto-2026-08-28-scaling-up-small-scale-mining-key-to-tackling-galamsey-bawum"
     },
     {
       "id": "auto-2026-10-19-gov-t-seizes-8-200-items-in-galamsey-fight-including-135-exc",
@@ -7485,7 +7806,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/48-forest-reserves-have-been-breached-by-illegal-miners-mahama/2026/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-10-19-deploy-more-military-police-to-fight-galamsey-christian-coun",
@@ -12725,8 +13046,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z",
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "archivedAt": "2026-09-29T05:41:31.699Z"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
@@ -15150,7 +15470,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-share-information-on-emerging-security-threats-dr-mohammed-to-stakeholders.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-15-share-information-on-emerging-security-threats"
     },
     {
       "id": "auto-2026-09-15-galamsey-encroaches-on-57-forest-reserves-a-rocha-ghana",
@@ -20514,7 +20835,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTlnbnRWZ1FXVjFTUVhlM2U0V1NtSThCZFhFLTF3enU4ckRLTHdaNmo2WVJhMnRCenhxb0tqZ05YUWxPNmw5RGtuQTM3OWwzeDVqdzk4RnF6cDNSeUVFalNHUEZZTUZuQ1NLeDkydm9GX0gtRGV3dzNaQllaODFrWFFyZW9jSlhQeGM0ZWRrWEF0ajRISk41ZkI1QkM3Q1RENE83d18zeFNyMUt3Z3B1S3g5UXNxUnJfRXJ4aU1B?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-28-scaling-up-small-scale-mining-key-to-tackling-galamsey-bawum"
     },
     {
       "id": "auto-2026-08-28-naimos-black-volta-illegal-mining-raid-leads-to-10-arrests-e",
@@ -21068,7 +21390,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-chamber-of-mines-adamus-welcome-govt-efforts-to-revive-mine.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines"
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
     },
     {
       "id": "auto-2026-08-26-justice-must-guide-africa-s-energy-transition-former-lands-m",
@@ -22302,8 +22624,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Rm9jTTY4aVJvVXZZTEdHT2FrOUh0TjNnTU4zbExETmxvbDZPMEtrdnRQQ2szRW9DVWpTNDItSUVWbEJSQi1GMlROVHRKM0dhMkhMSUNxaHhySTduZDBv0gFcQVVfeXFMUFI0VmxqNF9oNEN3eFdScUotT3hhQlNjSTlZNmxVQXQzWlZqOFZCV2x0ZmRJODlFNDBJN3NnYzhZTDhiQlVNUC1CcFk0UVN4LUxnQ1I3N2ZZN2hoaXo?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-galamsey-crisis-some-people-in-government-are-involved-mines"
+      "verified": false
     },
     {
       "id": "auto-2026-08-24-former-lands-minister-proposes-independent-body-to-fight-gal",
@@ -26847,8 +27168,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXY0Ti02WjhRbWV0WjFJZUtZemZPMmJ0eW5UcFpjZmlRdGV5LXh4bFBFVmVmbkRyMkJNeG52emhGTjh5QWkzY3BqWWJpS0M1RVhDNEdvcGNOcUh4YTlxbEU2S2VLNExVQ05nM3Z6NjZtS1p1QmlFLThselNDLUJfcUVnZ1dGNzlwekRDQ2tMVGVLMnpISE0ySWZVSUtQdXNnY2tXNDBETm9zbkI3Qk1sMnRKVnlzTnBOeWR3UVlOaDFhR2Q0QllYdDJOUGJwZmo0b2lXd3MxMEVDZUpfaVJV?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "verified": false
     },
     {
       "id": "auto-2026-08-12-26-illegal-miners-arrested-in-mpohor-fiase-anti-galamsey-ope",
