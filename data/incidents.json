@@ -1,13 +1,53 @@
 {
-  "updated": "2026-11-01T22:05:50.320Z",
+  "updated": "2026-11-02T06:01:48.358Z",
   "counts": {
-    "total": 1572,
+    "total": 1575,
     "verified": 28,
-    "automated": 1544,
+    "automated": 1547,
     "earliest": "2024-07-01",
-    "latest": "2026-11-01"
+    "latest": "2026-11-02"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-02-ghana-needs-action-not-manifesto-to-end-galamsey-jantuah",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "Ghana needs action, not manifesto, to end Galamsey – Jantuah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana needs action, not manifesto, to end Galamsey – Jantuah Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnhiaGFJa25Uckdld2pLVEx5WUlkSllMeF9FZXAtbUZXVW9oZDY5WDREWWlJZzRCQkhEbDdQbmNMd3E4LVl6blAxZXRYRHQwZFNyRGlkQm1KdklwYlRnUnRrQ1g4WTFOVWI2dTdjbTBqRnVzR0t3dkJmbnNYWWU4SFVBY3VxRHZt?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnhiaGFJa25Uckdld2pLVEx5WUlkSllMeF9FZXAtbUZXVW9oZDY5WDREWWlJZzRCQkhEbDdQbmNMd3E4LVl6blAxZXRYRHQwZFNyRGlkQm1KdklwYlRnUnRrQ1g4WTFOVWI2dTdjbTBqRnVzR0t3dkJmbnNYWWU4SFVBY3VxRHZt?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
+    },
+    {
+      "id": "auto-2026-11-02-galamsey-declare-state-of-emergency-hold-chiefs-mmdces-accou",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "Galamsey: declare state of emergency; hold chiefs, MMDCEs accountable – Jantuah tells Mahama gov't",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: declare state of emergency; hold chiefs, MMDCEs accountable – Jantuah tells Mahama gov't Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXFGdkJZakpYMmgxU0R0dXFPTGZxMmF2MXMxLU9ody1SMV9USnloTFlHa1ZwMVdWcWN0V1h3R2RNLVU4M1VQTVBvUElyOGttZGV0cEsxaU9LWHVZV29NUWVRa24tOGczMGZHTHdLR2o4bVFWMEVDa25MOUZRbW1FU296N2luMWc2ZzVPNF9kRlBLUjkzYXlJczdUX1FXSFN2UVc0MDBzc00zQm0tdkdLc2VrUEdUVE85?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXFGdkJZakpYMmgxU0R0dXFPTGZxMmF2MXMxLU9ody1SMV9USnloTFlHa1ZwMVdWcWN0V1h3R2RNLVU4M1VQTVBvUElyOGttZGV0cEsxaU9LWHVZV29NUWVRa24tOGczMGZHTHdLR2o4bVFWMEVDa25MOUZRbW1FU296N2luMWc2ZzVPNF9kRlBLUjkzYXlJczdUX1FXSFN2UVc0MDBzc00zQm0tdkdLc2VrUEdUVE85?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
+    },
     {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
       "date": "2026-11-01",
@@ -89,7 +129,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlBfTzM0ZTFEYVRwUXhob3NjcTdBbHBnc2lMZXpjb0xvSUp4cVk2RTVWWEVTMC14U2N0akJVZG02ZDdjelBnai01bkRjTFB3SDRWSDZqSjM1ZVQwUk90c01IanB1QVhjUjhjM2RMQVRGNGFHbjRxRWk1c3VXR01Vd2ZCTENRZzFSU0dJbl9jdGxvOGJYTTc1MHFOM1JMRmFCcDVnbHdB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-02T05:58:04.876Z"
     },
     {
       "id": "auto-2026-11-01-naimos-cracks-down-on-galamsey-in-adiembra-as-community-enga",
@@ -109,6 +150,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTklOVl9qWEg5alFYbzh2ekN6b3FtYmFxNEFBYU93bzZMUUNURzAxWHlpMlhZY29oTFBHUi1ieWlkZTFWSng3cmstaWJaRnFTWV96SzktWFRsUjJlX0VJ0gFcQVVfeXFMUFFzVnJDeUx2dmJvM0hqbWlhVFMyUzU5c2gwZkhSaTJZWUM5blFSSUVnbTRKaGRhREgxamJuVFpGcGduVVp5bjZCY2hDek1TWm1oNjNjb0F3NDlTSXc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-02T05:58:17.706Z",
       "thread": "t-auto-2026-10-29-fund-invests-3-million-in-ghana-s-resilience-drive-develops-"
     },
     {
@@ -128,7 +170,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE44XzBKcGJobkNwR1ZVYkh3OE4yMi13SV90Y1NQLUV1RUZuTTlZeE8zRGdpU3o5ZXlZWWI3YlJpX2VfZHo5Mi1QZEtMQlhTZTBKVk16X3pKZU1rYjlqSF9sVWNMSzHSAVxBVV95cUxNc05JMGs1bGR1U0J0UTBNOEQtTWxFUXlRR25SMDdMODNSN3NQVzNXTEFMbXcyeXl1WDhrYXpyTjF2UEE0LUxsRGt3RkZ3Z1pLeGpkSExwRVE4LUxZNw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-02T05:58:31.339Z"
     },
     {
       "id": "auto-2026-11-01-naimos-arrests-13-suspected-illegal-miners-in-raid-on-offin-",
@@ -149,7 +192,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOUktCdVhHb1J0dkl1cDlDMjJlZThRS2U2MldibnNNZmQ2cjJzWGRSMVc2RFUtMV9kT2w2bFFuR3RqVlBPRkdIbTU5X0VIUDNfUmNZU3pLT1Q5U2lzRUJtb1lTemxfUXVoVkRZNHgtN0M3RTBkd2RRdG1nY1NEcThZaVZqV3NCTDJJNlA4Qk5NRkU4VnhYSk5HMTVR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-02T05:59:04.711Z"
     },
     {
       "id": "auto-2026-11-01-mfwa-s-braimah-sees-no-progress-in-galamsey-fight",
@@ -534,7 +578,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-president-mahama-challenges-ghanaians-to-make-courageous-domestic-investment.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-31-kas-marks-60-years",
@@ -1880,6 +1924,25 @@
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
+      "id": "auto-2026-10-30-environment-galamsey-teams-3",
+      "date": "2026-10-30",
+      "category": "forest",
+      "title": "Environment Galamsey Teams 3",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Environment Galamsey Teams 3 Ghana Business News",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYnpHYW9UMy1qdEpwcWxjU1JTTHI5cWxhS0toM3VWN0tSRzlaWWdDTGZWcjdFcmFQcWZ1cGRaUGRuVzJqcVQwa2lJOGJKSU5paXBZRF84VEtwakVkdHJoRXZzcjJnRjM3TDNhb1VENzBjdU1abmtwQm8wYlpGNzRfekNyYkJmTldVWldubEpzdGxMU2JkNzBXREV1eU0xa0pzdHZfSGl6MmtMdkVwYWF0Nk5kZGhQcld1ZmZjdnpNbl9XWTM0SzFDTk5sRmdDMXc4a283VkxtM0tJM29BbTRtOU9JV29kUmZmNEpfZVNkaW5WTnhOMEFkbUc4WG5OMDVobTdESDdtUGZVTGFpUWlF?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwJBVV95cUxOYnpHYW9UMy1qdEpwcWxjU1JTTHI5cWxhS0toM3VWN0tSRzlaWWdDTGZWcjdFcmFQcWZ1cGRaUGRuVzJqcVQwa2lJOGJKSU5paXBZRF84VEtwakVkdHJoRXZzcjJnRjM3TDNhb1VENzBjdU1abmtwQm8wYlpGNzRfekNyYkJmTldVWldubEpzdGxMU2JkNzBXREV1eU0xa0pzdHZfSGl6MmtMdkVwYWF0Nk5kZGhQcld1ZmZjdnpNbl9XWTM0SzFDTk5sRmdDMXc4a283VkxtM0tJM29BbTRtOU9JV29kUmZmNEpfZVNkaW5WTnhOMEFkbUc4WG5OMDVobTdESDdtUGZVTGFpUWlF?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-10-29-galamsey-fight-naimos-commences-community-engagement-to-comp",
       "date": "2026-10-29",
       "category": "policy",
@@ -2673,20 +2736,21 @@
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
       "date": "2026-10-28",
       "category": "water",
-      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
+      "title": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
+      "summary": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -7421,7 +7485,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/48-forest-reserves-have-been-breached-by-illegal-miners-mahama/2026/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-10-19-deploy-more-military-police-to-fight-galamsey-christian-coun",
@@ -12661,7 +12725,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z"
+      "archivedAt": "2026-09-29T05:41:31.699Z",
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
