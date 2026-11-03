@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-02T15:49:58.374Z",
+  "updated": "2026-11-03T01:01:39.060Z",
   "counts": {
-    "total": 1591,
+    "total": 1598,
     "verified": 28,
-    "automated": 1563,
+    "automated": 1570,
     "earliest": "2024-07-01",
     "latest": "2026-11-02"
   },
@@ -66,6 +66,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzhIS1F1OENBQmxBd1psOG9JVzNQUjNiMkFPdWtHMy1xMVZjZ3NLVnlxeklCRVoxTWVEYnlYamVZUDBFSm00SnM3VklLN09aSkQ4Y19UZTdPMGJrbTlRT3B2ZjFnTHh0UzRmMVVKYVhFRjRnMHk0cEZqdE8xMXhQSEhKSF95Y000LW01RVdXS2ZEeF9zdEVhaEpR0gGYAUFVX3lxTE5QZlpIb3RDaFZIY1VUMHlMamJLczRxU0pRUGM1RUM5MzB5cFZZVUJyZkJGblplREFZU3Q2eDhwZ1dxaUpvN2RqbWtpeG9pRXdzUHB5WXlhUl9FOFpRZ241NTlCRFFPU2t1c09iWXZyTU81Q2EwTGVGUi1CdUs1OXFaOG4wU19JWHdELUpXVUFUQ0FEWDdIU2JN?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-03T00:56:58.219Z",
       "thread": "t-auto-2026-07-28-galamsey-mpohor-fiase-dce-police-commander-must-be-sentenced"
     },
     {
@@ -127,6 +128,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UldvU0tfR2tRTldqMmpTak15eUJndlJhQ0Rzd3lsVjdsZEdoZElFT1RVQ25IeHFWVXhRQVlsbkt4cGxVVm0yZ1FsQ1gta0FUbWU5RTJkUEYxR1JZRmF2ek5rRDfSAVxBVV95cUxOUDhxazRCeFU5QlltbHp6OVlrTlF2LXdITGZ2Y1R4TFB6RGZQdFlvbHV1ZXFRUC02NEc2UWRyR3p2Y0gwYS13X3Q2bEtFZ1pXZnF2VVpXc3RpTDRhUQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-03T00:57:11.195Z",
       "thread": "t-auto-2026-10-30-two-unit-committee-members-among-4-arrested-for-leasing-land"
     },
     {
@@ -328,6 +330,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-generates-us1-011-billion-in-october-projects-us1-2-billion-for-november/2026/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-03T01:00:36.388Z",
       "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
     },
     {
@@ -348,6 +351,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/goldbod-generates-us1-011-billion-in-forex-from-gold-trade-in-october/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-03T01:01:19.455Z",
       "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
     },
     {
@@ -368,7 +372,147 @@
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/subri-forest-restoration-miif-targets-30000-trees-in-5-years/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-03T01:01:32.477Z",
       "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
+    },
+    {
+      "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "Ignore malicious propaganda against NAIMOS and government in galamsey fight - Paa Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ignore malicious propaganda against NAIMOS and government in galamsey fight - Paa Kwesi Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U0lwdkNJNzdFQ3FsZmJSYmd2cExDUVpqOFZld0tNSWxhcDg5cFJyUGpNVTVZRFQtcC13VzZMRjQtLTB1TGpSeGptbjl6ZUcwYnZ1UUdyYldkZE5GaWZVVGFuUXTSAVxBVV95cUxPeGVTU3BOdWYzek1TSFRGSkNlR09ZUDdEMi15RWVfV3JlV0cwajlVX2RtcjRNT1VUTVhsSmg0dDBsTGpVd3RTWnBjVkhDNHhQRWI1Vld0T0Ryc1EyQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U0lwdkNJNzdFQ3FsZmJSYmd2cExDUVpqOFZld0tNSWxhcDg5cFJyUGpNVTVZRFQtcC13VzZMRjQtLTB1TGpSeGptbjl6ZUcwYnZ1UUdyYldkZE5GaWZVVGFuUXTSAVxBVV95cUxPeGVTU3BOdWYzek1TSFRGSkNlR09ZUDdEMi15RWVfV3JlV0cwajlVX2RtcjRNT1VUTVhsSmg0dDBsTGpVd3RTWnBjVkhDNHhQRWI1Vld0T0Ryc1EyQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+    },
+    {
+      "id": "auto-2026-11-02-ghana-under-scrutiny-46-7kg-cocaine-bust-and-renewed-galamse",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "Ghana Under Scrutiny: 46.7kg Cocaine Bust and Renewed Galamsey Operations| The Pulse (2-11-26)",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Under Scrutiny: 46.7kg Cocaine Bust and Renewed Galamsey Operations| The Pulse (2-11-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQkd6d0g4azRuaEt5b21RaDBJUlN3WUJ5T1JzWFhSaWp6Z2lCczVnYW5oTjZqd0ZjRXNyMmZKbkROZzdHLXdNSGxyN0cweTJybzd2TGtFUkNETHozV3Fab2s1NHrSAVxBVV95cUxQUUJrNWpnYUN1SkViclVWZHZoVVljNDJxQ0hicG1Wa2s1VXVxdHlJNkJEMnk3emVqQWVJaW1sdGRIcDlSamNRNldORDRENlduMHN4MDFfcEFEcHR3Ug?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hQkd6d0g4azRuaEt5b21RaDBJUlN3WUJ5T1JzWFhSaWp6Z2lCczVnYW5oTjZqd0ZjRXNyMmZKbkROZzdHLXdNSGxyN0cweTJybzd2TGtFUkNETHozV3Fab2s1NHrSAVxBVV95cUxQUUJrNWpnYUN1SkViclVWZHZoVVljNDJxQ0hicG1Wa2s1VXVxdHlJNkJEMnk3emVqQWVJaW1sdGRIcDlSamNRNldORDRENlduMHN4MDFfcEFEcHR3Ug?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-02-fighting-illegal-mining-13-arrested-as-naimos-uncovers-destr",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "Fighting Illegal Mining: 13 arrested as NAIMOS uncovers destruction on River Offin",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "Fighting Illegal Mining: 13 arrested as NAIMOS uncovers destruction on River Offin Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMS04ckxFeHlHR2lhNWdhWWtKS2JZUUdrQ1lSZGpmdjhydU5oQUNLdTJzVEZ2TFc5X1Z5YzdudVNKQ3djZGpXUnpfaGNWazYxTXFoc1RMTF83WEVnMmtucVotOXTSAVxBVV95cUxOV0tlRll1VEd0bmlfd09sUDB6djQ0NndaQTV1LUJQUGtJRnpubkRaeUpsemRFYXdvSVlWbjNjREl0THZCcS0wS3hSRDF4WFhPRGJQdERzUk9pLTE1Ug?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qMS04ckxFeHlHR2lhNWdhWWtKS2JZUUdrQ1lSZGpmdjhydU5oQUNLdTJzVEZ2TFc5X1Z5YzdudVNKQ3djZGpXUnpfaGNWazYxTXFoc1RMTF83WEVnMmtucVotOXTSAVxBVV95cUxOV0tlRll1VEd0bmlfd09sUDB6djQ0NndaQTV1LUJQUGtJRnpubkRaeUpsemRFYXdvSVlWbjNjREl0THZCcS0wS3hSRDF4WFhPRGJQdERzUk9pLTE1Ug?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+    },
+    {
+      "id": "auto-2026-11-02-traditional-leaders-mmdces-culpable-in-galamsey-president-of",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "Traditional leaders, MMDCEs culpable in galamsey – President of National House of Chiefs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Traditional leaders, MMDCEs culpable in galamsey – President of National House of Chiefs MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS01kbEFvY05VQ2ZIRGdfZDZ1VnRicFI5RXVSRVZ5NnIwSkV2TjZ2TjhUZ3pxQ0tveVQyRGZCT3p0TXdwRDdKdVdlZXpDUUVmaVVoV1luWXlJRXBRRkJ4UWpwZnV4dzBhU1YzaU5OQS1saGxhVjVxQkQtUlY2TTV1ZDlQb0VxWDJ1SjNMc1FIMnN3NG9kaVRvLTFDR3N6RS1FRzFEUmZYdjAzZkI2NWwzM2FiWUk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPS01kbEFvY05VQ2ZIRGdfZDZ1VnRicFI5RXVSRVZ5NnIwSkV2TjZ2TjhUZ3pxQ0tveVQyRGZCT3p0TXdwRDdKdVdlZXpDUUVmaVVoV1luWXlJRXBRRkJ4UWpwZnV4dzBhU1YzaU5OQS1saGxhVjVxQkQtUlY2TTV1ZDlQb0VxWDJ1SjNMc1FIMnN3NG9kaVRvLTFDR3N6RS1FRzFEUmZYdjAzZkI2NWwzM2FiWUk?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
+    },
+    {
+      "id": "auto-2026-11-02-sand-stones-winners-allege-intimidation-by-security-personne",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "Sand, stones winners allege intimidation by security personnel, seek government intervention",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The National Sand and Stone Tipper Truck Drivers Association has appealed to the government to investigate alleged intimidation, harassment and mistreatment of its members by some security personnel during anti-illegal mining operations at sand-winning sites. The association said some operators had reported physical assaults, seizures of mobile phones and other personal belongings, as well as the impoundment and alle",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/sand-stones-winners-allege-intimidation-by-security-personnel-seek-government-intervention.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/sand-stones-winners-allege-intimidation-by-security-personnel-seek-government-intervention.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-02-goldbod-generates-1-011bn-in-forex-from-gold-trade-in-octobe",
+      "date": "2026-11-02",
+      "category": "forest",
+      "title": "GoldBod generates $1.011bn in forex from gold trade in October",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Ashiadey Dotse The Ghana Gold Board (GoldBod) has generated US$1.011 billion in foreign exchange from its artisanal and small-scale mining (ASM) gold trade operations in October 2026. GoldBod said the entire amount was sold to authorised commercial banks through its GoFX platform to support stability in the foreign exchange market. In an announcement issued […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/business/goldbod-generates/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/business/goldbod-generates/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
     },
     {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
@@ -3057,20 +3201,21 @@
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
       "date": "2026-10-28",
       "category": "water",
-      "title": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities",
+      "title": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Galamsey isolates Abesua communities: River Kukubu bridge collapses, cutting off five communities Modern Ghana",
+      "summary": "Galamsey Isolates Abesua Communities: River Kukubu bridge collapses, cutting off 5 communities Modern Ghana",
       "metrics": {},
       "source": {
         "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YelpsV3Z3azkyczYweUJCV21QMHp2Uk05RDQ2YVM1bElrZk5qYlR4LWNzVFI0YjhFMXpiLWd1cllvOGtIZmt0YUo0NzY2SGg1NEszR0Q3UkxpenRmQzZJQkFtLWvSAVxBVV95cUxOUG1ETkdZREhuUThKLWVZQUpxOGhYOUdBeXhpODlmYXJOZFlkc1MxTzdLdWI4QnpFRThPVG96UUV1b3JqMHNObmpuQklObUcyY3dKTUtMdmtCeVBZQw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -13046,7 +13191,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z"
+      "archivedAt": "2026-09-29T05:41:31.699Z",
+      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
