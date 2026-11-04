@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-04T14:35:05.537Z",
+  "updated": "2026-11-04T23:44:29.388Z",
   "counts": {
-    "total": 1647,
+    "total": 1657,
     "verified": 28,
-    "automated": 1619,
+    "automated": 1629,
     "earliest": "2024-07-01",
     "latest": "2026-11-04"
   },
@@ -132,7 +132,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-navy-immobilise-illegal-mining-equipment-on-river-offin-amid-armed-resistance/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "archivedAt": "2026-11-04T23:38:38.635Z",
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-11-04-sand-and-stone-truck-operators-accuse-security-personnel-of-",
@@ -151,7 +152,185 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/sand-stone-truck-operators-security-assault-seizures",
       "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-04T23:39:04.721Z"
+    },
+    {
+      "id": "auto-2026-11-04-false-awal-mohammed-claims-ndc-promised-galamsey-state-of-em",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "FALSE: Awal Mohammed claims NDC promised galamsey state of emergency in 2024 manifesto",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "FALSE: Awal Mohammed claims NDC promised galamsey state of emergency in 2024 manifesto Ghana Fact",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Fact",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWtabVRJR0ZrWkJkbGlnek1KMHp4MkJBOG1YYXBtdm1oc0hCNlpCVGdJcGY1UmdKZnBDUzZnY2k1UEFQd28tejl4Rk1DbkxrUlYxTDUxZURVTXZqYXNKejBNY0ZDeXBLTm56NUpHQWVIQXkxdWRpMmZNRVlmVFR1TmkyUFhwd2tpamhMRHV3TmUxLUNyZ1pSUkhlei1hV2FDTXlBOGdUcTVUS1R0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWtabVRJR0ZrWkJkbGlnek1KMHp4MkJBOG1YYXBtdm1oc0hCNlpCVGdJcGY1UmdKZnBDUzZnY2k1UEFQd28tejl4Rk1DbkxrUlYxTDUxZURVTXZqYXNKejBNY0ZDeXBLTm56NUpHQWVIQXkxdWRpMmZNRVlmVFR1TmkyUFhwd2tpamhMRHV3TmUxLUNyZ1pSUkhlei1hV2FDTXlBOGdUcTVUS1R0?oc=5",
+      "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-04-anaesthetists-urge-mahama-to-take-decisive-action-against-ga",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "Anaesthetists Urge Mahama to Take Decisive Action Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Anaesthetists Urge Mahama to Take Decisive Action Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fM1BQaG1ib2NEejBYTmpKMmhwZFhWWjI2WGV3X0lpU2doQlhWWmJJbGlHRHJxOHFiU19LOTBTVVNUSEpDR05KakVlVEV2TGJBR013TmhzUEV2T2ZjdmJaajEtc9IBXEFVX3lxTE5uS2lUQ05ybmpvbk5VWUFmUTdVNERuTTMwOU1TVWFiUXV4cGpQMXlUaTk3NllrTHFnVGxFZldhM1VMMS1NX0RFS29zUWtEX3NrTURnSUwxVFRnWUNp?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fM1BQaG1ib2NEejBYTmpKMmhwZFhWWjI2WGV3X0lpU2doQlhWWmJJbGlHRHJxOHFiU19LOTBTVVNUSEpDR05KakVlVEV2TGJBR013TmhzUEV2T2ZjdmJaajEtc9IBXEFVX3lxTE5uS2lUQ05ybmpvbk5VWUFmUTdVNERuTTMwOU1TVWFiUXV4cGpQMXlUaTk3NllrTHFnVGxFZldhM1VMMS1NX0RFS29zUWtEX3NrTURnSUwxVFRnWUNp?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-04-galamsey-fight-naimos-expected-to-receive-ghs-200m-in-2027-b",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "Galamsey fight: NAIMOS expected to receive GHS 200M in 2027 budget to enhance operations - Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: NAIMOS expected to receive GHS 200M in 2027 budget to enhance operations - Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNXA0ZWlmRmhNa1RlSkpmOHRZUHRpcGVTaXRfMUxGb3FJWFFwQkpERWtYUVlZYUtISXA3cFBaWnY0R3dDdWkxYXo0T20tazVPZ2hZOTI3d2dFQTk3azA0cGx5RlXSAVxBVV95cUxQSXA1alY3SWxhWW1wcjQzcXR1T3lMSFJIUlBNbjhFYVdUUERnQlVkNDRpNzNEM3B3REtGZ3NlZXJiUnI3Q09nMkhMSEVHMDZDam9uUlhmZ3FhME5VeA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNXA0ZWlmRmhNa1RlSkpmOHRZUHRpcGVTaXRfMUxGb3FJWFFwQkpERWtYUVlZYUtISXA3cFBaWnY0R3dDdWkxYXo0T20tazVPZ2hZOTI3d2dFQTk3azA0cGx5RlXSAVxBVV95cUxQSXA1alY3SWxhWW1wcjQzcXR1T3lMSFJIUlBNbjhFYVdUUERnQlVkNDRpNzNEM3B3REtGZ3NlZXJiUnI3Q09nMkhMSEVHMDZDam9uUlhmZ3FhME5VeA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-04-naimos-offin-river-operation-15-arrested-as-security-forces-",
+      "date": "2026-11-04",
+      "category": "arrest",
+      "title": "NAIMOS Offin River Operation: 15 Arrested as Security Forces Seize Galamsey Equipment| The Pulse",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "NAIMOS Offin River Operation: 15 Arrested as Security Forces Seize Galamsey Equipment| The Pulse Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4emt2djA0MlZxYlZwMmZ2S0loR0phNXI5YkhKQWl2QzkyNWRGdjdSLV94R1F0aTgwaXpGSElGTkQzSVYxQzFyaXktMUpYVVJBTkxfaDctSEFidkFFQktDZ2hPRGPSAVxBVV95cUxOUV83TjNZblRiRHQ5c2dqY0Y2eEFNSlplZ29UQXJadVc5Q1ZWdEJmMXJOUmktTFprQWxsalN1Y2UxWjUzaTVkWDRRM2pMWlQ2TFpMa29ISTYxcW8zRg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4emt2djA0MlZxYlZwMmZ2S0loR0phNXI5YkhKQWl2QzkyNWRGdjdSLV94R1F0aTgwaXpGSElGTkQzSVYxQzFyaXktMUpYVVJBTkxfaDctSEFidkFFQktDZ2hPRGPSAVxBVV95cUxOUV83TjNZblRiRHQ5c2dqY0Y2eEFNSlplZ29UQXJadVc5Q1ZWdEJmMXJOUmktTFprQWxsalN1Y2UxWjUzaTVkWDRRM2pMWlQ2TFpMa29ISTYxcW8zRg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+    },
+    {
+      "id": "auto-2026-11-04-ecom-ghana-commissions-new-school-facilities-at-konkoma-char",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "ECOM Ghana commissions new school facilities at Konkoma, charges farmers to safeguard cocoa farms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Management of ECOM Ghana and Sustainable Management Services is distraught over the growing trend of cocoa farmers leasing their plantations and lands for illegal mining operations.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ecom-ghana-commissions-new-school-facilities-at-konkoma-charges-farmers-to-safeguard-cocoa-farms/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ecom-ghana-commissions-new-school-facilities-at-konkoma-charges-farmers-to-safeguard-cocoa-farms/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-04-naimos-only-embarks-on-lawful-arrests-but-it-may-go-offensiv",
+      "date": "2026-11-04",
+      "category": "arrest",
+      "title": "NAIMOS only embarks on lawful arrests, but it may go offensive where necessary – Paa Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ministry of Lands and Natural Resources has said the National Anti-Illegal Mining Operations Secretariat (NAIMOS) does not embark on operations with aggression but may take decisive action to protect its officers when faced with imminent threats.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-only-embarks-on-lawful-arrests-but-it-may-go-offensive-where-necessary-paa-kwesi-schandorf/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-only-embarks-on-lawful-arrests-but-it-may-go-offensive-where-necessary-paa-kwesi-schandorf/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-04-naimos-to-receive-gh-200m-in-2027-budget-paa-kwesi-schandorf",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "NAIMOS to receive GH¢200m in 2027 budget – Paa Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) is expected to receive GH¢200 million in the 2027 Budget to strengthen its operational capacity and support efforts to combat illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/naimos-to-receive-gh%c2%a2200m-in-2027-budget-paa-kwesi-schandorf/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-to-receive-gh%c2%a2200m-in-2027-budget-paa-kwesi-schandorf/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-04-naimos-does-not-use-aggression-in-operations-unless-necessar",
+      "date": "2026-11-04",
+      "category": "arrest",
+      "title": "NAIMOS does not use aggression in operations unless necessary – Spokesperson",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has said it will take appropriate and proportionate action against any threats to the lives and safety of its taskforce members during operations in mining communities.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/naimos-does-not-use-aggression-in-operations-unless-necessary-spokesperson"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-does-not-use-aggression-in-operations-unless-necessary-spokesperson",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-04-mahama-s-silence-on-obuasi-shts-other-national-matters-very-",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "Mahama’s silence on Obuasi SHTS, other national matters very loud – Nana B",
+      "place": "Obuasi",
+      "region": "Ashanti",
+      "lat": 6.2,
+      "lon": -1.67,
+      "summary": "The Second National Vice Chairman of the New Patriotic Party, Henry Nana Boakye, has criticised President John Dramani Mahama for going quiet on the Obuasi Senior High Technical School scandal and other major national issues, including galamsey. He says the president’s silence is worrying. “The president’s silence on these matters is very, very loud, and […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/mahamas-silence-on-obuasi-shts-other-national-matters-very-loud-nana-b/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/mahamas-silence-on-obuasi-shts-other-national-matters-very-loud-nana-b/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
     },
     {
       "id": "auto-2026-11-03-lands-minister-calls-for-district-level-taskforces-to-intens",
@@ -396,6 +575,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGxqYmd3aFdoU3l4LVIxQmpWbnlMTnVCSUFWRGt5WDJVa0t2N25ZVHd1WW1pNXBqRTJGZE9SMS0wajdVbGI0dGM4bDQ5LVQ5Mk94cHBjekNHTl9DTGNHQjFZdENRaEUwNVFROUc5ZlJPT1V6TWx0SWYzOGN2azRPbDR2YklzNlJYRGZIQTBzWQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-04T23:44:22.366Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -476,7 +656,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/naimos-arrests-illegal-miners-after-armed-obstruction-at-subin-akwaaboso.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-11-03-prosecute-people-who-attack-journalists-gja",
@@ -940,7 +1120,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmF0VHJRN0tRUml6YXFVQXlfSG96WVhWT0xjZ0dhLWUtSGZYa0dkZy1sT0IyRDZZUVlzRzhqQ0lqQm9SbGlUUmI5UU82Ri1ocGtkekNZWXRCT3ZhYkdvRk9KT2hsUFE4dDJkMndWRGtHU2w5R09URzNXLThqR19fb0RkeUVnNW5NN0NIQnlXaXc?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-11-02-gold-mining-formalisation-must-not-legitimise-environmental-",
@@ -1061,7 +1241,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-02T15:48:09.373Z",
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-11-02-naimos-arrests-suspected-illegal-miners-after-resistance-at-",
@@ -1081,7 +1261,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-suspected-illegal-miners-after-resistance-at-subin-akwaaboso/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-11-02-goldbod-generates-1-011bn-from-gold-trade-in-october-project",
@@ -1170,20 +1350,21 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
+      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
+      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "GhanaWeb",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
@@ -3944,6 +4125,25 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGs2LUZwQ0lTa1VoSVh0NWtpVXhiWDdyZUJ1UmFCVFZIZEZkdTRjTDg0SkEycGlNRXQybElrZjVoMVJMdjdOaHpLdC0wSUJOX2Y4UnBZLTZLZHI0YU5UbXBTUHNkRUNIenAyQWZGYzlvSnBMajdpbWRlQ2tmZHJCeWt5WDA3dzRSWGc4NXVnUXBGcVdhUmhIUjVWanUteFFDOVp6Y2o3WTN2Qlg4LUFvX3RWWW9tTHlrVlNva0FUOWxsV0lnaDVLV0RmdWQtQQ?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGs2LUZwQ0lTa1VoSVh0NWtpVXhiWDdyZUJ1UmFCVFZIZEZkdTRjTDg0SkEycGlNRXQybElrZjVoMVJMdjdOaHpLdC0wSUJOX2Y4UnBZLTZLZHI0YU5UbXBTUHNkRUNIenAyQWZGYzlvSnBMajdpbWRlQ2tmZHJCeWt5WDA3dzRSWGc4NXVnUXBGcVdhUmhIUjVWanUteFFDOVp6Y2o3WTN2Qlg4LUFvX3RWWW9tTHlrVlNva0FUOWxsV0lnaDVLV0RmdWQtQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-10-29-awenade-a-town-without-a-chief-a-community-under-galamsey-pr",
+      "date": "2026-10-29",
+      "category": "forest",
+      "title": "Awenade: A town without a chief, a community under Galamsey pressure",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Awenade: A town without a chief, a community under Galamsey pressure GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmdKazAySGJwZ1lMdnFOXzFlUEp0aDVnMG5tOTFXLUZOQzJJSTZNeFdITHAyTUk2OElCNjJVM1VLcDUxb19yV0p4ZEtia053dndMczc2RDhCaE1pRW13bS1KeExxYjc5U1c2T0kzUGdURHBmaVVtMTlpZTlrMk9aTUhkaC1xMTZIUUdRR3ZoQnNRa0sycUNVOGNBTTh6VnMta3Z5eHNJLWtTQ3hPQ0t5aXZERFJKQWc0RmdXaDUzRmtDT3M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmdKazAySGJwZ1lMdnFOXzFlUEp0aDVnMG5tOTFXLUZOQzJJSTZNeFdITHAyTUk2OElCNjJVM1VLcDUxb19yV0p4ZEtia053dndMczc2RDhCaE1pRW13bS1KeExxYjc5U1c2T0kzUGdURHBmaVVtMTlpZTlrMk9aTUhkaC1xMTZIUUdRR3ZoQnNRa0sycUNVOGNBTTh6VnMta3Z5eHNJLWtTQ3hPQ0t5aXZERFJKQWc0RmdXaDUzRmtDT3M?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -6830,7 +7030,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1U19qdHVwSjFtYnRXR0RUMGoxSFNJRWVmV1VROWFHZV9ZZ0RkUHJtVVk3SlZxMGw3djlvS1UtaThxVllOTmNHa0s3c0oxWWJ3T0ZOeGhIWS14UXhQMXJoTGZOLXPSAVxBVV95cUxOWjN1amt0ZnRDdTVyLWp1aDAzZHg4MENrNEgyMUlsWXBZY2pGTVMyWTRCbzlXdTNQSThkanFrLVhYM1BZU21NVmRWaE5Td2hqTFVMc0R5OWgzc1h3bQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-28-fighting-illegal-mining-naimos-arrests-10-illegal-miners-sei"
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
     },
     {
       "id": "auto-2026-10-22-naimos-steps-up-enforcement-after-community-mining-launch-in",
@@ -9087,7 +9287,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -9815,7 +10015,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -11140,7 +11340,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
