@@ -1,13 +1,33 @@
 {
-  "updated": "2026-11-04T23:44:29.388Z",
+  "updated": "2026-11-05T06:45:17.559Z",
   "counts": {
-    "total": 1657,
+    "total": 1659,
     "verified": 28,
-    "automated": 1629,
+    "automated": 1631,
     "earliest": "2024-07-01",
-    "latest": "2026-11-04"
+    "latest": "2026-11-05"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-05-banks-hold-back-on-mining-loans-illegal-operations-weak-safe",
+      "date": "2026-11-05",
+      "category": "arrest",
+      "title": "Banks hold back on mining loans • Illegal operations, weak safeguards blamed",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "THE Ghana Association of Banks (GAB) said banks are holding back on financing Ghana’s small-scale mining sector over fears that their funds could end up supporting illegal mining, environmental destruction and activities that could damage their reputations. The GAB said although financial institutions are exploring ways to channel funds into legitimate small-scale mining operations, concerns … The post Banks hold bac",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/banks-hold-back-on-mining-loans-illegal-operations-weak-safeguards-blamed/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/banks-hold-back-on-mining-loans-illegal-operations-weak-safeguards-blamed/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-05T06:40:11.119Z"
+    },
     {
       "id": "auto-2026-11-04-cocaine-busts-ablakwa-galamsey-mike-oquaye-jnr-fires-salvo-a",
       "date": "2026-11-04",
@@ -172,7 +192,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWtabVRJR0ZrWkJkbGlnek1KMHp4MkJBOG1YYXBtdm1oc0hCNlpCVGdJcGY1UmdKZnBDUzZnY2k1UEFQd28tejl4Rk1DbkxrUlYxTDUxZURVTXZqYXNKejBNY0ZDeXBLTm56NUpHQWVIQXkxdWRpMmZNRVlmVFR1TmkyUFhwd2tpamhMRHV3TmUxLUNyZ1pSUkhlei1hV2FDTXlBOGdUcTVUS1R0?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-05T06:40:50.336Z"
     },
     {
       "id": "auto-2026-11-04-anaesthetists-urge-mahama-to-take-decisive-action-against-ga",
@@ -192,6 +213,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fM1BQaG1ib2NEejBYTmpKMmhwZFhWWjI2WGV3X0lpU2doQlhWWmJJbGlHRHJxOHFiU19LOTBTVVNUSEpDR05KakVlVEV2TGJBR013TmhzUEV2T2ZjdmJaajEtc9IBXEFVX3lxTE5uS2lUQ05ybmpvbk5VWUFmUTdVNERuTTMwOU1TVWFiUXV4cGpQMXlUaTk3NllrTHFnVGxFZldhM1VMMS1NX0RFS29zUWtEX3NrTURnSUwxVFRnWUNp?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-05T06:41:03.269Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
@@ -211,7 +233,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNXA0ZWlmRmhNa1RlSkpmOHRZUHRpcGVTaXRfMUxGb3FJWFFwQkpERWtYUVlZYUtISXA3cFBaWnY0R3dDdWkxYXo0T20tazVPZ2hZOTI3d2dFQTk3azA0cGx5RlXSAVxBVV95cUxQSXA1alY3SWxhWW1wcjQzcXR1T3lMSFJIUlBNbjhFYVdUUERnQlVkNDRpNzNEM3B3REtGZ3NlZXJiUnI3Q09nMkhMSEVHMDZDam9uUlhmZ3FhME5VeA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-05T06:41:34.513Z"
     },
     {
       "id": "auto-2026-11-04-naimos-offin-river-operation-15-arrested-as-security-forces-",
@@ -331,6 +354,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
+    },
+    {
+      "id": "auto-2026-11-04-galamsey-fight-naimos-to-receive-gh-200-million-in-2027-budg",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "Galamsey Fight: NAIMOS to receive GH¢200 million in 2027 budget - Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: NAIMOS to receive GH¢200 million in 2027 budget - Schandorf GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOV9JenVhUzdMUlpQNUM4QW5YcExWak9JdmhlNU8xZHlDS3BYcmVHd0tSdlBCbDVXZ3BHSjJkdkI4TVlIRFhZbXl1djlfS2tYcHZnUWhhM09pNjc5c0N0bEpGaEpqUUd0anc4NGJBc1Rpcnk4UzVRa2ZaWENXemVDTnJRRVhaVk1jMVpxTmJieFRxdExZT3FSX1BzUTk1UDl2dm5sSTJCQUhvZ3RQQU5Na1ZwcUwxWTYwRUV4aDVaaWVWd1B5YXdJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxOOV9JenVhUzdMUlpQNUM4QW5YcExWak9JdmhlNU8xZHlDS3BYcmVHd0tSdlBCbDVXZ3BHSjJkdkI4TVlIRFhZbXl1djlfS2tYcHZnUWhhM09pNjc5c0N0bEpGaEpqUUd0anc4NGJBc1Rpcnk4UzVRa2ZaWENXemVDTnJRRVhaVk1jMVpxTmJieFRxdExZT3FSX1BzUTk1UDl2dm5sSTJCQUhvZ3RQQU5Na1ZwcUwxWTYwRUV4aDVaaWVWd1B5YXdJ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-03-lands-minister-calls-for-district-level-taskforces-to-intens",
