@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-05T06:45:17.559Z",
+  "updated": "2026-11-05T20:02:23.709Z",
   "counts": {
-    "total": 1659,
+    "total": 1670,
     "verified": 28,
-    "automated": 1631,
+    "automated": 1642,
     "earliest": "2024-07-01",
     "latest": "2026-11-05"
   },
@@ -27,6 +27,202 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-05T06:40:11.119Z"
+    },
+    {
+      "id": "auto-2026-11-05-galamsey-uds-professor-warns-of-possible-extremist-infiltrat",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "Galamsey: UDS Professor warns of possible extremist infiltration in northern Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: UDS Professor warns of possible extremist infiltration in northern Ghana CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmkweUZiZFRabzgwS3pWSTBfaERoLTJXVGpXRXpDcVhwVVotYUY4NDJCem9JUW8xaTdNSURLNEFDX2pqYmNyNGszaEEyV1Y5c2d2QkNpQ0V6SWhZM3ZDbmFVeEozcUstMWxWa1MtRFhUWXRPaERJZ01BTjdOd29selB3d1pJQ2lrNFA4R2pCajIybmMtUUFSdzdDTEhnNEhBd1lzZ3piRTFmZFFHQjhqSmlYelItSHhZNlcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmkweUZiZFRabzgwS3pWSTBfaERoLTJXVGpXRXpDcVhwVVotYUY4NDJCem9JUW8xaTdNSURLNEFDX2pqYmNyNGszaEEyV1Y5c2d2QkNpQ0V6SWhZM3ZDbmFVeEozcUstMWxWa1MtRFhUWXRPaERJZ01BTjdOd29selB3d1pJQ2lrNFA4R2pCajIybmMtUUFSdzdDTEhnNEhBd1lzZ3piRTFmZFFHQjhqSmlYelItSHhZNlcw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-05-galamsey-extremists-can-infiltrate-northern-ghana-uds-profes",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "Galamsey: 'Extremists can infiltrate northern Ghana' — UDS Professor warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: 'Extremists can infiltrate northern Ghana' — UDS Professor warns Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnBzVWlzTDh0dlV6RDVVbDRSNXJ2WEJ3QjFFMnpQZmtCc0Q3LXhzcnI3czU0aUYwNmJKOG5WT2FnVm80YktiejNvclI4WEM0MVpNS2JHTWU0Z05ySG9YSDBXNFQxTUVGekpOVGktY3c5Qzgwa3d0YVVRZGJqMzY0Tk5UTWQtVEpGZ2RvSHROT2R4X1pLalFkbDBn0gGYAUFVX3lxTFBDLUtaekdMVV9aRmZwbW5DREtpTDlNOUc2UUl3ZVBjVFNXRVVrVWVOZGJTdGgxSk10T2VXMnFPNm56SHJURXpCTEZydkNVc1VxblNUWUZrYmNMQlZxWFNFUnVTMi1Ebzd1clBmYjltLTExaVJlT3pqekp1U2R2dkQ2OGFjUU0tUUhMMGplaHRXVWtFSlJNalct?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnBzVWlzTDh0dlV6RDVVbDRSNXJ2WEJ3QjFFMnpQZmtCc0Q3LXhzcnI3czU0aUYwNmJKOG5WT2FnVm80YktiejNvclI4WEM0MVpNS2JHTWU0Z05ySG9YSDBXNFQxTUVGekpOVGktY3c5Qzgwa3d0YVVRZGJqMzY0Tk5UTWQtVEpGZ2RvSHROT2R4X1pLalFkbDBn0gGYAUFVX3lxTFBDLUtaekdMVV9aRmZwbW5DREtpTDlNOUc2UUl3ZVBjVFNXRVVrVWVOZGJTdGgxSk10T2VXMnFPNm56SHJURXpCTEZydkNVc1VxblNUWUZrYmNMQlZxWFNFUnVTMi1Ebzd1clBmYjltLTExaVJlT3pqekp1U2R2dkQ2OGFjUU0tUUhMMGplaHRXVWtFSlJNalct?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-05-principled-voices-or-purchased-silence-galamsey-is-poisoning",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "Principled Voices or Purchased Silence: Galamsey Is Poisoning Ghana, and Silence Is Its Accomplice.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Principled Voices or Purchased Silence: Galamsey Is Poisoning Ghana, and Silence Is Its Accomplice. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmZsN0tHeXV1QmM5cE5xeEU2d3g4X1NCSWpDSGl1a2szTUdnc1Etd25obGw4MVVIY1pMSGljU3otNGptQkVxcnd5ZEN4MndxTFdDcTllT3lmWVh2VHVHTjVhSjBPUU5Pb3BNTm1nVXVXampQMlR6OWdOVVpUNzhwMWFFSTJacHpQdWJhQVVHMVZYNXZWYzRSVdIBlwFBVV95cUxPb29ZMWdxMkJpeDc5ZXhzVC05THFLY3I5S3kwTnI3aHBlaFNoQ1Q5eHA2TkhyU3dIS0VaRnRuRDZwcUxTQ2l6ZC1HZkVDWVJtN3k0RkxTYTczS2dDdkgyZDV3QUNlZmRweGl4NjVIcjlqc3A2U3NqaWFNeE9CajlyVWpnaGRKSy1LaFNOZS1YMDhPSWlHMlBn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmZsN0tHeXV1QmM5cE5xeEU2d3g4X1NCSWpDSGl1a2szTUdnc1Etd25obGw4MVVIY1pMSGljU3otNGptQkVxcnd5ZEN4MndxTFdDcTllT3lmWVh2VHVHTjVhSjBPUU5Pb3BNTm1nVXVXampQMlR6OWdOVVpUNzhwMWFFSTJacHpQdWJhQVVHMVZYNXZWYzRSVdIBlwFBVV95cUxPb29ZMWdxMkJpeDc5ZXhzVC05THFLY3I5S3kwTnI3aHBlaFNoQ1Q5eHA2TkhyU3dIS0VaRnRuRDZwcUxTQ2l6ZC1HZkVDWVJtN3k0RkxTYTczS2dDdkgyZDV3QUNlZmRweGl4NjVIcjlqc3A2U3NqaWFNeE9CajlyVWpnaGRKSy1LaFNOZS1YMDhPSWlHMlBn?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-11-05-eu-galamsey-undermining-our-development-investments-in-ghana",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "EU: Galamsey undermining our development investments in Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "EU: Galamsey undermining our development investments in Ghana CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVVqNWxSQk1jMHpxelVEei1vTGhSSl91anhYcWhOWWIxdW5wdkZjdDU3dlRZWElIM3ZIbU5fT0I5cG1NeDJQQ2ZzLWV4X2ZjZEVZQnZldEdLX1dMVGw2VHdzQnFvTDVMcU5BWDFYYlZQX3R0cEROMjhDajBMWHBRMVdIY3FORm9iNFNsZ2RjSVp3cG1qUVhTWnhVdVFaeEU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxOOVVqNWxSQk1jMHpxelVEei1vTGhSSl91anhYcWhOWWIxdW5wdkZjdDU3dlRZWElIM3ZIbU5fT0I5cG1NeDJQQ2ZzLWV4X2ZjZEVZQnZldEdLX1dMVGw2VHdzQnFvTDVMcU5BWDFYYlZQX3R0cEROMjhDajBMWHBRMVdIY3FORm9iNFNsZ2RjSVp3cG1qUVhTWnhVdVFaeEU?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-05-fighting-galamsey-naimos-immobilizes-equipment-in-illegal-mi",
+      "date": "2026-11-05",
+      "category": "arrest",
+      "title": "Fighting Galamsey: NAIMOS immobilizes equipment in illegal mining crackdown at Manso Adubia",
+      "place": "Manso Adubia",
+      "region": "Ashanti",
+      "lat": 6.15,
+      "lon": -1.98,
+      "summary": "Fighting Galamsey: NAIMOS immobilizes equipment in illegal mining crackdown at Manso Adubia Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5OUJGTjF4UlRJa09ZWTlXR210MWkyUkdXbDNrTFBfWEprNy1Uek10WEl6YXJacl9zNVNqU2lTTV81ZTc2bDU2akdtWHY1MHFQckxIQl9CZVVjRENUeXFlSDdEQWjSAVxBVV95cUxOcWtqOVZjR2dNSmxRRHZ3ZjR5azlzZkxVX0t2TDBCdGFWeUxaMEEzcXJLT2pJSk5ZMnRQN2ZLQjROY3RRc2loM1Zob3lvTjBZYlVDV3NVZGhuXy1XXw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5OUJGTjF4UlRJa09ZWTlXR210MWkyUkdXbDNrTFBfWEprNy1Uek10WEl6YXJacl9zNVNqU2lTTV81ZTc2bDU2akdtWHY1MHFQckxIQl9CZVVjRENUeXFlSDdEQWjSAVxBVV95cUxOcWtqOVZjR2dNSmxRRHZ3ZjR5azlzZkxVX0t2TDBCdGFWeUxaMEEzcXJLT2pJSk5ZMnRQN2ZLQjROY3RRc2loM1Zob3lvTjBZYlVDV3NVZGhuXy1XXw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-11-05-galamsey-money-funding-terrorism-in-the-sahel-environment-mi",
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "Galamsey money funding terrorism in the Sahel? Environment Minister warns Ghana risks complicity",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey money funding terrorism in the Sahel? Environment Minister warns Ghana risks complicity Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IamdtY1B5dVpHQ3BrbXZhMXNjUUY1NWxxcm1sak5Cb3FBMTRyZmFnZHV2Q2pSenpMLU9oYWl5RHRNVU1QNFM5UGo4eVpwTlJBUDM0NlppVkZ1Y0QtRDFXMy1aYXLSAVxBVV95cUxNY0N1LXRuMG9oTWNLMmRXLUxEbGRxVWtLS004ckpyMnlTVFk2eDlGRng5cTRqZTBSUExBUWI0djRsSGU1WHV4OHRoOGpoeWRvay1SaWEwb25kZUhiMg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IamdtY1B5dVpHQ3BrbXZhMXNjUUY1NWxxcm1sak5Cb3FBMTRyZmFnZHV2Q2pSenpMLU9oYWl5RHRNVU1QNFM5UGo4eVpwTlJBUDM0NlppVkZ1Y0QtRDFXMy1aYXLSAVxBVV95cUxNY0N1LXRuMG9oTWNLMmRXLUxEbGRxVWtLS004ckpyMnlTVFk2eDlGRng5cTRqZTBSUExBUWI0djRsSGU1WHV4OHRoOGpoeWRvay1SaWEwb25kZUhiMg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-30-in-the-galamsey-issue-the-dce-doesn-t-have-power-to-arrest-b"
+    },
+    {
+      "id": "auto-2026-11-05-eu-raises-concern-over-galamsey-s-impact-on-development-inve",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "EU Raises Concern Over Galamsey’s Impact on Development Investments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "EU Raises Concern Over Galamsey’s Impact on Development Investments Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93TlFvbDcyNUR1eW92MEtXeDdQWFlmc0VxOXRNY0dacDBYTlNPUVRGbUhLZTBHRElOT3ZnMGI0UW9nWDZ6dmtDZUZNVXJsaHJzb24yaFlyU2JTWFJGVE9xMFE1SdIBXEFVX3lxTE5xRUJJNnJPU0NzLVpjNndhRTIxNUpWRl9SbzB1OFdoUXowM2Z3MEQ2RVNabThKMGxsM2w2dF92ZTZrWWlWNDhBUUN4R2d6MTRGYVBKdXowVk9SY3k5?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE93TlFvbDcyNUR1eW92MEtXeDdQWFlmc0VxOXRNY0dacDBYTlNPUVRGbUhLZTBHRElOT3ZnMGI0UW9nWDZ6dmtDZUZNVXJsaHJzb24yaFlyU2JTWFJGVE9xMFE1SdIBXEFVX3lxTE5xRUJJNnJPU0NzLVpjNndhRTIxNUpWRl9SbzB1OFdoUXowM2Z3MEQ2RVNabThKMGxsM2w2dF92ZTZrWWlWNDhBUUN4R2d6MTRGYVBKdXowVk9SY3k5?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-11-05-galamsey-could-leave-ghana-complicit-in-sahel-terrorism-zane",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "Galamsey could leave Ghana complicit in Sahel terrorism – Zanetor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey could leave Ghana complicit in Sahel terrorism – Zanetor 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aamlaR1pxR2h3ZmZxaEppeloxazVsdWxnTHNWQVhMNF90ZWUteXViUWVOZl9DWFhTZ1ZyU2xMMjlnX2dMQ2txcjBXVUJLR29GUk5UWS12ZktFWGNDdFU4MU5wN1E5U1k1TGx1U1lvaUJtT1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMic0FVX3lxTE5aamlaR1pxR2h3ZmZxaEppeloxazVsdWxnTHNWQVhMNF90ZWUteXViUWVOZl9DWFhTZ1ZyU2xMMjlnX2dMQ2txcjBXVUJLR29GUk5UWS12ZktFWGNDdFU4MU5wN1E5U1k1TGx1U1lvaUJtT1E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-05-eu-funded-study-finds-heavy-metal-contamination-in-savannah-",
+      "date": "2026-11-05",
+      "category": "water",
+      "title": "EU-funded study finds heavy metal contamination in Savannah mining communities",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "An EU-funded study has found elevated levels of heavy metals in soil samples from artisanal and small-scale mining communities in three districts of the Savannah Region, raising concerns about environmental contamination and potential health risks. The baseline studies, conducted under the European Union-funded Gold for Good (G4G) Project, found that cadmium levels exceeded recommended guidelines in all soil samples ",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/eu-funded-study-finds-heavy-metal-contamination-in-savannah-mining-communities/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/eu-funded-study-finds-heavy-metal-contamination-in-savannah-mining-communities/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-05-researchers-want-mmdas-to-lead-local-mining-activities",
+      "date": "2026-11-05",
+      "category": "policy",
+      "title": "Researchers want MMDAs to lead local mining activities",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Researchers have called on the government to empower, resource and give metropolitan, municipal and district assemblies (MMDAs) the mandate to oversee activities of small-scale mining in the country. This follows a study which established that regulators such as the Minerals Commission and the Environmental Protection Authority (EPA) lacked the local data and capacity to monitor hundreds of scattered mining sites con",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-researchers-want-mmdas-to-lead-local-mining-activities.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-researchers-want-mmdas-to-lead-local-mining-activities.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
       "id": "auto-2026-11-04-cocaine-busts-ablakwa-galamsey-mike-oquaye-jnr-fires-salvo-a",
@@ -373,6 +569,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxOOV9JenVhUzdMUlpQNUM4QW5YcExWak9JdmhlNU8xZHlDS3BYcmVHd0tSdlBCbDVXZ3BHSjJkdkI4TVlIRFhZbXl1djlfS2tYcHZnUWhhM09pNjc5c0N0bEpGaEpqUUd0anc4NGJBc1Rpcnk4UzVRa2ZaWENXemVDTnJRRVhaVk1jMVpxTmJieFRxdExZT3FSX1BzUTk1UDl2dm5sSTJCQUhvZ3RQQU5Na1ZwcUwxWTYwRUV4aDVaaWVWd1B5YXdJ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-04-national-house-of-chiefs-president-accuses-chiefs-mmdces-of-",
+      "date": "2026-11-04",
+      "category": "forest",
+      "title": "National House of Chiefs President accuses chiefs, MMDCEs of aiding galamsey | AM News",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "National House of Chiefs President accuses chiefs, MMDCEs of aiding galamsey | AM News Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtcnRsMFNwT0hVc0hCWXpMYjVmalRuR2FVU05EYmtMQ0sxZU5YYUc4WFpFeUROTWNUWFl1Z0d1WDBZM0s1STY2VlN3SVEwNEdXYkpzMDB4eDdTcXI2U2J6dDA0R0nSAVxBVV95cUxPR3dVZWkxc19xZ3lCMG8tdkV3a1FtT1loQWRtZjlVSjRaX1ZRMFJyVEVrWG90dnV1SEh6dmQwaU1xbmFjMjZpTTVURlFQS2VOdzZZbGlXeWRDbmpvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtcnRsMFNwT0hVc0hCWXpMYjVmalRuR2FVU05EYmtMQ0sxZU5YYUc4WFpFeUROTWNUWFl1Z0d1WDBZM0s1STY2VlN3SVEwNEdXYkpzMDB4eDdTcXI2U2J6dDA0R0nSAVxBVV95cUxPR3dVZWkxc19xZ3lCMG8tdkV3a1FtT1loQWRtZjlVSjRaX1ZRMFJyVEVrWG90dnV1SEh6dmQwaU1xbmFjMjZpTTVURlFQS2VOdzZZbGlXeWRDbmpvZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-13-we-have-not-honoured-them-ken-ashigbey-questions-galamsey-fi"
     },
     {
       "id": "auto-2026-11-03-lands-minister-calls-for-district-level-taskforces-to-intens",
