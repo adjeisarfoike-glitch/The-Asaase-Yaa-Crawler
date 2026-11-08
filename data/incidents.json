@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-08T13:23:47.586Z",
+  "updated": "2026-11-08T22:05:48.584Z",
   "counts": {
-    "total": 1712,
+    "total": 1714,
     "verified": 28,
-    "automated": 1684,
+    "automated": 1686,
     "earliest": "2024-07-01",
     "latest": "2026-11-08"
   },
@@ -70,6 +70,48 @@
       "verified": false,
       "archivedAt": "2026-11-08T13:19:41.962Z",
       "thread": "t-fr-upper-east"
+    },
+    {
+      "id": "auto-2026-11-08-amansie-west-youth-turn-to-galamsey-and-okada-amid-job-short",
+      "date": "2026-11-08",
+      "category": "forest",
+      "title": "Amansie West Youth Turn to Galamsey and Okada Amid Job Shortages",
+      "place": "Amansie West",
+      "region": "Ashanti",
+      "lat": 6.28,
+      "lon": -2.05,
+      "summary": "Amansie West Youth Turn to Galamsey and Okada Amid Job Shortages Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RQmNtdHRpekdpMHE2MHpGZmJ1UGstck1TSW4zNnhvVFhxeThJMDRFbnJFZDN4VU85NlNxQTZ5dWRwNm9JM2pJZG9HVFNxOVA4aFB0NjF3X2pBNkZoR1RLQjhtVdIBXEFVX3lxTE9Ec3pURkFYMV9FYXRzdmhib2E4S2FUN2JCZEdJaXNzMU03YXpmUzBnaFI4ekJiSTMtZWhkU0tKQ0diczJnaDh2eEFfQmtIYUthemxLQVFuR2lSNUVM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RQmNtdHRpekdpMHE2MHpGZmJ1UGstck1TSW4zNnhvVFhxeThJMDRFbnJFZDN4VU85NlNxQTZ5dWRwNm9JM2pJZG9HVFNxOVA4aFB0NjF3X2pBNkZoR1RLQjhtVdIBXEFVX3lxTE9Ec3pURkFYMV9FYXRzdmhib2E4S2FUN2JCZEdJaXNzMU03YXpmUzBnaFI4ekJiSTMtZWhkU0tKQ0diczJnaDh2eEFfQmtIYUthemxLQVFuR2lSNUVM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-08T21:59:55.615Z",
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-11-08-what-kofi-wayo-said-about-galamsey-years-ago",
+      "date": "2026-11-08",
+      "category": "forest",
+      "title": "What Kofi Wayo said about galamsey years ago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "What Kofi Wayo said about galamsey years ago GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3I5dEJRcjRpTTF5US1sbXRzR25STmY1dXhYN2VpRndZLWJTcWFtVXd6VGk3VHFJeTA1NkY3Sk5hTmVTVDI2WHVBUVk1M210bVM4a2g4WnJaY0txOVpXZXQ0Zk4zSXVWeWNFNVpzVXRfS2JHMnJ2MzFpZTZlbFJWYUFsaWJQa3BSVk9qajVZOHM0Vml6M3Q1OW5QNWxOeDdaYW5SU2VB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3I5dEJRcjRpTTF5US1sbXRzR25STmY1dXhYN2VpRndZLWJTcWFtVXd6VGk3VHFJeTA1NkY3Sk5hTmVTVDI2WHVBUVk1M210bVM4a2g4WnJaY0txOVpXZXQ0Zk4zSXVWeWNFNVpzVXRfS2JHMnJ2MzFpZTZlbFJWYUFsaWJQa3BSVk9qajVZOHM0Vml6M3Q1OW5QNWxOeDdaYW5SU2VB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-08T22:00:32.412Z",
+      "thread": "t-auto-2026-07-15-galamsey-fight-258-suspects-arrested-in-six-months-armah-kof"
     },
     {
       "id": "auto-2026-11-07-galamsey-fight-divert-gh-150m-of-proposed-naimos-funding-to-",
@@ -745,6 +787,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWpmcnlxYkNGRDJxMl9KMm1jN1RYYmF4UnZTOXVra2ZQWUJiVGF1cWVPakxKb1ZBMEJRZF9WQ2VQdEIyc1lCZnJKSTJMSU9ldEFpa0c0cHZVQ200cWlTX2pkQjJ6bVZtR3EzTklmZ2NZdnpPU1NQemZKYm16dGVYemNXX1pXOGowTjJjdmlmNkwwai1Zd2JsVm1LRVN2c1U?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T22:01:09.726Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
@@ -973,6 +1016,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4emt2djA0MlZxYlZwMmZ2S0loR0phNXI5YkhKQWl2QzkyNWRGdjdSLV94R1F0aTgwaXpGSElGTkQzSVYxQzFyaXktMUpYVVJBTkxfaDctSEFidkFFQktDZ2hPRGPSAVxBVV95cUxOUV83TjNZblRiRHQ5c2dqY0Y2eEFNSlplZ29UQXJadVc5Q1ZWdEJmMXJOUmktTFprQWxsalN1Y2UxWjUzaTVkWDRRM2pMWlQ2TFpMa29ISTYxcW8zRg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T22:01:59.449Z",
       "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
@@ -1133,6 +1177,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPOWk1ZGRlTUxkRG1mWWNkMlNSekNiTjZKSlh1emdUbXNBSlBucFpRNnRsU05ydXk5UW0zVTJoczR1eFU5TmIyNjNnV0JtY2twREg5enhtc1AxQXVGcllsancwNTJrRGhaODRWajZSLXZwbEZFemY4WE9zbkdzYnlETElZbEVQU1lzSm02MUdWaGQ2TFZJVFhnU2J4OU1DUUtWRnRrV2lyMDA2aTBsTk1PZHVBdGtVQWJJZVJmRV9ySEVNZjRDdWQxYUkweU1zUHc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T22:04:26.843Z",
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
@@ -1153,6 +1198,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZThNcmQyVU1KakhDTTY2YlVWVHpCM0wzeUN4NjB5MFg5WTV5RHg0c3RVZjViamJWSU1hQ0FHT2U0N0VlTVBXVnA3OWRtLUdIQ3FieFhpcWdya3hSS3hqNVVsZ0VZa3VjOVFVYm5CYkVSZFdvb29RRF9vSzdGNm5reGRWdXBqOVRYdENrUy1mTG02VG15My1UV3RGZ0dSOVhFTnV2OVVocmQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T22:04:51.991Z",
       "thread": "t-auto-2026-11-04-ghana-risks-complicity-in-sahel-terrorism-if-galamsey-persis"
     },
     {
@@ -1376,6 +1422,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmhZSUN4dVd1M0RZLXNPcndtdEFnUXBialpyZnRYODVnamVpZE15MDBVeWtKOUMwNjFsb2xvTjZGSG1fSXBPVTdwS1NtcVNrR2tPLXhVMVFrekozZU5DUE1JbjlHeFRrNENLcnBBLXQwNG5VT3g0anN5WGJJYlZKMTh6M1lYbUF5WTVGMUxNZFhRNnhzS2FBbkliRm5QRXpQR2tId3lUX2E4VmVLQVZv?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T22:05:41.428Z",
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
@@ -2330,21 +2377,20 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
+      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
+      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
