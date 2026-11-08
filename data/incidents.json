@@ -1,13 +1,76 @@
 {
-  "updated": "2026-11-08T06:01:05.613Z",
+  "updated": "2026-11-08T13:23:47.586Z",
   "counts": {
-    "total": 1707,
+    "total": 1712,
     "verified": 28,
-    "automated": 1679,
+    "automated": 1684,
     "earliest": "2024-07-01",
-    "latest": "2026-11-07"
+    "latest": "2026-11-08"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
+      "date": "2026-11-08",
+      "category": "forest",
+      "title": "Assessing the Impact of Declaring a State of Emergency on Ghana’s Fight Against Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Assessing the Impact of Declaring a State of Emergency on Ghana’s Fight Against Illegal Mining Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlRIaUVLQ0JfRUluRE9UT3NuNTlocUJfZDRhaU1ueFNwWXFwa1I5LWFKTEItRkhKdzlvLTY1OThoS0lGTEExMFRvUWJjTWtLcW8wUXVYNHFhUXVRbW9KQV9VUk9hTDMzMlYtN0dOc255d0JDLWdvR3NkODFBeGNNLTdkY3hXMm9VNXFWYlgxVGNyelpYMzZNby01WVbSAZsBQVVfeXFMT0lnVTBhQWZqN1U4RUJOQi1XYnF6T3ZIRndJaHRPQXBCbHVYN2MwWVJ4dEtEd05scE43WFRDRklpdXBoTVVmNk81bFJXMWNrZHNTeThucVNxQ1RNanN1OEhWMzAxQ1NNTTIwd3pqV3VwWjA1cV9oSm10YW05MWdYckZYUWFBcERLaVlQN3pSa25NbmFjb0JZLUNRZ2M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlRIaUVLQ0JfRUluRE9UT3NuNTlocUJfZDRhaU1ueFNwWXFwa1I5LWFKTEItRkhKdzlvLTY1OThoS0lGTEExMFRvUWJjTWtLcW8wUXVYNHFhUXVRbW9KQV9VUk9hTDMzMlYtN0dOc255d0JDLWdvR3NkODFBeGNNLTdkY3hXMm9VNXFWYlgxVGNyelpYMzZNby01WVbSAZsBQVVfeXFMT0lnVTBhQWZqN1U4RUJOQi1XYnF6T3ZIRndJaHRPQXBCbHVYN2MwWVJ4dEtEd05scE43WFRDRklpdXBoTVVmNk81bFJXMWNrZHNTeThucVNxQ1RNanN1OEhWMzAxQ1NNTTIwd3pqV3VwWjA1cV9oSm10YW05MWdYckZYUWFBcERLaVlQN3pSa25NbmFjb0JZLUNRZ2M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-08T13:18:49.671Z",
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-11-08-speaker-bagbin-promises-journalists-online-access-to-parliam",
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "Speaker Bagbin promises journalists online access to Parliament's records by end of 2026",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Speaker of Parliament, Alban Sumana Kingsford Bagbin, has promised to introduce an online system to give journalists direct access to parliamentary information by the end of 2026. The initiative, he said, would reduce journalists' reliance on formal Right to Information (RTI) requests and make it easier for them to obtain information on the activities of Parliament without having to visit the House. Speaking at t",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/speaker-bagbin-promises-journalists-online-access-to-parliaments-records-by-year-end.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/speaker-bagbin-promises-journalists-online-access-to-parliaments-records-by-year-end.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-08T13:19:16.891Z",
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-08-gja-awards-daily-graphic-s-ngnenbe-most-decorated-o-b-takes-",
+      "date": "2026-11-08",
+      "category": "policy",
+      "title": "GJA Awards: Daily Graphic's Ngnenbe most decorated; O.B. takes top prize (FULL LIST)",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Daily Graphic's Timothy Ngnenbe emerged as the most decorated journalist of the night at the 30th Ghana Journalists Association (GJA) Media Awards, claiming three prestigious awards for his outstanding investigative and environmental reporting. Ngnenbe won Best Online News Reporting for his story \"Unguarded Guards: The Ordeal of Ghana's Forest Guards,\" Best in Illegal Mining Reporting, and Best in Environment and",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/gja-awards-daily-graphics-ngnenbe-most-decorated-o-b-takes-top-prize-full-list.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/gja-awards-daily-graphics-ngnenbe-most-decorated-o-b-takes-top-prize-full-list.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-08T13:19:41.962Z",
+      "thread": "t-fr-upper-east"
+    },
     {
       "id": "auto-2026-11-07-galamsey-fight-divert-gh-150m-of-proposed-naimos-funding-to-",
       "date": "2026-11-07",
@@ -557,6 +620,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMic0FVX3lxTE5aamlaR1pxR2h3ZmZxaEppeloxazVsdWxnTHNWQVhMNF90ZWUteXViUWVOZl9DWFhTZ1ZyU2xMMjlnX2dMQ2txcjBXVUJLR29GUk5UWS12ZktFWGNDdFU4MU5wN1E5U1k1TGx1U1lvaUJtT1E?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T13:20:22.084Z",
       "thread": "t-auto-2026-11-04-ghana-risks-complicity-in-sahel-terrorism-if-galamsey-persis"
     },
     {
@@ -577,6 +641,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/eu-funded-study-finds-heavy-metal-contamination-in-savannah-mining-communities/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T13:20:53.861Z",
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
@@ -661,6 +726,26 @@
       "verified": false,
       "archivedAt": "2026-11-07T13:01:55.997Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+    },
+    {
+      "id": "auto-2026-11-05-anaesthetists-call-on-mahama-to-take-decisive-action-against",
+      "date": "2026-11-05",
+      "category": "forest",
+      "title": "Anaesthetists call on Mahama to take decisive action against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Anaesthetists call on Mahama to take decisive action against galamsey MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWpmcnlxYkNGRDJxMl9KMm1jN1RYYmF4UnZTOXVra2ZQWUJiVGF1cWVPakxKb1ZBMEJRZF9WQ2VQdEIyc1lCZnJKSTJMSU9ldEFpa0c0cHZVQ200cWlTX2pkQjJ6bVZtR3EzTklmZ2NZdnpPU1NQemZKYm16dGVYemNXX1pXOGowTjJjdmlmNkwwai1Zd2JsVm1LRVN2c1U?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWpmcnlxYkNGRDJxMl9KMm1jN1RYYmF4UnZTOXVra2ZQWUJiVGF1cWVPakxKb1ZBMEJRZF9WQ2VQdEIyc1lCZnJKSTJMSU9ldEFpa0c0cHZVQ200cWlTX2pkQjJ6bVZtR3EzTklmZ2NZdnpPU1NQemZKYm16dGVYemNXX1pXOGowTjJjdmlmNkwwai1Zd2JsVm1LRVN2c1U?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-11-04-cocaine-busts-ablakwa-galamsey-mike-oquaye-jnr-fires-salvo-a",
@@ -1856,6 +1941,25 @@
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
+      "id": "auto-2026-11-03-effia-mp-accuses-mahama-government-of-failing-in-fight-again",
+      "date": "2026-11-03",
+      "category": "policy",
+      "title": "Effia MP accuses Mahama government of failing in fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Effia MP accuses Mahama government of failing in fight against galamsey MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaUNxTkNROW1Va2g5TUozcnNnZkxkaHpSSWo4dC05aTFSTEpNQWNNb3hoelRRWW5DYTloTk1OTkwwUTBWaXJVN2FZZjUzcW9uLVVpdHlnNzdqUzI1aFFBLS1iVWlmWXlKV203WTNjTEdYMFJ5WDV4dDd0cFRaTzdpNHE1WlZJXzJfUi1QVDRVQi1FY2JwN2ZIVGdySWx0dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxNaUNxTkNROW1Va2g5TUozcnNnZkxkaHpSSWo4dC05aTFSTEpNQWNNb3hoelRRWW5DYTloTk1OTkwwUTBWaXJVN2FZZjUzcW9uLVVpdHlnNzdqUzI1aFFBLS1iVWlmWXlKV203WTNjTEdYMFJ5WDV4dDd0cFRaTzdpNHE1WlZJXzJfUi1QVDRVQi1FY2JwN2ZIVGdySWx0dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-02-ghana-needs-action-not-manifesto-to-end-galamsey-jantuah",
       "date": "2026-11-02",
       "category": "forest",
@@ -2226,20 +2330,21 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
+      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
+      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "GhanaWeb",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
