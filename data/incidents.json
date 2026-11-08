@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-07T21:51:55.035Z",
+  "updated": "2026-11-08T06:01:05.613Z",
   "counts": {
-    "total": 1706,
+    "total": 1707,
     "verified": 28,
-    "automated": 1678,
+    "automated": 1679,
     "earliest": "2024-07-01",
     "latest": "2026-11-07"
   },
@@ -351,6 +351,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-four-intercepts-three-trucks-in-illegal-sand-winning-crackdown/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T05:57:19.696Z",
       "thread": "t-auto-2026-11-06-naimos-to-introduce-tougher-measures-against-illegal-sand-wi"
     },
     {
@@ -493,6 +494,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5OUJGTjF4UlRJa09ZWTlXR210MWkyUkdXbDNrTFBfWEprNy1Uek10WEl6YXJacl9zNVNqU2lTTV81ZTc2bDU2akdtWHY1MHFQckxIQl9CZVVjRENUeXFlSDdEQWjSAVxBVV95cUxOcWtqOVZjR2dNSmxRRHZ3ZjR5azlzZkxVX0t2TDBCdGFWeUxaMEEzcXJLT2pJSk5ZMnRQN2ZLQjROY3RRc2loM1Zob3lvTjBZYlVDV3NVZGhuXy1XXw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T05:57:32.667Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -534,6 +536,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE93TlFvbDcyNUR1eW92MEtXeDdQWFlmc0VxOXRNY0dacDBYTlNPUVRGbUhLZTBHRElOT3ZnMGI0UW9nWDZ6dmtDZUZNVXJsaHJzb24yaFlyU2JTWFJGVE9xMFE1SdIBXEFVX3lxTE5xRUJJNnJPU0NzLVpjNndhRTIxNUpWRl9SbzB1OFdoUXowM2Z3MEQ2RVNabThKMGxsM2w2dF92ZTZrWWlWNDhBUUN4R2d6MTRGYVBKdXowVk9SY3k5?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-08T05:57:57.208Z",
       "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
@@ -1833,6 +1836,26 @@
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
+      "id": "auto-2026-11-03-gov-t-targets-illegal-mining-not-the-mining-industry-mahama-",
+      "date": "2026-11-03",
+      "category": "forest",
+      "title": "Gov’t targets illegal mining, not the mining industry – Mahama Ayariga",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Gov’t targets illegal mining, not the mining industry – Mahama Ayariga MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzhqa2NxWmF5eXU1Y3o5b1dGYU95SUlGdjR6TW15M1Q3TnFscXNKdWs4SUJ2REowZkFPX1dCMDhjUGhKOVRQRDlvczdjdjl4T2k4YmV6Vk1PbjBVRWNDcDFzWURrNUZ0ZHZuQjk5M1JVN0wzWGpqNjFzdjFYTnBWeVhXV2xHZlRwM21XMkJNaV9UVGpJb2RhMEJUUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNYzhqa2NxWmF5eXU1Y3o5b1dGYU95SUlGdjR6TW15M1Q3TnFscXNKdWs4SUJ2REowZkFPX1dCMDhjUGhKOVRQRDlvczdjdjl4T2k4YmV6Vk1PbjBVRWNDcDFzWURrNUZ0ZHZuQjk5M1JVN0wzWGpqNjFzdjFYTnBWeVhXV2xHZlRwM21XMkJNaV9UVGpJb2RhMEJUUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
       "id": "auto-2026-11-02-ghana-needs-action-not-manifesto-to-end-galamsey-jantuah",
       "date": "2026-11-02",
       "category": "forest",
@@ -2203,21 +2226,20 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
+      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
+      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
