@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-09T06:24:38.691Z",
+  "updated": "2026-11-09T22:23:37.659Z",
   "counts": {
-    "total": 1717,
+    "total": 1729,
     "verified": 28,
-    "automated": 1689,
+    "automated": 1701,
     "earliest": "2024-07-01",
     "latest": "2026-11-09"
   },
@@ -28,6 +28,207 @@
       "verified": false,
       "archivedAt": "2026-11-09T06:19:48.214Z",
       "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-11-09-submit-list-of-galamsey-hotspots-in-30-days-lands-minister-d",
+      "date": "2026-11-09",
+      "category": "policy",
+      "title": "Submit list of galamsey hotspots in 30 days - Lands minister directs MMDCEs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Submit list of galamsey hotspots in 30 days - Lands minister directs MMDCEs Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQnFPckpOUDl0V1NwNHRiX1JNQzdsV2lDcG1vR3JLYkxWcXRXS0dyaVFUd1RTYzM4Zk5xODNnaWNXc3d0dDBINlM2dXFTYmdnNF9zWlFrOGRFSkZLWmc5NEJ6SkZjWlE0cnVrNmM5R1FZMEtVNVVmRHJCVFFYM1BxTXRwNl9fVUZVeWdnZ1A3QnRVMnpXbWFkb2FhWGhmbjFiSWV4RnMyc3FXUmJzTnBwTnlROVUzNWE0a194OE1nT0xYcmtUMjA0Q1hfd1kyczA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxQQnFPckpOUDl0V1NwNHRiX1JNQzdsV2lDcG1vR3JLYkxWcXRXS0dyaVFUd1RTYzM4Zk5xODNnaWNXc3d0dDBINlM2dXFTYmdnNF9zWlFrOGRFSkZLWmc5NEJ6SkZjWlE0cnVrNmM5R1FZMEtVNVVmRHJCVFFYM1BxTXRwNl9fVUZVeWdnZ1A3QnRVMnpXbWFkb2FhWGhmbjFiSWV4RnMyc3FXUmJzTnBwTnlROVUzNWE0a194OE1nT0xYcmtUMjA0Q1hfd1kyczA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:17:33.400Z",
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-resumes-fully-after-flooding-submerged-samereboi-to",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Galamsey resumes fully after flooding submerged Samereboi town",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey resumes fully after flooding submerged Samereboi town Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uRnM3V1RaamdoV0dSRXdvekxPX3hsOXZDeWxONWdwMjFxUkYyZVhmQ2pBbWVYTDVsaDV2VU5YSGlIdTNXOUw4RDNtVEV2Z3JGNVRpMm5ES0o2YmE2VnZXS3RiSXTSAVxBVV95cUxOYlJ4aXFoYm1VMUVLM3JsRW9SMjF5Tm5pM2V6YjNSbmNjaW9xZFZWUTZYMmdTbnIwY3VyTWkxRW90Wk1tVzV4Rm5rZ3Y1M1JiS1NtTDRhMWMyOTF0VA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uRnM3V1RaamdoV0dSRXdvekxPX3hsOXZDeWxONWdwMjFxUkYyZVhmQ2pBbWVYTDVsaDV2VU5YSGlIdTNXOUw4RDNtVEV2Z3JGNVRpMm5ES0o2YmE2VnZXS3RiSXTSAVxBVV95cUxOYlJ4aXFoYm1VMUVLM3JsRW9SMjF5Tm5pM2V6YjNSbmNjaW9xZFZWUTZYMmdTbnIwY3VyTWkxRW90Wk1tVzV4Rm5rZ3Y1M1JiS1NtTDRhMWMyOTF0VA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:17:58.069Z"
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-rivers-may-take-100-years-to-recover-ucc-prof",
+      "date": "2026-11-09",
+      "category": "water",
+      "title": "Galamsey rivers may take 100 years to recover – UCC prof",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey rivers may take 100 years to recover – UCC prof 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHRZUXBuempNczlKaVVteGwyWWZFNzA0SU8yQ2xGQWItTTc1R0lBSGtmSzlUTjZ0SnBxa3VTMnUyZzk2dFhsc281WUFpZXo1OTNtUzRjakd3RkdKOEs5dTUwR21NQzR3cDhlRXlWdjNUX094R2toSzJRQ29KRlRtU2tOMW9YQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHRZUXBuempNczlKaVVteGwyWWZFNzA0SU8yQ2xGQWItTTc1R0lBSGtmSzlUTjZ0SnBxa3VTMnUyZzk2dFhsc281WUFpZXo1OTNtUzRjakd3RkdKOEs5dTUwR21NQzR3cDhlRXlWdjNUX094R2toSzJRQ29KRlRtU2tOMW9YQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:18:22.594Z"
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-resumes-along-tano-river-and-samereboi-airstrip-mon",
+      "date": "2026-11-09",
+      "category": "water",
+      "title": "Galamsey resumes along Tano River and Samereboi airstrip months after floods",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Galamsey resumes along Tano River and Samereboi airstrip months after floods 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUd2ZJZE1aNDY2OVl1QllSR2VZeDUxUXpwSnBPNjV4aXhqSEZFY2JidTlLWEtZZWlOQXJPbXlXcExnUGNXWGVnMElIN2FiZnBWVVlObGhSdVgzOXk4TDFKdFlwWlFSZVFYR3hmQURQaFliVjN0dThMdA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMieEFVX3lxTFBUd2ZJZE1aNDY2OVl1QllSR2VZeDUxUXpwSnBPNjV4aXhqSEZFY2JidTlLWEtZZWlOQXJPbXlXcExnUGNXWGVnMElIN2FiZnBWVVlObGhSdVgzOXk4TDFKdFlwWlFSZVFYR3hmQURQaFliVjN0dThMdA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:18:47.437Z",
+      "thread": "t-auto-2026-11-09-galamsey-resumes-along-tano-river-and-samereboi-airstrip-mon"
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-organogram-2026",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "GALAMSEY ORGANOGRAM 2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GALAMSEY ORGANOGRAM 2026 DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZZDl3Ry02aktDeVpPSDluLVJHeWp5YnpPUkM4dmUtYlg4WGNOSWp1WVVKVVFfVEZOWUFWckREVWYtVnNlQ0xHYUVRdVU0VlhPZ2pQNmRLYk9iQUdLd19jZ3VCSUItdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZZDl3Ry02aktDeVpPSDluLVJHeWp5YnpPUkM4dmUtYlg4WGNOSWp1WVVKVVFfVEZOWUFWckREVWYtVnNlQ0xHYUVRdVU0VlhPZ2pQNmRLYk9iQUdLd19jZ3VCSUItdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:19:12.640Z",
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-resumes-along-tano-river-airstrip-months-after-floo",
+      "date": "2026-11-09",
+      "category": "water",
+      "title": "Galamsey resumes along Tano river, airstrip months after flooding submerged Samereboi",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Galamsey resumes along Tano river, airstrip months after flooding submerged Samereboi MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldUSEFYLTdlQlhncnpGYVVXSGFMZFRMdk1OWTlrTG1zQkxTZF90eG1Sc3N6TjBfZkpFdzNpd3dtRXljRmhlLUVUUXNhQVJ4cEVzaGNLeUVHenoweFFycnd3ZS0tSUVueHZtaTlqMTVTRDFjRGJJQXRZTGJ5by1MUUNZOVB2TW9tWGNSZnd1WFFMWnlfTDcySzVYUzNvMlF4M1M4V01ucG1GZHNmclBTOVhWOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxOYldUSEFYLTdlQlhncnpGYVVXSGFMZFRMdk1OWTlrTG1zQkxTZF90eG1Sc3N6TjBfZkpFdzNpd3dtRXljRmhlLUVUUXNhQVJ4cEVzaGNLeUVHenoweFFycnd3ZS0tSUVueHZtaTlqMTVTRDFjRGJJQXRZTGJ5by1MUUNZOVB2TW9tWGNSZnd1WFFMWnlfTDcySzVYUzNvMlF4M1M4V01ucG1GZHNmclBTOVhWOA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T22:19:37.386Z",
+      "thread": "t-auto-2026-11-09-galamsey-resumes-along-tano-river-and-samereboi-airstrip-mon"
+    },
+    {
+      "id": "auto-2026-11-09-former-mp-proposes-machine-learning-system-to-predict-emergi",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Former MP proposes machine learning system to predict emerging galamsey hotspots",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Former MP proposes machine learning system to predict emerging galamsey hotspots MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVYwMjlFaEFZMGFyMjdMMzZmWlJVQ1E2eFozRHJJVHlUclJHNk9HQ0xvcHhPUUd5T3p3eTVPc2g3WVVxczNHWWFacnJhYmpONkZRUXYxMW15blRtTXlndEY3R0NPa3hmd3ZRbzZaLU5TSVQwaXNoNXhKMHo3NjFSMTNOZ2hVSUdaOGloSE02bDVOVXJkNFk5QnlWdTFzVVc5YXVqRDdiM0lvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVYwMjlFaEFZMGFyMjdMMzZmWlJVQ1E2eFozRHJJVHlUclJHNk9HQ0xvcHhPUUd5T3p3eTVPc2g3WVVxczNHWWFacnJhYmpONkZRUXYxMW15blRtTXlndEY3R0NPa3hmd3ZRbzZaLU5TSVQwaXNoNXhKMHo3NjFSMTNOZ2hVSUdaOGloSE02bDVOVXJkNFk5QnlWdTFzVVc5YXVqRDdiM0lvZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-is-not-an-npp-or-ndc-issue-amewu-calls-for-national",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Galamsey is not an NPP or NDC issue – Amewu calls for national approach",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is not an NPP or NDC issue – Amewu calls for national approach MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdfUjdYVWhpVXAxeDdCSUFIeFpvQUU5Ymc0RG1iNGdwV0piN2hsN2h3cklyQ3NSX05kdEhnZnRRUmtYc0pucXgwZ1llck9WdkVpbjBHTTk0alBienRKWHFOV1JTVmFQYTRJdDhCQTdWZkZMamdMNF90WHJYV3NfRUlFbWNQYkR5aWRfQnVLV1hCZ2taUGpXTjJYWQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdfUjdYVWhpVXAxeDdCSUFIeFpvQUU5Ymc0RG1iNGdwV0piN2hsN2h3cklyQ3NSX05kdEhnZnRRUmtYc0pucXgwZ1llck9WdkVpbjBHTTk0alBienRKWHFOV1JTVmFQYTRJdDhCQTdWZkZMamdMNF90WHJYV3NfRUlFbWNQYkR5aWRfQnVLV1hCZ2taUGpXTjJYWQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-09-submit-list-of-galamsey-hotspots-in-30-days",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Submit list of galamsey hotspots in 30 days",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Lands minister directs MMDCEs",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-submit-list-of-galamsey-hotspots-in-30-days-lands-minister-directs-mmdces.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-submit-list-of-galamsey-hotspots-in-30-days-lands-minister-directs-mmdces.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-09-philip-osei-bonsu-crowned-journalist-of-the-year",
+      "date": "2026-11-09",
+      "category": "policy",
+      "title": "Philip Osei Bonsu crowned Journalist of the Year",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Radio presenter Philip Osei Bonsu of Asempa FM has been named the Ghana Journalists Association (GJA) P.A.V. Ansah Journalist of the Year. He was conferred with the award at the association’s 30th Media Awards held at La Palm Royal Beach Hotel, La, Accra, last Saturday. Mr Osei Bonsu, popularly known as O.B., received the top individual honour for his work as host of Ekosiisen, Asempa FM’s Current Affairs Programme i",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-philip-osei-bonsu-crowned-journalist-of-the-year.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-philip-osei-bonsu-crowned-journalist-of-the-year.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-fr-upper-east"
     },
     {
       "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
@@ -540,6 +741,26 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-07T21:48:20.634Z",
+      "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-11-06-naimos-raids-illegal-sand-winning-sites-seizes-trucks-and-he",
+      "date": "2026-11-06",
+      "category": "arrest",
+      "title": "NAIMOS Raids Illegal Sand Winning Sites, Seizes Trucks and Heavy Equipment | AM News",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Raids Illegal Sand Winning Sites, Seizes Trucks and Heavy Equipment | AM News Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQlRGbU13RkNyUDhoenpSY2wzaGZrYnhtYVJGVmZlaXNHSmFOb2VkVVZUQ29CYmJieHdERnVxbWxJei1vdlpDNFZhSGxvWjFRLS1zUFdXQThwV19aZ3RlYzluNG_SAVxBVV95cUxOOFJQN0FDbDFWM2NEN0tRbXZ4TklYeXBra2hoeUx1T2RlS3ZSd05Xb19aeGM0RUJLYWxjdzhLVFQxeVVfVnJqRWg3Yk1BdDRldDZ5a1EwS1ZLSDFJYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPQlRGbU13RkNyUDhoenpSY2wzaGZrYnhtYVJGVmZlaXNHSmFOb2VkVVZUQ29CYmJieHdERnVxbWxJei1vdlpDNFZhSGxvWjFRLS1zUFdXQThwV19aZ3RlYzluNG_SAVxBVV95cUxOOFJQN0FDbDFWM2NEN0tRbXZ4TklYeXBra2hoeUx1T2RlS3ZSd05Xb19aeGM0RUJLYWxjdzhLVFQxeVVfVnJqRWg3Yk1BdDRldDZ5a1EwS1ZLSDFJYQ?oc=5",
+      "via": "rss",
+      "verified": false,
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
     },
     {
@@ -2440,21 +2661,20 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
+      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
+      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
@@ -2474,7 +2694,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE40U0lwdkNJNzdFQ3FsZmJSYmd2cExDUVpqOFZld0tNSWxhcDg5cFJyUGpNVTVZRFQtcC13VzZMRjQtLTB1TGpSeGptbjl6ZUcwYnZ1UUdyYldkZE5GaWZVVGFuUXTSAVxBVV95cUxPeGVTU3BOdWYzek1TSFRGSkNlR09ZUDdEMi15RWVfV3JlV0cwajlVX2RtcjRNT1VUTVhsSmg0dDBsTGpVd3RTWnBjVkhDNHhQRWI1Vld0T0Ryc1EyQQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-11-02-ghana-under-scrutiny-46-7kg-cocaine-bust-and-renewed-galamse",
@@ -3226,8 +3446,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-western-regional-minister-calls-for-unified-fight-against-illegal-mining.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-31T21:34:27.943Z",
-      "thread": "t-auto-2026-08-09-illegal-miners-have-returned-to-forest-reserves-with-new-equ"
+      "archivedAt": "2026-10-31T21:34:27.943Z"
     },
     {
       "id": "auto-2026-10-31-president-mahama-challenges-ghanaians-to-make-courageous-dom",
@@ -3924,7 +4143,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sWXVVR1VibXliaVNjeUEzaVJZZXFHTEdvelBkOXYxSTVuSy16X0NicEh6UUF3VWxIa0d3b2ViTU9RUFdPb0ozemFudm9SZHAtRjNVOHR1WFJVNUMyTUpMSlBrOWLSAVxBVV95cUxQYnVIdEhxQUFOOE9Uak8tNUwwREZMLWpfNXFHTnBWejE2aG5fa05wQ3JBc29IN2tTRmtmZllZLUY4S25fWDJLVUQ5eFZnSVlUMDR6Q1JoSWZtc2pqZA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-10-31-if-just-arresting-miners-and-burning-equipment-could-end-ill",
@@ -4671,6 +4890,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-15-galamsey-will-be-a-key-issue-for-npp-s-2028-campaign-annoh-d"
+    },
+    {
+      "id": "auto-2026-10-30-ghana-4-arrested-in-abesua-bridge-galamsey-collapse-probe",
+      "date": "2026-10-30",
+      "category": "arrest",
+      "title": "Ghana: 4 Arrested in Abesua Bridge Galamsey Collapse Probe",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: 4 Arrested in Abesua Bridge Galamsey Collapse Probe Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQl9DenBOcGdrTGNOQVdRWTlEcnk2LWV6QUwzb2VudFU5QTgzalc2ZGd3LVVIbWVqVW9VcS1LME84emxZOHRZVENwcUpjME1VZDNNUS1WRlJWNkRERThUakJiY0dIOTBfSFlOSWx6WU0zUjg0aE9Pc015V3ExVlFsT3dhSG1kV1JKdE9IQjdpTTlMSmpyOWllSG5QRE1aM2J0YXB2YURXSlhJRTlLLW1fanR6WFFFZFBMUUV1MTZfWlU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQl9DenBOcGdrTGNOQVdRWTlEcnk2LWV6QUwzb2VudFU5QTgzalc2ZGd3LVVIbWVqVW9VcS1LME84emxZOHRZVENwcUpjME1VZDNNUS1WRlJWNkRERThUakJiY0dIOTBfSFlOSWx6WU0zUjg0aE9Pc015V3ExVlFsT3dhSG1kV1JKdE9IQjdpTTlMSmpyOWllSG5QRE1aM2J0YXB2YURXSlhJRTlLLW1fanR6WFFFZFBMUUV1MTZfWlU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-28-abesua-under-siege-galamsey-cuts-off-main-road-and-bridge-cr"
     },
     {
       "id": "auto-2026-10-29-galamsey-fight-naimos-commences-community-engagement-to-comp",
@@ -5519,7 +5758,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nWExNYkZxOXU4TWtTdFkxZ3hERjBlU1M2cGxfbFVfSlpKUENSOTdTMm40UlUzYzdPc3hwTzFZZXJ4d0ZuY2ZRS21FczAwR0RtUV9DU1pDMFowMVVEZHNuVUQ1eGzSAVxBVV95cUxOUGduYTBHdmpaQ1Z2MldEM2MyTG1hcnF2UnZrNUt3M3Zhdk9sdW5PX1QyMVJYMWx6dHhQRlBnZjIwb3RtTDd5Zk93UTAxRkYtUTlmdU9XZU4yUVNCbw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-28-abesua-under-siege-galamsey-cuts-off-main-road-and-bridge-cr"
     },
     {
       "id": "auto-2026-10-28-galamsey-isolates-abesua-communities-river-kukubu-bridge-col",
@@ -7865,8 +8105,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-fight-against-galamsey-naimos-declares-war-on-atewa-forest-wreckers.html",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-23T21:24:03.384Z",
-      "thread": "t-auto-2026-08-19-2-organisations-promote-atewa-forest-protection"
+      "archivedAt": "2026-10-23T21:24:03.384Z"
     },
     {
       "id": "auto-2026-10-23-environment-minister-demands-tougher-action-against-illegal-",
@@ -8243,7 +8482,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjaVUzSHFvOEM4TDJYNUEtMlFjdk9YRVp6bG9BMURIVGxjblBfazJhR2Fmbk44LU5IbU45T1dsMVNULTNsM3BWUmtPRjlPcXE4OHZZNVNBVXJ4bXFTaFZrakhCNHDSAVxBVV95cUxNT0xRQ3Fxc3U1MGF1NmxXMF9Zc0VVWk42dEVyVFZOa0J3QkNud3J5ZERCMDNXY2p0UFRuZE55VC11TlFwV3ZkbzNOUm9KMTBXX0ZaSUYxTW9ydVktdQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-10-23-fighting-illegal-mining-naimos-makes-illegal-miners-restore-",
@@ -11830,7 +12069,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-14T04:49:17.673Z",
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
       "id": "auto-2026-10-14-we-need-your-support-in-fight-against-illegal-mining-mahama-",
@@ -16049,8 +16288,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUF4LUV1dVZkTFNNb0hGMkFQN3BnOUJYaDMwTlJXUUMyLXRXMGU0ZEdpRmhXXzJ4RUZyM0N3YnVSQVlPWFVCTEJmNW11akJkQVhTYWZldDVTckJ0OURTWl9WWV81NzZKaXdQU2FkdTlzLW9SMjVsbmgtenZ3VFBtcm5xR2V2c1lZOTJzcVEyRzhfSmFWWGlUaHdzSGVMNnF6cnFCUmZMRQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T16:21:32.702Z",
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "archivedAt": "2026-09-26T16:21:32.702Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-fight-i-never-said-i-ll-declare-a-state-of-emergenc",
@@ -16070,8 +16308,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00yWHhPdGJsT3l4MWJnMlVRUlM0QXhGbkhwb0xnSW0xVFctazNZMmRaQkVfTU50QlMtM1JtNGxjQ3gtQmkyTEd1c3JKdkVETkNIQW1JZ3pfTEYtQ1FIc3NRMEJ1VkhHQnFDQWdNajZZd09BWGpDMEo1VGxQd3hiNVd4M2dvcUQ3cFFTSXdjYS1yb29kZktaYQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T16:21:57.369Z",
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "archivedAt": "2026-09-26T16:21:57.369Z"
     },
     {
       "id": "auto-2026-09-26-galamsey-fight-more-water-guards-to-be-employed-to-help-john",
@@ -16092,7 +16329,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T16:22:22.123Z",
-      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-ll-declare-a-state-of-emergency-president-mah",
@@ -16768,7 +17005,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JeGpUZUduRFk1czZkS2xweHRfNlBlVktoUUI4eDhZdDNTbXVXRWxEUHpoWERvWlpTQUFJTUx2enBlME8tODhVYkg4UVd4UzJXMFpmR1JYV196UHVMb2J3ZEJFcDDSAVxBVV95cUxNOGpmaUFNZ3ItSzZBYUxkRDFCaUw5SjFzd0EtbzZjOUo5M0llV2FhVXhLc2l5QVVfdmNWX3BDTTBWVHlSUDJ1RGF2dnplcHg4MWcwYW82ZnhVOTUtZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-11-naimos-launches-major-operation-to-clear-illegal-mining-alon"
     },
     {
       "id": "auto-2026-09-24-two-shot-in-galamsey-clash-at-behenase-in-eastern-region",
@@ -18127,7 +18365,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
     },
     {
       "id": "auto-2026-09-15-atewa-forest-under-unprecedented-attack-from-illegal-mining-",
@@ -18793,7 +19032,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1dvT0tuSDNGUW42enlGdm5MWjdsV25XY3JOelVPemVXUERzSEQ0OFA0Vm1JTWNvWXpSVGVfX0VlZXEwTW9wNlU5MDFhMHdYYldyNDFaQjhSUGZjRjRTeHFhV0Q4MjF1YTJNWkJrYV9DNl9IaVhfdV96bkpxaUViVmV6SlJDWVdVM3l5MXBKSk5DTm1POFVLbHlhMm1HVEFkb1VaXzRqMmtsMTdTR1NvUUxzMHFNSzBBYXJzNEhrLU5MSzQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-13-watch-as-naimos-task-force-raids-galamsey-sites-seizes-excav",
@@ -20557,7 +20796,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVVPNlRkQlJlWWItRVo5bVEyNUo5UzZoTTNLWFZzQkZsZm1adklpNDBtU2NRd2lVd0hlNm1ERkxQLXF2U095cW9Ra3VIanVNcjMzb1JVTmpFcDdDREVlMWVBdUN4RG1CM1RiQW9OVG5NVUpwWHJyUzJRQ2JFSnJiMDRBZ0pMX0Z2VndIVndCR29HOHA4TlhoSmVOOHhNelotR2pCVG52LVFaY0JuR1hrWmY1elAxejJrZk1vb2Uxb3kxUQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-06-baffour-sikabede-ghana-galamsey-chiefs-must-protect-environm",
@@ -20619,7 +20858,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDB0cy1uemNYUjNHc1QwaG55cFJDMmd4cGExV2pSYmVtY2NJY25aNUc1VEFJQXd0U3NmaHF5YXpzQ2lySTJXR3daUUZQRzJyV0NrVDVxa3NNb01WekVFei1jWGE4M25DM1FQY0ZPN0QtZlpKZFpqXzJuR3NpMjR3c2lnZGZkejBsZm9pS0M1aGs0NlZTZGNWNmtOLTQ5S2lCcndkNUdBZVZlbGc0M25nZHBXOGVfUlp3ZlNvVjVuX1FWU2RpcWZNUHBR?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-06-frimpong-boateng-ghana-illegal-mining-concessions-easier-tha",
@@ -20639,7 +20878,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxNQjV6Z2FIa3NnUmVObnVIYTVYeGNWb25EYzJ6eTRqMzNRN2FIQy01X0VRNHY3emp6YjJnaDc1MjZtbDczdnZrRTd0VnJFcXJDV1pJeEVRWk1VQXd6OVVJUlh3eDVxTU1HdE9RblhodnU2bDluU3V2WnYxV1o3MHlMTGlUYXRFSmV0RU9zbDFIelBkVW1scFVUdmMwRV9GNmp3TWpja2xFZHlkSUREbVhtMXBQbVlDZFpGQ1ZScHRLeldxRHhOWktn?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+      "thread": "t-auto-2026-09-06-frimpong-boateng-ghana-galamsey-safeguards-abandoned-undermi"
     },
     {
       "id": "auto-2026-09-05-pulpit-and-politics-pastors-speak-on-galamsey-and-the-nation",
@@ -22158,8 +22397,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPMjRPOVRWd1NXN0JTNDNZU2F2SERHZDA3Yjg1MzJRbzJfeDJaS0twVUgzS1RuSDlFb2lSbXNSVFg3RVZJZFg2d3NlRVJZczE1UGpmY0pia0tqVEhrNTl5dXpsTVhqOGJFVVNxSExaeXNyRFJ1T2FGd0xGRjZMTjFNNGJ5Tk5BcjFGRDhTZXczdEtNRWNOQmlKa1FkWm5RcHNI?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-naimos-clears-galamsey-sites-the-people-return-after-operati",
@@ -22179,7 +22417,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXBiNVZtb09sWG5PY3M1MFBTcC10LXJVdDI1MVJNS1RjUElfM2ZLTDV1aUFacWQ5UlpFbF9kcjgxaXBEZlFidlZOZENDSXo1QXlTTnpjbnFmdzd4TW9hQzlBaFEyZk9zXzNQWHFmVTk5dGI1ckNyZEZlUmM3WkJCTHdKWS1tUTRtdVZYejdRYmt6RF9NRDJBcWNqTjJuNUVBT2tvSTd3WnZmYkR2d3MyNFhUejRGT2VN?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-09-01-ndc-npp-must-admit-their-role-in-politicising-galamsey-schan",
@@ -22198,8 +22436,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZoVFZ2MXVzd0JrMjdaWGQycFVlTlNXdjJSV1pYY1E2b0xPQkFzQ0ZsbjVzdzVULU1PS09MMmhHbWpjWFloY2E2SHgxT3BtVGVpa18xa25zOVI3T2wydVN2OHBCY2M0YWtJRHhRRWR1UDczMDVGNmNlXzhnYnpiSzdrOE1Cbk1TaHZsM3V6VjBraWU5?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-01-naimos-records-228-operations-and-112-arrests-in-august-scha"
+      "verified": false
     },
     {
       "id": "auto-2026-09-01-state-of-emergency-is-no-magic-wand-for-galamsey-lands-minis",
@@ -27099,8 +27336,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-2-organisations-promote-atewa-forest-protection.html",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-19-2-organisations-promote-atewa-forest-protection"
+      "verified": false
     },
     {
       "id": "auto-2026-08-19-atwima-mponua-district-taskforce-destroys-illegal-mining-equ",
@@ -32057,7 +32293,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTA5cVlvOG45bHZrRjl4WERRSV9rM1Ftd3dSbHZsQzhBUkxNLUYtRTRZa3M2ck9TdUJhSGw5UVg5NHB6RHJ4dHdySVVCOFpGWlFtdVFYZFpfZWF6VzMzX21qYVd1NndLWU9aQUw5RzlrckU4Rk41TWJIMzlYNWJfTU9jaHlCR09BZmlaTXMyVDlvTWhlbEN2T3hSZFVVZ1lVQy1lMTM3UTNPOE1YRmpXRjBqMkhlMWVzNVdfM3FjUWt5dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-06-government-s-galamsey-fight-would-make-fallen-helicopter-cra"
     },
     {
       "id": "auto-2026-08-06-bono-regional-minister-vows-not-to-relent-on-galamsey-crackd",
