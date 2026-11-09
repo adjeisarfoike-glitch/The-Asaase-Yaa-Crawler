@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-08T22:05:48.584Z",
+  "updated": "2026-11-09T06:24:38.691Z",
   "counts": {
-    "total": 1714,
+    "total": 1717,
     "verified": 28,
-    "automated": 1686,
+    "automated": 1689,
     "earliest": "2024-07-01",
-    "latest": "2026-11-08"
+    "latest": "2026-11-09"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-09-galamsey-poisons-in-rivers-lands-may-need-100-and-300-years-",
+      "date": "2026-11-09",
+      "category": "water",
+      "title": "Galamsey poisons in rivers, lands may need 100 and 300 years to heal – Professor warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey poisons in rivers, lands may need 100 and 300 years to heal – Professor warns Ghana Business News",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmdOaGxNU3RzcmdDN2NubVRRYkZaQmkySzdCUWRSU3FYbDZHWHd2S0Izd2hkYk16d1JvT3liVzIyQVhlTHA4RUdUa053NGdQRzhXUVF2NjV4TERyWWpoYVJzdDB1RmViODM0Qnk0R0hYbnJ3S0N1WHZiOU1KZVF5N21Fall0bWFLMXY2MUxGSnhlUUNkU09vMmZnWlktR3FqUzUtbXpNbzVUUmFlT1dwUHhjcV9TOThHUTVabTdCSzdBU3psV3dmMg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmdOaGxNU3RzcmdDN2NubVRRYkZaQmkySzdCUWRSU3FYbDZHWHd2S0Izd2hkYk16d1JvT3liVzIyQVhlTHA4RUdUa053NGdQRzhXUVF2NjV4TERyWWpoYVJzdDB1RmViODM0Qnk0R0hYbnJ3S0N1WHZiOU1KZVF5N21Fall0bWFLMXY2MUxGSnhlUUNkU09vMmZnWlktR3FqUzUtbXpNbzVUUmFlT1dwUHhjcV9TOThHUTVabTdCSzdBU3psV3dmMg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T06:19:48.214Z",
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
     {
       "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
       "date": "2026-11-08",
@@ -111,6 +132,47 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-08T22:00:32.412Z",
+      "thread": "t-auto-2026-07-15-galamsey-fight-258-suspects-arrested-in-six-months-armah-kof"
+    },
+    {
+      "id": "auto-2026-11-08-galamsey-polluted-rivers-and-lands-may-take-100-to-300-years",
+      "date": "2026-11-08",
+      "category": "water",
+      "title": "Galamsey-polluted rivers and lands may take 100 to 300 years to recover – UCC Professor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey-polluted rivers and lands may take 100 to 300 years to recover – UCC Professor CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1yRzdBeFBnR2RPYXhocDFUR1NnaWhtRERSYVdQX3BheUVQUXhjc3ozanpGVFg5MkZQcGZqTUt5LVlVTFc0bnA1WmlOMlZrblJhYXhPd1JFR1ZoZGcyR1RtaU1KSTAzdUhxWU1fTnk2cWRFMHZRRDBxcUdMSVAxN0s3dGQyQkxSWFZLdTByRHQtN3lWY2VBNTM5bzlyRDBuNklhNTlVOEpNMFJGRWVvdlY0M2E2dEhNaFhlZkVUa00?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1yRzdBeFBnR2RPYXhocDFUR1NnaWhtRERSYVdQX3BheUVQUXhjc3ozanpGVFg5MkZQcGZqTUt5LVlVTFc0bnA1WmlOMlZrblJhYXhPd1JFR1ZoZGcyR1RtaU1KSTAzdUhxWU1fTnk2cWRFMHZRRDBxcUdMSVAxN0s3dGQyQkxSWFZLdTByRHQtN3lWY2VBNTM5bzlyRDBuNklhNTlVOEpNMFJGRWVvdlY0M2E2dEhNaFhlZkVUa00?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T06:20:15.380Z"
+    },
+    {
+      "id": "auto-2026-11-08-what-kofi-wayo-said-about-galamsey-over-18-years-ago",
+      "date": "2026-11-08",
+      "category": "forest",
+      "title": "What Kofi Wayo said about galamsey over 18 years ago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "What Kofi Wayo said about galamsey over 18 years ago GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGZfajV4enp4RVR4c0tVM19IQWdUQW9CUVZDVjFXZ2FhdUlBSWFyWW1TNFVMa3JDT2xHSmcyQjFFdUlldmI5SHhIOHpsdF9hRWZjX3J3SzRUMWsycHlnYkZ0eC1Bb1ZPcWFtNW1iU196UVFMREFHZXF5Y2VYcTB4emEySlkydHdzNllHaFYxb0xUejN6dzF4bjlHeDBuWE1MbDd2YkxmMG5ZbUZqTDJjdg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGZfajV4enp4RVR4c0tVM19IQWdUQW9CUVZDVjFXZ2FhdUlBSWFyWW1TNFVMa3JDT2xHSmcyQjFFdUlldmI5SHhIOHpsdF9hRWZjX3J3SzRUMWsycHlnYkZ0eC1Bb1ZPcWFtNW1iU196UVFMREFHZXF5Y2VYcTB4emEySlkydHdzNllHaFYxb0xUejN6dzF4bjlHeDBuWE1MbDd2YkxmMG5ZbUZqTDJjdg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-09T06:20:48.109Z",
       "thread": "t-auto-2026-07-15-galamsey-fight-258-suspects-arrested-in-six-months-armah-kof"
     },
     {
@@ -1036,7 +1098,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ecom-ghana-commissions-new-school-facilities-at-konkoma-charges-farmers-to-safeguard-cocoa-farms/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-09T06:21:32.509Z"
     },
     {
       "id": "auto-2026-11-04-naimos-only-embarks-on-lawful-arrests-but-it-may-go-offensiv",
@@ -2377,20 +2440,21 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
+      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
+      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "GhanaWeb",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
