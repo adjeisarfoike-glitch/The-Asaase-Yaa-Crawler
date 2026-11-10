@@ -1,13 +1,53 @@
 {
-  "updated": "2026-11-09T22:23:37.659Z",
+  "updated": "2026-11-10T07:17:05.931Z",
   "counts": {
-    "total": 1729,
+    "total": 1733,
     "verified": 28,
-    "automated": 1701,
+    "automated": 1705,
     "earliest": "2024-07-01",
-    "latest": "2026-11-09"
+    "latest": "2026-11-10"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-10-purc-urges-chiefs-to-help-fight-galamsey-polluting-water-bod",
+      "date": "2026-11-10",
+      "category": "water",
+      "title": "PURC urges chiefs to help fight galamsey polluting water bodies",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PURC urges chiefs to help fight galamsey polluting water bodies MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkhhYjI5R0lFQ3ZWc0pITzVDLTAzNVo5ZTRTTUVvYVBwVVJVUkVKYW42WklNc25tU3VNSWM0NVdwYlE3ZEI2QW50VkFfbUc1eExTWmJPZHVLNHk1c2RKOGEtOXRuWTRVMTRGYU1PWnhUbXY2QXo3UW1fRTBFY2lfM3Fkb3NQS0pXNFlncGRxSGxYeUxNSzc0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNVkhhYjI5R0lFQ3ZWc0pITzVDLTAzNVo5ZTRTTUVvYVBwVVJVUkVKYW42WklNc25tU3VNSWM0NVdwYlE3ZEI2QW50VkFfbUc1eExTWmJPZHVLNHk1c2RKOGEtOXRuWTRVMTRGYU1PWnhUbXY2QXo3UW1fRTBFY2lfM3Fkb3NQS0pXNFlncGRxSGxYeUxNSzc0?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-10T07:12:29.108Z"
+    },
+    {
+      "id": "auto-2026-11-10-the-river-offin-gods-can-stop-menstruating-girls-why-can-t-t",
+      "date": "2026-11-10",
+      "category": "water",
+      "title": "The river Offin “gods’ can stop menstruating girls. Why can't they stop galamsey? - Joojo Cobbinah writes",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "The river Offin “gods’ can stop menstruating girls. Why can't they stop galamsey? - Joojo Cobbinah writes MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc045ajNGWnRhamMtZDNVX0lFajRqUGhvdGFTSFBJV0dvaDc2UXR4cExHZmFVb2E4VW9QZHF5ZWJfTzNQWXRuSlplUjlfYXBnTXc4YjVtcXRuc29TRGhKODFjdGlSVklQaEVvSmxJXzlaT3lyV1BlNDIwS3VuZ1NoQnhOc1dYUXBWemVOV3RrOFlyc2VPcXNPSFVKRFg3eTJxdG9UcGZYTjZMUDdpQ2hVRFpLVHVlYkpKOERleEUyQjdVS2laM2c?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxNc045ajNGWnRhamMtZDNVX0lFajRqUGhvdGFTSFBJV0dvaDc2UXR4cExHZmFVb2E4VW9QZHF5ZWJfTzNQWXRuSlplUjlfYXBnTXc4YjVtcXRuc29TRGhKODFjdGlSVklQaEVvSmxJXzlaT3lyV1BlNDIwS3VuZ1NoQnhOc1dYUXBWemVOV3RrOFlyc2VPcXNPSFVKRFg3eTJxdG9UcGZYTjZMUDdpQ2hVRFpLVHVlYkpKOERleEUyQjdVS2laM2c?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-10T07:12:54.703Z"
+    },
     {
       "id": "auto-2026-11-09-galamsey-poisons-in-rivers-lands-may-need-100-and-300-years-",
       "date": "2026-11-09",
@@ -170,7 +210,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeVYwMjlFaEFZMGFyMjdMMzZmWlJVQ1E2eFozRHJJVHlUclJHNk9HQ0xvcHhPUUd5T3p3eTVPc2g3WVVxczNHWWFacnJhYmpONkZRUXYxMW15blRtTXlndEY3R0NPa3hmd3ZRbzZaLU5TSVQwaXNoNXhKMHo3NjFSMTNOZ2hVSUdaOGloSE02bDVOVXJkNFk5QnlWdTFzVVc5YXVqRDdiM0lvZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-10T07:13:07.565Z"
     },
     {
       "id": "auto-2026-11-09-galamsey-is-not-an-npp-or-ndc-issue-amewu-calls-for-national",
@@ -189,7 +230,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdfUjdYVWhpVXAxeDdCSUFIeFpvQUU5Ymc0RG1iNGdwV0piN2hsN2h3cklyQ3NSX05kdEhnZnRRUmtYc0pucXgwZ1llck9WdkVpbjBHTTk0alBienRKWHFOV1JTVmFQYTRJdDhCQTdWZkZMamdMNF90WHJYV3NfRUlFbWNQYkR5aWRfQnVLV1hCZ2taUGpXTjJYWQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-10T07:13:32.495Z",
+      "thread": "t-auto-2026-11-09-galamsey-is-not-an-npp-or-ndc-issue-amewu-calls-for-national"
     },
     {
       "id": "auto-2026-11-09-submit-list-of-galamsey-hotspots-in-30-days",
@@ -208,7 +251,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-submit-list-of-galamsey-hotspots-in-30-days-lands-minister-directs-mmdces.html",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-10T07:14:05.272Z"
     },
     {
       "id": "auto-2026-11-09-philip-osei-bonsu-crowned-journalist-of-the-year",
@@ -228,7 +272,47 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-philip-osei-bonsu-crowned-journalist-of-the-year.html",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-10T07:14:30.186Z",
       "thread": "t-fr-upper-east"
+    },
+    {
+      "id": "auto-2026-11-09-fighting-galamsey-illegal-mining-returns-to-samreboi-months-",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Fighting Galamsey: Illegal mining returns to Samreboi months after devastating flood",
+      "place": "Samreboi",
+      "region": "Western North",
+      "lat": 5.65,
+      "lon": -2.55,
+      "summary": "Fighting Galamsey: Illegal mining returns to Samreboi months after devastating flood Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5naWU0bFJwRmtMM09pUHZIdGhMUG1wYmhyRVRQYXZROWV6YVpQcnk4UWhJSElRSmEzdFJ5dkpESFdUMGJiTGhvb2U2M1RUbzVEVTU2djVMcTRuNW5ERzd0djk2RHbSAVxBVV95cUxOQS1tTTZoVnFyYXU2SWlXaWV3U09IUllEbmlGTGM4MkZneHNqMTRacmpaSXlqTUlWeWJRNDNnalZIVW85dkpNYjBYZ3p3a3FSSGIybmQySnk1N0hVYg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5naWU0bFJwRmtMM09pUHZIdGhMUG1wYmhyRVRQYXZROWV6YVpQcnk4UWhJSElRSmEzdFJ5dkpESFdUMGJiTGhvb2U2M1RUbzVEVTU2djVMcTRuNW5ERzd0djk2RHbSAVxBVV95cUxOQS1tTTZoVnFyYXU2SWlXaWV3U09IUllEbmlGTGM4MkZneHNqMTRacmpaSXlqTUlWeWJRNDNnalZIVW85dkpNYjBYZ3p3a3FSSGIybmQySnk1N0hVYg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-09-galamsey-is-not-an-npp-or-ndc-issue-amewu",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "Galamsey is not an NPP or NDC issue – Amewu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is not an NPP or NDC issue – Amewu MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdfUjdYVWhpVXAxeDdCSUFIeFpvQUU5Ymc0RG1iNGdwV0piN2hsN2h3cklyQ3NSX05kdEhnZnRRUmtYc0pucXgwZ1llck9WdkVpbjBHTTk0alBienRKWHFOV1JTVmFQYTRJdDhCQTdWZkZMamdMNF90WHJYV3NfRUlFbWNQYkR5aWRfQnVLV1hCZ2taUGpXTjJYWQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdfUjdYVWhpVXAxeDdCSUFIeFpvQUU5Ymc0RG1iNGdwV0piN2hsN2h3cklyQ3NSX05kdEhnZnRRUmtYc0pucXgwZ1llck9WdkVpbjBHTTk0alBienRKWHFOV1JTVmFQYTRJdDhCQTdWZkZMamdMNF90WHJYV3NfRUlFbWNQYkR5aWRfQnVLV1hCZ2taUGpXTjJYWQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-09-galamsey-is-not-an-npp-or-ndc-issue-amewu-calls-for-national"
     },
     {
       "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
@@ -2661,20 +2745,21 @@
       "id": "auto-2026-11-02-chiefs-must-protect-lands-from-galamsey-for-generations-unbo",
       "date": "2026-11-02",
       "category": "forest",
-      "title": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II",
+      "title": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Chiefs must protect lands from galamsey for generations unborn - Ogyeahoho Yaw Gyebi II GhanaWeb",
+      "summary": "'Chiefs must protect lands from galamsey for generations unborn' — National House of Chiefs President urges Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "GhanaWeb",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXZaZEZNTWFFQm8xQ3hQZmhXUkV3TkNtS2FSd2s5U1RHcVROdUVDRm9qSEFVS0d0SzBmNW03MjVJYnVIRFlDS1k0UklIT0hQSUtNdXF1dDFyZUdZNHdkdXJXTXI0cmFwN1hMMjVvdS1rUW5SbENuQVRNNFRkX0x3NUxlYnlsWEZoVkVvdW1US2o0cTVadlJsaEI2eUhJdnMzNUNMUUt3X2VrUHN3SWpNblM0SkkxdW1jN2NKOWpJbXMwdWNna2szamltclJ3RFA3NndhYV8xNklTTE9Q?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxONzNfYk04cFZoVGZxZVdROUhLejFCaHBLMzg2LUdqR3piMC1JQ2FnSFNGRDlodVpJeFVzSXZmTDNqbjc0bURZaDBaal9VQ2N6T0JKY1ByTThTRFpPT21TWGlUZUNMVEd0dzgyYnpGekx6VE9qQWxFOVIxcDg1YU1FVTNMY1E5ZzBlQXQ1dFFPbmVZb0dicjBkZjFoQdIBmgFBVV95cUxNdXVZTUR4OWlUOW1nMzhKZ2pqSlZWQ043ZFFMQTZqRHhPSTBDWTFid1l5Y0g3Y0FNMXNINkdpVHNoTS1FQVZONXdRQ0lKTWF4a2RGWXJSTmJXaVdsRl9oY2FmYzZNZWpHLVlsTFJJTThPUFdBakZyYmpyUVRwUG1ZQmhCeHY3ZHhMS0JZazdVclhjR1Vkc1pLX0hB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
       "id": "auto-2026-11-02-ignore-malicious-propaganda-against-naimos-and-government-in",
