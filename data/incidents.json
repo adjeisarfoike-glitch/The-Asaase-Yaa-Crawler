@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-11T14:20:16.031Z",
+  "updated": "2026-11-12T00:45:42.550Z",
   "counts": {
-    "total": 1755,
+    "total": 1778,
     "verified": 28,
-    "automated": 1727,
+    "automated": 1750,
     "earliest": "2024-07-01",
     "latest": "2026-11-11"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxORXlURS0tU3d6S2tvVWNuQTE4YmhCRzFCQ3QwUTUwLXRMUGpfNmFGdDN5SG9sMFJCRkk5UDRrVl9ZSEZCZTlUQmxINUI4cXgtWHlqQlV2ZUJhY2dIQTNnZ1ZtcGZ5bVBCbGF1Q1Fwa2dld0hUdzJQYkk2aGxEWFU5VWZkMA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-12T00:38:45.285Z"
     },
     {
       "id": "auto-2026-11-11-fighting-galamsey-small-scale-miners-accuse-security-agencie",
@@ -44,26 +45,28 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZVzRZeVFKSDNpVUJXVnlQeHRORS1rV25NVGVCekpJVnpkeGdpcncyTk5sNGRGdElSQS1pZG5lX3VFa196NC1qZk1ESG9qNVRvQnVCX1JYV1hfeVJJY3dveDRtYzbSAVxBVV95cUxQSFBqOFA1NzN6VWZXX28wSnZpUW0wX05lUFozY3FfLVFwenNvYnl6enMtR0g3b1hPSDhfRXRRZHZpcTMyRmswVzRtWXc2dElIbUhDV19HTnY0VWdRMw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-12T00:39:02.737Z"
     },
     {
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-12T00:39:27.484Z"
     },
     {
       "id": "auto-2026-11-11-epa-warns-communities-boiling-galamsey-polluted-water-does-n",
@@ -82,7 +85,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMieEFVX3lxTE56WXQ5dGRSMmxTRjdIWmhScUpjQlVtQ0RNeUlYTHhjb1o0WlpRVUJoUnBrRG9tLWN2c0R2ZDRBdjhxNkNDcTItT3FwZmcwRFVnN25DZ3N2V0hXem1lWjJ3d0JuTE5NN1NpQnI1c0o2S0g0V2xaYi16Xw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-12T00:40:16.163Z"
     },
     {
       "id": "auto-2026-11-11-ndc-won-t-be-in-power-forever-appiah-stadium-warns-appointee",
@@ -102,6 +106,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZUtvODVXRG53ZGNIVmF2VjU0VjdOLWQwbklFbzBmS0lmLXoyUU1aWS1fY3VkckxqRExUUXhWc2ZoVHgwU2IzcGE2RlBWTEJLMkxkdlBCQklKRE8tczVNY21KVURtQXFqSGdreGFRTDUxczlhWHFlcVU0NmdGeUF3TFZiV1hKdmJfZ0kwNWNBMkhQc2F0aHZMODMwVUpENC1zT2JjX1NPTXhhdDg3R196VGFFREpFdEk1V1RsUS1QeGZodm93dnh5bF9ZVnNSZ3dyMkQzNk9iREs?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-12T00:40:47.460Z",
       "thread": "t-auto-2026-11-11-ndc-won-t-be-in-power-forever-appiah-stadium-warns-appointee"
     },
     {
@@ -143,6 +148,444 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-11-11-geospatial-technology-needs-strong-institutions-to-tackle-ga",
+      "date": "2026-11-11",
+      "category": "policy",
+      "title": "Geospatial technology needs strong institutions to tackle galamsey – Lands Ministry",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Geospatial technology needs strong institutions to tackle galamsey – Lands Ministry CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTYxRTRDVlBmLVMtTFh6TzVXQUZpYnlMUll2Q0NSYlN5akZxOEk1QjZsZ0pnZGJrTkJqR2c4cU41ZGR0XzV6cTNOcmxRUUphbEEtdHlFcEh3bTVOXzA2clRlY0prWElWSUtxMkFuaFhoLTBqSGh5RllBekNQd0daWi1mYXB4eXowRmctdC05VWFsNmZTbkJkcmpHSDNIMVRURURNdEZrVGZFOGU5eGZ4TzFFX2Z0MENlZXZZ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLTYxRTRDVlBmLVMtTFh6TzVXQUZpYnlMUll2Q0NSYlN5akZxOEk1QjZsZ0pnZGJrTkJqR2c4cU41ZGR0XzV6cTNOcmxRUUphbEEtdHlFcEh3bTVOXzA2clRlY0prWElWSUtxMkFuaFhoLTBqSGh5RllBekNQd0daWi1mYXB4eXowRmctdC05VWFsNmZTbkJkcmpHSDNIMVRURURNdEZrVGZFOGU5eGZ4TzFFX2Z0MENlZXZZ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-11-galamsey-fight-naimos-must-change-its-strategy-and-approach-",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Galamsey Fight: NAIMOS Must Change Its Strategy and Approach | UPfront (11-11-26)",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: NAIMOS Must Change Its Strategy and Approach | UPfront (11-11-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcGdZOEExdm1ueER6YUFlVUZ3VEJfSS1XWVFFUG9NLVZVaFFxUEhRcElXTGJrVmZMX3lMREVDQjRHNW1iWnJCWmZuT0JqdnVQOUdCdjFON0hscFRPTTQwUHJtOVnSAVxBVV95cUxQT2hRNTl5aU1mSEtfOTZDdmk2M2R5OHJNWklRbXgyVHFxUzZzeHJjQXBHZ0Y4aTNmWk0ycU82ZERyZDk3Wks2V2w4WTBvcW9oMmNXOGplU18xclMzWg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VcGdZOEExdm1ueER6YUFlVUZ3VEJfSS1XWVFFUG9NLVZVaFFxUEhRcElXTGJrVmZMX3lMREVDQjRHNW1iWnJCWmZuT0JqdnVQOUdCdjFON0hscFRPTTQwUHJtOVnSAVxBVV95cUxQT2hRNTl5aU1mSEtfOTZDdmk2M2R5OHJNWklRbXgyVHFxUzZzeHJjQXBHZ0Y4aTNmWk0ycU82ZERyZDk3Wks2V2w4WTBvcW9oMmNXOGplU18xclMzWg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+    },
+    {
+      "id": "auto-2026-11-11-galamsey-raids-miners-association-alleges-extortion-and-huma",
+      "date": "2026-11-11",
+      "category": "arrest",
+      "title": "Galamsey raids: Miners Association alleges extortion and human rights abuses by enforcement officers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey raids: Miners Association alleges extortion and human rights abuses by enforcement officers Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UDZPZzhKbEV0bVFURjRQZE9YTXhJS205VE9kbGZyYVdoSkNZanJJakoyQjZPQ1VuV2JCb0pZWU5SMjA4T25nTXhEak0yaWRpZEt5RU9fb1dqdW9BZElBc1doTzDSAVxBVV95cUxNU3NadjVaM0Y4OUJjUlFCcnFmSExEbnl0QWhXZUszT1M2eTc1azFCQ0xJZzZUQkVaTEFzRTBGbzBST2p1dENKZ2xITVcxbV9KR3Y2RldkaUxaQktmYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE95UDZPZzhKbEV0bVFURjRQZE9YTXhJS205VE9kbGZyYVdoSkNZanJJakoyQjZPQ1VuV2JCb0pZWU5SMjA4T25nTXhEak0yaWRpZEt5RU9fb1dqdW9BZElBc1doTzDSAVxBVV95cUxNU3NadjVaM0Y4OUJjUlFCcnFmSExEbnl0QWhXZUszT1M2eTc1azFCQ0xJZzZUQkVaTEFzRTBGbzBST2p1dENKZ2xITVcxbV9KR3Y2RldkaUxaQktmYw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-11-cop31-commitments-meaningless-without-galamsey-fight-arocha-",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "COP31 commitments meaningless without galamsey fight – Arocha Ghana",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "COP31 commitments meaningless without galamsey fight – Arocha Ghana CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVRiZURXZ2xtUmNaT3NLb3VjR0ZTdVNFdThiNzhqQ2t3NWdONjhjUFZHeTNxVXhJOEVwRXJNelNoWVI1bEFFTFQxNHdTTVV3SFhNb0tYajI3bHNBaTFpU2FPM1ZMa3Z5RDQ0U1FjaUMxYnB0dzFBeXBzV2pMRHB3Y0Njbm1UM0pyVmNYOG5mZzUxVV9QdF92ZzhMRE5XUXhMRkthYTZR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPQVRiZURXZ2xtUmNaT3NLb3VjR0ZTdVNFdThiNzhqQ2t3NWdONjhjUFZHeTNxVXhJOEVwRXJNelNoWVI1bEFFTFQxNHdTTVV3SFhNb0tYajI3bHNBaTFpU2FPM1ZMa3Z5RDQ0U1FjaUMxYnB0dzFBeXBzV2pMRHB3Y0Njbm1UM0pyVmNYOG5mZzUxVV9QdF92ZzhMRE5XUXhMRkthYTZR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-11-galamsey-two-reportedly-killed-two-naimos-officers-injured-i",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Galamsey: Two reportedly killed, two NAIMOS officers injured in violent clash at Dome Keniago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Two reportedly killed, two NAIMOS officers injured in violent clash at Dome Keniago CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3MtVXU5NE40dDlRU2M3NVUxMGctR21nY3ZjLXNZY1dXYjBiai1lZ0N0d0xfLUoxaXhIUnVFVTI2bllWSXBpdTlUeWZaUDY2Q2xGNElXUkNjTDA5R1Z3eE1mMTZnV2RjOGNwa0FESGVxZUxOVTRuM3R2NVR1V21lWVVRUGxWc3d2YWMtbUtRV2lXbndxX1hzNUVsYXlaVGRZWXYtYVpwb3hQSkNvUnRIdDdwb2k5dzlLdzFyRlF3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3MtVXU5NE40dDlRU2M3NVUxMGctR21nY3ZjLXNZY1dXYjBiai1lZ0N0d0xfLUoxaXhIUnVFVTI2bllWSXBpdTlUeWZaUDY2Q2xGNElXUkNjTDA5R1Z3eE1mMTZnV2RjOGNwa0FESGVxZUxOVTRuM3R2NVR1V21lWVVRUGxWc3d2YWMtbUtRV2lXbndxX1hzNUVsYXlaVGRZWXYtYVpwb3hQSkNvUnRIdDdwb2k5dzlLdzFyRlF3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-12T00:43:44.545Z",
+      "thread": "t-auto-2026-11-11-galamsey-two-reportedly-killed-two-naimos-officers-injured-i"
+    },
+    {
+      "id": "auto-2026-11-11-a-rocha-ghana-urges-stronger-galamsey-action-ahead-of-cop31",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "A Rocha Ghana Urges Stronger Galamsey Action Ahead of COP31",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "A Rocha Ghana Urges Stronger Galamsey Action Ahead of COP31 Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92RWV1NnF2RXZsZElMNXRqbDhuREdDN3lYRC1IQlZaUnhzbFhwMU9zclZpeUctWTBOMGwxX3F0M25XMENKSUJBVDFpMUtFTmtfbUpxQUlNWTJoRXJMRWfSAVxBVV95cUxOMVdrTXlSRXEwM2dvaU9lcDFlc2R0MnZvYlp3V192bGFXTEc1YjFDRDA2T0VsWFFPQ2Yyd2dVS2Y2Z2o3SEh6MDJ4WkdBelYzTWlBazJnWG1PMXNMYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXkFVX3lxTE92RWV1NnF2RXZsZElMNXRqbDhuREdDN3lYRC1IQlZaUnhzbFhwMU9zclZpeUctWTBOMGwxX3F0M25XMENKSUJBVDFpMUtFTmtfbUpxQUlNWTJoRXJMRWfSAVxBVV95cUxOMVdrTXlSRXEwM2dvaU9lcDFlc2R0MnZvYlp3V192bGFXTEc1YjFDRDA2T0VsWFFPQ2Yyd2dVS2Y2Z2o3SEh6MDJ4WkdBelYzTWlBazJnWG1PMXNMYQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-12T00:44:09.238Z",
+      "thread": "t-auto-2026-08-20-fight-galamsey-with-total-commitment-arise-ghana-to-gov-t"
+    },
+    {
+      "id": "auto-2026-11-11-jimmy-aglah-takes-the-fight-against-galamsey-into-ghanaian-c",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Jimmy Aglah takes the fight against galamsey into Ghanaian classrooms MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3RVLWFQNVQ1NHJpT1hZVmgtVmZXN0lrblNJOHJPeFBrNVZ5T3h2NThXRjFnZWxNSjNGVHRSWU1LTlptbXJVa3A0UmhzOWZBUUNCVHBxeDI4cHAyaHItazN6a0E5dVdDRWNyQWtaU3NwZlFuQXBFemhxWU5XVkthX3M5NWJlM0xpVldzMHl4a0ZKNG8zR21ydlA2OVBnRUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNU3RVLWFQNVQ1NHJpT1hZVmgtVmZXN0lrblNJOHJPeFBrNVZ5T3h2NThXRjFnZWxNSjNGVHRSWU1LTlptbXJVa3A0UmhzOWZBUUNCVHBxeDI4cHAyaHItazN6a0E5dVdDRWNyQWtaU3NwZlFuQXBFemhxWU5XVkthX3M5NWJlM0xpVldzMHl4a0ZKNG8zR21ydlA2OVBnRUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-12T00:44:44.522Z"
+    },
+    {
+      "id": "auto-2026-11-11-two-naimos-officers-wounded-in-fatal-manso-keniago-anti-gala",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Two NAIMOS officers wounded in fatal Manso Keniago anti-galamsey clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two NAIMOS officers wounded in fatal Manso Keniago anti-galamsey clash MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEpTSmZlQVFzanJucy14X21YcDZENUlSTTZmTnZyaTNGb19QM3BTdDR4TVp1OGc4S3RhN3A1LV9idWNpSWZhdWE1N2RTSGpQekhTaVBQbDM4aHdwU1VFYmJSbUVwWVJPMXM5TFN0S3YzTmItbWhfVlJXOFpVMDJoSmFhSzhnX3RFWUVwWTJiWDZRTG10YjJ6TTZ2VEVKZXEt?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEpTSmZlQVFzanJucy14X21YcDZENUlSTTZmTnZyaTNGb19QM3BTdDR4TVp1OGc4S3RhN3A1LV9idWNpSWZhdWE1N2RTSGpQekhTaVBQbDM4aHdwU1VFYmJSbUVwWVJPMXM5TFN0S3YzTmItbWhfVlJXOFpVMDJoSmFhSzhnX3RFWUVwWTJiWDZRTG10YjJ6TTZ2VEVKZXEt?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-naimos-operation-turns-deadly-after-residents-fight-anti-gal",
+      "date": "2026-11-11",
+      "category": "arrest",
+      "title": "NAIMOS operation turns deadly after residents fight anti-galamsey operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS operation turns deadly after residents fight anti-galamsey operation Yen News",
+      "metrics": {},
+      "source": {
+        "name": "Yen News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1lNVFA4cXdkc0pZQ0NDTU5za2NwNlo4WXl3TEIyRThvblR6QjUwUUJyZEZqVkV5ZHBWVHM3amRXVll1a3g5UExoSnZzYVZyYkhTSV9lSDgya2hiTDJpOG51OUVJbGluUWVIV21xcmYySjBDVTUzZWt3V1B2bERQaGFoRjVjdXpqdlhZdXU3cVB2Uy1nZVhuYTZB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1lNVFA4cXdkc0pZQ0NDTU5za2NwNlo4WXl3TEIyRThvblR6QjUwUUJyZEZqVkV5ZHBWVHM3amRXVll1a3g5UExoSnZzYVZyYkhTSV9lSDgya2hiTDJpOG51OUVJbGluUWVIV21xcmYySjBDVTUzZWt3V1B2bERQaGFoRjVjdXpqdlhZdXU3cVB2Uy1nZVhuYTZB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-11-appiah-stadium-claims-some-ndc-appointees-dces-in-galamsey",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Appiah Stadium claims some NDC appointees, DCEs in galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Appiah Stadium claims some NDC appointees, DCEs in galamsey News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEh4bW5fOE1vQWd4eEZIUHFqanF2UmtzWGZESmtVa2I1OGdWNWtPRkstRUVHVGNBS3drVHdGX2Z4bVN5ci0yeFE4OXdkbGRtN3RnQVZiOHJyQUJGX21fc2xYMWROOENaWVR4WHY0c0FZYmcyMlUweE9SRXhHcXh5WUQ4TWZjQ1lxNDVFSg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxObEh4bW5fOE1vQWd4eEZIUHFqanF2UmtzWGZESmtVa2I1OGdWNWtPRkstRUVHVGNBS3drVHdGX2Z4bVN5ci0yeFE4OXdkbGRtN3RnQVZiOHJyQUJGX21fc2xYMWROOENaWVR4WHY0c0FZYmcyMlUweE9SRXhHcXh5WUQ4TWZjQ1lxNDVFSg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-11-ndc-won-t-be-in-power-forever-appiah-stadium-warns-appointee"
+    },
+    {
+      "id": "auto-2026-11-11-attacks-on-naimos-personnel-will-not-be-tolerated-secretaria",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Attacks on NAIMOS personnel will not be tolerated – Secretariat on fatal Manso Keniago anti-galamsey clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Attacks on NAIMOS personnel will not be tolerated – Secretariat on fatal Manso Keniago anti-galamsey clash MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUxXeWhhU3FVRzNiNDFyT0laZWQtR1VGcW1fWkVJU2RLOVc3MUxHaHRubkFzSUxqQmdCU1RQR2FWX0FNQ2pCUzRkV0VldWh1aVpfUEpjQXFMUmtxbUpKM25qcS1tVl9iWGpoMVFJbUhLN3Q2LXB5VUl5VUUwYzlqR05GVWxDRmF6dXJKNW5LS3JBMnFROVRiekc2a29VaDFRVEdkY0Rja3RnMzZuN3NEZEZWc01KNUhnN1FSNFlxUVdVM1RMMWhlTUxLTXk3QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxNNUxXeWhhU3FVRzNiNDFyT0laZWQtR1VGcW1fWkVJU2RLOVc3MUxHaHRubkFzSUxqQmdCU1RQR2FWX0FNQ2pCUzRkV0VldWh1aVpfUEpjQXFMUmtxbUpKM25qcS1tVl9iWGpoMVFJbUhLN3Q2LXB5VUl5VUUwYzlqR05GVWxDRmF6dXJKNW5LS3JBMnFROVRiekc2a29VaDFRVEdkY0Rja3RnMzZuN3NEZEZWc01KNUhnN1FSNFlxUVdVM1RMMWhlTUxLTXk3QQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-tandoh-challenges-chinese-mining-association-to-report-membe",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Tandoh Challenges Chinese Mining Association to Report Members Involved in Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Tandoh Challenges Chinese Mining Association to Report Members Involved in Illegal Mining News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmdaR05oWEZTYVR0MFNydFN6aVhpWDEtMm5hVWZCV1EyS250RTRQVUJNNVBJc2w3UmJpVWpvdmVocUFEdl9rd1VmNzBzUUIzMkUzUGpaZTBfNEtfYUlyb0gyVk9lSnI1aklnSy1xdWxFNUpuSG9SdkFFbF9kcXRFNS1QME9nMG1NdmllOE9vMDVmWGJSODhrMlBNVlpmZGFwc1pvb0kwQXFpWk5ma2NYMkhRSmtWUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmdaR05oWEZTYVR0MFNydFN6aVhpWDEtMm5hVWZCV1EyS250RTRQVUJNNVBJc2w3UmJpVWpvdmVocUFEdl9rd1VmNzBzUUIzMkUzUGpaZTBfNEtfYUlyb0gyVk9lSnI1aklnSy1xdWxFNUpuSG9SdkFFbF9kcXRFNS1QME9nMG1NdmllOE9vMDVmWGJSODhrMlBNVlpmZGFwc1pvb0kwQXFpWk5ma2NYMkhRSmtWUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
+    },
+    {
+      "id": "auto-2026-11-11-armed-mob-attacks-naimos-task-force-at-manso-keniago-two-inj",
+      "date": "2026-11-11",
+      "category": "arrest",
+      "title": "Armed mob attacks NAIMOS task force at Manso Keniago; two injured",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Armed mob attacks NAIMOS task force at Manso Keniago; two injured Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlYR3F5bHBLSUQ3dXV2U1hoTmROQXVtOG1FNHpKTGkyZHlfVjdBYWxDSzBPU3dPRTVhSnpoRGJBSkRINWxLQXByOXB0eVdoWldKTHpzSV95bXZXMEpZT29PVHNyLVRPdWthOGoyM192dTVqV0VIUU5ZTGctX1lodV82SU5qQWtZdWpuYXp6U09rQmM4RTJQR0tPSXfSAZsBQVVfeXFMT25HbGVPTnphNEZfMjFXYlRHemN4YmlNSE1OQ285clhydWl3YXliX0RPMHZRUnR1XzF5dTVJYTBhbmdFaVdVSjBHZUptVi1zT2RqWmVTV25OVlFFejlvNk9ac2pxN3owVlpNUnpfLUZudHE4WFFJLU4zNVVCOVU1NnllamN1LVJDOTdKNXhpeFJaWV9XbW5BTkR2SGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlYR3F5bHBLSUQ3dXV2U1hoTmROQXVtOG1FNHpKTGkyZHlfVjdBYWxDSzBPU3dPRTVhSnpoRGJBSkRINWxLQXByOXB0eVdoWldKTHpzSV95bXZXMEpZT29PVHNyLVRPdWthOGoyM192dTVqV0VIUU5ZTGctX1lodV82SU5qQWtZdWpuYXp6U09rQmM4RTJQR0tPSXfSAZsBQVVfeXFMT25HbGVPTnphNEZfMjFXYlRHemN4YmlNSE1OQ285clhydWl3YXliX0RPMHZRUnR1XzF5dTVJYTBhbmdFaVdVSjBHZUptVi1zT2RqWmVTV25OVlFFejlvNk9ac2pxN3owVlpNUnpfLUZudHE4WFFJLU4zNVVCOVU1NnllamN1LVJDOTdKNXhpeFJaWV9XbW5BTkR2SGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-manso-keniago-four-dead-15-injured-in-clash-involving-naimos",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Manso Keniago: Four dead, 15 injured in clash involving NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Manso Keniago: Four dead, 15 injured in clash involving NAIMOS CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGxlWWVuQ3dBaGZ2RmJuV00yWnJEdUxJUkUtSXR1WUtXbXlwMXNDNkE2N21SWnM4NHJQTVNjNWs4aUNXMWstaUh1R2VHZmJkeEl2d3NvZzRXeHBBSXNJOEpBMmVfTlhDS2JsTllfb0FYVDFoVzdCWUI2NlJ5OVUwNFQxT3ZlXzdzMk42RF9FcXNWS0Rhay1LUjV3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGxlWWVuQ3dBaGZ2RmJuV00yWnJEdUxJUkUtSXR1WUtXbXlwMXNDNkE2N21SWnM4NHJQTVNjNWs4aUNXMWstaUh1R2VHZmJkeEl2d3NvZzRXeHBBSXNJOEpBMmVfTlhDS2JsTllfb0FYVDFoVzdCWUI2NlJ5OVUwNFQxT3ZlXzdzMk42RF9FcXNWS0Rhay1LUjV3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-manso-keniago-clash-residents-allege-naimos-personnel-assaul",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Manso Keniago clash: Residents allege NAIMOS personnel assaulted chief, fired at his vehicle",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Manso Keniago clash: Residents allege NAIMOS personnel assaulted chief, fired at his vehicle CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORW83VlY3R2hLZmNxQTJzTDZZUzNYa19WaUtCOFIwY0wxQ2dKZ216Ulk4YnhJelNITEdEY1pzMXJoU1MwNzdGRkRudVlMOTNpYnptb3pGZnBzRGtUN1gxbU9SUXhNemVYREI2aUl1TlBvTUhOQkcySEE4X3diWEs4X0dKeVJHZE9DMkctaG5GMV94LTh5VC1IbkVFSmw0X3RrUGllcTZNS29FTEk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxORW83VlY3R2hLZmNxQTJzTDZZUzNYa19WaUtCOFIwY0wxQ2dKZ216Ulk4YnhJelNITEdEY1pzMXJoU1MwNzdGRkRudVlMOTNpYnptb3pGZnBzRGtUN1gxbU9SUXhNemVYREI2aUl1TlBvTUhOQkcySEE4X3diWEs4X0dKeVJHZE9DMkctaG5GMV94LTh5VC1IbkVFSmw0X3RrUGllcTZNS29FTEk?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-2-naimos-personnel-sustain-gunshot-wounds-as-armed-mob-attac",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "2 NAIMOS personnel sustain gunshot wounds as armed mob attacks anti-galamsey team at Manso Keniago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "2 NAIMOS personnel sustain gunshot wounds as armed mob attacks anti-galamsey team at Manso Keniago 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0UzSmdWVEVTWWhoTk4xMnJ0TkdfZHRqd3M5SkxHZjd5VkxMRU1yOGJnZGRhRVNPU1FOQk5BcGtxM0hkQnYtQjFqbGN3bkZBN2s2OUxRWWIyM2tvYWJQRDZQYjR6b2NjdmpxaGVWSkRpSHIzZkJ3S2F5aEFMSVJzeGdrMnd0WF9HOFo1Ty11cFJEN0lNZUppNE41Z1JhS29NczNqMEExa3BIY3ZkSVRYMG4yZFF4T2ZGT3ZjZE1vNWhHNW1Xdnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ0UzSmdWVEVTWWhoTk4xMnJ0TkdfZHRqd3M5SkxHZjd5VkxMRU1yOGJnZGRhRVNPU1FOQk5BcGtxM0hkQnYtQjFqbGN3bkZBN2s2OUxRWWIyM2tvYWJQRDZQYjR6b2NjdmpxaGVWSkRpSHIzZkJ3S2F5aEFMSVJzeGdrMnd0WF9HOFo1Ty11cFJEN0lNZUppNE41Z1JhS29NczNqMEExa3BIY3ZkSVRYMG4yZFF4T2ZGT3ZjZE1vNWhHNW1Xdnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-three-dead-after-clash-between-residents-illegal-miners-and-",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Three dead after clash between residents, illegal miners and NAIMOS personnel at Manso Keniago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Three dead after clash between residents, illegal miners and NAIMOS personnel at Manso Keniago MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHZwa0hkUWVUY0RGOS1adnp6TVI5WmhSWGdEUFZRLVJxakR5bTBEZHAyM2lXVWNMYjN0VFFqODZfSzNwQWRvVE5peHFtNlBzWVJyaUwwLTdUSjFjWXVjY2l4ZFQ2UVVJYnh0cGJVSXRNOVdOZWtleU9VWDJsTkRLcmpzcDVWdlAwTmlRNkxUMzJrV0U4WE9LZ1d0eW11X2xEWnZrZGN0b3J0dl9NbGNQM0NQV1RKOGE4UFBHR2VKWQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxQNHZwa0hkUWVUY0RGOS1adnp6TVI5WmhSWGdEUFZRLVJxakR5bTBEZHAyM2lXVWNMYjN0VFFqODZfSzNwQWRvVE5peHFtNlBzWVJyaUwwLTdUSjFjWXVjY2l4ZFQ2UVVJYnh0cGJVSXRNOVdOZWtleU9VWDJsTkRLcmpzcDVWdlAwTmlRNkxUMzJrV0U4WE9LZ1d0eW11X2xEWnZrZGN0b3J0dl9NbGNQM0NQV1RKOGE4UFBHR2VKWQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-two-reported-dead-several-injured-in-naimos-operation-at-dom",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Two reported dead, several injured in NAIMOS operation at Dome Keniago",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Two reported dead, several injured in NAIMOS operation at Dome Keniago Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalZaYnpwTlRMYXV5Q3F3Zm4wcWxRQW9EMVRFTnFqQmJieV9WeXNzSWtXRDFXN0NQV3N4SnR1Ql9odGh5cktBNHc1Z3ZMSmJfa3FJOTR5WTFsRGdLZ3JGTmZucHNtWjJHMjZwYVI4aVFGWVN0QXo5QmI1dDNjYUdwS01CZEJTTWFyM2ppVU9lNmdIRzdZbTRLVmxR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQalZaYnpwTlRMYXV5Q3F3Zm4wcWxRQW9EMVRFTnFqQmJieV9WeXNzSWtXRDFXN0NQV3N4SnR1Ql9odGh5cktBNHc1Z3ZMSmJfa3FJOTR5WTFsRGdLZ3JGTmZucHNtWjJHMjZwYVI4aVFGWVN0QXo5QmI1dDNjYUdwS01CZEJTTWFyM2ppVU9lNmdIRzdZbTRLVmxR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-11-galamsey-two-reportedly-killed-two-naimos-officers-injured-i"
+    },
+    {
+      "id": "auto-2026-11-11-manso-keniago-3-reported-dead-13-injured-after-clash-between",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Manso Keniago: 3 reported dead, 13 injured after clash between illegal miners and NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Read More &hellip;",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/manso-keniago-3-reported-dead-13-injured.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/manso-keniago-3-reported-dead-13-injured.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
+    },
+    {
+      "id": "auto-2026-11-11-ashanti-region-3-killed-in-an-alleged-confrontation-between-",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "Ashanti Region: 3 killed in an alleged confrontation between NAIMOS and residents at Dome Keniago",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "According to reports reaching 3news in Kumasi, the incident occurred when the NAIMOS team allegedly stormed Dome Keniago in an operation.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/crime/ashanti-region-3-killed-in-an-alleged-confrontation-between-naimos-and-residents-at-dome-keniago"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/crime/ashanti-region-3-killed-in-an-alleged-confrontation-between-naimos-and-residents-at-dome-keniago",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-11-galamsey-two-reportedly-killed-two-naimos-officers-injured-i"
+    },
+    {
+      "id": "auto-2026-11-11-naimos-condemns-attack-on-its-personnel-at-manso-keniago",
+      "date": "2026-11-11",
+      "category": "forest",
+      "title": "NAIMOS condemns attack on its personnel at Manso Keniago",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has condemned an attack on its personnel by an armed mob during an anti-illegal mining operation at Manso Keniago in the Amansie South District of the Ashanti Region. The Secretariat described the incident as an act of aggression against its officers, warning that attacks, threats and other forms […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-condemns-attack-on-its-personnel-at-manso-keniago/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-condemns-attack-on-its-personnel-at-manso-keniago/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-11-11-two-dead-after-clash-between-residents-illegal-miners-and-na",
+      "date": "2026-11-11",
+      "category": "arrest",
+      "title": "Two dead after clash between residents, illegal miners and NAIMOS personnel at Manso Keniago",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Two people have died following a confrontation involving residents, suspected illegal miners and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso Keniago in the Ashanti Region. The incident reportedly occurred on Wednesday afternoon when some residents and suspected illegal miners attempted to prevent NAIMOS personnel from tracking excavators seized from the area. […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/two-dead-after-clash-between-residents-illegal-miners-and-naimos-personnel-at-manso-keniago/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/two-dead-after-clash-between-residents-illegal-miners-and-naimos-personnel-at-manso-keniago/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
     },
     {
       "id": "auto-2026-11-10-purc-urges-chiefs-to-help-fight-galamsey-polluting-water-bod",
@@ -187,18 +630,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
+      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
+      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
       "metrics": {},
       "source": {
-        "name": "Ghanaian Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -6076,6 +6519,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-10-29-naimos-arrests-illegal-miners-six-apprehended-in-savannah-re",
+      "date": "2026-10-29",
+      "category": "arrest",
+      "title": "NAIMOS Arrests Illegal Miners: Six Apprehended in Savannah Region",
+      "place": "Savannah Region",
+      "region": "Savannah",
+      "lat": 9.08,
+      "lon": -1.82,
+      "summary": "NAIMOS Arrests Illegal Miners: Six Apprehended in Savannah Region Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUtJZmlhX2lMNHZ0X2JkY2JnbEVmUDFTblNGczltSVVfcnNVNk1GaGduNXpqTmI5T0VhVHJEZmV2OWJqdVl2azNqNDd2MGJTZ3RMV0pxNDJiUFlNaW4xeEs0VWpYMGNjUWR1Mjk3RzZoUFVpMGtaVWhjOW54cGNCSFh1R2ZZR2EtbEczc1dTSlNLX0x0UFdDLUdzeUpLQVZFSXpnTVdUSTZTUzR1VVhRV0ZOUFJhcnViWjR1cU9tUTc5Z0EtQ2ViV0VR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUtJZmlhX2lMNHZ0X2JkY2JnbEVmUDFTblNGczltSVVfcnNVNk1GaGduNXpqTmI5T0VhVHJEZmV2OWJqdVl2azNqNDd2MGJTZ3RMV0pxNDJiUFlNaW4xeEs0VWpYMGNjUWR1Mjk3RzZoUFVpMGtaVWhjOW54cGNCSFh1R2ZZR2EtbEczc1dTSlNLX0x0UFdDLUdzeUpLQVZFSXpnTVdUSTZTUzR1VVhRV0ZOUFJhcnViWjR1cU9tUTc5Z0EtQ2ViV0VR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
+    },
+    {
       "id": "auto-2026-10-28-forestry-commission-plans-armed-camps-to-protect-subri-fores",
       "date": "2026-10-28",
       "category": "forest",
@@ -7831,7 +8294,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-25T16:12:42.056Z",
-      "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
+      "thread": "t-auto-2026-10-25-goldbod-will-not-compromise-lbma-certification-for-galamsey-"
     },
     {
       "id": "auto-2026-10-25-goldbod-begins-stakeholder-consultations-ahead-of-2027-small",
@@ -7892,7 +8355,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-25T20:48:19.774Z",
-      "thread": "t-auto-2026-10-23-formalising-unlicensed-miners-not-endorsement-of-galamsey-gn"
+      "thread": "t-auto-2026-10-25-goldbod-will-not-compromise-lbma-certification-for-galamsey-"
     },
     {
       "id": "auto-2026-10-25-all-changfangs-cleared-from-ankobra-river",
@@ -11599,8 +12062,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdTJzZnZITUhfcnN5YW82QkVFZ2R3NkhYQzRiLUdXQVBBaW5XQ21waVpBck9mb1BzY3MtOXIya3BfTThHMF92amJhcGZDb3A2UmNmRnpLbXJjRmVYTVBoa2MwONIBXEFVX3lxTE41UVRFV25QeDVjTVVpb0JuUXhfbVR2NEJPcnpkaVNDeTJEZFZZZXR6WkstNlVObU1uOVlSeW93a1RkbnlJdmtEejlINlMtMDlKc2xvdWNQN2Zlc0FI?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
+      "verified": false
     },
     {
       "id": "auto-2026-10-17-cooperative-mining-will-end-galamsey-destruction-regional-di",
@@ -14156,7 +14618,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDZBMEllQjBPdEVVODZxRGdRQmJ0b2Jjc2t0SGJxWFdfejdOelpfNmdiQTNDUVZyVG5oek1LdFBPYXZpVUhlVGh2cmxrN3l6TS1QcW0tVTIwdThQZWc5NlJtRUZMYWVPSTV5T0hIbGplanM2a3RKanBfY0hNLUtXYVBmX21valdwcFdrQzdwZTVGTjlXUGp1T0dfYV9qNVNPRVBVNXRaUGdqVHBJamRVN2NIRQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
       "id": "auto-2026-10-08-illegal-mining-could-force-ghana-to-import-water-author-warn",
@@ -15975,8 +16437,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEU5OHZESG1uZXZUUlRyYVNTM2gxSlNQcG9QSFFBSmlzT0VmZC1POEVaSUtjSlZraW9jc2FoT1Rvdllrb0RBMks3NHhSM2ZtUHJHbl9xYnhiWE85Rm9OWkE3eE5PMC1iQnhGOUNjdmN5MzFLV25KUFphb1dJb29mZ1NxaWJURE9WdWxVaG1n?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-02T12:34:28.946Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-10-02T12:34:28.946Z"
     },
     {
       "id": "auto-2026-09-30-ghana-missed-the-boat-in-galamsey-fight-under-akufo-addo-sen",
@@ -16098,8 +16559,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxQMktJODM0akJpVE1xSnNWeW1IMjZLdDlBdk5aYndkN1BQOUJuRG9vTlp4dy1kVW82cllvbjgyUnFnYXJLSDBoMjItQVVwek5TOVQyZ1RmSTJDNnlqWXd1MmNxOXFjVTlNa3k0T01BbnhjMDlLVlM1b0tyVWJwNnRzeHlqOWp4UzRhaGktX1BFdjRSTF9hNWJiSDg2RXhXdnFQVll3d05DX2JCYndDQlV5c0F5QXQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-01T13:14:30.276Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-10-01T13:14:30.276Z"
     },
     {
       "id": "auto-2026-09-29-galamsey-fight-requires-collective-national-effort-lands-min",
@@ -18879,8 +19339,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGNLR1hYVU93cDg2LWpvcDR0SHRydjlrMmJ1X0JIbk1ZQm9yZXdSYmpucF96LVJlb1kzbU9Wb2R4UEpVZm9KdmQtZ3d3VmtJM0h1cDBhMFdoUDlTQ3c3TGVRVFBEZTdYRXJKTWhmOUZFWDlRMGlFUDBaSDFiQ0ZHM0JIUF9XZk5jNkZsb1VaVDV3ZDUwX3NDQ3Q3N0ItSDBOU2dEZ005cXN2bHNleXQ0djRXbnpnMnFSeWRaNU1DczNrOE11?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-wat-2026-02-24-birim-pilot"
+      "verified": false
     },
     {
       "id": "auto-2026-09-15-atewa-forest-under-unprecedented-attack-from-illegal-mining-",
@@ -20382,8 +20841,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmFiSUVYT3dwaUk4b0tHX0U4TExnSXRuWUtzRXVUdzFHbUo3bW9FX2ZHNnVOWjU2SXhfMUtNUTZsazdNX0VjNXJSX0VvVmVkaE84MEJqS0RGVFItZFJHeU5DY1FSeDVUN2t3bHdLS2l1TkFuSGdFLUptVUhfRWZWdnVlek9VcGNyYUp5aU5SaHBVZWlrUmlMVTlndnZVYnlnNUcxSG02Z1V3QjRn?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-10T20:51:50.901Z",
-      "thread": "t-auto-2026-09-09-a-rocha-ghana-defends-claim-that-over-50-forest-reserves-fac"
+      "archivedAt": "2026-09-10T20:51:50.901Z"
     },
     {
       "id": "auto-2026-09-09-aowin-traditional-council-engages-municipal-security-council",
@@ -21594,7 +22052,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtMNFZXNGh4VWszVnNRWHFULXdYVU90aFdSdVZKNHZBZXVzN1hWbzJzc0JQbEZqYWZFYUZua3BCRmRmcUU2RTcwdFhBTHFwS0pmTVdTS0lRX2k1M19zRHJfdFp2TmhneV9ycFFpY2RpYktvZV8xUEx5WkktX014VUpNWkVieFgyS0x4OTdNWVY?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-04T20:45:22.468Z"
+      "archivedAt": "2026-09-04T20:45:22.468Z",
+      "thread": "t-auto-2026-09-04-7-dead-one-trapped-after-galamsey-pit-collapses-at-manso-ken"
     },
     {
       "id": "auto-2026-09-04-kumasi-priest-slams-mahama-over-galamsey-fight",
@@ -22549,8 +23008,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNISjF0WTFSbXd4dnBHLWdhT3VYdEc5eVVFWXlvamdvN2pzZG4ydkt4VlVQSjYzZGtucnFfVUFHMTYtS0NJSmpzTEhxQ1lRMVZ5dExobTNGRTdFa0ZGU1RtSjE0SnoxYW9JT1RCVnlsbUpGN0FUeFJJLVdCczA1X0ZzSzJ1bW9XUTFXeDEtMlQ5NW5oN2FxcENfVQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-02T21:02:33.913Z",
-      "thread": "t-auto-2026-09-02-galamsey-threatens-volta-lake-as-npp-raises-alarm-over-water"
+      "archivedAt": "2026-09-02T21:02:33.913Z"
     },
     {
       "id": "auto-2026-09-02-2-chinese-nationals-arrested-for-illegal-mining-in-sulawesi",
