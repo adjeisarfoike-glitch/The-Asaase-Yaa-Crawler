@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-13T06:43:20.897Z",
+  "updated": "2026-11-13T19:45:26.397Z",
   "counts": {
-    "total": 1810,
+    "total": 1821,
     "verified": 28,
-    "automated": 1782,
+    "automated": 1793,
     "earliest": "2024-07-01",
     "latest": "2026-11-13"
   },
@@ -49,6 +49,188 @@
       "verified": false,
       "archivedAt": "2026-11-13T06:38:56.913Z",
       "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-11-13-us-officials-and-experts-demand-galamsey-crackdown-as-ghana-",
+      "date": "2026-11-13",
+      "category": "arrest",
+      "title": "US officials and experts demand galamsey crackdown as Ghana’s water degradation hits 60%",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "US officials and experts demand galamsey crackdown as Ghana’s water degradation hits 60% Ghana Business News",
+      "metrics": {},
+      "source": {
+        "name": "Ghana Business News",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZzZjX0lVeDJMejZyOFNhSWdSYkhPbDZQdlJ1RTczbVpWaHNMVEdyeWxGVW1iekwwV2dKR2ZIc1E2WTZLS0o5bVU4aVlNYXJ0ZXlrV0VLeDV0cUl1bzdJZjZDeTRXb1ZsaTFFbl81OU5HSEh5RTRBZzlTWEd5SHBKdzZ0Zkloa1NYNlNqTHdZdVJiblBDZkQzSV9aMENTZFhGWHpCWkU4cEFVZ2hJVHVvWlB4YzQtRFN2NFJRV21xcTNFdzJFeVUzSmZtSDc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxPZzZjX0lVeDJMejZyOFNhSWdSYkhPbDZQdlJ1RTczbVpWaHNMVEdyeWxGVW1iekwwV2dKR2ZIc1E2WTZLS0o5bVU4aVlNYXJ0ZXlrV0VLeDV0cUl1bzdJZjZDeTRXb1ZsaTFFbl81OU5HSEh5RTRBZzlTWEd5SHBKdzZ0Zkloa1NYNlNqTHdZdVJiblBDZkQzSV9aMENTZFhGWHpCWkU4cEFVZ2hJVHVvWlB4YzQtRFN2NFJRV21xcTNFdzJFeVUzSmZtSDc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T19:38:38.037Z"
+    },
+    {
+      "id": "auto-2026-11-13-naimos-uncovers-illegal-mining-activities-in-forest-reserve-",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "NAIMOS uncovers illegal mining activities in forest reserve as miners allegedly implicate forest guards",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS uncovers illegal mining activities in forest reserve as miners allegedly implicate forest guards Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkwtcVVreFZZNDlZaGFJV2FXWnJXcVgxeTZ3RGFkQmxJb2xVdjA2VWlnZ1pKajNGUEtWMzBWeGVLVmRqZGhKeHBHTlBfTzJLelFJcm01b0I0a0pRbGFpSGdFbzU0ZWNBM1NVbkswUGVIdTFPQVZyRV9td1d2R3EwNGtQNXBjcnZDU1NYWHptMzN5SnhVSzhNVmpDbnTSAZsBQVVfeXFMTzNvckczVUllbWVJdTcyTjZ6MzlnWUJFRnh1MTJwSVBnem1QVmI1YW5yd3R0X09yX09ObEl5bDZHaXJ4UDdjTzc1XzdlV1pHWF9nRE44Z2NEcm1JaURZODlVbHpLS1E3MU5aODdPVXNOcmt4RExLTU90MlFvNGRyZ0tzNWs2cldYRDl5OEl3NXp4RW1MX0VOSzkyRjA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkwtcVVreFZZNDlZaGFJV2FXWnJXcVgxeTZ3RGFkQmxJb2xVdjA2VWlnZ1pKajNGUEtWMzBWeGVLVmRqZGhKeHBHTlBfTzJLelFJcm01b0I0a0pRbGFpSGdFbzU0ZWNBM1NVbkswUGVIdTFPQVZyRV9td1d2R3EwNGtQNXBjcnZDU1NYWHptMzN5SnhVSzhNVmpDbnTSAZsBQVVfeXFMTzNvckczVUllbWVJdTcyTjZ6MzlnWUJFRnh1MTJwSVBnem1QVmI1YW5yd3R0X09yX09ObEl5bDZHaXJ4UDdjTzc1XzdlV1pHWF9nRE44Z2NEcm1JaURZODlVbHpLS1E3MU5aODdPVXNOcmt4RExLTU90MlFvNGRyZ0tzNWs2cldYRDl5OEl3NXp4RW1MX0VOSzkyRjA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T19:39:03.356Z"
+    },
+    {
+      "id": "auto-2026-11-13-university-of-mines-and-technology-has-definitive-solution-t",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "University of Mines and Technology has definitive solution to Galamsey — Vice Chancellor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "University of Mines and Technology has definitive solution to Galamsey — Vice Chancellor 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0t2X05VRGJUR3lXUS1KSnRqamtkcXJzT0VlSFBudjVJb0dpTnlBanRuVmNWTlFSLXdRd0ZmNGk3ck90UENjVjJXUXJJWmpyY3ZnRnVPaFRwRFhHTUN5WG94endZYllCNW5DWS1vbWsyT25OZjZzTUFRMjhSQmJtSXg3ZDNfcldXVld4M1gwR2R0SGtocHdvT3lOc3RIRHl4cExvOUp1b3BRY0UxMFpqTjhJNGUxQmVhaUs4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0t2X05VRGJUR3lXUS1KSnRqamtkcXJzT0VlSFBudjVJb0dpTnlBanRuVmNWTlFSLXdRd0ZmNGk3ck90UENjVjJXUXJJWmpyY3ZnRnVPaFRwRFhHTUN5WG94endZYllCNW5DWS1vbWsyT25OZjZzTUFRMjhSQmJtSXg3ZDNfcldXVld4M1gwR2R0SGtocHdvT3lOc3RIRHl4cExvOUp1b3BRY0UxMFpqTjhJNGUxQmVhaUs4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T19:39:28.474Z",
+      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-11-13-epa-warns-against-drinking-boiled-water-from-galamsey-pollut",
+      "date": "2026-11-13",
+      "category": "water",
+      "title": "EPA Warns Against Drinking Boiled Water From Galamsey-Polluted Rivers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "EPA Warns Against Drinking Boiled Water From Galamsey-Polluted Rivers DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0VPLVJ1YzR5bDBMS0xjaUd6Nzl1Sm0zSzVQcmZSaGhKVnJzeXRVbmhKc2lMSkJ1ajczM0hFLVc4UTNOVjlycWlUekZ4MlF0eVU0VkpCU3Naak5ZNTlkWE5kMFBZd0l6M1RwS3NmeEctOXVPTHlXZkpwa3VGNENaYTFXejNzX09CbGxNbk5PT3htMmdSdFNBN0l1Zk9oTm54Rnc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0VPLVJ1YzR5bDBMS0xjaUd6Nzl1Sm0zSzVQcmZSaGhKVnJzeXRVbmhKc2lMSkJ1ajczM0hFLVc4UTNOVjlycWlUekZ4MlF0eVU0VkpCU3Naak5ZNTlkWE5kMFBZd0l6M1RwS3NmeEctOXVPTHlXZkpwa3VGNENaYTFXejNzX09CbGxNbk5PT3htMmdSdFNBN0l1Zk9oTm54Rnc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T19:40:00.507Z",
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-11-13-aba-miners-accuse-security-personnel-of-cashing-in-on-galams",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "ABA Miners Accuse Security Personnel Of Cashing In On Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "ABA Miners Accuse Security Personnel Of Cashing In On Galamsey Fight DailyGuide Network",
+      "metrics": {},
+      "source": {
+        "name": "DailyGuide Network",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmQxMTMzcWtLNmJTSU1GVGQ4MU4zZWpZTjhGb2NIV0VwOHNfUHloV0Z2ZWdVQTFCdExBTUVJaFlLY2ZHWUFUa0FGUHNjbnROamt0ZUQ4dXFyaGVPbkNVRFZBT2pSaHIzMEM3LWdRdXRUazlVbG96emw3V1BTMHhyelUya0NWWkdndm9ObzRtYkQ1b1JIcnBGTUxRbE01UC1j?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmQxMTMzcWtLNmJTSU1GVGQ4MU4zZWpZTjhGb2NIV0VwOHNfUHloV0Z2ZWdVQTFCdExBTUVJaFlLY2ZHWUFUa0FGUHNjbnROamt0ZUQ4dXFyaGVPbkNVRFZBT2pSaHIzMEM3LWdRdXRUazlVbG96emw3V1BTMHhyelUya0NWWkdndm9ObzRtYkQ1b1JIcnBGTUxRbE01UC1j?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T19:40:26.814Z",
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
+    },
+    {
+      "id": "auto-2026-11-13-naimos-engages-truck-drivers-and-sand-winning-associations-o",
+      "date": "2026-11-13",
+      "category": "arrest",
+      "title": "NAIMOS engages truck drivers and sand-winning associations over vehicle seizures and regulatory compliance",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has met with truck drivers and sand-winning associations to address vehicle seizures, clarify mining laws, and improve sector compliance.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/naimos-engages-truck-drivers-and-sand-winning-associations-over-vehicle-seizures-and-regulatory-compliance"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-engages-truck-drivers-and-sand-winning-associations-over-vehicle-seizures-and-regulatory-compliance",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-13-lands-ministry-launches-investigation-into-manso-keniago-sho",
+      "date": "2026-11-13",
+      "category": "policy",
+      "title": "Lands Ministry launches investigation into Manso Keniago shooting that killed four",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "The Ministry of Lands and Natural Resources has launched an investigation into a shooting incident at Manso Keniago in the Amansie South District of the Ashanti Region, which left four people dead and 15 others injured. The incident followed a clash between residents of the community and personnel of the National Anti-Illegal Mining Operations Secretariat […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/lands-ministry-launches-investigation-into-manso-keniago-shooting-that-killed-four/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/lands-ministry-launches-investigation-into-manso-keniago-shooting-that-killed-four/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-11-13-naimos-engages-truck-drivers-sand-winning-associations-on-co",
+      "date": "2026-11-13",
+      "category": "arrest",
+      "title": "NAIMOS engages truck drivers, sand-winning associations on compliance and cooperation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has engaged truck drivers and representatives of sand-winning associations in a move to address concerns surrounding vehicle seizures and strengthen compliance with regulations governing sand and stone extraction. The engagement, led by the Director of Operations, Colonel Kwame Sam Appiah provided a platform for affected drivers and operators […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/naimos-engages-truck-drivers-sand-winning-associations-on-compliance-and-cooperation/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-engages-truck-drivers-sand-winning-associations-on-compliance-and-cooperation/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-19-jaga-patrols-forest-frontiers-to-keep-jema-galamsey-free"
+    },
+    {
+      "id": "auto-2026-11-13-goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-us-1",
+      "date": "2026-11-13",
+      "category": "policy",
+      "title": "GoldBod exports 88 tonnes of small-scale gold valued at US$12 billion",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Magdalene Andoh The Ghana Gold Board (GoldBod) exported 88 tonnes of gold from Ghana’s artisanal and small-scale mining (ASM) sector, valued at approximately US$12 billion, in 2026, underscoring the Board’s growing contribution to foreign exchange generation and Ghana’s economic stability. The Minister for Finance, Dr. Cassiel Ato Forson (MP), disclosed this when presenting the […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
     },
     {
       "id": "auto-2026-11-12-without-naimos-galamsey-would-be-far-worse-paa-kwesi-schando",
@@ -609,21 +791,40 @@
       "id": "auto-2026-11-12-manso-keniago-clash-injured-naimos-officers-discharged-in-st",
       "date": "2026-11-12",
       "category": "forest",
-      "title": "Manso Keniago clash: Injured NAIMOS officers discharged, in stable condition",
+      "title": "Manso Keniago clash: Injured NAIMOS officers discharged, in stable condition - Spokesperson",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The two National Anti-Illegal Mining Operations Secretariat (NAIMOS) personnel who sustained injuries during Wednesday’s clash at Manso Keniago have been treated and discharged from hospital.",
+      "summary": "Manso Keniago clash: Injured NAIMOS officers discharged, in stable condition - Spokesperson 3News",
       "metrics": {},
       "source": {
-        "name": "Spokesperson",
-        "url": "https://3news.com/news/manso-keniago-clash-injured-naimos-officers-discharged-in-stable-condition-spokesperson"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbk10emRqNnl1ZURQQm5ScVM1Z2dnYjBCcS1DR2tvaWt6Z1dYVmZyTVlVTjVJdmtZdm52T2hZa0pjQndaS1V1VzhDTWFXeFREOGxHYXBiS0E2VjJOUkpzUEhXZVFvT3ZXX1d6MjlwaHRtcUo5Z2RqcUU3UFotbWZVNHJ5cllKanViWmsteXVSSnIxTS1sNzBiWFl3WlotaThiSEhzcFFiSi02ODZ3eHhB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/manso-keniago-clash-injured-naimos-officers-discharged-in-stable-condition-spokesperson",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxNbk10emRqNnl1ZURQQm5ScVM1Z2dnYjBCcS1DR2tvaWt6Z1dYVmZyTVlVTjVJdmtZdm52T2hZa0pjQndaS1V1VzhDTWFXeFREOGxHYXBiS0E2VjJOUkpzUEhXZVFvT3ZXX1d6MjlwaHRtcUo5Z2RqcUU3UFotbWZVNHJ5cllKanViWmsteXVSSnIxTS1sNzBiWFl3WlotaThiSEhzcFFiSi02ODZ3eHhB?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-12-live-galamsey-isn-t-ending-soon-ii-leaders-are-involved-ii-i",
+      "date": "2026-11-12",
+      "category": "forest",
+      "title": "LIVE: Galamsey isn't ending soon II Leaders are involved II I'm sh0cked with monthly expenses - YouTube",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: Galamsey isn't ending soon II Leaders are involved II I'm sh0cked with monthly expenses - YouTube Howl.Link",
+      "metrics": {},
+      "source": {
+        "name": "Howl.Link",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9pZVU2cmZ4ZWNTME12LUpzZnBrMFVkb3lDeUF0TmRrRUdFd3I0M3NHWTdXYVFjT2tGb2tj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiO0FVX3lxTE9pZVU2cmZ4ZWNTME12LUpzZnBrMFVkb3lDeUF0TmRrRUdFd3I0M3NHWTdXYVFjT2tGb2tj?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-11-eu-study-exposes-gaps-in-fight-against-galamsey",
@@ -669,18 +870,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1260,18 +1461,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
+      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
+      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
       "metrics": {},
       "source": {
-        "name": "Ghanaian Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -2332,6 +2533,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-naimos-intensifies-river-patrols-as-illegal-mining-ravages-b"
+    },
+    {
+      "id": "auto-2026-11-06-naimos-arrests-four-over-suspected-illegal-sand-winning-at-a",
+      "date": "2026-11-06",
+      "category": "arrest",
+      "title": "NAIMOS arrests four over suspected illegal sand-winning at Afienya",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests four over suspected illegal sand-winning at Afienya Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWtnYXFuMDZiYlJwWjJ3Y3FObWlnOXJYQ1k2akJsRW5ZNl9qX0UxUXBlWGUxODVDQS1zSVI4MWdBbTJveHZDQ3pqRDlfdDcySjRqVUI5X0c5bWhPaG84RUtaRzNRZHZWMjFJY19NOFN5ZXlHdWZuTlZFWklXOWo3dEc0czFCOUlsSHJZREppRF8yZUFZaU1DTdIBlwFBVV95cUxObXhyZk8yX0lFdkxDNU9reUppTVV5UmZJbGJTRmk2TnRXZzA2MEpZRF9WcVNkOWlpb2VVSGdITzBqTUpuWmdxeFoyYUpLV0FsSkYwT09rc0ZuU1RnUU5RT2pmZlhZT05TQVA5dTVnM0dDWGN5VEZtSmFqSFBBbnRJZnlJNEc1ZTQydkYxb1VwemM4SGFaSHF3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWtnYXFuMDZiYlJwWjJ3Y3FObWlnOXJYQ1k2akJsRW5ZNl9qX0UxUXBlWGUxODVDQS1zSVI4MWdBbTJveHZDQ3pqRDlfdDcySjRqVUI5X0c5bWhPaG84RUtaRzNRZHZWMjFJY19NOFN5ZXlHdWZuTlZFWklXOWo3dEc0czFCOUlsSHJZREppRF8yZUFZaU1DTdIBlwFBVV95cUxObXhyZk8yX0lFdkxDNU9reUppTVV5UmZJbGJTRmk2TnRXZzA2MEpZRF9WcVNkOWlpb2VVSGdITzBqTUpuWmdxeFoyYUpLV0FsSkYwT09rc0ZuU1RnUU5RT2pmZlhZT05TQVA5dTVnM0dDWGN5VEZtSmFqSFBBbnRJZnlJNEc1ZTQydkYxb1VwemM4SGFaSHF3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-06-naimos-to-introduce-tougher-measures-against-illegal-sand-wi"
     },
     {
       "id": "auto-2026-11-05-banks-hold-back-on-mining-loans-illegal-operations-weak-safe",
