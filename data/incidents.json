@@ -1,13 +1,55 @@
 {
-  "updated": "2026-11-12T23:40:25.921Z",
+  "updated": "2026-11-13T06:43:20.897Z",
   "counts": {
-    "total": 1808,
+    "total": 1810,
     "verified": 28,
-    "automated": 1780,
+    "automated": 1782,
     "earliest": "2024-07-01",
-    "latest": "2026-11-12"
+    "latest": "2026-11-13"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-13-bloody-clash-at-manso-keniago-3-residents-dead-2-military-pe",
+      "date": "2026-11-13",
+      "category": "arrest",
+      "title": "Bloody clash at Manso Keniago…3 residents dead, 2 military personnel injured",
+      "place": "Amansie South",
+      "region": "Ashanti",
+      "lat": 6.1,
+      "lon": -1.95,
+      "summary": "AT least three people have been confirmed dead following a confrontation between local residents and personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) at Manso Keniago in the Amansie South District of the Ashanti Region. The violent clash erupted on Wednesday, November 11, 2026, after a NAIMOS task force attempted to transport seized excavators … The post Bloody clash at Manso Keniago…3 re",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/bloody-clash-at-manso-keniago3-residents-dead-2-military-personnel-injured/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/bloody-clash-at-manso-keniago3-residents-dead-2-military-personnel-injured/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T06:38:44.070Z",
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-11-13-court-grants-atta-akyea-leave-to-recall-first-prosecution-wi",
+      "date": "2026-11-13",
+      "category": "prosecution",
+      "title": "Court grants Atta Akyea leave to recall first prosecution witness for cross-examination",
+      "place": "Tano Nimiri",
+      "region": "Western North",
+      "lat": 5.85,
+      "lon": -2.65,
+      "summary": "THE High Court in Accra yesterday granted an application by lawyer Samuel Atta Akyea, counsel for Bernard Antwi-Boasiako, also known as Chairman Wontumi, to recall the first prosecution witness in the Tano Nimiri illegal mining case for further cross-examination. The case has been adjourned to Tuesday, November 17, by Justice Ruby Aryeetey. Mr Akyea had … The post Court grants Atta Akyea leave to recall first prosecu",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/court-grants-atta-akyea-leave-to-recall-first-prosecution-witness-for-cross-examination/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-13T06:38:56.913Z",
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
     {
       "id": "auto-2026-11-12-without-naimos-galamsey-would-be-far-worse-paa-kwesi-schando",
       "date": "2026-11-12",
@@ -108,7 +150,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFZtS2dtTS1HUU53U2w2ckRWVlZJcGlEdm5LWEVsU1V2X1NWOHlhdW5QRklDX3M3dVdZeEZNSmRCYXFMUnIya2dSaVNJQVpWZ25LdVpHZHk3ZEV6aFo2U1lDNkJaRVppYm1CdDNkTUp6OUhtRHVYQXJwcFhDUUwxU2g3SVRJT1ItdWp3dUFuRjNmUXhYaWtOZGR0QWN5RkU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-13T06:39:28.252Z"
     },
     {
       "id": "auto-2026-11-12-four-dead-15-injured-in-clash-between-manso-keniago-resident",
@@ -166,7 +209,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2kwZEE3dy1jNjVLd2loRTJ1dHRMeTY2ZG9udzZUclZJRUFMVERPNnNyQWwtbXpweEhqY3ZhVkgza0JsMTZRZDYzYXhZZ1JnbjJWa3dERW5wNEFOQ0w5eXdtR2dMaEhkSk9qbHVzNHVnZTd3WHA0R2dMRXFnRGRSUlpMVGdhMVd5OU5laWttSmJrdVZuOVp5VnlQVXRpZUJrN0cwTHVHV281ZHFkeThDWnBjNXdLdHVSSmVxT3k0aGNLeFd1NWlYbXBB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-13T06:40:25.017Z"
     },
     {
       "id": "auto-2026-11-12-manso-keniago-clash-naimos-and-chief-disagree-over-who-fired",
@@ -185,7 +229,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkF4cl9PeTgyZnp2SHAxS09zMVk3R0RsX0RhQTFCWEVBelF6M3VRSWxEeUtVdFZhTWdpQ1phdnRZcnp4TkZXb2llNHFBRFlaZGNLcEhOMXc3R19NaFp2cFE0bzctUUNlZWhmc1VJbHBGeW51U1pkQW1ON1BocXVQdnA5MjU4WmRoejVWUWZR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-13T06:40:37.878Z"
     },
     {
       "id": "auto-2026-11-12-naimos-shot-at-police-officer-chief-s-car-assemblyman-reside",
@@ -624,18 +669,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1215,18 +1260,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
+      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
+      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
       "metrics": {},
       "source": {
-        "name": "Peacefmonline.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
