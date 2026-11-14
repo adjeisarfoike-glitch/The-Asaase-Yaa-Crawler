@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-14T13:39:02.160Z",
+  "updated": "2026-11-14T22:25:06.370Z",
   "counts": {
-    "total": 1847,
+    "total": 1863,
     "verified": 28,
-    "automated": 1819,
+    "automated": 1835,
     "earliest": "2024-07-01",
     "latest": "2026-11-14"
   },
@@ -128,6 +128,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmFvN0hLN0NDbU9YelF4S2xIeGJJX3NlNEZWSEp0ODU0U01mYi15aWU1aVl1aDIzSkFKdkRzRFFseloxQUY5Wmd4d1pkNUR4UHl5SnRPVDUxaGdCckFBcEh6WmQzUFJjQmRwSVQ0TDMyMXAwakRGRnJ6ckJSWkVvZ211cms0UUYzUFEySW5SQXBJTF8zSjlhTlJyUWlnQ2xMd0E?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T22:20:38.914Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -147,7 +148,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxQWGU4U0xMMWJMLTFlNlBaT2JraTJJMFA1Nmp1dloxVmYxSmszOWVVUXlGXzUyU0JoeTREUnNndDNPLTRodnFrY2Q5dGN1cjd2V0lVc3doelNFcldzWFo2dWtMOGxFYlRBTjZLMC1CUWQ0RC1MS2VQSlRiYnJia1dzV0U0aw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-14T22:21:09.876Z"
     },
     {
       "id": "auto-2026-11-14-we-can-t-rely-on-naimos-alone-to-fight-galamsey-senyo-hosi",
@@ -166,7 +168,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkVHclpfX0hqVDE5dnpqYVo2Y29leEV0WHRrUVdwd1V4MG5xdElnRkx6MjFtVm9BQ3Nqc3poY0ROajVHUThBaW5jNHVaLXY0UVhfZFA2ZTJrZmo0cVQyX2JrdUVLenVPVlpEUEhCT2dNM1FVY3ZwajljUFZ1djl1U0VMUDZ6NC0zSnAwY2lTWQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-14T22:21:48.799Z"
     },
     {
       "id": "auto-2026-11-14-miracles-aboagye-insists-state-must-account-for-6-deaths-at-",
@@ -186,6 +189,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUxleDA4WElQX1ZfZzlUc3dNenBESHJkd0JEc1hZUzFRNlZUYnFJWk9uRW5QUm5lcjlNVlVLZ2d4WW1DUWNiZ3RxUndqdUt2VHE3b0lTNUFTUElaTW9QWklJbGdULTY0amYxT1JvREVjT3JEMG81UlBfdnlIV1dwbHBCd0hkRWhTTlJVUHJDOVFoZ250WXpMbzZtMzlaZUxXeE1scXhyeGt1SEVHM2ZkNS1kOUtWSU0?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T22:22:20.306Z",
       "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
@@ -407,6 +411,318 @@
         "url": "https://www.adomonline.com/playback-nnawotwe-yi-tackles-2027-budget-cocaine-busts-naimos-and-ndc-elections/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/playback-nnawotwe-yi-tackles-2027-budget-cocaine-busts-naimos-and-ndc-elections/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-damage-accumulated-over-years-cannot-be-reversed-im",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Galamsey damage accumulated over years cannot be reversed immediately – Kwesi Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey damage accumulated over years cannot be reversed immediately – Kwesi Schandorf Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3Vjc2dIcDlrRnJyTUFGU2kwSEhyWWN1TGJjWHpOUW5zM216VmRjNFRtM1dHSmpPWWRvd2UwWGtRNERvb0V5alZTN0M3R1dCN1JpV2RfT1ZyQzJEbDY4Y3BDN0drVEZlTV9JVDVlZnI2TmR5YlVIUF9fcGNlMi1rd09sWHhTeXRCQnhvR2o2TUhXTy1mMjUyRGFR0gGYAUFVX3lxTE1IbTEtQ2JzVzdtNW1rSXZvcWlzT1MtMXhvTVBELVJRUGU4X1hKcnMzTksxSExidWVOUGc1T1pvenk1ajNxaHNNRkhObDhoR3RQbE1xRDNtaWF2Q0hmTjBpNnRYZHQ2UVRhVkJCVWJnc3BYRFp2d0FxNzRYZ3EwVFJsQ3NRWGNsNllmV2lLQTJQekJEb1U5NHp3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3Vjc2dIcDlrRnJyTUFGU2kwSEhyWWN1TGJjWHpOUW5zM216VmRjNFRtM1dHSmpPWWRvd2UwWGtRNERvb0V5alZTN0M3R1dCN1JpV2RfT1ZyQzJEbDY4Y3BDN0drVEZlTV9JVDVlZnI2TmR5YlVIUF9fcGNlMi1rd09sWHhTeXRCQnhvR2o2TUhXTy1mMjUyRGFR0gGYAUFVX3lxTE1IbTEtQ2JzVzdtNW1rSXZvcWlzT1MtMXhvTVBELVJRUGU4X1hKcnMzTksxSExidWVOUGc1T1pvenk1ajNxaHNNRkhObDhoR3RQbE1xRDNtaWF2Q0hmTjBpNnRYZHQ2UVRhVkJCVWJnc3BYRFp2d0FxNzRYZ3EwVFJsQ3NRWGNsNllmV2lLQTJQekJEb1U5NHp3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-14T22:24:59.024Z"
+    },
+    {
+      "id": "auto-2026-11-14-kenneth-ashigbey-calls-for-targeted-state-of-emergency-in-vi",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Kenneth Ashigbey calls for targeted state of emergency in violent galamsey hotspots #Newsfile",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kenneth Ashigbey calls for targeted state of emergency in violent galamsey hotspots #Newsfile Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVlgtUmJVT1AwYnVsUE0tSjJQWnZwellDQzVERk51RTRmTUc3SGtzR3dKSDU0WkVBR2hRclRNUFZSekxoV25kMFVVdnpzeUg0eW12MjVkYUZHWFpTTk9oc3RJN1nSAVxBVV95cUxQRkZYVEVFWUMzLVdpNUhRdEZCbFI0RF90V0NVc3JnOEZpTlpacmFwSlk2MXBSNG5lVzBaUzBDeXMzLXJDWkwzeXd5OHNVRm51d3dkQWVYcGxVUGdHSA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pVlgtUmJVT1AwYnVsUE0tSjJQWnZwellDQzVERk51RTRmTUc3SGtzR3dKSDU0WkVBR2hRclRNUFZSekxoV25kMFVVdnpzeUg0eW12MjVkYUZHWFpTTk9oc3RJN1nSAVxBVV95cUxQRkZYVEVFWUMzLVdpNUhRdEZCbFI0RF90V0NVc3JnOEZpTlpacmFwSlk2MXBSNG5lVzBaUzBDeXMzLXJDWkwzeXd5OHNVRm51d3dkQWVYcGxVUGdHSA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-we-have-not-honoured-the-departed-8-kenne"
+    },
+    {
+      "id": "auto-2026-11-14-yaw-appiah-lartey-galamsey-is-an-economic-problem-being-met-",
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "Yaw Appiah Lartey: Galamsey is an economic problem being met with political solutions.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Yaw Appiah Lartey: Galamsey is an economic problem being met with political solutions. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qNlg5VGZDVXNBX0VraVc4dDRfa3JubW9GLV85SUxyaEdDZk85QktjaTBWLW4wV21DSkp5Q1I3Q0xoYlFYd0dGbDlGTTV2TWlHQ0R0VlZlTERZSXpkTlNtNlVjZDfSAVxBVV95cUxQekdSRHRBX2tOVktFSFRUMTg3SWZ4TEZVQU41aDhiaGFlVnVodmJIYWtWRUhXNVlSb0lqQk83ZHhJMVFaMWI4Mjc4ZFQ3R1NVeFVseXFZNWdXTGdqOQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qNlg5VGZDVXNBX0VraVc4dDRfa3JubW9GLV85SUxyaEdDZk85QktjaTBWLW4wV21DSkp5Q1I3Q0xoYlFYd0dGbDlGTTV2TWlHQ0R0VlZlTERZSXpkTlNtNlVjZDfSAVxBVV95cUxQekdSRHRBX2tOVktFSFRUMTg3SWZ4TEZVQU41aDhiaGFlVnVodmJIYWtWRUhXNVlSb0lqQk83ZHhJMVFaMWI4Mjc4ZFQ3R1NVeFVseXFZNWdXTGdqOQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-14-yaw-appiah-lartey-galamsey-is-an-economic-problem-being-met-"
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-clash-militia-or-self-defence-newsfile-14-11-26",
+      "date": "2026-11-14",
+      "category": "prosecution",
+      "title": "Galamsey Clash: Militia or Self-Defence? | Newsfile (14-11-26)",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Clash: Militia or Self-Defence? | Newsfile (14-11-26) Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMjhnMlhXRXRUTi13QUNBS3ZMSTNjZ3RKeE84UXZuQjN4U3h3Rk1UWnNPcG9UTkk0aUlveU5uZFJVclh1WTdFTjk1MnR5bVRhalB1WlVXYVVsZkIyUGhnM0hvcGnSAVxBVV95cUxQMEY2TEcwbmJMX0pmQTVxc182RVR4MVNXaktoMDkxSENIM1NUeW41a0RWTEQ4cGkxa1Vna3FFWG9Hd0FjbFNRbzdkbWFNSmstbEpkb1pHRmNNTFYyMw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMjhnMlhXRXRUTi13QUNBS3ZMSTNjZ3RKeE84UXZuQjN4U3h3Rk1UWnNPcG9UTkk0aUlveU5uZFJVclh1WTdFTjk1MnR5bVRhalB1WlVXYVVsZkIyUGhnM0hvcGnSAVxBVV95cUxQMEY2TEcwbmJMX0pmQTVxc182RVR4MVNXaktoMDkxSENIM1NUeW41a0RWTEQ4cGkxa1Vna3FFWG9Hd0FjbFNRbzdkbWFNSmstbEpkb1pHRmNNTFYyMw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+    },
+    {
+      "id": "auto-2026-11-14-senyo-hosi-govt-must-treat-drug-trade-with-the-same-urgency-",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Senyo Hosi: Govt must treat drug trade with the same urgency as galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Senyo Hosi: Govt must treat drug trade with the same urgency as galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRDg3MTRwd2h2M09fUHhFRjlONkZuLUlOZVRYYnMyZFVveUJjZXlkeWpsdkhxT2M1a2RJTU5OVWRCQzVGdlIzR3ZRVGtYbndXc0pYOEJ0X09LU09fQnIxNFFZUkrSAVxBVV95cUxOS0cxWmsxNnpETG43d2h6WU9EcXNrRHV1UUpWY2hzX0tYcmlxcklHX0ZFakdnM256STBERFpFclpMZDU3dGMycldkWUk5XzU3YU91VlI3U2xuUmVNUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRDg3MTRwd2h2M09fUHhFRjlONkZuLUlOZVRYYnMyZFVveUJjZXlkeWpsdkhxT2M1a2RJTU5OVWRCQzVGdlIzR3ZRVGtYbndXc0pYOEJ0X09LU09fQnIxNFFZUkrSAVxBVV95cUxOS0cxWmsxNnpETG43d2h6WU9EcXNrRHV1UUpWY2hzX0tYcmlxcklHX0ZFakdnM256STBERFpFclpMZDU3dGMycldkWUk5XzU3YU91VlI3U2xuUmVNUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-catholic-bishops-conference-demands-state-of-emergency-in-ga",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Catholic Bishops' Conference demands state of emergency in galamsey hotspots",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Catholic Bishops' Conference demands state of emergency in galamsey hotspots 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEVERVFwTVppejd1UURJeXhrLUttZk1oSEYxM3FLVUVDeDhRRzVHLXp0cldRS2Z1bXlvazhQVGw3TmVlb1c3dHkwVkZ1RXdtaURDQTdSaVVSWEh3VzVIdTktV3h5aHd0bGNsbG12ZV9VRUttYmhVeEY5aG8zcFAzS1lZem43Y3o3TUVEQnZFTnIyanJ6QmNkNWQtTW9oSzQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEVERVFwTVppejd1UURJeXhrLUttZk1oSEYxM3FLVUVDeDhRRzVHLXp0cldRS2Z1bXlvazhQVGw3TmVlb1c3dHkwVkZ1RXdtaURDQTdSaVVSWEh3VzVIdTktV3h5aHd0bGNsbG12ZV9VRUttYmhVeEY5aG8zcFAzS1lZem43Y3o3TUVEQnZFTnIyanJ6QmNkNWQtTW9oSzQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-fight-has-failed-government-must-change-strategy-se",
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "Galamsey fight has failed; government must change strategy – Senyo Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight has failed; government must change strategy – Senyo Hosi GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmpCTHhvVkxzMVpZanZvYVQtbHdsWTUwcER3clRldTRkbEM0em81a0RVSXZnQ1loTnA5OTFoUEZ3b21kaG1jUFV3eUwtOXJPbTQ0RnJVb0NTVG9xUDdiMnFndmlidXZTbXAtbU4zU2tMWEtsMDd6VUIxRmlnTmpIQVNaelBLcVo5cW1IcGdsellMMTB0OWRfbWNWdTlwdHJEQndYMk84UnJVbS0zZzFOcmxsb3BKY1JNTkJpal9pZ3lMLW14LUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmpCTHhvVkxzMVpZanZvYVQtbHdsWTUwcER3clRldTRkbEM0em81a0RVSXZnQ1loTnA5OTFoUEZ3b21kaG1jUFV3eUwtOXJPbTQ0RnJVb0NTVG9xUDdiMnFndmlidXZTbXAtbU4zU2tMWEtsMDd6VUIxRmlnTmpIQVNaelBLcVo5cW1IcGdsellMMTB0OWRfbWNWdTlwdHJEQndYMk84UnJVbS0zZzFOcmxsb3BKY1JNTkJpal9pZ3lMLW14LUE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-is-worse-under-ndc-than-in-2024-miracles-aboagye",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Galamsey is worse under NDC than in 2024 – Miracles Aboagye",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is worse under NDC than in 2024 – Miracles Aboagye GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTVQQ1Uya3N3UlVPUFdUUkV0WkhVMHlybVNrUGFyZEJIaHNmenBVQWREbktTVXIxZVF4R1JPTXIxZWIxNWJsazJfTzltVTVGMTlEZWQyblRRZGZKX3hxR2pOWEQ5S1JvRm9HS0luc2FTYU9GU2w0eDVKa2lOWHNaTjJSdXg3S2I3NHlWdHpfXzRwQUZCUDJiRWEwUFFRTFRzUjJJekppUlRWYjJuVjNFV004eUdkcUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTVQQ1Uya3N3UlVPUFdUUkV0WkhVMHlybVNrUGFyZEJIaHNmenBVQWREbktTVXIxZVF4R1JPTXIxZWIxNWJsazJfTzltVTVGMTlEZWQyblRRZGZKX3hxR2pOWEQ5S1JvRm9HS0luc2FTYU9GU2w0eDVKa2lOWHNaTjJSdXg3S2I3NHlWdHpfXzRwQUZCUDJiRWEwUFFRTFRzUjJJekppUlRWYjJuVjNFV004eUdkcUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
+    },
+    {
+      "id": "auto-2026-11-14-politicians-are-frustrating-galamsey-enforcement-ken-ashigbe",
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "Politicians are frustrating galamsey enforcement – Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Politicians are frustrating galamsey enforcement – Ken Ashigbey Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzd5NXlwMFYwQms0ZWU0aUVaYWRVRVZ3UlhRVjMwSHFTRDZGLUhHR3l5Y2ZyMkM1TE13M25sZ0lvcEh6R214Qzd1VHBNb1JaWEV6STlRbURzMG5NeW0tdXE5UWotN041RUJUX2hnakZhVlREM0VfSjBWQzJITk5mMTFuMEpUNzAtTHpubV9QbGI5dE0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxPMzd5NXlwMFYwQms0ZWU0aUVaYWRVRVZ3UlhRVjMwSHFTRDZGLUhHR3l5Y2ZyMkM1TE13M25sZ0lvcEh6R214Qzd1VHBNb1JaWEV6STlRbURzMG5NeW0tdXE5UWotN041RUJUX2hnakZhVlREM0VfSjBWQzJITk5mMTFuMEpUNzAtTHpubV9QbGI5dE0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-playback-newsfile-discussed-galamsey-clash-drug-busts-and-20",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Playback: Newsfile discussed galamsey clash, drug busts and 2027 Budget",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Playback: Newsfile discussed galamsey clash, drug busts and 2027 Budget MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmFvN0hLN0NDbU9YelF4S2xIeGJJX3NlNEZWSEp0ODU0U01mYi15aWU1aVl1aDIzSkFKdkRzRFFseloxQUY5Wmd4d1pkNUR4UHl5SnRPVDUxaGdCckFBcEh6WmQzUFJjQmRwSVQ0TDMyMXAwakRGRnJ6ckJSWkVvZ211cms0UUYzUFEySW5SQXBJTF8zSjlhTlJyUWlnQ2xMd0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmFvN0hLN0NDbU9YelF4S2xIeGJJX3NlNEZWSEp0ODU0U01mYi15aWU1aVl1aDIzSkFKdkRzRFFseloxQUY5Wmd4d1pkNUR4UHl5SnRPVDUxaGdCckFBcEh6WmQzUFJjQmRwSVQ0TDMyMXAwakRGRnJ6ckJSWkVvZ211cms0UUYzUFEySW5SQXBJTF8zSjlhTlJyUWlnQ2xMd0E?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+    },
+    {
+      "id": "auto-2026-11-14-ken-ashigbey-accuses-politicians-of-frustrating-galamsey-enf",
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "Ken Ashigbey accuses politicians of frustrating galamsey enforcement",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ken Ashigbey accuses politicians of frustrating galamsey enforcement MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX0s2cUZNc3hRV2E1eFk4dFY2VkFsWVdHNzFmVUxFNFh3QjdHWFJ4Z2lIWWZvX2VoLU94blZtbE1qTnhLWWZVeHdKa0FjaU0xTGd1MmpTbjJwVmU2TGtuZEZPTXdmVzRtaHhrclVIdjdKay1Rc01scERERGlfd3NpVHUwWjhEWDA5YzNlR0lpRHhsbjhUSVE3alYzcnBaUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxQX0s2cUZNc3hRV2E1eFk4dFY2VkFsWVdHNzFmVUxFNFh3QjdHWFJ4Z2lIWWZvX2VoLU94blZtbE1qTnhLWWZVeHdKa0FjaU0xTGd1MmpTbjJwVmU2TGtuZEZPTXdmVzRtaHhrclVIdjdKay1Rc01scERERGlfd3NpVHUwWjhEWDA5YzNlR0lpRHhsbjhUSVE3alYzcnBaUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-ken-ashigbey-urges-mahama-to-declare-a-state-of-emergency-in",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Ken Ashigbey urges Mahama to declare a state of emergency in galamsey hotspots",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ken Ashigbey urges Mahama to declare a state of emergency in galamsey hotspots MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFphWGhFdFlfTjNLajU2MzNfUkNqVXRvR3pfQUZVMjlDejJ6aG10NU1ZQVRZemxaMnhTYTNSN3lnZUVWX2Nwb3RpM05CaXR1V3Z6MjM1YTlMek02NWlfamd0RFZIaG43eFAtYkFldk5iUUV5REF2WTJzTGNxd3lvTC1idmVmR3h6UGdHNFZZbHRHalFfNU4zLWszTk1LTWdDbHV0dEVSVU5yZGM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFphWGhFdFlfTjNLajU2MzNfUkNqVXRvR3pfQUZVMjlDejJ6aG10NU1ZQVRZemxaMnhTYTNSN3lnZUVWX2Nwb3RpM05CaXR1V3Z6MjM1YTlMek02NWlfamd0RFZIaG43eFAtYkFldk5iUUV5REF2WTJzTGNxd3lvTC1idmVmR3h6UGdHNFZZbHRHalFfNU4zLWszTk1LTWdDbHV0dEVSVU5yZGM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-fight-we-can-t-keep-doing-things-the-same-way-hosi",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Galamsey fight: We can’t keep doing things the same way – Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: We can’t keep doing things the same way – Hosi MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUh2a0xpTEdib1FjS09uWm9XQ3JFWWZuVHhzQklDekV3ZzVyVkd5bGotc25hRFFWSzh3Q3NNQXhySjFtZk5weVJYdUIyQ2d4R0Nod2JjX2VzNXJoX3dLSHpDUXM2Nkw2bjFfNlpUNlZGMGlCZHNoc093Y3FseF9zZnAzU1VUNlBzYjFGRg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUh2a0xpTEdib1FjS09uWm9XQ3JFWWZuVHhzQklDekV3ZzVyVkd5bGotc25hRFFWSzh3Q3NNQXhySjFtZk5weVJYdUIyQ2d4R0Nod2JjX2VzNXJoX3dLSHpDUXM2Nkw2bjFfNlpUNlZGMGlCZHNoc093Y3FseF9zZnAzU1VUNlBzYjFGRg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-fight-you-can-enforce-a-state-of-emergency-if-you-w",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Galamsey fight: You can enforce a state of emergency if you want – Hosi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: You can enforce a state of emergency if you want – Hosi MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaE1hN2pnM3FUeC1GQmpGQUxjWE4xZ0laSk1zMzRjclZucU5VSlBLbDBLUkRnYUJHNVNNR01BZXFuelJaTm1hWEN4NGlUQ19TaDZfTFN2Y2h1X2xpX1l4b2N1QmhQQThyOUU0ZUZWczBIQ3Q4N0ZyZ0tBdnpTZl9vS19UT3ZPRTh2YmpZbmZYT3dqQ25OX3ZFZExR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxPaE1hN2pnM3FUeC1GQmpGQUxjWE4xZ0laSk1zMzRjclZucU5VSlBLbDBLUkRnYUJHNVNNR01BZXFuelJaTm1hWEN4NGlUQ19TaDZfTFN2Y2h1X2xpX1l4b2N1QmhQQThyOUU0ZUZWczBIQ3Q4N0ZyZ0tBdnpTZl9vS19UT3ZPRTh2YmpZbmZYT3dqQ25OX3ZFZExR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-galamsey-is-an-economic-problem-not-a-political-one-appiah-l",
+      "date": "2026-11-14",
+      "category": "policy",
+      "title": "Galamsey is an economic problem, not a political one – Appiah Lartey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey is an economic problem, not a political one – Appiah Lartey MyNewsGh",
+      "metrics": {},
+      "source": {
+        "name": "MyNewsGh",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmpZY0Zwc2V3UmU1WC1YV3Jpbl80aXpJSmxBZU52dk1ud2loeHZnS2Frdkp5aGJtX3hmSFNyckJnS2poZ01RR0NjLTlPRmhEX2xILVpsZnktVW5zZThSVzRTSlVyZEJOTEd2NEhTWG02ek01dDZHVUJTcWlFTHQ0Rlp3dXY3eFN5d2hqeWtkUGVLR0M3VGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmpZY0Zwc2V3UmU1WC1YV3Jpbl80aXpJSmxBZU52dk1ud2loeHZnS2Frdkp5aGJtX3hmSFNyckJnS2poZ01RR0NjLTlPRmhEX2xILVpsZnktVW5zZThSVzRTSlVyZEJOTEd2NEhTWG02ek01dDZHVUJTcWlFTHQ0Rlp3dXY3eFN5d2hqeWtkUGVLR0M3VGc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-14-yaw-appiah-lartey-galamsey-is-an-economic-problem-being-met-"
+    },
+    {
+      "id": "auto-2026-11-14-ken-ashigbey-backs-independent-probe-into-naimos-manso-kenia",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Ken Ashigbey backs independent probe into NAIMOS-Manso Keniago clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ken Ashigbey backs independent probe into NAIMOS-Manso Keniago clash MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRHMGxyOGJaelJZcWR6X2EtdDhVYkpMTGthMElzMnM4aVl6MmJCdm9XczBnSWUtV203SExFbXFiV3g4MDlYSkVuckJLekVwcmVNdlVFOHJrVTM2b2tGanI1LW5aV2JSTGpMMWx5cFFqdU1udHRqcVlqbllCaWxKeGJHeV85bHZMbW5lcmVuTzBsRFdQOF9wMlpOcnVKZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRHMGxyOGJaelJZcWR6X2EtdDhVYkpMTGthMElzMnM4aVl6MmJCdm9XczBnSWUtV203SExFbXFiV3g4MDlYSkVuckJLekVwcmVNdlVFOHJrVTM2b2tGanI1LW5aV2JSTGpMMWx5cFFqdU1udHRqcVlqbllCaWxKeGJHeV85bHZMbW5lcmVuTzBsRFdQOF9wMlpOcnVKZw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1339,18 +1655,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1930,18 +2246,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
+      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
+      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
       "metrics": {},
       "source": {
-        "name": "Peacefmonline.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -6414,8 +6730,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YMUVwQ21nUnBaM0pabFFfc1JsVjk4emY4eFd1MUtzWlV0QV9iNkhLT3lHclpJNk1Pbm9ELVlkRmctSDF4VEllVEVGb1B6allHSnJwYjh1dVZhUFc3X09IWi0wVzXSAVxBVV95cUxNNm01RGlMcVduV2p6WFludlc0c05rQk14d1ZRLXMxV0dnLVg1NzdoSkJmaXZpUTdwSmdFMktmdFV1Z2dpQThzTzVkMUZVNm5FUHNRS0FyV2hkWV82Nw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+      "verified": false
     },
     {
       "id": "auto-2026-10-31-miif-leads-50-hectare-forest-restoration-project-in-sekyere-",
@@ -6964,8 +7279,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVEE4U0hlYU5QVTlwVm80WlJkTHozbFVEYzdKVm9TNHFYVUxIT1NtV05JdnVKcUlIOFZ5T0RzXy1qNTRBWHRES1pLWVlJSlhWZ0w5bzVIT2otV3pwTkg4dzhMUW0xT3U4a0Q5bXljOEpVZ0RmVTVubXBldXpCeG0ya1RHT3Nlbm02ejIxT2hjeUdYaFZ3bWxvNFlxc0RlTktaZnVGWUtvMG9aVGl3VEdOeEV4U3RXVEZuYWFHTHc0TzZlNmpyZkl0SjhpMDJ6M2NGa0VnUkhQTDdLcDUyN2xqY293TEw5WUd3Sm41S1Jn?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
+      "verified": false
     },
     {
       "id": "auto-2026-10-30-jema-asemkrom-residents-allege-threats-over-efforts-to-expos",
@@ -24450,8 +24764,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc1pLNy02UEl2OXc5UDhxQ3kxRjFZaXJFdnNFNHFFckJXRDliMmRfTVc1QmUxQlh3TmFmWFNnckJVcDM1ZV8xWUtvckNVY1VvdzJXUGZTZXBBUFZ6eGRrVlcxd1MzWUNibEp0R0g5bldFOFhpdzhHc3hxM0FBY1l2MGVNTU5WT1paVWFhelFDRTRac19xLWVQc3g0T1FWN0ZiVVMwVW1zODVzSkJaZVlVc05nSF9VSWFtTWxoNGNYRXpMdzVxa0dlZUFFVy1BaDhMUFlF?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-03T04:22:19.643Z",
-      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+      "archivedAt": "2026-09-03T04:22:19.643Z"
     },
     {
       "id": "auto-2026-09-02-ghana-water-insists-its-treated-water-is-safe-despite-heavy-",
@@ -32221,7 +32534,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtMnhma3dfVkI3RTNUQnBGOGlub3dsSHduUWx1eW1vNGwtYzhieWZoMXpVb2pZOGJOcXRoX2tlR2x0bU1OSHh6WFFGSFBMeGhUR0trZ1ZRTTQ2S3UyZTJ4VHEwTjHSAVxBVV95cUxPN2dPbzdESEY3ZTQ4cVhpdjAzQzdrWWhKTEFieWhFdzNHUWYxMXkyY0pEVjd1c0tjRDBpdlNNeFcwemMyeXVuTWNpTUNFWjZMRlB1MlNtRGJoUXJIRg?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-we-have-not-honoured-the-departed-8-kenne"
     },
     {
       "id": "auto-2026-08-12-the-galamsey-fight-one-year-after-helicopter-clash-pm-expres",
