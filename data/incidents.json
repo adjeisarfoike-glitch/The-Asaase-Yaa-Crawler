@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-13T19:45:26.397Z",
+  "updated": "2026-11-14T06:23:15.887Z",
   "counts": {
-    "total": 1821,
+    "total": 1826,
     "verified": 28,
-    "automated": 1793,
+    "automated": 1798,
     "earliest": "2024-07-01",
     "latest": "2026-11-13"
   },
@@ -170,7 +170,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-engages-truck-drivers-and-sand-winning-associations-over-vehicle-seizures-and-regulatory-compliance",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-14T06:15:53.441Z"
     },
     {
       "id": "auto-2026-11-13-lands-ministry-launches-investigation-into-manso-keniago-sho",
@@ -230,7 +231,68 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/goldbod-exports-88-tonnes-of-small-scale-gold-valued-at-12-billion/2026/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T06:18:12.150Z",
       "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-13-what-environmental-and-health-problems-are-caused-by-galamse",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "What environmental and health problems are caused by galamsey mining in Ghana?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "What environmental and health problems are caused by galamsey mining in Ghana? Britannica",
+      "metrics": {},
+      "source": {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXVKWVJqMkFkRlQ0TTV4QTVVbFhiLXo4NHJBOFFiOTZKZzZDbVNUMmZUaFBXV3RxRV9pQzFZaEJjUDBwLWs4OFhRWFFLU1l3RVV2ckdTcHhydmJNcFVkaWVpQk81TEpqaF9UYmNlak4xd1dIcTlXcjlVbUVtTXNLQ0RoZllyRjNCNWFiZktoNlliWTctREZ5SHJrQ2FWcUNxYWFCSXNJUnp2dGFYT1ZR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXVKWVJqMkFkRlQ0TTV4QTVVbFhiLXo4NHJBOFFiOTZKZzZDbVNUMmZUaFBXV3RxRV9pQzFZaEJjUDBwLWs4OFhRWFFLU1l3RVV2ckdTcHhydmJNcFVkaWVpQk81TEpqaF9UYmNlak4xd1dIcTlXcjlVbUVtTXNLQ0RoZllyRjNCNWFiZktoNlliWTctREZ5SHJrQ2FWcUNxYWFCSXNJUnp2dGFYT1ZR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-14T06:18:54.698Z"
+    },
+    {
+      "id": "auto-2026-11-13-manso-keniago-chief-challenges-naimos-to-prove-alleged-shoot",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "Manso Keniago Chief challenges NAIMOS to prove alleged shooting that killed six",
+      "place": "Amansie West",
+      "region": "Ashanti",
+      "lat": 6.28,
+      "lon": -2.05,
+      "summary": "The Chief of Manso Keniago in the Amansie West District has challenged the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to provide evidence of the alleged attack on its men that warranted a reprisal attack on the community.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/manso-keniago-chief-challenges-naimos-to-prove-alleged-shooting-that-killed-six/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/manso-keniago-chief-challenges-naimos-to-prove-alleged-shooting-that-killed-six/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
+    },
+    {
+      "id": "auto-2026-11-13-lands-ministry-opens-probe-into-deadly-manso-keniago-shootin",
+      "date": "2026-11-13",
+      "category": "policy",
+      "title": "Lands Ministry opens probe into deadly Manso Keniago shooting",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Ministry says its probe will establish the circumstances of the clash between residents and NAIMOS officers.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/lands-ministry-investigation-manso-keniago-shooting"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/lands-ministry-investigation-manso-keniago-shooting",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-14T06:20:10.377Z"
     },
     {
       "id": "auto-2026-11-12-without-naimos-galamsey-would-be-far-worse-paa-kwesi-schando",
@@ -431,7 +493,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRkJxc3l5YnlxaUhEalY3Y1hHRWt6S19RT0tRc1lfMXV6Y1ZKMzBsTEdxaW1lajNfT29kOS1tbEN5WlpKVUQ0YmFZRm1qMjczUGxFNndIUDFOMXA5Umx5QjR5T0UyMGdxc1dmcHJ2NExyUlRoR2FrVU8zbV96b092bURGNW02aTRqY1NwWF95ZjNlQzdHMnZrOTNNVS1kYnZXT21JcVBKTlJEV2ZBaTc1OHNtTm5hU2tuWTZMSGJUaFRRbjctZ2VfWXc0TW1YZ0lrYWl1QVVIYllFVWM?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-14T06:21:29.804Z"
     },
     {
       "id": "auto-2026-11-12-naimos-says-personnel-acted-in-self-defence-during-manso-ken",
@@ -451,6 +514,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/naimos-says-personnel-acted-in-self-defence-during-manso-keniago-clash-that-left-six-dead/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T06:21:42.817Z",
       "thread": "t-auto-2026-11-12-naimos-says-personnel-acted-in-self-defence-during-manso-ken"
     },
     {
@@ -491,6 +555,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/manso-keniago-clash-death-toll-rises-to-six-15-injured/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T06:21:55.362Z",
       "thread": "t-auto-2026-09-04-8-feared-dead-as-illegal-mining-pit-collapses-at-domi-keniag"
     },
     {
@@ -511,6 +576,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/manso-keniago-chiefs-palace-damaged-by-naimos-palace-secretary",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T06:22:08.124Z",
       "thread": "t-auto-2026-11-11-galamsey-two-reportedly-killed-two-naimos-officers-injured-i"
     },
     {
@@ -531,6 +597,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/crime/manso-keniago-clash-death-toll-rises-to-six",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-14T06:22:38.738Z",
       "thread": "t-auto-2026-11-12-naimos-says-personnel-acted-in-self-defence-during-manso-ken"
     },
     {
@@ -870,18 +937,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1461,18 +1528,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
+      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
+      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
       "metrics": {},
       "source": {
-        "name": "Peacefmonline.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -2000,6 +2067,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OajgyNW5DQW92R0IxT1RsY1k4QmJ2X3AxOU13eTNVLTZKT3V4d2xVWkh0bnh4WEVHTmtCR1JyOWdjV3o0Z0ZfdDgwcHlVVWp4czF6TktIZFBsS2lOLVQ2RFpyRmHSAVxBVV95cUxPV2ppSlBvcl9CMENJdVF4Y1RmNUpqRGxWQjNNb25CelBlVm1zb2NaV3BoSkM1Q05QelRESW1RemVnZFJFbHAxay1qSVdkQ3VhbzR3YnhOUXlvbm9HVA?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-09-osp-probes-evacuation-world-cup-sponsorship-ndc-race-wontumi",
+      "date": "2026-11-09",
+      "category": "forest",
+      "title": "OSP Probes Evacuation & World Cup Sponsorship | NDC Race, Wontumi & Galamsey | Joy News Prime",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "OSP Probes Evacuation & World Cup Sponsorship | NDC Race, Wontumi & Galamsey | Joy News Prime Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTlR1eFBGbHdVWEtXbEIyWVJRTy13dVA0MHRJM2Nlc0tFNDJZWWhlSnQ1X2JPOGNLbVFLQUhNUTdnYjJ5TENoakM5T3VmZG12YjBCQzdEeDdheUdCS29QZTZ2M3TSAVxBVV95cUxQeXQ1bTlVR2pxb1dTYWZkTzE1SzZOcDBfVUFVZHhSNjllQktFZjE0b2VxRXFrU052RmtzeWV0RUxTQVFLdmtSYnVMUWlTX0xUeHZkLTkxY2NCVHlTZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVTlR1eFBGbHdVWEtXbEIyWVJRTy13dVA0MHRJM2Nlc0tFNDJZWWhlSnQ1X2JPOGNLbVFLQUhNUTdnYjJ5TENoakM5T3VmZG12YjBCQzdEeDdheUdCS29QZTZ2M3TSAVxBVV95cUxQeXQ1bTlVR2pxb1dTYWZkTzE1SzZOcDBfVUFVZHhSNjllQktFZjE0b2VxRXFrU052RmtzeWV0RUxTQVFLdmtSYnVMUWlTX0xUeHZkLTkxY2NCVHlTZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
@@ -3274,6 +3361,25 @@
       "verified": false,
       "archivedAt": "2026-11-08T22:04:51.991Z",
       "thread": "t-auto-2026-11-04-ghana-risks-complicity-in-sahel-terrorism-if-galamsey-persis"
+    },
+    {
+      "id": "auto-2026-11-04-naimos-only-conducts-lawful-arrests-but-will-take-decisive-a",
+      "date": "2026-11-04",
+      "category": "arrest",
+      "title": "NAIMOS only conducts lawful arrests but will take decisive action when necessary - Schandorf",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS only conducts lawful arrests but will take decisive action when necessary - Schandorf GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd0tSejdoZEZKODJXN00yS1dtUnlDVmRWQURValdKay1LR2pFd2l2RTRkTHk4cUowaE02cG9ycDlkM3lMR2xZbWs5WmVub050ckxnd3ZxbUhENjB4UE41ZlozaFRuQlRqdmFEaTAxc1NkOTJIYnIzTWNWbXVwMk82ZnFjaEtTci1jaEhzNTN4S0xwM1FRX3pTdnZ2dzZPR1dhejNUN2cwT1I5N29kNmh3Z2VnSjVhYkNELW9XWm1MeWZycUgwX2I4X05Nbllia2E3X0tMVVVtRTROczVmQjdhMVkxSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd0tSejdoZEZKODJXN00yS1dtUnlDVmRWQURValdKay1LR2pFd2l2RTRkTHk4cUowaE02cG9ycDlkM3lMR2xZbWs5WmVub050ckxnd3ZxbUhENjB4UE41ZlozaFRuQlRqdmFEaTAxc1NkOTJIYnIzTWNWbXVwMk82ZnFjaEtTci1jaEhzNTN4S0xwM1FRX3pTdnZ2dzZPR1dhejNUN2cwT1I5N29kNmh3Z2VnSjVhYkNELW9XWm1MeWZycUgwX2I4X05Nbllia2E3X0tMVVVtRTROczVmQjdhMVkxSQ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-03-lands-minister-calls-for-district-level-taskforces-to-intens",
