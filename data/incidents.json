@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-14T22:25:06.370Z",
+  "updated": "2026-11-15T06:29:02.296Z",
   "counts": {
-    "total": 1863,
+    "total": 1866,
     "verified": 28,
-    "automated": 1835,
+    "automated": 1838,
     "earliest": "2024-07-01",
-    "latest": "2026-11-14"
+    "latest": "2026-11-15"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
+      "date": "2026-11-15",
+      "category": "forest",
+      "title": "Galamsey today is worse than it was in 2024 – Miracles Aboagye",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey today is worse than it was in 2024 – Miracles Aboagye MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3hXSHo4dDJEZGNaenYtSVZNTWl0ZC1WYTNlLVVZM0ViNE5rbUdxRXRGMjVld1Z4aFdwUEk4dVdtLURsNE45X1RYemZFQjVBakUyVlNSUklMX3E5R0lPVFVqaUNXaFlyR2RjNF9McHBmc1UzQVExcHU1WndhUjk3TlNHV09VOFpKUmU2YTluRGJsV3M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3hXSHo4dDJEZGNaenYtSVZNTWl0ZC1WYTNlLVVZM0ViNE5rbUdxRXRGMjVld1Z4aFdwUEk4dVdtLURsNE45X1RYemZFQjVBakUyVlNSUklMX3E5R0lPVFVqaUNXaFlyR2RjNF9McHBmc1UzQVExcHU1WndhUjk3TlNHV09VOFpKUmU2YTluRGJsV3M?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-15T06:23:37.170Z",
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
+    },
     {
       "id": "auto-2026-11-14-president-mahama-and-his-inflexible-soldiers-estimably-fough",
       "date": "2026-11-14",
@@ -210,6 +231,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxPcmc5bldsY0JsdXlwS203UHpGUHN3a1R6UVc0Z1pOQkF3M1g4aVIya2F1S0s5QVhUZ09HVVRsVU12Zi11N0VxWS1tc1lvcnhmcjYwcmZST2xiY2RvU04zblQwMWFyWENCXzZ6WmpfeHZxSHNITFFCUFA1T3lNa3NpWTNjT1p0NEJjSVpoT0dGSjFod3ZWc1NnTEZMcE84TkRIWFpuNw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-15T06:24:52.631Z",
       "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
@@ -230,6 +252,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlo4VkwwcFRkSDdBMjY0WE9zV3BJOEU3aGtCcmtWZkVMR2VsOWxoWHp3bFNRc2l2N0V1YTFaNVJBUTNJQTFUZnMxOXd0dmdEbFd6M2FSbDJIY0xFNC1UNjJhX2FNR1pQaGVHNUdPdXBEOENOdW9UWk1HdzdMMnVxVTg2NkZvYVlCeFlETHp5LXpGakdnNzNibg?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-15T06:25:17.633Z",
       "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
@@ -250,6 +273,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXhKV1VWRXlaWlJ0QXctOXJHdWRvaTV5TmtnMURSWGI4a3FvcUJMQlM2M1pUSUh4MzhJOWFnLVlnTDZuTU9fbi1mT0YzUmZqemRPMUdEaGdCOUJ3Vjg1U0JKZnF1cFVyMFlJOXcyZW5ReUhFRXItMW4zTkNlcDM3eHVZRFlITDhuZWdObFRTVnM3ME1Hbzkyc1c0VlpYZ2lVOHFSUnJLRTZLYTRnZHpycGE1djhMMW8?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-15T06:25:45.251Z",
       "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
@@ -492,6 +516,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMjhnMlhXRXRUTi13QUNBS3ZMSTNjZ3RKeE84UXZuQjN4U3h3Rk1UWnNPcG9UTkk0aUlveU5uZFJVclh1WTdFTjk1MnR5bVRhalB1WlVXYVVsZkIyUGhnM0hvcGnSAVxBVV95cUxQMEY2TEcwbmJMX0pmQTVxc182RVR4MVNXaktoMDkxSENIM1NUeW41a0RWTEQ4cGkxa1Vna3FFWG9Hd0FjbFNRbzdkbWFNSmstbEpkb1pHRmNNTFYyMw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-15T06:28:29.891Z",
       "thread": "t-auto-2026-08-21-newsfile-to-discuss-nationwide-blackouts-goldbod-controversy"
     },
     {
@@ -511,7 +536,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JRDg3MTRwd2h2M09fUHhFRjlONkZuLUlOZVRYYnMyZFVveUJjZXlkeWpsdkhxT2M1a2RJTU5OVWRCQzVGdlIzR3ZRVGtYbndXc0pYOEJ0X09LU09fQnIxNFFZUkrSAVxBVV95cUxOS0cxWmsxNnpETG43d2h6WU9EcXNrRHV1UUpWY2hzX0tYcmlxcklHX0ZFakdnM256STBERFpFclpMZDU3dGMycldkWUk5XzU3YU91VlI3U2xuUmVNUQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-15T06:28:54.958Z"
     },
     {
       "id": "auto-2026-11-14-catholic-bishops-conference-demands-state-of-emergency-in-ga",
@@ -1612,6 +1638,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-11-12-ghanaian-novelist-takes-galamsey-fight-into-classrooms",
+      "date": "2026-11-12",
+      "category": "forest",
+      "title": "Ghanaian novelist takes galamsey fight into classrooms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghanaian novelist takes galamsey fight into classrooms Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekpNTFMtU1FGbGZsMGVQcHFqWW1EOXVWX3lHd2RCSmVleVpKYUdFRzFLNGQ4cjladDRCQV9hOGRRZnZFVldTUlN2OEJpZ3FUVl9GUkREZFBqd1VrdjNzWG1PX25rejh6dl9MWDZrbzR6Z1pKckQwLXgyTkYzN09SNXdYVFMtRTFGVkE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxNekpNTFMtU1FGbGZsMGVQcHFqWW1EOXVWX3lHd2RCSmVleVpKYUdFRzFLNGQ4cjladDRCQV9hOGRRZnZFVldTUlN2OEJpZ3FUVl9GUkREZFBqd1VrdjNzWG1PX25rejh6dl9MWDZrbzR6Z1pKckQwLXgyTkYzN09SNXdYVFMtRTFGVkE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-11-eu-study-exposes-gaps-in-fight-against-galamsey",
       "date": "2026-11-11",
       "category": "forest",
@@ -2246,18 +2291,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
+      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
+      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
       "metrics": {},
       "source": {
-        "name": "Ghanaian Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -5543,6 +5588,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-11-02-how-come-galamsey-is-getting-worst-despite-wontumi-s-arrest-",
+      "date": "2026-11-02",
+      "category": "arrest",
+      "title": "How Come Galamsey Is Getting Worst Despite Wontumi's Arrest? - Kwami Sefa Kayi Queries",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "How Come Galamsey Is Getting Worst Despite Wontumi's Arrest? - Kwami Sefa Kayi Queries Peacefmonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0hoal9VUUFQRTF3UWJwNUZpeTI0UU1DUTYxeHltY2VTRGt4QnJxQVFyZmtwc3Bvc056R0ZESDN4SDFEaEdWREpKUGlsdno5WHBMMEhSVUc0T1hiVjlWNG1TT2JzV1libmdraTlRVEJYRWtNQ1J6YUcyYS1VWWF6QzRRMnd5N19ST1Z2LVBOUGkzcnl3Tnh5SUdyZ2liY1Z4c0dBTzJKWVpIRDI2dDB5SDg4MjZTbzBSQ2FwcWdRZXU3STQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0hoal9VUUFQRTF3UWJwNUZpeTI0UU1DUTYxeHltY2VTRGt4QnJxQVFyZmtwc3Bvc056R0ZESDN4SDFEaEdWREpKUGlsdno5WHBMMEhSVUc0T1hiVjlWNG1TT2JzV1libmdraTlRVEJYRWtNQ1J6YUcyYS1VWWF6QzRRMnd5N19ST1Z2LVBOUGkzcnl3Tnh5SUdyZ2liY1Z4c0dBTzJKWVpIRDI2dDB5SDg4MjZTbzBSQ2FwcWdRZXU3STQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
