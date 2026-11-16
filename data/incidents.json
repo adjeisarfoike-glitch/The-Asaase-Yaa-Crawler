@@ -1,13 +1,34 @@
 {
-  "updated": "2026-11-15T18:55:59.074Z",
+  "updated": "2026-11-16T06:26:42.912Z",
   "counts": {
-    "total": 1875,
+    "total": 1879,
     "verified": 28,
-    "automated": 1847,
+    "automated": 1851,
     "earliest": "2024-07-01",
-    "latest": "2026-11-15"
+    "latest": "2026-11-16"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-16-miracles-aboagye-makes-explosive-galamsey-allegations-agains",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Miracles Aboagye makes ‘explosive’ galamsey allegations against NDC, Dr Amoakohene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Miracles Aboagye makes ‘explosive’ galamsey allegations against NDC, Dr Amoakohene GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2dDSnRObDlXZWM4WGRHZWx1eEtBcVhxN0xDcEFXd3o5ZkE2MkpoZmZBVUFyMFc3TXhCS2syS1AyVk1BTk11SWtTdWdLVzNYTlhlbzFOY2hWWkpzOU5kbEpLaktyYzdZU2U2MlZ2UmpVaThuajlUNHI4X2JoNm94Q1RVaGJkQlNlZGZwVFBqSTR4RVJSMGVfMGhQMHZVdFZhUnotSkVaSmdYYnBsSUpLQkQ1ZmhlUkRmUUdtZGNiQzhocFlhNmlmQTdxck10X1QzTVlDNg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2dDSnRObDlXZWM4WGRHZWx1eEtBcVhxN0xDcEFXd3o5ZkE2MkpoZmZBVUFyMFc3TXhCS2syS1AyVk1BTk11SWtTdWdLVzNYTlhlbzFOY2hWWkpzOU5kbEpLaktyYzdZU2U2MlZ2UmpVaThuajlUNHI4X2JoNm94Q1RVaGJkQlNlZGZwVFBqSTR4RVJSMGVfMGhQMHZVdFZhUnotSkVaSmdYYnBsSUpLQkQ1ZmhlUkRmUUdtZGNiQzhocFlhNmlmQTdxck10X1QzTVlDNg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-16T06:22:02.546Z",
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
+    },
     {
       "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
       "date": "2026-11-15",
@@ -65,7 +86,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWRoM1JMUVpnQXkyZTY2ckRYYkROUEtZN0xXLUxseE5aZVZvQ2dFYnk2ZUpuV0VnV2JmSWhwOFc3eHVhRGlxSFdiakowa2hQVl83X0t3ZWswVTF1a2ctWEppYlZHeV84dWhZV09QeHhpTTZfMkNiMkgtZTQ2MVdkRWtrdWhZZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-16T06:22:28.850Z"
     },
     {
       "id": "auto-2026-11-15-amoakohene-calls-for-review-of-naimos-operations-over-manso-",
@@ -85,8 +107,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVFTZHNKekNvN2hMbzR6R1p6U3RXdXV3bnRPNExhNFV2MW1WZkFFN3l4dEFNVTZpRmhOZno3aEdISVdIaFlFRTZEN0hOa3EtWEw3bm1fblpYSXp3N0sxZEpwZ0NPODdwc1ZTY211RkZ6NEdwSVdDNFNwRFlkalUzMEk4aHpBSWQxd0pJN09iMXFicWRFZmNhNXJZZHIwUGdTZ2NNS3JB?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-15T18:49:43.426Z",
-      "thread": "t-arr-2026-07-09-abesewa"
+      "archivedAt": "2026-11-15T18:49:43.426Z"
     },
     {
       "id": "auto-2026-11-15-naimos-arrests-30-seizes-35-trucks-in-illegal-sand-winning-c",
@@ -105,7 +126,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxQUHBYSHJXU09ZZWozc1NNMmRoRk0xdTRSdnZlakJDU2RkUGI3RzBLU0pHQk45bTZGTTNQclRiOGJtbTJMRVhGU3dmWlFvbnFNMzVnaFhISU44c2xBNWtNblNqa3BOSmJLdXY5TmpySHBEZzJJUGJUWUxsS3FZQmhNUElYanNoSDYySU5reEMtX0MxU25CV3JfUHFsb081ZDNad0ZqZ3RMZXFzMk5GWlpHR3NldVNqNDdEZWN3VVRB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-16T06:22:42.477Z"
     },
     {
       "id": "auto-2026-11-15-naimos-arrests-30-in-volta-sand-winning-raid-intercepts-35-t",
@@ -186,6 +208,45 @@
       "thread": "t-arr-2026-07-09-abesewa"
     },
     {
+      "id": "auto-2026-11-15-public-health-advocates-urge-government-to-intensify-fight-a",
+      "date": "2026-11-15",
+      "category": "policy",
+      "title": "Public Health Advocates Urge Government to Intensify Fight Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Public Health Advocates Urge Government to Intensify Fight Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NjU2a0RhVHFFSFBHdjdzYVhVdDliekg5UXRvOTdmVHpFcGVsMlhhaWxtUTdKT1NGOU13Q3ZRVi02WkN4MTF6ZWRoRWxoTGpqRXFKMjc4c0tJOFpEcThVaHdZa9IBXEFVX3lxTE1vN0hBOGZ2a1pGeDdjdUdtMVlzZHBYZkpDNG9LY1c4N1RMUUU3Y2RBWThaUTMzcWlBajdUMjd5QzlNcTJkV1ItQ3JET2NJdmNlVGE2eTdJQUZadWFD?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE12NjU2a0RhVHFFSFBHdjdzYVhVdDliekg5UXRvOTdmVHpFcGVsMlhhaWxtUTdKT1NGOU13Q3ZRVi02WkN4MTF6ZWRoRWxoTGpqRXFKMjc4c0tJOFpEcThVaHdZa9IBXEFVX3lxTE1vN0hBOGZ2a1pGeDdjdUdtMVlzZHBYZkpDNG9LY1c4N1RMUUU3Y2RBWThaUTMzcWlBajdUMjd5QzlNcTJkV1ItQ3JET2NJdmNlVGE2eTdJQUZadWFD?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-christian-council-urges-ayariga-to-step-up-fight-against-gal"
+    },
+    {
+      "id": "auto-2026-11-15-naimos-arrests-23-as-amoakohene-urges-review-of-operations",
+      "date": "2026-11-15",
+      "category": "arrest",
+      "title": "NAIMOS arrests 23 as Amoakohene urges review of operations",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 23 as Amoakohene urges review of operations 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWtNQnowVmRMYy1PcVl4WVZJOGNXRlo3LTdaWk5MMHFMRVR4N0Z4M1JUVERhbFc4cVdpNEVYVk80TjNPYUZud0RjU29HcVRTdkpUSE95MTB3OVVzS1h4VEJxNWVIb1VRNnhpTWxNeGxPMjI2a3pBUi15OWNmTlpuTTlsSnJPQmNl?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWtNQnowVmRMYy1PcVl4WVZJOGNXRlo3LTdaWk5MMHFMRVR4N0Z4M1JUVERhbFc4cVdpNEVYVk80TjNPYUZud0RjU29HcVRTdkpUSE95MTB3OVVzS1h4VEJxNWVIb1VRNnhpTWxNeGxPMjI2a3pBUi15OWNmTlpuTTlsSnJPQmNl?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-14-president-mahama-and-his-inflexible-soldiers-estimably-fough",
       "date": "2026-11-14",
       "category": "forest",
@@ -263,8 +324,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxPS2llWmdUdER3RndyQ3hwUk51Tmc3ZjlONmp4WGNfX3pmTURoSEJGSGZKaE5ZVW1aQXF5bkY5QTlZaEZNZTBSeXowdGl3Y0luTENpWlE0cWVhWFBVUWxSUW5fWGJ5aGh6Y0pmN290dDd1NEdpaC1Qcy05dlRVZVVuU0FBUWdCcmx0dTgzVTJNSmNVS2pQOFJEdFVKaUpyZUxaeGhkQTRR?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-arr-2026-07-09-abesewa"
+      "verified": false
     },
     {
       "id": "auto-2026-11-14-ndc-is-the-biggest-enabler-of-galamsey-miracles-aboagye-clai",
@@ -554,6 +614,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/state-must-account-for-6-deaths-at-manso-keniago-over-galamsey-miracles-aboagye/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-16T06:26:22.812Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -574,6 +635,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/abuakwa-state-college-appeals-for-help-as-getfund-dormitory-ict-lab-and-teachers-block-stall/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-16T06:26:35.727Z",
       "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
     },
     {
@@ -908,6 +970,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxOdTRHMGxyOGJaelJZcWR6X2EtdDhVYkpMTGthMElzMnM4aVl6MmJCdm9XczBnSWUtV203SExFbXFiV3g4MDlYSkVuckJLekVwcmVNdlVFOHJrVTM2b2tGanI1LW5aV2JSTGpMMWx5cFFqdU1udHRqcVlqbllCaWxKeGJHeV85bHZMbW5lcmVuTzBsRFdQOF9wMlpOcnVKZw?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-14-miracles-aboagye-state-must-protect-citizens-as-galamsey-mob",
+      "date": "2026-11-14",
+      "category": "forest",
+      "title": "Miracles Aboagye: State must protect citizens as 'galamsey mob action' turns increasingly dangerous.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Miracles Aboagye: State must protect citizens as 'galamsey mob action' turns increasingly dangerous. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeGdXd0FTV1FMekV6Q203djk3ODUtVzExYVJFdnhzYU1zWWxCRFZSSzJubXBEbzJQaWhncGpxQmZkUXF4MGVpdjYzeUVNMFI5RDdkeXVHQUtnQlFxQ0ZWY3lIX03SAVxBVV95cUxPbFF3YnNZWVdlS3NSV2NHVkZCd1FDeVBNeEhBSXFLR0F5NkZLX2VlXy1RckdLQTZ4XzQ0bS1fN0k3ZkxXME9IQ0VJaWFnNFpUZFFhOUdpWkxERTVSQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqeGdXd0FTV1FMekV6Q203djk3ODUtVzExYVJFdnhzYU1zWWxCRFZSSzJubXBEbzJQaWhncGpxQmZkUXF4MGVpdjYzeUVNMFI5RDdkeXVHQUtnQlFxQ0ZWY3lIX03SAVxBVV95cUxPbFF3YnNZWVdlS3NSV2NHVkZCd1FDeVBNeEhBSXFLR0F5NkZLX2VlXy1RckdLQTZ4XzQ0bS1fN0k3ZkxXME9IQ0VJaWFnNFpUZFFhOUdpWkxERTVSQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-bawumia-plans-mineral-mapping-funding-to-tackle-galamsey-mir"
     },
     {
       "id": "auto-2026-11-13-bloody-clash-at-manso-keniago-3-residents-dead-2-military-pe",
@@ -1877,18 +1959,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2468,18 +2550,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
+      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
+      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
       "metrics": {},
       "source": {
-        "name": "Ghanaian Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
