@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-17T07:54:44.190Z",
+  "updated": "2026-11-17T21:00:51.512Z",
   "counts": {
-    "total": 1908,
+    "total": 1935,
     "verified": 28,
-    "automated": 1880,
+    "automated": 1907,
     "earliest": "2024-07-01",
     "latest": "2026-11-17"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeEI4Y2xQanZUXy1VMVZXWHQzZ1cwOWdwaWV2NDZCMWNvY0ZWbzhtY0E2WVdpZ1dLSzZXYW1wNWdsaXhtQUhEeHFqLUEyVHhEQXY5MEpLRVZwc2dTQ1lJRHpMRjE3TlFtMTM5YzJnM0xSVXVPcXFxWWZQOVNFUXI0QmZxaFFiaXU0SmR3RGs5RTY3VUF0S1NYZmExck1CMTVqLUxRSHNoU2lZQ0hIQk9iYjVxMWRfYkI4SV9FbHpLcHppZFJlTjVsRS1YT2JBWmY0aEpKYjVIUVBTenZ6SUJEN1E4b0JOdDRacTNR?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-17T20:51:53.729Z"
     },
     {
       "id": "auto-2026-11-17-declare-emergency-in-galamsey-ravaged-communities-agyinasare",
@@ -65,7 +66,428 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/agyinasare-national-cathedral-accounts-galamsey-state-of-emergency",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-17T20:53:09.448Z",
       "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-fight-must-not-be-driven-by-politics-naimos-spokesp",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey fight must not be driven by politics – NAIMOS spokesperson",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight must not be driven by politics – NAIMOS spokesperson Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDZ6Sl9xRkVGS0lhZHE4ZlRmV3ozMDVDQnhSS09ySTcycEtSWC1yV2pUdndlNnZVOXA0b2ZxTW1kTUcteU9nYnRIMHVEWGxtZERFX1RBWWZieUU0N2FJclJTdmJKcEtIMGNwRmpzUFVjQzlsWnZfNnpOTHRyeVRodlZMMU1FV2dIbngzRWJ2cGtBNnI3OVHSAZQBQVVfeXFMT0JrTG1SLVNRVEkxVXBNc2JYbWRmUU5JOWxGYk91TXQ4cFE1R2k1YVlTWTBkeUNjYW1UT1FmdEg3amRfeGFhX2VqZ0QwU2tLMlZnanVDR2ZMSFk3YU1adW1TbU90OG5fMk04UXNiNUkzc3J4Y0ZPVGE4ODRaMUdUc3RNMWhBVDZfSGJVZDZTYWtVRFlZZA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDZ6Sl9xRkVGS0lhZHE4ZlRmV3ozMDVDQnhSS09ySTcycEtSWC1yV2pUdndlNnZVOXA0b2ZxTW1kTUcteU9nYnRIMHVEWGxtZERFX1RBWWZieUU0N2FJclJTdmJKcEtIMGNwRmpzUFVjQzlsWnZfNnpOTHRyeVRodlZMMU1FV2dIbngzRWJ2cGtBNnI3OVHSAZQBQVVfeXFMT0JrTG1SLVNRVEkxVXBNc2JYbWRmUU5JOWxGYk91TXQ4cFE1R2k1YVlTWTBkeUNjYW1UT1FmdEg3amRfeGFhX2VqZ0QwU2tLMlZnanVDR2ZMSFk3YU1adW1TbU90OG5fMk04UXNiNUkzc3J4Y0ZPVGE4ODRaMUdUc3RNMWhBVDZfSGJVZDZTYWtVRFlZZA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-17T20:53:33.887Z"
+    },
+    {
+      "id": "auto-2026-11-17-beyond-the-polluted-rivers-how-mercury-from-galamsey-seeps-i",
+      "date": "2026-11-17",
+      "category": "water",
+      "title": "Beyond the polluted rivers: How mercury from galamsey seeps into Ghana’s food chain",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Beyond the polluted rivers: How mercury from galamsey seeps into Ghana’s food chain Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzZKZFFTN0FBUHgxMEFfNkluLVhtMzB4LVRaVktwN0tlbHJ6RXQ3SFNyVGFmVjd0aUdKd2lKZFZvengwaEtNLWN1V0J1NWRkbTE1QjBBTElaYWhlWV9hc2xJVDlGYmZOLTJhOU1aa1c5VjhlV3pwWngxT3VENHNlbnRWem83bUdJT3RRTDFZRG4tcjF5anlyNUVEVVdWOVM0UmZqcFdIb1ZrM080RGc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzZKZFFTN0FBUHgxMEFfNkluLVhtMzB4LVRaVktwN0tlbHJ6RXQ3SFNyVGFmVjd0aUdKd2lKZFZvengwaEtNLWN1V0J1NWRkbTE1QjBBTElaYWhlWV9hc2xJVDlGYmZOLTJhOU1aa1c5VjhlV3pwWngxT3VENHNlbnRWem83bUdJT3RRTDFZRG4tcjF5anlyNUVEVVdWOVM0UmZqcFdIb1ZrM080RGc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-does-ghana-have-a-gold-problem-or-a-political-leade",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey: Does Ghana have a gold problem, or a political leadership suffering from a common sense deficit?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Does Ghana have a gold problem, or a political leadership suffering from a common sense deficit? Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVzSmd6NGdPZkZyOHpFVjhabFRXa3dPZ056NVlLLWZEYkR6T3BIMFF4Q3hSQVpUWnBPaXQ5czRwTVA4NGhCSWI0NEVtbW1HUEc2YlB1eDRENS1aQXllbzcycGFCd09jQ0VCUUtKamxvTzdkdzBQM3V4c2pVQk9NOHJXVzRGVUFxSWVFUUswVWF2T3VF0gGTAUFVX3lxTE5qNGpUU3Nzd1ZBZnhrMldOdjl3RElVQXo5Y0kyZkk4R08wSU5tbW1IeHRqX25yampKby1VMlRDZlFHSkwxV3dhM002UDg3cHhyazVjRmxqRXdvYWYxcDhkYXM0Zkl5cTlZUEwwUDd1b0tkbWdWa014cXUwNDVJOFlvUmcxNGVGNWJYWDlvcGxpbmhtSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVzSmd6NGdPZkZyOHpFVjhabFRXa3dPZ056NVlLLWZEYkR6T3BIMFF4Q3hSQVpUWnBPaXQ5czRwTVA4NGhCSWI0NEVtbW1HUEc2YlB1eDRENS1aQXllbzcycGFCd09jQ0VCUUtKamxvTzdkdzBQM3V4c2pVQk9NOHJXVzRGVUFxSWVFUUswVWF2T3VF0gGTAUFVX3lxTE5qNGpUU3Nzd1ZBZnhrMldOdjl3RElVQXo5Y0kyZkk4R08wSU5tbW1IeHRqX25yampKby1VMlRDZlFHSkwxV3dhM002UDg3cHhyazVjRmxqRXdvYWYxcDhkYXM0Zkl5cTlZUEwwUDd1b0tkbWdWa014cXUwNDVJOFlvUmcxNGVGNWJYWDlvcGxpbmhtSQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-11-17-erastus-asare-donkor-denies-taking-bribes-to-kill-galamsey-s",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Erastus Asare Donkor denies taking bribes to kill galamsey stories, threatens legal action",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Erastus Asare Donkor denies taking bribes to kill galamsey stories, threatens legal action Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHFQQnZNc0hCZm5seTNDdkFFeGhGdkRrVnBOOEZiSFlOWU1pVzBmeXpLSjMxb05IS1lPVmQ4dnpBZlZSdGxxSGY2OFYwaXZmNWNsNDFxcEstaWkwdmdkSnN6ekpOWmpYM2FsZHpIS2pvbktYM2EwTF81b3hsMGhhN2tydG95bFlIbjBtOTFMc1BuWnNWWHlOR2pqSdIBmgFBVV95cUxPMERkbkw4SE1BWnNHMkQyU0FtY0RUX1ZpcnpwYW9sTTJmRERJY3BtaGs3NmpaVGNPcGxhWmNJVnFWOFZfNTd1Ri1QQjZ2VjBTVk0wRUczQ1RzZHZpVVZtN0pfR2VQX0FhUHpTMXFZUmJKM2paUDViRlF0ZTdwekNrYXFxcnRsSWg1bXlyV25NYW10a2dQOFRDYUFB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHFQQnZNc0hCZm5seTNDdkFFeGhGdkRrVnBOOEZiSFlOWU1pVzBmeXpLSjMxb05IS1lPVmQ4dnpBZlZSdGxxSGY2OFYwaXZmNWNsNDFxcEstaWkwdmdkSnN6ekpOWmpYM2FsZHpIS2pvbktYM2EwTF81b3hsMGhhN2tydG95bFlIbjBtOTFMc1BuWnNWWHlOR2pqSdIBmgFBVV95cUxPMERkbkw4SE1BWnNHMkQyU0FtY0RUX1ZpcnpwYW9sTTJmRERJY3BtaGs3NmpaVGNPcGxhWmNJVnFWOFZfNTd1Ri1QQjZ2VjBTVk0wRUczQ1RzZHZpVVZtN0pfR2VQX0FhUHpTMXFZUmJKM2paUDViRlF0ZTdwekNrYXFxcnRsSWg1bXlyV25NYW10a2dQOFRDYUFB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-17T20:55:40.853Z",
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-fight-naimos-will-not-sacrifice-its-mandate-on-the-",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey fight: NAIMOS will not sacrifice its mandate on the altar of political convenience -",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: NAIMOS will not sacrifice its mandate on the altar of political convenience - Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQnh5RXJNaFpMNXM1YmVselpwcDFzNzNsX1lQY1BES1lkQ21RLWF6amJZSkNrcXBuLXB5MzlqcGV2Ul92c3JqOVdBUFp1THJkVGpkMmxmUmwtOHp4UG12Z1lqRTnSAVxBVV95cUxNc1B3bU9NVC1Td2xjWmFncXpuUDVoM1N2eFN2ZDlkWkRzRWdhazJPa1E4QTllTlJJQnMwWWVlV1doZ1ZNa3JWSDIwS001RHNobURlbDZMWHV4Z044Mg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQnh5RXJNaFpMNXM1YmVselpwcDFzNzNsX1lQY1BES1lkQ21RLWF6amJZSkNrcXBuLXB5MzlqcGV2Ul92c3JqOVdBUFp1THJkVGpkMmxmUmwtOHp4UG12Z1lqRTnSAVxBVV95cUxNc1B3bU9NVC1Td2xjWmFncXpuUDVoM1N2eFN2ZDlkWkRzRWdhazJPa1E4QTllTlJJQnMwWWVlV1doZ1ZNa3JWSDIwS001RHNobURlbDZMWHV4Z044Mg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-17T20:56:05.604Z"
+    },
+    {
+      "id": "auto-2026-11-17-archbishop-agyinasare-calls-for-targeted-state-of-emergency-",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Archbishop Agyinasare Calls for Targeted State of Emergency in Galamsey-Hit Areas",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Archbishop Agyinasare Calls for Targeted State of Emergency in Galamsey-Hit Areas Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QSG84ZVJmSnRGY3E3S1B2Nk5yaVBQUngtRndPdkNmRGVaN1hteVZmOWNOSDB6VlhpTi1kcGprcXJPOU1WR3BOOWR5M0RjaXRTWDdFdkcxS0pyTFQxeV9VS0ZHWdIBXEFVX3lxTE5tRkU1M3pTUUhTSDU0bElDTkNlRVZHSkJfai14dE1DXzZNZ2xiRTlQcUc1cm5EbFk0VkNYeFhLM2lMVFNwbExZenN4SjRzXzEzVXhBV2JxVGV4Z2k4?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QSG84ZVJmSnRGY3E3S1B2Nk5yaVBQUngtRndPdkNmRGVaN1hteVZmOWNOSDB6VlhpTi1kcGprcXJPOU1WR3BOOWR5M0RjaXRTWDdFdkcxS0pyTFQxeV9VS0ZHWdIBXEFVX3lxTE5tRkU1M3pTUUhTSDU0bElDTkNlRVZHSkJfai14dE1DXzZNZ2xiRTlQcUc1cm5EbFk0VkNYeFhLM2lMVFNwbExZenN4SjRzXzEzVXhBV2JxVGV4Z2k4?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-17T20:56:30.449Z",
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-fight-naimos-operations-will-remain-free-from-polit",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey fight: NAIMOS’ operations will remain free from political interference – Spokesperson",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: NAIMOS’ operations will remain free from political interference – Spokesperson 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VZN2MzNHN6MmlIeU51WVZfbFhUNXQzaXhYeFBNMFlmTm5LdUR1ckZ0eXZnOXlKc2tEM1A5dE9qX0JYWlJIYXZxOU5FX2w5UTR2azRCMTlzaFpWNTNFTlFWRHpzd1hXcHNXYndWTDNzSFZKaExpa2MtQ09Oa19DYjY4eFl4M3V3WVItLXNFelA5UWVvVUlyYlhrZjhFVkRFNUMxcndhR2FXWEhKYkFaYXNvdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VZN2MzNHN6MmlIeU51WVZfbFhUNXQzaXhYeFBNMFlmTm5LdUR1ckZ0eXZnOXlKc2tEM1A5dE9qX0JYWlJIYXZxOU5FX2w5UTR2azRCMTlzaFpWNTNFTlFWRHpzd1hXcHNXYndWTDNzSFZKaExpa2MtQ09Oa19DYjY4eFl4M3V3WVItLXNFelA5UWVvVUlyYlhrZjhFVkRFNUMxcndhR2FXWEhKYkFaYXNvdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-agyinasare-wants-a-state-of-emergency-where-galamsey-has-rui",
+      "date": "2026-11-17",
+      "category": "water",
+      "title": "Agyinasare wants a state of emergency where galamsey has ruined forests and rivers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Agyinasare wants a state of emergency where galamsey has ruined forests and rivers 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNFB3eFN5MjlMUkpDSG5KS0t1M3FyNUhoYVdKeVEyd1ZQR1BZa3Q4dmJqcWlWcWROMVFDaFhjeW4yaGN1NEUzam5SejIxbVFPZXJSbEVCWmJlY3AzX2MtQ3pZaXh4ZVYtWGlZWW9IMV8zTUtKYUJWODQ1Yml6cEQtdFJUaw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxPNFB3eFN5MjlMUkpDSG5KS0t1M3FyNUhoYVdKeVEyd1ZQR1BZa3Q4dmJqcWlWcWROMVFDaFhjeW4yaGN1NEUzam5SejIxbVFPZXJSbEVCWmJlY3AzX2MtQ3pZaXh4ZVYtWGlZWW9IMV8zTUtKYUJWODQ1Yml6cEQtdFJUaw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-naimos-doesn-t-inform-mces-dces-about-operations-du",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Galamsey: NAIMOS doesn't inform MCEs, DCEs about operations due to possible information leakage – Minerals Commission",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: NAIMOS doesn't inform MCEs, DCEs about operations due to possible information leakage – Minerals Commission 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVhzRm9BU2RZUjR5VjJ2VVY2S2dOazBkYTBFTGpzTzlOOXR6S1pUMzlrbElycXEtdkRKeDQwRDBzQUEyZktDT0puUk0tMDJDME1RVERlT3BCT2Z6N1JhX19SSGpSSndaUzFwQzVkRVBpR1F3YnJEXzFPWXlmM1lHNTk0SF85Q3VUaURVbnd1VEZEcGY1UUhwenZuekJFTDY4YXE4cnZxU0dqRHVRSDlNY05Ob1dIUl9MRjdvZWdtMTJlYnVNcEU2dEdDTHlnLXBZUzVr?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeVhzRm9BU2RZUjR5VjJ2VVY2S2dOazBkYTBFTGpzTzlOOXR6S1pUMzlrbElycXEtdkRKeDQwRDBzQUEyZktDT0puUk0tMDJDME1RVERlT3BCT2Z6N1JhX19SSGpSSndaUzFwQzVkRVBpR1F3YnJEXzFPWXlmM1lHNTk0SF85Q3VUaURVbnd1VEZEcGY1UUhwenZuekJFTDY4YXE4cnZxU0dqRHVRSDlNY05Ob1dIUl9MRjdvZWdtMTJlYnVNcEU2dEdDTHlnLXBZUzVr?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-awula-serwaa-wants-ashanti-regional-minister-sacked",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey: Awula Serwaa wants Ashanti Regional Minister sacked over NAIMOS comments",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: Awula Serwaa wants Ashanti Regional Minister sacked over NAIMOS comments Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmx5Rlg0NVFlZEQwSTY3NmZpWTBnUWdLZW44eXQtcVFnT0VJdlRSLWVuOXBjczdxV1VHcmlCZmJuTk9rSWZNb0laODhEOWFvVFZicnp5a1F4LUdQVUNXZVU3c1pvelRaWmJtOTF0Zm5wcHB6bWQtMTExeTlENFpNWjJnZ2F3RXRuZS0yYlFicnNqTkI3RUx1X2haaEh1dDAzekpEVTE5MzV6UQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmx5Rlg0NVFlZEQwSTY3NmZpWTBnUWdLZW44eXQtcVFnT0VJdlRSLWVuOXBjczdxV1VHcmlCZmJuTk9rSWZNb0laODhEOWFvVFZicnp5a1F4LUdQVUNXZVU3c1pvelRaWmJtOTF0Zm5wcHB6bWQtMTExeTlENFpNWjJnZ2F3RXRuZS0yYlFicnNqTkI3RUx1X2haaEh1dDAzekpEVTE5MzV6UQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-06-we-have-not-started-the-fight-against-illegal-mining-awula-s"
+    },
+    {
+      "id": "auto-2026-11-17-agyinasare-calls-for-state-of-emergency-in-galamsey-hit-comm",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Agyinasare calls for state of emergency in galamsey-hit communities",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Agyinasare calls for state of emergency in galamsey-hit communities Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT19SNktHVTJsZ2Z0QTM0ZElzaHNUTUdKcGtNRGI2WkIyUy1sLU41RWhMWXRhOFBTWmJad3lseW1nTVJWd0R2MFhQUW9ONUI1dnV5S3VfYzNsM21pa0hHdG1KMHNja3N2NmxMdHFXZ1pZaEYxVHktcWJ3RW1lYnBFcEtkaGluRU96bmNUZWxmRW1QRkNJcmdmVlIwQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxQT19SNktHVTJsZ2Z0QTM0ZElzaHNUTUdKcGtNRGI2WkIyUy1sLU41RWhMWXRhOFBTWmJad3lseW1nTVJWd0R2MFhQUW9ONUI1dnV5S3VfYzNsM21pa0hHdG1KMHNja3N2NmxMdHFXZ1pZaEYxVHktcWJ3RW1lYnBFcEtkaGluRU96bmNUZWxmRW1QRkNJcmdmVlIwQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-17T21:00:19.068Z"
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-fight-we-won-t-sacrifice-the-environment-for-politi",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey fight: ‘we won’t sacrifice the environment for politics’ – NAIMOS tells Amoakohene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: ‘we won’t sacrifice the environment for politics’ – NAIMOS tells Amoakohene Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2JFQ2pjQXV0QjlMeklDUzhfOUxkdl83ckhWTWt5d3Y2cUJzWWNfcmV4X3dLMmttOEM5eUI4cGltMlpnNzZfSVYzZHJTODZvQUYwWWJucXdmLU5ENUhMNVYwNnRGUmdUc1psbjVVRkl4dklPWHJjbEhSWTYyNG9STDQ4ZUVYSmtvaERNVGhXUGhaZ29ndTVkcUpRdlliajczZlU2c2RUYjRUd001SGVN?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2JFQ2pjQXV0QjlMeklDUzhfOUxkdl83ckhWTWt5d3Y2cUJzWWNfcmV4X3dLMmttOEM5eUI4cGltMlpnNzZfSVYzZHJTODZvQUYwWWJucXdmLU5ENUhMNVYwNnRGUmdUc1psbjVVRkl4dklPWHJjbEhSWTYyNG9STDQ4ZUVYSmtvaERNVGhXUGhaZ29ndTVkcUpRdlliajczZlU2c2RUYjRUd001SGVN?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-14-galamsey-fight-naimos-operations-could-send-ndc-to-oppositio"
+    },
+    {
+      "id": "auto-2026-11-17-naimos-arrests-27-including-chinese-national-in-raid-at-ille",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "NAIMOS arrests 27, including Chinese national in raid at illegal mining sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 27, including Chinese national in raid at illegal mining sites Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0V3eW5mZnl6YjNuejdYU0ZzV1JaQUhpbXlyZHpKT1BKX1pjTEpKUTFjcWxPc2haZmxNaWZ5QnNMNFlnWlhuTlZvVWtmU3hrUlFBLUZuczdyMERKaVVBai0zX3l0bTJtclNDSnRkNVhGbUFPTXBqQlo4RFZvUmEwQ1pZOFlUTDJDTEk5RUNPbUpvaXkxd2hN0gGXAUFVX3lxTE5rRXd5bmZmeXpiM256N1hTRnNXUlpBSGlteXJkekpPUEpfWmNMSkpRMWNxbE9zaFpmbE1pZnlCc0w0WWdaWG5OVm9Va2ZTeGtSUUEtRm5zN3IwREppVUFqLTNfeXRtMm1yU0NKdGQ1WEZtQU9NcGpCWjhEVm9SYTBDWlk4WVRMMkNMSTlFQ09tSm9peTF3aE0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0V3eW5mZnl6YjNuejdYU0ZzV1JaQUhpbXlyZHpKT1BKX1pjTEpKUTFjcWxPc2haZmxNaWZ5QnNMNFlnWlhuTlZvVWtmU3hrUlFBLUZuczdyMERKaVVBai0zX3l0bTJtclNDSnRkNVhGbUFPTXBqQlo4RFZvUmEwQ1pZOFlUTDJDTEk5RUNPbUpvaXkxd2hN0gGXAUFVX3lxTE5rRXd5bmZmeXpiM256N1hTRnNXUlpBSGlteXJkekpPUEpfWmNMSkpRMWNxbE9zaFpmbE1pZnlCc0w0WWdaWG5OVm9Va2ZTeGtSUUEtRm5zN3IwREppVUFqLTNfeXRtMm1yU0NKdGQ1WEZtQU9NcGpCWjhEVm9SYTBDWlk4WVRMMkNMSTlFQ09tSm9peTF3aE0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-naimos-arrests-30-persons-intercepted-35-tipper-trucks-over-",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "NAIMOS arrests 30 persons, intercepted 35 tipper trucks over suspected illegal sand-winning in Ketu North",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 30 persons, intercepted 35 tipper trucks over suspected illegal sand-winning in Ketu North Modern Ghana",
+      "metrics": {
+        "arrests": 30
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzZtQ1dKYXI1ckpjSktaVk83d0d0TlN2RUdVMVBldmphZjlleDZrNFdIVl8yemJua1JiWk40WXI5LUUwWEdtVk56Y3U0Y0J3d1VQdFRSaFI3NEdqcGNLUFB3TVRZLTVVeEttd0dkM2I1WWxqR0t1NjZLZDdwVVVmakduMTY3RFJGMHUyNHBOUEp1aGVFd0VV0gGXAUFVX3lxTFB3Nm1DV0phcjVySmNKS1pWTzd3R3ROU3ZFR1UxUGV2amFmOWV4Nms0V0hWXzJ6Ym5rUmJaTjRZcjktRTBYR21WTnpjdTRjQnd3VVB0VFJoUjc0R2pwY0tQUHdNVFktNVV4S213R2QzYjVZbGpHS3U2NktkN3BVVWZqR24xNjdEUkYwdTI0cE5QSnVoZUV3RVU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzZtQ1dKYXI1ckpjSktaVk83d0d0TlN2RUdVMVBldmphZjlleDZrNFdIVl8yemJua1JiWk40WXI5LUUwWEdtVk56Y3U0Y0J3d1VQdFRSaFI3NEdqcGNLUFB3TVRZLTVVeEttd0dkM2I1WWxqR0t1NjZLZDdwVVVmakduMTY3RFJGMHUyNHBOUEp1aGVFd0VV0gGXAUFVX3lxTFB3Nm1DV0phcjVySmNKS1pWTzd3R3ROU3ZFR1UxUGV2amFmOWV4Nms0V0hWXzJ6Ym5rUmJaTjRZcjktRTBYR21WTnpjdTRjQnd3VVB0VFJoUjc0R2pwY0tQUHdNVFktNVV4S213R2QzYjVZbGpHS3U2NktkN3BVVWZqR24xNjdEUkYwdTI0cE5QSnVoZUV3RVU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-01-naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyi"
+    },
+    {
+      "id": "auto-2026-11-17-naimos-ghana-navy-arrest-27-miners-including-chinese-nationa",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "NAIMOS, Ghana Navy arrest 27 miners, including Chinese national, in Ashanti Region",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "NAIMOS, Ghana Navy arrest 27 miners, including Chinese national, in Ashanti Region Modern Ghana",
+      "metrics": {
+        "arrests": 27
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NX0c3WGJKQjlQVG9tMnN0RVhIbnpuVkgzbEs5LW00Snh4Tkp5eGVIRzhKTVYzSjc4Q3JWazRmS2pHeVVPS0pxbzk3cW90b2ZFOWI3d2dUUGxKamxo0gFcQVVfeXFMT01fRzdYYkpCOVBUb20yc3RFWEhuem5WSDNsSzktbTRKeHhOSnl4ZUhHOEpNVjNKNzhDclZrNGZLakd5VU9LSnFvOTdxb3RvZkU5Yjd3Z1RQbEpqbGg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NX0c3WGJKQjlQVG9tMnN0RVhIbnpuVkgzbEs5LW00Snh4Tkp5eGVIRzhKTVYzSjc4Q3JWazRmS2pHeVVPS0pxbzk3cW90b2ZFOWI3d2dUUGxKamxo0gFcQVVfeXFMT01fRzdYYkpCOVBUb20yc3RFWEhuem5WSDNsSzktbTRKeHhOSnl4ZUhHOEpNVjNKNzhDclZrNGZLakd5VU9LSnFvOTdxb3RvZkU5Yjd3Z1RQbEpqbGg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
+    {
+      "id": "auto-2026-11-17-naimos-arrests-27-illegal-miners-including-chinese-national-",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "NAIMOS arrests 27 illegal miners, including Chinese national, in Ashanti Region",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "NAIMOS arrests 27 illegal miners, including Chinese national, in Ashanti Region Adomonline.com",
+      "metrics": {},
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnphc1labGlkSUZYOVpiZVdpZFdQdjNjNzU5V3BaZ0VKTUpZV2RIeUdhT1NXRzhqcUJscVF2VVA0djgzZzU5enpZR21SeVpwaXFCdFpWZWhJbXc0RWlMaGpsRzdoYkVEdVBDRGdmVzhibURjbjVyZGlxN3RlWE1PTlFUT0d2SERHbU5Td3d2Y2c2TlNsSW1fUWcyZmNlVEhnTnViRENHYVo?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnphc1labGlkSUZYOVpiZVdpZFdQdjNjNzU5V3BaZ0VKTUpZV2RIeUdhT1NXRzhqcUJscVF2VVA0djgzZzU5enpZR21SeVpwaXFCdFpWZWhJbXc0RWlMaGpsRzdoYkVEdVBDRGdmVzhibURjbjVyZGlxN3RlWE1PTlFUT0d2SERHbU5Td3d2Y2c2TlNsSW1fUWcyZmNlVEhnTnViRENHYVo?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
+    {
+      "id": "auto-2026-11-17-four-fake-illegal-mining-taskforce-members-arrested-in-nwene",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "Four fake illegal mining taskforce members arrested in Nweneso, 4 others on the run",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Four fake illegal mining taskforce members arrested in Nweneso, 4 others on the run MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWl0alZMSDlfc2ZJOS1RbE01eVZzQWoxLThwMGJDV0Q1ZHo5SFoyZGs2Vnl3VDFCWVh4NGRXRHdaVGlkZ0tDcm9WTW1uZzZFcy1VWnpWd05qUDA3NW1NRHNIX3BaNjlKR3VpNFNVUmlkcDdKSV9jVGd0akcwUDYxNjVnb0VmTlBHMWRWWnNHakdETHN5OW5tdjU5NTJscE1tMU96STJBQ3pLLTN6eVYwZg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWl0alZMSDlfc2ZJOS1RbE01eVZzQWoxLThwMGJDV0Q1ZHo5SFoyZGs2Vnl3VDFCWVh4NGRXRHdaVGlkZ0tDcm9WTW1uZzZFcy1VWnpWd05qUDA3NW1NRHNIX3BaNjlKR3VpNFNVUmlkcDdKSV9jVGd0akcwUDYxNjVnb0VmTlBHMWRWWnNHakdETHN5OW5tdjU5NTJscE1tMU96STJBQ3pLLTN6eVYwZg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-17-four-fake-illegal-mining-taskforce-members-arrested-in-nwene"
+    },
+    {
+      "id": "auto-2026-11-17-court-dismisses-wontumi-s-bail-application-pending-appeal",
+      "date": "2026-11-17",
+      "category": "prosecution",
+      "title": "Court dismisses Wontumi’s bail application pending appeal",
+      "place": "Western Region",
+      "region": "Western",
+      "lat": 4.9,
+      "lon": -1.76,
+      "summary": "The Accra High Court has dismissed an application for bail pending appeal by the convicted former Ashanti Regional Chairman of the New Patriotic Party (NPP), Bernard Antwi-Boasiako, popularly known as Chairman Wontumi. The court yesterday held that the grounds of appeal raised by Mr Antwi-Boasiako were not sufficiently arguable to demonstrate that the appeal had a likelihood of success. It consequently refused to gra",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-court-dismisses-wontumis-bail-application-pending-appeal.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-court-dismisses-wontumis-bail-application-pending-appeal.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2025-04-18-samreboi"
+    },
+    {
+      "id": "auto-2026-11-17-galamsey-fight-by-naimos-will-not-be-sacrificed-on-the-altar",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "Galamsey fight by NAIMOS will not be sacrificed on the altar of political convenience",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has reiterated that its fight against illegal mining will remain free from political interference, stressing that environmental protection must not be compromised for political interests.",
+      "metrics": {},
+      "source": {
+        "name": "Spokesperson",
+        "url": "https://3news.com/news/galamsey-fight-naimos-operations-will-remain-free-from-political-interference-spokesperson"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-operations-will-remain-free-from-political-interference-spokesperson",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-four-arrested-for-impersonating-national-security-naimos-off",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "Four arrested for impersonating National Security, NAIMOS officers to extort miners at Nweneso No. 2",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Four persons have been arrested by the Ashanti National Security operatives for allegedly parading themselves as National Security and National Anti-Illegal Mining Operations Secretariat (NAIMOS) officials to extort money from miners at Nweneso No.2.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/four-arrested-for-impersonating-national-security-naimos-officers-to-extort-miners-at-nweneso-no-2"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/four-arrested-for-impersonating-national-security-naimos-officers-to-extort-miners-at-nweneso-no-2",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-17-four-fake-illegal-mining-taskforce-members-arrested-in-nwene"
+    },
+    {
+      "id": "auto-2026-11-17-four-arrested-for-posing-as-naimos-national-security-officer",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "Four arrested for posing as NAIMOS, National Security officers to extort miners",
+      "place": "Atwima",
+      "region": "Ashanti",
+      "lat": 6.6,
+      "lon": -2.05,
+      "summary": "Four persons have been arrested for allegedly impersonating officials of the National Secretariat and the National Anti-Illegal Mining Operations Secretariat (NAIMOS) to extort money from miners. The suspects, identified as David Ablor, 51; Samuel Nyarko, 34; Prince Mangomia, 34; and Stephen Agyemang, 34, were arrested at Nweneso Number 2 in the Atwima Kwanwoma District of […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/four-arrested-for-posing-as-naimos-national-security-officers-to-extort-miners/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/four-arrested-for-posing-as-naimos-national-security-officers-to-extort-miners/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-17-four-fake-illegal-mining-taskforce-members-arrested-in-nwene"
     },
     {
       "id": "auto-2026-11-16-miracles-aboagye-makes-explosive-galamsey-allegations-agains",
@@ -598,6 +1020,90 @@
       "verified": false
     },
     {
+      "id": "auto-2026-11-16-ghanaian-bishops-call-for-state-of-emergency-over-illegal-mi",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Ghanaian Bishops Call for State of Emergency Over Illegal Mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghanaian Bishops Call for State of Emergency Over Illegal Mining allAfrica.com",
+      "metrics": {},
+      "source": {
+        "name": "allAfrica.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZW03UndyaGVMYVpmUzVBdHFYaGh5eDAyc3ZJZV9iQnVraDc2YnVSWEwwZG5oREp0ZHJ6YzlaclFyblhjVkEzXzZfTl8wU1d1MnFBYmZjUTl2THlJdjU3ajFDWGdWWHR2QXRj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZW03UndyaGVMYVpmUzVBdHFYaGh5eDAyc3ZJZV9iQnVraDc2YnVSWEwwZG5oREp0ZHJ6YzlaclFyblhjVkEzXzZfTl8wU1d1MnFBYmZjUTl2THlJdjU3ajFDWGdWWHR2QXRj?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+    },
+    {
+      "id": "auto-2026-11-16-four-arrested-for-impersonating-naimos-extorting-money-from-",
+      "date": "2026-11-16",
+      "category": "arrest",
+      "title": "Four arrested for impersonating NAIMOS, extorting money from miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Four arrested for impersonating NAIMOS, extorting money from miners CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJhRVFNdlVXM0NCajg0VXgtVUdKcjhvalFIVWpRRldqM0VXQWcwUGhwRE5FVVRIQVpsUjA1TUpvWDlEZTZBRkpVeFFmdGh5dlcxdExIX2FWZDZVSEM1VXQtMlp2Z2ViMklRNkx0Q05VeW02Xy1FV2RoNkVmaEtnTmxDQThGZnV0Qmw2Y3VRQjFlakYyWWVuSHRtbVh4aWc1TC0xUGZTRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTJhRVFNdlVXM0NCajg0VXgtVUdKcjhvalFIVWpRRldqM0VXQWcwUGhwRE5FVVRIQVpsUjA1TUpvWDlEZTZBRkpVeFFmdGh5dlcxdExIX2FWZDZVSEM1VXQtMlp2Z2ViMklRNkx0Q05VeW02Xy1FV2RoNkVmaEtnTmxDQThGZnV0Qmw2Y3VRQjFlakYyWWVuSHRtbVh4aWc1TC0xUGZTRQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-11-manso-keniago-four-dead-15-injured-in-clash-involving-naimos"
+    },
+    {
+      "id": "auto-2026-11-16-naimos-arrests-23-suspected-illegal-miners-destroys-33-chang",
+      "date": "2026-11-16",
+      "category": "arrest",
+      "title": "NAIMOS arrests 23 suspected illegal miners, destroys 33 changfan machines in Tarkwa crackdown",
+      "place": "Tarkwa",
+      "region": "Western",
+      "lat": 5.3,
+      "lon": -1.99,
+      "summary": "NAIMOS arrests 23 suspected illegal miners, destroys 33 changfan machines in Tarkwa crackdown MyJoyOnline",
+      "metrics": {
+        "arrests": 23,
+        "changfan": 33
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa25sZTFQYlJBaVZjTkxLcXBORG9PVnBfSjh4R3RObHNNX1EzdWlPLTI3c2hvTy1zNlJOV3BORmx6X0kzd1drejhZQjVrRGIxZmhIWGphT3FZNFdyRE01OTlxZ1o5Sk95dmN1V1BjYUY5ajVEcDhjV1VDN0RXOTJfNmJCNWk5Qi1IR1FVNGYwLWlRWjRkRnZidjgyNzJ3N1RWallndGMwY2xQMDNlM3phMm51YTYwYS1aWllSQmV3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivgFBVV95cUxPa25sZTFQYlJBaVZjTkxLcXBORG9PVnBfSjh4R3RObHNNX1EzdWlPLTI3c2hvTy1zNlJOV3BORmx6X0kzd1drejhZQjVrRGIxZmhIWGphT3FZNFdyRE01OTlxZ1o5Sk95dmN1V1BjYUY5ajVEcDhjV1VDN0RXOTJfNmJCNWk5Qi1IR1FVNGYwLWlRWjRkRnZidjgyNzJ3N1RWallndGMwY2xQMDNlM3phMm51YTYwYS1aWllSQmV3?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-16-naimos-arrests-30-suspects-intercepts-35-trucks-in-ketu-nort",
+      "date": "2026-11-16",
+      "category": "arrest",
+      "title": "NAIMOS arrests 30 suspects, intercepts 35 trucks in Ketu North sand-winning operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS arrests 30 suspects, intercepts 35 trucks in Ketu North sand-winning operation MyJoyOnline",
+      "metrics": {
+        "arrests": 30
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzFvRS0zdm0yWmFXOFBVMDhIejIxd29qcTRrb2otWXRKWFpmU2xncGlXWUg4b3lmR1pkRFFFQThySGlBeUhxMzFZYTlad1BuanlqTEQ5ODV4dGQwTlJHbDFxSk54ejY2b0JJQlM4eGVhZVZ2eVhzMko0MzdZU0N1WjFTd0I2NDM2RXVoUFdVSlZVajhjRmJBYW1QSjRRakpKclNadW5ELXFiRm1xeldZT1loOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzFvRS0zdm0yWmFXOFBVMDhIejIxd29qcTRrb2otWXRKWFpmU2xncGlXWUg4b3lmR1pkRFFFQThySGlBeUhxMzFZYTlad1BuanlqTEQ5ODV4dGQwTlJHbDFxSk54ejY2b0JJQlM4eGVhZVZ2eVhzMko0MzdZU0N1WjFTd0I2NDM2RXVoUFdVSlZVajhjRmJBYW1QSjRRakpKclNadW5ELXFiRm1xeldZT1loOA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-01-naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyi"
+    },
+    {
       "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
       "date": "2026-11-15",
       "category": "forest",
@@ -813,6 +1319,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWtNQnowVmRMYy1PcVl4WVZJOGNXRlo3LTdaWk5MMHFMRVR4N0Z4M1JUVERhbFc4cVdpNEVYVk80TjNPYUZud0RjU29HcVRTdkpUSE95MTB3OVVzS1h4VEJxNWVIb1VRNnhpTWxNeGxPMjI2a3pBUi15OWNmTlpuTTlsSnJPQmNl?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-15-naimos-illegal-sand-winning-in-ketu-north-leads-to-30-arrest",
+      "date": "2026-11-15",
+      "category": "arrest",
+      "title": "NAIMOS: Illegal Sand Winning in Ketu North Leads to 30 Arrests",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS: Illegal Sand Winning in Ketu North Leads to 30 Arrests Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09qVGVwaWxoOHlLdjVMaktKTndSY2hkS0dIaE1QRl9RUDRFX1ptdW5KQTJIYmFCTm5WcHJKM3BrSVgyZWFDMGhna1huTW91ZXk4OWNXSktOZkh5RnhSVTVsYmtXR1ZMSzNSMlp4MUZSajNqWXVEeDl6VEMtbllBT1RWVlNnZHVzeHhyNFZtc2c2VlRpQzZoUzVrQXpjbHdzWTlCNFJPU0pkY2U1VXhlc0JfWUpoT1JNOUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09qVGVwaWxoOHlLdjVMaktKTndSY2hkS0dIaE1QRl9RUDRFX1ptdW5KQTJIYmFCTm5WcHJKM3BrSVgyZWFDMGhna1huTW91ZXk4OWNXSktOZkh5RnhSVTVsYmtXR1ZMSzNSMlp4MUZSajNqWXVEeDl6VEMtbllBT1RWVlNnZHVzeHhyNFZtc2c2VlRpQzZoUzVrQXpjbHdzWTlCNFJPU0pkY2U1VXhlc0JfWUpoT1JNOUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-28-naimos-security-agencies-raid-illegal-mining-camps-threateni"
     },
     {
       "id": "auto-2026-11-14-president-mahama-and-his-inflexible-soldiers-estimably-fough",
@@ -2528,18 +3054,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -3119,18 +3645,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
+      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
+      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
       "metrics": {},
       "source": {
-        "name": "Peacefmonline.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
@@ -6438,6 +6964,25 @@
       "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
     },
     {
+      "id": "auto-2026-11-02-greater-amanzule-river-recovers-from-galamsey-pollution-coor",
+      "date": "2026-11-02",
+      "category": "water",
+      "title": "Greater Amanzule River recovers from galamsey pollution-Coordinator",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Greater Amanzule River recovers from galamsey pollution-Coordinator Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkxLVlpDZV84T21ndmRNaXJGS3o0eENYYkw0Q2N2UzVta0V2cFNlNm41S2RjOXc2MkkwV2lQTlNzbm9OSDR0YXJkRFgtQ2dhbzcwVGE5QmpscC1XSDJmZUUtRDRSNlhyeFFZYjFadW05c0ZoX0lwMjYyemRUTmd2Y3MtZ2VveElUbGc4OHFWZGRoeV9qazdIOFhOdlbSAZsBQVVfeXFMT2pJSkhUVnhRSU9tcjBrbjVOMHBTeDVCdE9DVHVDM01MdEx1UURZcjFPWlFtLXVqN0tHcGFDNkRwMTJ0NDZoaTUtMWM5cUFWOV9vakR5ajR6SDE3a285d0Q0eWZjaW43NHFDd01BQXRUMDlBUnk0MEpSc1ZjV3dJQlhiUGVMWXFjMzhkb1Z0ZUxjODBVX0ROVEhKY3M?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkxLVlpDZV84T21ndmRNaXJGS3o0eENYYkw0Q2N2UzVta0V2cFNlNm41S2RjOXc2MkkwV2lQTlNzbm9OSDR0YXJkRFgtQ2dhbzcwVGE5QmpscC1XSDJmZUUtRDRSNlhyeFFZYjFadW05c0ZoX0lwMjYyemRUTmd2Y3MtZ2VveElUbGc4OHFWZGRoeV9qazdIOFhOdlbSAZsBQVVfeXFMT2pJSkhUVnhRSU9tcjBrbjVOMHBTeDVCdE9DVHVDM01MdEx1UURZcjFPWlFtLXVqN0tHcGFDNkRwMTJ0NDZoaTUtMWM5cUFWOV9vakR5ajR6SDE3a285d0Q0eWZjaW43NHFDd01BQXRUMDlBUnk0MEpSc1ZjV3dJQlhiUGVMWXFjMzhkb1Z0ZUxjODBVX0ROVEhKY3M?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
       "date": "2026-11-01",
       "category": "arrest",
@@ -7603,8 +8148,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Q1BqMzh2eEtyd1BLZlBfWDd3M3dOZ2M1LTZKQkNseURENUk0VWhudENLbjVRUDllT2tRbUpCLWR3dnFiU19wQXFGUUhFTmdPdEU0V1RjVS1CbUVEcEloWEZjdkHSAVxBVV95cUxPSlJnQzNUcU8xUHQtLXR5bDByZDNjSTlPcWIyLUVhYjcwSlp5RWhkZC0xMlc4VVdIeTA1bDNDLUhOOUFFS0lrc1ZrTWtHVDYwU0htcFRPZnVKRkZtVA?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-15-we-ve-lost-the-fight-against-galamsey-kwami-sefa-kayi-bemoan"
+      "verified": false
     },
     {
       "id": "auto-2026-10-31-galamsey-fight-under-mahama-where-is-the-progress-newsfile",
