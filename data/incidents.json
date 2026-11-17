@@ -1,13 +1,72 @@
 {
-  "updated": "2026-11-16T22:00:56.499Z",
+  "updated": "2026-11-17T07:54:44.190Z",
   "counts": {
-    "total": 1901,
+    "total": 1908,
     "verified": 28,
-    "automated": 1873,
+    "automated": 1880,
     "earliest": "2024-07-01",
-    "latest": "2026-11-16"
+    "latest": "2026-11-17"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-17-police-national-security-have-no-mandate-to-conduct-anti-gal",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Police, National Security have no mandate to conduct anti-galamsey operations - Chairman Nana Kwasi",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Police, National Security have no mandate to conduct anti-galamsey operations - Chairman Nana Kwasi GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeEI4Y2xQanZUXy1VMVZXWHQzZ1cwOWdwaWV2NDZCMWNvY0ZWbzhtY0E2WVdpZ1dLSzZXYW1wNWdsaXhtQUhEeHFqLUEyVHhEQXY5MEpLRVZwc2dTQ1lJRHpMRjE3TlFtMTM5YzJnM0xSVXVPcXFxWWZQOVNFUXI0QmZxaFFiaXU0SmR3RGs5RTY3VUF0S1NYZmExck1CMTVqLUxRSHNoU2lZQ0hIQk9iYjVxMWRfYkI4SV9FbHpLcHppZFJlTjVsRS1YT2JBWmY0aEpKYjVIUVBTenZ6SUJEN1E4b0JOdDRacTNR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeEI4Y2xQanZUXy1VMVZXWHQzZ1cwOWdwaWV2NDZCMWNvY0ZWbzhtY0E2WVdpZ1dLSzZXYW1wNWdsaXhtQUhEeHFqLUEyVHhEQXY5MEpLRVZwc2dTQ1lJRHpMRjE3TlFtMTM5YzJnM0xSVXVPcXFxWWZQOVNFUXI0QmZxaFFiaXU0SmR3RGs5RTY3VUF0S1NYZmExck1CMTVqLUxRSHNoU2lZQ0hIQk9iYjVxMWRfYkI4SV9FbHpLcHppZFJlTjVsRS1YT2JBWmY0aEpKYjVIUVBTenZ6SUJEN1E4b0JOdDRacTNR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-17-declare-emergency-in-galamsey-ravaged-communities-agyinasare",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Declare emergency in galamsey-ravaged communities – Agyinasare",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Declare emergency in galamsey-ravaged communities – Agyinasare MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFpEelhWdEFZZ3kxd3R2UEh1dEdfSF9wdXh5UElCeDJtVndnOVJlNlB4N2ZTSV9sWWF0SXFfby1VY2dYYUhBcmhiQkhreGc0YWgwSjhIUWVFbFFRUUZ1R2pMelJ6Ni1qODIxaGkwOUw1aWctdUFiamlQWUxnVlRkalB0T0xlTmt1Ri1BamlJUTQ0WW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFpEelhWdEFZZ3kxd3R2UEh1dEdfSF9wdXh5UElCeDJtVndnOVJlNlB4N2ZTSV9sWWF0SXFfby1VY2dYYUhBcmhiQkhreGc0YWgwSjhIUWVFbFFRUUZ1R2pMelJ6Ni1qODIxaGkwOUw1aWctdUFiamlQWUxnVlRkalB0T0xlTmt1Ri1BamlJUTQ0WW8?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-16-declare-state-of-emergency-in-worst-affected-galamsey-areas-"
+    },
+    {
+      "id": "auto-2026-11-17-agyinasare-wants-to-see-the-national-cathedral-accounts-befo",
+      "date": "2026-11-17",
+      "category": "forest",
+      "title": "Agyinasare wants to see the National Cathedral accounts before churches put in more money",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Perez Chapel founder says churches gave money but never saw how it was spent. He also wants a state of emergency in the worst galamsey areas.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/agyinasare-national-cathedral-accounts-galamsey-state-of-emergency"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/agyinasare-national-cathedral-accounts-galamsey-state-of-emergency",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
     {
       "id": "auto-2026-11-16-miracles-aboagye-makes-explosive-galamsey-allegations-agains",
       "date": "2026-11-16",
@@ -456,6 +515,85 @@
         "url": "https://3news.com/news/health/ghana-mercury-galamsey-62-tonnes-a-year-estimate"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/health/ghana-mercury-galamsey-62-tonnes-a-year-estimate",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-16-archbishop-agyinasare-calls-for-state-of-emergency-in-galams",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Archbishop Agyinasare Calls for State of Emergency in Galamsey-Affected Areas | Point of View",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Archbishop Agyinasare Calls for State of Emergency in Galamsey-Affected Areas | Point of View Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yYldrTjV4aHlPWWhtU05XcFZ4eFRmV2NtNWZfbHpSZW1FU3ZPSEtXWnpjV3AtNUF2NGtXQ3hLcVQtOUJOck1qOW41dXFCdVplNk11bTcwR1RFbTh0ajBYajFqSdIBXEFVX3lxTFBVZ0l5aFFZaFZ6cFNHVml5ZklaMXpCdjF3N2liR1E4NXV3SUdrLTc1QmQ5N3NCUVNJX3BBdVVSZDQxaG42cTZnbWZWTEdhaTZsUUdFdXhhUXVLNUgy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yYldrTjV4aHlPWWhtU05XcFZ4eFRmV2NtNWZfbHpSZW1FU3ZPSEtXWnpjV3AtNUF2NGtXQ3hLcVQtOUJOck1qOW41dXFCdVplNk11bTcwR1RFbTh0ajBYajFqSdIBXEFVX3lxTFBVZ0l5aFFZaFZ6cFNHVml5ZklaMXpCdjF3N2liR1E4NXV3SUdrLTc1QmQ5N3NCUVNJX3BBdVVSZDQxaG42cTZnbWZWTEdhaTZsUUdFdXhhUXVLNUgy?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-16-declare-state-of-emergency-in-worst-affected-galamsey-areas-",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Declare state of emergency in worst-affected galamsey areas – Agyinasare",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Declare state of emergency in worst-affected galamsey areas – Agyinasare CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOak9OSWlEU2xMdmFGR1NuTHRVUVQ4ZDFsa1BqNjhCQUNqUGhxQngzNzIzYU1qM05aWHFpdzhOR0pWcnc3V1NIVHE5TTNHRk9nNmo3SDA4VUhLQ1VkeWVqMzlHLU1razA1a1RhZkY0dVNfUDd0TjRKWmZsQVJwZnlPQjJ1RmFCV3dST0hOSnF2Q2lCWkR2WjRaYWIzMmt0ZGlCcC0yNzBfNnRnZG5V?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirAFBVV95cUxOak9OSWlEU2xMdmFGR1NuTHRVUVQ4ZDFsa1BqNjhCQUNqUGhxQngzNzIzYU1qM05aWHFpdzhOR0pWcnc3V1NIVHE5TTNHRk9nNmo3SDA4VUhLQ1VkeWVqMzlHLU1razA1a1RhZkY0dVNfUDd0TjRKWmZsQVJwZnlPQjJ1RmFCV3dST0hOSnF2Q2lCWkR2WjRaYWIzMmt0ZGlCcC0yNzBfNnRnZG5V?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-16-declare-state-of-emergency-in-worst-affected-galamsey-areas-"
+    },
+    {
+      "id": "auto-2026-11-16-archbishop-charles-agyinasare-on-ghana-s-charismatic-movemen",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Archbishop Charles Agyinasare on Ghana’s Charismatic Movement, Galamsey and the National Cathedral",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Archbishop Charles Agyinasare on Ghana’s Charismatic Movement, Galamsey and the National Cathedral Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeXMwak9HVGluWnNuSER6Mm0yYWp3dHJOZjE0dmhyVkZvZEtUMzF2bXdqZllmRThDSFczVGdDRk1sZk1HMHhyblRpTzkzYWREdHJZUWpaclZBc3VuSzg0M2xzRdIBXEFVX3lxTFBOcTRKYVYxNGpFY3VaVmZyZC1KalVySVZZLVN1ODNaMEdjR3VGNXdoY2oydGpwNUhaaGNyUjBxV2RsZmJqR3ZIZnNvb29RSTNvaEJfSlFTWEk4QnBw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeXMwak9HVGluWnNuSER6Mm0yYWp3dHJOZjE0dmhyVkZvZEtUMzF2bXdqZllmRThDSFczVGdDRk1sZk1HMHhyblRpTzkzYWREdHJZUWpaclZBc3VuSzg0M2xzRdIBXEFVX3lxTFBOcTRKYVYxNGpFY3VaVmZyZC1KalVySVZZLVN1ODNaMEdjR3VGNXdoY2oydGpwNUhaaGNyUjBxV2RsZmJqR3ZIZnNvb29RSTNvaEJfSlFTWEk4QnBw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-ghana-s-gold-industry-under-scrutiny-revenue-royalties-galam"
+    },
+    {
+      "id": "auto-2026-11-16-ghana-c-te-d-ivoire-seek-joint-action-against-illegal-mining",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Ghana, Côte d’Ivoire seek joint action against illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana, Côte d’Ivoire seek joint action against illegal mining CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1EN3RBOXphSm1MSGRfQlhmSGV4LThmUXN4T3FNb3dfMFBUMHhaS3JkLXRTOVNsUENqM0ZYOEhUTFRXR0JWaV8yRnBUR19tbnBwSzVTSnpZbGZFMk1Fem1oSGZLYWxpemNWd3poSEZvTU4wUXotQW9haktRSW1wVzkzVGZzeFNNa2ZmVmZSMmpTUUdEYlNsb1N5ZEZvZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1EN3RBOXphSm1MSGRfQlhmSGV4LThmUXN4T3FNb3dfMFBUMHhaS3JkLXRTOVNsUENqM0ZYOEhUTFRXR0JWaV8yRnBUR19tbnBwSzVTSnpZbGZFMk1Fem1oSGZLYWxpemNWd3poSEZvTU4wUXotQW9haktRSW1wVzkzVGZzeFNNa2ZmVmZSMmpTUUdEYlNsb1N5ZEZvZw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2390,18 +2528,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
       "metrics": {},
       "source": {
-        "name": "Modern Ghana",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -2981,18 +3119,18 @@
       "id": "auto-2026-11-10-galamsey-shuts-down-kyebi-water-treatment-plant-thousands-fo",
       "date": "2026-11-10",
       "category": "water",
-      "title": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells",
+      "title": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells",
       "place": "Kyebi",
       "region": "Eastern",
       "lat": 6.17,
       "lon": -0.55,
-      "summary": "Galamsey shuts down Kyebi Water Treatment Plant • Thousands forced to rely on boreholes and wells Ghanaian Times",
+      "summary": "Galamsey Shuts Down Kyebi Water Treatment Plant…Thousands Forced To Rely On Boreholes And Wells Peacefmonline.com",
       "metrics": {},
       "source": {
-        "name": "Ghanaian Times",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5"
+        "name": "Peacefmonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXU2MExvRmlGb052cEF1WElKdmtWM19WOWt1NllISTZMU0VOV05nWDcyMVdNMy1XZ3RnN0VQVXFIbGx1UW5PRnFEQnphcXpway0zNDMzTGpIRDlFSk5JcU5SOWVfR1o4MHBTYUpfXzlSeTEzMGdaNVZTNGQ2NXJ6SC03bXpyYlg4aU55UXRDZUlzTlJLZVZRSWJHNmI1UkFsQ2NZZVVDdzU2OTBJNHVvWGsyXzMydnBoZHdHSkhPRENoOUk?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMkpabXlQakQtZFdKenkyQUZCa2tNc3FKaG5ONmVuT0I4Mlc1TWJ5R1R3Zi1waUF5Vk9TSFdTb08wYWNhSVZtMWlrMFhOT05NWFRGWW9zaW5qdS1heGFCclJRMEh2Y0RvbXp5eWpaN0txWnFaSUJLQlVlOFcxZUtJOG5NYjhjSHVUYUNaSnExMDl1NFhXMmRaWnA3ejFYSHNNVHdrbU9jdnpDMmw1YlM4YjY0RnBmQUgyV3ZENmJ4YUtFbHowUWlnaUdZN212aVg5M2lQeWN3?oc=5",
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-13-govt-urged-to-protect-white-volta-for-water-security-livelih"
