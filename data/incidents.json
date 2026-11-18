@@ -1,13 +1,53 @@
 {
-  "updated": "2026-11-17T21:00:51.512Z",
+  "updated": "2026-11-18T07:24:24.523Z",
   "counts": {
-    "total": 1935,
+    "total": 1937,
     "verified": 28,
-    "automated": 1907,
+    "automated": 1909,
     "earliest": "2024-07-01",
-    "latest": "2026-11-17"
+    "latest": "2026-11-18"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
+      "date": "2026-11-18",
+      "category": "policy",
+      "title": "Parliament demands independent probe into Manso Keniago deaths",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Parliament’s Human Rights Committee has called for an independent, impartial and transparent investigation into the deadly confrontation between personnel of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) and residents of Manso Keniago in the Ashanti Region.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/parliament-demands-independent-probe-into-manso-keniago-deaths/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/parliament-demands-independent-probe-into-manso-keniago-deaths/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
+    {
+      "id": "auto-2026-11-18-parliamentary-committee-wants-review-of-naimos-rules-of-enga",
+      "date": "2026-11-18",
+      "category": "policy",
+      "title": "Parliamentary committee wants review of NAIMOS rules of engagement after Manso Keniago incident",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Parliament’s Human Rights Committee has called for a comprehensive review of the operational procedures of the National Anti-Illegal Mining Operations Secretariat (NAIMOS) following the deadly confrontation at Manso Keniago in the Ashanti Region.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/parliamentary-committee-wants-review-of-naimos-rules-of-engagement-after-manso-keniago-incident/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/parliamentary-committee-wants-review-of-naimos-rules-of-engagement-after-manso-keniago-incident/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
+    },
     {
       "id": "auto-2026-11-17-police-national-security-have-no-mandate-to-conduct-anti-gal",
       "date": "2026-11-17",
@@ -46,6 +86,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFpEelhWdEFZZ3kxd3R2UEh1dEdfSF9wdXh5UElCeDJtVndnOVJlNlB4N2ZTSV9sWWF0SXFfby1VY2dYYUhBcmhiQkhreGc0YWgwSjhIUWVFbFFRUUZ1R2pMelJ6Ni1qODIxaGkwOUw1aWctdUFiamlQWUxnVlRkalB0T0xlTmt1Ri1BamlJUTQ0WW8?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-18T07:22:38.560Z",
       "thread": "t-auto-2026-11-16-declare-state-of-emergency-in-worst-affected-galamsey-areas-"
     },
     {
@@ -106,7 +147,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzZKZFFTN0FBUHgxMEFfNkluLVhtMzB4LVRaVktwN0tlbHJ6RXQ3SFNyVGFmVjd0aUdKd2lKZFZvengwaEtNLWN1V0J1NWRkbTE1QjBBTElaYWhlWV9hc2xJVDlGYmZOLTJhOU1aa1c5VjhlV3pwWngxT3VENHNlbnRWem83bUdJT3RRTDFZRG4tcjF5anlyNUVEVVdWOVM0UmZqcFdIb1ZrM080RGc?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-18T07:22:51.158Z"
     },
     {
       "id": "auto-2026-11-17-galamsey-does-ghana-have-a-gold-problem-or-a-political-leade",
@@ -207,7 +249,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VZN2MzNHN6MmlIeU51WVZfbFhUNXQzaXhYeFBNMFlmTm5LdUR1ckZ0eXZnOXlKc2tEM1A5dE9qX0JYWlJIYXZxOU5FX2w5UTR2azRCMTlzaFpWNTNFTlFWRHpzd1hXcHNXYndWTDNzSFZKaExpa2MtQ09Oa19DYjY4eFl4M3V3WVItLXNFelA5UWVvVUlyYlhrZjhFVkRFNUMxcndhR2FXWEhKYkFaYXNvdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-18T07:23:17.118Z"
     },
     {
       "id": "auto-2026-11-17-agyinasare-wants-a-state-of-emergency-where-galamsey-has-rui",
@@ -434,18 +477,18 @@
       "id": "auto-2026-11-17-galamsey-fight-by-naimos-will-not-be-sacrificed-on-the-altar",
       "date": "2026-11-17",
       "category": "policy",
-      "title": "Galamsey fight by NAIMOS will not be sacrificed on the altar of political convenience",
+      "title": "Galamsey fight by NAIMOS will not be sacrificed on the altar of political convenience - Spokesperson",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) has reiterated that its fight against illegal mining will remain free from political interference, stressing that environmental protection must not be compromised for political interests.",
+      "summary": "Galamsey fight by NAIMOS will not be sacrificed on the altar of political convenience - Spokesperson 3News",
       "metrics": {},
       "source": {
-        "name": "Spokesperson",
-        "url": "https://3news.com/news/galamsey-fight-naimos-operations-will-remain-free-from-political-interference-spokesperson"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VZN2MzNHN6MmlIeU51WVZfbFhUNXQzaXhYeFBNMFlmTm5LdUR1ckZ0eXZnOXlKc2tEM1A5dE9qX0JYWlJIYXZxOU5FX2w5UTR2azRCMTlzaFpWNTNFTlFWRHpzd1hXcHNXYndWTDNzSFZKaExpa2MtQ09Oa19DYjY4eFl4M3V3WVItLXNFelA5UWVvVUlyYlhrZjhFVkRFNUMxcndhR2FXWEhKYkFaYXNvdw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-fight-naimos-operations-will-remain-free-from-political-interference-spokesperson",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxON0VZN2MzNHN6MmlIeU51WVZfbFhUNXQzaXhYeFBNMFlmTm5LdUR1ckZ0eXZnOXlKc2tEM1A5dE9qX0JYWlJIYXZxOU5FX2w5UTR2azRCMTlzaFpWNTNFTlFWRHpzd1hXcHNXYndWTDNzSFZKaExpa2MtQ09Oa19DYjY4eFl4M3V3WVItLXNFelA5UWVvVUlyYlhrZjhFVkRFNUMxcndhR2FXWEhKYkFaYXNvdw?oc=5",
       "via": "rss",
       "verified": false
     },
