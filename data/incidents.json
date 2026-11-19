@@ -1,13 +1,52 @@
 {
-  "updated": "2026-11-18T20:33:03.728Z",
+  "updated": "2026-11-19T07:27:54.972Z",
   "counts": {
-    "total": 1955,
+    "total": 1960,
     "verified": 28,
-    "automated": 1927,
+    "automated": 1932,
     "earliest": "2024-07-01",
-    "latest": "2026-11-18"
+    "latest": "2026-11-19"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-19-ashigbey-urges-state-of-emergency-in-galamsey-areas-and-a-pr",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Ashigbey urges state of emergency in galamsey areas and a probe into the NAIMOS clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ashigbey urges state of emergency in galamsey areas and a probe into the NAIMOS clash 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ga19URkZ6ZURHTE9WemxDOGtyYmlDM0szWEpjLU8zME01ZVJhTk9hYTd3UmtvSWMtTm1jbV84WmJJeEZxdFhLN2NCYTJ1N0hYM1NUUE83XzlfTWtzRUtOYjZqc2JoT0x4ZmdoaGtIT3AxWHJj?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ga19URkZ6ZURHTE9WemxDOGtyYmlDM0szWEpjLU8zME01ZVJhTk9hYTd3UmtvSWMtTm1jbV84WmJJeEZxdFhLN2NCYTJ1N0hYM1NUUE83XzlfTWtzRUtOYjZqc2JoT0x4ZmdoaGtIT3AxWHJj?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-19-untraceable-asm-gold-could-miss-out-on-premium-markets-ken-a",
+      "date": "2026-11-19",
+      "category": "policy",
+      "title": "Untraceable ASM gold could miss out on premium markets – Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The government’s 2027 Budget targets 100% local refining of artisanal and small-scale mining (ASM) gold by 2028. But Dr Ken Ashigbey says local refining alone will not secure premium prices for the gold if it cannot be traced to responsible sources.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/untraceable-asm-gold-could-miss-out-on-premium-markets-ken-ashigbey/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-19T07:21:03.660Z"
+    },
     {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
       "date": "2026-11-18",
@@ -26,6 +65,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/parliament-demands-independent-probe-into-manso-keniago-deaths/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-19T07:21:16.522Z",
       "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
     },
     {
@@ -46,6 +86,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/parliamentary-committee-wants-review-of-naimos-rules-of-engagement-after-manso-keniago-incident/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-19T07:21:29.211Z",
       "thread": "t-auto-2026-08-21-2027-budget-statement-must-pivot-around-job-creation-greater"
     },
     {
@@ -67,7 +108,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aZWo4a2dpWjZYTkpieThHNFUxRVJTWEp5MTh3eW42YU1XNGRyczdWeWNuWkg0S0dqV3daUlBWMUdlSzdqQVdPQi00U2tMUVd3OU1vNUVJYldoU2pEeklwb0JjSEfSAVxBVV95cUxPeDA0SmlzeVRFMi1aWkd3LTJObEpzWV9pTGJIbEZDSF9yUTctTWYxa1VVdi1jZlZjbnZYZ29OTlZmbTF5bzZNQnBnVVBUampMS1VfQTVxT25fLXdkSQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-19T07:21:54.486Z"
     },
     {
       "id": "auto-2026-11-18-galamsey-fight-4-arrested-for-posing-as-national-security-op",
@@ -86,7 +128,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFByazlIcmRjMEhRQnF0YTR1dGlHUXRLRTJIdUdHbEZIVmVBUXY3UGJSdGYzZ2YzYUJHSDVTVVhkTTV4bGEyX1owRzhJSERCU1JTNVpLNC1qajdpV2tlNmZ2ZUU2RDfSAVxBVV95cUxNei1WLUFnT0pQVTd0SmIySFdMX2IyMnpHa1FqZktTNUpSVk5HY2FKc2RxUnJnbHk3Ym81UHZ6Wk1IXzc1c2tUWUtiMnZzcnBzMDc2czhyMUtDeVpUMQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-19T07:22:19.028Z"
     },
     {
       "id": "auto-2026-11-18-galamsey-fight-the-mandate-of-naimos-will-not-be-influenced-",
@@ -125,24 +168,25 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxOVWNtN0ZlWm5kcTBELVZ1N0xlOTJvTENlZ2lDdVNWTlFXNHFHTHZVNUNCLWUwYm5kOEZlU0ZsSXRHWlN4TTdYbS1DLWJuUmZVYVplZXhuSzBGT2JQMHpsU1o5LWlVR1JYekxWRXhHQnBFcERqak53di1TMjBoZzdsOEFmOWNQM3BhSnRSMjIxN2c?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-19T07:23:34.487Z",
       "thread": "t-auto-2026-09-04-christian-council-urges-ayariga-to-step-up-fight-against-gal"
     },
     {
       "id": "auto-2026-11-18-preservation-of-our-environment-shouldn-t-be-sacrificed-on-t",
       "date": "2026-11-18",
       "category": "policy",
-      "title": "Preservation of our environment shouldn't be sacrificed on the altar of political convenience",
+      "title": "Preservation of our environment shouldn't be sacrificed on the altar of political convenience - NAIMOS PRO",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "\"The fight against illegal mining should not be animated by politics. Indeed, the preservation of our environment should not be sacrificed on the altar of political convenience,\" he stated.",
+      "summary": "Preservation of our environment shouldn't be sacrificed on the altar of political convenience - NAIMOS PRO 3News",
       "metrics": {},
       "source": {
-        "name": "NAIMOS PRO",
-        "url": "https://3news.com/news/preservation-of-our-environment-shouldnt-be-sacrificed-on-the-altar-of-political-convenience-naimos-pro"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW5saW40ZjcxU0ZWS3RyZHdxM29XcTVkM0JSWmhTbVN4emUxeW1Jd2wwcWlDeEtXbm9vTi1mSGZrcXhCOUF2QWZKUmdXUGl4RmpHZElaZmo2eW1udmpQSnpRdUNSY0FEdXNsMVNvTFNnYUxNT01KSG9PTHRGTFByZnVHLVpRbjhXdzlPemotcmhWbHlRb3dvS2hZZUY3a3Y3cVhIcXlIWEJSM0V5UVpFWkZBZ0JFem00T3g5S2ZuZVVvbEdB?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/preservation-of-our-environment-shouldnt-be-sacrificed-on-the-altar-of-political-convenience-naimos-pro",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW5saW40ZjcxU0ZWS3RyZHdxM29XcTVkM0JSWmhTbVN4emUxeW1Jd2wwcWlDeEtXbm9vTi1mSGZrcXhCOUF2QWZKUmdXUGl4RmpHZElaZmo2eW1udmpQSnpRdUNSY0FEdXNsMVNvTFNnYUxNT01KSG9PTHRGTFByZnVHLVpRbjhXdzlPemotcmhWbHlRb3dvS2hZZUY3a3Y3cVhIcXlIWEJSM0V5UVpFWkZBZ0JFem00T3g5S2ZuZVVvbEdB?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -223,6 +267,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/constituency-chairmen-of-ndc-in-ashanti-region-pledge-support-for-naimos-in-fight-against-galamsey",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-19T07:26:44.688Z",
       "thread": "t-auto-2026-11-17-four-fake-illegal-mining-taskforce-members-arrested-in-nwene"
     },
     {
@@ -242,7 +287,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galmsey-fight-stay-the-course-christian-council-urges-government",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-19T07:26:56.915Z"
     },
     {
       "id": "auto-2026-11-18-ashanti-ndc-constituency-chairmen-pledge-support-for-naimos-",
@@ -339,6 +385,47 @@
         "url": "https://ghanaiantimes.com.gh/forestry-commission-grants-gomoa-eco-park-permit-to-begin-preliminary-works-at-yenku-forest-reserve/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/forestry-commission-grants-gomoa-eco-park-permit-to-begin-preliminary-works-at-yenku-forest-reserve/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-18-ghana-gold-board-military-reclaim-50-hectares-of-tano-nimiri",
+      "date": "2026-11-18",
+      "category": "forest",
+      "title": "Ghana Gold Board, Military Reclaim 50 Hectares of Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Gold Board, Military Reclaim 50 Hectares of Tano-Nimiri Forest Reserve Modern Ghana",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IN1lmb3NjR0dBcGVfR3JkZFAxaWpiUG5POGc4MmNuWnptLU5iWUx1NXloOUdCdVBNamxCdTRhbnIxdU5WTHhRWE90TVdwbUVHVHVvNXhXaXdwSTFEeDd0djNnNNIBXEFVX3lxTFAyUUp0MGZlV3ZmdFF0bU9TVUNWeGdab2VVaWwtQzRDaVhtMnN3eDFueUk3TG1Ra1NYZWxWYVU4YjA1NE4xWFFZemIxMG9lSzZZdFcxLWJFSVJqNlg5?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IN1lmb3NjR0dBcGVfR3JkZFAxaWpiUG5POGc4MmNuWnptLU5iWUx1NXloOUdCdVBNamxCdTRhbnIxdU5WTHhRWE90TVdwbUVHVHVvNXhXaXdwSTFEeDd0djNnNNIBXEFVX3lxTFAyUUp0MGZlV3ZmdFF0bU9TVUNWeGdab2VVaWwtQzRDaVhtMnN3eDFueUk3TG1Ra1NYZWxWYVU4YjA1NE4xWFFZemIxMG9lSzZZdFcxLWJFSVJqNlg5?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-14-illegal-mining-has-destroyed-about-8-900-hectares-of-ghana-s"
+    },
+    {
+      "id": "auto-2026-11-18-lbma-certification-key-to-adding-ghanaian-gold-to-bank-reser",
+      "date": "2026-11-18",
+      "category": "forest",
+      "title": "LBMA certification key to adding Ghanaian gold to bank reserves – Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana’s effort to refine all artisanal and small-scale mining (ASM) gold locally must be matched by responsible sourcing and traceability if the country is to secure better returns, Dr Ken Ashigbey said.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/lbma-certification-key-to-adding-ghanaian-gold-to-bank-reserves-ken-ashigbey/",
       "via": "rss",
       "verified": false
     },
@@ -1479,6 +1566,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-01-naimos-arrests-10-illegal-miners-seize-equipment-near-gbinyi"
+    },
+    {
+      "id": "auto-2026-11-16-ghana-bishops-denounce-galamsey-drug-trafficking-and-social-",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Ghana: Bishops Denounce Galamsey, Drug Trafficking and Social Tensions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: Bishops Denounce Galamsey, Drug Trafficking and Social Tensions allAfrica.com",
+      "metrics": {},
+      "source": {
+        "name": "allAfrica.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ecm9FRzYtc29RODhiRGRPdDBZQ1NCNnQ3cmJEczhqcndKNk1WQnlSYU1RRUE1U2tiMzdNM0VnOTJReXdDS3NoeERZdjlOelRfaWxmVWtrNlVnbmc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ecm9FRzYtc29RODhiRGRPdDBZQ1NCNnQ3cmJEczhqcndKNk1WQnlSYU1RRUE1U2tiMzdNM0VnOTJReXdDS3NoeERZdjlOelRfaWxmVWtrNlVnbmc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-15-aside-galamsey-there-is-cocaine-all-over-darko-slams-gov-t-o"
     },
     {
       "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
@@ -3450,18 +3557,18 @@
       "id": "auto-2026-11-11-small-scale-miners-accuse-security-agencies-of-extortion-dur",
       "date": "2026-11-11",
       "category": "arrest",
-      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention",
+      "title": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids, demand gov't intervention MyJoyOnline",
+      "summary": "Small-scale miners accuse security agencies of extortion during anti-galamsey raids Modern Ghana",
       "metrics": {},
       "source": {
-        "name": "MyJoyOnline",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5"
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWZWU09CWFd3YURkTlhpSHVkeTN5RkdIOHQ5VGJkSDJmY05LNDM4b0hiNHh6Yll1TFNQNkJyQ1JGV3JaRkRCOFN5d1FUWVNQV3JlLWNfQ2FfSm9HdUVEZXhVd05kbmtWbmhyWlAxY2RoUzg3MXk3cWQ5aEVYMGVSc2ZPOVhjQk5kc05TLVc5VkYxeGtFQ2JRQkFjc0g3VGZNQ1pWMjlEclBhNGpMT3VaTGo4NWliTnVsNmJtamQ0T3loN0pPbnJ0bXcwc0VROWJvWndn?oc=5",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MOXhmZkhQTXdlQjlCTE9SSnRocWpkak9nSkFDRnBaNnpVVEU4Sm5KSEJsdGFrcDVvZFljUWRqYUV1QUFvcl9vby1lc201d2d0by1wcnFvNS1VdWJ2dG9ZMHJKM1nSAVxBVV95cUxPNW9zRENsMm9nVi00TlUwb29XblBjUngyWHlZbXdfWkVLUzVJbG1JY0FZbzYwVDNWWVlVR3FxUjJNRVJfdlZSb1dGQXlKVTE5alVnbHBHYXRxRk5TSw?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -22848,7 +22955,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Yc0pXUXk3OHdOejdLdFdHM3dGai1nN19WYzBZWTkwbUFrMlMyejZwelFMR0JQZGxWZkUxU2xfc3lBWlBjSFpKa2hsUWtFU1ZwcV9sbFRMNFc0TE410gFcQVVfeXFMTVhzSldReTc4d056N0t0V0czd0ZqLWc3X1ZjMFlZOTBtQWsyUzJ6NnB6UUxHQlBkbFZmRTFTbF9zeUFaUGNIWkpraGxRa0VTVnBxX2xsVEw0VzRMTjU?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-09-15-aside-galamsey-there-is-cocaine-all-over-darko-slams-gov-t-o"
     },
     {
       "id": "auto-2026-09-15-naimos-collaborating-with-state-agencies-to-act-on-reported-",
@@ -33544,7 +33652,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1p6bzhXV3NEdHlKWk4tNDJieWQyWkdSbXpUT3ZRSWlVWmVHQWtmYkR1ZDJCdkhEZUwyclN6R1pPaU15QTRUU1g4akM1WkloR0F5RDRxME1pdnJQM0JEUjAxMngtWGE1cjFfSlJWOXdyNnNnV2lNek9DZTY3WjhCRWUzQ3FrbEZkX19IMDBfbERnTGxSYTdCRmtR0gGYAUFVX3lxTE1lVkE5VHNpbFlDSUlLLXNZbUszUkJZbzdJc204eWNYenlESWJZUFJZYTBmcEEyVGxSUTNZOWpvVjZDMGpfM09ZZlU3ZWpmcjdOZUJNX0lzUkdVc1VuWnd1Q1pLLVVaVFJPMHV0U2JNY2EwbW1hYjN5N1ZjMlI0bU9Jd25FalowX2FmeTBNSllfT0QzeWtIUkx4?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-14-illegal-mining-has-destroyed-about-8-900-hectares-of-ghana-s"
     },
     {
       "id": "auto-2026-08-14-ghana-loses-8-900-hectares-of-forest-reserves-to-illegal-min",
