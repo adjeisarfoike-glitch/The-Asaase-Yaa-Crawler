@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-19T07:27:54.972Z",
+  "updated": "2026-11-19T20:37:51.499Z",
   "counts": {
-    "total": 1960,
+    "total": 1975,
     "verified": 28,
-    "automated": 1932,
+    "automated": 1947,
     "earliest": "2024-07-01",
     "latest": "2026-11-19"
   },
@@ -25,7 +25,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ga19URkZ6ZURHTE9WemxDOGtyYmlDM0szWEpjLU8zME01ZVJhTk9hYTd3UmtvSWMtTm1jbV84WmJJeEZxdFhLN2NCYTJ1N0hYM1NUUE83XzlfTWtzRUtOYjZqc2JoT0x4ZmdoaGtIT3AxWHJj?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-19T20:31:17.186Z"
     },
     {
       "id": "auto-2026-11-19-untraceable-asm-gold-could-miss-out-on-premium-markets-ken-a",
@@ -46,6 +47,274 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-19T07:21:03.660Z"
+    },
+    {
+      "id": "auto-2026-11-19-we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-m",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "We are losing galamsey fight, talk is getting too much; Govt must act",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Catholic Bishops’ Conference has expressed concern that Ghana is losing the fight against illegal mining also known as galamsey.",
+      "metrics": {},
+      "source": {
+        "name": "Catholic Bishops",
+        "url": "https://3news.com/news/we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-must-act-catholic-bishops"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-must-act-catholic-bishops",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-19T20:32:03.494Z",
+      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
+    },
+    {
+      "id": "auto-2026-11-19-galamsey-fight-our-hope-in-government-is-gradually-dissipati",
+      "date": "2026-11-19",
+      "category": "policy",
+      "title": "Galamsey fight: Our hope in government is gradually dissipating – Catholic Bishops",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: Our hope in government is gradually dissipating – Catholic Bishops 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmtzZ29jN1ZNLWpoNnAtTHZwcFI5Wmc0SUQ1VzRKZ0swektyUFJjMzRUS2taWWllWHBQazEwQXIyc3VPMmtFMnp5VTRBcEpJM0JzaEVJVDBQTXVraHMxdkJ2ejVtdmZKaHlSbFBQRUdSSER5LWdlRS1fTm9qYWRIajlhZ1BwSkQ3QUkxSnpxZ0IxUTVjUnJobFhEdXpGdE9KamtrOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmtzZ29jN1ZNLWpoNnAtTHZwcFI5Wmc0SUQ1VzRKZ0swektyUFJjMzRUS2taWWllWHBQazEwQXIyc3VPMmtFMnp5VTRBcEpJM0JzaEVJVDBQTXVraHMxdkJ2ejVtdmZKaHlSbFBQRUdSSER5LWdlRS1fTm9qYWRIajlhZ1BwSkQ3QUkxSnpxZ0IxUTVjUnJobFhEdXpGdE9KamtrOA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-19T20:32:28.488Z"
+    },
+    {
+      "id": "auto-2026-11-19-fighting-illegal-mining-csos-warn-delays-in-the-galamsey-fig",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Fighting Illegal Mining: CSOs warn delays in the galamsey fight are emboldening illegal miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fighting Illegal Mining: CSOs warn delays in the galamsey fight are emboldening illegal miners Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUFdDQnR0VnIyeFRhTnBsTHFRSUpmanlGWUo1bXY5d3NYYlJiTHlhTFdrbmJsejNDV0NPTnpLYk1oTkRQb0NhNjBHczBueXlQS3ktOGVpaHZiWEpNb1BHcUxibzjSAVxBVV95cUxNR0pxRV9mN3BHcVB0TG1QNVJFQXRiLUlsTjliZkwwQVE2aWFCYTB4UERVMEkzMEhPX3JmNnFzRjZ2RndabjlNYUd3MWNfUUxvcThBdFA1UHZqdTMzcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUFdDQnR0VnIyeFRhTnBsTHFRSUpmanlGWUo1bXY5d3NYYlJiTHlhTFdrbmJsejNDV0NPTnpLYk1oTkRQb0NhNjBHczBueXlQS3ktOGVpaHZiWEpNb1BHcUxibzjSAVxBVV95cUxNR0pxRV9mN3BHcVB0TG1QNVJFQXRiLUlsTjliZkwwQVE2aWFCYTB4UERVMEkzMEhPX3JmNnFzRjZ2RndabjlNYUd3MWNfUUxvcThBdFA1UHZqdTMzcw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-19-reinstate-northern-ashanti-mines-to-stop-galamsey-benumasehe",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Reinstate Northern Ashanti Mines to stop galamsey – Benumasehene appeals to gov’t",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Reinstate Northern Ashanti Mines to stop galamsey – Benumasehene appeals to gov’t CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlM4amlONkxLXzZLdlRfcjVWT1hjRmZTX3BLR3ZGdXRqVWExc1VWRDVlNGpOMlFOUmRFWlo0MVcxUVluUTJPXzE4YTBSTnA3X1BEd3pXald5blh4czlzS0VDOXlvQlJsLXE5YVQ3NWdwaHN2N2p2UVh4TWNob2Z6U2JBUExsbUI2RXRkcnVYYVlBMmtDNmdicU85SFppeEpWZXI4VVQ1eWdPMDEydktGLVJpemplRHc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlM4amlONkxLXzZLdlRfcjVWT1hjRmZTX3BLR3ZGdXRqVWExc1VWRDVlNGpOMlFOUmRFWlo0MVcxUVluUTJPXzE4YTBSTnA3X1BEd3pXald5blh4czlzS0VDOXlvQlJsLXE5YVQ3NWdwaHN2N2p2UVh4TWNob2Z6U2JBUExsbUI2RXRkcnVYYVlBMmtDNmdicU85SFppeEpWZXI4VVQ1eWdPMDEydktGLVJpemplRHc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
+    {
+      "id": "auto-2026-11-19-your-excellency-please-act-now-the-storm-gathering-at-our-no",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Your Excellency, please act now: The storm gathering at our northern door – The galamsey threat has been exacerbated",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Your Excellency, please act now: The storm gathering at our northern door – The galamsey threat has been exacerbated CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnZlcml5a245WkpDbzVQUElTTWNuT2JwR29SNVNha1JncmRBWVVrUjBwN19CUXVfT3NyeXN0SkgtamxrdEM2LTh3RVZVR25kNDQyYnFBY2laUVgwTUZwNlBZa2NZeElUd29KWDZONy1OUE1kcl8ySUJtUjVZNEl5a01kOWZ1Tkl1Z3hHYWpOOUZnMlNydENHZHk4eXBJMnQtSjFacmp4ZHFfTFpPNVpOc3pMVnRZY194emxBem1IcERicTR6R05wb205bHUzSzlYTHVkc2U3ZE1reDFBdDBpQmRvdFQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnZlcml5a245WkpDbzVQUElTTWNuT2JwR29SNVNha1JncmRBWVVrUjBwN19CUXVfT3NyeXN0SkgtamxrdEM2LTh3RVZVR25kNDQyYnFBY2laUVgwTUZwNlBZa2NZeElUd29KWDZONy1OUE1kcl8ySUJtUjVZNEl5a01kOWZ1Tkl1Z3hHYWpOOUZnMlNydENHZHk4eXBJMnQtSjFacmp4ZHFfTFpPNVpOc3pMVnRZY194emxBem1IcERicTR6R05wb205bHUzSzlYTHVkc2U3ZE1reDFBdDBpQmRvdFQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-19-military-reclaims-50-hectares-of-galamsey-ravaged-tano-nimir",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Military reclaims 50 hectares of galamsey-ravaged Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Military reclaims 50 hectares of galamsey-ravaged Tano-Nimiri Forest Reserve CitiNewsroom.com",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnlhTjdZUVlrMWNLaXhXNEZoUWpSYW4xbm9ZUDNGWHpUZWFzN21GSlRvdzBEX0tGSWMtZllpMEtoVllqYnVhQmY0OUhCNnR6Y2RTdHl4TW5seUdTSDEzckJDVzVvZ0RoWVhZdGhsZ0tjdlFuam5vT0FGNVVTMmhCUDljNm1RRlE2aW81a3BINk15NERSOWFmSE1XS04yUXk5TzFzSGtpLXduZW5zUGJjeTV2UUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnlhTjdZUVlrMWNLaXhXNEZoUWpSYW4xbm9ZUDNGWHpUZWFzN21GSlRvdzBEX0tGSWMtZllpMEtoVllqYnVhQmY0OUhCNnR6Y2RTdHl4TW5seUdTSDEzckJDVzVvZ0RoWVhZdGhsZ0tjdlFuam5vT0FGNVVTMmhCUDljNm1RRlE2aW81a3BINk15NERSOWFmSE1XS04yUXk5TzFzSGtpLXduZW5zUGJjeTV2UUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-14-illegal-mining-has-destroyed-about-8-900-hectares-of-ghana-s"
+    },
+    {
+      "id": "auto-2026-11-19-police-naimos-task-force-arrest-13-persons-in-relation-to-su",
+      "date": "2026-11-19",
+      "category": "arrest",
+      "title": "Police, NAIMOS task force arrest 13 persons in relation to suspected extortion incidents at mining sites",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Police, NAIMOS task force arrest 13 persons in relation to suspected extortion incidents at mining sites 3News",
+      "metrics": {
+        "arrests": 13
+      },
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDRRVThseEJLWlY4eTFFc2xFdFgxbHpGeXZQUTBScUFPYU55aFR2VmZoM2M3V1NFV25kOWp4dWQ1QklyN01FYVhfbmxkWGF0ckFFT2xqaVh4Qjg3bk5vM3pMRHZqS2stMFY3SkdUOFI4NWdfZERTZG8ydGFrQXZEbVlnRTFnUmV0OWhmcVF0YlZmWks2dVdSdlF3eE1MM2ljQ0E3dm1UVV9OM3RTRGZKejhlZGpfaGRKamhEQ3lQWlBSNEhDc3JGVld1Mkc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQSDRRVThseEJLWlY4eTFFc2xFdFgxbHpGeXZQUTBScUFPYU55aFR2VmZoM2M3V1NFV25kOWp4dWQ1QklyN01FYVhfbmxkWGF0ckFFT2xqaVh4Qjg3bk5vM3pMRHZqS2stMFY3SkdUOFI4NWdfZERTZG8ydGFrQXZEbVlnRTFnUmV0OWhmcVF0YlZmWks2dVdSdlF3eE1MM2ljQ0E3dm1UVV9OM3RTRGZKejhlZGpfaGRKamhEQ3lQWlBSNEhDc3JGVld1Mkc?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-19-naimos-arrests-27-suspects-in-illegal-mining-crackdown-at-an",
+      "date": "2026-11-19",
+      "category": "arrest",
+      "title": "NAIMOS Arrests 27 Suspects in Illegal Mining Crackdown at Anyinamso",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS Arrests 27 Suspects in Illegal Mining Crackdown at Anyinamso Modern Ghana",
+      "metrics": {
+        "arrests": 27
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FWEFCakcyV1AwZVRka255bkk4Z09fcWRKZ1Z2ek0zdThmY0RFdXFqNU1DUExYRWJQYUVVZkxrcDFwVzNaWEc1R2p1bUMwRW13MjRBWkhmRXJrT0tGbERr0gFcQVVfeXFMUDJncmtyQ1U5TzZWd2xqLUVabkM3Z01SV0Y4VXVCRl9qOGdaNWR3dXdEakV3b0lkX1hCdzdMYXhDN2RSQnBad2FMYnBneGk3VnRoWFcxM1Z4LVlvNjM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FWEFCakcyV1AwZVRka255bkk4Z09fcWRKZ1Z2ek0zdThmY0RFdXFqNU1DUExYRWJQYUVVZkxrcDFwVzNaWEc1R2p1bUMwRW13MjRBWkhmRXJrT0tGbERr0gFcQVVfeXFMUDJncmtyQ1U5TzZWd2xqLUVabkM3Z01SV0Y4VXVCRl9qOGdaNWR3dXdEakV3b0lkX1hCdzdMYXhDN2RSQnBad2FMYnBneGk3VnRoWFcxM1Z4LVlvNjM?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-galamsey-sites-expose-birim-river-to-danger-alexander-acquah"
+    },
+    {
+      "id": "auto-2026-11-19-ghana-armed-forces-reclaim-50-hectares-of-land-destroyed-by-",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Ghana Armed Forces reclaim 50 hectares of land destroyed by illegal mining at Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Armed Forces reclaim 50 hectares of land destroyed by illegal mining at Tano-Nimiri Forest Reserve MyJoyOnline",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnVLcHNYTXlWYjhUYk5JUVV4NGs3cHRsUUg4UlNOWVNwX0pJSGg0WF9vSGZPRW9ja0tUMG1BVmRMNnUxQ2hSVklCQ25ZRjVNaDA1WE83RVdfWTFZWm1kLXB6S095STFZTHN1a3ZzTkJXR3h5bk50cUk1cUo3cnYzUGpmUlFVazlaNTUxWnVlaGpZZDM5aW15bzE3cnVYODRzMlBWVWtZalNyYlQ4MzVWaXUxQUdjY1huVWFyMFlfYnJFUHcxSEFvX1BSaG1Fdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnVLcHNYTXlWYjhUYk5JUVV4NGs3cHRsUUg4UlNOWVNwX0pJSGg0WF9vSGZPRW9ja0tUMG1BVmRMNnUxQ2hSVklCQ25ZRjVNaDA1WE83RVdfWTFZWm1kLXB6S095STFZTHN1a3ZzTkJXR3h5bk50cUk1cUo3cnYzUGpmUlFVazlaNTUxWnVlaGpZZDM5aW15bzE3cnVYODRzMlBWVWtZalNyYlQ4MzVWaXUxQUdjY1huVWFyMFlfYnJFUHcxSEFvX1BSaG1Fdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-19-goldbod-reclaims-50-hectares-of-degraded-land-in-tano-nimiri",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "GoldBod reclaims 50 hectares of degraded land in Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod reclaims 50 hectares of degraded land in Tano-Nimiri Forest Reserve Adomonline.com",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDFFdURaNlpvWVF3aFJDaVgybGowM1pZZEUzVEdGaUhmYnQ1N21xQlc3Z0tIZ2xWUmQwZENCdW55ZmpOcVEzeDVydlRjckdUYWotdGVFRmoyVTZ4VXA2UHRLVVpKYmZOZ0NpNlhRcFgtbmdiOG9Qc19QQXhGSmpPUGxRTWFoR0dNcV9lemdQNXNNMWFSelQ2MTg1TWU2Sm05Tk54cktB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDFFdURaNlpvWVF3aFJDaVgybGowM1pZZEUzVEdGaUhmYnQ1N21xQlc3Z0tIZ2xWUmQwZENCdW55ZmpOcVEzeDVydlRjckdUYWotdGVFRmoyVTZ4VXA2UHRLVVpKYmZOZ0NpNlhRcFgtbmdiOG9Qc19QQXhGSmpPUGxRTWFoR0dNcV9lemdQNXNNMWFSelQ2MTg1TWU2Sm05Tk54cktB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-19-13-arrested-over-alleged-impersonation-extortion-at-mining-s",
+      "date": "2026-11-19",
+      "category": "arrest",
+      "title": "13 arrested over alleged impersonation, extortion at mining sites in Eastern and Western Regions",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Thirteen people have been arrested in two separate operations in the Eastern and Western Regions for allegedly posing as state security operatives and demanding money from miners. The arrests followed intelligence reports that the suspects had been visiting mining sites while claiming to represent the National Anti-Illegal Mining Operations Secretariat (NAIMOS), National Security or other state institutions. In the f",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/13-arrested-over-alleged-impersonation-extortion-at-mining-sites-in-eastern-and-western-regions/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/13-arrested-over-alleged-impersonation-extortion-at-mining-sites-in-eastern-and-western-regions/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-pol-2026-04-cape-three-points"
+    },
+    {
+      "id": "auto-2026-11-19-manso-keniago-disaster-ndc-ashanti-region-constituency-chair",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Manso Keniago Disaster: NDC Ashanti Region constituency chairmen promise to prevent confrontation between NAIMOS and residents",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "The engagement comes a week after the Manso Keniago incident, which resulted in deaths and injuries during a confrontation involving residents and security personnel",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/manso-keniago-disaster-ndc-ashanti-region-constituency-chairmen-promise-to-prevent-confrontation-between-naimos-and-residents"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/manso-keniago-disaster-ndc-ashanti-region-constituency-chairmen-promise-to-prevent-confrontation-between-naimos-and-residents",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-19T20:36:02.242Z"
+    },
+    {
+      "id": "auto-2026-11-19-erastus-asare-donkor-laments-as-court-acquits-four-suspects-",
+      "date": "2026-11-19",
+      "category": "prosecution",
+      "title": "Erastus Asare Donkor laments as court acquits four suspects who attacked him during galamsey exposé",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Investigative journalist Erastus Asare Donkor has expressed disappointment following the acquittal and discharge of four people accused in connection with an alleged attack on him and his colleagues while they were covering illegal mining activities in the Asenanyo Forest Reserve in the Ashanti Region. The journalist, in a lengthy social media post on Thursday, November […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/erastus-asare-donkor-laments-as-court-acquits-four-suspects-who-attacked-him-during-galamsey-expose/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/erastus-asare-donkor-laments-as-court-acquits-four-suspects-who-attacked-him-during-galamsey-expose/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
@@ -549,7 +818,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVzSmd6NGdPZkZyOHpFVjhabFRXa3dPZ056NVlLLWZEYkR6T3BIMFF4Q3hSQVpUWnBPaXQ5czRwTVA4NGhCSWI0NEVtbW1HUEc2YlB1eDRENS1aQXllbzcycGFCd09jQ0VCUUtKamxvTzdkdzBQM3V4c2pVQk9NOHJXVzRGVUFxSWVFUUswVWF2T3VF0gGTAUFVX3lxTE5qNGpUU3Nzd1ZBZnhrMldOdjl3RElVQXo5Y0kyZkk4R08wSU5tbW1IeHRqX25yampKby1VMlRDZlFHSkwxV3dhM002UDg3cHhyazVjRmxqRXdvYWYxcDhkYXM0Zkl5cTlZUEwwUDd1b0tkbWdWa014cXUwNDVJOFlvUmcxNGVGNWJYWDlvcGxpbmhtSQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-"
     },
     {
       "id": "auto-2026-11-17-erastus-asare-donkor-denies-taking-bribes-to-kill-galamsey-s",
@@ -1012,7 +1281,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3hMSVZKVUQ5d0t5NV85cFdZR2hVTFo4SFVkS2ctYmtjbERBeXd4cTIyMjhPYVRDdUFNaDd0N19kMDBhcFVMMEd2Z0xUSVB4a3hwcW5GNExuXzVKWUx6TTR6MkFhUXp3ZGZ2UDZnTDhGeW44a1I2bTRacGJLTzZqblFMVVRNSUJQdVNmVm1aZEI0bmZVRGp2amttM2Z4NkFqTURGaU1nS2RYNkxJQlBrMXpJeDZQVjF4Q2pFZ05ick1lWmkzcVd0bE5jQ04?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-"
     },
     {
       "id": "auto-2026-11-16-in-the-beginning-galamsey-was-glorious-what-happened-and-how",
@@ -1089,8 +1358,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHg4d3R5Y01rYkpzRW10aGktY1BqLWR2bFh5NDh3MGFTQzN6dG8zU2Jta0pXOTNpdm9pTDFSYzh6RURTdU5OSTJOeHdOei0ycEdzemJiZ3dCWWFZdUpiV1JXNTJteThsemRCU0szMk1rSGVNeXY4YTlKNjRRQlBMNFhSXzBrMTIwV0I0YUFmeDNsU1lUS05nWjIxRERVamMwMy1ybXVjVThveDE4SXljZXBmM1JDSk1OQXJWRDFtRkNONm1ZNHZ6NW1PdVhITHVXZkVz?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "verified": false
     },
     {
       "id": "auto-2026-11-16-cop31-ghana-c-te-d-ivoire-discuss-coordinated-galamsey-respo",
@@ -1130,7 +1398,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Nam9kQTBMSlhJVjJtelc2TURaamdrMTljRVE5WEVWcXVTM1VRZWd6ZG1MeU5JYlVheF9QM1pmT0g0LVp0SWJMaC1zOWF0d2lKMlhMUVhiY3NwdUtzVG9UWVRPcVbSAVxBVV95cUxQMFcxY3pjbXh2bTBOMk5xcDFSUjE5dV9Bc0J4ME9zYTF0aVQxX3c3OTd2YkVoRHBuZWwweHBOTnYxNnR1azhHZkY2N1FBa2xEMWFXRU9pQ0pjLVNQcA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-11-16-weakening-naimos-operations-won-t-keep-ndc-in-power-ken-ashi",
@@ -1306,7 +1574,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGhpa01HWUVZOEtFMXdWYU9tNGtaNWpVWmtEMzNZY3pWX3ZJZzlJV1VoSUpxTFlodnZMUGU5eHI0eEY4WFN0MEJHUmVfdS0zak15SUJsaEg4cUpmRDNlUEVHdVpkTThGVXZJVFNtZmpqVzVKVURBQ1BrckF2a0h0VGxraGZRTmZpeE1SVTZHSmRiNC1VSjRDbGNrV3pTZllNbzU5djVKUjNYLTAxaVh6bjFsNmZhRjBsMHk3YjFkOVdTVlNlWVFLbzhBbzQ0QUxZb3JkSmdfb25IcW5lSnlj?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
     },
     {
       "id": "auto-2026-11-16-wnr-national-security-team-destroys-illegal-mining-equipment",
@@ -1501,7 +1769,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZW03UndyaGVMYVpmUzVBdHFYaGh5eDAyc3ZJZV9iQnVraDc2YnVSWEwwZG5oREp0ZHJ6YzlaclFyblhjVkEzXzZfTl8wU1d1MnFBYmZjUTl2THlJdjU3ajFDWGdWWHR2QXRj?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
     },
     {
       "id": "auto-2026-11-16-four-arrested-for-impersonating-naimos-extorting-money-from-",
@@ -1586,6 +1854,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-15-aside-galamsey-there-is-cocaine-all-over-darko-slams-gov-t-o"
+    },
+    {
+      "id": "auto-2026-11-16-ghana-catholic-bishops-call-for-galamsey-emergency-declarati",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Ghana Catholic Bishops: Call For Galamsey Emergency Declaration",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Catholic Bishops: Call For Galamsey Emergency Declaration Wansom AI",
+      "metrics": {},
+      "source": {
+        "name": "Wansom AI",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFRoT2lEa1lpdjNpM3RXbEFRaTIwclNZNUZYRy1Vck90VmtHRWlJOFFSYTNDemVkZGw1YWlndG1hbll0RXJvU1kxQmJvbUhfWjFYV3hIUkVtaWlCdEFvQ3V1dDFIQUhIWmI4azVaQ1VYcDRvaGhoYkREUC1zNDVtYkp5Wi1ROVZnT3VMbGIwNEswcnlpMzgtZ2NBcllOLUdnQWp4Rkw3am5HQXk3bjhlU3RYMm5aa2hmOHc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFRoT2lEa1lpdjNpM3RXbEFRaTIwclNZNUZYRy1Vck90VmtHRWlJOFFSYTNDemVkZGw1YWlndG1hbll0RXJvU1kxQmJvbUhfWjFYV3hIUkVtaWlCdEFvQ3V1dDFIQUhIWmI4azVaQ1VYcDRvaGhoYkREUC1zNDVtYkp5Wi1ROVZnT3VMbGIwNEswcnlpMzgtZ2NBcllOLUdnQWp4Rkw3am5HQXk3bjhlU3RYMm5aa2hmOHc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
     },
     {
       "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
@@ -1882,8 +2170,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWU9zeTBxQjZoY1I0X3lBakdabUdmaTNCcXFYN3I1OXZwcDBXWmt5aC1iamprZ05FVDZ6VWpaM0FYZzExV2ZhOGsyOW1PV2dMWXcxM0Uxc0FwYm9SRkpua2lMSzgxaTRVV2pQdU1JVEUxeTVJaWFyZDU4UnlFOHVFbnBVWGFZeU92Y3hwRmlpQmF0VThSM1prQndSSk1kRk1Bbi1zNXMxeVZuc291TVJNWThIclI2YWdT?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "verified": false
     },
     {
       "id": "auto-2026-11-14-galamsey-fight-naimos-operations-could-send-ndc-to-oppositio",
@@ -2355,7 +2642,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQaEVERVFwTVppejd1UURJeXhrLUttZk1oSEYxM3FLVUVDeDhRRzVHLXp0cldRS2Z1bXlvazhQVGw3TmVlb1c3dHkwVkZ1RXdtaURDQTdSaVVSWEh3VzVIdTktV3h5aHd0bGNsbG12ZV9VRUttYmhVeEY5aG8zcFAzS1lZem43Y3o3TUVEQnZFTnIyanJ6QmNkNWQtTW9oSzQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
     },
     {
       "id": "auto-2026-11-14-galamsey-fight-has-failed-government-must-change-strategy-se",
@@ -4727,6 +5014,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-11-09-galamsey-polluted-rivers-could-take-100-years-to-recover-lan",
+      "date": "2026-11-09",
+      "category": "water",
+      "title": "Galamsey-polluted rivers could take 100 years to recover, land 300 years – UCC professor",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey-polluted rivers could take 100 years to recover, land 300 years – UCC professor 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHRZUXBuempNczlKaVVteGwyWWZFNzA0SU8yQ2xGQWItTTc1R0lBSGtmSzlUTjZ0SnBxa3VTMnUyZzk2dFhsc281WUFpZXo1OTNtUzRjakd3RkdKOEs5dTUwR21NQzR3cDhlRXlWdjNUX094R2toSzJRQ29KRlRtU2tOMW9YQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHRZUXBuempNczlKaVVteGwyWWZFNzA0SU8yQ2xGQWItTTc1R0lBSGtmSzlUTjZ0SnBxa3VTMnUyZzk2dFhsc281WUFpZXo1OTNtUzRjakd3RkdKOEs5dTUwR21NQzR3cDhlRXlWdjNUX094R2toSzJRQ29KRlRtU2tOMW9YQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-08-assessing-the-impact-of-declaring-a-state-of-emergency-on-gh",
       "date": "2026-11-08",
       "category": "forest",
@@ -4745,7 +5051,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-08T13:18:49.671Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-11-08-speaker-bagbin-promises-journalists-online-access-to-parliam",
@@ -6283,8 +6589,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxPTGdoQnV3VDF4S0s1Vk1TZ0xxcmE2UE1Kd28wakZCV01hNVZDbkZ5cEthX0ZIaFFSWi1JYWg1MHdNWERldGo4d01vWHJnb1pxNFp3bHBuNEhKV196SFJodGZRRzFTdUtrUWRPengzbWs2MDd2RDA5eTJ2MnBGbmdFOEQ2VFlTN3BBVnZwQjRqWlQxLTF1VUMwMlh6SHNsMkVUVFJrUnZmQTNMZkFFS2VialFZRU95ZENSU0E?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-03T14:12:43.095Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "archivedAt": "2026-11-03T14:12:43.095Z"
     },
     {
       "id": "auto-2026-11-03-trouble-at-galamsey-site-as-miners-clash-with-officials-one-",
@@ -6684,7 +6989,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTlmenp4dEszZWs2ZC02VVczUzkzd0k3VExYelZWZ2tMb3d0N0swRzJiVTJoTVVSY3Z4Z091TFlGdk91RVp2Z293b3VyOFhubEVBUmtOUVFIdkNiZmw3MW5Pc1hIRmhwRDhia1FSSFBsblZDVGw3RG1QQkVJcGw1ek9aYzJ6NFhhMW5WUXhmSEMtLWt6SEZITzUxTlkzLW1nVzhVZFVBRDFKZHBsS3BHQVBKOA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-11-03-buah-charges-youth-to-lead-fight-against-galamsey",
@@ -8313,7 +8618,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkZ6RTVVMVNvaE9rTUFWaEl3U2pfZzg5Si1aekJjRkFUZTZpZjFKVWU1dFJxdTZCUzJjTGpHS0tPdDQzMWJfcGFlZEFfS2hmRmNfSFVfTW9udExIUkVoWmctSkFCTmFGSzVIVFpRTzJoMUxIQ1ZUc3l0MG9JNzdnanRIaXh2Qm9zT3hSdnc1M1RFTXR4SXE40gGWAUFVX3lxTE9zckM4YUZYSVZYbW5ybXpZdHNJTGpSODk1UW1yQ3YtUExCbGt3dnNLSjBmOU9aMk5mZ1FBU2JsVXlUQTZUN2tLNmdYa2wwUUsyMWNIRHU3MGRZREtQNzd2X2JXWTZZYm5sOFA4aHZIWkY1UGJMQTZuMjYtbHR0d1NRQ3I2bzNRM1hCX1JEX1V1c096V1FYUQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g"
     },
     {
       "id": "auto-2026-10-31-ndc-and-npp-representatives-nearly-come-to-blows-on-newsfile",
@@ -9042,7 +9347,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/naimos-arrests-11-suspected-illegal-miners-in-western-eastern-regions/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+      "thread": "t-pol-2026-04-cape-three-points"
     },
     {
       "id": "auto-2026-10-30-gcerf-supports-ghana-in-preventing-violent-extremism",
@@ -9813,7 +10118,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1Rld08zVWJfUngzeFRncmtSQjZYZlFVSE1TZDFSMmt5Yi1hM2U4X3picjhVNl9iOEM4YXJlWFVpRmNqRmpuc0c0T1h1ekhfUlZacXpscXdDUWpTZk5ibkJ2WkotWUJLMlA1Vmtmd2xLRm1nWC1BM1pDSnVMLXAzXzhxNDJBLUlEMGFjaTh4OTJoeUoyMUHSAZQBQVVfeXFMTXBSRk1PVlZaSWpCdWdmUnMyaE1oSTJndlRTTC04c3FOSVRLUzJMYWJ2WnVjM1hmTm9veXJxd3FQdXBuX0pJM0VCSEF0T1JGOXJXaTFrNVlOS1E0VnBnbWpuczNxdTY3d3hWUlEycXYycXJYelZoTUNkUEdRa0FYeXJlaWFSaVF0dC1iVlRDMGllWlZ2YQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-10-29-fight-against-illegal-mining-naimos-engages-small-scale-mine",
@@ -11819,8 +12124,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1xNm8zaG1tMW9YeE9pYUw1SVNHeFhsZTgzTllaRXptZ3hQSGp0NENyV1pJQTVub0tsSnRVWkNmT3JQbzhYc3pWSWNXWnZBZXNrNEdfT0puN1VVWFJqdFAwVVNZS0tXN2xWbnUzcEZRYXJlSUx2dks4cGd4T0xjLXhYV05NeklKMGFXOFNwbUVXdEdsWHdzX2xkeFQ2blk1bFdSZ3ExWjkxNkRlMnhj?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "verified": false
     },
     {
       "id": "auto-2026-10-26-testing-goldbod-ceo-s-new-law-on-small-scale-mining-against-",
@@ -16978,8 +17282,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGlVbGRxUVJUSHRHRmpfNTBIY2p5V2JQd2dPNmMtWVhwb0pHUE83QUhCTVBEX1lsaDN2R1BzZUtQOGxQdVQ1MC1KYm41UlV3blMtOE1SY1ZXRUFkMzFLb0ZsRmRNek1mQ1hiaS1fbHlzS3BISDYwSmd4cDVNN25lSTU1TW1wOFE3SXNzTlNpNDlCNllYMmhkOGpPQTVLV1RWUXJmZS1FUEl2Y1NiZ2JOczJrckl2OWRJMm9WYTRlNGtZYVBNRExqVzRtS2RrTy1uSktv?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-14T21:44:15.807Z",
-      "thread": "t-auto-2026-09-04-no-galamsey-on-densu-river-only-dredging-weija-gbawe-assembl"
+      "archivedAt": "2026-10-14T21:44:15.807Z"
     },
     {
       "id": "auto-2026-10-14-government-working-to-address-economic-challenges-driving-yo",
@@ -17261,8 +17564,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGEzc2VRWERDdERkN3oyeEloU1h5ZEhBa29QYlIweEVQd0xrM1NCZ1daMW9ldzNTcXN1bmhORUdzc3Zrdms5UkVJSXFDWkdhLW1XS2Y3SUdqbHdKZkpVT21vM0dpbnZvR0JIRUVkZkV6NDF2WTB4SnVEc3kzVXFPX1JUUExEeVZabHNET3BtR3VyTU1VM2NiQm05OHI2WUZDeVJmLXZ1U19HMk9WOG9PbkxfYTZCSDB3bHVxa0JlOWJoNWh6Z0dzYQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-13T22:42:20.369Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "archivedAt": "2026-10-13T22:42:20.369Z"
     },
     {
       "id": "auto-2026-10-13-wealth-over-water-how-galamsey-is-threatening-ghana-s-water-",
@@ -17803,8 +18105,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGo3ck1sNWE0cDRUUlQ3b0VHbUNPekVzRDZSRWRqZURxLUMydkYtdl92UG40RGk2aVFWZXh5LXVwSUt6OS02cFYzSVlROWhvcDZUY0NVM3lmVTVPY3I4djEteUx3aTVDaXJxNXNaOHMybTNRQ3ZqRnVQdGlkcVNtWVBESExfdG4tNHBJekhISlFBUFJvNGVGNFdLMnVxMVVvakRLSGhRTjQ5ZHhOeE9YVW1CLXB2UQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-09T06:04:54.635Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "archivedAt": "2026-10-09T06:04:54.635Z"
     },
     {
       "id": "auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-",
@@ -17825,7 +18126,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-09T13:12:48.032Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-"
     },
     {
       "id": "auto-2026-10-09-catholic-bishops-renew-calls-for-state-of-emergency-over-gal",
@@ -17845,8 +18146,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlBYRVBZdGhiNFVpVzV1OVJXOEZaQ2xjaEE5WmJueHkxem1QMmd1emtQalBPRzlNN0wxMG9kUkVOVVJETmlvSzZ6RmY4QWZaZzhONFZ4V29FR0x4NHBZNmcxS3dfTlZTaXRmTkVEYjBlQS1sM3dOWFA3eFZPdVVUUXdZbkJGU1pIUlRMWnpBVEhnQy02T3Z6Qg?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-10-09T13:13:12.718Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "archivedAt": "2026-10-09T13:13:12.718Z"
     },
     {
       "id": "auto-2026-10-09-govt-has-handed-60-hectares-of-degraded-apamprama-forest-res",
@@ -17931,7 +18231,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-11T21:57:13.632Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
     },
     {
       "id": "auto-2026-10-09-any-police-officer-or-soldier-who-is-man-enough-should-come-",
@@ -20677,7 +20977,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNXFiQkFkU2ZVZURMZlBONjJTY1FhNUhwVU9ydEFRRUNRWEZ5Sk5hUnBaeWRZX01VSlBDVkdtV2hSRDFUd1UtOEpoaFp3RHdGMF9IMHBWUVo4Q1BQaE53WDgxQUTSAVxBVV95cUxNdTFJT3NkN1hYUUR2ZEpoS0RUTFVRdm1OV0MxeXVVamUyZW1YZTQxb0ZmMUJMYkRKNmRERE13YXlGcEpMZXIzRFNxa2I3bEpLMXpvX0wwQUlXbllGRA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
@@ -20797,7 +21097,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -20818,7 +21118,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:22:08.950Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g"
     },
     {
       "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
@@ -24419,7 +24719,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0wFBVV95cUxOakY3YzQ3NGJyck9ubk1ZVFlFbEJteE1uTmJ3YkJocVhHbG1TSHdOU0o3cUUtdUZ0Rk1VMmVYOHFzSFhnQ3VlRUVYT1FWSDJudG1BUGFaVHBkaGxSbFpwRjhVZTZEV1Y0TWVhSGRuMTlNMFZEVUNzSTl4dHRqeVlNYzMwUVBkNWZ1X29VN2tqa3g1R1Ztd0lGNXA1S0tQZVJ6NUlWY3RYcGw2MXZZM0RDYjUxc2RkQnJwQ1RDTlU1MzRVb3JxV3FsZXR3OWhoMEdta0dR?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-ministers-mce-s-chiefs-catholic-bishops-allege-complicity-of"
     },
     {
       "id": "auto-2026-09-09-galamsey-operator-who-posed-as-pastor-defiled-jhs-pupil-jail",
@@ -26746,7 +27046,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-01T21:00:50.520Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
@@ -27421,7 +27721,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
@@ -28340,7 +28640,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-28T22:23:33.959Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-ministers-mce-s-chiefs-catholic-bishops-allege-complicity-of"
     },
     {
       "id": "auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment",
@@ -28361,7 +28661,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-08-27T09:44:38.489Z",
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
     },
     {
       "id": "auto-2026-08-27-presby-moderator-urges-government-to-show-political-will-to-",
@@ -28401,7 +28701,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-becoming-source-of-employment-for-ghanaian-youth-catholic-bishops/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
     },
     {
       "id": "auto-2026-08-27-galamsey-fight-requires-all-of-government-approach-zanetor",
@@ -29072,8 +29372,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWNqdGNBd3dQU3FXTlBqUmI1dDZsM0R2RW1xZ1VQSVAyLUlyYzB6a2djeGVBdzQ2V1l1VEMxQjZwbk5sRkkyUk12eDVjTG5rOFZLNHVwNDNxdlNubkpQWldCMGkyR2NhMWVvYzZZM05HMWlYN2g4YVp2dHNmTWM5V3QweUM1TE9TdDN2bUhqSEQxTXhfQzJSZy1jS2ZmdndwVkJ2amltX2VpS19fcFpLMQ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "verified": false
     },
     {
       "id": "auto-2026-08-26-catholic-bishops-raise-alarm-over-politicians-chiefs-and-gal",
@@ -29093,7 +29392,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qT25UN3lUMGpiTS1nTVB2Q1hXY3l4MWVtMWgxY0d1eDBHQjI2bnVLTE9HNFItRXhkVjVRYVlPV3RETldWcDhIanZPblEwZEN2dHV3MmhZckRjaFk3TTluWWh0MA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-26-galamsey-being-institutionalised-as-source-of-employment-cat"
+      "thread": "t-auto-2026-08-01-akim-oda-mp-challenges-birim-central-mce-to-seek-court-actio"
     },
     {
       "id": "auto-2026-08-26-presbyterian-moderator-on-galamsey-corruption-agenda-111-and",
@@ -36104,7 +36403,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnlWcVpOVW1kRlBHRjktTkNUbnFsdDZhdDlmRGFpU2lSdUcwT0lpckJXWThlTFdGRlBRNWl1Q2VmRXFsdTNHNG5qRFdBMm1mcUN4aTlLeVhRR1ZfamlkSldLbjFvQW4wNHRXVkFRd21taUFISkdDbVVaZlh2XzA5YS1LT0FabGJqcWx1c1p5RjlNTFJC0gGTAUFVX3lxTE05WXdmbXoxcXF6OGZrd3ByVzByejg4Z082T01YU3lfQXVOSmNLeU42S3c3LVBMR0xfb2FDU0l3RGl4U3hJYUo0ZDJzUnJNUU5xRjBBbFBTV25zMnB4NFVNVkxQaU9feFZmZjBjbXlzVFR5WGpiRXowYzZZTUxXVTltOVg1VVEyaWtIbFBibkI2d09SWQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T15:42:12.979Z"
+      "archivedAt": "2026-08-09T15:42:12.979Z",
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-08-07-galamsey-will-eventually-tarnish-our-performance-dadson-warn",
