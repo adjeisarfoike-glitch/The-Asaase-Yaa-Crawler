@@ -1,13 +1,33 @@
 {
-  "updated": "2026-11-19T20:37:51.499Z",
+  "updated": "2026-11-20T07:14:07.997Z",
   "counts": {
-    "total": 1975,
+    "total": 1977,
     "verified": 28,
-    "automated": 1947,
+    "automated": 1949,
     "earliest": "2024-07-01",
-    "latest": "2026-11-19"
+    "latest": "2026-11-20"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-20-galamsey-fight-minerals-commission-flags-logistics-gaps",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Galamsey Fight: Minerals Commission flags logistics gaps",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Minerals Commission flags logistics gaps 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODM5aDlYb0l0RWppUFV1R3ZTb1VxU21QNG5aazlvWm1qd2o5YnhTT2JKZDVpMWJaVmVRMmtRNXV2LVhKdF94SDBzaHoxUjh3bHVaTDBXR2ZYb21ONHh5TUJSZFI5VkdVZDB3YWxXTmRSMW1zSTRsdmNxUG8zZGl4MXpBNlg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihAFBVV95cUxPODM5aDlYb0l0RWppUFV1R3ZTb1VxU21QNG5aazlvWm1qd2o5YnhTT2JKZDVpMWJaVmVRMmtRNXV2LVhKdF94SDBzaHoxUjh3bHVaTDBXR2ZYb21ONHh5TUJSZFI5VkdVZDB3YWxXTmRSMW1zSTRsdmNxUG8zZGl4MXpBNlg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-20T07:08:50.144Z"
+    },
     {
       "id": "auto-2026-11-19-ashigbey-urges-state-of-emergency-in-galamsey-areas-and-a-pr",
       "date": "2026-11-19",
@@ -52,22 +72,21 @@
       "id": "auto-2026-11-19-we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-m",
       "date": "2026-11-19",
       "category": "forest",
-      "title": "We are losing galamsey fight, talk is getting too much; Govt must act",
+      "title": "We are losing galamsey fight, talk is getting too much; Govt must act - Catholic Bishops",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The Catholic Bishops’ Conference has expressed concern that Ghana is losing the fight against illegal mining also known as galamsey.",
+      "summary": "We are losing galamsey fight, talk is getting too much; Govt must act - Catholic Bishops 3News",
       "metrics": {},
       "source": {
-        "name": "Catholic Bishops",
-        "url": "https://3news.com/news/we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-must-act-catholic-bishops"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR21oMVE1RXVqT0tWb2dqdDBXTnNXUXQzSF9NYUVwRW9EajE3Y3RzZkdRM2VTTWNGcHVNY3FrRUdVd3N2WUxCXzBvTTBQYzB6cWtiU1hNb0tRZHYzZ2VoTjlndkpES1MzUGhIRFNPVE51SFJ5bmdYVWdXcDR3eEVtdWV3ZWJHUTIwZ1oyc0pTSFN6TlByM2FsOGdvZXpicFFxVDE0UXpnZmFEaHc?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/we-are-losing-galamsey-fight-talk-is-getting-too-much-govt-must-act-catholic-bishops",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR21oMVE1RXVqT0tWb2dqdDBXTnNXUXQzSF9NYUVwRW9EajE3Y3RzZkdRM2VTTWNGcHVNY3FrRUdVd3N2WUxCXzBvTTBQYzB6cWtiU1hNb0tRZHYzZ2VoTjlndkpES1MzUGhIRFNPVE51SFJ5bmdYVWdXcDR3eEVtdWV3ZWJHUTIwZ1oyc0pTSFN6TlByM2FsOGdvZXpicFFxVDE0UXpnZmFEaHc?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-19T20:32:03.494Z",
-      "thread": "t-auto-2026-08-27-catholic-bishops-warn-galamsey-becoming-source-of-employment"
+      "archivedAt": "2026-11-20T07:09:14.990Z"
     },
     {
       "id": "auto-2026-11-19-galamsey-fight-our-hope-in-government-is-gradually-dissipati",
@@ -106,7 +125,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUFdDQnR0VnIyeFRhTnBsTHFRSUpmanlGWUo1bXY5d3NYYlJiTHlhTFdrbmJsejNDV0NPTnpLYk1oTkRQb0NhNjBHczBueXlQS3ktOGVpaHZiWEpNb1BHcUxibzjSAVxBVV95cUxNR0pxRV9mN3BHcVB0TG1QNVJFQXRiLUlsTjliZkwwQVE2aWFCYTB4UERVMEkzMEhPX3JmNnFzRjZ2RndabjlNYUd3MWNfUUxvcThBdFA1UHZqdTMzcw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-20T07:09:28.000Z"
     },
     {
       "id": "auto-2026-11-19-reinstate-northern-ashanti-mines-to-stop-galamsey-benumasehe",
@@ -126,6 +146,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlM4amlONkxLXzZLdlRfcjVWT1hjRmZTX3BLR3ZGdXRqVWExc1VWRDVlNGpOMlFOUmRFWlo0MVcxUVluUTJPXzE4YTBSTnA3X1BEd3pXald5blh4czlzS0VDOXlvQlJsLXE5YVQ3NWdwaHN2N2p2UVh4TWNob2Z6U2JBUExsbUI2RXRkcnVYYVlBMmtDNmdicU85SFppeEpWZXI4VVQ1eWdPMDEydktGLVJpemplRHc?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-20T07:09:52.522Z",
       "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
     },
     {
@@ -146,6 +167,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnZlcml5a245WkpDbzVQUElTTWNuT2JwR29SNVNha1JncmRBWVVrUjBwN19CUXVfT3NyeXN0SkgtamxrdEM2LTh3RVZVR25kNDQyYnFBY2laUVgwTUZwNlBZa2NZeElUd29KWDZONy1OUE1kcl8ySUJtUjVZNEl5a01kOWZ1Tkl1Z3hHYWpOOUZnMlNydENHZHk4eXBJMnQtSjFacmp4ZHFfTFpPNVpOc3pMVnRZY194emxBem1IcERicTR6R05wb205bHUzSzlYTHVkc2U3ZE1reDFBdDBpQmRvdFQ?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-20T07:10:17.232Z",
       "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
@@ -317,6 +339,25 @@
       "thread": "t-auto-2026-08-12-the-galamsey-fight-the-galamsey-fight-is-regressing-erastus-"
     },
     {
+      "id": "auto-2026-11-19-ndc-cannot-stop-galamsey-because-politicalnews",
+      "date": "2026-11-19",
+      "category": "policy",
+      "title": "NDC CANNOT STOP GALAMSEY BECAUSE....... #politicalnews",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC CANNOT STOP GALAMSEY BECAUSE....... #politicalnews YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MZy1kcXQwRVVYV05jelYzekpldXlKY3M5a2JXMkJnTk9Hekh4Sy02enV6aGkyVjhUa203NmxzQWpYQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MZy1kcXQwRVVYV05jelYzekpldXlKY3M5a2JXMkJnTk9Hekh4Sy02enV6aGkyVjhUa203NmxzQWpYQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
       "date": "2026-11-18",
       "category": "policy",
@@ -417,7 +458,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NUJ5NFItRU1rQmxabTNZLUo2SGJyUHM5U2lNcU95Z1dwOVg2RXM3eEZzMGxHNjNwYU4zR1RsdFdPTk9VWnNzZ0tSaGpRNkNweUh1VVRlcXpkMGV0UUlBVkx2S1bSAVxBVV95cUxNNXA4MnNici0tVmRCN3A2THExSHFWU2JPXzgtZVFLWmozRDhGbmFwdURwZnVuenF1US1WZzFWR0MtNnpBa25vdGpPME8ybWdCMGFCLVFqeHdMZDRTaw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-20T07:13:34.347Z"
     },
     {
       "id": "auto-2026-11-18-galamsey-fight-stay-the-course-christian-council-urges-gover",
@@ -457,7 +499,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixAFBVV95cUxNdW5saW40ZjcxU0ZWS3RyZHdxM29XcTVkM0JSWmhTbVN4emUxeW1Jd2wwcWlDeEtXbm9vTi1mSGZrcXhCOUF2QWZKUmdXUGl4RmpHZElaZmo2eW1udmpQSnpRdUNSY0FEdXNsMVNvTFNnYUxNT01KSG9PTHRGTFByZnVHLVpRbjhXdzlPemotcmhWbHlRb3dvS2hZZUY3a3Y3cVhIcXlIWEJSM0V5UVpFWkZBZ0JFem00T3g5S2ZuZVVvbEdB?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-20T07:14:01.172Z"
     },
     {
       "id": "auto-2026-11-18-galamsey-fight-naimos-won-t-sacrifice-its-mandate-on-the-alt",
@@ -17847,7 +17890,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QLW5heGw5UTdNcHptbi1pZ2xROHdGSC1ySlJ2X1ZWR2Z3cm5HbFVNQ1ZVdnNpNUZTV2dsSk5zZUk0V1k4TGZCTXpxNmhoZFIxQlh5Qzk1M251NTE0?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
       "id": "auto-2026-10-11-burkina-faso-to-kasoa-on-foot-man-completes-22-day-anti-gala",
