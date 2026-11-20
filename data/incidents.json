@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-20T07:14:07.997Z",
+  "updated": "2026-11-20T20:12:53.364Z",
   "counts": {
-    "total": 1977,
+    "total": 1989,
     "verified": 28,
-    "automated": 1949,
+    "automated": 1961,
     "earliest": "2024-07-01",
     "latest": "2026-11-20"
   },
@@ -27,6 +27,224 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-20T07:08:50.144Z"
+    },
+    {
+      "id": "auto-2026-11-20-galamsey-spillover-from-guinea-crackdown-threatens-ken-ashig",
+      "date": "2026-11-20",
+      "category": "arrest",
+      "title": "Galamsey spillover from Guinea crackdown threatens - Ken Ashigbey warns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey spillover from Guinea crackdown threatens - Ken Ashigbey warns Business & Financial Times",
+      "metrics": {},
+      "source": {
+        "name": "Business & Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUExIZl9mX0NZT1g3X3pYZjl3X0NIZU1NRW9HakVBLU5ZWS1aRG1UeWZ4N1VucTJ3SUw2ZDZNcWpNd1d3SWZMOVp6OEhNS2UxVDhlUm1oLWdqbHJVRjlyTTdGZFFVakV3Y0U3V05RZnVvQXFGY1lPaW11cDZQOFlERG9vX3V3ZjIzcHRJdkhHWVl4elZVNW1GXzhmRW1fenUtY01vUA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxOUExIZl9mX0NZT1g3X3pYZjl3X0NIZU1NRW9HakVBLU5ZWS1aRG1UeWZ4N1VucTJ3SUw2ZDZNcWpNd1d3SWZMOVp6OEhNS2UxVDhlUm1oLWdqbHJVRjlyTTdGZFFVakV3Y0U3V05RZnVvQXFGY1lPaW11cDZQOFlERG9vX3V3ZjIzcHRJdkhHWVl4elZVNW1GXzhmRW1fenUtY01vUA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-11-20-akosua-koranteng-says-government-is-making-efforts-to-combat",
+      "date": "2026-11-20",
+      "category": "policy",
+      "title": "Akosua Koranteng says government is making efforts to combat galamsey #WorldChildrensDay #UNICEF",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Akosua Koranteng says government is making efforts to combat galamsey #WorldChildrensDay #UNICEF Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tZ056X0w5SUVMVzRJV3BpeHlvZE5zZlo2TXpfZHdqWXJfWTNuTlVWZHBSRnBMeVMxNEN2Tk9rb2NiY0cwM0ZuQXVwVVRaRUhqSUt0XzlrcGp3Y1NYN1pCeW9HMXnSAVxBVV95cUxNOTdFY3dHdzJIekVXYmZPLUdOMUdERzdqQW1oa1Z3Y2dUQUtJeHBsUDExdE00S3kyYzYwWC1pSlpyZjM2WTRlczhMd0VNc2s3U2FwNmZWRXN4NURhUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tZ056X0w5SUVMVzRJV3BpeHlvZE5zZlo2TXpfZHdqWXJfWTNuTlVWZHBSRnBMeVMxNEN2Tk9rb2NiY0cwM0ZuQXVwVVRaRUhqSUt0XzlrcGp3Y1NYN1pCeW9HMXnSAVxBVV95cUxNOTdFY3dHdzJIekVXYmZPLUdOMUdERzdqQW1oa1Z3Y2dUQUtJeHBsUDExdE00S3kyYzYwWC1pSlpyZjM2WTRlczhMd0VNc2s3U2FwNmZWRXN4NURhUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-the-rivers-were-clearer-when-i-was-younger-children-question",
+      "date": "2026-11-20",
+      "category": "water",
+      "title": "'The rivers were clearer when I was younger' – Children question government's galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'The rivers were clearer when I was younger' – Children question government's galamsey fight Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdzNNNFdVMjUtUmpyV0RSNTZ3TUN1YkZkZEVqOFRtZFMwWWhhUG81SG9CVktSaXUySEhOM0RTY25WN3FqWjR3OEZsbi12SGh6Yk4zdkRRdTd5cU95NThOLXRyb2XSAVxBVV95cUxQOFF1UjAtVjRtNHdubnlqV1d5c2FOWWhaTWhQMHNiWnhCVzlOSHp4cmNkSUl3VVRsaVEyd2JaOUpOSjdGNF90c3RCSUlQcHBiYXJxMjgzZW5RUlhfZA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdzNNNFdVMjUtUmpyV0RSNTZ3TUN1YkZkZEVqOFRtZFMwWWhhUG81SG9CVktSaXUySEhOM0RTY25WN3FqWjR3OEZsbi12SGh6Yk4zdkRRdTd5cU95NThOLXRyb2XSAVxBVV95cUxQOFF1UjAtVjRtNHdubnlqV1d5c2FOWWhaTWhQMHNiWnhCVzlOSHp4cmNkSUl3VVRsaVEyd2JaOUpOSjdGNF90c3RCSUlQcHBiYXJxMjgzZW5RUlhfZA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
+    },
+    {
+      "id": "auto-2026-11-20-galamsey-fight-catholic-bishops-lands-ministry-clash-over-go",
+      "date": "2026-11-20",
+      "category": "policy",
+      "title": "Galamsey Fight: Catholic Bishops & Lands Ministry Clash Over Government Strategy",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight: Catholic Bishops & Lands Ministry Clash Over Government Strategy Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZUEta2FQOER2ZjR2Vk5KWXFRVEhkaE42QUZCTGhJMGtjQ21wMWhXaWM4Q2h2LXhmT3k4NHlBS0FnOHJBa1l0bk5oRWhtMDJHejMyaXc2SGZhSHdEdUxV0gFcQVVfeXFMT3Fyd0Z1WXdFRHpaelI0RlM2U0xoeENhbEV1UW5NSm1jNS0yR2xhR3ltbmd5aW1CM1N6SXZ2ZVVENWVpeUJINUx5WmRlNkhEczFqc1VXNnRoS1V1bWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZUEta2FQOER2ZjR2Vk5KWXFRVEhkaE42QUZCTGhJMGtjQ21wMWhXaWM4Q2h2LXhmT3k4NHlBS0FnOHJBa1l0bk5oRWhtMDJHejMyaXc2SGZhSHdEdUxV0gFcQVVfeXFMT3Fyd0Z1WXdFRHpaelI0RlM2U0xoeENhbEV1UW5NSm1jNS0yR2xhR3ltbmd5aW1CM1N6SXZ2ZVVENWVpeUJINUx5WmRlNkhEczFqc1VXNnRoS1V1bWc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-ghie-inducts-183-engineers-calls-for-stronger-action-on-gala"
+    },
+    {
+      "id": "auto-2026-11-20-state-of-emergency-is-only-way-to-end-galamsey-ellen-ama-daa",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "State of emergency is only way to end galamsey – Ellen Ama Daaku",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "State of emergency is only way to end galamsey – Ellen Ama Daaku GBC Ghana Online",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana Online",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96UFgxS0pXa18zSDVZNmV5b25OeXd2OXc3MTV1U3VxUTkteW9QaDRscUwzQnd1dmJyWnc0NklFMVMwbkZVbnVjR21nbnRDYlljNG5iVzVJUk1iZno4amZKMVlIbkk4aTFGdXVaUUdoNXhVTkFVT0JTcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMieEFVX3lxTE96UFgxS0pXa18zSDVZNmV5b25OeXd2OXc3MTV1U3VxUTkteW9QaDRscUwzQnd1dmJyWnc0NklFMVMwbkZVbnVjR21nbnRDYlljNG5iVzVJUk1iZno4amZKMVlIbkk4aTFGdXVaUUdoNXhVTkFVT0JTcw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-us-scientists-warn-of-lasting-mercury-pollution-from-galamse",
+      "date": "2026-11-20",
+      "category": "water",
+      "title": "US scientists warn of lasting mercury pollution from galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "US scientists warn of lasting mercury pollution from galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUROZVpRbVcyYTdqNzhZbURhdmtPaGlBRVVkQTNEZjV1NWN2QUQtSkprMTR4N2lDZ2JDZlFVY2ZKeVhrandWbzh1enFpUmRXclNjS19RUGd3TzV2bVpZT2lNRzNHa0xKdmVPOFM4UmY3aE5JM2kxejVjell3cmhtc2otdEx6dW9TaU5wYkpkQnVMbFB0Qlk1ZGd2a2RaQnBY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUROZVpRbVcyYTdqNzhZbURhdmtPaGlBRVVkQTNEZjV1NWN2QUQtSkprMTR4N2lDZ2JDZlFVY2ZKeVhrandWbzh1enFpUmRXclNjS19RUGd3TzV2bVpZT2lNRzNHa0xKdmVPOFM4UmY3aE5JM2kxejVjell3cmhtc2otdEx6dW9TaU5wYkpkQnVMbFB0Qlk1ZGd2a2RaQnBY?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-each-blood-will-be-accounted-for-ayew-afriye-on-seven-deaths",
+      "date": "2026-11-20",
+      "category": "arrest",
+      "title": "'Each blood will be accounted for'- Ayew Afriye on seven deaths in anti-galamsey operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Each blood will be accounted for'- Ayew Afriye on seven deaths in anti-galamsey operation GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcDRDOTdRazJwam9QQVBQM1VZLTFWdzA4YlpOZW44aENCVzhLWXRETGV1VHZTQWRnYzVXUzlaakJTQXRFclFPTG1zWUtrelg3VjVmZ3Qtbm9vWEJWNDNkeTktMzhHVzZvcmpNM0lkc291eThfTkdWc1dLN2t6VXV3aGpObndNdm83THg5Y3JGSTJhbjg1SjFjcC02eDVtcTVRakNodmFneWQ1cVZjeTlFeXNselA1anJZNlk2clM0T0U1cFNUZmx6dVhmZVlnM2g0ZVhfdU0wcXRzYzVTVF9n?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcDRDOTdRazJwam9QQVBQM1VZLTFWdzA4YlpOZW44aENCVzhLWXRETGV1VHZTQWRnYzVXUzlaakJTQXRFclFPTG1zWUtrelg3VjVmZ3Qtbm9vWEJWNDNkeTktMzhHVzZvcmpNM0lkc291eThfTkdWc1dLN2t6VXV3aGpObndNdm83THg5Y3JGSTJhbjg1SjFjcC02eDVtcTVRakNodmFneWQ1cVZjeTlFeXNselA1anJZNlk2clM0T0U1cFNUZmx6dVhmZVlnM2g0ZVhfdU0wcXRzYzVTVF9n?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-fighting-illegal-mining-13-arrested-for-allegedly-extorting-",
+      "date": "2026-11-20",
+      "category": "arrest",
+      "title": "Fighting Illegal Mining: 13 arrested for allegedly extorting miners in Eastern and Western Regions",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Fighting Illegal Mining: 13 arrested for allegedly extorting miners in Eastern and Western Regions Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUmNSNzRMaGlIR01ILVZrQ0FtdEl1MnpaSDVtUkdKMGg3aXJwSGczSTJwZEllRHBFQjY5S0t0SnBJcVdEb3JGQnhsdEFWSWFYMHAxQkp4YlFhV2RucVNrRkphdXbSAVxBVV95cUxOSlEyd0Zxbl9XeV9oTkpUSVFIZU54R2w4ZEI1d1lpNG5fN0w0aG51REFuWUJwT2pzay00WVhzbHRPd0tMUHhCcUdSNFc0NnhZcWZSYW1yMXV5X0ZJVA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUmNSNzRMaGlIR01ILVZrQ0FtdEl1MnpaSDVtUkdKMGg3aXJwSGczSTJwZEllRHBFQjY5S0t0SnBJcVdEb3JGQnhsdEFWSWFYMHAxQkp4YlFhV2RucVNrRkphdXbSAVxBVV95cUxOSlEyd0Zxbl9XeV9oTkpUSVFIZU54R2w4ZEI1d1lpNG5fN0w0aG51REFuWUJwT2pzay00WVhzbHRPd0tMUHhCcUdSNFc0NnhZcWZSYW1yMXV5X0ZJVA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+    },
+    {
+      "id": "auto-2026-11-20-army-reclaims-50-hectares-of-degraded-tano-nimiri-forest-res",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Army reclaims 50 hectares of degraded Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Army reclaims 50 hectares of degraded Tano-Nimiri Forest Reserve Ghanaian Times",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNajVBcEplT19CQW1UbGZrMGxNc1FiVUJUWGpvRzVhT0x0WjFnazlUTGJZRlRIdklpbDc5VzFhX2NzWmRrN1VyOGJDTW52NVVWNEhvYTU1WkZlZ0dfcTktV3BTVlZab2FtbjZiZ2dJQTJOUFMzZTVDTVo3RWtaS1k3aWY4S2R5YnpTXzM0djNzSkJENjc4bXY2dTlB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimgFBVV95cUxNajVBcEplT19CQW1UbGZrMGxNc1FiVUJUWGpvRzVhT0x0WjFnazlUTGJZRlRIdklpbDc5VzFhX2NzWmRrN1VyOGJDTW52NVVWNEhvYTU1WkZlZ0dfcTktV3BTVlZab2FtbjZiZ2dJQTJOUFMzZTVDTVo3RWtaS1k3aWY4S2R5YnpTXzM0djNzSkJENjc4bXY2dTlB?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-land-restoration-gaf-hands-over-50-hectares-of-reclaimed-tan",
+      "date": "2026-11-20",
+      "category": "reclamation",
+      "title": "Land Restoration: GAF hands over 50 hectares of reclaimed Tano Nimri Forest Reserve to GoldBod",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Land Restoration: GAF hands over 50 hectares of reclaimed Tano Nimri Forest Reserve to GoldBod Modern Ghana",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YNVpkS0EzZVpvTmxvOEpvejB4Z1l3V0c1ZERfTkx0dk0wQ1VqamNQMmJRZXFUdURaTkRCYWR6V0IxTDctbVdmM0JKN2QyMEFsaDRrZFFFWlhZMnVxZVpfUmxRTXjSAVxBVV95cUxPUjYtdzJpamlGU3pIYzlkZmNRbm5CZTczTEkzZ21BMkJXRVl2OG5ib2kxRUZzTlk4emMtU1VDaU8wSWNRNUVzX0VnVjhUVHhLTmtNMGJNdFVpWG5iTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YNVpkS0EzZVpvTmxvOEpvejB4Z1l3V0c1ZERfTkx0dk0wQ1VqamNQMmJRZXFUdURaTkRCYWR6V0IxTDctbVdmM0JKN2QyMEFsaDRrZFFFWlhZMnVxZVpfUmxRTXjSAVxBVV95cUxPUjYtdzJpamlGU3pIYzlkZmNRbm5CZTczTEkzZ21BMkJXRVl2OG5ib2kxRUZzTlk4emMtU1VDaU8wSWNRNUVzX0VnVjhUVHhLTmtNMGJNdFVpWG5iTA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-20-mahama-vows-to-protect-oti-region-from-illegal-mining-amid-i",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Mahama vows to protect Oti Region from illegal mining amid iron ore and nickel discoveries",
+      "place": "Oti Region",
+      "region": "Oti",
+      "lat": 8.07,
+      "lon": 0.18,
+      "summary": "President John Mahama says the discovery of iron ore and nickel deposits in the Oti Region presents a potential source of prosperity and job creation, but insists any decision to mine the resources must be done in a way that benefits the people of the area without destroying its serene environment.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-19-ashigbey-urges-state-of-emergency-in-galamsey-areas-and-a-pr",
@@ -356,6 +574,26 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MZy1kcXQwRVVYV05jelYzekpldXlKY3M5a2JXMkJnTk9Hekh4Sy02enV6aGkyVjhUa203NmxzQWpYQQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-19-anti-galamsey-mandate-not-a-license-to-kill-manso-adubia-npp",
+      "date": "2026-11-19",
+      "category": "policy",
+      "title": "'Anti galamsey mandate not a license to kill'- Manso Adubia NPP demands full probe",
+      "place": "Manso Adubia",
+      "region": "Ashanti",
+      "lat": 6.15,
+      "lon": -1.98,
+      "summary": "'Anti galamsey mandate not a license to kill'- Manso Adubia NPP demands full probe GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1BPTGtSZ1BkSjl2SFRwS3pjcjEtNW9hOFp1Vk81R2hBTWtSVVdOT1YwSUgyRTdyemxyekFoemt0N1otaEpaa29tNUJfS0lDWGstdlZ3Vlg4S2RCb1BBTTNTTkNXVFhlVmxMVmlINVdLbG9ydUNYenN0VkxkSHpqZGE3N1BzNENLSWNRNmpUaUVsZVlzczlnZzRXOFVCR251bUZkNDBJMGg1SEdFVktYN3JmRUF1dmZKNjZ3RWFHeTV4U0swNFlIWkM2YTJlTXRq?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1BPTGtSZ1BkSjl2SFRwS3pjcjEtNW9hOFp1Vk81R2hBTWtSVVdOT1YwSUgyRTdyemxyekFoemt0N1otaEpaa29tNUJfS0lDWGstdlZ3Vlg4S2RCb1BBTTNTTkNXVFhlVmxMVmlINVdLbG9ydUNYenN0VkxkSHpqZGE3N1BzNENLSWNRNmpUaUVsZVlzczlnZzRXOFVCR251bUZkNDBJMGg1SEdFVktYN3JmRUF1dmZKNjZ3RWFHeTV4U0swNFlIWkM2YTJlTXRq?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
