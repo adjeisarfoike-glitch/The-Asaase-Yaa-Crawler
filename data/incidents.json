@@ -1,13 +1,32 @@
 {
-  "updated": "2026-11-20T20:12:53.364Z",
+  "updated": "2026-11-21T07:04:35.231Z",
   "counts": {
-    "total": 1989,
+    "total": 1995,
     "verified": 28,
-    "automated": 1961,
+    "automated": 1967,
     "earliest": "2024-07-01",
-    "latest": "2026-11-20"
+    "latest": "2026-11-21"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-21-naimos-denies-withdrawal-from-ashanti-says-anti-galamsey-ope",
+      "date": "2026-11-21",
+      "category": "forest",
+      "title": "NAIMOS denies withdrawal from Ashanti, says anti-galamsey operations ongoing",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NAIMOS denies withdrawal from Ashanti, says anti-galamsey operations ongoing Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmdnMTJDb2VXSzByYkNTbGpoVjBES3dKQkJvVThxVnRyRTlPeTJURERlNVNlOXhGZUwzb2ZZNHhsUkN2YXdJX0xpdF9Ubk1CWWEtU01YWWprVzVLeGpfZHhYS1dtNF90WXE3Qjl6UV9hcVZTYndYY1FVSUFxcktEVlRjOGpQQWJYdWpUNEc3dFlabGt1WEtVMFdib2ZQVGJUU0E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmdnMTJDb2VXSzByYkNTbGpoVjBES3dKQkJvVThxVnRyRTlPeTJURERlNVNlOXhGZUwzb2ZZNHhsUkN2YXdJX0xpdF9Ubk1CWWEtU01YWWprVzVLeGpfZHhYS1dtNF90WXE3Qjl6UV9hcVZTYndYY1FVSUFxcktEVlRjOGpQQWJYdWpUNEc3dFlabGt1WEtVMFdib2ZQVGJUU0E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-11-20-galamsey-fight-minerals-commission-flags-logistics-gaps",
       "date": "2026-11-20",
@@ -243,6 +262,86 @@
         "url": "https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/mahama-vows-to-protect-oti-region-from-illegal-mining-amid-iron-ore-and-nickel-discoveries/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-claims-that-naimos-has-withdrawn-galamsey-operations-in-asha",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Claims that NAIMOS has withdrawn galamsey operations in Ashanti Region are false – Spokesperson",
+      "place": "Ashanti Region",
+      "region": "Ashanti",
+      "lat": 6.69,
+      "lon": -1.62,
+      "summary": "Claims that NAIMOS has withdrawn galamsey operations in Ashanti Region are false – Spokesperson 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2RlMEctSjloMEVqdEhoLTJ2cUZhcmRfZ0J1RTZlMWZUUFh1eWFRakgtZGdzY2NNM2gzeWVnY2Q3ZjlhdElCSTU2UnA5WXc0VGRhb2hMZmcteDkyN3FGYlYzYURPSWhiUkVjYUpiQlBRaXpxTGozV1V2Tkx1QTZhTktOc2xCb0xzT3NuSlloMk9kRjVNR3JxcWl5UkdYdl9oTk5NSXdMN04tLURueG5VejZDOFpGZXc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2RlMEctSjloMEVqdEhoLTJ2cUZhcmRfZ0J1RTZlMWZUUFh1eWFRakgtZGdzY2NNM2gzeWVnY2Q3ZjlhdElCSTU2UnA5WXc0VGRhb2hMZmcteDkyN3FGYlYzYURPSWhiUkVjYUpiQlBRaXpxTGozV1V2Tkx1QTZhTktOc2xCb0xzT3NuSlloMk9kRjVNR3JxcWl5UkdYdl9oTk5NSXdMN04tLURueG5VejZDOFpGZXc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
+    {
+      "id": "auto-2026-11-20-lands-ministry-answers-catholic-bishops-on-galamsey-14-coope",
+      "date": "2026-11-20",
+      "category": "policy",
+      "title": "Lands Ministry answers Catholic bishops on galamsey: 14 cooperatives and the Gold Board",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Lands Ministry answers Catholic bishops on galamsey: 14 cooperatives and the Gold Board 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTFObDg1cEJlb2FndDR0THVfcmNRQVdsd1N2OHEyR1RWLUg5Z1pwQVFINE5FZndCdUliTFNYMWRtQ2RuZFdJY1ZHUXhXWXE3Y2pPN05PbHVkZy1hVGxnZjB1Nk4zTjB5ZmQxTHloVlNrWWRmWXF2VFNDZTNpWFowVTlONDFjR3RLUC1pWTdsTnhuOUkxSVpfNi1wVXpuZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMingFBVV95cUxORTFObDg1cEJlb2FndDR0THVfcmNRQVdsd1N2OHEyR1RWLUg5Z1pwQVFINE5FZndCdUliTFNYMWRtQ2RuZFdJY1ZHUXhXWXE3Y2pPN05PbHVkZy1hVGxnZjB1Nk4zTjB5ZmQxTHloVlNrWWRmWXF2VFNDZTNpWFowVTlONDFjR3RLUC1pWTdsTnhuOUkxSVpfNi1wVXpuZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-military-hands-over-50-hectares-of-reclaimed-tano-nimri-fore",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Military hands over 50 hectares of reclaimed Tano Nimri Forest Reserve to GoldBod | The Pulse",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Military hands over 50 hectares of reclaimed Tano Nimri Forest Reserve to GoldBod | The Pulse Modern Ghana",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mZU1jQWR2VDJ3SklXV3g1UVZ5WkFUWW90NHlPUFM0aHZMY1I2OUMwWnVrbHNka3JfeU9VTjFEelM2VjdscTVYUWJvSmlIMUlHX3BZdVRCR0xWWHc5YUllYVBzN2zSAVxBVV95cUxPN2NBZllBYUY2REtxNi04U3F0S1RjM0lNRFoxWk1PRk13N1J3dGlxbTNyb0tMY2FIcTNwQWhMaEVUdWVXOVMwYlAyZHpfR21OazBiSlBydE5LNURiQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mZU1jQWR2VDJ3SklXV3g1UVZ5WkFUWW90NHlPUFM0aHZMY1I2OUMwWnVrbHNka3JfeU9VTjFEelM2VjdscTVYUWJvSmlIMUlHX3BZdVRCR0xWWHc5YUllYVBzN2zSAVxBVV95cUxPN2NBZllBYUY2REtxNi04U3F0S1RjM0lNRFoxWk1PRk13N1J3dGlxbTNyb0tMY2FIcTNwQWhMaEVUdWVXOVMwYlAyZHpfR21OazBiSlBydE5LNURiQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-20-naimos-developing-mechanism-to-expose-impersonators-and-exto",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "NAIMOS developing mechanism to expose impersonators and extortionist",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The National Anti-Illegal Mining Operations Secretariat (NAIMOS) is developing a stricter security and identification system to help the public distinguish its authorised officers from impostors allegedly extorting money from miners.",
+      "metrics": {},
+      "source": {
+        "name": "Spokesperson",
+        "url": "https://3news.com/news/naimos-developing-mechanism-to-expose-impersonators-and-extortionist-spokesperson"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-developing-mechanism-to-expose-impersonators-and-extortionist-spokesperson",
       "via": "rss",
       "verified": false
     },
@@ -1502,6 +1601,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-11-16-declare-state-of-emergency-in-worst-affected-galamsey-areas-"
+    },
+    {
+      "id": "auto-2026-11-17-four-arrested-for-allegedly-impersonating-naimos-extorting-m",
+      "date": "2026-11-17",
+      "category": "arrest",
+      "title": "Four arrested for allegedly impersonating NAIMOS, extorting miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Four arrested for allegedly impersonating NAIMOS, extorting miners Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjNMbDVfNHNzcklia3l3Uk9DYi1mMXNQOGpjTElNdWtUeTBfSVBQeGYwTEZRWXh1R0VTdzZEOGFNSHkwcGNtbUpITWdEd0FseExBNjNaQ2trQkJLeUVKdjNUb1JoSERuTWxWemRQSXZpeWQ0a09kdlBVemF0WWlEWkRuSkM3ZHV1aElpdXk3ODFua3Vy?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjNMbDVfNHNzcklia3l3Uk9DYi1mMXNQOGpjTElNdWtUeTBfSVBQeGYwTEZRWXh1R0VTdzZEOGFNSHkwcGNtbUpITWdEd0FseExBNjNaQ2trQkJLeUVKdjNUb1JoSERuTWxWemRQSXZpeWQ0a09kdlBVemF0WWlEWkRuSkM3ZHV1aElpdXk3ODFua3Vy?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-16-miracles-aboagye-makes-explosive-galamsey-allegations-agains",
