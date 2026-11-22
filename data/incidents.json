@@ -1,13 +1,131 @@
 {
-  "updated": "2026-11-22T06:46:13.244Z",
+  "updated": "2026-11-22T19:38:28.310Z",
   "counts": {
-    "total": 2005,
+    "total": 2015,
     "verified": 28,
-    "automated": 1977,
+    "automated": 1987,
     "earliest": "2024-07-01",
-    "latest": "2026-11-21"
+    "latest": "2026-11-22"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen",
+      "date": "2026-11-22",
+      "category": "policy",
+      "title": "Political will needed to end galamsey – Asebu Omanhen",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Political will needed to end galamsey – Asebu Omanhen Ghana News Agency",
+      "metrics": {},
+      "source": {
+        "name": "Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUxGUURTdXZTNm1UNm9NMDhtUERNOTRDUzA1M2F5UmhzZW93LXNxclBpSldjck1COWFlVG4xd1h4WThSTzFxcjJkUm5FbG04SmN2aHpsdVpJZnNLQ2tMaTFzV2RvSnRVeXVxb3JXYmdOSVRGLXEtRjNHb2s4YVVCbDBZRllnZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUxGUURTdXZTNm1UNm9NMDhtUERNOTRDUzA1M2F5UmhzZW93LXNxclBpSldjck1COWFlVG4xd1h4WThSTzFxcjJkUm5FbG04SmN2aHpsdVpJZnNLQ2tMaTFzV2RvSnRVeXVxb3JXYmdOSVRGLXEtRjNHb2s4YVVCbDBZRllnZw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-22-galamsey-pollution-keeps-kyebi-water-treatment-plant-shut-fo",
+      "date": "2026-11-22",
+      "category": "water",
+      "title": "Galamsey pollution keeps Kyebi water treatment plant shut for over a year",
+      "place": "Kyebi",
+      "region": "Eastern",
+      "lat": 6.17,
+      "lon": -0.55,
+      "summary": "Galamsey pollution keeps Kyebi water treatment plant shut for over a year Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGRQZjZreVRMOWdub1dFVkZHdnUzUW1kUmgwV2VwLWlRYUZXMzdHU0ZsUS11ZTQySl9jTkdOWTB6RUh0SEZFaXlCYkR1MndWVGVaMnpnR2dFbWt6VnM4Z1JsclpLRlhLWWwxMnZUT0ZQVVIyeURvUGlMd05sWGt6bGg0aDVyUkRQSHBYSlM2WVQ1MGFHSVNR0gGWAUFVX3lxTE5sVTRLVm5ZRXZ2UDhwUlVnd29ORk04MXliTHQ5d2dNNE5NaDRBeWhFNEcySTVkbEJ1bllDTU5TckZBNGVmS3B4dUNjZkVxQW93T01aU2lEZTlleG1RTWZOVkxENDYwaHFMeE1aR2ZyQkZVZzczQWhId0RVaHBHWXB4aWZoU3RSZWo2UjdDSTdPcVI2QWItUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGRQZjZreVRMOWdub1dFVkZHdnUzUW1kUmgwV2VwLWlRYUZXMzdHU0ZsUS11ZTQySl9jTkdOWTB6RUh0SEZFaXlCYkR1MndWVGVaMnpnR2dFbWt6VnM4Z1JsclpLRlhLWWwxMnZUT0ZQVVIyeURvUGlMd05sWGt6bGg0aDVyUkRQSHBYSlM2WVQ1MGFHSVNR0gGWAUFVX3lxTE5sVTRLVm5ZRXZ2UDhwUlVnd29ORk04MXliTHQ5d2dNNE5NaDRBeWhFNEcySTVkbEJ1bllDTU5TckZBNGVmS3B4dUNjZkVxQW93T01aU2lEZTlleG1RTWZOVkxENDYwaHFMeE1aR2ZyQkZVZzczQWhId0RVaHBHWXB4aWZoU3RSZWo2UjdDSTdPcVI2QWItUQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-22-galamsey-crisis-deserves-more-attention-than-mahama-s-new-je",
+      "date": "2026-11-22",
+      "category": "forest",
+      "title": "Galamsey crisis deserves more attention than Mahama’s new jet – Kwame Jantuah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey crisis deserves more attention than Mahama’s new jet – Kwame Jantuah Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1owRXQ0a3NCcFBIY05OcFhOUVVoOTNvWUFDNENwRjhoZzAzeWp4aTJJV1Mzc2VEajZuRHpVWElQNldTeU9DaGFyUkdnQS1SUHRHTjVZcFFIQms2Z0t0TDZhYklFdXkteTdwMEw2VmlZQVd5M1RsNlFSVmctTGVJd1hpWjJxN0dmYnlqdDlsa1lTb1ZwR3B3T2NwaFAtV0Fw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1owRXQ0a3NCcFBIY05OcFhOUVVoOTNvWUFDNENwRjhoZzAzeWp4aTJJV1Mzc2VEajZuRHpVWElQNldTeU9DaGFyUkdnQS1SUHRHTjVZcFFIQms2Z0t0TDZhYklFdXkteTdwMEw2VmlZQVd5M1RsNlFSVmctTGVJd1hpWjJxN0dmYnlqdDlsa1lTb1ZwR3B3T2NwaFAtV0Fw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
+    },
+    {
+      "id": "auto-2026-11-22-70-local-gold-refining-by-2027-clgb-highlights-key-enablers",
+      "date": "2026-11-22",
+      "category": "policy",
+      "title": "70% Local gold refining by 2027 : CLGB highlights key enablers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Chamber of Licensed Gold Buyers (CLGB) has underscored the importance of strategic investment in infrastructure, financing and sector formalisation to support Ghana’s ambition of refining 70 per cent of artisanal and small-scale mining (ASM) gold locally by December 2027. In its policy position on the 2027 Budget, the Chamber welcomed the Government’s strategic direction to transition Ghana from the export of raw",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/70-local-gold-refining-by-2027-clgb-highlights-key-enablers/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/70-local-gold-refining-by-2027-clgb-highlights-key-enablers/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
+    },
+    {
+      "id": "auto-2026-11-22-illegal-mining-destructive-fishing-threaten-inland-fisheries",
+      "date": "2026-11-22",
+      "category": "forest",
+      "title": "Illegal mining, destructive fishing threaten inland fisheries – Vice President",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Vice-President Professor Naana Jane Opoku-Agyemang has called for urgent action to protect Ghana's inland fisheries, warning that illegal mining, destructive fishing practices and climate change are placing increasing pressure on the country's aquatic resources and the livelihoods they support.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/illegal-mining-destructive-fishing-threaten-inland-fisheries-vice-president/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/illegal-mining-destructive-fishing-threaten-inland-fisheries-vice-president/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-22-benumase-chief-appeals-to-gov-t-to-reinstate-northern-ashant",
+      "date": "2026-11-22",
+      "category": "policy",
+      "title": "Benumase chief appeals to gov’t to reinstate Northern Ashanti Mines amid galamsey concerns",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The traditional ruler of Benumase, Nana Fosu Gyeabour, has appealed to the government to reconsider the termination of Northern Ashanti Mines’ mining lease, citing concerns over the resurgence of illegal mining activities in the area. He warned that the reported return of illegal mining activities to parts of the concession was threatening environmental sustainability, community […]",
+      "metrics": {},
+      "source": {
+        "name": "Adom Online",
+        "url": "https://www.adomonline.com/benumase-chief-appeals-to-govt-to-reinstate-northern-ashanti-mines-amid-galamsey-concerns/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/benumase-chief-appeals-to-govt-to-reinstate-northern-ashanti-mines-amid-galamsey-concerns/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
     {
       "id": "auto-2026-11-21-naimos-denies-withdrawal-from-ashanti-says-anti-galamsey-ope",
       "date": "2026-11-21",
@@ -186,7 +304,48 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjNfMUJTWnRDbTVLcWIzVmRkdW5lWGFrNVlQRWc3NW5vZllzV0UtTVlCeGJrV0pQZW1uNVczMWdJcjh5SmVOS01VMUZrVkIwU0drNDVIUjh2SnJhQmxHeUlIWE1hN0J5X0tNRWNURE1ZTVJycDdYYVk1SW9tazRKMjhuZUhJWGV2TVl2WGduaVoyUjhJc0x0SWljSlZtNXpvZExmaHhRZTV1ejhHR09TeG9jQXdoenlFVU5vQkhfQ3pmZ1ZwU2VaNnUxLTh3NUFNbDlsZ3pTbEs?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala"
+    },
+    {
+      "id": "auto-2026-11-21-christian-council-urges-churches-to-intensify-fight-against-",
+      "date": "2026-11-21",
+      "category": "forest",
+      "title": "Christian Council urges churches to intensify fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Christian Council urges churches to intensify fight against galamsey CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTRHZm1ZXzdFcndURkpOcFh4SDk5MjNtbmtzejFkOC1JMkNreUtwaTEtc0k4Sk4xSmVyMnJvVmtUNjZ2TGJCb0hCcDh1ckxDWkNPRGxESU5FNkdZT0lkQnU1LUc0WWpKeWt4X2pJZVdTUFBsUENlZ1BXU21pV3dldENVMzFJRko3V2FhZHNPYjJrNXVoN3BFTFY5Z295ZWlmUG9XaGJadVpXZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTRHZm1ZXzdFcndURkpOcFh4SDk5MjNtbmtzejFkOC1JMkNreUtwaTEtc0k4Sk4xSmVyMnJvVmtUNjZ2TGJCb0hCcDh1ckxDWkNPRGxESU5FNkdZT0lkQnU1LUc0WWpKeWt4X2pJZVdTUFBsUENlZ1BXU21pV3dldENVMzFJRko3V2FhZHNPYjJrNXVoN3BFTFY5Z295ZWlmUG9XaGJadVpXZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-04-christian-council-urges-ayariga-to-step-up-fight-against-gal"
+    },
+    {
+      "id": "auto-2026-11-21-umat-must-lead-ghana-s-fight-against-galamsey-with-research-",
+      "date": "2026-11-21",
+      "category": "forest",
+      "title": "UMaT must lead Ghana’s fight against galamsey with research and technology – GTEC",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "UMaT must lead Ghana’s fight against galamsey with research and technology – GTEC CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1R4LWNiNG9fdWxRaEFKbzNCbzJTT3FNVHNTRUZZMVJmUWJzeXV4ZjlLc1loeWtsbEFNTzM3YUNTQ01Md0dGZFFCNDFOV3k0aHVLYlhQX1RtMmhYVGVYZDVReEt4NHM4RVl1Wk5fak55cE92TGZCU0hIQjdralpNN29GSlgtbzMtTHo3b3FWXzJVcnJwaFNuQUNQZlZQRW9QWnI2YnQ2N2RCeXpKN3ZRd3NFU1lVdUU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1R4LWNiNG9fdWxRaEFKbzNCbzJTT3FNVHNTRUZZMVJmUWJzeXV4ZjlLc1loeWtsbEFNTzM3YUNTQ01Md0dGZFFCNDFOV3k0aHVLYlhQX1RtMmhYVGVYZDVReEt4NHM4RVl1Wk5fak55cE92TGZCU0hIQjdralpNN29GSlgtbzMtTHo3b3FWXzJVcnJwaFNuQUNQZlZQRW9QWnI2YnQ2N2RCeXpKN3ZRd3NFU1lVdUU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala"
     },
     {
       "id": "auto-2026-11-20-galamsey-fight-minerals-commission-flags-logistics-gaps",
@@ -265,6 +424,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wdzNNNFdVMjUtUmpyV0RSNTZ3TUN1YkZkZEVqOFRtZFMwWWhhUG81SG9CVktSaXUySEhOM0RTY25WN3FqWjR3OEZsbi12SGh6Yk4zdkRRdTd5cU95NThOLXRyb2XSAVxBVV95cUxQOFF1UjAtVjRtNHdubnlqV1d5c2FOWWhaTWhQMHNiWnhCVzlOSHp4cmNkSUl3VVRsaVEyd2JaOUpOSjdGNF90c3RCSUlQcHBiYXJxMjgzZW5RUlhfZA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-22T19:38:21.024Z",
       "thread": "t-auto-2026-08-17-galamsey-fight-military-presence-in-forest-reserves-will-be-"
     },
     {
@@ -507,6 +667,25 @@
         "url": "https://3news.com/news/naimos-developing-mechanism-to-expose-impersonators-and-extortionist-spokesperson"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/naimos-developing-mechanism-to-expose-impersonators-and-extortionist-spokesperson",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-government-must-account-for-each-life-lost-to-the-galamsey-f",
+      "date": "2026-11-20",
+      "category": "policy",
+      "title": "Government must account for each life lost to the galamsey fight – Effiduase Asokore MP",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government must account for each life lost to the galamsey fight – Effiduase Asokore MP MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHlQZEw3dXAyS3ZDZ19xTndKcDZzOTJsZ29pbGduZHVNdjZGSGEtUHFXMDRTVVJVRXVNNW92OTFTTGVkU0tHS1ZtMFRzSTNadU1fWGpqdnBsSEhfQTVQMlExYmFfOUE3T05zY3N1T1NBa2Zic1A0TE5mT2NybFQ3bWt1RGlfZXBBN3puUm5YeEl0bkFxZzk1MWpzVzNhOVA5aHlhaE9FeWh6SU9GUWVjLXdzaDQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHlQZEw3dXAyS3ZDZ19xTndKcDZzOTJsZ29pbGduZHVNdjZGSGEtUHFXMDRTVVJVRXVNNW92OTFTTGVkU0tHS1ZtMFRzSTNadU1fWGpqdnBsSEhfQTVQMlExYmFfOUE3T05zY3N1T1NBa2Zic1A0TE5mT2NybFQ3bWt1RGlfZXBBN3puUm5YeEl0bkFxZzk1MWpzVzNhOVA5aHlhaE9FeWh6SU9GUWVjLXdzaDQ?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -858,6 +1037,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-arr-2026-04-30-mpatasie"
+    },
+    {
+      "id": "auto-2026-11-19-declare-state-of-emergency-in-galamsey-hotspots-catholic-bis",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "Declare state of emergency in galamsey hotspots – Catholic Bishops to Mahama",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Declare state of emergency in galamsey hotspots – Catholic Bishops to Mahama MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWt3QmRwREx6N1BJNlVUeEpGVTdLekhPUzhxWnNXMTZmRGlsUU9jTlRhdFdsNldHTFh2MFRCLTNRQlJkbmhMOW5rMVp6YkdaYk15cVRRMkVzQWZ6ZFhMTjI0YlVSazI4UDY4RTNNUmdyTFJDdVo5bmlTaHNXeWsxZHI4bmhTTmpTYzcxSGFKVXNDd1FTWWJwQXJwZ1FYaEFsVGFFdnhR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWt3QmRwREx6N1BJNlVUeEpGVTdLekhPUzhxWnNXMTZmRGlsUU9jTlRhdFdsNldHTFh2MFRCLTNRQlJkbmhMOW5rMVp6YkdaYk15cVRRMkVzQWZ6ZFhMTjI0YlVSazI4UDY4RTNNUmdyTFJDdVo5bmlTaHNXeWsxZHI4bmhTTmpTYzcxSGFKVXNDd1FTWWJwQXJwZ1FYaEFsVGFFdnhR?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-"
     },
     {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
@@ -5272,8 +5471,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmdOaGxNU3RzcmdDN2NubVRRYkZaQmkySzdCUWRSU3FYbDZHWHd2S0Izd2hkYk16d1JvT3liVzIyQVhlTHA4RUdUa053NGdQRzhXUVF2NjV4TERyWWpoYVJzdDB1RmViODM0Qnk0R0hYbnJ3S0N1WHZiOU1KZVF5N21Fall0bWFLMXY2MUxGSnhlUUNkU09vMmZnWlktR3FqUzUtbXpNbzVUUmFlT1dwUHhjcV9TOThHUTVabTdCSzdBU3psV3dmMg?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-09T06:19:48.214Z",
-      "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+      "archivedAt": "2026-11-09T06:19:48.214Z"
     },
     {
       "id": "auto-2026-11-09-submit-list-of-galamsey-hotspots-in-30-days-lands-minister-d",
