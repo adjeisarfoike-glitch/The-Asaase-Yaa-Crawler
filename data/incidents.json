@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-21T19:17:08.635Z",
+  "updated": "2026-11-22T06:46:13.244Z",
   "counts": {
-    "total": 2001,
+    "total": 2005,
     "verified": 28,
-    "automated": 1973,
+    "automated": 1977,
     "earliest": "2024-07-01",
     "latest": "2026-11-21"
   },
@@ -127,6 +127,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/ahafo-cocoa-farmers-urge-government-to-step-up-fight-against-galamsey/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-22T06:41:18.620Z",
       "thread": "t-auto-2026-08-13-squeezed-by-eu-rules-and-threat-of-illegal-mining-cocoa-farm"
     },
     {
@@ -148,6 +149,44 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-11-14-playback-nnawotwe-yi-tackles-2027-budget-cocaine-busts-naimo"
+    },
+    {
+      "id": "auto-2026-11-21-veep-warns-galamsey-threatens-ghana-s-inland-fisheries-and-f",
+      "date": "2026-11-21",
+      "category": "forest",
+      "title": "Veep warns galamsey threatens Ghana’s inland fisheries and fish safety",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Veep warns galamsey threatens Ghana’s inland fisheries and fish safety Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CbDVOWmR6UEI1S3ZTMFlSTlFnQ1laNU1wbjV6OERoLS1ITEhiaU45S0ZxRlFmaVBYQ0t4MElSY1FNd0JXMEljRXQ1enFjeEZNcGV1dnR5ZVBqTEhsYzFwZnhnTl_SAVxBVV95cUxQd1VkQ0xmTGQtSzRxVWRUa0UxTXRUZlRUNUdmTUUySk1IZExpdHZ5eFdMenpocmhRVFZ2aXVvT2JMNmtSSWNYVUtfOWE5Qjh5SWYyeFpEVkp2UjlxMA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CbDVOWmR6UEI1S3ZTMFlSTlFnQ1laNU1wbjV6OERoLS1ITEhiaU45S0ZxRlFmaVBYQ0t4MElSY1FNd0JXMEljRXQ1enFjeEZNcGV1dnR5ZVBqTEhsYzFwZnhnTl_SAVxBVV95cUxQd1VkQ0xmTGQtSzRxVWRUa0UxTXRUZlRUNUdmTUUySk1IZExpdHZ5eFdMenpocmhRVFZ2aXVvT2JMNmtSSWNYVUtfOWE5Qjh5SWYyeFpEVkp2UjlxMA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala",
+      "date": "2026-11-21",
+      "category": "forest",
+      "title": "GTEC boss challenges UMaT to lead Ghana's fight Against Galamsey through technology and innovation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GTEC boss challenges UMaT to lead Ghana's fight Against Galamsey through technology and innovation 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjNfMUJTWnRDbTVLcWIzVmRkdW5lWGFrNVlQRWc3NW5vZllzV0UtTVlCeGJrV0pQZW1uNVczMWdJcjh5SmVOS01VMUZrVkIwU0drNDVIUjh2SnJhQmxHeUlIWE1hN0J5X0tNRWNURE1ZTVJycDdYYVk1SW9tazRKMjhuZUhJWGV2TVl2WGduaVoyUjhJc0x0SWljSlZtNXpvZExmaHhRZTV1ejhHR09TeG9jQXdoenlFVU5vQkhfQ3pmZ1ZwU2VaNnUxLTh3NUFNbDlsZ3pTbEs?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjNfMUJTWnRDbTVLcWIzVmRkdW5lWGFrNVlQRWc3NW5vZllzV0UtTVlCeGJrV0pQZW1uNVczMWdJcjh5SmVOS01VMUZrVkIwU0drNDVIUjh2SnJhQmxHeUlIWE1hN0J5X0tNRWNURE1ZTVJycDdYYVk1SW9tazRKMjhuZUhJWGV2TVl2WGduaVoyUjhJc0x0SWljSlZtNXpvZExmaHhRZTV1ejhHR09TeG9jQXdoenlFVU5vQkhfQ3pmZ1ZwU2VaNnUxLTh3NUFNbDlsZ3pTbEs?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-20-galamsey-fight-minerals-commission-flags-logistics-gaps",
@@ -8319,6 +8358,25 @@
       "verified": false
     },
     {
+      "id": "auto-2026-11-02-government-convenes-mmdces-to-strengthen-fight-against-illeg",
+      "date": "2026-11-02",
+      "category": "policy",
+      "title": "Government convenes MMDCEs to strengthen fight against illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Government convenes MMDCEs to strengthen fight against illegal mining MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVF1QTVqRURzbDVTUm5qTnVqWXJtTG5veDlRZzNwR0Z3akg1Y2E5VXlWZTRHNlpzRE5hejM4eDl0dG9ZRzlNV0pBaTFDMmxrUmRJblF6YU9pTjJ4VjBCYW42aHV5WGllS29sTkZUTl9FVW1oX2pTUU5VZjdxQnRRSTAzM3lqT2dfdC1iMnhLWTZwSkxRbjQ4ZG5fakdLLTg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVF1QTVqRURzbDVTUm5qTnVqWXJtTG5veDlRZzNwR0Z3akg1Y2E5VXlWZTRHNlpzRE5hejM4eDl0dG9ZRzlNV0pBaTFDMmxrUmRJblF6YU9pTjJ4VjBCYW42aHV5WGllS29sTkZUTl9FVW1oX2pTUU5VZjdxQnRRSTAzM3lqT2dfdC1iMnhLWTZwSkxRbjQ4ZG5fakdLLTg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
       "id": "auto-2026-11-01-river-offin-naimos-raids-6-galamsey-sites-destroys-4-chanfan",
       "date": "2026-11-01",
       "category": "arrest",
@@ -9606,6 +9664,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-18-goldbod-has-plugged-gold-smuggling-leak-and-crowded-in-fx-bo"
+    },
+    {
+      "id": "auto-2026-10-31-sammy-gyamfi-lessons-from-four-countries-on-small-scale-mini",
+      "date": "2026-10-31",
+      "category": "forest",
+      "title": "Sammy Gyamfi: Lessons from four countries on small-scale mining formalisation and Ghana's proposal",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Sammy Gyamfi: Lessons from four countries on small-scale mining formalisation and Ghana's proposal CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSV9qaHhDUVpXUDNfQlBDSjQ0ZGo3T01OWTJnb0IyVlVkVkdEUTBsMVM4YzFqOUtPZ0dFcVFmVE9UVFdJbGJLZG1LRHl3Z0Z5ZDh6NjJEb1VVRzJYWDJOaklXU3FQeEtvZ0k4cmlob0NQeU91MUZWZDBhSFhKNFFkMy1pWXkzWWNBMlJiVVgzTl9XUFdfYURtOG1RVUUtZ3R3UjJhQW9RTllpWjNVNXJSME52dkxKZHlWQlFOMy02eHpfX001endQYnlEcWVZMWc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxPSV9qaHhDUVpXUDNfQlBDSjQ0ZGo3T01OWTJnb0IyVlVkVkdEUTBsMVM4YzFqOUtPZ0dFcVFmVE9UVFdJbGJLZG1LRHl3Z0Z5ZDh6NjJEb1VVRzJYWDJOaklXU3FQeEtvZ0k4cmlob0NQeU91MUZWZDBhSFhKNFFkMy1pWXkzWWNBMlJiVVgzTl9XUFdfYURtOG1RVUUtZ3R3UjJhQW9RTllpWjNVNXJSME52dkxKZHlWQlFOMy02eHpfX001endQYnlEcWVZMWc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-09-duncan-williams-calls-for-prayers-to-heal-ghana-s-land-and-w"
     },
     {
       "id": "auto-2026-10-30-galamsey-naimos-arrests-11-suspected-illegal-miners-in-weste",
@@ -13231,18 +13309,18 @@
       "id": "auto-2026-10-24-goldbod-rejects-claims-sammy-gyamfi-endorsed-illegal-mining-",
       "date": "2026-10-24",
       "category": "forest",
-      "title": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining, announces new support programme for miners",
+      "title": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining; begins consultations on ASM formalisation",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "The Ghana Gold Board (GoldBod) has dismissed claims that its Chief Executive Officer, Sammy Gyamfi, endorsed illegal mining, describing a viral video circulating on social media as selectively edited and misleading.",
+      "summary": "GoldBod rejects claims Sammy Gyamfi endorsed illegal mining; begins consultations on ASM formalisation CediRates",
       "metrics": {},
       "source": {
-        "name": "MyJoyOnline",
-        "url": "https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/"
+        "name": "CediRates",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZU9OdnIza1UtWldMTTFEaWFBR0xpZ0lJQnlvb1NMa192eVNHNi1UVjcwUWVsZi0xUzJuX0haR0x6LWx0LTYtOG1yMjl3aEhtaG5Md3Z0eEZLN29KWENpZWJwSDFlX0E5Z0FNQ0dYTGxQdDY5aHpGeW54Z1BNMklYdFVaWmVPejZSRzh0T1lGdERzMG50eEpHU2IxMlJkdHhaVTRVaC1RQmRsdDB5RTJHVVJaVlI0YmczQTJrOS0zWTFTUjdfY0lj?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/goldbod-dismisses-claims-sammy-gyamfi-endorsed-illegal-mining-clarifies-formalisation-policy/",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMixwFBVV95cUxOZU9OdnIza1UtWldMTTFEaWFBR0xpZ0lJQnlvb1NMa192eVNHNi1UVjcwUWVsZi0xUzJuX0haR0x6LWx0LTYtOG1yMjl3aEhtaG5Md3Z0eEZLN29KWENpZWJwSDFlX0E5Z0FNQ0dYTGxQdDY5aHpGeW54Z1BNMklYdFVaWmVPejZSRzh0T1lGdERzMG50eEpHU2IxMlJkdHhaVTRVaC1RQmRsdDB5RTJHVVJaVlI0YmczQTJrOS0zWTFTUjdfY0lj?oc=5",
       "via": "rss",
       "verified": false
     },
