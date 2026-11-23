@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-23T07:35:21.028Z",
+  "updated": "2026-11-23T23:56:33.587Z",
   "counts": {
-    "total": 2018,
+    "total": 2019,
     "verified": 28,
-    "automated": 1990,
+    "automated": 1991,
     "earliest": "2024-07-01",
     "latest": "2026-11-23"
   },
@@ -50,6 +50,27 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-23T07:30:53.757Z"
+    },
+    {
+      "id": "auto-2026-11-23-miif-exceeds-2026-royalty-target",
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "MIIF exceeds 2026 royalty target",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Minerals Income Investment Fund (MIIF) has exceeded its 2026 mineral royalty mobilisation target of GH¢6.9 billion, recording more than GH¢9 billion, two months before the close of the year. Speaking at a breakaway session on Mining, Minerals and Downstream Value Addition at the Invest Ghana Summit 2026 in Accra, the Chief Executive Officer (CEO) of MIIF, Justina Nelson, said the achievement reflected significant",
+      "metrics": {},
+      "source": {
+        "name": "Collects over GH¢9bn by October",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-miif-exceeds-2026-royalty-target.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-miif-exceeds-2026-royalty-target.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-23T23:50:36.744Z",
+      "thread": "t-auto-2026-09-04-miif-targets-gh-9bn-royalty-collection"
     },
     {
       "id": "auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen",
@@ -150,6 +171,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/illegal-mining-destructive-fishing-threaten-inland-fisheries-vice-president/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T23:51:26.688Z",
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
@@ -331,7 +353,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CbDVOWmR6UEI1S3ZTMFlSTlFnQ1laNU1wbjV6OERoLS1ITEhiaU45S0ZxRlFmaVBYQ0t4MElSY1FNd0JXMEljRXQ1enFjeEZNcGV1dnR5ZVBqTEhsYzFwZnhnTl_SAVxBVV95cUxQd1VkQ0xmTGQtSzRxVWRUa0UxTXRUZlRUNUdmTUUySk1IZExpdHZ5eFdMenpocmhRVFZ2aXVvT2JMNmtSSWNYVUtfOWE5Qjh5SWYyeFpEVkp2UjlxMA?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-23T23:54:00.784Z"
     },
     {
       "id": "auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala",
@@ -351,6 +374,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSjNfMUJTWnRDbTVLcWIzVmRkdW5lWGFrNVlQRWc3NW5vZllzV0UtTVlCeGJrV0pQZW1uNVczMWdJcjh5SmVOS01VMUZrVkIwU0drNDVIUjh2SnJhQmxHeUlIWE1hN0J5X0tNRWNURE1ZTVJycDdYYVk1SW9tazRKMjhuZUhJWGV2TVl2WGduaVoyUjhJc0x0SWljSlZtNXpvZExmaHhRZTV1ejhHR09TeG9jQXdoenlFVU5vQkhfQ3pmZ1ZwU2VaNnUxLTh3NUFNbDlsZ3pTbEs?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T23:54:25.655Z",
       "thread": "t-auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala"
     },
     {
@@ -371,6 +395,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTRHZm1ZXzdFcndURkpOcFh4SDk5MjNtbmtzejFkOC1JMkNreUtwaTEtc0k4Sk4xSmVyMnJvVmtUNjZ2TGJCb0hCcDh1ckxDWkNPRGxESU5FNkdZT0lkQnU1LUc0WWpKeWt4X2pJZVdTUFBsUENlZ1BXU21pV3dldENVMzFJRko3V2FhZHNPYjJrNXVoN3BFTFY5Z295ZWlmUG9XaGJadVpXZw?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T23:54:51.519Z",
       "thread": "t-auto-2026-09-04-christian-council-urges-ayariga-to-step-up-fight-against-gal"
     },
     {
@@ -391,6 +416,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1R4LWNiNG9fdWxRaEFKbzNCbzJTT3FNVHNTRUZZMVJmUWJzeXV4ZjlLc1loeWtsbEFNTzM3YUNTQ01Md0dGZFFCNDFOV3k0aHVLYlhQX1RtMmhYVGVYZDVReEt4NHM4RVl1Wk5fak55cE92TGZCU0hIQjdralpNN29GSlgtbzMtTHo3b3FWXzJVcnJwaFNuQUNQZlZQRW9QWnI2YnQ2N2RCeXpKN3ZRd3NFU1lVdUU?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T23:55:16.364Z",
       "thread": "t-auto-2026-11-21-gtec-boss-challenges-umat-to-lead-ghana-s-fight-against-gala"
     },
     {
@@ -1429,7 +1455,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/wontumis-lawyer-to-appeal-high-courts-refusal-to-release-prosecution-deal-with-key-witness/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-11-18-wontumi-loses-application-seeking-details-of-former-manager-",
@@ -3750,7 +3776,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-13T06:38:56.913Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-11-13-us-officials-and-experts-demand-galamsey-crackdown-as-ghana-",
@@ -16550,7 +16576,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -17277,7 +17303,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -18601,7 +18627,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
