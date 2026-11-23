@@ -1,13 +1,56 @@
 {
-  "updated": "2026-11-22T19:38:28.310Z",
+  "updated": "2026-11-23T07:35:21.028Z",
   "counts": {
-    "total": 2015,
+    "total": 2018,
     "verified": 28,
-    "automated": 1987,
+    "automated": 1990,
     "earliest": "2024-07-01",
-    "latest": "2026-11-22"
+    "latest": "2026-11-23"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-23-strong-political-will-needed-to-end-galamsey-asebu-omanhen",
+      "date": "2026-11-23",
+      "category": "policy",
+      "title": "Strong political will needed to end galamsey – Asebu Omanhen",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Strong political will needed to end galamsey – Asebu Omanhen Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjIxcE1hQ3dieGlmZEs2V2RNUGRjZWZWNk9mekJMTERTR29ocVVScUFlU0JnMm9Cb2QwOVVzVkF6dkpoT1F0YVd3blZ1RzhvMW85VEoyOW9qS2hCZkVLQkZxY0NvclN1SlBUaUpTR01CWEdtcjlhRkdlSVFOQkVxTHJGMXZlN3BtSUN5MUpMSVJvaXk50gGTAUFVX3lxTE9wb3V1dVJJc2NBazc2Z0ltU09QT2RXQkY4amdvZEVYbkJFNEJBeXlZVlgyLXg4Wmw0N1pxMEtqSFJQQTk0XzE2TnI1RnR3NUswSW50SVFsSFNZenIzRzFmRWp2RmhreXl3OHNaU1NRdkNLc2hfc0VjM3pJdlUzT1o5bWZUYkFJVnNlN0ZpOGtUeE9QZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjIxcE1hQ3dieGlmZEs2V2RNUGRjZWZWNk9mekJMTERTR29ocVVScUFlU0JnMm9Cb2QwOVVzVkF6dkpoT1F0YVd3blZ1RzhvMW85VEoyOW9qS2hCZkVLQkZxY0NvclN1SlBUaUpTR01CWEdtcjlhRkdlSVFOQkVxTHJGMXZlN3BtSUN5MUpMSVJvaXk50gGTAUFVX3lxTE9wb3V1dVJJc2NBazc2Z0ltU09QT2RXQkY4amdvZEVYbkJFNEJBeXlZVlgyLXg4Wmw0N1pxMEtqSFJQQTk0XzE2TnI1RnR3NUswSW50SVFsSFNZenIzRzFmRWp2RmhreXl3OHNaU1NRdkNLc2hfc0VjM3pJdlUzT1o5bWZUYkFJVnNlN0ZpOGtUeE9QZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-23T07:30:29.043Z",
+      "thread": "t-auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen"
+    },
+    {
+      "id": "auto-2026-11-23-soldiers-reclaim-50-hectares-of-galamsey-degraded-tano-nimir",
+      "date": "2026-11-23",
+      "category": "forest",
+      "title": "Soldiers reclaim 50 hectares of galamsey-degraded Tano-Nimiri Forest Reserve",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Soldiers reclaim 50 hectares of galamsey-degraded Tano-Nimiri Forest Reserve Modern Ghana",
+      "metrics": {
+        "hectares": 50
+      },
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHFPX1FrdklHbmxEMnJaZXJMS2l0Tk5nZDJwQkJVQWZicWludG9IN2FJWmtuR1FmQVFYYUZEcjdWdzczSGQtdms1ajV1eDFuZEJVSUpHaDMxdEpaZkF3UG1UU0U1M1NxSnF5enNZSkJKY1VYSmlrLVh2dkNTMU0tTmFkTmF4N0JVYTA5WnJma3U1VEhNSnVrQUpYTdIBmgFBVV95cUxORG9PTmlLWXh2TUttNEg5QVJSM2ZMc19GSFJFZFZCck1WeDhxam45anlqY2NrV1VqM3k3NWl4X25wbGtfZzl6aHU5ZWhOc0hxYVZGNV9iemF5aDhrdnZza3QxNTE2Ul8xR29TVWdrTmdmRkdlajhfQ2hTSHhhWHViNWs0RTRyT3FwWWlTX3o3bWFPWEw0RnBQeTRB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHFPX1FrdklHbmxEMnJaZXJMS2l0Tk5nZDJwQkJVQWZicWludG9IN2FJWmtuR1FmQVFYYUZEcjdWdzczSGQtdms1ajV1eDFuZEJVSUpHaDMxdEpaZkF3UG1UU0U1M1NxSnF5enNZSkJKY1VYSmlrLVh2dkNTMU0tTmFkTmF4N0JVYTA5WnJma3U1VEhNSnVrQUpYTdIBmgFBVV95cUxORG9PTmlLWXh2TUttNEg5QVJSM2ZMc19GSFJFZFZCck1WeDhxam45anlqY2NrV1VqM3k3NWl4X25wbGtfZzl6aHU5ZWhOc0hxYVZGNV9iemF5aDhrdnZza3QxNTE2Ul8xR29TVWdrTmdmRkdlajhfQ2hTSHhhWHViNWs0RTRyT3FwWWlTX3o3bWFPWEw0RnBQeTRB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-23T07:30:53.757Z"
+    },
     {
       "id": "auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen",
       "date": "2026-11-22",
@@ -25,7 +68,9 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUxGUURTdXZTNm1UNm9NMDhtUERNOTRDUzA1M2F5UmhzZW93LXNxclBpSldjck1COWFlVG4xd1h4WThSTzFxcjJkUm5FbG04SmN2aHpsdVpJZnNLQ2tMaTFzV2RvSnRVeXVxb3JXYmdOSVRGLXEtRjNHb2s4YVVCbDBZRllnZw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-23T07:31:06.639Z",
+      "thread": "t-auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen"
     },
     {
       "id": "auto-2026-11-22-galamsey-pollution-keeps-kyebi-water-treatment-plant-shut-fo",
@@ -84,6 +129,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/70-local-gold-refining-by-2027-clgb-highlights-key-enablers/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T07:32:02.853Z",
       "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
@@ -385,6 +431,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxOUExIZl9mX0NZT1g3X3pYZjl3X0NIZU1NRW9HakVBLU5ZWS1aRG1UeWZ4N1VucTJ3SUw2ZDZNcWpNd1d3SWZMOVp6OEhNS2UxVDhlUm1oLWdqbHJVRjlyTTdGZFFVakV3Y0U3V05RZnVvQXFGY1lPaW11cDZQOFlERG9vX3V3ZjIzcHRJdkhHWVl4elZVNW1GXzhmRW1fenUtY01vUA?oc=5",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-23T07:35:14.077Z",
       "thread": "t-arr-2026-04-30-mpatasie"
     },
     {
@@ -688,6 +735,28 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHlQZEw3dXAyS3ZDZ19xTndKcDZzOTJsZ29pbGduZHVNdjZGSGEtUHFXMDRTVVJVRXVNNW92OTFTTGVkU0tHS1ZtMFRzSTNadU1fWGpqdnBsSEhfQTVQMlExYmFfOUE3T05zY3N1T1NBa2Zic1A0TE5mT2NybFQ3bWt1RGlfZXBBN3puUm5YeEl0bkFxZzk1MWpzVzNhOVA5aHlhaE9FeWh6SU9GUWVjLXdzaDQ?oc=5",
       "via": "rss",
       "verified": false
+    },
+    {
+      "id": "auto-2026-11-20-illegal-mining-850-suspects-arrested-as-nigeria-s-mining-rev",
+      "date": "2026-11-20",
+      "category": "arrest",
+      "title": "Illegal Mining: 850 suspects arrested as Nigeria's mining revenue hits N101bn",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Illegal Mining: 850 suspects arrested as Nigeria's mining revenue hits N101bn Daily Post Nigeria",
+      "metrics": {
+        "arrests": 850
+      },
+      "source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFlIZkJaUEhRd0tOQXVRYmQ1MHVOQ3dpMWVSUDRMZDJ4d0c1WDlDaXE2b2MwUnI0UDdHdnFSbnFVQllBM2QwVUp5SFFnMHFtNjA4UEJudFUtblZhRnNkcmZtOVFZTkhZTE9fNjFPN1Z3QXgzSHlpbm9ZNnBSaG9JMmt2YUpTLVdxNFNVLWh4T1F5RXFJTVY4MHZtSzg4bm5kTHg1cUF1bXR4Vm9OU0FvVUtQdms?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFlIZkJaUEhRd0tOQXVRYmQ1MHVOQ3dpMWVSUDRMZDJ4d0c1WDlDaXE2b2MwUnI0UDdHdnFSbnFVQllBM2QwVUp5SFFnMHFtNjA4UEJudFUtblZhRnNkcmZtOVFZTkhZTE9fNjFPN1Z3QXgzSHlpbm9ZNnBSaG9JMmt2YUpTLVdxNFNVLWh4T1F5RXFJTVY4MHZtSzg4bm5kTHg1cUF1bXR4Vm9OU0FvVUtQdms?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-12-communities-endangered-as-insecurity-illegal-mining-threaten"
     },
     {
       "id": "auto-2026-11-19-ashigbey-urges-state-of-emergency-in-galamsey-areas-and-a-pr",
@@ -16422,7 +16491,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-19T04:37:39.121Z",
-      "thread": "t-auto-2026-10-18-galamsey-soldiers-to-remain-in-nine-cleared-forest-reserves-"
+      "thread": "t-auto-2026-08-18-naimos-has-cleared-nearly-49-forests-reserves-prez-mahama-on"
     },
     {
       "id": "auto-2026-10-18-president-mahama-provides-update-on-galamsey-fight-in-forest",
