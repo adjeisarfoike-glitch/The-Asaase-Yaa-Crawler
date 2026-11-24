@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-24T09:54:45.163Z",
+  "updated": "2026-11-24T22:29:02.705Z",
   "counts": {
-    "total": 2027,
+    "total": 2041,
     "verified": 28,
-    "automated": 1999,
+    "automated": 2013,
     "earliest": "2024-07-01",
     "latest": "2026-11-24"
   },
@@ -48,6 +48,250 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-24T09:50:15.881Z",
+      "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
+    },
+    {
+      "id": "auto-2026-11-24-galamsey-threatens-bono-water-supply-as-purc-calls-for-urgen",
+      "date": "2026-11-24",
+      "category": "forest",
+      "title": "Galamsey Threatens Bono Water Supply as PURC Calls for Urgent Action | Ghana News",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Threatens Bono Water Supply as PURC Calls for Urgent Action | Ghana News Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UT1hlZXNZWjZ0NjBXel9WOU1UbjdTM29kbjNIUVd2Q08tQ2g2ejJSUjc0LVlNcWI2TVIyNGF3UDZrWjFHUlhlV2tlaHdaV3NabzlfMXFzQTZlYnhxa28wU2lJSdIBXEFVX3lxTE1RSEFRU2lUTHhYQXB1NXBLRVFCZmdoS0wzMGhCWVRVOUVaeXh4YUV1RFF5S09YVk1QdHJkVHUwREE1ZDNacEhKTWtOMjZQY1ZlTmtxQk9wVjJ0cnla?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UT1hlZXNZWjZ0NjBXel9WOU1UbjdTM29kbjNIUVd2Q08tQ2g2ejJSUjc0LVlNcWI2TVIyNGF3UDZrWjFHUlhlV2tlaHdaV3NabzlfMXFzQTZlYnhxa28wU2lJSdIBXEFVX3lxTE1RSEFRU2lUTHhYQXB1NXBLRVFCZmdoS0wzMGhCWVRVOUVaeXh4YUV1RFF5S09YVk1QdHJkVHUwREE1ZDNacEhKTWtOMjZQY1ZlTmtxQk9wVjJ0cnla?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:22:30.471Z",
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
+    },
+    {
+      "id": "auto-2026-11-24-water-safety-protest-the-tano-river-from-galamsey-to-safegua",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "Water Safety: Protest the Tano River from galamsey to safeguard Sunyani's future water supply - PURC",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Water Safety: Protest the Tano River from galamsey to safeguard Sunyani's future water supply - PURC Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50cHZHM1JjZ1F0UG5lUXJFNU9DdWkzcEZqc2Voc0FyTmotc1d6VV8xeXZSZ0EySjBLbVk0a2VjY3d3aEFrZ1o1OVJlUXE2V1RPajk4SUFQWlkwaFhGb0NHaUI3WXTSAVxBVV95cUxNc0RzenBORVVma2hYZmo1QndELWpRLTA2M3BQTHFhU0hxRDVSa1cyY1hrTUt3ZVRRVnpkamlua25CckxTb1p4OWxhN0lMejZibTBpby1yYWRZX254Tg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE50cHZHM1JjZ1F0UG5lUXJFNU9DdWkzcEZqc2Voc0FyTmotc1d6VV8xeXZSZ0EySjBLbVk0a2VjY3d3aEFrZ1o1OVJlUXE2V1RPajk4SUFQWlkwaFhGb0NHaUI3WXTSAVxBVV95cUxNc0RzenBORVVma2hYZmo1QndELWpRLTA2M3BQTHFhU0hxRDVSa1cyY1hrTUt3ZVRRVnpkamlua25CckxTb1p4OWxhN0lMejZibTBpby1yYWRZX254Tg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:22:57.665Z",
+      "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
+    },
+    {
+      "id": "auto-2026-11-24-protect-tano-river-from-galamsey-now-to-safeguard-future-wat",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "Protect Tano River from galamsey now to safeguard future water supply in Sunyani - PURC",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Protect Tano River from galamsey now to safeguard future water supply in Sunyani - PURC Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdFRpa1V0dkNxQU9ZdE9pM28yNE90WGRXa0ZUbWlzZXB3TW1WcDlsT1JJQm9GYlhha0pHMXMzR2ZRZ01TUlprcVJGaExLWnp3UHgwVFY1R01aOFNvZVdZemZJMnDSAVxBVV95cUxQNGdaMkJITloyN1ZINE9FY1BKeU5tOTdJcjlUN1E4OUFXeDFRM3FENDliYkNLMUpyeWI4X3N3ZkNpRDVGRmRjOXdxaVRrak5GQ05LWGJwN1IySVNkbA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdFRpa1V0dkNxQU9ZdE9pM28yNE90WGRXa0ZUbWlzZXB3TW1WcDlsT1JJQm9GYlhha0pHMXMzR2ZRZ01TUlprcVJGaExLWnp3UHgwVFY1R01aOFNvZVdZemZJMnDSAVxBVV95cUxQNGdaMkJITloyN1ZINE9FY1BKeU5tOTdJcjlUN1E4OUFXeDFRM3FENDliYkNLMUpyeWI4X3N3ZkNpRDVGRmRjOXdxaVRrak5GQ05LWGJwN1IySVNkbA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:23:22.207Z",
+      "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
+    },
+    {
+      "id": "auto-2026-11-24-suame-shops-reopen-fire-officer-attacker-jailed-300m-schools",
+      "date": "2026-11-24",
+      "category": "prosecution",
+      "title": "Suame Shops Reopen, Fire Officer Attacker Jailed, $300m Schools & Galamsey Invasion | JoyNews Today",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Suame Shops Reopen, Fire Officer Attacker Jailed, $300m Schools & Galamsey Invasion | JoyNews Today Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlSWkxd1BZV19ibHh4UFRFWm9PdzV3bDFIS3pJYTZFeTdkRkpSSTI2WnRseW5xVmYyX0ZSb1FGUFh4VGpjSWJsZHZGLUJ6ZmNkQlluUF9MNkw2bkNxOUEtd25BTlbSAVxBVV95cUxNXzdFQ1k2UThMTnZad3NhOHR4SUItOW0xQ09hanc4SVA5NkI2Y3JMVGY5VXBvQi1nWnphR2JEemRZakxOQjU5ODBadEJPM1Z0SEVmWUFBVVdOUzA0aA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlSWkxd1BZV19ibHh4UFRFWm9PdzV3bDFIS3pJYTZFeTdkRkpSSTI2WnRseW5xVmYyX0ZSb1FGUFh4VGpjSWJsZHZGLUJ6ZmNkQlluUF9MNkw2bkNxOUEtd25BTlbSAVxBVV95cUxNXzdFQ1k2UThMTnZad3NhOHR4SUItOW0xQ09hanc4SVA5NkI2Y3JMVGY5VXBvQi1nWnphR2JEemRZakxOQjU5ODBadEJPM1Z0SEVmWUFBVVdOUzA0aA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:23:47.527Z",
+      "thread": "t-auto-2026-08-28-naimos-arrests-10-illegal-miners-seizes-equipment-in-savanna"
+    },
+    {
+      "id": "auto-2026-11-24-galamsey-invasion-puts-northern-ashanti-s-110m-investment-at",
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "Galamsey invasion puts Northern Ashanti's $110m investment at risk as government watches",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey invasion puts Northern Ashanti's $110m investment at risk as government watches CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYi1WZW96b3NvSUNtelJ0blNTaXdGdWFLemxGZTJhOFJidFFnaXVZMmZldkxod3dYUHphTkEzSHhFbTNzMDl4bFp2MWl4QWVxUnFrZy1CNy1jRUY4WjZkZmhMRzlMNkRDX1VPQjM0QzYxVUdZVHBuZW4zT2UxN0puajM3Y044cHM3c1NENXFIblFfVmpNTlJfSTRiR3o4cTRYQkwwQmRDNGJLODlvLTV1cEVBTUtXZmttVkVGbk5FY2oyMi1fYjFtZTJ0VQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiywFBVV95cUxNYi1WZW96b3NvSUNtelJ0blNTaXdGdWFLemxGZTJhOFJidFFnaXVZMmZldkxod3dYUHphTkEzSHhFbTNzMDl4bFp2MWl4QWVxUnFrZy1CNy1jRUY4WjZkZmhMRzlMNkRDX1VPQjM0QzYxVUdZVHBuZW4zT2UxN0puajM3Y044cHM3c1NENXFIblFfVmpNTlJfSTRiR3o4cTRYQkwwQmRDNGJLODlvLTV1cEVBTUtXZmttVkVGbk5FY2oyMi1fYjFtZTJ0VQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:24:24.224Z",
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
+    {
+      "id": "auto-2026-11-24-water-safety-protect-tano-river-from-galamsey-now-to-safegua",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "Water safety: Protect Tano River from galamsey now to safeguard future water supply in Sunyani -PURC",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Water safety: Protect Tano River from galamsey now to safeguard future water supply in Sunyani -PURC Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mLVlzNnlneWFBRk1aZUFaMWFSbjNVNTNZel9Lc0oxX2dSVjFSWGw2RG4ycmxJRXJickxHb1JOSWNxVnlNUzZFVnhFd09ZcnpxZ2RHUDJBOXgyRFZn0gFcQVVfeXFMT2YtWXM2eWd5YUFGTVplQVoxYVJuM1U1M1l6X0tzSjFfZ1JWMVJYbDZEbjJybElFcmJyTEdvUk5JY3FWeU1TNkVWeEV3T1lyenFnZEdQMkE5eDJEVmc?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mLVlzNnlneWFBRk1aZUFaMWFSbjNVNTNZel9Lc0oxX2dSVjFSWGw2RG4ycmxJRXJickxHb1JOSWNxVnlNUzZFVnhFd09ZcnpxZ2RHUDJBOXgyRFZn0gFcQVVfeXFMT2YtWXM2eWd5YUFGTVplQVoxYVJuM1U1M1l6X0tzSjFfZ1JWMVJYbDZEbjJybElFcmJyTEdvUk5JY3FWeU1TNkVWeEV3T1lyenFnZEdQMkE5eDJEVmc?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
+    },
+    {
+      "id": "auto-2026-11-24-south-africa-arrests-24-in-illegal-mining-crackdown",
+      "date": "2026-11-24",
+      "category": "arrest",
+      "title": "South Africa arrests 24 in illegal mining crackdown",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "South Africa arrests 24 in illegal mining crackdown Mining.com.au",
+      "metrics": {},
+      "source": {
+        "name": "Mining.com.au",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pb2NrTHExSEFvLXhseFhUVkFFSm9GN040eGQ0MW8yOGxNeFBmQ3BhSTc1Q3N2V3VsaFpBVTVseWtQaGYwTE8xa2ZqSUtLbUdTT2RzUFVwNXh2Szd6VFB6b2dlSWk2Zm5nczVRcmJ2UldEVWpXTEhRMUlsTTlwZEU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMif0FVX3lxTE5pb2NrTHExSEFvLXhseFhUVkFFSm9GN040eGQ0MW8yOGxNeFBmQ3BhSTc1Q3N2V3VsaFpBVTVseWtQaGYwTE8xa2ZqSUtLbUdTT2RzUFVwNXh2Szd6VFB6b2dlSWk2Zm5nczVRcmJ2UldEVWpXTEhRMUlsTTlwZEU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-02-atiwa-west-se-community-demands-prosecution-of-galamsey-king"
+    },
+    {
+      "id": "auto-2026-11-24-tano-river-illegal-mining-threatens-sunyani-water-purc-says",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "Tano River illegal mining threatens Sunyani water, PURC says",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Tano River illegal mining threatens Sunyani water, PURC says NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFI5Y2V5RjhIaDl4N1lVMzNXNk9CdVE5UV9iLVdFTlJkal9oeGNKLXNLb09BVUh0cUI4UTRVZXA1R3p5Si1LN09FSy1hZTB5S012RWFPTnBaNG5zS2hEYlBtTU0xUEFpRUktYVdxd1BONXZNSWJhamFkNGFVWUJ5ZEZ5ODE5WTE1cUFHQTBB?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFI5Y2V5RjhIaDl4N1lVMzNXNk9CdVE5UV9iLVdFTlJkal9oeGNKLXNLb09BVUh0cUI4UTRVZXA1R3p5Si1LN09FSy1hZTB5S012RWFPTnBaNG5zS2hEYlBtTU0xUEFpRUktYVdxd1BONXZNSWJhamFkNGFVWUJ5ZEZ5ODE5WTE1cUFHQTBB?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
+    },
+    {
+      "id": "auto-2026-11-24-galamsey-illegal-logging-put-ghana-s-carbon-credit-revenue-a",
+      "date": "2026-11-24",
+      "category": "forest",
+      "title": "Galamsey, illegal logging put Ghana’s carbon credit revenue at risk - Forestry Commission",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey, illegal logging put Ghana’s carbon credit revenue at risk - Forestry Commission GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVTOS1KTXVQMXRISVM4a0JWQ0NKTnFTOFZmQTBqS2szVU8wZ1lyZ1hOWm9MNHU0VTRLWm9PaHp4ZFE2Q1VWd3JrWkFRZ0VGRFd5cjhSUHZvYjdNZlhadTU0WUZUT1BTVUJ6MzQwa2k0ZkxoLW1KbE1EQURoQzdPckR2QkhpV3RBQzdGX05BaVhON0N5a0FsaS1TUW5yMEFFcEZ1Z0Zab3FwOW9TWG9VNURMV0NIdDFGWFRwQkJwOG1qWTRLUVRjek5RWWZNRF9fU2pnWmMzZmN2QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTnVTOS1KTXVQMXRISVM4a0JWQ0NKTnFTOFZmQTBqS2szVU8wZ1lyZ1hOWm9MNHU0VTRLWm9PaHp4ZFE2Q1VWd3JrWkFRZ0VGRFd5cjhSUHZvYjdNZlhadTU0WUZUT1BTVUJ6MzQwa2k0ZkxoLW1KbE1EQURoQzdPckR2QkhpV3RBQzdGX05BaVhON0N5a0FsaS1TUW5yMEFFcEZ1Z0Zab3FwOW9TWG9VNURMV0NIdDFGWFRwQkJwOG1qWTRLUVRjek5RWWZNRF9fU2pnWmMzZmN2QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-24-ar-manso-tontokrom-anti-illegal-mining-taskforce-destroys-ov",
+      "date": "2026-11-24",
+      "category": "arrest",
+      "title": "AR: Manso Tontokrom Anti-Illegal Mining Taskforce destroys over 40 chanfans",
+      "place": "Tontokrom",
+      "region": "Ashanti",
+      "lat": 6.15,
+      "lon": -2.1,
+      "summary": "AR: Manso Tontokrom Anti-Illegal Mining Taskforce destroys over 40 chanfans 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMFdYOFpfR0JlR2FRRmZQcTcySzJ2amJUYjlWUkw4TktCLXFQc2xKdU5LeFdRQ3pNQUswM1pheHdyRENOdy1seFJKMkVNOXM4RWNBOW1nUG5WMUNZem1zQjRBLXhsVkhsSEtXMTVaU0VFbHFxdVZvWmY5c0E5UWowbVVPajRFUWs5VG1PblN6QQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxNMFdYOFpfR0JlR2FRRmZQcTcySzJ2amJUYjlWUkw4TktCLXFQc2xKdU5LeFdRQ3pNQUswM1pheHdyRENOdy1seFJKMkVNOXM4RWNBOW1nUG5WMUNZem1zQjRBLXhsVkhsSEtXMTVaU0VFbHFxdVZvWmY5c0E5UWowbVVPajRFUWs5VG1PblN6QQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-24-togbe-afede-xiv-backs-mahama-government-s-efforts-to-fight-i",
+      "date": "2026-11-24",
+      "category": "policy",
+      "title": "Togbe Afede XIV backs Mahama government’s efforts to fight illegal mining",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The President of the Asogli State Council and Former National House of Chiefs President, Togbe Afede XIV, has endorsed the Mahama administration’s efforts to tackle illegal mining, describing the menace as a product of corruption that must be addressed at its roots. He has also urged traditional authorities across the country to support the Minister for Lands and Natural Resources, Emmanuel Armah-Kofi Buah, in the ca",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-24-purc-raises-alarm-over-illegal-mining-threat-to-tano-river-w",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "PURC raises alarm over illegal mining threat to Tano River, warns Sunyani against looming water crisis",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "By: Daniel Donkor The Public Utilities Regulatory Commission (PURC) has warned that the creeping spread of illegal mining along the upper stretches of the Tano River could trigger a serious water crisis in the Sunyani Municipality and surrounding communities if urgent action is not taken to protect the water body. The Commission says pollution from […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/general/purc-raises-alarm-over-illegal-mining-threat-to-tano-river-warns-sunyani-against-looming-water-crisis/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/general/purc-raises-alarm-over-illegal-mining-threat-to-tano-river-warns-sunyani-against-looming-water-crisis/2026/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-24T22:27:08.191Z",
       "thread": "t-auto-2026-11-23-bono-risks-water-crisis-as-galamsey-threatens-tano-river-pur"
     },
     {
@@ -171,7 +415,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFB0U29ORW5HRF9vdnl6cml4c3FiVENQQmw3NjRkS2lFQ2VaSnVCMEpJSGgyeDdBcC1ibFVkN250MlVMZmlzWDRMYnhKckVqV2xETkRQcGtFSmxkMzhPdUdjMjFqRXl2T0YyRFgxT0pxQ0U0VHZ1eHpfbGxValZsdDVaMnc3M0d5eXBMWHBGOUJYQzZ1T3pCeDlMWjU3UmhmRUI2c1pUTFBsOTlnYnU2ZjdBRUZOWU01aC1OczR3MkplaE5iTmFzWW5OR2lxdw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-24T22:28:10.370Z"
     },
     {
       "id": "auto-2026-11-22-political-will-needed-to-end-galamsey-asebu-omanhen",
@@ -1576,7 +1821,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/wontumis-lawyer-to-appeal-high-courts-refusal-to-release-prosecution-deal-with-key-witness/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-11-18-wontumi-loses-application-seeking-details-of-former-manager-",
@@ -2220,6 +2465,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-11-naimos-targets-galamsey-financiers-facilitators-and-equipmen"
+    },
+    {
+      "id": "auto-2026-11-17-the-fight-against-galamsey-must-be-above-politics-schandorf-",
+      "date": "2026-11-17",
+      "category": "policy",
+      "title": "The Fight Against Galamsey Must Be Above Politics – Schandorf Responds to Dr. Amoakohene",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Fight Against Galamsey Must Be Above Politics – Schandorf Responds to Dr. Amoakohene 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2I4TFR6c01fNndUaUlzdmZXS1FsSG00R21oNG9RWmI5SEZuc25FSXhXaHgwZ2k5MDNWYUZRSnJQaFBUMTRUNkRqY0JhTkRSMXprV01OZ3hNb3pub1ZtTkhIbkI0LWtjYWFETUJERWxTejNERVdJeFNqRDNFbUFaS3FkazFON0FwUkZYY2M3bkZjd2FRdkE4ZUZQOXNHTXNISlIyOHd5OA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2I4TFR6c01fNndUaUlzdmZXS1FsSG00R21oNG9RWmI5SEZuc25FSXhXaHgwZ2k5MDNWYUZRSnJQaFBUMTRUNkRqY0JhTkRSMXprV01OZ3hNb3pub1ZtTkhIbkI0LWtjYWFETUJERWxTejNERVdJeFNqRDNFbUFaS3FkazFON0FwUkZYY2M3bkZjd2FRdkE4ZUZQOXNHTXNISlIyOHd5OA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
     },
     {
       "id": "auto-2026-11-16-miracles-aboagye-makes-explosive-galamsey-allegations-agains",
@@ -3916,7 +4181,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-13T06:38:56.913Z",
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-11-13-us-officials-and-experts-demand-galamsey-crackdown-as-ghana-",
@@ -4817,6 +5082,25 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekpNTFMtU1FGbGZsMGVQcHFqWW1EOXVWX3lHd2RCSmVleVpKYUdFRzFLNGQ4cjladDRCQV9hOGRRZnZFVldTUlN2OEJpZ3FUVl9GUkREZFBqd1VrdjNzWG1PX25rejh6dl9MWDZrbzR6Z1pKckQwLXgyTkYzN09SNXdYVFMtRTFGVkE?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxNekpNTFMtU1FGbGZsMGVQcHFqWW1EOXVWX3lHd2RCSmVleVpKYUdFRzFLNGQ4cjladDRCQV9hOGRRZnZFVldTUlN2OEJpZ3FUVl9GUkREZFBqd1VrdjNzWG1PX25rejh6dl9MWDZrbzR6Z1pKckQwLXgyTkYzN09SNXdYVFMtRTFGVkE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-12-us-experts-demand-galamsey-crackdown-as-ghana-s-water-degrad",
+      "date": "2026-11-12",
+      "category": "arrest",
+      "title": "US, experts demand galamsey crackdown as Ghana’s water degradation hits 60 percent",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "US, experts demand galamsey crackdown as Ghana’s water degradation hits 60 percent Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTZneGJHa1ZZXzlqQ0JuenJfV0J1UFpNRVF3Y3dDTDJ5YlZvSWIzVXBkM1NfNFdNREdCUGEzOVBQS3lIU19IZVJ6M0pFQXBSV2l0SGdHSVZ2OE5IUHBXWjlhQTZ4SmpSSDlaU1AzUF9iMnNRVHFGbzV5Y1VNaWdrSTNLUGY3U1p4UVA2VUhNM3BHVXPSAZMBQVVfeXFMTVE2Z3hiR2tWWV85akNCbnpyX1dCdVBaTUVRd2N3Q0wyeWJWb0liM1VwZDNTXzRXTURHQlBhMzlQUEt5SFNfSGVSejNKRUFwUldpdEhnR0lWdjhOSFBwV1o5YUE2eEpqUkg5WlNQM1BfYjJzUVRxRm81eWNVTWlna0kzS1BmN1NaeFFQNlVITTNwR1Vz?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTZneGJHa1ZZXzlqQ0JuenJfV0J1UFpNRVF3Y3dDTDJ5YlZvSWIzVXBkM1NfNFdNREdCUGEzOVBQS3lIU19IZVJ6M0pFQXBSV2l0SGdHSVZ2OE5IUHBXWjlhQTZ4SmpSSDlaU1AzUF9iMnNRVHFGbzV5Y1VNaWdrSTNLUGY3U1p4UVA2VUhNM3BHVXPSAZMBQVVfeXFMTVE2Z3hiR2tWWV85akNCbnpyX1dCdVBaTUVRd2N3Q0wyeWJWb0liM1VwZDNTXzRXTURHQlBhMzlQUEt5SFNfSGVSejNKRUFwUldpdEhnR0lWdjhOSFBwV1o5YUE2eEpqUkg5WlNQM1BfYjJzUVRxRm81eWNVTWlna0kzS1BmN1NaeFFQNlVITTNwR1Vz?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -16736,7 +17020,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/bekwai-two-armed-robbers-jailed-40-years-with-hard-labour/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-18-two-dead-after-galamsey-pit-collapses-at-sefwi-datano",
@@ -17463,7 +17747,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/galamsey-operator-jailed-14-years-for-defiling-8-year-old-girl-at-manso-mpese/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-16-fight-against-galamsey-ayariga-warns-mmdces-against-ignoring",
@@ -18787,7 +19071,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.adomonline.com/atta-akyea-denies-seeking-presidential-pardon-for-chairman-wontumi/",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+      "thread": "t-arr-2025-04-18-samreboi"
     },
     {
       "id": "auto-2026-10-13-the-gold-behind-ghana-s-economic-reset-galamsey-unpaid-bills",
@@ -30195,7 +30479,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-justice-must-guide-africas-energy-transition-former-lands-minister.html",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
     },
     {
       "id": "auto-2026-08-26-stay-away-from-galamsey-areas-ghaftram-advises-members",
@@ -30636,7 +30920,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/samuel-abu-jinapor-proposes-independent-body-to-fight-galamsey/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-25-samuel-abu-jinapor-proposes-independent-body-to-fight-galams"
     },
     {
       "id": "auto-2026-08-25-ghana-must-reclaim-the-values-that-kept-our-communities-clea",
@@ -31704,8 +31989,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3BYdGo4Q05hOTlUV3l6WTc1TDBCaXM3aEFJNlpHczFvUzNvaVR6TXpKeEJWX3Uyb1d3ZGtsN21NQV9uUWVtX1hRSG9GMVUwR3dqSXhqeFAwYkRnOVRvTEVlZU1VczEtb1NMSUc1aHBRWTlKSlk4RDd4Snl5ZkVaNjlheVhkZ1VtRjhDSy1wQ3pQMkVYY1k3S3lETjIxVnlKRUo3TnFEWTcyVlhGbWc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-08-24-former-minister-abu-jinapor-pushes-independent-body-to-halt-"
+      "verified": false
     },
     {
       "id": "auto-2026-08-23-wildlife-guard-shot-dead-during-kakum-patrol",
