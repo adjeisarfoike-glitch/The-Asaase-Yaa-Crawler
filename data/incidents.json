@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-25T08:32:57.580Z",
+  "updated": "2026-11-25T21:43:50.868Z",
   "counts": {
-    "total": 2045,
+    "total": 2061,
     "verified": 28,
-    "automated": 2017,
+    "automated": 2033,
     "earliest": "2024-07-01",
     "latest": "2026-11-25"
   },
@@ -68,6 +68,227 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-25-galamsey-puts-tano-river-in-danger",
+      "date": "2026-11-25",
+      "category": "water",
+      "title": "Galamsey puts Tano River in danger",
+      "place": "Tano River",
+      "region": "Western North",
+      "lat": 6.3,
+      "lon": -2.6,
+      "summary": "Galamsey puts Tano River in danger Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk92aUdMOUtETWdDS1d6c25nci1uLWd2SlgtUHZiZjFhelFQd3E4aTRhem9IZUttdDFSSi1pbnpDUUR1UGkya0w0akhFRk1IT2JDbnhtRkRTWDlJQVFqRWxtQ0R5eVV0NFR4aFIzc0xNNGpNcGRVMk5wTVduZnllQmVBcWd6TFp0U1NkNjZyc01taTVHWkVXTk5Xbw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxOQk92aUdMOUtETWdDS1d6c25nci1uLWd2SlgtUHZiZjFhelFQd3E4aTRhem9IZUttdDFSSi1pbnpDUUR1UGkya0w0akhFRk1IT2JDbnhtRkRTWDlJQVFqRWxtQ0R5eVV0NFR4aFIzc0xNNGpNcGRVMk5wTVduZnllQmVBcWd6TFp0U1NkNjZyc01taTVHWkVXTk5Xbw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-25T21:39:32.160Z"
+    },
+    {
+      "id": "auto-2026-11-25-news-review-galamsey-threatens-northern-ghana-mahama-orders-",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "News Review: Galamsey Threatens Northern Ghana, Mahama Orders Aged CEOs Out",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "News Review: Galamsey Threatens Northern Ghana, Mahama Orders Aged CEOs Out Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43bmxxbVROTHR3dVdMV2dvejh3TkVVZzRYMWswd1gtdFczZ3JsMGh0SjhPUVRmTmx4anU4bzBnS3FDa3JtcXZlcFRZUlg2ODhkSHNvQTlySGRPSGpMMEtfRmo2clrSAVxBVV95cUxQOUlQUUsyeHBlRk5RbnNMaE05eGNiMk1oYVlJbXB3ZkJVeXp2SUZXMmRhendDR3NoUGNZam5lMmRDdTZLTjhKSVBUYnVjcGtFRnNGVzgwRTZMQVBwUg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE43bmxxbVROTHR3dVdMV2dvejh3TkVVZzRYMWswd1gtdFczZ3JsMGh0SjhPUVRmTmx4anU4bzBnS3FDa3JtcXZlcFRZUlg2ODhkSHNvQTlySGRPSGpMMEtfRmo2clrSAVxBVV95cUxQOUlQUUsyeHBlRk5RbnNMaE05eGNiMk1oYVlJbXB3ZkJVeXp2SUZXMmRhendDR3NoUGNZam5lMmRDdTZLTjhKSVBUYnVjcGtFRnNGVzgwRTZMQVBwUg?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-25T21:40:15.493Z",
+      "thread": "t-auto-2026-10-26-northern-ashanti-mines-files-injunction-against-seizure-of-u"
+    },
+    {
+      "id": "auto-2026-11-25-galamsey-party-people-business-interests-plotting-to-disband",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "Galamsey: party people, business interests plotting to disband NAIMOS – Asare Donkor reveals",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: party people, business interests plotting to disband NAIMOS – Asare Donkor reveals Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjJIUlNyNmIwd2xyYnlMRDlOVjVKbEVob09aVWZSS1dIc3dZWl9JSXZmN0NsUVpSWEJFN003cTFCYXcwd3RJdnpKc2VBUTNqOV92b0NIWjVqTGtKNl96VWcwOE5jQzZrU3ZjblVmU1ZtSF82aDM3WFg0THhMRjJpV1VtdG5FYWRHMHBHcUY0Z1pHT1VlQ2RmcDNXOEtTenZ5THM5MVJqTmtyajMtejNnRnpuNA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNWjJIUlNyNmIwd2xyYnlMRDlOVjVKbEVob09aVWZSS1dIc3dZWl9JSXZmN0NsUVpSWEJFN003cTFCYXcwd3RJdnpKc2VBUTNqOV92b0NIWjVqTGtKNl96VWcwOE5jQzZrU3ZjblVmU1ZtSF82aDM3WFg0THhMRjJpV1VtdG5FYWRHMHBHcUY0Z1pHT1VlQ2RmcDNXOEtTenZ5THM5MVJqTmtyajMtejNnRnpuNA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-06-wilberforce-asare-mining-on-a-legally-acquired-concession-ca"
+    },
+    {
+      "id": "auto-2026-11-25-togbe-afede-xiv-backs-government-s-fight-against-galamsey",
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "Togbe Afede XIV backs government's fight against galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Togbe Afede XIV backs government's fight against galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0xxLWx2X3VDNENncGVIcDZXMUlpVDF2VVJnMDhDdUh5OHl3bFAxRDdwR29LQkdUdWRFdWFnVFl6aDRRWF9tcjM1cGc1T1VnM2pPWDRKdVg2bWhKUGNSX1FvZ25qM1NxRnM3S3ZZMGw2eFpOaGxsSW1FYklkYm1wZHJtZTZKa19na0FMVmZJT2llSzF5NHJyZHlMeXdQa0lwYkRKNHVkUkUwWkl5UmpuUmdzaw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0xxLWx2X3VDNENncGVIcDZXMUlpVDF2VVJnMDhDdUh5OHl3bFAxRDdwR29LQkdUdWRFdWFnVFl6aDRRWF9tcjM1cGc1T1VnM2pPWDRKdVg2bWhKUGNSX1FvZ25qM1NxRnM3S3ZZMGw2eFpOaGxsSW1FYklkYm1wZHJtZTZKa19na0FMVmZJT2llSzF5NHJyZHlMeXdQa0lwYkRKNHVkUkUwWkl5UmpuUmdzaw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-25T21:41:10.436Z",
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
+    },
+    {
+      "id": "auto-2026-11-25-three-dead-one-in-critical-condition-after-galamsey-pit-coll",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "Three dead, one in critical condition after galamsey pit collapses at Akyem Akrofufu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Three dead, one in critical condition after galamsey pit collapses at Akyem Akrofufu GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTFqU3F2WXBnX29kU2U1TGY5OVByMmJEQ1RyY3drSDZna3I4NDJDd3FrUUZXZnpmdEduYTJxWWdJX2Z5ckNHRjNHTkdHb0w4eU55Wl80TkNrZk9zUGl6dlhyYzdSTEZnR0N4MGotVkR4TURHa1ZVSGF1REtDV3A0bm0xTVM0VmJWRXFiQlhCUEQzejJRQXV6b3pnb3NOWDNONlZMazA0Q3VRamRWbGN5ZWpWZU1iXzlRQ1NUeVk0Z1NHVWVwWHNhaFN4LUctMHhsS2ZPaEJ1M0VMUQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTTFqU3F2WXBnX29kU2U1TGY5OVByMmJEQ1RyY3drSDZna3I4NDJDd3FrUUZXZnpmdEduYTJxWWdJX2Z5ckNHRjNHTkdHb0w4eU55Wl80TkNrZk9zUGl6dlhyYzdSTEZnR0N4MGotVkR4TURHa1ZVSGF1REtDV3A0bm0xTVM0VmJWRXFiQlhCUEQzejJRQXV6b3pnb3NOWDNONlZMazA0Q3VRamRWbGN5ZWpWZU1iXzlRQ1NUeVk0Z1NHVWVwWHNhaFN4LUctMHhsS2ZPaEJ1M0VMUQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens"
+    },
+    {
+      "id": "auto-2026-11-25-togbe-afede-backs-govt-s-fight-against-galamsey-urges-chiefs",
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "Togbe Afede Backs Govt’s Fight Against Galamsey; Urges Chiefs To Rally Behind Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Togbe Afede Backs Govt’s Fight Against Galamsey; Urges Chiefs To Rally Behind Lands Minister NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2JOWVVjNThBb3lHU2pYb3dUQU9VYVBqaEt2OWI0UmU4U1NhSXQ2YXAxaU1ZcFpWQ28zUUtWU0c0N0RWWk16LUdZN3ZZRWQ5YTZ6N3EwWXUzbGJJVGl0Wi1ueUxRTmdQc0lhUExHWWF5YlFXcENvbzRoc0RaUm8yV0syeXBvTmRlRHF1aFhCeFlKLUlabGJjSkdMRGc3R2ozbzZRLXMwb3NGVElZWlVtLXEzN0RCMW8?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2JOWVVjNThBb3lHU2pYb3dUQU9VYVBqaEt2OWI0UmU4U1NhSXQ2YXAxaU1ZcFpWQ28zUUtWU0c0N0RWWk16LUdZN3ZZRWQ5YTZ6N3EwWXUzbGJJVGl0Wi1ueUxRTmdQc0lhUExHWWF5YlFXcENvbzRoc0RaUm8yV0syeXBvTmRlRHF1aFhCeFlKLUlabGJjSkdMRGc3R2ozbzZRLXMwb3NGVElZWlVtLXEzN0RCMW8?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
+    },
+    {
+      "id": "auto-2026-11-25-you-d-have-thought-jesus-christ-was-coming-tomorrow-mike-oqu",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "‘You’d have thought Jesus Christ was coming tomorrow’ - Mike Oquaye Jr slams NDC’s galamsey promises",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "‘You’d have thought Jesus Christ was coming tomorrow’ - Mike Oquaye Jr slams NDC’s galamsey promises GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGp4VHRPajhudnFXc1VrYUFtVVdMU1dWZmJDdVlOamVzZnlIU1NVRm40T2FhZmdhMFlQUUJiSFZlM19tcjdIcDJBTXpja0s3RUVnalo4cTNFdjR2aWFDMWhMTlJmUTcwcmxFRHZuSkVvSGR2bU0yWW16RFJUYVFVb0dyZWUtd1NpMVRwaWRUN3RrUHFqM0ZnUWQ2aVRpMkd0anV6eFNWU3M1NVRDTXdLZnpwcVBBc1I1R213MFhoVGVEa1V0Ni1JWGsxMFZMWnB6d19LVDU0M2k4VTB2OFAwQWxxTlVEM05VbVdv?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGp4VHRPajhudnFXc1VrYUFtVVdMU1dWZmJDdVlOamVzZnlIU1NVRm40T2FhZmdhMFlQUUJiSFZlM19tcjdIcDJBTXpja0s3RUVnalo4cTNFdjR2aWFDMWhMTlJmUTcwcmxFRHZuSkVvSGR2bU0yWW16RFJUYVFVb0dyZWUtd1NpMVRwaWRUN3RrUHFqM0ZnUWQ2aVRpMkd0anV6eFNWU3M1NVRDTXdLZnpwcVBBc1I1R213MFhoVGVEa1V0Ni1JWGsxMFZMWnB6d19LVDU0M2k4VTB2OFAwQWxxTlVEM05VbVdv?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-11-25-13-alleged-naimos-impersonators-remanded-into-custody",
+      "date": "2026-11-25",
+      "category": "prosecution",
+      "title": "13 alleged NAIMOS impersonators remanded into custody",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 alleged NAIMOS impersonators remanded into custody 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlhPMTRuQkVNa0wyV1lSQnZyOE5aQ0FpTzVlZmQ1NFY4OVVXaUUyTFh5VWJDTWlzbDZWMk1mV21ydjFCRGdvTFlhdTRBMVpVSWtIOGZfeFgydE5PWWZFTnBTbGQ1VHVfQWtBXzJCSjJ2bW56NXhITVYzbTVDV0NkcG9hQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlhPMTRuQkVNa0wyV1lSQnZyOE5aQ0FpTzVlZmQ1NFY4OVVXaUUyTFh5VWJDTWlzbDZWMk1mV21ydjFCRGdvTFlhdTRBMVpVSWtIOGZfeFgydE5PWWZFTnBTbGQ1VHVfQWtBXzJCSjJ2bW56NXhITVYzbTVDV0NkcG9hQQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-25-13-remanded-over-alleged-impersonation-of-naimos-operatives",
+      "date": "2026-11-25",
+      "category": "prosecution",
+      "title": "13 remanded over alleged impersonation of NAIMOS operatives",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 remanded over alleged impersonation of NAIMOS operatives MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmViUzlSR21zYjVNNDBvU0dSNkI5YmxoSW5Wa2hFTDMyNU1zQ0pmV1FXYS05YkNVU2VHWm0xQ2J1MXo1ckZhOEIwaWxLWE5NLUF5SklyQzN0T05vQlAybjczU2xlNVJNUm9mVXIzSndZcEFPak5GR1NvSmVzaWVhUFRWbnkyZEtWckU0Q0RmdFk0dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmViUzlSR21zYjVNNDBvU0dSNkI5YmxoSW5Wa2hFTDMyNU1zQ0pmV1FXYS05YkNVU2VHWm0xQ2J1MXo1ckZhOEIwaWxLWE5NLUF5SklyQzN0T05vQlAybjczU2xlNVJNUm9mVXIzSndZcEFPak5GR1NvSmVzaWVhUFRWbnkyZEtWckU0Q0RmdFk0dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-25-stool-lands-administrator-rakes-in-gh-405-3-million",
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "Stool Lands Administrator rakes in GH¢405.3 million",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Office of the Administrator of Stool Lands (OASL) has mobilised GH¢405.3 million as of September, 2026, up from the GH¢189.5 million recorded in the entire year of 2025. The amount represents the highest revenue ever mobilised by the OASL in a year. For instance, the office mobilised GH¢170.7 million in 2024, up from GH¢134.7 million in 2023, GH¢125.3 million in 2022, and GH¢91.5 million in 2021. The Administrato",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-stool-lands-administrator-rakes-in-ghc405-3-million.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-stool-lands-administrator-rakes-in-ghc405-3-million.html",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-25T21:42:11.862Z"
+    },
+    {
+      "id": "auto-2026-11-25-goldbod-records-us-11-6-billion-in-small-scale-gold-exports-",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "GoldBod records US$11.6 billion in small-scale gold exports between January and October 2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "By Magdalene Andoh The Ghana Gold Board (GoldBod) says it facilitated the export of 85.4 tonnes of artisanal and small-scale mining gold, valued at approximately US$11.6 billion, between January and October 20, 2026. Chief Executive Officer of GoldBod, Sammy Gyamfi, disclosed this at the Ambition Africa Forum in Paris, France, where he outlined the impact […]",
+      "metrics": {},
+      "source": {
+        "name": "GBC Ghana",
+        "url": "https://www.gbcghanaonline.com/news/business/goldbod-records/2026/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.gbcghanaonline.com/news/business/goldbod-records/2026/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-25T21:42:42.576Z",
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
     },
     {
       "id": "auto-2026-11-24-purc-calls-for-urgent-action-against-galamsey-pollution-of-t",
@@ -335,6 +556,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/togbe-afede-xiv-backs-mahama-governments-efforts-to-fight-illegal-mining/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-25T21:43:43.779Z",
       "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
     },
     {
@@ -377,6 +599,67 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-25T08:31:03.328Z"
+    },
+    {
+      "id": "auto-2026-11-24-govt-s-galamsey-fight-deserves-support-togbe-afede",
+      "date": "2026-11-24",
+      "category": "forest",
+      "title": "Govt’s galamsey fight deserves support – Togbe Afede",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Govt’s galamsey fight deserves support – Togbe Afede CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3lCTTZyUzlaZEwya2R2dnhKYmNRc1lpMHRzUXVuOUNWTl9uWC03ZkZRRVFhMnB4LWR2TGlFekczdXBablNRcFp1dHk3Qmk1QUkxX1RqMlFJbEJIb2d5UFNIZ1JOVlpWUHYtZ1dsUFdYekd4UWU2T3JWVTFoUVBUVXBocmY5VUx5d2JVY0FEYmw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3lCTTZyUzlaZEwya2R2dnhKYmNRc1lpMHRzUXVuOUNWTl9uWC03ZkZRRVFhMnB4LWR2TGlFekczdXBablNRcFp1dHk3Qmk1QUkxX1RqMlFJbEJIb2d5UFNIZ1JOVlpWUHYtZ1dsUFdYekd4UWU2T3JWVTFoUVBUVXBocmY5VUx5d2JVY0FEYmw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-28-why-togbe-afede-xiv-is-calling-galamsey-a-crime-against-huma"
+    },
+    {
+      "id": "auto-2026-11-24-watch-as-galamseyers-operate-changfan-on-offin-river-in-broa",
+      "date": "2026-11-24",
+      "category": "water",
+      "title": "Watch as galamseyers operate changfan on Offin River in broad daylight",
+      "place": "Offin",
+      "region": "Central",
+      "lat": 6.05,
+      "lon": -1.6,
+      "summary": "Watch as galamseyers operate changfan on Offin River in broad daylight GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV2tYU1BLMVdJeWdCOS1jck9mSjZWeFJXUE9DS200TFNhTE5meW9MWVlXejVUYUlLWnVsdlJWck5yaHp1Y3hMYlBrQ3ozcEVkNzNUNHJnWHVlUWxtU3BBdi14emlqNXRvSWRKMTN4ekZCX29vRUNjaml4cEh6MjU0bUw0d2ptdXA1TV9LZ0Nna2xRQXUxZDlvM2JaZkM5a0I3Nld0NW1LZW53c2RzRU82YUwwWkx3elhoZmN2UGpZQ2hlQk0tdDRXNw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV2tYU1BLMVdJeWdCOS1jck9mSjZWeFJXUE9DS200TFNhTE5meW9MWVlXejVUYUlLWnVsdlJWck5yaHp1Y3hMYlBrQ3ozcEVkNzNUNHJnWHVlUWxtU3BBdi14emlqNXRvSWRKMTN4ekZCX29vRUNjaml4cEh6MjU0bUw0d2ptdXA1TV9LZ0Nna2xRQXUxZDlvM2JaZkM5a0I3Nld0NW1LZW53c2RzRU82YUwwWkx3elhoZmN2UGpZQ2hlQk0tdDRXNw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
+    },
+    {
+      "id": "auto-2026-11-24-13-suspects-arrested-for-allegedly-impersonating-naimos-oper",
+      "date": "2026-11-24",
+      "category": "arrest",
+      "title": "13 suspects arrested for allegedly impersonating NAIMOS operatives remanded",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 suspects arrested for allegedly impersonating NAIMOS operatives remanded Adomonline.com",
+      "metrics": {
+        "arrests": 13
+      },
+      "source": {
+        "name": "Adomonline.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEZXMGdHUVFKLWVPX3FnWlNvOVlRaDBueTg2aWxhZnVMczlrc1hNeFF6a2NyZjJ3djgtbzkwRFJIemVfZVVQNUJONDh5bzZyTTVEenV4S0xmOUI2VGU1NUdxanVmUHZTelBjV2pVRVNZNTBFUXF2SVRKTGV3VXd2Tkk0dHJZUzRKUTF2Z3VGc1o0dmJXZ2hfaC0xUWRXcFZpQTZ1dWxn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEZXMGdHUVFKLWVPX3FnWlNvOVlRaDBueTg2aWxhZnVMczlrc1hNeFF6a2NyZjJ3djgtbzkwRFJIemVfZVVQNUJONDh5bzZyTTVEenV4S0xmOUI2VGU1NUdxanVmUHZTelBjV2pVRVNZNTBFUXF2SVRKTGV3VXd2Tkk0dHJZUzRKUTF2Z3VGc1o0dmJXZ2hfaC0xUWRXcFZpQTZ1dWxn?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-23-strong-political-will-needed-to-end-galamsey-asebu-omanhen",
@@ -1603,6 +1886,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-10-09-galamsey-declare-state-of-emergency-catholic-bishops-to-gov-"
+    },
+    {
+      "id": "auto-2026-11-19-ndc-ashanti-regional-constituency-chairmen-engage-naimos-on-",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "NDC Ashanti regional constituency chairmen engage NAIMOS on galamsey fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NDC Ashanti regional constituency chairmen engage NAIMOS on galamsey fight GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOajAwVlRkQk5OcE5FcDVlbWQyWFJZUk1oYlVpVkNYRjI1Z3FZTWNhV0xPeEFoV29qUV93QTFWemw2aW9mV1VrUXE2Y3pRel9HaTJDZ05hNF9lR0VkR2RGbjg3b3pfbWJIY1QwMnRIaFNtb0lWWVdQZTMtLVVjR2lWVkFsWW5SaGFjVHFVNDBXOHZ2NHBCMU14NUVTazNkbkJrTzNJTjZxVTNlNWtWSkpab3VDaTBxSGxjVVFOUUEyWGJ1b1ZiMUNQa241cnJtcGpLTnBocm50RWxuWS1OcldBZUFrY1VnbXM4TE5Z?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi6wFBVV95cUxOajAwVlRkQk5OcE5FcDVlbWQyWFJZUk1oYlVpVkNYRjI1Z3FZTWNhV0xPeEFoV29qUV93QTFWemw2aW9mV1VrUXE2Y3pRel9HaTJDZ05hNF9lR0VkR2RGbjg3b3pfbWJIY1QwMnRIaFNtb0lWWVdQZTMtLVVjR2lWVkFsWW5SaGFjVHFVNDBXOHZ2NHBCMU14NUVTazNkbkJrTzNJTjZxVTNlNWtWSkpab3VDaTBxSGxjVVFOUUEyWGJ1b1ZiMUNQa241cnJtcGpLTnBocm50RWxuWS1OcldBZUFrY1VnbXM4TE5Z?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
@@ -9421,6 +9723,25 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYS1fanpOVUZ2S3FuWHdUMEVhUXJwTVdweHJOYnIweFM2SzVUd2V0S1lQY0Z0aDZ1YTZzZC0wa0l1VV9nU3JiRHl2SEF5cEQ2MS1BWFdpMGgza0xOWTEtdlUwQ0Y5c1JTWHJnNTFuTHBJWGEwRHloRV9vZ2F4Sjc0WGZ6ZWhOV2Ro?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYS1fanpOVUZ2S3FuWHdUMEVhUXJwTVdweHJOYnIweFM2SzVUd2V0S1lQY0Z0aDZ1YTZzZC0wa0l1VV9nU3JiRHl2SEF5cEQ2MS1BWFdpMGgza0xOWTEtdlUwQ0Y5c1JTWHJnNTFuTHBJWGEwRHloRV9vZ2F4Sjc0WGZ6ZWhOV2Ro?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-01-goldbod-s-gyamfi-cites-peru-tanzania-as-small-scale-mining-m",
+      "date": "2026-11-01",
+      "category": "forest",
+      "title": "GoldBod’s Gyamfi cites Peru, Tanzania as small-scale mining models",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "GoldBod’s Gyamfi cites Peru, Tanzania as small-scale mining models News Ghana",
+      "metrics": {},
+      "source": {
+        "name": "News Ghana",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3VDVmFmdUhQUkpmdlBnVmMyVnU2bzBfMzFQcWp1V1lhM19obFpob0p1SDlIdnQxSmxtR0sydl9CQmV3WFVDcjExek9nX1ZsT0VlX1VLNUZvU3NCc05HTWQ2Q05Fd1R4SnV1eU5KeGVTVW1LRGI4WVdfM2RVVDhJMW44YnU3LXl1OWFpQngtYVYwMEFT?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3VDVmFmdUhQUkpmdlBnVmMyVnU2bzBfMzFQcWp1V1lhM19obFpob0p1SDlIdnQxSmxtR0sydl9CQmV3WFVDcjExek9nX1ZsT0VlX1VLNUZvU3NCc05HTWQ2Q05Fd1R4SnV1eU5KeGVTVW1LRGI4WVdfM2RVVDhJMW44YnU3LXl1OWFpQngtYVYwMEFT?oc=5",
       "via": "rss",
       "verified": false
     },
