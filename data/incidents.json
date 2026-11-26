@@ -1,13 +1,52 @@
 {
-  "updated": "2026-11-25T21:43:50.868Z",
+  "updated": "2026-11-26T08:16:53.436Z",
   "counts": {
-    "total": 2061,
+    "total": 2067,
     "verified": 28,
-    "automated": 2033,
+    "automated": 2039,
     "earliest": "2024-07-01",
-    "latest": "2026-11-25"
+    "latest": "2026-11-26"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-26-13-suspected-naimos-impersonators-remanded-into-custody",
+      "date": "2026-11-26",
+      "category": "prosecution",
+      "title": "13 Suspected NAIMOS Impersonators Remanded into Custody",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 Suspected NAIMOS Impersonators Remanded into Custody NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3VUNWlSWGpPajdRUjRjVWJGNlFfM0FDajNmVXVkbkVtZFpqcHozY3FTX08xTVJOR1liVzVCRk5BMW40MHZnRmZ1T3pMeGdfVzFzT3FKaTMtT0ZJcWlVVmJmVmljUWNMNHZHWmY2YVA0Rl9VX3RlNDRkdXo4Q2lITC1hdE01Y1FV?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX3VUNWlSWGpPajdRUjRjVWJGNlFfM0FDajNmVXVkbkVtZFpqcHozY3FTX08xTVJOR1liVzVCRk5BMW40MHZnRmZ1T3pMeGdfVzFzT3FKaTMtT0ZJcWlVVmJmVmljUWNMNHZHWmY2YVA0Rl9VX3RlNDRkdXo4Q2lITC1hdE01Y1FV?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-12-live-galamsey-cssps-challenges-and-vacancy-on-the-council-of"
+    },
+    {
+      "id": "auto-2026-11-26-13-remanded-for-impersonating-naimos-operatives",
+      "date": "2026-11-26",
+      "category": "prosecution",
+      "title": "13 remanded for impersonating NAIMOS operatives",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 remanded for impersonating NAIMOS operatives MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGROQVdNc01abnRLaGpGT0pXY3MyeGVGXzJKS3JOazNoaXVjM2RiemNlQTd1UnMxUUlIa3lvVm9qTFp0Y2FhN2ZLcWFURUNEUEJtVmd1a01NOUZvX0RsbWxtVGVsTlJ6Mkx6STZRWXM1ZUlfd0FRdzhLQW11bHNydHNn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGROQVdNc01abnRLaGpGT0pXY3MyeGVGXzJKS3JOazNoaXVjM2RiemNlQTd1UnMxUUlIa3lvVm9qTFp0Y2FhN2ZLcWFURUNEUEJtVmd1a01NOUZvX0RsbWxtVGVsTlJ6Mkx6STZRWXM1ZUlfd0FRdzhLQW11bHNydHNn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
     {
       "id": "auto-2026-11-25-naimos-to-extend-galamsey-operation-to-other-water-bodies-be",
       "date": "2026-11-25",
@@ -289,6 +328,26 @@
       "verified": false,
       "archivedAt": "2026-11-25T21:42:42.576Z",
       "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-25-mr-president-please-act-now-storm-gathering-at-northern-door",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "Mr President please act now: Storm gathering at Northern Door: Galamsey threat exacerbated!",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mr President please act now: Storm gathering at Northern Door: Galamsey threat exacerbated! Graphic Online",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX3A5bUFvcG9XNnBMZHd3b1ZsUnljSG42OS1rU2trcU90WE0tb3pBU0lFeEMyZ1JYWmdSekpZanFwUUt4bGhGblBLUUpkYm43QnlDdGRXNjdjT2FibVMwN0QzZ0RmWUtxYkRFRDg3WE0wa3diSjhMdGlweng1UzRRNnRNLUxhTWpOWm5CdGVUZU5ldTVCMC1WOWxsT01TMEFLdEFha3dncHVhcm1yZl9WRG5mX1dhXzRNME9vTzh5a05fTHNkdm4wdEladEVnWmFoSVpITE9FNTBVQWl2b2QxTm5PQQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX3A5bUFvcG9XNnBMZHd3b1ZsUnljSG42OS1rU2trcU90WE0tb3pBU0lFeEMyZ1JYWmdSekpZanFwUUt4bGhGblBLUUpkYm43QnlDdGRXNjdjT2FibVMwN0QzZ0RmWUtxYkRFRDg3WE0wa3diSjhMdGlweng1UzRRNnRNLUxhTWpOWm5CdGVUZU5ldTVCMC1WOWxsT01TMEFLdEFha3dncHVhcm1yZl9WRG5mX1dhXzRNME9vTzh5a05fTHNkdm4wdEladEVnWmFoSVpITE9FNTBVQWl2b2QxTm5PQQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-24-klottey-s-anti-galamsey-walk-reaches-northern-region"
     },
     {
       "id": "auto-2026-11-24-purc-calls-for-urgent-action-against-galamsey-pollution-of-t",
@@ -1907,6 +1966,26 @@
       "verified": false
     },
     {
+      "id": "auto-2026-11-19-npp-s-abanga-blasts-amoakohene-for-snubbing-manso-keniago-af",
+      "date": "2026-11-19",
+      "category": "forest",
+      "title": "NPP's Abanga blasts Amoakohene for 'snubbing' Manso Keniago after deadly NAIMOS clash",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "NPP's Abanga blasts Amoakohene for 'snubbing' Manso Keniago after deadly NAIMOS clash GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb09tR0I2WmduSkdid2xlTkRyRHV5VEI1cFdjVktydktZQ2xnclA2N25CV3B5X3lOMVNxWVNkUk5RY2tlLXN0aEVwWFRQaldWal8wU1ZfMm1XcFE5M2wyb0hnM2RQc2lHWlRsWjFDUUpHWlJhWGRLNHZpWkowbzlmOVI2aHpSbkxSSk5PMU1aMDFEblRMYmFxNmdhbHByalNHZ3JHdTVGTHBybXZ1d0p3Z2Zlb3ZOUlk1SjFQS1ZJSjNrT3AyQjJvQkhuYUxjWFBQb1lkbS05T1Bqdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb09tR0I2WmduSkdid2xlTkRyRHV5VEI1cFdjVktydktZQ2xnclA2N25CV3B5X3lOMVNxWVNkUk5RY2tlLXN0aEVwWFRQaldWal8wU1ZfMm1XcFE5M2wyb0hnM2RQc2lHWlRsWjFDUUpHWlJhWGRLNHZpWkowbzlmOVI2aHpSbkxSSk5PMU1aMDFEblRMYmFxNmdhbHByalNHZ3JHdTVGTHBybXZ1d0p3Z2Zlb3ZOUlk1SjFQS1ZJSjNrT3AyQjJvQkhuYUxjWFBQb1lkbS05T1Bqdw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-15-amoakohene-calls-for-review-of-naimos-operations-over-manso-"
+    },
+    {
       "id": "auto-2026-11-18-parliament-demands-independent-probe-into-manso-keniago-deat",
       "date": "2026-11-18",
       "category": "policy",
@@ -2410,7 +2489,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVzSmd6NGdPZkZyOHpFVjhabFRXa3dPZ056NVlLLWZEYkR6T3BIMFF4Q3hSQVpUWnBPaXQ5czRwTVA4NGhCSWI0NEVtbW1HUEc2YlB1eDRENS1aQXllbzcycGFCd09jQ0VCUUtKamxvTzdkdzBQM3V4c2pVQk9NOHJXVzRGVUFxSWVFUUswVWF2T3VF0gGTAUFVX3lxTE5qNGpUU3Nzd1ZBZnhrMldOdjl3RElVQXo5Y0kyZkk4R08wSU5tbW1IeHRqX25yampKby1VMlRDZlFHSkwxV3dhM002UDg3cHhyazVjRmxqRXdvYWYxcDhkYXM0Zkl5cTlZUEwwUDd1b0tkbWdWa014cXUwNDVJOFlvUmcxNGVGNWJYWDlvcGxpbmhtSQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-"
     },
     {
       "id": "auto-2026-11-17-erastus-asare-donkor-denies-taking-bribes-to-kill-galamsey-s",
@@ -3049,7 +3128,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Nam9kQTBMSlhJVjJtelc2TURaamdrMTljRVE5WEVWcXVTM1VRZWd6ZG1MeU5JYlVheF9QM1pmT0g0LVp0SWJMaC1zOWF0d2lKMlhMUVhiY3NwdUtzVG9UWVRPcVbSAVxBVV95cUxQMFcxY3pjbXh2bTBOMk5xcDFSUjE5dV9Bc0J4ME9zYTF0aVQxX3c3OTd2YkVoRHBuZWwweHBOTnYxNnR1azhHZkY2N1FBa2xEMWFXRU9pQ0pjLVNQcA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-10-galamsey-atronie-residents-block-sunyani-ntrotroso-route-in-"
     },
     {
       "id": "auto-2026-11-16-weakening-naimos-operations-won-t-keep-ndc-in-power-ken-ashi",
@@ -3420,7 +3499,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZW03UndyaGVMYVpmUzVBdHFYaGh5eDAyc3ZJZV9iQnVraDc2YnVSWEwwZG5oREp0ZHJ6YzlaclFyblhjVkEzXzZfTl8wU1d1MnFBYmZjUTl2THlJdjU3ajFDWGdWWHR2QXRj?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
     },
     {
       "id": "auto-2026-11-16-four-arrested-for-impersonating-naimos-extorting-money-from-",
@@ -3524,7 +3603,47 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiugFBVV95cUxNWFRoT2lEa1lpdjNpM3RXbEFRaTIwclNZNUZYRy1Vck90VmtHRWlJOFFSYTNDemVkZGw1YWlndG1hbll0RXJvU1kxQmJvbUhfWjFYV3hIUkVtaWlCdEFvQ3V1dDFIQUhIWmI4azVaQ1VYcDRvaGhoYkREUC1zNDVtYkp5Wi1ROVZnT3VMbGIwNEswcnlpMzgtZ2NBcllOLUdnQWp4Rkw3am5HQXk3bjhlU3RYMm5aa2hmOHc?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
+    },
+    {
+      "id": "auto-2026-11-16-ghana-declare-state-of-emergency-in-galamsey-areas-catholic-",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "Ghana: Declare State of Emergency in Galamsey Areas · Catholic Bishops Urge Pres Mahama to Take Decisive Action",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: Declare State of Emergency in Galamsey Areas · Catholic Bishops Urge Pres Mahama to Take Decisive Action allAfrica.com",
+      "metrics": {},
+      "source": {
+        "name": "allAfrica.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNGJMaTFreVN3eHpBdExHcGRFM3JlWU9ZTHFUendYY2RWUDVQaUFLNV9WRGZrbk9wYTB1aFFvNG81Nm9wc1JrYlBrd3pNY3BkN0M1UFhtakZaaFU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tNGJMaTFreVN3eHpBdExHcGRFM3JlWU9ZTHFUendYY2RWUDVQaUFLNV9WRGZrbk9wYTB1aFFvNG81Nm9wc1JrYlBrd3pNY3BkN0M1UFhtakZaaFU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-16-we-should-ve-killed-you-and-gh-200k-bribe-ndc-chairman-drops",
+      "date": "2026-11-16",
+      "category": "forest",
+      "title": "'We Should've Killed You and GH¢200K Bribe': NDC Chairman drops 'bombshell' against NAIMOS",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'We Should've Killed You and GH¢200K Bribe': NDC Chairman drops 'bombshell' against NAIMOS GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzVERDZROGJvQnhBZTNwZzFqSEhuYUlFR1VmUnlPM0g1WDlrZ2MwQmQteWNxb3JqeUNMcXFXbVh1c25McEEwa3JvUktIQ2JXQnpxdV8tS1VVZHh4N01jQmdJR2JZa0lMSXBONHI4YXpfX1ZKSzc0RDNUTUJNY0tHX0Z1OGlyN0ZFbVV0d1NFa25kaUxwc1NjYk9Yc1dneGM0bVktWFlZbVdzTXladGFPVmdYcnZsV1JmdDVlTndQTUs0bGRBa0lIYlVlUHZXWW5NMkRoalRGZWJON1lp?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzVERDZROGJvQnhBZTNwZzFqSEhuYUlFR1VmUnlPM0g1WDlrZ2MwQmQteWNxb3JqeUNMcXFXbVh1c25McEEwa3JvUktIQ2JXQnpxdV8tS1VVZHh4N01jQmdJR2JZa0lMSXBONHI4YXpfX1ZKSzc0RDNUTUJNY0tHX0Z1OGlyN0ZFbVV0d1NFa25kaUxwc1NjYk9Yc1dneGM0bVktWFlZbVdzTXladGFPVmdYcnZsV1JmdDVlTndQTUs0bGRBa0lIYlVlUHZXWW5NMkRoalRGZWJON1lp?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-04-galamsey-collapses-achiase-anumso-bridge"
     },
     {
       "id": "auto-2026-11-15-galamsey-today-is-worse-than-it-was-in-2024-miracles-aboagye",
@@ -3604,7 +3723,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVFTZHNKekNvN2hMbzR6R1p6U3RXdXV3bnRPNExhNFV2MW1WZkFFN3l4dEFNVTZpRmhOZno3aEdISVdIaFlFRTZEN0hOa3EtWEw3bm1fblpYSXp3N0sxZEpwZ0NPODdwc1ZTY211RkZ6NEdwSVdDNFNwRFlkalUzMEk4aHpBSWQxd0pJN09iMXFicWRFZmNhNXJZZHIwUGdTZ2NNS3JB?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-15T18:49:43.426Z"
+      "archivedAt": "2026-11-15T18:49:43.426Z",
+      "thread": "t-auto-2026-11-15-amoakohene-calls-for-review-of-naimos-operations-over-manso-"
     },
     {
       "id": "auto-2026-11-15-naimos-arrests-30-seizes-35-trucks-in-illegal-sand-winning-c",
@@ -6742,7 +6862,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-11-08T13:18:49.671Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-11-08-speaker-bagbin-promises-journalists-online-access-to-parliam",
@@ -8680,7 +8800,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTlmenp4dEszZWs2ZC02VVczUzkzd0k3VExYelZWZ2tMb3d0N0swRzJiVTJoTVVSY3Z4Z091TFlGdk91RVp2Z293b3VyOFhubEVBUmtOUVFIdkNiZmw3MW5Pc1hIRmhwRDhia1FSSFBsblZDVGw3RG1QQkVJcGw1ek9aYzJ6NFhhMW5WUXhmSEMtLWt6SEZITzUxTlkzLW1nVzhVZFVBRDFKZHBsS3BHQVBKOA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-11-03-buah-charges-youth-to-lead-fight-against-galamsey",
@@ -10348,7 +10468,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkZ6RTVVMVNvaE9rTUFWaEl3U2pfZzg5Si1aekJjRkFUZTZpZjFKVWU1dFJxdTZCUzJjTGpHS0tPdDQzMWJfcGFlZEFfS2hmRmNfSFVfTW9udExIUkVoWmctSkFCTmFGSzVIVFpRTzJoMUxIQ1ZUc3l0MG9JNzdnanRIaXh2Qm9zT3hSdnc1M1RFTXR4SXE40gGWAUFVX3lxTE9zckM4YUZYSVZYbW5ybXpZdHNJTGpSODk1UW1yQ3YtUExCbGt3dnNLSjBmOU9aMk5mZ1FBU2JsVXlUQTZUN2tLNmdYa2wwUUsyMWNIRHU3MGRZREtQNzd2X2JXWTZZYm5sOFA4aHZIWkY1UGJMQTZuMjYtbHR0d1NRQ3I2bzNRM1hCX1JEX1V1c096V1FYUQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g"
     },
     {
       "id": "auto-2026-10-31-ndc-and-npp-representatives-nearly-come-to-blows-on-newsfile",
@@ -11868,7 +11988,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1Rld08zVWJfUngzeFRncmtSQjZYZlFVSE1TZDFSMmt5Yi1hM2U4X3picjhVNl9iOEM4YXJlWFVpRmNqRmpuc0c0T1h1ekhfUlZacXpscXdDUWpTZk5ibkJ2WkotWUJLMlA1Vmtmd2xLRm1nWC1BM1pDSnVMLXAzXzhxNDJBLUlEMGFjaTh4OTJoeUoyMUHSAZQBQVVfeXFMTXBSRk1PVlZaSWpCdWdmUnMyaE1oSTJndlRTTC04c3FOSVRLUzJMYWJ2WnVjM1hmTm9veXJxd3FQdXBuX0pJM0VCSEF0T1JGOXJXaTFrNVlOS1E0VnBnbWpuczNxdTY3d3hWUlEycXYycXJYelZoTUNkUEdRa0FYeXJlaWFSaVF0dC1iVlRDMGllWlZ2YQ?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-10-29-fight-against-illegal-mining-naimos-engages-small-scale-mine",
@@ -19982,7 +20102,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-10-11T21:57:13.632Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-10-09-catholic-bishops-renew-call-for-state-of-emergency-over-gala"
     },
     {
       "id": "auto-2026-10-09-any-police-officer-or-soldier-who-is-man-enough-should-come-",
@@ -22728,7 +22848,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RNXFiQkFkU2ZVZURMZlBONjJTY1FhNUhwVU9ydEFRRUNRWEZ5Sk5hUnBaeWRZX01VSlBDVkdtV2hSRDFUd1UtOEpoaFp3RHdGMF9IMHBWUVo4Q1BQaE53WDgxQUTSAVxBVV95cUxNdTFJT3NkN1hYUUR2ZEpoS0RUTFVRdm1OV0MxeXVVamUyZW1YZTQxb0ZmMUJMYkRKNmRERE13YXlGcEpMZXIzRFNxa2I3bEpLMXpvX0wwQUlXbllGRA?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-25-galamsey-threat-goes-beyond-ghana-s-borders"
     },
     {
       "id": "auto-2026-09-27-no-one-involved-in-galamsey-will-escape-prosecution-lands-mi",
@@ -22848,7 +22968,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:21:44.536Z",
-      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+      "thread": "t-auto-2026-09-26-mahama-s-excuse-against-state-of-emergency-on-galamsey-does-"
     },
     {
       "id": "auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g",
@@ -22869,7 +22989,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-26T11:22:08.950Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-09-26-i-never-said-i-will-declare-a-state-of-emergency-mahama-on-g"
     },
     {
       "id": "auto-2026-09-26-galamsey-i-never-ever-said-i-ll-declare-a-state-of-emergency",
@@ -23052,7 +23172,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/study-by-military-calls-for-stronger-coordination-to-tackle-illegal-mining-in-western-region",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T21:07:57.905Z"
+      "archivedAt": "2026-09-26T21:07:57.905Z",
+      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
     },
     {
       "id": "auto-2026-09-26-prez-mahama-speaks-to-ghanaians-in-new-york-on-galamsey-tikt",
@@ -23173,7 +23294,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2I4S2ozejRURUxZT3k5SGJ5d1RibHN0aW0xR0R4bUtkb0ZoS2Z3N25hQTQ3SS1wWDVDZ0UyeW12YTVseHB5ZWVyNXVPU2lNQXdRVlNKd09VWllXa2NPTHVhYmFkM0RReHpkd2lwZFRuVl93aUdTYWU2aHNoNUtmdEtGTnRNNkVseUpaUVVKTG9QNW54?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-10-naimos-military-and-police-storm-wakawaka-in-anti-galamsey-o"
+      "thread": "t-auto-2026-09-26-study-by-military-calls-for-stronger-coordination-to-tackle-"
     },
     {
       "id": "auto-2026-09-26-our-gold-their-value-illegal-mining-and-the-foreign-buyers-d",
@@ -23705,7 +23826,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVM4ajZ6WGhlMXU2UGx3TlpQSERYMzhVSmlzVlA3Qi0zc1lHWTJyeEd6QXpRdnppSlVrYmhtRGVmREMyZm4xZVpQaHY5S1lMaU50TkhtNzNOMHl1bnVJODRINUNKNWMxVlZXRXVfOWF2WHBYbWItOERNSmgyM1V0RHJBeEtPRF9vbm1RWjBjUXRkOGlicl9kcWlSNDc5VTdyeTFrRg?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-26T04:59:25.927Z"
+      "archivedAt": "2026-09-26T04:59:25.927Z",
+      "thread": "t-auto-2026-09-24-klottey-s-anti-galamsey-walk-reaches-northern-region"
     },
     {
       "id": "auto-2026-09-24-the-damang-precedent-sovereign-extractive-wealth-vs-the-para",
@@ -28797,7 +28919,7 @@
       "via": "rss",
       "verified": false,
       "archivedAt": "2026-09-01T21:00:50.520Z",
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-09-01-galamsey-deaths-ashigbey-calls-for-targeted-state-of-emergen",
@@ -29472,7 +29594,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wYnktcUp2MWwwdUJueFpiQXJVbEN5c3FHbjJ0YVFPYWNXVTFsbGtOazRIRG9CckdHcWhQZ256Y2RZU2tpWjVscTdhbnZyTG9tb1lGbDU5NGtZRXJxekRET1llc9IBXEFVX3lxTE93cXM0Q2VOcVVMS0JxNGkyNDFTNWJqdFhmSHlkX2NpRkRmQ1BiUmw0RjBscWZRaVE4WVpSaGZlZHltRFBuZTlvTktBTEtwNDRNZ1M3dG9qOXM2UlpH?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+      "thread": "t-auto-2026-08-31-galamsey-state-of-emergency-is-no-magic-wand-schandorf-point"
     },
     {
       "id": "auto-2026-08-31-president-mahama-cannot-fail-us-prof-godfred-bokpin-on-galam",
@@ -38154,7 +38276,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnlWcVpOVW1kRlBHRjktTkNUbnFsdDZhdDlmRGFpU2lSdUcwT0lpckJXWThlTFdGRlBRNWl1Q2VmRXFsdTNHNG5qRFdBMm1mcUN4aTlLeVhRR1ZfamlkSldLbjFvQW4wNHRXVkFRd21taUFISkdDbVVaZlh2XzA5YS1LT0FabGJqcWx1c1p5RjlNTFJC0gGTAUFVX3lxTE05WXdmbXoxcXF6OGZrd3ByVzByejg4Z082T01YU3lfQXVOSmNLeU42S3c3LVBMR0xfb2FDU0l3RGl4U3hJYUo0ZDJzUnJNUU5xRjBBbFBTV25zMnB4NFVNVkxQaU9feFZmZjBjbXlzVFR5WGpiRXowYzZZTUxXVTltOVg1VVEyaWtIbFBibkI2d09SWQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-08-09T15:42:12.979Z"
+      "archivedAt": "2026-08-09T15:42:12.979Z",
+      "thread": "t-auto-2026-08-07-we-did-not-give-akufo-addo-grace-on-galamsey-so-we-won-t-giv"
     },
     {
       "id": "auto-2026-08-07-galamsey-will-eventually-tarnish-our-performance-dadson-warn",
