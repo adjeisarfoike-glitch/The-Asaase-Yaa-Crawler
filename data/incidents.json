@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-26T08:16:53.436Z",
+  "updated": "2026-11-26T21:35:08.570Z",
   "counts": {
-    "total": 2067,
+    "total": 2083,
     "verified": 28,
-    "automated": 2039,
+    "automated": 2055,
     "earliest": "2024-07-01",
     "latest": "2026-11-26"
   },
@@ -44,6 +44,276 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGROQVdNc01abnRLaGpGT0pXY3MyeGVGXzJKS3JOazNoaXVjM2RiemNlQTd1UnMxUUlIa3lvVm9qTFp0Y2FhN2ZLcWFURUNEUEJtVmd1a01NOUZvX0RsbWxtVGVsTlJ6Mkx6STZRWXM1ZUlfd0FRdzhLQW11bHNydHNn?oc=5"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGROQVdNc01abnRLaGpGT0pXY3MyeGVGXzJKS3JOazNoaXVjM2RiemNlQTd1UnMxUUlIa3lvVm9qTFp0Y2FhN2ZLcWFURUNEUEJtVmd1a01NOUZvX0RsbWxtVGVsTlJ6Mkx6STZRWXM1ZUlfd0FRdzhLQW11bHNydHNn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-presidency-summons-top-officials-and-security-chiefs-for-dec",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "Presidency summons top officials and security chiefs for December 1 galamsey meeting",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Presidency summons top officials and security chiefs for December 1 galamsey meeting 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWVoTHJCT2pPMEFqUjlYQ2hEaGFlWkFibW15N3FYODU4Tm1LVXVTYWMydXNxXzdQZEVhZldzcW5xeFltSW1uem5vMzRCOGFZb3A0eVB2dHp6cGxwME9QN19zU3U4b2hWbm81ejFLcU5PbmUyMDRQNWt2eVEyRHgwZTZHVzVGcTF5NVE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWVoTHJCT2pPMEFqUjlYQ2hEaGFlWkFibW15N3FYODU4Tm1LVXVTYWMydXNxXzdQZEVhZldzcW5xeFltSW1uem5vMzRCOGFZb3A0eVB2dHp6cGxwME9QN19zU3U4b2hWbm81ejFLcU5PbmUyMDRQNWt2eVEyRHgwZTZHVzVGcTF5NVE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-eastern-region-galamsey-destroys-praho-community-pra-river-n",
+      "date": "2026-11-26",
+      "category": "water",
+      "title": "Eastern Region: Galamsey destroys Praho community, Pra River not spared",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "Eastern Region: Galamsey destroys Praho community, Pra River not spared 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHREZTV5ZURFTDlYTUlSclFUNzcxV0ttQmstb2RSZXRHVXNqUURheTB2TUNuMG5DZzd2Y2F3X1liRmtCZlFVZnZKX3NIclVlaFJQQkZkQ05FcUtFMzVGNXg1VmlVWHBBTldkNExiYmMycW5obHdGaHo2RV9rR1RVME9LZEZ5NkVZ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOHREZTV5ZURFTDlYTUlSclFUNzcxV0ttQmstb2RSZXRHVXNqUURheTB2TUNuMG5DZzd2Y2F3X1liRmtCZlFVZnZKX3NIclVlaFJQQkZkQ05FcUtFMzVGNXg1VmlVWHBBTldkNExiYmMycW5obHdGaHo2RV9rR1RVME9LZEZ5NkVZ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-2027-budget-and-galamsey-over-the-years-this-issue-has-been-",
+      "date": "2026-11-26",
+      "category": "policy",
+      "title": "2027 budget and galamsey: Over the years, this issue has been turned into a political issue.",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "2027 budget and galamsey: Over the years, this issue has been turned into a political issue. Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veEhlRzNTSDdvdjJnMlk4QlNLaktSMkY0aUlzSzhnWkxoR1ItMWgxT1VOWEp4VVlISG5iTVhxakpfMVdISGZOclMta2NtcG55RFRha0pvVVMwMDlJNWNGOFNENmXSAVxBVV95cUxOeExNaG1RWXpIemc3WmUzZFVRc3FzcmtuWmtmT0k2Nk14MUdyV19NVXQ2bkNqRTBZUEo1THpzUDN0NkNLTkVDWTZRTjdsWF90NklrcUd6WjdVSUhzdw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE9veEhlRzNTSDdvdjJnMlk4QlNLaktSMkY0aUlzSzhnWkxoR1ItMWgxT1VOWEp4VVlISG5iTVhxakpfMVdISGZOclMta2NtcG55RFRha0pvVVMwMDlJNWNGOFNENmXSAVxBVV95cUxOeExNaG1RWXpIemc3WmUzZFVRc3FzcmtuWmtmT0k2Nk14MUdyV19NVXQ2bkNqRTBZUEo1THpzUDN0NkNLTkVDWTZRTjdsWF90NklrcUd6WjdVSUhzdw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-2027-budget-and-galamsey-the-budget-allocated-to-naimos-by-t",
+      "date": "2026-11-26",
+      "category": "policy",
+      "title": "2027 budget and galamsey: The budget allocated to NAIMOS by the government is peanuts, Michael Adofo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "2027 budget and galamsey: The budget allocated to NAIMOS by the government is peanuts, Michael Adofo Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nT0dIX1hDNENKYk5DZ3ZIZGU5NlNpbzNjbk9Cb29JMHhHblhlb3JYVFVWZ3pvWWxPSWRfcGZHNVhvTG5vV1dseFRfZDI1RnE0Q3o1cHUwenRvVWR5dEU3d3M2UC3SAVxBVV95cUxPT0hoLS1IX3lDMFp5OEo0dFRSamRtb0hyNmhseG91Y2llQ1c2UUdibVNSMnhxVEZ0VkdnTkN2RzBYemdSVDdCUmxaOFRQWVhTVWhJNmFxVGpQaFhpYQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nT0dIX1hDNENKYk5DZ3ZIZGU5NlNpbzNjbk9Cb29JMHhHblhlb3JYVFVWZ3pvWWxPSWRfcGZHNVhvTG5vV1dseFRfZDI1RnE0Q3o1cHUwenRvVWR5dEU3d3M2UC3SAVxBVV95cUxPT0hoLS1IX3lDMFp5OEo0dFRSamRtb0hyNmhseG91Y2llQ1c2UUdibVNSMnhxVEZ0VkdnTkN2RzBYemdSVDdCUmxaOFRQWVhTVWhJNmFxVGpQaFhpYQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-mahama-convenes-high-level-meeting-on-galamsey-ken-ashigbey-",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "Mahama Convenes High-Level Meeting on Galamsey: Ken Ashigbey Shares Views",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama Convenes High-Level Meeting on Galamsey: Ken Ashigbey Shares Views Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyb2s5V1NzYVVleTlzUTd2aDU3NjBlRjhNVnlfZ0VrR2pnZFZnZDNuQk5paW1jOFBPTHJsVVRqUUlDaTJTQTNrMS1YU3lSTWZfQjRQTTFGVENCUko0OXN30gFcQVVfeXFMUEVodU1ndkZkaGVHbVBDNnlyLTZkNEpjLVI4dFBYZUF1RFV0R3dHQk5aak9ZR2I4X3ZXbG9Dc2MzeFpYeHR2ZHRZbUVQMVNwUDlXbEtpSEMtQmhjeEg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyb2s5V1NzYVVleTlzUTd2aDU3NjBlRjhNVnlfZ0VrR2pnZFZnZDNuQk5paW1jOFBPTHJsVVRqUUlDaTJTQTNrMS1YU3lSTWZfQjRQTTFGVENCUko0OXN30gFcQVVfeXFMUEVodU1ndkZkaGVHbVBDNnlyLTZkNEpjLVI4dFBYZUF1RFV0R3dHQk5aak9ZR2I4X3ZXbG9Dc2MzeFpYeHR2ZHRZbUVQMVNwUDlXbEtpSEMtQmhjeEg?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-without-accountability-ghana-will-keep-losing-the-galamsey-f",
+      "date": "2026-11-26",
+      "category": "policy",
+      "title": "Without accountability, Ghana will keep losing the galamsey fight",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Convener of the Media Coalition Against Illegal Mining, Ken Ashigbey, has called for a paradigm shift in Ghana’s fight against illegal mining, arguing that the country cannot win the battle by directing enforcement efforts from Accra.",
+      "metrics": {},
+      "source": {
+        "name": "Ken Ashigbey",
+        "url": "https://3news.com/news/without-accountability-ghana-will-keep-losing-galamsey-fight"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/without-accountability-ghana-will-keep-losing-galamsey-fight",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-26-mike-ocquaye-jr-questions-sam-george-ablakwa-and-sammy-gyamf",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "Mike Ocquaye Jr questions Sam George, Ablakwa and Sammy Gyamfi’s silence on galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mike Ocquaye Jr questions Sam George, Ablakwa and Sammy Gyamfi’s silence on galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHR4aTNXS1NLdE41ejZIcnNqYjhpTEZ6VjNUcHdDRmF4cHFNbUZkLWlfbmw1WlQ0ekYzWE9HU0U4dzdsc0paQ29wc1BRUkZsRmlDeHdOaGx5eDZkcFB3ZTZYbG5wZGhCMWp1ZUQxYXhWLXVobHVDVlM0MUdpbjhaUVBjUmxYSDRWaXBTTVY5NFhTaEnSAZMBQVVfeXFMT1B0eGkzV0tTS3RONXo2SHJzamI4aUxGelYzVHB3Q0ZheHBxTW1GZC1pX25sNVpUNHpGM1hPR1NFOHc3bHNKWkNvcHNQUVJGbEZpQ3h3TmhseXg2ZHBQd2U2WGxucGRoQjFqdWVEMWF4Vi11aGx1Q1ZTNDFHaW44WlFQY1JsWEg0VmlwU01WOTRYU2hJ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHR4aTNXS1NLdE41ejZIcnNqYjhpTEZ6VjNUcHdDRmF4cHFNbUZkLWlfbmw1WlQ0ekYzWE9HU0U4dzdsc0paQ29wc1BRUkZsRmlDeHdOaGx5eDZkcFB3ZTZYbG5wZGhCMWp1ZUQxYXhWLXVobHVDVlM0MUdpbjhaUVBjUmxYSDRWaXBTTVY5NFhTaEnSAZMBQVVfeXFMT1B0eGkzV0tTS3RONXo2SHJzamI4aUxGelYzVHB3Q0ZheHBxTW1GZC1pX25sNVpUNHpGM1hPR1NFOHc3bHNKWkNvcHNQUVJGbEZpQ3h3TmhseXg2ZHBQd2U2WGxucGRoQjFqdWVEMWF4Vi11aGx1Q1ZTNDFHaW44WlFQY1JsWEg0VmlwU01WOTRYU2hJ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-why-has-government-not-declared-a-state-of-emergency-on-gala"
+    },
+    {
+      "id": "auto-2026-11-26-court-remands-13-alleged-naimos-impersonators-over-extortion",
+      "date": "2026-11-26",
+      "category": "prosecution",
+      "title": "Court remands 13 alleged NAIMOS impersonators over extortion from miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Court remands 13 alleged NAIMOS impersonators over extortion from miners Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcU5zUVFMR3JudkZPTG1FNWd6ZS1SZzlHUEdBOTdaUkVBaGl3Q0thc2lZT2czUUpoVjZSM3ZTWHJyT3AzbHhYcjlXdk9vZm9MWTByZXAtOVJ5dmdWNlRiRDNOdktWTjdETlVVR2JmT1NQR1B4enZQVWtCb0pGYktxZ2VGd2pIenhUOW9aVnc1X3QtQ2VtSXJTbzUxNlXSAZsBQVVfeXFMUGVTelFoSmdSQmdpNlpvZy1FWkRTVjdLaDIzd2ZpLTJ2QjcxWV9lcDQ3dnV5UGpicHFTY0g0YTdqM0tvWk5EOXlfUkpGODYwZS1kcFZJc2pldU42UzM3TEhiVkJCbHUtaUJBbEVjQXVlTkFoQVdHWHdtWUVzMVVtYWRaam43SWUyWVNuc0JpdUpFV2d5czExZENhZWM?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMinAFBVV95cUxQcU5zUVFMR3JudkZPTG1FNWd6ZS1SZzlHUEdBOTdaUkVBaGl3Q0thc2lZT2czUUpoVjZSM3ZTWHJyT3AzbHhYcjlXdk9vZm9MWTByZXAtOVJ5dmdWNlRiRDNOdktWTjdETlVVR2JmT1NQR1B4enZQVWtCb0pGYktxZ2VGd2pIenhUOW9aVnc1X3QtQ2VtSXJTbzUxNlXSAZsBQVVfeXFMUGVTelFoSmdSQmdpNlpvZy1FWkRTVjdLaDIzd2ZpLTJ2QjcxWV9lcDQ3dnV5UGpicHFTY0g0YTdqM0tvWk5EOXlfUkpGODYwZS1kcFZJc2pldU42UzM3TEhiVkJCbHUtaUJBbEVjQXVlTkFoQVdHWHdtWUVzMVVtYWRaam43SWUyWVNuc0JpdUpFV2d5czExZENhZWM?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-13-remanded-for-posing-as-naimos-officers-to-extort-money-fr",
+      "date": "2026-11-26",
+      "category": "prosecution",
+      "title": "13 remanded for posing as NAIMOS officers to extort money from miners",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "13 remanded for posing as NAIMOS officers to extort money from miners Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzFCU3ptUTdrc25wU0VuRVQtdVJUTG81dGxsLXlYSEFiVXNndUZRTThGejFGYWhMeHdNbE51dVJKalR2X3RVeXNGM3doMmFjdDJuWEE5bk55VlBUcTZoRVN6LVA2RWtGbXgxMUZBa2JFdHBjV2pWMF85UU1EQV9rTWhLUTZyNHU1R0g0WncwOUptcmViWC1oUEpPONIBmwFBVV95cUxPUzFCU3ptUTdrc25wU0VuRVQtdVJUTG81dGxsLXlYSEFiVXNndUZRTThGejFGYWhMeHdNbE51dVJKalR2X3RVeXNGM3doMmFjdDJuWEE5bk55VlBUcTZoRVN6LVA2RWtGbXgxMUZBa2JFdHBjV2pWMF85UU1EQV9rTWhLUTZyNHU1R0g0WncwOUptcmViWC1oUEpPOA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxPUzFCU3ptUTdrc25wU0VuRVQtdVJUTG81dGxsLXlYSEFiVXNndUZRTThGejFGYWhMeHdNbE51dVJKalR2X3RVeXNGM3doMmFjdDJuWEE5bk55VlBUcTZoRVN6LVA2RWtGbXgxMUZBa2JFdHBjV2pWMF85UU1EQV9rTWhLUTZyNHU1R0g0WncwOUptcmViWC1oUEpPONIBmwFBVV95cUxPUzFCU3ptUTdrc25wU0VuRVQtdVJUTG81dGxsLXlYSEFiVXNndUZRTThGejFGYWhMeHdNbE51dVJKalR2X3RVeXNGM3doMmFjdDJuWEE5bk55VlBUcTZoRVN6LVA2RWtGbXgxMUZBa2JFdHBjV2pWMF85UU1EQV9rTWhLUTZyNHU1R0g0WncwOUptcmViWC1oUEpPOA?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-weapons-mass-arrests-alone-cannot-stop-galamsey-armah-kofi-b",
+      "date": "2026-11-26",
+      "category": "arrest",
+      "title": "Weapons, mass arrests alone cannot stop galamsey – Armah-Kofi Buah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Weapons, mass arrests alone cannot stop galamsey – Armah-Kofi Buah MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2hsY2pGRDB0cVliTVB0bl9DQWROb01pT010RDduX2swSjRjUEpvSmctVXhGMThJOTItUm0zZW1NMlhIUXptVWJueENyV0lNeFA3aW5GRV81UlgxdzY0ckxydVpONE9ZSG1ZeE4wYk04OGxSb3cwT2lYUzZtZ3Zuc3FVRkdLQmNYa1NtR0ZNSFAwTVlyQnhn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2hsY2pGRDB0cVliTVB0bl9DQWROb01pT010RDduX2swSjRjUEpvSmctVXhGMThJOTItUm0zZW1NMlhIUXptVWJueENyV0lNeFA3aW5GRV81UlgxdzY0ckxydVpONE9ZSG1ZeE4wYk04OGxSb3cwT2lYUzZtZ3Zuc3FVRkdLQmNYa1NtR0ZNSFAwTVlyQnhn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-stop-pleading-for-arrested-illegal-miners-zanetor-urges-trad",
+      "date": "2026-11-26",
+      "category": "arrest",
+      "title": "Stop pleading for arrested illegal miners, Zanetor urges traditional, religious leaders",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Minister for Environment, Science and Technology, Dr Zanetor Agyeman-Rawlings, has urged traditional leaders, religious leaders and politicians to stop pleading for people arrested for engaging in illegal mining and other activities that pollute water bodies and degrade the environment.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/stop-pleading-for-arrested-illegal-miners-zanetor-urges-traditional-religious-leaders/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/stop-pleading-for-arrested-illegal-miners-zanetor-urges-traditional-religious-leaders/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-11-26-epa-reaches-agreement-with-small-scale-miners-on-reclamation",
+      "date": "2026-11-26",
+      "category": "reclamation",
+      "title": "EPA reaches agreement with small-scale miners on reclamation bonds",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Environmental Protection Agency (EPA) says it has reached an agreement with the Small-Scale Mining Association for operators in the sector to provide financial security for the reclamation of lands degraded by their activities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/epa-reaches-agreement-with-small-scale-miners-on-reclamation-bonds/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/epa-reaches-agreement-with-small-scale-miners-on-reclamation-bonds/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-end-galamsey-now-berekum-environmental-protection-and-anti-g"
+    },
+    {
+      "id": "auto-2026-11-26-ghana-to-receive-68m-for-forest-carbon-credits",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "Ghana to receive $68m for forest carbon credits",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "Ghana is set to receive $68 million in carbon credits for 6.5 million tonnes of verified emissions reduction under the REDD+ Environmental Excellence Standard (TREES). The initial $43 million payment is expected to hit the nation’s account by January next year, per expert analysis. The country achieved the feat under the Architecture for REDD+ Transactions (ART), a global initiative that seeks to incentivise governme",
+      "metrics": {},
+      "source": {
+        "name": "Initial $43m revenue expected in Jan.",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-to-receive-68m-for-forest-carbon-credits-initial-43m-revenue-expected-in-jan.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ghana-to-receive-68m-for-forest-carbon-credits-initial-43m-revenue-expected-in-jan.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-us-experts-advocate-source-control-to-tackle-mercury-polluti",
+      "date": "2026-11-26",
+      "category": "water",
+      "title": "US experts advocate source control to tackle mercury pollution",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "US environmental experts have called for stronger measures to prevent mercury from entering water bodies through illegal small-scale mining, warning that efforts to clean up contaminated rivers would yield little benefit if fresh pollution continued upstream. They said controlling the sources of mercury pollution, adopting mercury-free gold processing methods and exploring locally produced soil amendments … The post ",
+      "metrics": {},
+      "source": {
+        "name": "Ghanaian Times",
+        "url": "https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/",
       "via": "rss",
       "verified": false
     },
@@ -348,6 +618,45 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-24-klottey-s-anti-galamsey-walk-reaches-northern-region"
+    },
+    {
+      "id": "auto-2026-11-25-court-remands-13-suspects-accused-of-impersonating-naimos-of",
+      "date": "2026-11-25",
+      "category": "prosecution",
+      "title": "Court remands 13 suspects accused of impersonating NAIMOS officers",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Court remands 13 suspects accused of impersonating NAIMOS officers CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGlHZ3g3Nm5lN21Xb0M0RFNuNTBMdDBTR1RNY21mQjZYT0ZjcEM1RUF5Ym1MdHlZaWdYRHZ6ekxscldBZHBBcTBBMG5SdjZWcUc0RklIbEsxWVZKSGFST3ZacjdhUE5ZajVlVzdRcG9mQlF5SF9zb1BWSE8wU01PVHh3YVBVQnVvb3YwVFVUYk1Edk5KNXh2RDZSM2N2VmpxcFZDdWFtRQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGlHZ3g3Nm5lN21Xb0M0RFNuNTBMdDBTR1RNY21mQjZYT0ZjcEM1RUF5Ym1MdHlZaWdYRHZ6ekxscldBZHBBcTBBMG5SdjZWcUc0RklIbEsxWVZKSGFST3ZacjdhUE5ZajVlVzdRcG9mQlF5SF9zb1BWSE8wU01PVHh3YVBVQnVvb3YwVFVUYk1Edk5KNXh2RDZSM2N2VmpxcFZDdWFtRQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-25-miners-risk-losing-permits-for-encroaching-on-other-concessi",
+      "date": "2026-11-25",
+      "category": "policy",
+      "title": "Miners risk losing permits for encroaching on other concessions, Deputy Lands Minister warns",
+      "place": "Eastern Region",
+      "region": "Eastern",
+      "lat": 6.09,
+      "lon": -0.26,
+      "summary": "The Deputy Minister of Lands and Natural Resources, Dr Alhaji Yusif Sulemana, has strongly called on miners operating under the umbrella of the Responsible Cooperative Mining and Skills Development Programme (RCOMSDEP) to desist from trespassing other concessions they had not been assigned to do so. He said such offenders when caught had the tendency to risk their certificates, permits and all relevant documents avai",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/miners-risk-losing-permits-for-encroaching-on-other-concessions.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/miners-risk-losing-permits-for-encroaching-on-other-concessions.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
     },
     {
       "id": "auto-2026-11-24-purc-calls-for-urgent-action-against-galamsey-pollution-of-t",
@@ -37143,7 +37452,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiP0FVX3lxTE4tSXE1cTBUbmxQeGd1c0pkaVVJSkZLdlU5Mk5OcjNwRVlJV3RWN3k0YUhJaTFOTnBhcWRKYWtvSQ?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-08-11-end-galamsey-now-berekum-environmental-protection-and-anti-g"
     },
     {
       "id": "auto-2026-08-11-berekum-residents-demand-urgent-action-as-galamsey-pollutes-",
