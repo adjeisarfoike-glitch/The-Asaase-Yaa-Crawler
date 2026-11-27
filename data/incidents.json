@@ -1,13 +1,52 @@
 {
-  "updated": "2026-11-26T21:35:08.570Z",
+  "updated": "2026-11-27T08:29:03.741Z",
   "counts": {
-    "total": 2083,
+    "total": 2091,
     "verified": 28,
-    "automated": 2055,
+    "automated": 2063,
     "earliest": "2024-07-01",
-    "latest": "2026-11-26"
+    "latest": "2026-11-27"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-27-ghana-the-murky-world-of-galamsey",
+      "date": "2026-11-27",
+      "category": "forest",
+      "title": "Ghana: The murky world of galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana: The murky world of galamsey New African Magazine",
+      "metrics": {},
+      "source": {
+        "name": "New African Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3hlcWNPT0dmbFFyYkFvbmtpbEFjYy1QVFJTRjFuZFhhTUQyLTk1Z01wT1VpUHg5VnlfdTR0d0lKNmMwTnN5OGJhSlVCWUZSVHYxZ2NyRUNHVzRiSllJejk5b1Iza05lZ0pGbi1uSllYcUNOdUdDcjdhYzhYWjZXWk9fMFNkQUk?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3hlcWNPT0dmbFFyYkFvbmtpbEFjYy1QVFJTRjFuZFhhTUQyLTk1Z01wT1VpUHg5VnlfdTR0d0lKNmMwTnN5OGJhSlVCWUZSVHYxZ2NyRUNHVzRiSllJejk5b1Iza05lZ0pGbi1uSllYcUNOdUdDcjdhYzhYWjZXWk9fMFNkQUk?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-27-small-scale-miners-have-agreed-to-post-reclamation-bonds-epa",
+      "date": "2026-11-27",
+      "category": "reclamation",
+      "title": "Small-scale miners have agreed to post reclamation bonds, EPA says",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Prof Nana Ama Browne Klutse says the Small-Scale Mining Association has accepted bonds as security for repairing land its members damage.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/epa-small-scale-miners-reclamation-bonds"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/epa-small-scale-miners-reclamation-bonds",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-wat-2026-02-24-birim-pilot"
+    },
     {
       "id": "auto-2026-11-26-13-suspected-naimos-impersonators-remanded-into-custody",
       "date": "2026-11-26",
@@ -45,7 +84,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiggFBVV95cUxOVGROQVdNc01abnRLaGpGT0pXY3MyeGVGXzJKS3JOazNoaXVjM2RiemNlQTd1UnMxUUlIa3lvVm9qTFp0Y2FhN2ZLcWFURUNEUEJtVmd1a01NOUZvX0RsbWxtVGVsTlJ6Mkx6STZRWXM1ZUlfd0FRdzhLQW11bHNydHNn?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-27T08:23:49.805Z"
     },
     {
       "id": "auto-2026-11-26-presidency-summons-top-officials-and-security-chiefs-for-dec",
@@ -64,7 +104,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxPUWVoTHJCT2pPMEFqUjlYQ2hEaGFlWkFibW15N3FYODU4Tm1LVXVTYWMydXNxXzdQZEVhZldzcW5xeFltSW1uem5vMzRCOGFZb3A0eVB2dHp6cGxwME9QN19zU3U4b2hWbm81ejFLcU5PbmUyMDRQNWt2eVEyRHgwZTZHVzVGcTF5NVE?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "archivedAt": "2026-11-27T08:24:02.887Z"
     },
     {
       "id": "auto-2026-11-26-eastern-region-galamsey-destroys-praho-community-pra-river-n",
@@ -145,22 +186,21 @@
     {
       "id": "auto-2026-11-26-without-accountability-ghana-will-keep-losing-the-galamsey-f",
       "date": "2026-11-26",
-      "category": "policy",
-      "title": "Without accountability, Ghana will keep losing the galamsey fight",
-      "place": "Accra",
-      "region": "Greater Accra",
-      "lat": 5.6,
-      "lon": -0.19,
-      "summary": "Convener of the Media Coalition Against Illegal Mining, Ken Ashigbey, has called for a paradigm shift in Ghana’s fight against illegal mining, arguing that the country cannot win the battle by directing enforcement efforts from Accra.",
+      "category": "forest",
+      "title": "Without accountability, Ghana will keep losing the galamsey fight - Ken Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Without accountability, Ghana will keep losing the galamsey fight - Ken Ashigbey 3News",
       "metrics": {},
       "source": {
-        "name": "Ken Ashigbey",
-        "url": "https://3news.com/news/without-accountability-ghana-will-keep-losing-galamsey-fight"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2J6bEVqLUpteDEyMjFIclFKTzZRSWtjRzRscHdEY3lncFFycVN6clc0Mmd0Qkt5X3liRWtXdWRqb0NpRkVTd09MMFJXX0hnS0xUbzU5dUpvZldZaXNWOWV1bzREblRkTkhid21GeTU3UXhDVHFsN1BiM1BubnZUaDZFX0pGWWhkczdZ?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/without-accountability-ghana-will-keep-losing-galamsey-fight",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2J6bEVqLUpteDEyMjFIclFKTzZRSWtjRzRscHdEY3lncFFycVN6clc0Mmd0Qkt5X3liRWtXdWRqb0NpRkVTd09MMFJXX0hnS0xUbzU5dUpvZldZaXNWOWV1bzREblRkTkhid21GeTU3UXhDVHFsN1BiM1BubnZUaDZFX0pGWWhkczdZ?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+      "verified": false
     },
     {
       "id": "auto-2026-11-26-mike-ocquaye-jr-questions-sam-george-ablakwa-and-sammy-gyamf",
@@ -257,6 +297,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/stop-pleading-for-arrested-illegal-miners-zanetor-urges-traditional-religious-leaders/",
       "via": "rss",
       "verified": false,
+      "archivedAt": "2026-11-27T08:28:56.570Z",
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
     },
     {
@@ -314,6 +355,84 @@
         "url": "https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/"
       },
       "archiveUrl": "https://web.archive.org/web/2/https://ghanaiantimes.com.gh/us-experts-advocate-source-control-to-tackle-mercury-pollution/",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-mahama-changes-galamsey-approach-summons-top-officials-and-s",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "Mahama changes galamsey approach, summons top officials and security chiefs",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Mahama changes galamsey approach, summons top officials and security chiefs Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTVSSWt6OFhGUmVoMkZsVmVMQ05aZllHd2FVTWIzZjZrc2U5M1JLb2ZiRzM5NjEzekJRdVI1Z05fQ1ZGZ0lzZlp6Mm02R1laTlNJbnNRZ19ZTy1DSlN2ZjBnTHRsN09KSWtWOWdwWGxFc0U0TDV4d01KNnZDZHlRVGxxOU1TeUYxdUl3NkE1TW1UN0F3V24xMzUxWdIBmgFBVV95cUxNZUo0d283bzR3OVVBVndCUXdfd25ucDNwNDFSQXRHOFJEaWhCd2VNUXpyZkpBUWg1bFJKM0FPZU9JWjNPSE56Y29iVkYzb25JZS1mMnNhQmRQTkt1Y1VyWW5yeUZCX2pIb1Q2ZVpTRXA3TDVsMGJhZG5qakU2ZS1mQnc0T1hsNDlabS1DbVNCcjE0Q1Vmb2RKV3JR?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTVSSWt6OFhGUmVoMkZsVmVMQ05aZllHd2FVTWIzZjZrc2U5M1JLb2ZiRzM5NjEzekJRdVI1Z05fQ1ZGZ0lzZlp6Mm02R1laTlNJbnNRZ19ZTy1DSlN2ZjBnTHRsN09KSWtWOWdwWGxFc0U0TDV4d01KNnZDZHlRVGxxOU1TeUYxdUl3NkE1TW1UN0F3V24xMzUxWdIBmgFBVV95cUxNZUo0d283bzR3OVVBVndCUXdfd25ucDNwNDFSQXRHOFJEaWhCd2VNUXpyZkpBUWg1bFJKM0FPZU9JWjNPSE56Y29iVkYzb25JZS1mMnNhQmRQTkt1Y1VyWW5yeUZCX2pIb1Q2ZVpTRXA3TDVsMGJhZG5qakU2ZS1mQnc0T1hsNDlabS1DbVNCcjE0Q1Vmb2RKV3JR?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-26-stop-begging-for-galamsey-suspects-zanetor-tells-chiefs-poli",
+      "date": "2026-11-26",
+      "category": "policy",
+      "title": "Stop begging for galamsey suspects – Zanetor tells Chiefs, politicians",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Stop begging for galamsey suspects – Zanetor tells Chiefs, politicians CitiNewsroom.com",
+      "metrics": {},
+      "source": {
+        "name": "CitiNewsroom.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1NVE8wME9ZLUp6SEJlWHNfRUozWEZTRGcxOTkzNHplYTYxS2o2ZjhtMHBEUlEzQW5LYzdhLW5HdmN6YXZSLWpLOFFiS0xZYTNwbW52cjk0VFZQaExWdUN2MW56MVYxU1NjdXljZTZUUWlpYlA4RlFJdzF1MkRUYjEtOG1Ya3ljYXZoU29JeHdlOHJfLTdkbDBXaE9Vc1NkMGRqQURhUWI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG1NVE8wME9ZLUp6SEJlWHNfRUozWEZTRGcxOTkzNHplYTYxS2o2ZjhtMHBEUlEzQW5LYzdhLW5HdmN6YXZSLWpLOFFiS0xZYTNwbW52cjk0VFZQaExWdUN2MW56MVYxU1NjdXljZTZUUWlpYlA4RlFJdzF1MkRUYjEtOG1Ya3ljYXZoU29JeHdlOHJfLTdkbDBXaE9Vc1NkMGRqQURhUWI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-27-stop-advocating-for-persons-arrested-for-galamsey-to-be-free"
+    },
+    {
+      "id": "auto-2026-11-26-arrest-politicians-financiers-behind-galamsey-united-party-s",
+      "date": "2026-11-26",
+      "category": "arrest",
+      "title": "Arrest politicians, financiers behind galamsey – United Party’s Solomon Owusu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Arrest politicians, financiers behind galamsey – United Party’s Solomon Owusu MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHc2SjZtdnppS1ZicDJrRG5fQ0Q0THJuYjR0ZERpa1hFeTJJd0o5MWpNRzNzZGhtN0hNR1RrblA4WVlZWHRkODE5a0VUNHQtWWR5V1lYTUpQMjFiR0p5SUw4Nk0tMTd3VDhUaXpfRzBSMXBUcVU1VUp4ajNRbHluRDA1Q3Yyakp0NUI0aE9FclAybVhISkp4TUpWTTVpNkZqdEdQeQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHc2SjZtdnppS1ZicDJrRG5fQ0Q0THJuYjR0ZERpa1hFeTJJd0o5MWpNRzNzZGhtN0hNR1RrblA4WVlZWHRkODE5a0VUNHQtWWR5V1lYTUpQMjFiR0p5SUw4Nk0tMTd3VDhUaXpfRzBSMXBUcVU1VUp4ajNRbHluRDA1Q3Yyakp0NUI0aE9FclAybVhISkp4TUpWTTVpNkZqdEdQeQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-26-how-naimos-officers-faced-cutlasses-guns-during-subin-operat",
+      "date": "2026-11-26",
+      "category": "forest",
+      "title": "How NAIMOS officers faced cutlasses, guns during Subin operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "How NAIMOS officers faced cutlasses, guns during Subin operation GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzNQX0R1LUNNYzRoWmRoTzVNR0Z6bUdnMFlRb3BxM0JFbEJNVU5GUzB1V0lHSV9EODNpVW1qY0YtREdxVTlzZDl2T3VBT3Y4Szd6VU9xb19fYUVfVnByd1hOV2hzUW53ZVk0TmZIUGtyaU1zWDlHeEd4UlVuem83X1RsLVhLQngzMGNxZUtwTExrUi1lNjdfMGVHMzFpcElWeE01bXFVNjZITC0zWVNEUnEyMzlQelRmQU9jY2dZWXE2WUpRYm9LbGNEMHE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzNQX0R1LUNNYzRoWmRoTzVNR0Z6bUdnMFlRb3BxM0JFbEJNVU5GUzB1V0lHSV9EODNpVW1qY0YtREdxVTlzZDl2T3VBT3Y4Szd6VU9xb19fYUVfVnByd1hOV2hzUW53ZVk0TmZIUGtyaU1zWDlHeEd4UlVuem83X1RsLVhLQngzMGNxZUtwTExrUi1lNjdfMGVHMzFpcElWeE01bXFVNjZITC0zWVNEUnEyMzlQelRmQU9jY2dZWXE2WUpRYm9LbGNEMHE?oc=5",
       "via": "rss",
       "verified": false
     },
@@ -1885,6 +2004,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-09-11-naimos-targets-galamsey-financiers-facilitators-and-equipmen"
+    },
+    {
+      "id": "auto-2026-11-20-manso-keniago-residents-mourn-six-killed-in-naimos-operation",
+      "date": "2026-11-20",
+      "category": "forest",
+      "title": "Manso Keniago residents mourn six killed in NAIMOS operation",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Manso Keniago residents mourn six killed in NAIMOS operation GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHB0T29tdWVILXk3S04xeGdDN1JyN1dhcHFSQ2VLNjItbmxjV0V6Sks5SmdmdFg0NTlibVZVTklHcGNUbnJXamVacG82NHZZSG1NdFRqWUZCVmlwMC1QdWoyaVFETjJSMjZXeTAxU1UtYy1EQjJ3NHQ5amhBMmhlaVZjTUgyd04tbDJzeUY2aGJMYmNGLVMxR2NjZXVvR29hTWdIeFlzNXNETGFBX2dnMmRkY0IyVXdmRmdZ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHB0T29tdWVILXk3S04xeGdDN1JyN1dhcHFSQ2VLNjItbmxjV0V6Sks5SmdmdFg0NTlibVZVTklHcGNUbnJXamVacG82NHZZSG1NdFRqWUZCVmlwMC1QdWoyaVFETjJSMjZXeTAxU1UtYy1EQjJ3NHQ5amhBMmhlaVZjTUgyd04tbDJzeUY2aGJMYmNGLVMxR2NjZXVvR29hTWdIeFlzNXNETGFBX2dnMmRkY0IyVXdmRmdZ?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-19-ashigbey-urges-state-of-emergency-in-galamsey-areas-and-a-pr",
@@ -5282,6 +5420,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-10-three-young-miners-killed-in-pit-collapse-at-odumase-santens"
+    },
+    {
+      "id": "auto-2026-11-13-galamsey-fight-ndc-aspirant-patrick-atuah-raises-alarm-over-",
+      "date": "2026-11-13",
+      "category": "forest",
+      "title": "Galamsey fight: NDC aspirant Patrick Atuah raises alarm over alleged security agency extortion, operational confusion",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey fight: NDC aspirant Patrick Atuah raises alarm over alleged security agency extortion, operational confusion CediRates",
+      "metrics": {},
+      "source": {
+        "name": "CediRates",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVByMUhRMVltRVozQl9iTG5tLThtRFBzTXlvYXdNd0VrMFd0Snp4bmttaXRackFzUVRYOV9LbGNwbzVwdGlNQXpJWE55SllHT1N0VjNlUVVtdm02OFcwMGhydlI4QS1sR1JFNkxHSjYwUWh4d3BNRjlGdGhEUWo2U0FQY29hZ0N5cGJFcXhkOUNyUWlzdEY2YnduSEhUSnlZeVVlcHdIZmpwU01lUm9wYXZ4TlpzSmwxMTg5LS1vcXFzd1ZDTEZjSEZINjFtUmQ4a1FJdXVidXJmZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVByMUhRMVltRVozQl9iTG5tLThtRFBzTXlvYXdNd0VrMFd0Snp4bmttaXRackFzUVRYOV9LbGNwbzVwdGlNQXpJWE55SllHT1N0VjNlUVVtdm02OFcwMGhydlI4QS1sR1JFNkxHSjYwUWh4d3BNRjlGdGhEUWo2U0FQY29hZ0N5cGJFcXhkOUNyUWlzdEY2YnduSEhUSnlZeVVlcHdIZmpwU01lUm9wYXZ4TlpzSmwxMTg5LS1vcXFzd1ZDTEZjSEZINjFtUmQ4a1FJdXVidXJmZw?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-12-without-naimos-galamsey-would-be-far-worse-paa-kwesi-schando",
@@ -9388,8 +9545,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmF0VHJRN0tRUml6YXFVQXlfSG96WVhWT0xjZ0dhLWUtSGZYa0dkZy1sT0IyRDZZUVlzRzhqQ0lqQm9SbGlUUmI5UU82Ri1ocGtkekNZWXRCT3ZhYkdvRk9KT2hsUFE4dDJkMndWRGtHU2w5R09URzNXLThqR19fb0RkeUVnNW5NN0NIQnlXaXc?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-07-watch-as-fetish-priest-storms-illegal-mining-site-destroys-e"
+      "verified": false
     },
     {
       "id": "auto-2026-11-02-gold-mining-formalisation-must-not-legitimise-environmental-",
@@ -13132,7 +13288,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDd5NUlVWXJNZV9HXzdvaEI4WS01dWJINGw2aHpaWmUwMDdJdmhfdDhLNHRfckNJaXAzNkwyd2RBTjNPTWZzR2JGUWhjWGxmVDkwMWFLLWdMOUZiQ0tHVm81b05SbzQ3ZmpLRGtia2JiT2RfM3RxTmJHVUtMamN6QnBfcUV4U2twbWx2RGJlQzVHTFhJaUtz?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-10-27-stop-advocating-for-persons-arrested-for-galamsey-to-be-free"
     },
     {
       "id": "auto-2026-10-27-galamsey-naimos-seizes-22-chanfang-machines-in-eshaem-operat",
