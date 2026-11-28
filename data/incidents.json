@@ -1,13 +1,173 @@
 {
-  "updated": "2026-11-27T21:21:49.804Z",
+  "updated": "2026-11-28T07:48:58.360Z",
   "counts": {
-    "total": 2111,
+    "total": 2124,
     "verified": 28,
-    "automated": 2083,
+    "automated": 2096,
     "earliest": "2024-07-01",
-    "latest": "2026-11-27"
+    "latest": "2026-11-28"
   },
   "incidents": [
+    {
+      "id": "auto-2026-11-28-live-the-keypoints-new-cedi-notes-galamsey-meeting-and-sanct",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "LIVE: The KeyPoints- New cedi notes, Galamsey meeting and sanctions for premature BECE",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: The KeyPoints- New cedi notes, Galamsey meeting and sanctions for premature BECE 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ajU2OWItMVVzT1VSTUNJVkE2WFByRzg1Q2xCVmN6YVB6N19lZGhqakMyMTREeHZxVk5YWWVNVzF1b3pmOGhreHVtMTVvbHpucEpwbmZ3a0duZ29fbXpjS1lrNVNMbUFVaDFTeTdIUXUwZ2M0emduaVJENUtFVFU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMif0FVX3lxTE16ajU2OWItMVVzT1VSTUNJVkE2WFByRzg1Q2xCVmN6YVB6N19lZGhqakMyMTREeHZxVk5YWWVNVzF1b3pmOGhreHVtMTVvbHpucEpwbmZ3a0duZ29fbXpjS1lrNVNMbUFVaDFTeTdIUXUwZ2M0emduaVJENUtFVFU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-28T07:42:50.939Z",
+      "thread": "t-auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme"
+    },
+    {
+      "id": "auto-2026-11-28-weapons-and-mass-arrests-cannot-defeat-illegal-mining-its-ou",
+      "date": "2026-11-28",
+      "category": "arrest",
+      "title": "Weapons and mass arrests cannot defeat illegal mining, its our conscience - Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Weapons and mass arrests cannot defeat illegal mining, its our conscience - Lands Minister GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObm4zOUtSUW9OZ0p4ZWE1cUxtQ0QzOTlmRnNHQ3BHcV9PcG1Ia0NmZTg5SDAtUjFobjlQTjRUdkxWbDk0TUJqd2g3Mm9ULWJHVFBZUkJHdWxKMXdFMVNZTnBReVkwanplNnFLSDFmRlFFOHlJLXFzSFZUZ2M1OVhzWXBZR1ZGVF8yYmV3S2pIRVBOLUZiYkJvQ25sZnZ4ZWFMa1lEa0JPanNjc0lhSk9JTTkxOV9zY3l5aVB5T3ktckFuT0ZETjdqSnVwVW82Zk9YaW9Rckwyd0g5dmVxNjYw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxObm4zOUtSUW9OZ0p4ZWE1cUxtQ0QzOTlmRnNHQ3BHcV9PcG1Ia0NmZTg5SDAtUjFobjlQTjRUdkxWbDk0TUJqd2g3Mm9ULWJHVFBZUkJHdWxKMXdFMVNZTnBReVkwanplNnFLSDFmRlFFOHlJLXFzSFZUZ2M1OVhzWXBZR1ZGVF8yYmV3S2pIRVBOLUZiYkJvQ25sZnZ4ZWFMa1lEa0JPanNjc0lhSk9JTTkxOV9zY3l5aVB5T3ktckFuT0ZETjdqSnVwVW82Zk9YaW9Rckwyd0g5dmVxNjYw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-28T07:43:21.441Z"
+    },
+    {
+      "id": "auto-2026-11-28-ghana-navy-plans-river-bases-to-keep-galamsey-operators-at-b",
+      "date": "2026-11-28",
+      "category": "water",
+      "title": "Ghana Navy plans river bases to keep galamsey operators at bay",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana Navy plans river bases to keep galamsey operators at bay MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1ZrRGtMUUg1UC1iaEVYSEMtU1ZadVctM0xmLTJXNkkwMlY2aERKelAxNm9Ra05XbWxIVFdmTkVVaWNRTUtzMWdQbnhQa1ZGXzdEMmhIdkg1eVZ0bVBMN2R0NFZuYUdUU09CZFI1X0N1ZkotYi1YS2l2YVNNVTdQcnZ6SVcycFJ4ckV6TGZGdVYwd09WR1E?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1ZrRGtMUUg1UC1iaEVYSEMtU1ZadVctM0xmLTJXNkkwMlY2aERKelAxNm9Ra05XbWxIVFdmTkVVaWNRTUtzMWdQbnhQa1ZGXzdEMmhIdkg1eVZ0bVBMN2R0NFZuYUdUU09CZFI1X0N1ZkotYi1YS2l2YVNNVTdQcnZ6SVcycFJ4ckV6TGZGdVYwd09WR1E?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-ken-ashigbey-urges-mining-industry-to-prioritise-integrity-s",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Ken Ashigbey urges mining industry to prioritise integrity, stewardship and community impact",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for Ghana's mining industry to be judged not only by its production levels and economic contributions but also by its integrity, environmental responsibility, safety standards and impact on mining communities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-prioritise-integrity-stewardship-and-community-impact/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-prioritise-integrity-stewardship-and-community-impact/",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-28T07:44:24.955Z",
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-28-ken-ashigbey-calls-for-mining-industry-excellence-to-become-",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Ken Ashigbey calls for mining industry excellence to become national standard",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called for excellence, professionalism, discipline and commitment to safety in Ghana's mining industry to become standards embraced across the country's economy.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ken-ashigbey-calls-for-mining-industry-excellence-to-become-national-standard/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-28-ken-ashigbey-urges-mining-industry-to-translate-economic-con",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Ken Ashigbey urges mining industry to translate economic contributions into lasting development",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Convenor of the Media Coalition Against Illegal Mining (MCAM), Ing. Kenneth Ashigbey, has called on Ghana's mining industry to ensure its substantial economic contributions translate into sustainable opportunities, improved livelihoods and lasting development for mining communities.",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-translate-economic-contributions-into-lasting-development/"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/ken-ashigbey-urges-mining-industry-to-translate-economic-contributions-into-lasting-development/",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-21-intensify-enforcement-coalition-against-galamsey-to-governme"
+    },
+    {
+      "id": "auto-2026-11-28-ghel-and-the-epa-weigh-hydraulic-dredging-for-rivers-hit-by-",
+      "date": "2026-11-28",
+      "category": "water",
+      "title": "GHEL and the EPA weigh hydraulic dredging for rivers hit by galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The state equipment firm and the EPA have discussed dredgers and amphibious excavators for rivers and land damaged by illegal mining.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/ghel-epa-hydraulic-dredging-galamsey-restoration"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/ghel-epa-hydraulic-dredging-galamsey-restoration",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-kuapa-kokoo-boss-says-galamsey-and-erratic-weather-are-slash",
+      "date": "2026-11-28",
+      "category": "water",
+      "title": "Kuapa Kokoo boss says galamsey and erratic weather are slashing Ghana's cocoa harvest",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kuapa Kokoo MD Emmanuel Kwabena Arthur says illegal mining, polluted rivers and erratic weather have cut cocoa yields at the peak of the harvest.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/business/agribusiness/kuapa-kokoo-galamsey-weather-cocoa-output-fall"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/business/agribusiness/kuapa-kokoo-galamsey-weather-cocoa-output-fall",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-27-galamsey-erratic-weather-cause-unprecedented-decline-in-ghan"
+    },
     {
       "id": "auto-2026-11-27-ghana-the-murky-world-of-galamsey",
       "date": "2026-11-27",
@@ -109,21 +269,21 @@
       "id": "auto-2026-11-27-review-of-galamsey-strategy-does-not-mean-government-has-fai",
       "date": "2026-11-27",
       "category": "policy",
-      "title": "Review of galamsey strategy does not mean government has failed",
+      "title": "Review of galamsey strategy does not mean government has failed - Schandorf",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Media Relations Officer at the Ministry of Lands and Natural Resources, Paa Kwesi Schandorf, has dismissed claims that the government’s decision to review its fight against illegal mining suggests its efforts have failed.",
+      "summary": "Review of galamsey strategy does not mean government has failed - Schandorf 3News",
       "metrics": {},
       "source": {
-        "name": "Schandorf",
-        "url": "https://3news.com/news/review-galamsey-strategy-not-mean-government-failed"
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81d0FneHdFSU0zNk9qdDNKVTJJQWZ4QWxRdGVxU2NpZ1F2anVDdE9tTEgyUWNmV2ZfRjRMUzZFTFhHaXZZS0ZvZUc2blcxeXpFZFpGNnNjNjh4MnpWbWNxSjVqdU5EUDk2ZTdRdHZpTGp2ZmtCdGdoZ0Q1OFBIV00?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/review-galamsey-strategy-not-mean-government-failed",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMif0FVX3lxTE81d0FneHdFSU0zNk9qdDNKVTJJQWZ4QWxRdGVxU2NpZ1F2anVDdE9tTEgyUWNmV2ZfRjRMUzZFTFhHaXZZS0ZvZUc2blcxeXpFZFpGNnNjNjh4MnpWbWNxSjVqdU5EUDk2ZTdRdHZpTGp2ZmtCdGdoZ0Q1OFBIV00?oc=5",
       "via": "rss",
       "verified": false,
-      "thread": "t-pol-2026-07-16-half-year"
+      "archivedAt": "2026-11-28T07:48:34.657Z"
     },
     {
       "id": "auto-2026-11-27-kwame-jantuah-calls-for-arrest-of-chiefs-who-obstruct-galams",
@@ -319,7 +479,8 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://www.myjoyonline.com/galamsey-erratic-weather-cause-unprecedented-decline-in-ghanas-cocoa-production-kuapa-kokoo-md/",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-auto-2026-11-27-galamsey-erratic-weather-cause-unprecedented-decline-in-ghan"
     },
     {
       "id": "auto-2026-11-27-ghel-epa-turn-to-hydraulic-dredging-to-tackle-galamsey-damag",
@@ -440,6 +601,104 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-17-bawku-will-bounce-back-president-mahama"
+    },
+    {
+      "id": "auto-2026-11-27-dr-zanetor-agyeman-rawlings-warns-against-interference-in-ga",
+      "date": "2026-11-27",
+      "category": "arrest",
+      "title": "Dr. Zanetor Agyeman-Rawlings Warns Against Interference in Galamsey Arrests",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Dr. Zanetor Agyeman-Rawlings Warns Against Interference in Galamsey Arrests Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05NEtSaVZEQWVEMExGOVU3NEtmQzhBbUtObnFLSjBfa1JrYWdnYjQ0b2t0NS1faXhHMGhwbVMwRDU3bkV2cDJBM0RRSF9wZlNoTnY0RHc2TWYtUnptNUYzSS1SVdIBXEFVX3lxTFBsX25DWHJYbDV6SUs3VUppS1kzU0luOVdFcklibEZwYlRXc20tSWRhX1dDSHA4XzZDUmtiS3FhVFFyYkl0UzZBYVFrbDRiOVNfcVFuUHg5T3pEM1BY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiY0FVX3lxTE05NEtSaVZEQWVEMExGOVU3NEtmQzhBbUtObnFLSjBfa1JrYWdnYjQ0b2t0NS1faXhHMGhwbVMwRDU3bkV2cDJBM0RRSF9wZlNoTnY0RHc2TWYtUnptNUYzSS1SVdIBXEFVX3lxTFBsX25DWHJYbDV6SUs3VUppS1kzU0luOVdFcklibEZwYlRXc20tSWRhX1dDSHA4XzZDUmtiS3FhVFFyYkl0UzZBYVFrbDRiOVNfcVFuUHg5T3pEM1BY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-18-galamsey-fight-cannot-be-won-in-two-years-sukparu"
+    },
+    {
+      "id": "auto-2026-11-27-nana-jantuah-clashes-with-mireku-duker-npp-failed-to-stop-ga",
+      "date": "2026-11-27",
+      "category": "forest",
+      "title": "Nana Jantuah clashes with Mireku Duker! “NPP failed to stop Galamsey!” 😳 Who is to blame?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Nana Jantuah clashes with Mireku Duker! “NPP failed to stop Galamsey!” 😳 Who is to blame? YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53U0EtSEJuNXVfM0NTSkh4RlhfTHlEblkzNy1GeUl4WjYtYmxwcGZiUkpCR3RGb0pMcGZPaHhKMjlwZw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE53U0EtSEJuNXVfM0NTSkh4RlhfTHlEblkzNy1GeUl4WjYtYmxwcGZiUkpCR3RGb0pMcGZPaHhKMjlwZw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-20-kwame-jantuah-calls-for-a-three-year-ban-on-all-forms-of-min"
+    },
+    {
+      "id": "auto-2026-11-27-dormaahene-influence-on-akwamuhene-is-in-effect-galamsey-chi",
+      "date": "2026-11-27",
+      "category": "forest",
+      "title": "Dormaahene Influence On Akwamuhene Is In Effect😲Galamsey Chiefs😁Can Neva Compare Themselvs 2 Otumfuo",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Dormaahene Influence On Akwamuhene Is In Effect😲Galamsey Chiefs😁Can Neva Compare Themselvs 2 Otumfuo YouTube",
+      "metrics": {},
+      "source": {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KYVRxVWVMRTZYNm5DbzFUUUtqT3JKUjlraktVTUVTSUVteFRLWlVUVkgtR21qZzZOTTV5SFprMTl3dw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KYVRxVWVMRTZYNm5DbzFUUUtqT3JKUjlraktVTUVTSUVteFRLWlVUVkgtR21qZzZOTTV5SFprMTl3dw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-27-zanetor-urges-leaders-to-stop-pleading-for-galamsey-suspects",
+      "date": "2026-11-27",
+      "category": "prosecution",
+      "title": "Zanetor urges leaders to stop pleading for galamsey suspects",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Zanetor urges leaders to stop pleading for galamsey suspects Asaase Radio",
+      "metrics": {},
+      "source": {
+        "name": "Asaase Radio",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWpkWEN2N3BYZE5mUHlCVHE3THJZOUhzZ1lsYzVnVVVWa1dXSG1DWUx6UlduYjJSM3Vjd3IyNEVTdGk2T3FRNU9LdGdPS3VYSVczOXhvSkdGRE51NWhsRncwNFgteFkzS05peGNkc2stWjd6Q1BtdnRVWXNYaEtJazFBb0xiY0NkVksteDdn?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWpkWEN2N3BYZE5mUHlCVHE3THJZOUhzZ1lsYzVnVVVWa1dXSG1DWUx6UlduYjJSM3Vjd3IyNEVTdGk2T3FRNU9LdGdPS3VYSVczOXhvSkdGRE51NWhsRncwNFgteFkzS05peGNkc2stWjd6Q1BtdnRVWXNYaEtJazFBb0xiY0NkVksteDdn?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-27-president-mahama-must-be-ruthless-in-fight-against-galamsey-",
+      "date": "2026-11-27",
+      "category": "forest",
+      "title": "President Mahama must be ruthless in fight against galamsey – Kwame Jantuah",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "President Mahama must be ruthless in fight against galamsey – Kwame Jantuah GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQalpjRUNjVTk4MWhfRFpybjdZeF91YXZ2Q09hOFdLSVZKYTZwOElvRWxkM20wTzEwWXZsZXJBdy1FYTBTb2x5aWJWUHFVWHY5TGVMTXNmak5RRDhacnpKNUtDSUZDZmEtV2FrTHd4UnNWTFpCSUZ1Q3BzLVBDWTg4OUxGZDdMalNBQWZuMVdMNW4zOFlGRG5iRXo3X3g2Wnd5Q1RNTFhfNUxmUmRSOXBRbjk4MUtUZVpMYUpTcXRab1dsYzFjNkY1M2JXUjU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizAFBVV95cUxQalpjRUNjVTk4MWhfRFpybjdZeF91YXZ2Q09hOFdLSVZKYTZwOElvRWxkM20wTzEwWXZsZXJBdy1FYTBTb2x5aWJWUHFVWHY5TGVMTXNmak5RRDhacnpKNUtDSUZDZmEtV2FrTHd4UnNWTFpCSUZ1Q3BzLVBDWTg4OUxGZDdMalNBQWZuMVdMNW4zOFlGRG5iRXo3X3g2Wnd5Q1RNTFhfNUxmUmRSOXBRbjk4MUtUZVpMYUpTcXRab1dsYzFjNkY1M2JXUjU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
     },
     {
       "id": "auto-2026-11-26-13-suspected-naimos-impersonators-remanded-into-custody",
