@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-28T07:48:58.360Z",
+  "updated": "2026-11-28T20:05:36.288Z",
   "counts": {
-    "total": 2124,
+    "total": 2144,
     "verified": 28,
-    "automated": 2096,
+    "automated": 2116,
     "earliest": "2024-07-01",
     "latest": "2026-11-28"
   },
@@ -47,7 +47,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi3wFBVV95cUxObm4zOUtSUW9OZ0p4ZWE1cUxtQ0QzOTlmRnNHQ3BHcV9PcG1Ia0NmZTg5SDAtUjFobjlQTjRUdkxWbDk0TUJqd2g3Mm9ULWJHVFBZUkJHdWxKMXdFMVNZTnBReVkwanplNnFLSDFmRlFFOHlJLXFzSFZUZ2M1OVhzWXBZR1ZGVF8yYmV3S2pIRVBOLUZiYkJvQ25sZnZ4ZWFMa1lEa0JPanNjc0lhSk9JTTkxOV9zY3l5aVB5T3ktckFuT0ZETjdqSnVwVW82Zk9YaW9Rckwyd0g5dmVxNjYw?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-11-28T07:43:21.441Z"
+      "archivedAt": "2026-11-28T07:43:21.441Z",
+      "thread": "t-auto-2026-11-28-weapons-and-mass-arrests-cannot-defeat-illegal-mining-its-ou"
     },
     {
       "id": "auto-2026-11-28-ghana-navy-plans-river-bases-to-keep-galamsey-operators-at-b",
@@ -167,6 +168,360 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-11-27-galamsey-erratic-weather-cause-unprecedented-decline-in-ghan"
+    },
+    {
+      "id": "auto-2026-11-28-playback-the-keypoints-new-cedi-notes-galamsey-meeting-and-s",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "PLAYBACK: The KeyPoints- New cedi notes, Galamsey meeting and sanctions for premature BECE",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "PLAYBACK: The KeyPoints- New cedi notes, Galamsey meeting and sanctions for premature BECE 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ajU2OWItMVVzT1VSTUNJVkE2WFByRzg1Q2xCVmN6YVB6N19lZGhqakMyMTREeHZxVk5YWWVNVzF1b3pmOGhreHVtMTVvbHpucEpwbmZ3a0duZ29fbXpjS1lrNVNMbUFVaDFTeTdIUXUwZ2M0emduaVJENUtFVFU?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMif0FVX3lxTE16ajU2OWItMVVzT1VSTUNJVkE2WFByRzg1Q2xCVmN6YVB6N19lZGhqakMyMTREeHZxVk5YWWVNVzF1b3pmOGhreHVtMTVvbHpucEpwbmZ3a0duZ29fbXpjS1lrNVNMbUFVaDFTeTdIUXUwZ2M0emduaVJENUtFVFU?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-08-live-the-keypoints-ministerial-reshuffle-august-6-crash-reme"
+    },
+    {
+      "id": "auto-2026-11-28-no-galamsey-left-in-any-forest-reserve-interior-ministry-spo",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "No galamsey left in any forest reserve, Interior Ministry spokesman says",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "No galamsey left in any forest reserve, Interior Ministry spokesman says 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pN0tyNng0RHUyMDdHSTJqUmR2a296MUczc1ZPR0R0S2IwSXFzVk9hYzNlY3c3dUpiTkw2aU82UlB3dHBMSFpDU2ZKeEN4VU15U2NtdEJCdVo4UTRBUXdacllIazlHNXdhZFB3RU1YZFZTMTdvNG9WTw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMieEFVX3lxTE9pN0tyNng0RHUyMDdHSTJqUmR2a296MUczc1ZPR0R0S2IwSXFzVk9hYzNlY3c3dUpiTkw2aU82UlB3dHBMSFpDU2ZKeEN4VU15U2NtdEJCdVo4UTRBUXdacllIazlHNXdhZFB3RU1YZFZTMTdvNG9WTw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-galamsey-fight-the-navy-must-be-involved-ashigbey",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Galamsey Fight:The Navy Must Be Involved - Ashigbey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey Fight:The Navy Must Be Involved - Ashigbey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SQUF0WGVtZ2MxYUV0bVpFVjZxdG1qOTJ3Vmx2dllkSGx3ZW5sTkRVQThta3Y4ZHo1dWEwT2pGYk5GQngwZGRFX2lJZXhEWGFQal96dnA0Q0RNcU5QanVB0gFcQVVfeXFMUGZFWFVKaFcxVWs0Z2xSLThqQzR2WndEYzA0R09ZTDROWGVEQVp5dTFuQ3ROcGxHOGx5YXVVaXlRVDhNc0Rhd0NoTUtZbWtSdy1pVklyZW9QRzNnUXY?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SQUF0WGVtZ2MxYUV0bVpFVjZxdG1qOTJ3Vmx2dllkSGx3ZW5sTkRVQThta3Y4ZHo1dWEwT2pGYk5GQngwZGRFX2lJZXhEWGFQal96dnA0Q0RNcU5QanVB0gFcQVVfeXFMUGZFWFVKaFcxVWs0Z2xSLThqQzR2WndEYzA0R09ZTDROWGVEQVp5dTFuQ3ROcGxHOGx5YXVVaXlRVDhNc0Rhd0NoTUtZbWtSdy1pVklyZW9QRzNnUXY?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-07-20-when-the-rivers-heal-child-welfare-and-ghana-s-anti-galamsey"
+    },
+    {
+      "id": "auto-2026-11-28-galamsey-we-know-the-kingpins-why-do-we-pretend-samson-s-tak",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Galamsey: We know the kingpins. Why do we pretend? || Samson's Take",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: We know the kingpins. Why do we pretend? || Samson's Take Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCLWQteERmWExNSUViOU1sRmhtUXlNZE1QN1VnblNTV1BrWG5GNVNxTWlaNnBhd3VkTjlLN19FZXp3SXdPTUpRTnJfeEFPM2pHaFVFazNEeDlnNEh6elNoazhNNlXSAVxBVV95cUxPdDlfVXhLRVFRTGplRTktVVJFdTd6X3VMb2ctQVltZlo5eW85U0drM0k3UEwtd0RWa21jQjBfc01BZVBBcjROaHRyZVpsMjdheURHb3ZkWUNUeURrcw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCLWQteERmWExNSUViOU1sRmhtUXlNZE1QN1VnblNTV1BrWG5GNVNxTWlaNnBhd3VkTjlLN19FZXp3SXdPTUpRTnJfeEFPM2pHaFVFazNEeDlnNEh6elNoazhNNlXSAVxBVV95cUxPdDlfVXhLRVFRTGplRTktVVJFdTd6X3VMb2ctQVltZlo5eW85U0drM0k3UEwtd0RWa21jQjBfc01BZVBBcjROaHRyZVpsMjdheURHb3ZkWUNUeURrcw?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-galamsey-what-happened-to-the-constant-update-on-deformed-ba",
+      "date": "2026-11-28",
+      "category": "water",
+      "title": "Galamsey: What happened to the constant update on deformed babies, water turbidity levels?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "He said the public also needed updated information on the health effects of illegal mining, including reports of stillbirths and children born with disabilities.",
+      "metrics": {},
+      "source": {
+        "name": "Kwasi Kwarteng quizzes",
+        "url": "https://3news.com/news/galamsey-what-happened-constant-update-deformed-babies-water"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/galamsey-what-happened-constant-update-deformed-babies-water",
+      "via": "rss",
+      "verified": false,
+      "archivedAt": "2026-11-28T20:02:57.942Z"
+    },
+    {
+      "id": "auto-2026-11-28-live-the-key-points-bog-s-new-banknotes-gov-t-s-high-level-g",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "LIVE: The Key Points - BoG’s new banknotes, gov't's high-level galamsey meeting || 28-11-2026",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "LIVE: The Key Points - BoG’s new banknotes, gov't's high-level galamsey meeting || 28-11-2026 Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BM0xtbVV5dXpZa3pGellaWl9jUUhES092ZlpveXFFMjU3SVBGTEt4OG1VNnpCN2k3WXJWU0dzcjhqY09aZ2t4ako3a3ZReXpuX0p6OGtlS25TTEtZR3BZ0gFcQVVfeXFMT20teHc0QW50MnUyOWdOV1E4bGRzc3dUUjc3c2pOYUZFUklUT1ZkMU02cGozd1R4WDlfMFM2Rl9PRGRLOU1EMVlpdTl6UXEydjE3MDItQmZfVGhmSS0?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BM0xtbVV5dXpZa3pGellaWl9jUUhES092ZlpveXFFMjU3SVBGTEt4OG1VNnpCN2k3WXJWU0dzcjhqY09aZ2t4ako3a3ZReXpuX0p6OGtlS25TTEtZR3BZ0gFcQVVfeXFMT20teHc0QW50MnUyOWdOV1E4bGRzc3dUUjc3c2pOYUZFUklUT1ZkMU02cGozd1R4WDlfMFM2Rl9PRGRLOU1EMVlpdTl6UXEydjE3MDItQmZfVGhmSS0?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-abraham-amaliba-calls-for-national-security-to-lead-galamsey",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Abraham Amaliba Calls for National Security to Lead Galamsey Fight",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Abraham Amaliba Calls for National Security to Lead Galamsey Fight Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MUFROEZwMy1aWlRJTDRaRGNYS1hlYXhWNkM0M1dEV1BIeXBXOUx4Tk9lQ3hLTXFINTZQOUl1SjBlNGxKa0c3TjJMU3ppQWg5THF2WmNrSHlnajJPbGRz0gFcQVVfeXFMTW5BOS1GZENOblA2dnNwUjdtcng3aFB4S2YtWmxoWmJ4ZC1CWE4xN1pxZXNfcWVDVllQMTNqWm9ueHVNYXB0RU5IWjV5cEVaU1o4TVJmQi1hMG9ra1Q?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE10MUFROEZwMy1aWlRJTDRaRGNYS1hlYXhWNkM0M1dEV1BIeXBXOUx4Tk9lQ3hLTXFINTZQOUl1SjBlNGxKa0c3TjJMU3ppQWg5THF2WmNrSHlnajJPbGRz0gFcQVVfeXFMTW5BOS1GZENOblA2dnNwUjdtcng3aFB4S2YtWmxoWmJ4ZC1CWE4xN1pxZXNfcWVDVllQMTNqWm9ueHVNYXB0RU5IWjV5cEVaU1o4TVJmQi1hMG9ra1Q?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-28-kwasi-kwarteng-questions-progress-in-ghana-s-fight-against-g",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Kwasi Kwarteng Questions Progress in Ghana’s Fight Against Galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Kwasi Kwarteng Questions Progress in Ghana’s Fight Against Galamsey Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mZkJfdVh4NlZ4QkgxQnB6ZW1yYkhPZmk1dW91NFZLU01BRWlURWVmRlZ4c3lNQ2JMVE0wZXdBZFJHLW00cy1Jc3ltbEd0WjRJeWQtU1ZIM2wzWkQ1LUlz0gFcQVVfeXFMTnZLYkVmN3hCdGJJYS0tWDB1YkdaN0tTTF9aNlF5eWd2ZzBrWWtmaDdvZ1NyLWozR1NJTWF4NFFST21rYURPN1p4d2lvTm0wV05tOE9NNWJYS1pOakQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mZkJfdVh4NlZ4QkgxQnB6ZW1yYkhPZmk1dW91NFZLU01BRWlURWVmRlZ4c3lNQ2JMVE0wZXdBZFJHLW00cy1Jc3ltbEd0WjRJeWQtU1ZIM2wzWkQ1LUlz0gFcQVVfeXFMTnZLYkVmN3hCdGJJYS0tWDB1YkdaN0tTTF9aNlF5eWd2ZzBrWWtmaDdvZ1NyLWozR1NJTWF4NFFST21rYURPN1p4d2lvTm0wV05tOE9NNWJYS1pOakQ?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-03-compare-galamsey-and-road-accidents-under-both-govts-kwasi-k"
+    },
+    {
+      "id": "auto-2026-11-28-galamsey-we-are-relying-too-much-on-the-armed-forces-martin-",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Galamsey: We Are Relying Too Much on the Armed Forces - Martin Kpebu",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Galamsey: We Are Relying Too Much on the Armed Forces - Martin Kpebu Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZ1NVMUFzWldhSmpTQzlCNVIyV3dURS1FLUI0THVOcnp4MG9rMlo0LTQ3SzFVOFAzaHhuNmxOYnNlaTdMcEtBRjl5WHFsWkF3a1FENVRTeVRtUWo2ek0w0gFcQVVfeXFMTlkwRjRlOWFfbFJFdF9mQTZNcTFtT1ZxVEN4NXM1QlJsUWwzYXRtd2pmMktRcE5pVjBHSWRPYjBUenRLanpCVmg4elpHWjBwRWhHSDVqc1ZtS1NKOEI?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZ1NVMUFzWldhSmpTQzlCNVIyV3dURS1FLUI0THVOcnp4MG9rMlo0LTQ3SzFVOFAzaHhuNmxOYnNlaTdMcEtBRjl5WHFsWkF3a1FENVRTeVRtUWo2ek0w0gFcQVVfeXFMTlkwRjRlOWFfbFJFdF9mQTZNcTFtT1ZxVEN4NXM1QlJsUWwzYXRtd2pmMktRcE5pVjBHSWRPYjBUenRLanpCVmg4elpHWjBwRWhHSDVqc1ZtS1NKOEI?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-10-13-land-reclamation-soldiers-restore-50-hectares-of-tano-nimri-"
+    },
+    {
+      "id": "auto-2026-11-28-ghana-has-the-resources-to-fight-galamsey-what-is-missing-is",
+      "date": "2026-11-28",
+      "category": "policy",
+      "title": "Ghana has the resources to fight galamsey, what is missing is political will – Kofi Bentil",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Ghana has the resources to fight galamsey, what is missing is political will – Kofi Bentil 3News",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWJOaFItZERwMWo4dzBmNURTSDBlSmt0YUg3ZUh3WTlQLVhXVTMtWEVwOFN0U2tCTEZZUVdfdm9VTFB6Ny1WdWlXMzB5SHhJeVVBSENYM1p1ck9PVm9XRlh2MFplMVdYTnF4MHktSEZOS0FyQmVIQUx5WWhwUERzYzMzQ1ZxYXlH?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWJOaFItZERwMWo4dzBmNURTSDBlSmt0YUg3ZUh3WTlQLVhXVTMtWEVwOFN0U2tCTEZZUVdfdm9VTFB6Ny1WdWlXMzB5SHhJeVVBSENYM1p1ck9PVm9XRlh2MFplMVdYTnF4MHktSEZOS0FyQmVIQUx5WWhwUERzYzMzQ1ZxYXlH?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
+    },
+    {
+      "id": "auto-2026-11-28-meeting-on-galamsey-armed-foreigners-using-cyanide-for-galam",
+      "date": "2026-11-28",
+      "category": "water",
+      "title": "Meeting on Galamsey: Armed Foreigners Using Cyanide for Galamsey.- Kofi Bentil",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Meeting on Galamsey: Armed Foreigners Using Cyanide for Galamsey.- Kofi Bentil Modern Ghana",
+      "metrics": {},
+      "source": {
+        "name": "Modern Ghana",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82VEFOeTVQdnhTdDgyenV6SklBV1ZfT18yX3ZpcGRsU0dsWTNreW42cktUWnJrUjF1VlBmdkg4UDZQQ2Z5UGp5T3U5b3ljY296bVVNWXd4MDhfd0NhbjBv0gFcQVVfeXFMUGY0ZG5pc2VOR0tHU0l2dHBrV3pVVWc1TmhFRWpmcVNxNG5QXzd0ZTlYOUxaSWtSdjgyZWJKMXNoakJDZjFYWnJ4OWRxdW5GSExYZEJudmxvYlM5YTA?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiX0FVX3lxTE82VEFOeTVQdnhTdDgyenV6SklBV1ZfT18yX3ZpcGRsU0dsWTNreW42cktUWnJrUjF1VlBmdkg4UDZQQ2Z5UGp5T3U5b3ljY296bVVNWXd4MDhfd0NhbjBv0gFcQVVfeXFMUGY0ZG5pc2VOR0tHU0l2dHBrV3pVVWc1TmhFRWpmcVNxNG5QXzd0ZTlYOUxaSWtSdjgyZWJKMXNoakJDZjFYWnJ4OWRxdW5GSExYZEJudmxvYlM5YTA?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-22-galamsey-akufo-addo-s-gov-t-tried-and-failed-ndc-gov-t-is-no"
+    },
+    {
+      "id": "auto-2026-11-28-buah-says-weapons-and-arrests-alone-cannot-stop-galamsey",
+      "date": "2026-11-28",
+      "category": "arrest",
+      "title": "Buah says weapons and arrests alone cannot stop galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Buah says weapons and arrests alone cannot stop galamsey NewsGhana",
+      "metrics": {},
+      "source": {
+        "name": "NewsGhana",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnI2NGFTWGw3S0o5U2gzSjhXdnRfN3BGejJZRWQwb19CT2k5dDQ2M0ZRZ2RJU25XakF1Y1hYX25BX0VUdmptUzZRRmgwRWhKQklETHc4WnZJOFotZ2U0eE1HeHlnMk1wOGJ1NE5VWEJCQ1FNMjU5MkFJTFpHc0Y1YXlDaGxrTFhqTlE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiigFBVV95cUxNNnI2NGFTWGw3S0o5U2gzSjhXdnRfN3BGejJZRWQwb19CT2k5dDQ2M0ZRZ2RJU25XakF1Y1hYX25BX0VUdmptUzZRRmgwRWhKQklETHc4WnZJOFotZ2U0eE1HeHlnMk1wOGJ1NE5VWEJCQ1FNMjU5MkFJTFpHc0Y1YXlDaGxrTFhqTlE?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-it-s-a-disgrace-why-can-t-soldiers-deal-with-galamsey-abraha",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "It’s a disgrace! Why can’t soldiers deal with galamsey? – Abraham Amaliba fires",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "It’s a disgrace! Why can’t soldiers deal with galamsey? – Abraham Amaliba fires GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGdYUlltd0NuNHlucHVfM3FRYkFKYUpLVG4xR2lybUJRM3JlU3Z4bkR3eThuTFJEandoNFlfT3d2UEVBOFpLNmZKTEJzUVQ0dVpOUy1yZ093R3Njb25CRDV0emhLVVJTTDZ2aTJXdE43d3dCVWR4bTdKLWotUERXWms1YWhyWEwybjQ0NFRqeXpXMVp5N21fci13U3VBS0N2UkQ4ZmtCRHNWZHJMNDlqdmpVYUJUNm1RTFdaa2s1dmNINHhIdHVNR0NybWRpMUE?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGdYUlltd0NuNHlucHVfM3FRYkFKYUpLVG4xR2lybUJRM3JlU3Z4bkR3eThuTFJEandoNFlfT3d2UEVBOFpLNmZKTEJzUVQ0dVpOUy1yZ093R3Njb25CRDV0emhLVVJTTDZ2aTJXdE43d3dCVWR4bTdKLWotUERXWms1YWhyWEwybjQ0NFRqeXpXMVp5N21fci13U3VBS0N2UkQ4ZmtCRHNWZHJMNDlqdmpVYUJUNm1RTFdaa2s1dmNINHhIdHVNR0NybWRpMUE?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-19-methodist-church-ghana-calls-for-stronger-action-on-environm"
+    },
+    {
+      "id": "auto-2026-11-28-samson-s-take-galamsey-we-know-the-kingpins-so-why-pretend",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Samson’s Take: Galamsey – we know the kingpins, so why pretend?",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Samson’s Take: Galamsey – we know the kingpins, so why pretend? MyJoyOnline",
+      "metrics": {},
+      "source": {
+        "name": "MyJoyOnline",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEE2aDI1VWVZUjlNTUpySXJBUFRxNXRRS3dGNGlNUEhLdURsTjJqYm45Q01wakMtVTlUelhnbDlEUHBIUGh1eHlIRURKbXMwazd5X3E3Ni1YX0RxNXhfSjNCZEsxcXhaeVh4TVVnQjY0U1dyRGxWcENNVzRpbTRLcVVyd1I3ZHM4V2xvZEZZSQ?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMijwFBVV95cUxOTEE2aDI1VWVZUjlNTUpySXJBUFRxNXRRS3dGNGlNUEhLdURsTjJqYm45Q01wakMtVTlUelhnbDlEUHBIUGh1eHlIRURKbXMwazd5X3E3Ni1YX0RxNXhfSjNCZEsxcXhaeVh4TVVnQjY0U1dyRGxWcENNVzRpbTRLcVVyd1I3ZHM4V2xvZEZZSQ?oc=5",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-weapons-mass-arrests-cannot-end-illegal-mining-lands-ministe",
+      "date": "2026-11-28",
+      "category": "arrest",
+      "title": "'Weapons, mass arrests cannot end illegal mining' – Lands Minister",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "'Weapons, mass arrests cannot end illegal mining' – Lands Minister GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQei1DTlMya2FRRlZrSzVvcXJRREVESjVkT2dlQmU0WjFuODJBdHI2SDRTSkhTd0dFVEpORE5WSk9EcDM1VzJ1MEhZeVZIODl6VVl5em9pRnJXRnlMV2tERm9ZbVQtWHZOWXRMdENoZGNqWUQxNVg1NGhLZ29NSGVxcUtiNjhETmFRb21xNGdxWG1OM0ZUZkVjdW96WGM3bEt5QVhWaGRqUFRJTEpfTV9MV05hUHdIM1J3?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQei1DTlMya2FRRlZrSzVvcXJRREVESjVkT2dlQmU0WjFuODJBdHI2SDRTSkhTd0dFVEpORE5WSk9EcDM1VzJ1MEhZeVZIODl6VVl5em9pRnJXRnlMV2tERm9ZbVQtWHZOWXRMdENoZGNqWUQxNVg1NGhLZ29NSGVxcUtiNjhETmFRb21xNGdxWG1OM0ZUZkVjdW96WGM3bEt5QVhWaGRqUFRJTEpfTV9MV05hUHdIM1J3?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-11-28-weapons-and-mass-arrests-cannot-defeat-illegal-mining-its-ou"
+    },
+    {
+      "id": "auto-2026-11-28-ministry-urges-stronger-reporting-on-child-labour",
+      "date": "2026-11-28",
+      "category": "policy",
+      "title": "Ministry urges stronger reporting on child labour",
+      "place": "Accra",
+      "region": "Greater Accra",
+      "lat": 5.6,
+      "lon": -0.19,
+      "summary": "The Ministry of Labour, Jobs and Employment has urged institutions and development partners involved in the fight against child labour to strengthen reporting and data-sharing to improve national coordination, policy formulation and accountability. It said accurate and timely reporting was essential to identifying vulnerable communities, directing resources and assessing the effectiveness of interventions to eliminat",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ministry-urges-stronger-reporting-on-child-labour.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-ministry-urges-stronger-reporting-on-child-labour.html",
+      "via": "rss",
+      "verified": false
+    },
+    {
+      "id": "auto-2026-11-28-naro-s-abandoned-e-block-a-dream-of-secondary-education-fadi",
+      "date": "2026-11-28",
+      "category": "policy",
+      "title": "Naro’s abandoned E-Block; a dream of secondary education fading into the bush",
+      "place": "Upper West Region",
+      "region": "Upper West",
+      "lat": 10.06,
+      "lon": -2.5,
+      "summary": "For nearly a decade, the dream of having a senior high school in Naro, a community in the Naro Electoral Area in the Nadowli-Kaleo District in the Upper West Region, has remained unfulfilled, leaving residents concerned about the educational prospects of their children. What was expected to become a centre of learning and opportunity has instead been abandoned to the elements, with weeds and bushes gradually taking o",
+      "metrics": {},
+      "source": {
+        "name": "Graphic Online",
+        "url": "https://www.graphic.com.gh/news/general-news/ghana-news-naros-abandoned-e-block-a-dream-of-secondary-education-fading-into-the-bush.html"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/general-news/ghana-news-naros-abandoned-e-block-a-dream-of-secondary-education-fading-into-the-bush.html",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-08-atwima-mponua-district-wants-government-to-intensify-galamse"
+    },
+    {
+      "id": "auto-2026-11-28-labour-ministry-wants-stronger-child-labour-reporting-beyond",
+      "date": "2026-11-28",
+      "category": "forest",
+      "title": "Labour Ministry wants stronger child labour reporting beyond cocoa farms",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "The Child Labour Unit says 93.6 per cent of recorded cases come from cocoa, leaving illegal mining and domestic exploitation under-reported.",
+      "metrics": {},
+      "source": {
+        "name": "3News",
+        "url": "https://3news.com/news/labour-ministry-child-labour-reporting"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://3news.com/news/labour-ministry-child-labour-reporting",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-09-28-ghana-child-labour-monitoring-system-introduced-to-strengthe"
     },
     {
       "id": "auto-2026-11-27-ghana-the-murky-world-of-galamsey",
@@ -699,6 +1054,26 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-07-sack-mmdces-in-galamsey-areas-now-p-v-jantuah-tells-mahama"
+    },
+    {
+      "id": "auto-2026-11-27-pra-river-under-attack-galamsey-threatens-lifeline-of-assin-",
+      "date": "2026-11-27",
+      "category": "water",
+      "title": "Pra River Under Attack: Galamsey Threatens Lifeline Of Assin Communities",
+      "place": "Pra River",
+      "region": "Central",
+      "lat": 5.6,
+      "lon": -1.45,
+      "summary": "Pra River Under Attack: Galamsey Threatens Lifeline Of Assin Communities GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDFSZXFPUVd0di1iNDd4dEZiZnVSbUdwTl92RThldDNmUVdpblVIX2RZOXJSYzZIdEJxYXExNWxBdmhodXhRXzJMZzRNb2hSeGJXdmxodlJPQmg3d202MmluSy1TQVIxTkd3Mk9acXBtendLWWdtS2hkMXgwVVJmR0VFTTR6dEhSNmEyNEN5Skh3TjBKT051RW0wTXdvVERjc2lsaTBWendKdUtLOW1YSlg1ZTFhbFBtS1Bic1Nobw?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDFSZXFPUVd0di1iNDd4dEZiZnVSbUdwTl92RThldDNmUVdpblVIX2RZOXJSYzZIdEJxYXExNWxBdmhodXhRXzJMZzRNb2hSeGJXdmxodlJPQmg3d202MmluSy1TQVIxTkd3Mk9acXBtendLWWdtS2hkMXgwVVJmR0VFTTR6dEhSNmEyNEN5Skh3TjBKT051RW0wTXdvVERjc2lsaTBWendKdUtLOW1YSlg1ZTFhbFBtS1Bic1Nobw?oc=5",
+      "via": "rss",
+      "verified": false,
+      "thread": "t-auto-2026-08-30-mahama-charges-new-environment-minister-to-treat-galamsey-as"
     },
     {
       "id": "auto-2026-11-26-13-suspected-naimos-impersonators-remanded-into-custody",
@@ -1429,6 +1804,25 @@
       "via": "rss",
       "verified": false,
       "thread": "t-auto-2026-08-11-naimos-arrests-40-illegal-miners-seizes-mining-equipment-acr"
+    },
+    {
+      "id": "auto-2026-11-25-residents-dismiss-claims-of-pastor-smilla-siedu-s-involvemen",
+      "date": "2026-11-25",
+      "category": "forest",
+      "title": "Residents dismiss claims of Pastor Smilla Siedu's involvement in galamsey",
+      "place": null,
+      "region": "Unplaced",
+      "lat": null,
+      "lon": null,
+      "summary": "Residents dismiss claims of Pastor Smilla Siedu's involvement in galamsey GhanaWeb",
+      "metrics": {},
+      "source": {
+        "name": "GhanaWeb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXNFZmlvSENfT1BCRld6ZzhoU3ZCZU1ncG9OSmtoZHQ0eTRFUV9UeWNoYnZHQnZ5Q2hEa0ZzTDZaQ3NBUjZ2c3NHWUYxamhlOWw0QmMtLTZlMGxQY1pHamk0aVNRQXNtcmhuNlRmaEIyMXpHeXItZVB5V2hQcG1qQ05pNGtCWEFNa2hPMHRQOXFuUzF6NVc0cVZSejU5N2VUWVMyUmdJaHJwWXJDaDU3UVVJOFlJbEJVMy1BMDRPVGdyNlNlOUJlbg?oc=5"
+      },
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXNFZmlvSENfT1BCRld6ZzhoU3ZCZU1ncG9OSmtoZHQ0eTRFUV9UeWNoYnZHQnZ5Q2hEa0ZzTDZaQ3NBUjZ2c3NHWUYxamhlOWw0QmMtLTZlMGxQY1pHamk0aVNRQXNtcmhuNlRmaEIyMXpHeXItZVB5V2hQcG1qQ05pNGtCWEFNa2hPMHRQOXFuUzF6NVc0cVZSejU5N2VUWVMyUmdJaHJwWXJDaDU3UVVJOFlJbEJVMy1BMDRPVGdyNlNlOUJlbg?oc=5",
+      "via": "rss",
+      "verified": false
     },
     {
       "id": "auto-2026-11-24-purc-calls-for-urgent-action-against-galamsey-pollution-of-t",
@@ -4889,21 +5283,22 @@
     {
       "id": "auto-2026-11-15-naimos-and-their-operations-must-be-reviewed-before-they-sen",
       "date": "2026-11-15",
-      "category": "forest",
-      "title": "'NAIMOS and their operations must be reviewed before they send NDC back to opposition'",
+      "category": "policy",
+      "title": "'NAIMOS and their operations must be reviewed before they send NDC back to opposition' - Ashanti Regional Minister Amoakohene",
       "place": null,
       "region": "Unplaced",
       "lat": null,
       "lon": null,
-      "summary": "Read More &hellip;",
+      "summary": "'NAIMOS and their operations must be reviewed before they send NDC back to opposition' - Ashanti Regional Minister Amoakohene Graphic Online",
       "metrics": {},
       "source": {
-        "name": "Ashanti Regional Minister Amoakohene",
-        "url": "https://www.graphic.com.gh/news/politics/naimos-and-their-operations-must-be-reviewed-before-they-send-ndc-back-to-opposition-ashanti-regional-minister-amoakohene.html"
+        "name": "Graphic Online",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeENZNlFiSEpRWjVEd1ZsekdsOUs4UmtLS2pPZ1ZURThDM2lBbkV6cVBzM2ZiSE5NbVJZQjBrUF8yYzFLSzd6THJKU0pkQVZvc1hzTmt6MXZxektMSVNTdDhqRjhPWmt2RHRSVFhCWDNsZmRnNTdvYy14dWkwcEt2U1Rxb1N4cnhqRF9aZ3pTVVVGaEVZc3dMU09jTW1seWdub1QxRC1HTnZ2SHNoRkRSVWVzLVpFX3Z3Vy02NmExZ2NQN09QWlo4UHJuZmpWNkMtelFHQVFYamlNRXJFcjd2a3FuR2h0SkQyY3VVZkVBd21pd1ZDMi1YOHh0dw?oc=5"
       },
-      "archiveUrl": "https://web.archive.org/web/2/https://www.graphic.com.gh/news/politics/naimos-and-their-operations-must-be-reviewed-before-they-send-ndc-back-to-opposition-ashanti-regional-minister-amoakohene.html",
+      "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeENZNlFiSEpRWjVEd1ZsekdsOUs4UmtLS2pPZ1ZURThDM2lBbkV6cVBzM2ZiSE5NbVJZQjBrUF8yYzFLSzd6THJKU0pkQVZvc1hzTmt6MXZxektMSVNTdDhqRjhPWmt2RHRSVFhCWDNsZmRnNTdvYy14dWkwcEt2U1Rxb1N4cnhqRF9aZ3pTVVVGaEVZc3dMU09jTW1seWdub1QxRC1HTnZ2SHNoRkRSVWVzLVpFX3Z3Vy02NmExZ2NQN09QWlo4UHJuZmpWNkMtelFHQVFYamlNRXJFcjd2a3FuR2h0SkQyY3VVZkVBd21pd1ZDMi1YOHh0dw?oc=5",
       "via": "rss",
-      "verified": false
+      "verified": false,
+      "thread": "t-arr-2026-07-09-abesewa"
     },
     {
       "id": "auto-2026-11-15-manso-keniago-deaths-amoakohene-calls-for-review-of-naimos-o",
@@ -13682,8 +14077,7 @@
       },
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiZEFVX3lxTE02OWQ5bFNyaWJqSldEaWF5czlSQnpVWkVtVmtoUlk1X2lCUnQxa0QtZkJyUkpSRkpYdlEzOWc3ZmRSNVNvWllqd2t3anlBY1p3MVEzS09hOFlieUNtU1JHaDUtMnbSAVxBVV95cUxNdWZhMm5EQzcxZEJtY0JQaHVka0hWeUpsc0RkcFNNNnE2amtDclFqeW55d1d3Y0pneEpfYkZieG5Ic3gzal8yaGtYYjhVY2ZJNnFwaTR2bjRMUFl6aw?oc=5",
       "via": "rss",
-      "verified": false,
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "verified": false
     },
     {
       "id": "auto-2026-10-28-galamsey-fight-naimos-arrests-two-intercepts-truck-with-43-c",
@@ -23767,8 +24161,7 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2J6ZHhvcXNZa016ci1ZWFJBelJmdE5ESUZneWlqOXd0MmRPWnJlcXRCMTJWLXJrbEotV2FJRTF6U0ZzSkg5UXhnQzM1UTMwN2x1ZndvYW5XaE9zQWM4R2VaOUprLUwtaE1vNnBBb2QybVhNUDR1ZGhibENLajlxMVE3OVJEbUk3Yy11OTU2ODYwR2FGbjdv0gGWAUFVX3lxTE82elBndjZEMHU5cEJ6T2hlRWZkVng1bFFzelNlZzNCRkNVWUYwS3lEUHAxOTN1akdpVkI5Z2VLeUhRbk51MElSZHJ2LV8zbDlDdTVJenRyZ2xfaF9vcVZESU1kN19BXy0zX2U1X0R4TFUtQ3hfR3RleDN1TEZmV0pvbVhuOEpRdmpGTXR2akdHQVBodUs2QQ?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-29T05:41:31.699Z",
-      "thread": "t-auto-2026-09-28-communities-must-help-sustain-gains-in-illegal-mining-fight-"
+      "archivedAt": "2026-09-29T05:41:31.699Z"
     },
     {
       "id": "auto-2026-09-28-demonstrate-stronger-integrity-accountability-to-achieve-you",
@@ -29627,7 +30020,8 @@
       "archiveUrl": "https://web.archive.org/web/2/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmhLUHA3TDd0aVJRSEJtd1ZYTEx0TGhzVGtMOE1MZFJVMENUN1UzbU9KMm10TGg2dWl6LWRFZmJJSDR0WTZKcEd3NkthTXdLQkJiS25hVkpjUHlHaHZxNHlOWWlVMVBOc1BOTFFLczFPMk5PTnY5UjkzTXhWZ0ZBbjAzV2NiRm12aC1VQXZHQk4wc3RaNnFLRER1d1dWUGJ5ZFl1dTQyaXU5QUU?oc=5",
       "via": "rss",
       "verified": false,
-      "archivedAt": "2026-09-04T04:30:07.039Z"
+      "archivedAt": "2026-09-04T04:30:07.039Z",
+      "thread": "t-auto-2026-09-03-compare-galamsey-and-road-accidents-under-both-govts-kwasi-k"
     },
     {
       "id": "auto-2026-09-03-gif-demands-swift-prosecution-of-attacks-on-forestry-commiss",
